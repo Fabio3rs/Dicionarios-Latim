@@ -1,0 +1,20 @@
+
+# Python
+__pycache__/
+*.pyc
+
+# SQLite byproducts
+*.db-shm
+*.db-wal
+*.sqlite-shm
+*.sqlite-wal
+*~
+
+# Virtualenvs
+.venv/
+env/
+venv/
+
+# OS cruft
+.DS_Store
+Thumbs.db
