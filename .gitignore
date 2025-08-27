@@ -18,3 +18,19 @@ venv/
 # OS cruft
 .DS_Store
 Thumbs.db
+
+# Development and testing
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.tox/
+
+# Environment files
+.env
+.env.local
+
+# Large data files (optional - uncomment if needed)
+# *.pdf
+# *.db
+# *.sqlite
