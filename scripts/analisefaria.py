@@ -703,12 +703,8 @@ def extrair_lema(linha):
     return None
 
 
-from buscadicionarios import (
-    verbetes_lista_formatado,
-    verbetes_lista_todos_dicionarios,
-    busca_todos_os_lemas,
-    busca_lemas_com_todos_campos,
-)
+# Note: buscadicionarios functions are not used (commented out in code)
+# If needed, these can be implemented as separate utilities
 
 ABREV_PATTERN = re.compile(
     r"(?<!\w)(?:" + "|".join(map(re.escape, ABREVS)) + r")(?!\w)", flags=re.IGNORECASE

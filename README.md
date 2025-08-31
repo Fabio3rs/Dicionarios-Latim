@@ -123,6 +123,80 @@ PDF original
 
 ---
 
+## 🚀 Instalação e Configuração
+
+### Pré-requisitos
+
+* Python 3.8+ (testado com Python 3.12)
+* Chave da API OpenAI (para OCR e processamento)
+* Poppler (para pdf2image):
+  * **Ubuntu/Debian:** `sudo apt-get install poppler-utils`
+  * **macOS:** `brew install poppler`
+  * **Windows:** Baixe o binário do Poppler e adicione ao PATH
+
+### Instalação
+
+1. **Clone o repositório:**
+   ```bash
+   git clone https://github.com/Fabio3rs/Dicionarios-Latim.git
+   cd Dicionarios-Latim
+   ```
+
+2. **Instale as dependências:**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Configure a chave da API OpenAI:**
+   ```bash
+   export OPENAI_API_KEY="sua_chave_aqui"
+   ```
+   
+   Ou crie um arquivo `.env` no diretório raiz:
+   ```
+   OPENAI_API_KEY=sua_chave_aqui
+   ```
+
+### Uso Básico
+
+**Para consultar o lexicon existente:**
+```bash
+python scripts/query_lexicon.py --db resultados/lexicon.db --query "puella"
+```
+
+**Para processar um novo PDF (requer configuração avançada):**
+```bash
+# 1. OCR do PDF
+python scripts/openai_test.py
+
+# 2. Análise e segmentação
+python scripts/analisefaria.py
+
+# 3. Normalização
+python scripts/openai_parse_mt.py
+
+# 4. Consolidação final
+python scripts/normaliza_parse_check.py
+
+# 5. Criação do banco de dados
+python scripts/ingest_normalized.py --json normalized_results.json --db lexicon.db --schema schema_normalizado.sql
+```
+
+**Para consultas avançadas:**
+```bash
+python scripts/query_lexicon.py --help
+```
+
+### Estrutura de Dados
+
+O projeto gera diferentes formatos de saída:
+* `ocr_results.db` — OCR bruto por página
+* `chunks_faria.json` — verbetes segmentados
+* `normalized_results.json` — dados normalizados
+* `lexicon.db` — banco final com FTS5
+
+---
+
 ## 📜 Licença Geral
 
 Este projeto é licenciado sob a **GNU General Public License v3.0 (GPL-3.0)**.
