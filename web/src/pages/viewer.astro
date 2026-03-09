@@ -1,0 +1,139 @@
+---
+import Layout from "../components/Layout.astro";
+import "../styles/base.css";
+
+const base = import.meta.env.BASE_URL || "/Dicionarios-Latim";
+const baseWithSlash = base.endsWith("/") ? base : `${base}/`;
+const dataBase = `${baseWithSlash}data`;
+---
+
+<Layout
+  title="Verbete | Dicionários"
+  description="Visualização de verbete"
+  breadcrumbs={[
+    { label: "Início", href: baseWithSlash },
+    { label: "Busca", href: `${baseWithSlash}search` },
+    { label: "Verbete" },
+  ]}
+>
+  <section class="panel page-narrow" id="content">
+    <p class="muted">Carregando...</p>
+  </section>
+
+  <script type="module" define:vars={{ baseWithSlash, dataBase }}>
+    const params = new URLSearchParams(window.location.search);
+    const volParam = params.get("vol");
+    const idParam = params.get("id");
+    const content = document.getElementById("content");
+    const dataBaseUrl = dataBase;
+
+    function renderError(msg) {
+      content.innerHTML = `<p class="muted">${msg}</p><p><a href="${baseWithSlash}search">Voltar à busca</a></p>`;
+    }
+
+    async function fetchJSON(url) {
+      const res = await fetch(url);
+      if (!res.ok) throw new Error(`Erro ${res.status} em ${url}`);
+      return res.json();
+    }
+
+    function findBlock(meta, page) {
+      return meta.blocks.find((b) => page >= b.start && page <= b.end);
+    }
+
+    function renderEntry(entry, volId) {
+      const lemmas = (entry.lemmas || []).join(", ");
+      content.innerHTML = `
+        <header style="display:flex;justify-content:space-between;align-items:center;gap:var(--space-3);flex-wrap:wrap;">
+          <div>
+            <p class="muted" style="margin:0;">${volId} · p. ${entry.page_num ?? ""}</p>
+            <h1 style="margin:0;">${lemmas}</h1>
+            <div class="pill-list" aria-label="Metadados do verbete">
+              ${entry.morfologia ? `<span class="pill">${entry.morfologia}</span>` : ""}
+              ${entry.page_num ? `<span class="pill">p. ${entry.page_num}</span>` : ""}
+            </div>
+          </div>
+          <div style="display:flex;gap:var(--space-2);">
+            <button class="button secondary" id="btn-copy">Copiar link</button>
+            <a class="button ghost" href="${baseWithSlash}search">Voltar</a>
+          </div>
+        </header>
+
+        <article style="margin-top:var(--space-4); display:flex; flex-direction:column; gap:var(--space-3);">
+          <section>
+            <h3 style="margin:0 0 var(--space-2);">Definição</h3>
+            <p>${entry.definicao || "Sem definição."}</p>
+          </section>
+          ${
+            entry.exemplos?.length
+              ? `<section><h3 style="margin:0 0 var(--space-2);">Exemplos</h3><ul>${entry.exemplos
+                  .map((e) => `<li>${e}</li>`)
+                  .join("")}</ul></section>`
+              : ""
+          }
+          ${
+            entry.notas
+              ? `<section><h3 style="margin:0 0 var(--space-2);">Notas</h3><p>${entry.notas}</p></section>`
+              : ""
+          }
+        </article>
+
+        <button class="button secondary" id="toggle-raw" aria-expanded="false">Ver raw</button>
+        <pre id="raw" style="display:none; white-space:pre-wrap; background:var(--color-surface-muted); padding:0.75rem; border-radius:var(--radius-s); border:1px solid var(--color-border); margin-top:0.5rem;">${entry.raw_text || ""}</pre>
+      `;
+
+      const btn = document.getElementById("toggle-raw");
+      const raw = document.getElementById("raw");
+      btn.addEventListener("click", () => {
+        const showing = raw.style.display !== "none";
+        raw.style.display = showing ? "none" : "block";
+        btn.textContent = showing ? "Ver raw" : "Ocultar raw";
+        btn.setAttribute("aria-expanded", (!showing).toString());
+      });
+
+      const copyBtn = document.getElementById("btn-copy");
+      copyBtn.addEventListener("click", async () => {
+        await navigator.clipboard.writeText(window.location.href);
+        copyBtn.textContent = "Copiado!";
+        setTimeout(() => (copyBtn.textContent = "Copiar link"), 1200);
+      });
+    }
+
+    async function load() {
+      if (!idParam) {
+        renderError("ID ausente na URL.");
+        return;
+      }
+      const volumes = await fetchJSON(`${dataBaseUrl}/volumes.json`);
+      const vol = volParam || volumes[0]?.id;
+      if (!vol) {
+        renderError("Nenhum volume disponível.");
+        return;
+      }
+      const volMeta = await fetchJSON(`${baseWithSlash}data/${vol}/meta/${vol}.json`);
+      const lookup = await fetchJSON(`${baseWithSlash}data/${vol}/lookup/${vol}-id-to-page.json`);
+      const pageNum = lookup[idParam];
+      if (pageNum === undefined) {
+        renderError("Verbete não encontrado neste volume.");
+        return;
+      }
+      const block = findBlock(volMeta, pageNum);
+      if (!block) {
+        renderError("Bloco de páginas não encontrado.");
+        return;
+      }
+      const entries = await fetchJSON(`${baseWithSlash}data/${vol}/${block.file}`);
+      const entry = entries.find((e) => e.id === idParam);
+      if (!entry) {
+        renderError("Verbete não localizado no bloco.");
+        return;
+      }
+      renderEntry(entry, vol);
+    }
+
+    load().catch((err) => {
+      console.error(err);
+      renderError(err.message);
+    });
+  </script>
+</Layout>

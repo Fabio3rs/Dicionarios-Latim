@@ -1,0 +1,45 @@
+---
+import "../styles/base.css";
+
+export interface Props {
+  title?: string;
+  description?: string;
+  breadcrumbs?: { label: string; href?: string }[];
+}
+
+const { title = "Dicionários", description = "", breadcrumbs = [] } = Astro.props;
+---
+
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{title}</title>
+    {description && <meta name="description" content={description} />}
+    <slot name="head" />
+  </head>
+  <body>
+    <a class="skip-link" href="#conteudo">Pular para o conteúdo</a>
+    <main id="conteudo" class="page">
+      <div class="banner" role="status">
+        <span aria-hidden="true">⚠️</span>
+        <div>
+          <strong>Aviso</strong>
+          <p style="margin: var(--space-2) 0 0;">Os verbetes exibidos foram gerados por pipeline automatizada (OCR + revisão por LLM) e ainda não passaram por revisão humana final.</p>
+        </div>
+      </div>
+      {breadcrumbs.length ? (
+        <nav class="breadcrumbs" aria-label="Breadcrumb">
+          {breadcrumbs.map((b, i) => (
+            <>
+              {i > 0 && <span class="sep">/</span>}
+              {b.href ? <a href={b.href}>{b.label}</a> : <span>{b.label}</span>}
+            </>
+          ))}
+        </nav>
+      ) : null}
+      <slot />
+    </main>
+  </body>
+</html>

@@ -1,0 +1,479 @@
+---
+import Layout from "../components/Layout.astro";
+import FiltersPanel from "../components/FiltersPanel.astro";
+import "../styles/base.css";
+
+const base = import.meta.env.BASE_URL || "/Dicionarios-Latim";
+const baseWithSlash = base.endsWith("/") ? base : `${base}/`;
+const dataBase = `${baseWithSlash}data`;
+---
+
+<Layout
+  title="Busca | Dicionários"
+  description="Busca estática com Pagefind nos dicionários."
+  breadcrumbs={[{ label: "Início", href: `${baseWithSlash}` }, { label: "Busca" }]}
+>
+  <div class="layout-grid">
+    <FiltersPanel loading={true} />
+
+    <section aria-label="Resultados" class="panel" style="display:flex;flex-direction:column;gap:var(--space-4);">
+      <header style="display:flex;justify-content:space-between;align-items:center;gap:var(--space-3);flex-wrap:wrap;">
+        <div>
+          <p style="margin:0;color:var(--color-muted);">Busca estática (Pagefind)</p>
+          <h1 style="margin:0;">Resultados</h1>
+        </div>
+        <div style="display:flex;align-items:center;gap:var(--space-2);flex-wrap:wrap;">
+          <label class="sr-only" for="search-box">Buscar</label>
+          <input id="search-box" class="input" type="search" placeholder="Buscar..." list="suggestions" style="min-width:240px;" />
+          <datalist id="suggestions"></datalist>
+
+          <label for="page-size" style="font-size:0.9rem;color:var(--color-muted);">Itens:</label>
+          <select id="page-size" class="input" style="width:auto;">
+            <option value="10">10</option>
+            <option value="25" selected>25</option>
+            <option value="50">50</option>
+            <option value="100">100</option>
+          </select>
+        </div>
+      </header>
+
+      <div id="results" class="results-list" aria-live="polite">
+        <p class="muted">Carregando índice...</p>
+      </div>
+    </section>
+  </div>
+
+  <script type="module" define:vars={{ baseWithSlash, dataBase }}>
+    const assetBase = baseWithSlash;
+    const dataBaseUrl = dataBase;
+    const resultsEl = document.getElementById("results");
+    const searchBox = document.getElementById("search-box");
+    const pageSizeSel = document.getElementById("page-size");
+    const filtersRoot = document.querySelector("aside[aria-label='Filtros']");
+    const datalist = document.getElementById("suggestions");
+
+    let checkboxNodes = [];
+    let letterNodes = [];
+    let morfNodes = [];
+    let topLemmas = [];
+
+    const state = {
+      term: "",
+      pageSize: 25,
+      page: 1,
+      filters: {}, // volume_id, morfologia, first_letter, page_bucket
+    };
+
+    function qsParamsToState() {
+      const params = new URLSearchParams(window.location.search);
+      state.term = params.get("term") || "";
+      state.pageSize = parseInt(params.get("pageSize") || "25", 10) || 25;
+      ["volume_id", "morfologia", "first_letter", "page_bucket"].forEach((key) => {
+        const vals = params.getAll(key);
+        if (vals.length) state.filters[key] = vals;
+      });
+    }
+
+    function syncUrl() {
+      const params = new URLSearchParams();
+      if (state.term.trim()) params.set("term", state.term.trim());
+      if (state.pageSize && state.pageSize !== 25) params.set("pageSize", String(state.pageSize));
+      Object.entries(state.filters).forEach(([k, vals]) => {
+        vals.forEach((v) => params.append(k, v));
+      });
+      const newUrl = `${window.location.pathname}${params.toString() ? `?${params.toString()}` : ""}`;
+      window.history.replaceState({}, "", newUrl);
+    }
+
+    qsParamsToState();
+    searchBox.value = state.term;
+    pageSizeSel.value = String(state.pageSize);
+
+    let pagefindInstance = null;
+    let pagefindPromise = null;
+
+    const basePath = assetBase.endsWith("/") ? assetBase.slice(0, -1) : assetBase;
+
+    async function ensurePagefind() {
+      if (pagefindInstance) return pagefindInstance;
+      if (pagefindPromise) return pagefindPromise;
+      pagefindPromise = (async () => {
+        const mod = await import(`${assetBase}pagefind/pagefind.js`);
+        return mod?.default || mod?.pagefind || mod;
+      })();
+      pagefindInstance = await pagefindPromise;
+      return pagefindInstance;
+    }
+
+    function normalizeUrl(raw) {
+      if (!raw) return "#";
+      if (/^https?:\/\//i.test(raw)) return raw;
+      let path = raw.trim();
+      const baseNoSlash = basePath.replace(/^\//, "");
+      const stripPrefixes = [basePath, `${basePath}/`, baseNoSlash, `${baseNoSlash}/`];
+      for (const pref of stripPrefixes) {
+        while (path.startsWith(pref)) path = path.slice(pref.length);
+      }
+      if (!path.startsWith("/")) path = `/${path}`;
+      return `${basePath}${path}`;
+    }
+
+    async function loadFilters() {
+      try {
+        const volumes = await fetch(`${dataBaseUrl}/volumes.json`).then((r) => r.json());
+        const volSelect = document.createElement("select");
+        volSelect.className = "input";
+        volSelect.id = "volume-select";
+        volumes.forEach((v) => {
+          const opt = document.createElement("option");
+          opt.value = v.id;
+          opt.textContent = v.title || v.id;
+          volSelect.appendChild(opt);
+        });
+        if (state.filters.volume_id?.length) {
+          volSelect.value = state.filters.volume_id[0];
+        }
+
+        // Morfologia
+        const morfResp = await fetch(`${assetBase}data/${volSelect.value}/dict/morfologia.json`).then((r) => r.json());
+        const morfSection = document.createElement("div");
+        morfResp.forEach((m) => {
+          const id = `morf-${m}`;
+          const label = document.createElement("label");
+          label.style.display = "flex";
+          label.style.alignItems = "center";
+          label.style.gap = "0.35rem";
+          const cb = document.createElement("input");
+          cb.type = "checkbox";
+          cb.name = "morfologia";
+          cb.value = m;
+          if (state.filters.morfologia?.includes(m)) cb.checked = true;
+          label.appendChild(cb);
+          label.append(m);
+          morfSection.appendChild(label);
+        });
+
+        // Letras
+        const letterCounts = await fetch(`${assetBase}data/${volSelect.value}/dict/lemmas-first-letter.json`).then((r) => r.json());
+        const lettersWrap = document.createElement("div");
+        lettersWrap.className = "chips";
+        "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("").forEach((ch) => {
+          const btn = document.createElement("button");
+          btn.type = "button";
+          btn.className = "chip";
+          btn.dataset.letter = ch;
+          if (state.filters.first_letter?.includes(ch)) btn.classList.add("active");
+          btn.textContent = letterCounts[ch] ? `${ch} (${letterCounts[ch]})` : ch;
+          lettersWrap.appendChild(btn);
+        });
+
+        // Página
+        const volMeta = await fetch(`${assetBase}${volumes.find((v) => v.id === volSelect.value).meta_url}`).then((r) => r.json());
+        const pageInputs = document.createElement("div");
+        pageInputs.className = "two-col";
+        const minInput = document.createElement("input");
+        minInput.type = "number";
+        minInput.className = "input";
+        minInput.value = volMeta.page_min ?? 0;
+        const maxInput = document.createElement("input");
+        maxInput.type = "number";
+        maxInput.className = "input";
+        maxInput.value = volMeta.page_max ?? 0;
+        minInput.id = "page-min";
+        maxInput.id = "page-max";
+        pageInputs.appendChild(minInput);
+        pageInputs.appendChild(maxInput);
+
+        filtersRoot.innerHTML = "";
+        filtersRoot.replaceWith(filtersRoot); // ensure cleared
+
+        const panel = document.querySelector("aside[aria-label='Filtros']");
+        panel.innerHTML = `
+          <h2 style="margin-top:0;">Filtros</h2>
+          <div class="filters-stack"></div>
+          <button class="button secondary" id="clear-filters" style="margin-top:var(--space-3);">Limpar filtros</button>
+        `;
+        const stack = panel.querySelector(".filters-stack");
+
+        const secVol = document.createElement("section");
+        secVol.innerHTML = `<h3 style="margin:0 0 var(--space-2);">Volume</h3>`;
+        secVol.appendChild(volSelect);
+        stack.appendChild(secVol);
+
+        const secMorf = document.createElement("section");
+        secMorf.innerHTML = `<h3 style="margin:0 0 var(--space-2);">Morfologia</h3>`;
+        secMorf.appendChild(morfSection);
+        stack.appendChild(secMorf);
+
+        const secLetra = document.createElement("section");
+        secLetra.innerHTML = `<h3 style="margin:0 0 var(--space-2);">Inicial</h3>`;
+        secLetra.appendChild(lettersWrap);
+        stack.appendChild(secLetra);
+
+        const secPag = document.createElement("section");
+        secPag.innerHTML = `<h3 style="margin:0 0 var(--space-2);">Faixa de página</h3>`;
+        secPag.appendChild(pageInputs);
+        stack.appendChild(secPag);
+
+        // Sugestões
+        topLemmas = await fetch(`${assetBase}data/${volSelect.value}/dict/lemmas-top.json`).then((r) => r.json()).then((d) => d.items || []);
+
+        // Bind events
+        volSelect.addEventListener("change", () => {
+          state.filters.volume_id = [volSelect.value];
+          state.page = 1;
+          syncUrl();
+          loadFilters(); // reload dependent filters for new volume
+          render();
+        });
+
+        morfNodes = Array.from(secMorf.querySelectorAll("input[type='checkbox']"));
+        morfNodes.forEach((cb) =>
+          cb.addEventListener("change", () => {
+            const selected = morfNodes.filter((c) => c.checked).map((c) => c.value);
+            if (selected.length) state.filters.morfologia = selected;
+            else delete state.filters.morfologia;
+            state.page = 1;
+            syncUrl();
+            render();
+          })
+        );
+
+        letterNodes = Array.from(lettersWrap.querySelectorAll("button.chip"));
+        letterNodes.forEach((btn) =>
+          btn.addEventListener("click", () => {
+            letterNodes.forEach((b) => b.classList.remove("active"));
+            btn.classList.add("active");
+            state.filters.first_letter = [btn.dataset.letter];
+            state.page = 1;
+            syncUrl();
+            render();
+          })
+        );
+
+        minInput.addEventListener("input", () => {
+          updatePageBuckets(minInput.value, maxInput.value);
+        });
+        maxInput.addEventListener("input", () => {
+          updatePageBuckets(minInput.value, maxInput.value);
+        });
+
+        document.getElementById("clear-filters").addEventListener("click", () => {
+          state.filters = { volume_id: [volSelect.value] };
+          searchBox.value = "";
+          pageSizeSel.value = "25";
+          state.page = 1;
+          syncUrl();
+          loadFilters();
+          render();
+        });
+      } catch (err) {
+        filtersRoot.innerHTML = '<p class="muted" style="margin:0;">Filtros indisponíveis.</p>';
+        console.error(err);
+      }
+    }
+
+    function updatePageBuckets(min, max) {
+      const start = Math.floor((Number(min) || 0) / 100);
+      const end = Math.floor((Number(max) || 0) / 100);
+      const buckets = [];
+      for (let i = start; i <= end; i++) buckets.push(String(i));
+      if (buckets.length) state.filters.page_bucket = buckets;
+      else delete state.filters.page_bucket;
+      state.page = 1;
+      syncUrl();
+    }
+
+    function updateSuggestions() {
+      const term = (searchBox.value || "").toLowerCase();
+      if (!term || topLemmas.length === 0) {
+        datalist.innerHTML = "";
+        return;
+      }
+      const suggestions = topLemmas
+        .filter((k) => (k.label || "").toLowerCase().includes(term))
+        .slice(0, 15);
+      datalist.innerHTML = suggestions.map((s) => `<option value="${s.label}"></option>`).join("");
+    }
+
+    async function render() {
+      const term = (state.term || "").trim();
+      const filters = { ...state.filters };
+      const pageSize = state.pageSize || 25;
+      const noCriteria = term === "" && Object.keys(filters).length === 0;
+      resultsEl.innerHTML = `<p class="muted">Buscando...</p>`;
+
+      try {
+        const pf = await ensurePagefind();
+        if (!pf) {
+          resultsEl.textContent = "Índice Pagefind não disponível.";
+          return;
+        }
+        const searchTerm = term === "" ? null : term;
+        const res = await pf.search(searchTerm, { filters: Object.keys(filters).length ? filters : undefined });
+        if (!res || !res.results) {
+          resultsEl.textContent = "Índice vazio ou não carregado.";
+          return;
+        }
+
+        const totalResults = res.results.length;
+
+        const list = document.createElement("div");
+        list.className = "results-list";
+
+        if (noCriteria && totalResults === 0) {
+          resultsEl.innerHTML = `<p class="muted">Nenhum índice carregado.</p>`;
+          return;
+        }
+
+        if (noCriteria) {
+          // paginação manual (não carrega todos os data())
+          const totalPages = Math.max(1, Math.ceil(totalResults / pageSize));
+          state.page = Math.min(Math.max(1, state.page), totalPages);
+          const start = (state.page - 1) * pageSize;
+          const end = Math.min(start + pageSize, totalResults);
+          const slice = res.results.slice(start, end);
+          const hits = await Promise.all(slice.map((r) => r.data()));
+          hits.sort((a, b) => (a.meta?.lemmas || "").localeCompare(b.meta?.lemmas || ""));
+
+          const info = document.createElement("div");
+          info.className = "pagination";
+          info.innerHTML = `
+            <span>Listando ${start + 1}–${end} de ${totalResults} verbetes (ordem alfabética)</span>
+            <div style="display:flex;gap:0.5rem;">
+              <button id="page-prev" ${state.page === 1 ? "disabled" : ""}>Anterior</button>
+              <span>Página ${state.page}/${totalPages}</span>
+              <button id="page-next" ${state.page === totalPages ? "disabled" : ""}>Próxima</button>
+            </div>
+          `;
+          list.appendChild(info);
+
+          hits.forEach((hit) => {
+            list.appendChild(renderCard(hit));
+          });
+
+          resultsEl.innerHTML = "";
+          resultsEl.appendChild(list);
+
+          const prev = document.getElementById("page-prev");
+          const next = document.getElementById("page-next");
+          prev?.addEventListener("click", () => {
+            state.page = Math.max(1, state.page - 1);
+            render();
+          });
+          next?.addEventListener("click", () => {
+            state.page = Math.min(totalPages, state.page + 1);
+            render();
+          });
+          return;
+        }
+
+        // comportamento normal (com termo ou filtros)
+        let hits = await Promise.all(res.results.map((r) => r.data()));
+        const total = hits.length;
+        let truncated = false;
+        if (term === "" && total > pageSize) {
+          hits = hits.slice(0, pageSize);
+          truncated = true;
+        }
+        if (!hits.length) {
+          resultsEl.innerHTML = `<p class="muted">Nenhum resultado.</p>`;
+          return;
+        }
+
+        if (truncated) {
+          const info = document.createElement("p");
+          info.className = "muted";
+          info.textContent = `Mostrando ${hits.length} de ${total}. Aplique filtros ou aumente 'Itens'.`;
+          list.appendChild(info);
+        }
+
+        hits.forEach((hit) => {
+          list.appendChild(renderCard(hit));
+        });
+
+        resultsEl.innerHTML = "";
+        resultsEl.appendChild(list);
+      } catch (err) {
+        console.error(err);
+        resultsEl.textContent = "Erro ao buscar.";
+      }
+    }
+
+    function renderCard(hit) {
+      const card = document.createElement("article");
+      card.className = "result-card";
+      const lemmas = hit.meta?.lemmas || "Verbete";
+      const h3 = document.createElement("h3");
+      const a = document.createElement("a");
+      const target = normalizeUrl(hit.url || "#");
+      a.href = target;
+      a.textContent = lemmas;
+      h3.appendChild(a);
+      card.appendChild(h3);
+
+      const meta = document.createElement("div");
+      meta.className = "result-meta";
+      if (hit.meta?.morfologia) {
+        const b = document.createElement("span");
+        b.className = "badge";
+        b.textContent = hit.meta.morfologia;
+        b.onclick = () => {
+          state.filters.morfologia = [hit.meta.morfologia];
+          state.page = 1;
+          syncUrl();
+          render();
+        };
+        meta.appendChild(b);
+      }
+      if (hit.meta?.page_num) {
+        const b = document.createElement("span");
+        b.className = "badge";
+        b.textContent = `p. ${hit.meta.page_num}`;
+        meta.appendChild(b);
+      }
+      const vol = document.createElement("span");
+      vol.className = "muted";
+      vol.textContent = hit.meta?.volume_id || "";
+      meta.appendChild(vol);
+      card.appendChild(meta);
+
+      const snip = document.createElement("p");
+      snip.className = "muted";
+      snip.innerHTML = hit.excerpt || hit.content?.slice(0, 180) || "";
+      card.appendChild(snip);
+      return card;
+    }
+
+    function handleTermInput() {
+      state.term = searchBox.value;
+      state.page = 1;
+      syncUrl();
+      updateSuggestions();
+      render();
+    }
+
+    searchBox.addEventListener("input", () => {
+      handleTermInput();
+    });
+    searchBox.addEventListener("keydown", (e) => {
+      if (e.key === "Enter") {
+        e.preventDefault();
+        handleTermInput();
+      }
+    });
+    pageSizeSel.addEventListener("change", () => {
+      const val = parseInt(pageSizeSel.value, 10);
+      state.pageSize = Number.isNaN(val) ? 25 : val;
+      state.page = 1;
+      syncUrl();
+      render();
+    });
+
+    // inicial
+    loadFilters().then(() => {
+      render();
+      updateSuggestions();
+    });
+  </script>
+</Layout>

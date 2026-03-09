@@ -1,0 +1,80 @@
+---
+import Layout from "../components/Layout.astro";
+import "../styles/base.css";
+
+const base = import.meta.env.BASE_URL || "/Dicionarios-Latim";
+const baseWithSlash = base.endsWith("/") ? base : `${base}/`;
+
+const stats = [
+  { value: "34k+", label: "Verbetes" },
+  { value: "30k+", label: "Páginas processadas" },
+  { value: "1", label: "Volume inicial (Faria)" },
+  { value: "100%", label: "Busca offline baixando o repositório" },
+];
+
+const startPoints = {
+  "Autores": [
+    { label: "Cícero", term: "Cicero" },
+    { label: "Virgílio", term: "Virgilius" },
+    { label: "Horácio", term: "Horatius" },
+  ],
+  "Temas": [
+    { label: "Gramática", term: "grammatica" },
+    { label: "Retórica", term: "rhetorica" },
+    { label: "História", term: "historia" },
+  ],
+};
+---
+
+<Layout title="Dicionários Latim-Português" description="Interface de busca estática para os dicionários processados.">
+  <Fragment slot="head">
+    <link rel="prefetch" href={`${baseWithSlash}search`} />
+    <link rel="prefetch" href={`${baseWithSlash}pagefind/pagefind.js`} />
+  </Fragment>
+
+  <section class="card">
+    <p class="muted" style="margin:0;">Projeto Lexicon</p>
+    <h1 style="margin:0 0 var(--space-3); font-family: var(--font-serif);">Busca rápida em dicionários latim-português</h1>
+    <p style="max-width:70ch;">
+      Explore os verbetes do <strong>Dicionário Escolar Latim-Português (Faria)</strong> com busca estática,
+      filtros de morfologia e paginação, totalmente offline no browser.
+    </p>
+    <div style="display:flex; gap:var(--space-3); flex-wrap:wrap; margin-top: var(--space-4);">
+      <a class="button" href={`${baseWithSlash}search`}>Iniciar busca</a>
+      <a class="button secondary" href={`${baseWithSlash}viewer?vol=faria&id=chunk_1-e1`}>Ver exemplo</a>
+    </div>
+  </section>
+
+  <section class="card-plain" style="margin-top:var(--space-5);">
+    <div class="stats-grid">
+      {stats.map((s) => (
+        <div class="stat-item">
+          <h3>{s.value}</h3>
+          <p>{s.label}</p>
+        </div>
+      ))}
+    </div>
+  </section>
+
+  <section class="card" style="margin-top:var(--space-5);">
+    <header style="display:flex;justify-content:space-between;align-items:center;gap:var(--space-3);flex-wrap:wrap;">
+      <div>
+        <p class="muted" style="margin:0;">Pontos de partida</p>
+        <h2 style="margin:0;font-family:var(--font-serif);">Sugestões rápidas</h2>
+      </div>
+      <small class="muted">Clique na palavra para pesquisar</small>
+    </header>
+    <div class="start-points-grid" style="margin-top:var(--space-4);">
+      {Object.entries(startPoints).map(([title, links]) => (
+        <div>
+          <h3 style="margin-top:0;">{title}</h3>
+          <ul>
+            {links.map((link) => (
+              <li><a href={`${baseWithSlash}search?term=${encodeURIComponent(link.term)}`}>{link.label}</a></li>
+            ))}
+          </ul>
+        </div>
+      ))}
+    </div>
+  </section>
+</Layout>

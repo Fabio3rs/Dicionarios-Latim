@@ -1,0 +1,24 @@
+{
+  "name": "dicionarios-web",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "check": "astro check",
+    "data:shards": "python ../scripts/export_shards_from_normalized.py --catalog ../resultados/catalog.json --outdir ../resultados/shards --shard-size 1000",
+    "data:render": "python ../scripts/render_publication_from_shards.py --catalog ../resultados/catalog.json --shards ../resultados/shards --out ../web/public/data --pages-per-block 200",
+    "search:index": "node ./tools/build_pagefind_from_shards.mjs --public ./public --base /Dicionarios-Latim",
+    "data:all": "npm run data:shards && npm run data:render && npm run search:index"
+  },
+  "dependencies": {
+    "astro": "^5.18.0",
+    "pagefind": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.30",
+    "typescript": "^5.3.3"
+  }
+}

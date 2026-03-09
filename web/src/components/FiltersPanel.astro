@@ -1,0 +1,33 @@
+---
+export interface Section {
+  title: string;
+  body: any;
+}
+
+export interface Props {
+  loading?: boolean;
+  sections?: Section[];
+  footer?: any;
+}
+
+const { loading = false, sections = [], footer = null } = Astro.props;
+---
+
+<aside class="panel filters-panel" aria-label="Filtros">
+  <h2 style="margin-top:0;">Filtros</h2>
+  {loading ? (
+    <p class="muted">Carregando filtros...</p>
+  ) : sections.length ? (
+    <div class="filters-stack">
+      {sections.map((sec) => (
+        <section>
+          <h3 style="margin:0 0 var(--space-2);">{sec.title}</h3>
+          {sec.body}
+        </section>
+      ))}
+    </div>
+  ) : (
+    <p class="muted">Nenhum filtro disponível.</p>
+  )}
+  {footer}
+</aside>
