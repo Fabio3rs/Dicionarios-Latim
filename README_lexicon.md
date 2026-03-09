@@ -1,20 +1,24 @@
 
-# Lexicon (SQLite) — Repo Guide
+# Lexicon (SQLite) — Guia rápido
 
-Este repositório armazena **fontes textuais** (JSON/SQL) e scripts; o `.db` pode ser opcional:
-- ✅ **Commitar:** `schema_normalizado.sql`, `normalized_results.json`, scripts (`ingest_normalized.py`, `query_lexicon.py`), e **exports determinísticos** (`exports/*.jsonl`).
-- ⚠️ **Opcional (ou via LFS):** `lexicon.db` (binário). Se o DB passar de 100 MB, use Git LFS ou publique como artefato de release.
+Usamos o SQLite como entrega final, mas tratamos o `.db` como derivado:
+- ✅ **Commitar:** `schema_normalizado.sql`, `resultados/normalized_results_v2.json`, scripts (`ingest_normalized.py`, `query_lexicon.py`, `export_normalized_from_retificado_v2.py`), e **exports determinísticos** (`exports/*.jsonl`).
+- ⚠️ **Não commitar:** `lexicon.db` (binário) — publique em release/LFS se precisar.
 
 ## Fluxo sugerido
-1. Edite `normalized_results.json` e rode:
+1. Gere o JSON oficial a partir do banco canônico:
    ```bash
-   python ingest_normalized.py --json normalized_results.json --db lexicon.db --schema schema_normalizado.sql --batch-fts
+   make data-export-v2  # dicionarios/retificado_v2.db -> resultados/normalized_results_v2.json
    ```
-2. Valide e gere exports determinísticos (bons para diff em PRs):
+2. Construa o `lexicon.db` (local):
+   ```bash
+   python ingest_normalized.py --json resultados/normalized_results_v2.json --db resultados/lexicon.db --schema scripts/schema_normalizado.sql --batch-fts
+   ```
+3. Valide e gere exports determinísticos (bons para diff em PRs):
    ```bash
    python scripts/export_for_diff.py --db lexicon.db --out-dir exports
    ```
-3. Commit: `schema_normalizado.sql`, `normalized_results.json`, `exports/*.jsonl`. O `lexicon.db` pode ficar fora do Git (ou ir para LFS).
+4. Commit: `schema_normalizado.sql`, `resultados/normalized_results_v2.json`, `exports/*.jsonl`. O `lexicon.db` fica fora do Git.
 
 ## Por que exports determinísticos?
 Bins (`.db`) não fazem diff legível. Mantemos **JSONL ordenado** com chaves estáveis:

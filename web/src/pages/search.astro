@@ -61,14 +61,14 @@ const dataBase = `${baseWithSlash}data`;
       term: "",
       pageSize: 25,
       page: 1,
-      filters: {}, // volume_id, morfologia, first_letter, page_bucket
+      filters: {}, // volume_id, morfologia, morph_render, first_letter, page_bucket, conf, needs_review
     };
 
     function qsParamsToState() {
       const params = new URLSearchParams(window.location.search);
       state.term = params.get("term") || "";
       state.pageSize = parseInt(params.get("pageSize") || "25", 10) || 25;
-      ["volume_id", "morfologia", "first_letter", "page_bucket"].forEach((key) => {
+      ["volume_id", "morfologia", "morph_render", "first_letter", "page_bucket", "conf", "needs_review"].forEach((key) => {
         const vals = params.getAll(key);
         if (vals.length) state.filters[key] = vals;
       });
@@ -138,7 +138,6 @@ const dataBase = `${baseWithSlash}data`;
         const morfResp = await fetch(`${assetBase}data/${volSelect.value}/dict/morfologia.json`).then((r) => r.json());
         const morfSection = document.createElement("div");
         morfResp.forEach((m) => {
-          const id = `morf-${m}`;
           const label = document.createElement("label");
           label.style.display = "flex";
           label.style.alignItems = "center";
@@ -152,6 +151,30 @@ const dataBase = `${baseWithSlash}data`;
           label.append(m);
           morfSection.appendChild(label);
         });
+
+        // Confiança
+        const confSelect = document.createElement("select");
+        confSelect.className = "input";
+        ["", "conf:high", "conf:med", "conf:low"].forEach((c) => {
+          const opt = document.createElement("option");
+          opt.value = c;
+          opt.textContent = c ? c.replace("conf:", "conf:") : "(qualquer)";
+          confSelect.appendChild(opt);
+        });
+        if (state.filters.conf?.length) confSelect.value = state.filters.conf[0];
+
+        // Revisão pendente
+        const revLabel = document.createElement("label");
+        revLabel.style.display = "flex";
+        revLabel.style.alignItems = "center";
+        revLabel.style.gap = "0.35rem";
+        const revCb = document.createElement("input");
+        revCb.type = "checkbox";
+        revCb.name = "needs_review";
+        revCb.value = "1";
+        if (state.filters.needs_review?.includes("1")) revCb.checked = true;
+        revLabel.appendChild(revCb);
+        revLabel.append("Somente pendentes de revisão");
 
         // Letras
         const letterCounts = await fetch(`${assetBase}data/${volSelect.value}/dict/lemmas-first-letter.json`).then((r) => r.json());
@@ -205,6 +228,16 @@ const dataBase = `${baseWithSlash}data`;
         secMorf.appendChild(morfSection);
         stack.appendChild(secMorf);
 
+        const secConf = document.createElement("section");
+        secConf.innerHTML = `<h3 style="margin:0 0 var(--space-2);">Confiança</h3>`;
+        secConf.appendChild(confSelect);
+        stack.appendChild(secConf);
+
+        const secRev = document.createElement("section");
+        secRev.innerHTML = `<h3 style="margin:0 0 var(--space-2);">Revisão</h3>`;
+        secRev.appendChild(revLabel);
+        stack.appendChild(secRev);
+
         const secLetra = document.createElement("section");
         secLetra.innerHTML = `<h3 style="margin:0 0 var(--space-2);">Inicial</h3>`;
         secLetra.appendChild(lettersWrap);
@@ -250,6 +283,23 @@ const dataBase = `${baseWithSlash}data`;
             render();
           })
         );
+
+        confSelect.addEventListener("change", () => {
+          const val = confSelect.value;
+          if (val) state.filters.conf = [val];
+          else delete state.filters.conf;
+          state.page = 1;
+          syncUrl();
+          render();
+        });
+
+        revCb.addEventListener("change", () => {
+          if (revCb.checked) state.filters.needs_review = ["1"];
+          else delete state.filters.needs_review;
+          state.page = 1;
+          syncUrl();
+          render();
+        });
 
         minInput.addEventListener("input", () => {
           updatePageBuckets(minInput.value, maxInput.value);
@@ -424,6 +474,26 @@ const dataBase = `${baseWithSlash}data`;
           syncUrl();
           render();
         };
+        meta.appendChild(b);
+      }
+      if (hit.meta?.conf) {
+        const b = document.createElement("span");
+        b.className = "badge";
+        b.textContent = hit.meta.conf;
+        b.title = "nível de confiança";
+        meta.appendChild(b);
+      }
+      if (hit.meta?.needs_review === "1") {
+        const b = document.createElement("span");
+        b.className = "badge";
+        b.textContent = "revisar";
+        b.title = "marcado para revisão";
+        meta.appendChild(b);
+      }
+      if (hit.meta?.redirect_only === "1") {
+        const b = document.createElement("span");
+        b.className = "badge";
+        b.textContent = "↪ remissiva";
         meta.appendChild(b);
       }
       if (hit.meta?.page_num) {

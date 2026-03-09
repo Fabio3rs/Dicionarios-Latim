@@ -1,6 +1,6 @@
 # Dicionários de Latim para Português
 
-> ⚠️ Parte deste código e dos artefatos foi produzida com assistência de modelos de inteligência artificial (OCR e revisão/normalização via LLM). Os dados ainda podem conter erros e carecem de revisão humana final.
+> ⚠️ Projeto pessoal para estudos de LLM/OCR + revisão automática via LLM. Parte do código e dos artefatos foi gerada com assistência de IA (OCR, normalização e dedupe). Os dados não passaram por revisão humana completa e podem conter erros.
 
 ## Contextualização
 
@@ -111,8 +111,9 @@ PDF original
 * **`sqlingest2.py`** — ingere Lewis & Short (Perseus XML) em `ls_dict.sqlite` para apoio léxico.
 * **`analisefaria.py`** — valida cabeçalhos e segmenta em `chunks_faria.json`.
 * **`openai_parse_mt.py`** — reescreve e normaliza chunks com GPT-5, usando `ls_dict.sqlite` e Whitaker’s Words; salva em `parse_check.db`.
-* **`normaliza_parse_check.py`** — consolida e uniformiza dados, exportando `normalized_results.json`.
-* **`ingest_normalized.py`** — ingere `normalized_results.json` no `lexicon.db` com FTS5.
+* **`normaliza_parse_check.py`** — consolida e uniformiza dados, exportando `normalized_results.json` (legado).
+* **`export_normalized_from_retificado_v2.py`** — exporta `retificado_v2.db` para `resultados/normalized_results_v2.json` (fonte oficial atual).
+* **`ingest_normalized.py`** — ingere JSON normalizado no `lexicon.db` com FTS5.
 * **`query_lexicon.py`** — consultas ao `lexicon.db` com filtros avançados (ID, FTS, página, doc, status etc.).
 
 ---
@@ -159,43 +160,35 @@ PDF original
    OPENAI_API_KEY=sua_chave_aqui
    ```
 
-### Uso Básico
-
-**Para consultar o lexicon existente:**
+### Uso rápido (consultar)
 ```bash
 python scripts/query_lexicon.py --db resultados/lexicon.db --query "puella"
 ```
 
-**Para processar um novo PDF (requer configuração avançada):**
+### Pipeline atual para busca web (fonte: retificado_v2.db)
 ```bash
-# 1. OCR do PDF
-python scripts/openai_test.py
-
-# 2. Análise e segmentação
-python scripts/analisefaria.py
-
-# 3. Normalização
-python scripts/openai_parse_mt.py
-
-# 4. Consolidação final
-python scripts/normaliza_parse_check.py
-
-# 5. Criação do banco de dados
-python scripts/ingest_normalized.py --json normalized_results.json --db lexicon.db --schema schema_normalizado.sql
+# Exportar JSON oficial
+make data-export-v2
+# Gerar shards NDJSON
+make data-shards
+# Renderizar artefatos web/public/data
+make data-render
+# Construir Pagefind
+cd web && npm run search:index   # ou make search-index
+# (opcional) build do site
+cd web && npm run build
 ```
 
-**Para consultas avançadas:**
-```bash
-python scripts/query_lexicon.py --help
-```
+Arquivos produzidos:
+* `resultados/normalized_results_v2.json` — export direto do `retificado_v2.db`
+* `resultados/shards/<vol>/shard_*.ndjson` + `index.json`
+* `web/public/data/<vol>/` (`meta`, `dict`, `lookup`) + `web/public/data/volumes.json`
+* `web/public/pagefind/` — índice de busca (não versionado)
 
-### Estrutura de Dados
-
-O projeto gera diferentes formatos de saída:
-* `ocr_results.db` — OCR bruto por página
-* `chunks_faria.json` — verbetes segmentados
-* `normalized_results.json` — dados normalizados
-* `lexicon.db` — banco final com FTS5
+### Estrutura de Dados (resumo)
+* `retificado_v2.db` — fonte canônica do Faria (pós-dedupe/normalização)
+* `ls_dict.db` / `gaffiot.db` — dicionários de referência
+* `lexicon.db` — ingestão final com FTS5 (derivado do JSON normalizado)
 
 ---
 

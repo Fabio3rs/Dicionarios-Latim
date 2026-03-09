@@ -61,6 +61,9 @@ async function main() {
         const lemmas = entry.lemmas || [];
         const firstLemma = lemmas[0] || "";
         const content = `${entry.definicao || ""}\n${entry.notas || ""}`;
+        const morph = entry.morph_render || entry.morfologia || "";
+        const conf = entry.conf || "";
+        const needsReview = entry.needs_review ? "1" : "0";
 
         const filters = {
           volume_id: [String(volId)],
@@ -69,6 +72,15 @@ async function main() {
         };
         if (entry.morfologia) {
           filters.morfologia = [entry.morfologia];
+        }
+        if (morph) {
+          filters.morph_render = [morph];
+        }
+        if (conf) {
+          filters.conf = [conf];
+        }
+        if (needsReview === "1") {
+          filters.needs_review = ["1"];
         }
 
         await index.addCustomRecord({
@@ -79,9 +91,12 @@ async function main() {
           meta: {
             volume_id: String(volId),
             lemmas: lemmas.join(", "),
-            morfologia: entry.morfologia || "",
+            morfologia: morph,
             page_num: String(entry.page_num ?? ""),
             first_letter: normalizeFirstLetter(firstLemma),
+            conf,
+            needs_review: needsReview,
+            redirect_only: entry.redirect_only ? "1" : "0",
           },
           filters,
         });

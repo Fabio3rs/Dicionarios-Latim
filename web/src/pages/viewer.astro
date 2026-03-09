@@ -43,14 +43,18 @@ const dataBase = `${baseWithSlash}data`;
 
     function renderEntry(entry, volId) {
       const lemmas = (entry.lemmas || []).join(", ");
+      const morph = entry.morph_render || entry.morfologia || "";
       content.innerHTML = `
         <header style="display:flex;justify-content:space-between;align-items:center;gap:var(--space-3);flex-wrap:wrap;">
           <div>
             <p class="muted" style="margin:0;">${volId} · p. ${entry.page_num ?? ""}</p>
             <h1 style="margin:0;">${lemmas}</h1>
             <div class="pill-list" aria-label="Metadados do verbete">
-              ${entry.morfologia ? `<span class="pill">${entry.morfologia}</span>` : ""}
+              ${morph ? `<span class="pill">${morph}</span>` : ""}
               ${entry.page_num ? `<span class="pill">p. ${entry.page_num}</span>` : ""}
+              ${entry.conf ? `<span class="pill">${entry.conf}</span>` : ""}
+              ${entry.needs_review ? `<span class="pill">revisar</span>` : ""}
+              ${entry.redirect_only ? `<span class="pill">↪ remissiva</span>` : ""}
             </div>
           </div>
           <div style="display:flex;gap:var(--space-2);">
@@ -64,6 +68,13 @@ const dataBase = `${baseWithSlash}data`;
             <h3 style="margin:0 0 var(--space-2);">Definição</h3>
             <p>${entry.definicao || "Sem definição."}</p>
           </section>
+          ${
+            entry.morph_extra?.length
+              ? `<section><h3 style="margin:0 0 var(--space-2);">Morph extra</h3><ul>${entry.morph_extra
+                  .map((e) => `<li>${e}</li>`)
+                  .join("")}</ul></section>`
+              : ""
+          }
           ${
             entry.exemplos?.length
               ? `<section><h3 style="margin:0 0 var(--space-2);">Exemplos</h3><ul>${entry.exemplos

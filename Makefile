@@ -1,7 +1,7 @@
 # Makefile for Dicionários Latim-Português project
 
 .PHONY: help install install-dev test lint format type-check clean example
-.PHONY: data-shards data-render search-index data-all web-build dev
+.PHONY: data-export-v2 data-shards data-render search-index data-all web-build dev
 
 help:  ## Show this help message
 	@echo "Available commands:"
@@ -43,6 +43,9 @@ example:  ## Run the example usage script
 	python example_usage.py
 
 # Frontend / data pipeline
+data-export-v2: ## Exporta retificado_v2.db para normalized_results_v2.json
+	python scripts/export_normalized_from_retificado_v2.py --db dicionarios/retificado_v2.db --out resultados/normalized_results_v2.json
+
 data-shards:  ## Generate NDJSON shards from normalized_results via catalog
 	python scripts/export_shards_from_normalized.py --catalog resultados/catalog.json --outdir resultados/shards --shard-size 1000
 
@@ -53,6 +56,7 @@ search-index: ## Build Pagefind index into web/public/pagefind
 	cd web && npm run search:index
 
 data-all: ## Run full data pipeline (shards + render + pagefind)
+	make data-export-v2
 	cd web && npm run data:all
 
 web-build: ## Build Astro site

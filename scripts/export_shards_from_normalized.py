@@ -41,13 +41,25 @@ def flatten_record(rec: Dict, volume_id: str) -> Iterable[Dict]:
     entries = rec.get("normalized_text") or []
 
     for i, item in enumerate(entries, start=1):
+        morph_render = item.get("morfologia") or item.get("morph_render")
+        morph_extra = item.get("morph_extra") or []
+        conf = item.get("conf")
+        needs_review = item.get("needs_review")
+        redirect_only = item.get("redirect_only")
+        morph_oov = item.get("morph_out_of_vocab")
         yield {
             "id": f"{doc_name}-e{i}",
             "volume_id": volume_id,
             "doc_name": doc_name,
             "page_num": page_num,
             "lemmas": item.get("lemas") or [],
-            "morfologia": item.get("morfologia"),
+            "morfologia": morph_render,
+            "morph_render": morph_render,
+            "morph_extra": morph_extra,
+            "conf": conf,
+            "needs_review": needs_review,
+            "redirect_only": redirect_only,
+            "morph_out_of_vocab": morph_oov,
             "definicao": item.get("definicao"),
             "exemplos": item.get("exemplos") or [],
             "notas": item.get("notas"),
