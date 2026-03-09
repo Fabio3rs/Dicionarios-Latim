@@ -116,6 +116,18 @@ PDF original
 * **`ingest_normalized.py`** — ingere JSON normalizado no `lexicon.db` com FTS5.
 * **`query_lexicon.py`** — consultas ao `lexicon.db` com filtros avançados (ID, FTS, página, doc, status etc.).
 
+### Scripts de manutenção do retificado (`dicionarios/scripts/`)
+
+Organizam as rotinas de dedupe, morfologia, OCR e export que operam direto sobre os bancos em `dicionarios/`:
+
+- **dedupe** (`dedupe_prepare.py`, `dedupe_batch_prep.py`, `dedupe_apply_safe.py`): monta clusters de duplicatas do `retificado_v2.db`, gera payloads JSONL para Batch/OpenAI e aplica decisões com checagens fortes (conferência de IDs, redirects e tamanho do grupo).
+- **ocr** (`ocr_end2end_pipeline_v4.py`, `ocr_fix_suggest.py`): pipelines de correção pós-OCR usando LS/Gaffiot/Lat→Deu + FAISS, com guard-rails morfológicos e opção de aplicar no `retificado_v2.db`.
+- **morph** (`morph_normalize_from_sql_new.py`, `morph_normalize_apply.py`, `update_classes_from_latdeu_bs4.py`): consenso morfológico a partir de Gaffiot/LS/Lat→Deu, aplicação no retificado e enriquecimento de classes via parsing do HTML do Lat→Deu.
+- **migrate** (`migrate_retificado_to_v2.py`): migra o `retificado.db` legado para o esquema moderno (`retificado_v2.db`).
+- **export** (`export_dicionarios.py`): exporta qualquer dicionário SQLite (incluindo `retificado_v2.db`) para Markdown/JSON/HTML/TSV.
+- **index** (`faiss2.py`): constrói/consulta índices FAISS unificados (LS, Gaffiot, retificado_v2) usando embeddings via Ollama.
+- **orphans** (`find_orphans_across_dicts_v2.py`, `orphans_linker.py`): identifica lemas do `retificado_v2.db` ausentes nas referências e tenta ligá-los ao índice FAISS.
+
 ---
 
 ## 📂 Estrutura do projeto

@@ -1,0 +1,25 @@
+<div class="theme-toggle" aria-label="Alternar tema">
+  <button type="button" data-theme="light">Claro</button>
+  <button type="button" data-theme="dark">Escuro</button>
+  <button type="button" data-theme="auto">Auto</button>
+</div>
+
+<script>
+  const buttons = Array.from(document.querySelectorAll(".theme-toggle button"));
+  const stored = localStorage.getItem("theme");
+  const valid = ["light", "dark", "auto"];
+  const preferred = valid.includes(stored) ? stored : "auto";
+
+  const apply = (theme) => {
+    document.documentElement.setAttribute("data-theme", theme);
+    localStorage.setItem("theme", theme);
+    buttons.forEach((btn) => btn.classList.toggle("active", btn.dataset.theme === theme));
+  };
+
+  // Initial apply respecting saved choice (or auto -> OS)
+  apply(preferred);
+
+  buttons.forEach((btn) => {
+    btn.addEventListener("click", () => apply(btn.dataset.theme));
+  });
+</script>

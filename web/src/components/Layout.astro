@@ -1,5 +1,6 @@
 ---
 import "../styles/base.css";
+import ThemeToggle from "./ThemeToggle.astro";
 
 export interface Props {
   title?: string;
@@ -11,7 +12,7 @@ const { title = "Dicionários", description = "", breadcrumbs = [] } = Astro.pro
 ---
 
 <!doctype html>
-<html lang="pt-BR">
+<html lang="pt-BR" data-theme="auto">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -19,8 +20,11 @@ const { title = "Dicionários", description = "", breadcrumbs = [] } = Astro.pro
     {description && <meta name="description" content={description} />}
     <slot name="head" />
   </head>
-  <body>
+  <body data-theme="auto">
     <a class="skip-link" href="#conteudo">Pular para o conteúdo</a>
+    <div style="display:flex;justify-content:flex-end;padding:var(--space-3) var(--space-4);">
+      <ThemeToggle />
+    </div>
     <main id="conteudo" class="page">
       <div class="banner" role="status">
         <span aria-hidden="true">⚠️</span>

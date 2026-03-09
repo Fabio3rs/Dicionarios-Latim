@@ -41,6 +41,7 @@ def flatten_record(rec: Dict, volume_id: str) -> Iterable[Dict]:
     entries = rec.get("normalized_text") or []
 
     for i, item in enumerate(entries, start=1):
+        raw_json = item.get("raw_json") or ""
         morph_render = item.get("morfologia") or item.get("morph_render")
         morph_extra = item.get("morph_extra") or []
         conf = item.get("conf")
@@ -63,7 +64,9 @@ def flatten_record(rec: Dict, volume_id: str) -> Iterable[Dict]:
             "definicao": item.get("definicao"),
             "exemplos": item.get("exemplos") or [],
             "notas": item.get("notas"),
-            "raw_text": raw_text,
+            # Preferimos mostrar o JSON bruto por verbete; fallback para raw_text do chunk.
+            "raw_text": raw_json or raw_text,
+            "raw_json": raw_json,
         }
 
 

@@ -2,18 +2,6 @@
   --font-sans: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
   --font-serif: "Merriweather", "Georgia", serif;
 
-  --color-bg: #f5f6fb;
-  --color-surface: #ffffff;
-  --color-surface-muted: #f0f4f8;
-  --color-ink: #0f172a;
-  --color-muted: #5b6b7d;
-  --color-border: #d7deea;
-  --color-accent: #0f6ad8;
-  --color-accent-2: #0ea5e9;
-  --color-success: #0f9d58;
-  --color-warning: #f59e0b;
-  --color-danger: #e11d48;
-
   --radius-s: 8px;
   --radius-m: 14px;
   --radius-l: 18px;
@@ -29,4 +17,66 @@
 
   --shadow-soft: 0 10px 35px -25px rgba(15, 23, 42, 0.35);
   --shadow-card: 0 12px 30px -20px rgba(15, 23, 42, 0.28);
+}
+
+:root,
+:root[data-theme="light"],
+:root[data-theme="auto"] {
+  --color-bg: #f5f6fb;
+  --color-surface: #ffffff;
+  --color-surface-muted: #f0f4f8;
+  --color-ink: #0f172a;
+  --color-muted: #5b6b7d;
+  --color-border: #d7deea;
+  --color-accent: #0f6ad8;
+  --color-accent-2: #0ea5e9;
+  --color-success: #0f9d58;
+  --color-warning: #f59e0b;
+  --color-danger: #e11d48;
+  --color-alert-bg: #fff7ed;
+  --color-alert-text: #9a3412;
+  --color-alert-strong: #c2410c;
+  --color-alert-border: #fed7aa;
+}
+
+:root[data-theme="dark"] {
+  --color-bg: #0c1222;
+  --color-surface: #111827;
+  --color-surface-muted: #1f2937;
+  --color-ink: #e2e8f0;
+  --color-muted: #94a3b8;
+  --color-border: #243147;
+  --color-accent: #38bdf8;
+  --color-accent-2: #22d3ee;
+  --color-success: #22c55e;
+  --color-warning: #fbbf24;
+  --color-danger: #f43f5e;
+  --color-alert-bg: #1f2937;
+  --color-alert-text: #fcd34d;
+  --color-alert-strong: #f59e0b;
+  --color-alert-border: #334155;
+  --shadow-soft: 0 10px 35px -25px rgba(0, 0, 0, 0.65);
+  --shadow-card: 0 12px 30px -20px rgba(0, 0, 0, 0.55);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root[data-theme="auto"] {
+    --color-bg: #0c1222;
+    --color-surface: #111827;
+    --color-surface-muted: #1f2937;
+    --color-ink: #e2e8f0;
+    --color-muted: #94a3b8;
+    --color-border: #243147;
+    --color-accent: #38bdf8;
+    --color-accent-2: #22d3ee;
+    --color-success: #22c55e;
+    --color-warning: #fbbf24;
+    --color-danger: #f43f5e;
+    --color-alert-bg: #1f2937;
+    --color-alert-text: #fcd34d;
+    --color-alert-strong: #f59e0b;
+    --color-alert-border: #334155;
+    --shadow-soft: 0 10px 35px -25px rgba(0, 0, 0, 0.65);
+    --shadow-card: 0 12px 30px -20px rgba(0, 0, 0, 0.55);
+  }
 }

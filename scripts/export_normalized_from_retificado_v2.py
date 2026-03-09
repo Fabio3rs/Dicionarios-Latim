@@ -74,7 +74,8 @@ def export(db_path: Path, out_path: Path):
     cur.execute(
         """
         SELECT entry_id, id, lemma, morph_render, definicao, notas, conf,
-               needs_review, redirect_only, morph_out_of_vocab, morph_extra
+               needs_review, redirect_only, morph_out_of_vocab, morph_extra,
+               raw_json
         FROM entry
         ORDER BY entry_id
         """
@@ -112,6 +113,8 @@ def export(db_path: Path, out_path: Path):
                 "needs_review": row["needs_review"],
                 "redirect_only": row["redirect_only"],
                 "morph_out_of_vocab": row["morph_out_of_vocab"],
+                # preserva JSON bruto da entrada original (string)
+                "raw_json": row["raw_json"] or "",
             }
         )
 

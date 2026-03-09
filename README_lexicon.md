@@ -41,3 +41,4 @@ O workflow `Lexicon CI`:
 - `ingest_normalized.py` — ingere o JSON e constrói o DB.
 - `query_lexicon.py` — CLI de consulta com FTS5.
 - `scripts/export_for_diff.py` — gera `exports/*.jsonl` com ordenação estável.
+- Para manter a fonte canônica (`retificado_v2.db`) existem utilitários em `dicionarios/scripts/` (dedupe, morph, ocr, export, migrate); veja README principal para detalhes rápidos.
