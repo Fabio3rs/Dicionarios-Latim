@@ -1,6 +1,7 @@
 # Makefile for Dicionários Latim-Português project
 
 .PHONY: help install install-dev test lint format type-check clean example
+.PHONY: data-shards data-render search-index data-all web-build dev
 
 help:  ## Show this help message
 	@echo "Available commands:"
@@ -36,9 +37,29 @@ clean:  ## Clean up generated files
 	find . -type d -name "__pycache__" -delete
 	find . -name "*.db-wal" -delete
 	find . -name "*.db-shm" -delete
+	rm -rf web/.astro web/.cache web/node_modules
 
 example:  ## Run the example usage script
 	python example_usage.py
+
+# Frontend / data pipeline
+data-shards:  ## Generate NDJSON shards from normalized_results via catalog
+	python scripts/export_shards_from_normalized.py --catalog resultados/catalog.json --outdir resultados/shards --shard-size 1000
+
+data-render: ## Render public JSON artifacts from shards into web/public/data
+	python scripts/render_publication_from_shards.py --catalog resultados/catalog.json --shards resultados/shards --out web/public/data --pages-per-block 200
+
+search-index: ## Build Pagefind index into web/public/pagefind
+	cd web && npm run search:index
+
+data-all: ## Run full data pipeline (shards + render + pagefind)
+	cd web && npm run data:all
+
+web-build: ## Build Astro site
+	cd web && npm run build
+
+dev: ## Start Astro dev server (ensure deps installed)
+	cd web && npm run dev
 
 # Database operations
 create-lexicon:  ## Create lexicon database from normalized results

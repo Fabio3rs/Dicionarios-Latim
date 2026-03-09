@@ -1,5 +1,7 @@
 # Dicionários de Latim para Português
 
+> ⚠️ Parte deste código e dos artefatos foi produzida com assistência de modelos de inteligência artificial (OCR e revisão/normalização via LLM). Os dados ainda podem conter erros e carecem de revisão humana final.
+
 ## Contextualização
 
 Minha jornada com este projeto começou com o desafio de criar e utilizar dicionários latim-português de alta qualidade para aplicações digitais. A maioria das obras de referência disponíveis está em formato PDF, muitas vezes com layout de duas colunas, o que dificulta a extração de texto estruturado por meio de OCR convencional.
@@ -219,5 +221,6 @@ Este projeto incorpora recursos de terceiros, cada um com licença ou status esp
 * **The Latin Library** — conteúdos majoritariamente de **domínio público**, compilados de várias fontes ([Credits](https://www.thelatinlibrary.com/cred.html), [About](https://www.thelatinlibrary.com/about.html)).
 * **CIRCSE / Latin-Portuguese-dictionaries** — **CC-BY-4.0** ([Fonte](https://github.com/CIRCSE/Latin-Portuguese-dictionaries)).
 * **Dicionário Escolar Latim-Português (Ernesto Faria)** — **CC0 1.0 Universal** ([Fonte](https://archive.org/details/DicionarioEscolarLatinoPortuguesDoMecPorErnestoFaria1962)).
+* **Latin-German Dictionary** — **GPL-3.0 license** ([Fonte](https://github.com/hackerpschorr/Latin-GermanDictionary)).
 
 **Disclaimer:** Este repositório pode estar **incompleto** e em evolução. Algumas etapas podem exigir scripts ou dados não totalmente publicados.

@@ -42,3 +42,11 @@ Dezotti, Lucas Consolin. (2024). CIRCSE/Latin-Portuguese-dictionaries (2.0) \[Da
 The *LiLa: Linking Latin* project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme – Grant Agreement No. 769994.
 
 The *Encoding Latin-Portuguese Dictionaries* project is part of a doctoral research developped at the Sao Paulo State University (UNESP, Brazil) and was financed in part by the CAPES Foundation (Ministry of Education of Brazil) - Finance Code 001 – Grant Agreement No. 88887.716744/2022-00.
+
+
+* **Whitaker’s Words** — uso irrestrito (“for whatever purpose”), atribuição apreciada mas não obrigatória. — William A. Whitaker ([Fonte](https://github.com/mk270/whitakers-words))
+* **Lewis & Short (Perseus XML)** — texto do Perseus Digital Library sob **CC BY-SA 4.0** ([Fonte](https://github.com/PerseusDL/lexica)).
+* **The Latin Library** — conteúdos majoritariamente de **domínio público**, compilados de várias fontes ([Credits](https://www.thelatinlibrary.com/cred.html), [About](https://www.thelatinlibrary.com/about.html)).
+* **CIRCSE / Latin-Portuguese-dictionaries** — **CC-BY-4.0** ([Fonte](https://github.com/CIRCSE/Latin-Portuguese-dictionaries)).
+* **Dicionário Escolar Latim-Português (Ernesto Faria)** — **CC0 1.0 Universal** ([Fonte](https://archive.org/details/DicionarioEscolarLatinoPortuguesDoMecPorErnestoFaria1962)).
+* **Latin-German Dictionary** — **GPL-3.0 license** ([Fonte](https://github.com/hackerpschorr/Latin-GermanDictionary)).
