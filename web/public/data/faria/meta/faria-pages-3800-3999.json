@@ -462,28 +462,6 @@
     "raw_json": "{\"id\":\"chunk_3816:3816:0\",\"lemas\":[\"Buthrotius\",\"Buthrotia\",\"Buthrotium\"],\"lema_canonico\":\"Buthrotius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Adj. relativo a Buthrotum (Butrinto); usado em autores como Cicero para designar origem/pertinência.\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 14, 10, 3\",\"Cic. Att. 14, 11, 2\"],\"notas\":\"Normalizado para a forma atestada por Lewis & Short (Būthrōtĭus).\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_3817-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_3817",
-    "page_num": 3817,
-    "lemmas": [
-      "Būthrōtum",
-      "Būthrōtum"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Topónimo próprio: Butrini (identificado como Butrio, cidade da Úmbria segundo Plínio).",
-    "exemplos": [],
-    "notas": "Leitura baseada no primeiro processamento; entrada não confirmada em dicionários principais.\n[ocr_pipeline 2025-08-16T23:09:58.114336Z] lemma_in='Butrini' → 'Būthrōtum' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:04:41Z] match direto em LS por lemma/lemma_norm | lemma_in='Būthrōtum' → 'Būthrōtum' | [dedupe] redirect → chunk_3814:3814:0 | [dedupe] redirect → chunk_3814:3814:0",
-    "raw_text": "{\"id\":\"chunk_3817:3817:0\",\"lemas\":[\"Butrini\"],\"lema_canonico\":\"Butrini\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Topónimo próprio: Butrini (identificado como Butrio, cidade da Úmbria segundo Plínio).\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 3, 115\"],\"notas\":\"Leitura baseada no primeiro processamento; entrada não confirmada em dicionários principais.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_3817:3817:0\",\"lemas\":[\"Butrini\"],\"lema_canonico\":\"Butrini\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Topónimo próprio: Butrini (identificado como Butrio, cidade da Úmbria segundo Plínio).\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 3, 115\"],\"notas\":\"Leitura baseada no primeiro processamento; entrada não confirmada em dicionários principais.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
     "id": "chunk_3818-e1",
     "volume_id": "faria",
     "doc_name": "chunk_3818",
@@ -770,28 +748,6 @@
     "raw_json": "{\"id\":\"chunk_3827:3827:1\",\"lemas\":[\"Bucinna\"],\"lema_canonico\":\"Bucinna\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Pequena ilha junto à Sicília (topônimo atestado por Plínio).\",\"aliases\":[],\"exemplos\":[\"Plin. 3, 8, 14\"],\"notas\":\"Topônimo atestado em Lewis & Short como Bucinna.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_3827-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_3827",
-    "page_num": 3827,
-    "lemmas": [
-      "buxus",
-      "buxus"
-    ],
-    "morfologia": "s. fem. 2ª (-i)",
-    "morph_render": "s. fem. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "buxus / buxum — o buxo (árvore); madeira de buxo; por extensão, objetos feitos de buxo (flauta, pente, pião, tabuinha, etc.).",
-    "exemplos": [],
-    "notas": "Inclui tanto buxus (f.) quanto buxum (n.); morfologia mista indicada em morph_extra. | [dedupe] redirect → chunk_3826:3826:1 | [dedupe] redirect → chunk_3826:3826:1",
-    "raw_text": "{\"id\":\"chunk_3827:3827:2\",\"lemas\":[\"buxus\",\"buxum\"],\"lema_canonico\":\"buxus\",\"morfologia\":\"s. fem. 2ª (-i)\",\"morph_extra\":[\"s. neut. 2ª (-i)\"],\"definicao\":\"buxus / buxum — o buxo (árvore); madeira de buxo; por extensão, objetos feitos de buxo (flauta, pente, pião, tabuinha, etc.).\",\"aliases\":[],\"exemplos\":[\"Verg. G. 2, 449\",\"Ov. M. 4, 134\",\"Plin. 16, 43\"],\"notas\":\"Inclui tanto buxus (f.) quanto buxum (n.); morfologia mista indicada em morph_extra.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_3827:3827:2\",\"lemas\":[\"buxus\",\"buxum\"],\"lema_canonico\":\"buxus\",\"morfologia\":\"s. fem. 2ª (-i)\",\"morph_extra\":[\"s. neut. 2ª (-i)\"],\"definicao\":\"buxus / buxum — o buxo (árvore); madeira de buxo; por extensão, objetos feitos de buxo (flauta, pente, pião, tabuinha, etc.).\",\"aliases\":[],\"exemplos\":[\"Verg. G. 2, 449\",\"Ov. M. 4, 134\",\"Plin. 16, 43\"],\"notas\":\"Inclui tanto buxus (f.) quanto buxum (n.); morfologia mista indicada em morph_extra.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}"
-  },
-  {
     "id": "chunk_3828-e1",
     "volume_id": "faria",
     "doc_name": "chunk_3828",
@@ -968,28 +924,6 @@
     "raw_json": "{\"id\":\"chunk_3834:3834:2\",\"lemas\":[\"Byzantii\"],\"lema_canonico\":\"Byzantii\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Habitantes de Bizâncio (forma plural: os Bizantinos).\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 2, 76\"],\"notas\":\"Entrada plural específica em LS (Bȳ-zantii, -ōrum); morfologia plural não cabe no vocabulário exigido, usei a declinação 2ª como aproximação.\",\"flags\":[\"src_ls\",\"conf:med\",\"morph_out_of_vocab\"]}"
   },
   {
-    "id": "chunk_3834-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_3834",
-    "page_num": 3834,
-    "lemmas": [
-      "Africa",
-      "Africa"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Nome próprio: a região chamada África — em sentido restrito, a Líbia/Território de Cartago; em sentido amplo, o continente ao sul do Mediterrâneo; também província romana.",
-    "exemplos": [],
-    "notas": "Entrada alinhada com Lewis & Short e Whitaker (substantivo e adjetivo derivado). | [dedupe] redirect → chunk_1060:1060:4 | [dedupe] redirect → chunk_1060:1060:4",
-    "raw_text": "{\"id\":\"chunk_3834:3834:0\",\"lemas\":[\"Africa\"],\"lema_canonico\":\"Africa\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Nome próprio: a região chamada África — em sentido restrito, a Líbia/Território de Cartago; em sentido amplo, o continente ao sul do Mediterrâneo; também província romana.\",\"aliases\":[],\"exemplos\":[\"T. Liv. 33, 48\",\"Verg. A. 1, 367\"],\"notas\":\"Entrada alinhada com Lewis & Short e Whitaker (substantivo e adjetivo derivado).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_3834:3834:0\",\"lemas\":[\"Africa\"],\"lema_canonico\":\"Africa\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Nome próprio: a região chamada África — em sentido restrito, a Líbia/Território de Cartago; em sentido amplo, o continente ao sul do Mediterrâneo; também província romana.\",\"aliases\":[],\"exemplos\":[\"T. Liv. 33, 48\",\"Verg. A. 1, 367\"],\"notas\":\"Entrada alinhada com Lewis & Short e Whitaker (substantivo e adjetivo derivado).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_3835-e1",
     "volume_id": "faria",
     "doc_name": "chunk_3835",
@@ -1056,28 +990,6 @@
     "raw_json": "{\"id\":\"chunk_3836:3836:0\",\"lemas\":[\"caballaus\",\"caballāus\"],\"lema_canonico\":\"caballaus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo a cavalo; 'de cavalo' (adjetivo, forma popular/veral).\",\"aliases\":[],\"exemplos\":[\"Pers. pr1. 1\"],\"notas\":\"Adjetivo formado sobre caball- (variante popular/vernácula); entrada baseada em OCR/first_pass.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_3837-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_3837",
-    "page_num": 3837,
-    "lemmas": [
-      "caballus",
-      "caballus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Cavalo (frequentemente um cavalo inferior, de montaria ou de carga; nag).",
-    "exemplos": [],
-    "notas": "Conferido com LS e Whitaker; significado qualificado como 'inferior' conforme LS. | [dedupe] redirect → chunk_3838:3838:0 | [dedupe] redirect → chunk_3838:3838:0",
-    "raw_text": "{\"id\":\"chunk_3837:3837:0\",\"lemas\":[\"caballus\"],\"lema_canonico\":\"caballus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Cavalo (frequentemente um cavalo inferior, de montaria ou de carga; nag).\",\"aliases\":[],\"exemplos\":[\"Hor. Ep. 1, 7, 88\"],\"notas\":\"Conferido com LS e Whitaker; significado qualificado como 'inferior' conforme LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_3837:3837:0\",\"lemas\":[\"caballus\"],\"lema_canonico\":\"caballus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Cavalo (frequentemente um cavalo inferior, de montaria ou de carga; nag).\",\"aliases\":[],\"exemplos\":[\"Hor. Ep. 1, 7, 88\"],\"notas\":\"Conferido com LS e Whitaker; significado qualificado como 'inferior' conforme LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_3838-e1",
     "volume_id": "faria",
     "doc_name": "chunk_3838",
@@ -1098,28 +1010,6 @@
     "notas": "Grafia e declinação alinhadas com Lewis & Short e Lat→Deu",
     "raw_text": "{\"id\":\"chunk_3838:3838:0\",\"lemas\":[\"caballus\"],\"lema_canonico\":\"caballus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"an inferior riding- or pack-horse; a nag; also used as a Roman cognomen\",\"aliases\":[],\"exemplos\":[\"Mart. 1, 42\"],\"notas\":\"Grafia e declinação alinhadas com Lewis & Short e Lat→Deu\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_3838:3838:0\",\"lemas\":[\"caballus\"],\"lema_canonico\":\"caballus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"an inferior riding- or pack-horse; a nag; also used as a Roman cognomen\",\"aliases\":[],\"exemplos\":[\"Mart. 1, 42\"],\"notas\":\"Grafia e declinação alinhadas com Lewis & Short e Lat→Deu\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_3839-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_3839",
-    "page_num": 3839,
-    "lemmas": [
-      "Căbўlē",
-      "Căbўlē"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "gentilic name: the people called Cabienses (inhabitants of Cabi)",
-    "exemplos": [],
-    "notas": "Entrada baseada no exemplar (Plínio); forma plural Cabienses atrelada ao lema singular Cabiensis\n[ocr_pipeline 2025-08-16T23:10:02.977034Z] lemma_in='Cabiensis' → 'Căbўlē' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:04:48Z] match direto em LS por lemma/lemma_norm | lemma_in='Căbўlē' → 'Căbўlē' | [dedupe] redirect → chunk_3845:3845:0 | [dedupe] redirect → chunk_3845:3845:0",
-    "raw_text": "{\"id\":\"chunk_3839:3839:0\",\"lemas\":[\"Cabiensis\"],\"lema_canonico\":\"Cabiensis\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"gentilic name: the people called Cabienses (inhabitants of Cabi)\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 3, 63\"],\"notas\":\"Entrada baseada no exemplar (Plínio); forma plural Cabienses atrelada ao lema singular Cabiensis\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_3839:3839:0\",\"lemas\":[\"Cabiensis\"],\"lema_canonico\":\"Cabiensis\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"gentilic name: the people called Cabienses (inhabitants of Cabi)\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 3, 63\"],\"notas\":\"Entrada baseada no exemplar (Plínio); forma plural Cabienses atrelada ao lema singular Cabiensis\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
     "id": "chunk_3840-e1",
@@ -1274,50 +1164,6 @@
     "notas": "Particípio futuro ativo registrado por Lat→Deu; marca morfológica ('part. fut. akt.') fora do vocabulário padrão -> flag morph_out_of_vocab.",
     "raw_text": "{\"id\":\"chunk_3846:3846:0\",\"lemas\":[\"cacāre\",\"cacaturus\"],\"lema_canonico\":\"cacāre\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"part. fut. akt.\"],\"definicao\":\"cacāre: verbo vulgar 'defecar'; cacātūrus: particípio futuro ativo ('prestes a defecar').\",\"aliases\":[\"cacaturus\"],\"exemplos\":[],\"notas\":\"Particípio futuro ativo registrado por Lat→Deu; marca morfológica ('part. fut. akt.') fora do vocabulário padrão -> flag morph_out_of_vocab.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}",
     "raw_json": "{\"id\":\"chunk_3846:3846:0\",\"lemas\":[\"cacāre\",\"cacaturus\"],\"lema_canonico\":\"cacāre\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"part. fut. akt.\"],\"definicao\":\"cacāre: verbo vulgar 'defecar'; cacātūrus: particípio futuro ativo ('prestes a defecar').\",\"aliases\":[\"cacaturus\"],\"exemplos\":[],\"notas\":\"Particípio futuro ativo registrado por Lat→Deu; marca morfológica ('part. fut. akt.') fora do vocabulário padrão -> flag morph_out_of_vocab.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}"
-  },
-  {
-    "id": "chunk_3847-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_3847",
-    "page_num": 3847,
-    "lemmas": [
-      "caecĭtas",
-      "caecĭtas"
-    ],
-    "morfologia": "s. masc. 1ª (-ae)",
-    "morph_render": "s. masc. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "apparently: one affected with poor health, caquetic; attested in Pliny (likely a substantive in -a with masculine gender)",
-    "exemplos": [],
-    "notas": "Reading and gender inferred from OCR entry; not attested in major lexica consulted\n[ocr_pipeline 2025-08-16T23:10:03.395945Z] lemma_in='cachetes' → 'caecĭtas' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:04:48Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='caecĭtas' → 'caecĭtas' | [dedupe] redirect → chunk_3880:3880:0 | [dedupe] redirect → chunk_3880:3880:0",
-    "raw_text": "{\"id\":\"chunk_3847:3847:0\",\"lemas\":[\"cachetes\"],\"lema_canonico\":\"cachetes\",\"morfologia\":\"s. masc. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"apparently: one affected with poor health, caquetic; attested in Pliny (likely a substantive in -a with masculine gender)\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 28, 125\"],\"notas\":\"Reading and gender inferred from OCR entry; not attested in major lexica consulted\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_3847:3847:0\",\"lemas\":[\"cachetes\"],\"lema_canonico\":\"cachetes\",\"morfologia\":\"s. masc. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"apparently: one affected with poor health, caquetic; attested in Pliny (likely a substantive in -a with masculine gender)\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 28, 125\"],\"notas\":\"Reading and gender inferred from OCR entry; not attested in major lexica consulted\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_3848-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_3848",
-    "page_num": 3848,
-    "lemmas": [
-      "cachinnare",
-      "cachinnare"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "rir alto; soltar um riso estrondoso (trans. e intr.).",
-    "exemplos": [],
-    "notas": "Corrigido: não é topónimo; verbo cachinnāre (Lat→Deu, Whitaker). | [dedupe] redirect → chunk_3850:3850:0 | [dedupe] redirect → chunk_3850:3850:0",
-    "raw_text": "{\"id\":\"chunk_3848:3848:0\",\"lemas\":[\"cachinnare\",\"cachinna\"],\"lema_canonico\":\"cachinnare\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"rir alto; soltar um riso estrondoso (trans. e intr.).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigido: não é topónimo; verbo cachinnāre (Lat→Deu, Whitaker).\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"src_firstpass\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_3848:3848:0\",\"lemas\":[\"cachinnare\",\"cachinna\"],\"lema_canonico\":\"cachinnare\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"rir alto; soltar um riso estrondoso (trans. e intr.).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigido: não é topónimo; verbo cachinnāre (Lat→Deu, Whitaker).\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"src_firstpass\",\"conf:high\"]}"
   },
   {
     "id": "chunk_3849-e1",
@@ -1540,28 +1386,6 @@
     "raw_json": "{\"id\":\"chunk_3857:3857:1\",\"lemas\":[\"camino\"],\"lema_canonico\":\"camino\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"tornar como um forno; moldar em forma de forno (verificado em Plínio; verbo raro)\",\"aliases\":[],\"exemplos\":[\"Plin. 16, 6, 8\",\"Plin. 17, 11, 16\"],\"notas\":\"Verbo raro atestado em Plínio; formas supinas/particípios normalizadas conforme LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_3857-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_3857",
-    "page_num": 3857,
-    "lemmas": [
-      "camino",
-      "camino"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "(rare) to make like an oven or furnace; to heat/subject to a furnace (LS: perf. -ātum).",
-    "exemplos": [],
-    "notas": "First_pass gave a different sense ('tornar pontudo'); LS/Whitaker attestate camīno 'make like an oven'. Kept both orthographies and noted conflict. | [dedupe] redirect → chunk_3857:3857:1 | [dedupe] redirect → chunk_3857:3857:1",
-    "raw_text": "{\"id\":\"chunk_3857:3857:2\",\"lemas\":[\"camino\",\"camīno\"],\"lema_canonico\":\"camino\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"(rare) to make like an oven or furnace; to heat/subject to a furnace (LS: perf. -ātum).\",\"aliases\":[],\"exemplos\":[\"Plin. 16, 6, 8, § 23\",\"Plin. 17, 11, 16, § 80\"],\"notas\":\"First_pass gave a different sense ('tornar pontudo'); LS/Whitaker attestate camīno 'make like an oven'. Kept both orthographies and noted conflict.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_3857:3857:2\",\"lemas\":[\"camino\",\"camīno\"],\"lema_canonico\":\"camino\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"(rare) to make like an oven or furnace; to heat/subject to a furnace (LS: perf. -ātum).\",\"aliases\":[],\"exemplos\":[\"Plin. 16, 6, 8, § 23\",\"Plin. 17, 11, 16, § 80\"],\"notas\":\"First_pass gave a different sense ('tornar pontudo'); LS/Whitaker attestate camīno 'make like an oven'. Kept both orthographies and noted conflict.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_3858-e1",
     "volume_id": "faria",
     "doc_name": "chunk_3858",
@@ -1626,28 +1450,6 @@
     "notas": "Genitivo -eris confirmado; sentido figurado (ruínas) atestado em LS.",
     "raw_text": "{\"id\":\"chunk_3860:3860:0\",\"lemas\":[\"cadāver\",\"cadaver\"],\"lema_canonico\":\"cadāver\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Cadáver, corpo morto; por extensão, restos/ruínas (de cidades, lugares).\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 5, 97\",\"Caes. B. Gal. 7, 77\",\"Caes. B. Gal. 7, 78\"],\"notas\":\"Genitivo -eris confirmado; sentido figurado (ruínas) atestado em LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_3860:3860:0\",\"lemas\":[\"cadāver\",\"cadaver\"],\"lema_canonico\":\"cadāver\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Cadáver, corpo morto; por extensão, restos/ruínas (de cidades, lugares).\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 5, 97\",\"Caes. B. Gal. 7, 77\",\"Caes. B. Gal. 7, 78\"],\"notas\":\"Genitivo -eris confirmado; sentido figurado (ruínas) atestado em LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_3861-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_3861",
-    "page_num": 3861,
-    "lemmas": [
-      "cadus",
-      "cadus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "cadus: grande vaso/ânfora para líquidos (vinho/óleo); urna funerária; recipiente para dinheiro. cadium: diminutivo/forma menor (vaso pequeno).",
-    "exemplos": [],
-    "notas": "Unificadas formas masculinas (cadus) e diminutivo neutro (cadium). | [dedupe] redirect → chunk_3871:3871:3 | [dedupe] redirect → chunk_3871:3871:3",
-    "raw_text": "{\"id\":\"chunk_3861:3861:0\",\"lemas\":[\"cadus\",\"cadium\"],\"lema_canonico\":\"cadus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"cadus: grande vaso/ânfora para líquidos (vinho/óleo); urna funerária; recipiente para dinheiro. cadium: diminutivo/forma menor (vaso pequeno).\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 36, 22, 43\",\"Verg. A. 6, 228\"],\"notas\":\"Unificadas formas masculinas (cadus) e diminutivo neutro (cadium).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_3861:3861:0\",\"lemas\":[\"cadus\",\"cadium\"],\"lema_canonico\":\"cadus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"cadus: grande vaso/ânfora para líquidos (vinho/óleo); urna funerária; recipiente para dinheiro. cadium: diminutivo/forma menor (vaso pequeno).\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 36, 22, 43\",\"Verg. A. 6, 228\"],\"notas\":\"Unificadas formas masculinas (cadus) e diminutivo neutro (cadium).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_3861-e2",
@@ -1758,28 +1560,6 @@
     "notas": "Entrada alinhada com Lewis & Short; distingue-se de 'cadmea' (óxido de zinco)",
     "raw_text": "{\"id\":\"chunk_3864:3864:0\",\"lemas\":[\"Cadmēīs\",\"Cadmeis\"],\"lema_canonico\":\"Cadmēīs\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"gentilício/derivado de Cadmo; usado como adjetivo e como substantivo feminino (filha de Cadmo)\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 4, 545\",\"Ov. Met. 3, 287\"],\"notas\":\"Entrada alinhada com Lewis & Short; distingue-se de 'cadmea' (óxido de zinco)\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_3864:3864:0\",\"lemas\":[\"Cadmēīs\",\"Cadmeis\"],\"lema_canonico\":\"Cadmēīs\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"gentilício/derivado de Cadmo; usado como adjetivo e como substantivo feminino (filha de Cadmo)\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 4, 545\",\"Ov. Met. 3, 287\"],\"notas\":\"Entrada alinhada com Lewis & Short; distingue-se de 'cadmea' (óxido de zinco)\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_3865-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_3865",
-    "page_num": 3865,
-    "lemmas": [
-      "Cadmeus",
-      "Cadmeus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:low",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Relativo a Cadmo; de Tebas; também: referente a povos tébanos (uso literário).",
-    "exemplos": [],
-    "notas": "Entrada mantida como adjetivo 1/2; falta confirmação em dicionários principais. | [dedupe] redirect → chunk_3866:3866:1 | [dedupe] redirect → chunk_3866:3866:1",
-    "raw_text": "{\"id\":\"chunk_3865:3865:0\",\"lemas\":[\"Cadmeus\",\"Cadmēus\"],\"lema_canonico\":\"Cadmeus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo a Cadmo; de Tebas; também: referente a povos tébanos (uso literário).\",\"aliases\":[],\"exemplos\":[\"Stac. Theb. 1, 376\",\"S. It. 1, 6\"],\"notas\":\"Entrada mantida como adjetivo 1/2; falta confirmação em dicionários principais.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_3865:3865:0\",\"lemas\":[\"Cadmeus\",\"Cadmēus\"],\"lema_canonico\":\"Cadmeus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo a Cadmo; de Tebas; também: referente a povos tébanos (uso literário).\",\"aliases\":[],\"exemplos\":[\"Stac. Theb. 1, 376\",\"S. It. 1, 6\"],\"notas\":\"Entrada mantida como adjetivo 1/2; falta confirmação em dicionários principais.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
     "id": "chunk_3866-e1",
@@ -2068,28 +1848,6 @@
     "raw_json": "{\"id\":\"chunk_3871:3871:1\",\"lemas\":[\"Cadurcus\",\"cadurca\",\"cadurcum\"],\"lema_canonico\":\"Cadurcus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Cadurcus, -a, -um: relativo aos Cadurci; cadurcum (subst. neutro): colcha/forro cadurciano, cama ou colcha nupcial feita de linho cadurciano.\",\"aliases\":[],\"exemplos\":[\"Juv. 7, 221\",\"Juv. 6, 537\",\"Sid. Carm. 9, 282\"],\"notas\":\"Adjetivo e substantivo neutro atestados em LS/Whitaker; corrigi leitura OCR 'cadūrnum' para cadurcum.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_3872-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_3872",
-    "page_num": 3872,
-    "lemmas": [
-      "Cēa",
-      "Cēa"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "nome da ilha grega Keos (Ceos); também forma adjectival/derivada atestada",
-    "exemplos": [],
-    "notas": "Normalizei a ligadura æ para forma simples 'Cea'; conceito baseado em Lewis & Short | [dedupe] redirect → chunk_4537:4537:0 | [dedupe] redirect → chunk_4537:4537:0 | [ocr_fix 2025-08-17T19:45:40Z] match direto em LS por lemma/lemma_norm | lemma_in='Cea' → 'Cēa'",
-    "raw_text": "{\"id\":\"chunk_3872:3872:0\",\"lemas\":[\"Cea\",\"Cēa\"],\"lema_canonico\":\"Cea\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"nome da ilha grega Keos (Ceos); também forma adjectival/derivada atestada\",\"aliases\":[],\"exemplos\":[\"Plin. 4, 12, 20\"],\"notas\":\"Normalizei a ligadura æ para forma simples 'Cea'; conceito baseado em Lewis & Short\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_3872:3872:0\",\"lemas\":[\"Cea\",\"Cēa\"],\"lema_canonico\":\"Cea\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"nome da ilha grega Keos (Ceos); também forma adjectival/derivada atestada\",\"aliases\":[],\"exemplos\":[\"Plin. 4, 12, 20\"],\"notas\":\"Normalizei a ligadura æ para forma simples 'Cea'; conceito baseado em Lewis & Short\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_3873-e1",
     "volume_id": "faria",
     "doc_name": "chunk_3873",
@@ -2310,28 +2068,6 @@
     "raw_json": "{\"id\":\"chunk_3882:3882:0\",\"lemas\":[\"Caecubus\"],\"lema_canonico\":\"Caecubus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"De Caecubum (localidade); aplicado ao vinho de Caecubum (o 'Caecubus').\",\"aliases\":[],\"exemplos\":[\"Hor. Sat. 2, 1, 85\",\"Hor. O. 1, 20, 9\"],\"notas\":\"Forma e uso como adjetivo/substantivo confirmados por Whitaker; leitura do primeiro_pass mantida.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_3883-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_3883",
-    "page_num": 3883,
-    "lemmas": [
-      "ager",
-      "ager"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "campo, terreno cultivado; por extensão, propriedade, região, território.",
-    "exemplos": [],
-    "notas": "Verificado e sintetizado a partir de Lewis & Short e Whitaker. | [dedupe] redirect → chunk_1096:1096:0 | [dedupe] redirect → chunk_1096:1096:0",
-    "raw_text": "{\"id\":\"chunk_3883:3883:0\",\"lemas\":[\"ager\"],\"lema_canonico\":\"ager\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"campo, terreno cultivado; por extensão, propriedade, região, território.\",\"aliases\":[],\"exemplos\":[\"Cic. Agr. 3, 2\",\"Ter. Heaut. 1, 1, 94\",\"Verg. E. 1, 73\"],\"notas\":\"Verificado e sintetizado a partir de Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_firstpass\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_3883:3883:0\",\"lemas\":[\"ager\"],\"lema_canonico\":\"ager\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"campo, terreno cultivado; por extensão, propriedade, região, território.\",\"aliases\":[],\"exemplos\":[\"Cic. Agr. 3, 2\",\"Ter. Heaut. 1, 1, 94\",\"Verg. E. 1, 73\"],\"notas\":\"Verificado e sintetizado a partir de Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_firstpass\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_3883-e2",
     "volume_id": "faria",
     "doc_name": "chunk_3883",
@@ -2420,28 +2156,6 @@
     "raw_json": "{\"id\":\"chunk_3886:3886:0\",\"lemas\":[\"Caecus\"],\"lema_canonico\":\"Caecus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Cognomen: 'Caecus' (o Cego), usado como sobrenome (ex.: Ápio Cláudio Caecus).\",\"aliases\":[],\"exemplos\":[\"Cic. C. M. 16\"],\"notas\":\"Registro como substantivo próprio confirmado; significado literal 'cego' associado ao cognome.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_3886-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_3886",
-    "page_num": 3886,
-    "lemmas": [
-      "caducifer",
-      "caducifer"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "que traz o caduceu; epiteto de Mercúrio (portador do bastão/heraldo)",
-    "exemplos": [],
-    "notas": "Normalizada grafia 'caducifer' a partir de OCR; LS e Whitaker confirmam uso adjetival. | [dedupe] redirect → chunk_3868:3868:2 | [dedupe] redirect → chunk_3868:3868:2",
-    "raw_text": "{\"id\":\"chunk_3886:3886:1\",\"lemas\":[\"caducifer\"],\"lema_canonico\":\"caducifer\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"que traz o caduceu; epiteto de Mercúrio (portador do bastão/heraldo)\",\"aliases\":[],\"exemplos\":[\"Ov. M. 8, 627\"],\"notas\":\"Normalizada grafia 'caducifer' a partir de OCR; LS e Whitaker confirmam uso adjetival.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_3886:3886:1\",\"lemas\":[\"caducifer\"],\"lema_canonico\":\"caducifer\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"que traz o caduceu; epiteto de Mercúrio (portador do bastão/heraldo)\",\"aliases\":[],\"exemplos\":[\"Ov. M. 8, 627\"],\"notas\":\"Normalizada grafia 'caducifer' a partir de OCR; LS e Whitaker confirmam uso adjetival.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_3886-e3",
     "volume_id": "faria",
     "doc_name": "chunk_3886",
@@ -2508,28 +2222,6 @@
     "raw_json": "{\"id\":\"chunk_3888:3888:0\",\"lemas\":[\"ic\"],\"lema_canonico\":\"ic\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"sufixo formador (equivalente a -icus/-icālis em latim / -ic em línguas modernas): 'de, relativo a'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Classe 'sufixo' não cabe no inventário morfológico exigido; marcada revisão necessária.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\",\"morph_out_of_vocab\"]}"
   },
   {
-    "id": "chunk_3888-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_3888",
-    "page_num": 3888,
-    "lemmas": [
-      "caedes",
-      "caedes"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "caedēs: massacre, matança; também assassinato, sangue, carnificina.",
-    "exemplos": [],
-    "notas": "Sentidos consolidados a partir de Lewis & Short e Whitaker. | [dedupe] redirect → chunk_3887:3887:0 | [dedupe] redirect → chunk_3887:3887:0",
-    "raw_text": "{\"id\":\"chunk_3888:3888:1\",\"lemas\":[\"caedes\"],\"lema_canonico\":\"caedes\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"caedēs: massacre, matança; também assassinato, sangue, carnificina.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Sentidos consolidados a partir de Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_3888:3888:1\",\"lemas\":[\"caedes\"],\"lema_canonico\":\"caedes\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"caedēs: massacre, matança; também assassinato, sangue, carnificina.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Sentidos consolidados a partir de Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_3888-e3",
     "volume_id": "faria",
     "doc_name": "chunk_3888",
@@ -2550,28 +2242,6 @@
     "notas": "Nome de povo atestado em Plínio (OCR). Classificação morfológica genérica; confirmar forma e caso em revisão.",
     "raw_text": "{\"id\":\"chunk_3888:3888:2\",\"lemas\":[\"Caedici\"],\"lema_canonico\":\"Caedici\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"povo Caedici, população do Sâmnio (Itália).\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 3, 108\"],\"notas\":\"Nome de povo atestado em Plínio (OCR). Classificação morfológica genérica; confirmar forma e caso em revisão.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_3888:3888:2\",\"lemas\":[\"Caedici\"],\"lema_canonico\":\"Caedici\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"povo Caedici, população do Sâmnio (Itália).\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 3, 108\"],\"notas\":\"Nome de povo atestado em Plínio (OCR). Classificação morfológica genérica; confirmar forma e caso em revisão.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_3888-e4",
-    "volume_id": "faria",
-    "doc_name": "chunk_3888",
-    "page_num": 3888,
-    "lemmas": [
-      "caedes",
-      "caedēs"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "morte; matança, massacre; assassinato; sangue; vítima abatida",
-    "exemplos": [],
-    "notas": "Corrigido: não é verbo; 'caedis' = gen. sg. de caedēs; entrada retificada com forma nominativa. | [dedupe] redirect → chunk_3887:3887:0 | [dedupe] redirect → chunk_3887:3887:0 | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='caedēs' → 'caedes'",
-    "raw_text": "{\"id\":\"chunk_3888:3888:3\",\"lemas\":[\"caedēs\",\"caedis\"],\"lema_canonico\":\"caedēs\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"morte; matança, massacre; assassinato; sangue; vítima abatida\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigido: não é verbo; 'caedis' = gen. sg. de caedēs; entrada retificada com forma nominativa.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_3888:3888:3\",\"lemas\":[\"caedēs\",\"caedis\"],\"lema_canonico\":\"caedēs\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"morte; matança, massacre; assassinato; sangue; vítima abatida\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigido: não é verbo; 'caedis' = gen. sg. de caedēs; entrada retificada com forma nominativa.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_3888-e5",
@@ -3036,28 +2706,6 @@
     "raw_json": "{\"id\":\"chunk_3904:3904:1\",\"lemas\":[\"caelipotens\"],\"lema_canonico\":\"caelipotens\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[],\"definicao\":\"Poderoso no céu; epíteto poético (ex. em Plauto).\",\"aliases\":[],\"exemplos\":[\"Plaut. Pers. 755\"],\"notas\":\"Grafia normalizada de caelipotēns; atestado em Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_3905-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_3905",
-    "page_num": 3905,
-    "lemmas": [
-      "caelĭtes",
-      "caelites"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada é redirecionamento para caelēs (forma e sentidos atestados por Whitaker e Lat→Deu). | [ocr_fix 2025-08-20T01:03:57Z] Correção automática de lema via Gaffiot | lemma_in='caelites' → 'caelĭtes' | [ocr_fix 2025-08-20T01:04:09Z] Correção automática de lema via Gaffiot | lemma_in='caelĭtes' → 'caelĭtes' | [ocr_fix 2025-08-20T01:04:12Z] Correção automática de lema via Gaffiot | lemma_in='caelĭtes' → 'caelĭtes'",
-    "raw_text": "{\"id\":\"chunk_3905:3905:0\",\"lemas\":[\"caelites\"],\"lema_canonico\":\"caelites\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"caelēs\"],\"exemplos\":[],\"notas\":\"Entrada é redirecionamento para caelēs (forma e sentidos atestados por Whitaker e Lat→Deu).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_3905:3905:0\",\"lemas\":[\"caelites\"],\"lema_canonico\":\"caelites\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"caelēs\"],\"exemplos\":[],\"notas\":\"Entrada é redirecionamento para caelēs (forma e sentidos atestados por Whitaker e Lat→Deu).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"redirect_only\"]}"
-  },
-  {
     "id": "chunk_3906-e1",
     "volume_id": "faria",
     "doc_name": "chunk_3906",
@@ -3322,28 +2970,6 @@
     "raw_json": "{\"id\":\"chunk_3911:3911:0\",\"lemas\":[\"caenum\",\"ius\"],\"lema_canonico\":\"caenum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"caenum: lama, lodo, sujeira, imundície; (fig.) escória moral. — ius: caldo, molho, sopa; (secundário) direito, lei, justiça.\",\"aliases\":[\"ius\"],\"exemplos\":[\"Cic. Tusc. 4, 24, 54\",\"Lucr. 6, 977\"],\"notas\":\"Dois lemas distintos combinados; caenum e ius atestados em LS, Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_3912-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_3912",
-    "page_num": 3912,
-    "lemmas": [
-      "caenōsus",
-      "caenōsus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "adj. = lamacento, lodoso; (subst. caenum, -i) lama, lodo, imundície",
-    "exemplos": [],
-    "notas": "Entrada conflituosa no impresso; conserva-se adj. caenosus e o subst. caenum; OCR sugeriu leitura onomástica que parece errônea. | [dedupe] redirect → chunk_3912:3912:0 | [dedupe] redirect → chunk_3912:3912:0 | [ocr_fix 2025-08-17T19:56:26Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='caenosus' → 'caenōsus'",
-    "raw_text": "{\"id\":\"chunk_3912:3912:2\",\"lemas\":[\"caenosus\",\"caenum\"],\"lema_canonico\":\"caenosus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"adj. = lamacento, lodoso; (subst. caenum, -i) lama, lodo, imundície\",\"aliases\":[],\"exemplos\":[\"Juv. 3, 266\",\"Cic. Tus. 4, 54\"],\"notas\":\"Entrada conflituosa no impresso; conserva-se adj. caenosus e o subst. caenum; OCR sugeriu leitura onomástica que parece errônea.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"src_ocr\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_3912:3912:2\",\"lemas\":[\"caenosus\",\"caenum\"],\"lema_canonico\":\"caenosus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"adj. = lamacento, lodoso; (subst. caenum, -i) lama, lodo, imundície\",\"aliases\":[],\"exemplos\":[\"Juv. 3, 266\",\"Cic. Tus. 4, 54\"],\"notas\":\"Entrada conflituosa no impresso; conserva-se adj. caenosus e o subst. caenum; OCR sugeriu leitura onomástica que parece errônea.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"src_ocr\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_3912-e2",
     "volume_id": "faria",
     "doc_name": "chunk_3912",
@@ -3432,28 +3058,6 @@
     "raw_json": "{\"id\":\"chunk_3914:3914:0\",\"lemas\":[\"ceparius\",\"Ceparius\"],\"lema_canonico\":\"ceparius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Anthroponímico: Ceparius, nome próprio masculino; também: 'cultivador/comerciante de cebolas' (substantivo comum rarus).\",\"aliases\":[],\"exemplos\":[\"Cic. Cat. 3, 14\"],\"notas\":\"Normalizada a grafia clássica Ceparius; atestado como antropónimo e como nome de ofício.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_3915-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_3915",
-    "page_num": 3915,
-    "lemmas": [
-      "cepa",
-      "cepa"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Cebola (Allium cepa); variante gráfica caepa/cēpa; usado também como termo de abuso.",
-    "exemplos": [],
-    "notas": "Normalização de leitura OCR; corrigida indicação de desinência e gênero. | [dedupe] redirect → chunk_3913:3913:0 | [dedupe] redirect → chunk_3913:3913:0",
-    "raw_text": "{\"id\":\"chunk_3915:3915:0\",\"lemas\":[\"cepa\",\"cēpa\",\"caepa\",\"cepe\"],\"lema_canonico\":\"cepa\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[\"neuter form cepe attested nom./acc./abl. sing.\"],\"definicao\":\"Cebola (Allium cepa); variante gráfica caepa/cēpa; usado também como termo de abuso.\",\"aliases\":[\"caepa\",\"cēpa\",\"cepe\"],\"exemplos\":[],\"notas\":\"Normalização de leitura OCR; corrigida indicação de desinência e gênero.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_3915:3915:0\",\"lemas\":[\"cepa\",\"cēpa\",\"caepa\",\"cepe\"],\"lema_canonico\":\"cepa\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[\"neuter form cepe attested nom./acc./abl. sing.\"],\"definicao\":\"Cebola (Allium cepa); variante gráfica caepa/cēpa; usado também como termo de abuso.\",\"aliases\":[\"caepa\",\"cēpa\",\"cepe\"],\"exemplos\":[],\"notas\":\"Normalização de leitura OCR; corrigida indicação de desinência e gênero.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_3916-e1",
     "volume_id": "faria",
     "doc_name": "chunk_3916",
@@ -3518,28 +3122,6 @@
     "notas": "Forma atestada no manuscrito; não encontrada nas fontes digitais fornecidas. | [ocr_fix 2025-08-20T01:03:57Z] Correção automática de lema via Gaffiot | lemma_in='Caerellia' → 'Caerellĭa' | [ocr_fix 2025-08-20T01:04:09Z] Correção automática de lema via Gaffiot | lemma_in='Caerellĭa' → 'Caerellĭa' | [ocr_fix 2025-08-20T01:04:12Z] Correção automática de lema via Gaffiot | lemma_in='Caerellĭa' → 'Caerellĭa'",
     "raw_text": "{\"id\":\"chunk_3918:3918:1\",\"lemas\":[\"Caerellia\"],\"lema_canonico\":\"Caerellia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Nome próprio feminino; atestado em correspondência de Cícero.\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 13, 72, 1\"],\"notas\":\"Forma atestada no manuscrito; não encontrada nas fontes digitais fornecidas.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}",
     "raw_json": "{\"id\":\"chunk_3918:3918:1\",\"lemas\":[\"Caerellia\"],\"lema_canonico\":\"Caerellia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Nome próprio feminino; atestado em correspondência de Cícero.\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 13, 72, 1\"],\"notas\":\"Forma atestada no manuscrito; não encontrada nas fontes digitais fornecidas.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}"
-  },
-  {
-    "id": "chunk_3918-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_3918",
-    "page_num": 3918,
-    "lemmas": [
-      "caerĭmōnĭa",
-      "Caerimonia"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada remissiva para 'Caerimonia' (forma canônica). Apoiado por Lewis & Short e Whitaker. | [dedupe] redirect → chunk_3919:3919:0 | [dedupe] redirect → chunk_3919:3919:0 | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='Caerimonia' → 'caerĭmōnĭa'",
-    "raw_text": "{\"id\":\"chunk_3918:3918:2\",\"lemas\":[\"Caeremōnia\",\"Caerimonia\"],\"lema_canonico\":\"Caerimonia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Caerimonia\"],\"exemplos\":[],\"notas\":\"Entrada remissiva para 'Caerimonia' (forma canônica). Apoiado por Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_3918:3918:2\",\"lemas\":[\"Caeremōnia\",\"Caerimonia\"],\"lema_canonico\":\"Caerimonia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Caerimonia\"],\"exemplos\":[],\"notas\":\"Entrada remissiva para 'Caerimonia' (forma canônica). Apoiado por Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"redirect_only\"]}"
   },
   {
     "id": "chunk_3918-e3",
@@ -3938,28 +3520,6 @@
     "raw_json": "{\"id\":\"chunk_3929:3929:2\",\"lemas\":[\"tabulae alistae\",\"tabulae alista(s)\"],\"lema_canonico\":\"tabulae alistae\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Entrada conjectural: expressão corrupta que parece referir‑se a 'tabulae' (listas/registos) associadas a censores; leitura incerta, precisa verificação em manuscritos primários.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Mantida a forma conjectural da 1ª passada; necessita confronto com o exemplar manuscrito.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_3929-e4",
-    "volume_id": "faria",
-    "doc_name": "chunk_3929",
-    "page_num": 3929,
-    "lemmas": [
-      "Caerĭtes",
-      "Caerĭtes"
-    ],
-    "morfologia": "s. 3ª (-is)",
-    "morph_render": "s. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Gentilício/etnônimo relativo a Caere (cidade etrusca); forma atestada como Caerītes (pl./coletivo).",
-    "exemplos": [],
-    "notas": "Grafia normalizada a partir de leituras variantes do manuscrito; atestado em LS (Caerĭtes). | [dedupe] redirect → chunk_3920:3920:0 | [dedupe] redirect → chunk_3920:3920:0 | [ocr_fix 2025-08-17T19:56:27Z] match direto em LS por lemma/lemma_norm | lemma_in='Caerites' → 'Caerĭtes'",
-    "raw_text": "{\"id\":\"chunk_3929:3929:3\",\"lemas\":[\"Caerites\",\"Caerītes\"],\"lema_canonico\":\"Caerites\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Gentilício/etnônimo relativo a Caere (cidade etrusca); forma atestada como Caerītes (pl./coletivo).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Grafia normalizada a partir de leituras variantes do manuscrito; atestado em LS (Caerĭtes).\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_3929:3929:3\",\"lemas\":[\"Caerites\",\"Caerītes\"],\"lema_canonico\":\"Caerites\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Gentilício/etnônimo relativo a Caere (cidade etrusca); forma atestada como Caerītes (pl./coletivo).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Grafia normalizada a partir de leituras variantes do manuscrito; atestado em LS (Caerĭtes).\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_3929-e5",
     "volume_id": "faria",
     "doc_name": "chunk_3929",
@@ -4090,50 +3650,6 @@
     "notas": "Corresponde ao cognome listado em Lewis & Short. | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='Caesius' → 'Caesĭus'",
     "raw_text": "{\"id\":\"chunk_3934:3934:0\",\"lemas\":[\"Caesius\"],\"lema_canonico\":\"Caesius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Cognome romano (nome próprio masculino); atestado em várias fontes (p.ex. M. Caesius, P. Caesius, Caesius Bassus).\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 13, 11\",\"Cic. Verr. 2, 1, 50\",\"Pers. Sat. 6\"],\"notas\":\"Corresponde ao cognome listado em Lewis & Short.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_3934:3934:0\",\"lemas\":[\"Caesius\"],\"lema_canonico\":\"Caesius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Cognome romano (nome próprio masculino); atestado em várias fontes (p.ex. M. Caesius, P. Caesius, Caesius Bassus).\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 13, 11\",\"Cic. Verr. 2, 1, 50\",\"Pers. Sat. 6\"],\"notas\":\"Corresponde ao cognome listado em Lewis & Short.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_3935-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_3935",
-    "page_num": 3935,
-    "lemmas": [
-      "Caeso",
-      "Caeso"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "prenome romano (Kaeso/Caeso)",
-    "exemplos": [],
-    "notas": "Forma e status como prenome confirmados em Lewis & Short; variante gráfica Kaeso atestada | [dedupe] redirect → chunk_15191:15191:0 | [dedupe] redirect → chunk_15191:15191:0",
-    "raw_text": "{\"id\":\"chunk_3935:3935:0\",\"lemas\":[\"Caeso\",\"Kaeso\"],\"lema_canonico\":\"Caeso\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"prenome romano (Kaeso/Caeso)\",\"aliases\":[],\"exemplos\":[\"Liv. 2, 43, 2\"],\"notas\":\"Forma e status como prenome confirmados em Lewis & Short; variante gráfica Kaeso atestada\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_3935:3935:0\",\"lemas\":[\"Caeso\",\"Kaeso\"],\"lema_canonico\":\"Caeso\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"prenome romano (Kaeso/Caeso)\",\"aliases\":[],\"exemplos\":[\"Liv. 2, 43, 2\"],\"notas\":\"Forma e status como prenome confirmados em Lewis & Short; variante gráfica Kaeso atestada\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_3936-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_3936",
-    "page_num": 3936,
-    "lemmas": [
-      "Caeso",
-      "Caeso"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Praenomen romano Caeso (var. Kaeso), usado como nome pessoal e cognomen em famílias romanas.",
-    "exemplos": [],
-    "notas": "Forma e função confirmadas em LS e Whitaker; mantidas variantes. | [dedupe] redirect → chunk_15191:15191:0 | [dedupe] redirect → chunk_15191:15191:0",
-    "raw_text": "{\"id\":\"chunk_3936:3936:0\",\"lemas\":[\"Caeso\",\"Kaeso\"],\"lema_canonico\":\"Caeso\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Praenomen romano Caeso (var. Kaeso), usado como nome pessoal e cognomen em famílias romanas.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma e função confirmadas em LS e Whitaker; mantidas variantes.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_3936:3936:0\",\"lemas\":[\"Caeso\",\"Kaeso\"],\"lema_canonico\":\"Caeso\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Praenomen romano Caeso (var. Kaeso), usado como nome pessoal e cognomen em famílias romanas.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma e função confirmadas em LS e Whitaker; mantidas variantes.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_3936-e2",
@@ -4310,50 +3826,6 @@
     "notas": "Unificadas grafias alternativas (cetra) e normalizada declinação conforme LS/Whitaker.",
     "raw_text": "{\"id\":\"chunk_3943:3943:0\",\"lemas\":[\"caetra\",\"cetra\"],\"lema_canonico\":\"caetra\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"escudo curto, leve (tipo hispânico); pequeno escudo de couro\",\"aliases\":[],\"exemplos\":[\"Verg. A. 7, 732\",\"Liv. 21, 27, 5\",\"Plin. Nat. 11, 39, §227\"],\"notas\":\"Unificadas grafias alternativas (cetra) e normalizada declinação conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_3943:3943:0\",\"lemas\":[\"caetra\",\"cetra\"],\"lema_canonico\":\"caetra\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"escudo curto, leve (tipo hispânico); pequeno escudo de couro\",\"aliases\":[],\"exemplos\":[\"Verg. A. 7, 732\",\"Liv. 21, 27, 5\",\"Plin. Nat. 11, 39, §227\"],\"notas\":\"Unificadas grafias alternativas (cetra) e normalizada declinação conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_3944-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_3944",
-    "page_num": 3944,
-    "lemmas": [
-      "caetra",
-      "caetra"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "pequeno escudo espanhol, escudo curto e leve",
-    "exemplos": [],
-    "notas": "Grafia unificada com variantes 'cetra' conforme LS/Whitaker. | [dedupe] redirect → chunk_3943:3943:0 | [dedupe] redirect → chunk_3943:3943:0",
-    "raw_text": "{\"id\":\"chunk_3944:3944:0\",\"lemas\":[\"caetra\",\"cetra\"],\"lema_canonico\":\"caetra\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"pequeno escudo espanhol, escudo curto e leve\",\"aliases\":[],\"exemplos\":[\"Verg. A. 7, 732\",\"Liv. 21, 27, 5\",\"Liv. 28, 5, 11\",\"Plin. 11, 39, 93\",\"Tac. Agr. 36\",\"Suet. Calig. 19\",\"Luc. 7, 232\",\"Sil. 3, 278\",\"Sil. 3, 348\",\"Varr. ap. Non. p. 82, 18\"],\"notas\":\"Grafia unificada com variantes 'cetra' conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_3944:3944:0\",\"lemas\":[\"caetra\",\"cetra\"],\"lema_canonico\":\"caetra\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"pequeno escudo espanhol, escudo curto e leve\",\"aliases\":[],\"exemplos\":[\"Verg. A. 7, 732\",\"Liv. 21, 27, 5\",\"Liv. 28, 5, 11\",\"Plin. 11, 39, 93\",\"Tac. Agr. 36\",\"Suet. Calig. 19\",\"Luc. 7, 232\",\"Sil. 3, 278\",\"Sil. 3, 348\",\"Varr. ap. Non. p. 82, 18\"],\"notas\":\"Grafia unificada com variantes 'cetra' conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_3945-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_3945",
-    "page_num": 3945,
-    "lemmas": [
-      "Caeus",
-      "Caeus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Remissão: ver Coeus e Ceus (Lewis & Short). | [ocr_fix 2025-08-17T19:45:43Z] match direto em LS por lemma/lemma_norm | lemma_in='Caeus' → 'Caeus'",
-    "raw_text": "{\"id\":\"chunk_3945:3945:0\",\"lemas\":[\"Caeus\",\"Cæus\"],\"lema_canonico\":\"Caeus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Coeus\",\"Ceus\"],\"exemplos\":[],\"notas\":\"Remissão: ver Coeus e Ceus (Lewis & Short).\",\"flags\":[\"src_ls\",\"conf:med\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_3945:3945:0\",\"lemas\":[\"Caeus\",\"Cæus\"],\"lema_canonico\":\"Caeus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Coeus\",\"Ceus\"],\"exemplos\":[],\"notas\":\"Remissão: ver Coeus e Ceus (Lewis & Short).\",\"flags\":[\"src_ls\",\"conf:med\",\"redirect_only\"]}"
   },
   {
     "id": "chunk_3945-e2",
@@ -4884,28 +4356,6 @@
     "raw_json": "{\"id\":\"chunk_3963:3963:1\",\"lemas\":[\"calcarius\",\"calcaria\",\"calcarium\"],\"lema_canonico\":\"calcarius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo à cal; destinado ao calcínio; pertencente ao forno ou indústria da cal.\",\"aliases\":[],\"exemplos\":[\"Cato, R. R. 38, 1\"],\"notas\":\"Unificada grafia e adicionadas variantes femin./neut. conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_3963-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_3963",
-    "page_num": 3963,
-    "lemmas": [
-      "Călăis",
-      "Călăis"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 1,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada indicada como referência cruzada ('Calais v. Calchas') no OCR; identificação incerta — necessita verificação (possível confusão entre Călăis e Calchās).\n[ocr_pipeline 2025-08-16T23:23:48.446546Z] lemma_in='Calais' → 'Călăis' | motivo: match direto em LS por lemma/lemma_norm | [ocr_fix 2025-08-17T01:23:11Z] match direto em LS por lemma/lemma_norm | lemma_in='Călăis' → 'Călăis'",
-    "raw_text": "{\"id\":\"chunk_3963:3963:2\",\"lemas\":[\"Calais\",\"Calchas\"],\"lema_canonico\":\"Calais\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Calchas\"],\"exemplos\":[],\"notas\":\"Entrada indicada como referência cruzada ('Calais v. Calchas') no OCR; identificação incerta — necessita verificação (possível confusão entre Călăis e Calchās).\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_3963:3963:2\",\"lemas\":[\"Calais\",\"Calchas\"],\"lema_canonico\":\"Calais\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Calchas\"],\"exemplos\":[],\"notas\":\"Entrada indicada como referência cruzada ('Calais v. Calchas') no OCR; identificação incerta — necessita verificação (possível confusão entre Călăis e Calchās).\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\",\"redirect_only\"]}"
-  },
-  {
     "id": "chunk_3964-e1",
     "volume_id": "faria",
     "doc_name": "chunk_3964",
@@ -5170,72 +4620,6 @@
     "raw_json": "{\"id\":\"chunk_3975:3975:0\",\"lemas\":[\"Calcedonius\",\"Chalcedonius\",\"Calchedonius\"],\"lema_canonico\":\"Calcedonius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo a Calcedônia (Chalcedon); calcedônio.\",\"aliases\":[],\"exemplos\":[\"Cic. Br. 30\"],\"notas\":\"Normalizada para Calcedonius; variantes preservadas.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_3975-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_3975",
-    "page_num": 3975,
-    "lemmas": [
-      "calceatus",
-      "calceatus"
-    ],
-    "morfologia": "s. masc. 4ª (-us)",
-    "morph_render": "s. masc. 4ª (-us)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Coberto de calceamento; também substantivo: cobertura para o pé, sandália, calçado.",
-    "exemplos": [],
-    "notas": "Particípio/adjetivo e substantivo atestado por Lewis & Short e Whitaker. | [dedupe] redirect → chunk_3968:3968:0 | [dedupe] redirect → chunk_3968:3968:0",
-    "raw_text": "{\"id\":\"chunk_3975:3975:1\",\"lemas\":[\"calceatus\"],\"lema_canonico\":\"calceatus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"Coberto de calceamento; também substantivo: cobertura para o pé, sandália, calçado.\",\"aliases\":[],\"exemplos\":[\"Plin. HN 8, 57\"],\"notas\":\"Particípio/adjetivo e substantivo atestado por Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_3975:3975:1\",\"lemas\":[\"calceatus\"],\"lema_canonico\":\"calceatus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"Coberto de calceamento; também substantivo: cobertura para o pé, sandália, calçado.\",\"aliases\":[],\"exemplos\":[\"Plin. HN 8, 57\"],\"notas\":\"Particípio/adjetivo e substantivo atestado por Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_3975-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_3975",
-    "page_num": 3975,
-    "lemmas": [
-      "calceo",
-      "calceo"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Vestir calçados; calçar, fornecer com sapatos.",
-    "exemplos": [],
-    "notas": "Forma e sentido confirmados por Lewis & Short e Lat→Deu. | [dedupe] redirect → chunk_3969:3969:0 | [dedupe] redirect → chunk_3969:3969:0",
-    "raw_text": "{\"id\":\"chunk_3975:3975:2\",\"lemas\":[\"calceo\"],\"lema_canonico\":\"calceo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"Vestir calçados; calçar, fornecer com sapatos.\",\"aliases\":[],\"exemplos\":[\"Cic. Cael. 26\"],\"notas\":\"Forma e sentido confirmados por Lewis & Short e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_3975:3975:2\",\"lemas\":[\"calceo\"],\"lema_canonico\":\"calceo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"Vestir calçados; calçar, fornecer com sapatos.\",\"aliases\":[],\"exemplos\":[\"Cic. Cael. 26\"],\"notas\":\"Forma e sentido confirmados por Lewis & Short e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_3975-e4",
-    "volume_id": "faria",
-    "doc_name": "chunk_3975",
-    "page_num": 3975,
-    "lemmas": [
-      "calx",
-      "calx"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Calcanhar; espora; (fig.) coice, golpe com o pé; (entrada refere-se ao genitivo 'calcis').",
-    "exemplos": [],
-    "notas": "Entrada trata especificamente do genitivo 'calcis'. | [dedupe] redirect → chunk_4074:4074:0 | [dedupe] redirect → chunk_4074:4074:0",
-    "raw_text": "{\"id\":\"chunk_3975:3975:3\",\"lemas\":[\"calx\"],\"lema_canonico\":\"calx\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Calcanhar; espora; (fig.) coice, golpe com o pé; (entrada refere-se ao genitivo 'calcis').\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada trata especificamente do genitivo 'calcis'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_firstpass\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_3975:3975:3\",\"lemas\":[\"calx\"],\"lema_canonico\":\"calx\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Calcanhar; espora; (fig.) coice, golpe com o pé; (entrada refere-se ao genitivo 'calcis').\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada trata especificamente do genitivo 'calcis'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_firstpass\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_3976-e1",
     "volume_id": "faria",
     "doc_name": "chunk_3976",
@@ -5256,28 +4640,6 @@
     "notas": "Correlacionado com verb. e subst. atestados por Lewis & Short e Whitaker.",
     "raw_text": "{\"id\":\"chunk_3976:3976:0\",\"lemas\":[\"calcitro\"],\"lema_canonico\":\"calcitro\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"Bater com os calcanhares; dar coices; fig.: recalcitrar, resistir; também substantivo: aquele que coiceia.\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 30, 16, 53\",\"Cic. Cael. 15, 36\",\"Ov. Met. 12, 240\"],\"notas\":\"Correlacionado com verb. e subst. atestados por Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_3976:3976:0\",\"lemas\":[\"calcitro\"],\"lema_canonico\":\"calcitro\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"Bater com os calcanhares; dar coices; fig.: recalcitrar, resistir; também substantivo: aquele que coiceia.\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 30, 16, 53\",\"Cic. Cael. 15, 36\",\"Ov. Met. 12, 240\"],\"notas\":\"Correlacionado com verb. e subst. atestados por Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_3977-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_3977",
-    "page_num": 3977,
-    "lemmas": [
-      "calcĭus",
-      "calcĭus"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 1,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "First pass indica remissão (vide calceus). Não há confirmação externa clara em fontes consultadas; necessita verificação. | [ocr_fix 2025-08-17T18:23:54Z] match direto em Gaffiot por lemma/lemma_norm | lemma_in='calcius' → 'calcĭus' | [ocr_fix 2025-08-17T19:45:42Z] match direto em Gaffiot por lemma/lemma_norm | lemma_in='calcĭus' → 'calcĭus'",
-    "raw_text": "{\"id\":\"chunk_3977:3977:0\",\"lemas\":[\"calcius\"],\"lema_canonico\":\"calcius\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"calceus\"],\"exemplos\":[],\"notas\":\"First pass indica remissão (vide calceus). Não há confirmação externa clara em fontes consultadas; necessita verificação.\",\"flags\":[\"src_firstpass\",\"conf:low\",\"needs_review\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_3977:3977:0\",\"lemas\":[\"calcius\"],\"lema_canonico\":\"calcius\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"calceus\"],\"exemplos\":[],\"notas\":\"First pass indica remissão (vide calceus). Não há confirmação externa clara em fontes consultadas; necessita verificação.\",\"flags\":[\"src_firstpass\",\"conf:low\",\"needs_review\",\"redirect_only\"]}"
   },
   {
     "id": "chunk_3978-e1",
@@ -5566,28 +4928,6 @@
     "raw_json": "{\"id\":\"chunk_3990:3990:0\",\"lemas\":[\"caledonicus\",\"caledonius\"],\"lema_canonico\":\"caledonicus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Caledônico: relativo a Caledônia; pertencente aos Caledones.\",\"aliases\":[],\"exemplos\":[\"Plin. 4, 16, 30 §102\",\"Plin. 1, 17, 3\"],\"notas\":\"Grafia normalizada para -icus; variantes atestadas no LS (Călēdŏnĭcus, Călē-dŏnĭus).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_3991-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_3991",
-    "page_num": 3991,
-    "lemmas": [
-      "calefacio",
-      "calefacio"
-    ],
-    "morfologia": "v. 3ª -iō (-ere)",
-    "morph_render": "v. 3ª -iō (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Aquecer; em sentido figurado: excitar, inflamar, perturbar; também usado com sentido de preocupar ou afligir.",
-    "exemplos": [],
-    "notas": "Principalmente atestado como calefaciō, calefacere, calefēcī, calefactum; classificação como 3ª -iō confirmada por LS/Whitaker. | [dedupe] redirect → chunk_23784:23784:1 | [dedupe] redirect → chunk_23784:23784:1",
-    "raw_text": "{\"id\":\"chunk_3991:3991:0\",\"lemas\":[\"calefacio\"],\"lema_canonico\":\"calefacio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"Aquecer; em sentido figurado: excitar, inflamar, perturbar; também usado com sentido de preocupar ou afligir.\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 2, 151\",\"Verg. Aen. 12, 269\",\"Cic. Q. Fr. 3, 2, 1\"],\"notas\":\"Principalmente atestado como calefaciō, calefacere, calefēcī, calefactum; classificação como 3ª -iō confirmada por LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_3991:3991:0\",\"lemas\":[\"calefacio\"],\"lema_canonico\":\"calefacio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"Aquecer; em sentido figurado: excitar, inflamar, perturbar; também usado com sentido de preocupar ou afligir.\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 2, 151\",\"Verg. Aen. 12, 269\",\"Cic. Q. Fr. 3, 2, 1\"],\"notas\":\"Principalmente atestado como calefaciō, calefacere, calefēcī, calefactum; classificação como 3ª -iō confirmada por LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_3992-e1",
     "volume_id": "faria",
     "doc_name": "chunk_3992",
@@ -5608,72 +4948,6 @@
     "notas": "Normalizada conforme Lewis & Short e Whitaker; gen. calefactionis.",
     "raw_text": "{\"id\":\"chunk_3992:3992:0\",\"lemas\":[\"calefactio\",\"calefactio\",\"calefactio\"],\"lema_canonico\":\"calefactio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"aquecimento, ato de aquecer; aquecimento (de banhos) (uso pós-Augusto)\",\"aliases\":[],\"exemplos\":[\"Dig. 50, 4, 18, § 4\",\"Dig. 50, 4, 1, § 2\"],\"notas\":\"Normalizada conforme Lewis & Short e Whitaker; gen. calefactionis.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_3992:3992:0\",\"lemas\":[\"calefactio\",\"calefactio\",\"calefactio\"],\"lema_canonico\":\"calefactio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"aquecimento, ato de aquecer; aquecimento (de banhos) (uso pós-Augusto)\",\"aliases\":[],\"exemplos\":[\"Dig. 50, 4, 18, § 4\",\"Dig. 50, 4, 1, § 2\"],\"notas\":\"Normalizada conforme Lewis & Short e Whitaker; gen. calefactionis.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_3993-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_3993",
-    "page_num": 3993,
-    "lemmas": [
-      "calefactus",
-      "calefactus"
-    ],
-    "morfologia": "s. masc. 4ª (-us)",
-    "morph_render": "s. masc. 4ª (-us)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "1) como substantivo raro (post‑augusteum): aquecimento, ação de aquecer; 2) particípio perfeito passivo de calefacio: aquecido, inflamado.",
-    "exemplos": [],
-    "notas": "Registra-se tanto como ss. (4ª decl.) quanto como part. perf.; entradas corroboradas por LS e Whitaker. | [dedupe] redirect → chunk_23784:23784:3 | [dedupe] redirect → chunk_23784:23784:3",
-    "raw_text": "{\"id\":\"chunk_3993:3993:0\",\"lemas\":[\"calefactus\"],\"lema_canonico\":\"calefactus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"1) como substantivo raro (post‑augusteum): aquecimento, ação de aquecer; 2) particípio perfeito passivo de calefacio: aquecido, inflamado.\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 29, 3, 11\",\"Lact. Opif. Dei 14, 5\",\"Sen. Nat. 4, 2, 27\"],\"notas\":\"Registra-se tanto como ss. (4ª decl.) quanto como part. perf.; entradas corroboradas por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_3993:3993:0\",\"lemas\":[\"calefactus\"],\"lema_canonico\":\"calefactus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"1) como substantivo raro (post‑augusteum): aquecimento, ação de aquecer; 2) particípio perfeito passivo de calefacio: aquecido, inflamado.\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 29, 3, 11\",\"Lact. Opif. Dei 14, 5\",\"Sen. Nat. 4, 2, 27\"],\"notas\":\"Registra-se tanto como ss. (4ª decl.) quanto como part. perf.; entradas corroboradas por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_3994-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_3994",
-    "page_num": 3994,
-    "lemmas": [
-      "calefactus",
-      "calefactus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "heated, warmed; excited, roused (participle perf. pass. of calefacio).",
-    "exemplos": [],
-    "notas": "Particípio perfeito passivo confirmado; forma e sentido corroborados por LS/Whitaker. | [dedupe] redirect → chunk_23784:23784:2 | [dedupe] redirect → chunk_23784:23784:2",
-    "raw_text": "{\"id\":\"chunk_3994:3994:0\",\"lemas\":[\"calefactus\"],\"lema_canonico\":\"calefactus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"heated, warmed; excited, roused (participle perf. pass. of calefacio).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Particípio perfeito passivo confirmado; forma e sentido corroborados por LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_3994:3994:0\",\"lemas\":[\"calefactus\"],\"lema_canonico\":\"calefactus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"heated, warmed; excited, roused (participle perf. pass. of calefacio).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Particípio perfeito passivo confirmado; forma e sentido corroborados por LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_3995-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_3995",
-    "page_num": 3995,
-    "lemmas": [
-      "calefacere",
-      "calefacere"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "aqueçer; excitar, perturbar (perf. calefēci = 1.ª p. sg. perf. ind. act. de calefacio)",
-    "exemplos": [],
-    "notas": "Entrada normalizada: perfeito 'calefeci' associado ao infinitivo calefacere/calefacio. | [dedupe] redirect → chunk_20164:20164:1 | [dedupe] redirect → chunk_20164:20164:1",
-    "raw_text": "{\"id\":\"chunk_3995:3995:0\",\"lemas\":[\"calefacere\",\"calefacio\"],\"lema_canonico\":\"calefacere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"aqueçer; excitar, perturbar (perf. calefēci = 1.ª p. sg. perf. ind. act. de calefacio)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada normalizada: perfeito 'calefeci' associado ao infinitivo calefacere/calefacio.\",\"flags\":[\"src_latdeu\",\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_3995:3995:0\",\"lemas\":[\"calefacere\",\"calefacio\"],\"lema_canonico\":\"calefacere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"aqueçer; excitar, perturbar (perf. calefēci = 1.ª p. sg. perf. ind. act. de calefacio)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada normalizada: perfeito 'calefeci' associado ao infinitivo calefacere/calefacio.\",\"flags\":[\"src_latdeu\",\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_3996-e1",
@@ -5784,27 +5058,5 @@
     "notas": "Genitivo registrado -i; forma atestada em Plínio. Correlaciona com LS.",
     "raw_text": "{\"id\":\"chunk_3998:3998:0\",\"lemas\":[\"Calentum\"],\"lema_canonico\":\"Calentum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"cidade na Baetica (Plin. Nat. 35, 171)\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 35, 171\"],\"notas\":\"Genitivo registrado -i; forma atestada em Plínio. Correlaciona com LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_3998:3998:0\",\"lemas\":[\"Calentum\"],\"lema_canonico\":\"Calentum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"cidade na Baetica (Plin. Nat. 35, 171)\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 35, 171\"],\"notas\":\"Genitivo registrado -i; forma atestada em Plínio. Correlaciona com LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_3999-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_3999",
-    "page_num": 3999,
-    "lemmas": [
-      "Călēnus",
-      "Călēnus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "topónimo/antroponímico relacionado a Cales (cidade da Campânia)",
-    "exemplos": [],
-    "notas": "Corrigida leitura de OCR ('Gales' → 'Cales'); mantida como substantivo próprio. | [dedupe] redirect → chunk_4001:4001:0 | [dedupe] redirect → chunk_4001:4001:0 | [ocr_fix 2025-08-17T19:45:40Z] match direto em Gaffiot por lemma/lemma_norm | lemma_in='Calenus' → 'Călēnus'",
-    "raw_text": "{\"id\":\"chunk_3999:3999:0\",\"lemas\":[\"Calenus\"],\"lema_canonico\":\"Calenus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"topónimo/antroponímico relacionado a Cales (cidade da Campânia)\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 3, 63\",\"Cic. A. 8, 3, 7\"],\"notas\":\"Corrigida leitura de OCR ('Gales' → 'Cales'); mantida como substantivo próprio.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_3999:3999:0\",\"lemas\":[\"Calenus\"],\"lema_canonico\":\"Calenus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"topónimo/antroponímico relacionado a Cales (cidade da Campânia)\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 3, 63\",\"Cic. A. 8, 3, 7\"],\"notas\":\"Corrigida leitura de OCR ('Gales' → 'Cales'); mantida como substantivo próprio.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}"
   }
 ]

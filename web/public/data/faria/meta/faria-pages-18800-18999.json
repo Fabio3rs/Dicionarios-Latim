@@ -66,28 +66,6 @@
     "raw_json": "{\"id\":\"chunk_18802:18802:0\",\"lemas\":[\"Ocyroe\",\"Ocyroë\",\"Ocroë\"],\"lema_canonico\":\"Ocyroe\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"nome próprio feminino; uma ninfa\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 2, 637\"],\"notas\":\"Formas normalizadas a partir do OCR; entrada não confirmada em dicionários principais.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_18803-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_18803",
-    "page_num": 18803,
-    "lemmas": [
-      "odeoram",
-      "odeoram"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:low",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "forma corrupta ou desconhecida; possivelmente leitura errada ou missegmentação envolvendo ōdē- / ōdĕ-; não confirmada em dicionários padrão.",
-    "exemplos": [],
-    "notas": "Preservada da primeira passada por impossibilidade de retificação segura a partir das fontes fornecidas. | [dedupe] redirect → chunk_18803:18803:1 | [dedupe] redirect → chunk_18803:18803:1",
-    "raw_text": "{\"id\":\"chunk_18803:18803:0\",\"lemas\":[\"odeoram\"],\"lema_canonico\":\"odeoram\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"forma corrupta ou desconhecida; possivelmente leitura errada ou missegmentação envolvendo ōdē- / ōdĕ-; não confirmada em dicionários padrão.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Preservada da primeira passada por impossibilidade de retificação segura a partir das fontes fornecidas.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_18803:18803:0\",\"lemas\":[\"odeoram\"],\"lema_canonico\":\"odeoram\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"forma corrupta ou desconhecida; possivelmente leitura errada ou missegmentação envolvendo ōdē- / ōdĕ-; não confirmada em dicionários padrão.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Preservada da primeira passada por impossibilidade de retificação segura a partir das fontes fornecidas.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
     "id": "chunk_18803-e2",
     "volume_id": "faria",
     "doc_name": "chunk_18803",
@@ -396,28 +374,6 @@
     "raw_json": "{\"id\":\"chunk_18815:18815:0\",\"lemas\":[\"Oeneus\",\"Oenēus\"],\"lema_canonico\":\"Oeneus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo a Œneus; de Œneus, de Calydon (epíteto/adj. gentilício)\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 8, 273\"],\"notas\":\"Forma e uso conforme Lewis & Short; tratada como adjetivo gentilício.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_18816-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_18816",
-    "page_num": 18816,
-    "lemmas": [
-      "Oeneus",
-      "Oeneus"
-    ],
-    "morfologia": "a, um; subs. pr. m. (prop.)",
-    "morph_render": "a, um; subs. pr. m. (prop.)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Rei de Calydon (Etólia), marido de Althæa e pai de Meleager; figura da mitologia grega citada em autores clássicos.",
-    "exemplos": [],
-    "notas": "Forma e referências preservadas da primeira passada; declinação variante (analises léxicas divergem entre fontes).\n[ocr_pipeline 2025-08-16T23:26:27.056405Z] lemma_in='Oeneus' → 'Oeneus' | motivo: match direto em LS por lemma/lemma_norm | [ocr_fix 2025-08-17T01:26:49Z] match direto em LS por lemma/lemma_norm | lemma_in='Oeneus' → 'Oeneus' | [dedupe] redirect → chunk_18814:18814:0 | [dedupe] redirect → chunk_18814:18814:0",
-    "raw_text": "{\"id\":\"chunk_18816:18816:0\",\"lemas\":[\"Oeneus\",\"Oenēus\"],\"lema_canonico\":\"Oeneus\",\"morfologia\":\"a, um; subs. pr. m. (prop.)\",\"morph_extra\":[],\"definicao\":\"Rei de Calydon (Etólia), marido de Althæa e pai de Meleager; figura da mitologia grega citada em autores clássicos.\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 8, 281 sqq.\",\"Hyg. Fab. 172\"],\"notas\":\"Forma e referências preservadas da primeira passada; declinação variante (analises léxicas divergem entre fontes).\",\"flags\":[\"src_firstpass\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_18816:18816:0\",\"lemas\":[\"Oeneus\",\"Oenēus\"],\"lema_canonico\":\"Oeneus\",\"morfologia\":\"a, um; subs. pr. m. (prop.)\",\"morph_extra\":[],\"definicao\":\"Rei de Calydon (Etólia), marido de Althæa e pai de Meleager; figura da mitologia grega citada em autores clássicos.\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 8, 281 sqq.\",\"Hyg. Fab. 172\"],\"notas\":\"Forma e referências preservadas da primeira passada; declinação variante (analises léxicas divergem entre fontes).\",\"flags\":[\"src_firstpass\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
     "id": "chunk_18817-e1",
     "volume_id": "faria",
     "doc_name": "chunk_18817",
@@ -460,28 +416,6 @@
     "notas": "Apoiado por Lewis & Short (Oenīdes, ae); grafia e declinação ajustadas segundo LS. | [ocr_fix 2025-08-17T19:50:31Z] match direto em LS por lemma/lemma_norm | lemma_in='Oenides' → 'Oenīdes'",
     "raw_text": "{\"id\":\"chunk_18818:18818:0\",\"lemas\":[\"Oenides\",\"Oenīdes\"],\"lema_canonico\":\"Oenides\",\"morfologia\":\"s. masc. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Patronímico/epíteto: filho ou descendente de Oeneus (p. ex. Meleagro; Diomedes).\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 8, 411\",\"Ov. F. 4, 76\"],\"notas\":\"Apoiado por Lewis & Short (Oenīdes, ae); grafia e declinação ajustadas segundo LS.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"src_ocr\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_18818:18818:0\",\"lemas\":[\"Oenides\",\"Oenīdes\"],\"lema_canonico\":\"Oenides\",\"morfologia\":\"s. masc. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Patronímico/epíteto: filho ou descendente de Oeneus (p. ex. Meleagro; Diomedes).\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 8, 411\",\"Ov. F. 4, 76\"],\"notas\":\"Apoiado por Lewis & Short (Oenīdes, ae); grafia e declinação ajustadas segundo LS.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"src_ocr\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_18819-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_18819",
-    "page_num": 18819,
-    "lemmas": [
-      "Oenoe",
-      "Oenoe"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:low",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Entrada ambígua/variante apontando para Oenē; possivelmente topônimo feminino ou forma variante; definição precisa incerta.",
-    "exemplos": [],
-    "notas": "Entrada do first_pass indica 'v. Oenē' (ver Oenē). Não há confirmação externa suficiente. | [dedupe] redirect → chunk_18820:18820:0 | [dedupe] redirect → chunk_18820:18820:0",
-    "raw_text": "{\"id\":\"chunk_18819:18819:0\",\"lemas\":[\"Oenoe\"],\"lema_canonico\":\"Oenoe\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Entrada ambígua/variante apontando para Oenē; possivelmente topônimo feminino ou forma variante; definição precisa incerta.\",\"aliases\":[\"Oenē\"],\"exemplos\":[],\"notas\":\"Entrada do first_pass indica 'v. Oenē' (ver Oenē). Não há confirmação externa suficiente.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_18819:18819:0\",\"lemas\":[\"Oenoe\"],\"lema_canonico\":\"Oenoe\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Entrada ambígua/variante apontando para Oenē; possivelmente topônimo feminino ou forma variante; definição precisa incerta.\",\"aliases\":[\"Oenē\"],\"exemplos\":[],\"notas\":\"Entrada do first_pass indica 'v. Oenē' (ver Oenē). Não há confirmação externa suficiente.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
     "id": "chunk_18820-e1",
@@ -614,28 +548,6 @@
     "notas": "Forma com breve registrada na fonte; normalizada para 'Oenopsis' sem diacríticos.",
     "raw_text": "{\"id\":\"chunk_18825:18825:0\",\"lemas\":[\"Oenopsis\",\"Oenŏpsis\"],\"lema_canonico\":\"Oenopsis\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo a Enópia; de Enópia (Egina).\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 7, 490\"],\"notas\":\"Forma com breve registrada na fonte; normalizada para 'Oenopsis' sem diacríticos.\",\"flags\":[\"src_whitaker\",\"conf:med\",\"src_ocr\"]}",
     "raw_json": "{\"id\":\"chunk_18825:18825:0\",\"lemas\":[\"Oenopsis\",\"Oenŏpsis\"],\"lema_canonico\":\"Oenopsis\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo a Enópia; de Enópia (Egina).\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 7, 490\"],\"notas\":\"Forma com breve registrada na fonte; normalizada para 'Oenopsis' sem diacríticos.\",\"flags\":[\"src_whitaker\",\"conf:med\",\"src_ocr\"]}"
-  },
-  {
-    "id": "chunk_18825-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_18825",
-    "page_num": 18825,
-    "lemmas": [
-      "Oenopsis",
-      "Oenopsis"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "relativo a Enópia; de Enópia (Egina).",
-    "exemplos": [],
-    "notas": "Duplicata normalizada da entrada OCR; formas com e sem diacríticos conservadas como variantes. | [dedupe] redirect → chunk_18825:18825:0 | [dedupe] redirect → chunk_18825:18825:0",
-    "raw_text": "{\"id\":\"chunk_18825:18825:1\",\"lemas\":[\"Oenopsis\",\"Oenŏpsis\"],\"lema_canonico\":\"Oenopsis\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo a Enópia; de Enópia (Egina).\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 7, 490\"],\"notas\":\"Duplicata normalizada da entrada OCR; formas com e sem diacríticos conservadas como variantes.\",\"flags\":[\"src_whitaker\",\"conf:med\",\"src_firstpass\",\"src_ocr\"]}",
-    "raw_json": "{\"id\":\"chunk_18825:18825:1\",\"lemas\":[\"Oenopsis\",\"Oenŏpsis\"],\"lema_canonico\":\"Oenopsis\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo a Enópia; de Enópia (Egina).\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 7, 490\"],\"notas\":\"Duplicata normalizada da entrada OCR; formas com e sem diacríticos conservadas como variantes.\",\"flags\":[\"src_whitaker\",\"conf:med\",\"src_firstpass\",\"src_ocr\"]}"
   },
   {
     "id": "chunk_18825-e3",
@@ -856,28 +768,6 @@
     "notas": "Normalizado a forma referida ao mons Oeta; exemplos clássicos mantidos.",
     "raw_text": "{\"id\":\"chunk_18833:18833:0\",\"lemas\":[\"Oetaeus\",\"Oetaeus (-a, -um)\"],\"lema_canonico\":\"Oetaeus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo ao monte Oeta; epíteto de Hércules (Hercules Oetaeus).\",\"aliases\":[],\"exemplos\":[\"Prop. 4, 1, 32\",\"Ov. Ib. 349\"],\"notas\":\"Normalizado a forma referida ao mons Oeta; exemplos clássicos mantidos.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_18833:18833:0\",\"lemas\":[\"Oetaeus\",\"Oetaeus (-a, -um)\"],\"lema_canonico\":\"Oetaeus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo ao monte Oeta; epíteto de Hércules (Hercules Oetaeus).\",\"aliases\":[],\"exemplos\":[\"Prop. 4, 1, 32\",\"Ov. Ib. 349\"],\"notas\":\"Normalizado a forma referida ao mons Oeta; exemplos clássicos mantidos.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_18834-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_18834",
-    "page_num": 18834,
-    "lemmas": [
-      "Oeta",
-      "Oeta"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Monte Oeta, entre Tessália e Dória; local associado à morte/autoimolação de Héracles.",
-    "exemplos": [],
-    "notas": "Normalizada para a forma latina clássica Oeta (Oetae).\n[ocr_pipeline 2025-08-16T23:15:13.199775Z] lemma_in='Oeta' → 'Oeta' | motivo: match direto em LS por lemma/lemma_norm | [ocr_fix 2025-08-17T01:11:42Z] match direto em LS por lemma/lemma_norm | lemma_in='Oeta' → 'Oeta' | [dedupe] redirect → chunk_18832:18832:0 | [dedupe] redirect → chunk_18832:18832:0",
-    "raw_text": "{\"id\":\"chunk_18834:18834:0\",\"lemas\":[\"Oeta\",\"Oetē\"],\"lema_canonico\":\"Oeta\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Monte Oeta, entre Tessália e Dória; local associado à morte/autoimolação de Héracles.\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 9, 165\"],\"notas\":\"Normalizada para a forma latina clássica Oeta (Oetae).\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}",
-    "raw_json": "{\"id\":\"chunk_18834:18834:0\",\"lemas\":[\"Oeta\",\"Oetē\"],\"lema_canonico\":\"Oeta\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Monte Oeta, entre Tessália e Dória; local associado à morte/autoimolação de Héracles.\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 9, 165\"],\"notas\":\"Normalizada para a forma latina clássica Oeta (Oetae).\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}"
   },
   {
     "id": "chunk_18835-e1",
@@ -1188,50 +1078,6 @@
     "raw_json": "{\"id\":\"chunk_18843:18843:0\",\"lemas\":[\"offendiculum\",\"offendĭculum\"],\"lema_canonico\":\"offendiculum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Obstáculo, tropeço, impedimento; causa de ofensa (uso pós-augustal).\",\"aliases\":[],\"exemplos\":[\"Plin. Ep. 9, 11, 1\",\"Vulg. 1 Cor. 8, 9\"],\"notas\":\"Grafia e sentido confirmados por Lewis & Short, Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_18844-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_18844",
-    "page_num": 18844,
-    "lemmas": [
-      "offendo",
-      "offendo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Bater, chocar-se; ferir, ofender; topar, encontrar; também usado de modo figurado (ofender, desagradar).",
-    "exemplos": [],
-    "notas": "Conjugação e usos conferidos com Lewis & Short e Whitaker; verbo da 3ª (offendere, offendi, offensus). | [dedupe] redirect → chunk_18842:18842:0 | [dedupe] redirect → chunk_18842:18842:0",
-    "raw_text": "{\"id\":\"chunk_18844:18844:0\",\"lemas\":[\"offendo\"],\"lema_canonico\":\"offendo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\",\"intr.\"],\"definicao\":\"Bater, chocar-se; ferir, ofender; topar, encontrar; também usado de modo figurado (ofender, desagradar).\",\"aliases\":[],\"exemplos\":[\"Hor. Sat. 2, 1, 78\",\"Cic. Fam. 3, 8, 7\",\"Caes. B. Civ. 3, 8\",\"Cic. Clu. 36, 98\",\"Cic. Att. 12, 10, 2\"],\"notas\":\"Conjugação e usos conferidos com Lewis & Short e Whitaker; verbo da 3ª (offendere, offendi, offensus).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_18844:18844:0\",\"lemas\":[\"offendo\"],\"lema_canonico\":\"offendo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\",\"intr.\"],\"definicao\":\"Bater, chocar-se; ferir, ofender; topar, encontrar; também usado de modo figurado (ofender, desagradar).\",\"aliases\":[],\"exemplos\":[\"Hor. Sat. 2, 1, 78\",\"Cic. Fam. 3, 8, 7\",\"Caes. B. Civ. 3, 8\",\"Cic. Clu. 36, 98\",\"Cic. Att. 12, 10, 2\"],\"notas\":\"Conjugação e usos conferidos com Lewis & Short e Whitaker; verbo da 3ª (offendere, offendi, offensus).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_18844-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_18844",
-    "page_num": 18844,
-    "lemmas": [
-      "offensus",
-      "offensus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Particípio passado/adjetivo: ofendido, ferido, odioso; como substantivo neutro offensum: ofensa, choque, desaprovação.",
-    "exemplos": [],
-    "notas": "Inclui as variantes nominal e adjetival; forma canónica offensus (offēnsus, -a, -um). | [dedupe] redirect → chunk_18852:18852:0 | [dedupe] redirect → chunk_18852:18852:0",
-    "raw_text": "{\"id\":\"chunk_18844:18844:1\",\"lemas\":[\"offensus\",\"offensum\"],\"lema_canonico\":\"offensus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Particípio passado/adjetivo: ofendido, ferido, odioso; como substantivo neutro offensum: ofensa, choque, desaprovação.\",\"aliases\":[],\"exemplos\":[\"Lucr. 2, 223\",\"Cic. Verr. 2, 3, 62\"],\"notas\":\"Inclui as variantes nominal e adjetival; forma canónica offensus (offēnsus, -a, -um).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_18844:18844:1\",\"lemas\":[\"offensus\",\"offensum\"],\"lema_canonico\":\"offensus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Particípio passado/adjetivo: ofendido, ferido, odioso; como substantivo neutro offensum: ofensa, choque, desaprovação.\",\"aliases\":[],\"exemplos\":[\"Lucr. 2, 223\",\"Cic. Verr. 2, 3, 62\"],\"notas\":\"Inclui as variantes nominal e adjetival; forma canónica offensus (offēnsus, -a, -um).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_18845-e1",
     "volume_id": "faria",
     "doc_name": "chunk_18845",
@@ -1276,28 +1122,6 @@
     "raw_json": "{\"id\":\"chunk_18846:18846:0\",\"lemas\":[\"offensaculum\"],\"lema_canonico\":\"offensaculum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"pequeno obstáculo, tropeço; objecto contra o qual se tropeça (postclássico).\",\"aliases\":[],\"exemplos\":[\"App. M. 9, p. 221, 3\",\"Prud. Apoth. 45\",\"Lact. Opt. D. 1\"],\"notas\":\"Normalizado a partir de offensācŭlum (LS). Mantida grafia documentada; relacionada a offendiculum.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_18846-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_18846",
-    "page_num": 18846,
-    "lemmas": [
-      "offendiculum",
-      "offendiculum"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "obstáculo, pedra de tropeço; pequeno impedimento; causa de ofensa.",
-    "exemplos": [],
-    "notas": "Atestado em Lat→Deu e correspondência com offendĭcŭlum (LS). | [dedupe] redirect → chunk_18843:18843:0 | [dedupe] redirect → chunk_18843:18843:0",
-    "raw_text": "{\"id\":\"chunk_18846:18846:1\",\"lemas\":[\"offendiculum\"],\"lema_canonico\":\"offendiculum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"obstáculo, pedra de tropeço; pequeno impedimento; causa de ofensa.\",\"aliases\":[],\"exemplos\":[\"Apul. M. 9, 9\"],\"notas\":\"Atestado em Lat→Deu e correspondência com offendĭcŭlum (LS).\",\"flags\":[\"src_latdeu\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_18846:18846:1\",\"lemas\":[\"offendiculum\"],\"lema_canonico\":\"offendiculum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"obstáculo, pedra de tropeço; pequeno impedimento; causa de ofensa.\",\"aliases\":[],\"exemplos\":[\"Apul. M. 9, 9\"],\"notas\":\"Atestado em Lat→Deu e correspondência com offendĭcŭlum (LS).\",\"flags\":[\"src_latdeu\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_18847-e1",
     "volume_id": "faria",
     "doc_name": "chunk_18847",
@@ -1340,28 +1164,6 @@
     "notas": "Lema e sentido atestados em Lewis & Short; variante com ā incluída. | [ocr_fix 2025-08-17T19:54:09Z] match direto em LS por lemma/lemma_norm | lemma_in='offensator' → 'offensātor'",
     "raw_text": "{\"id\":\"chunk_18848:18848:0\",\"lemas\":[\"offensator\",\"offensātor\"],\"lema_canonico\":\"offensator\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"aquele que tropeça ou comete deslizes na fala; usado por Quintiliano\",\"aliases\":[],\"exemplos\":[\"Quint. 10, 3, 20\"],\"notas\":\"Lema e sentido atestados em Lewis & Short; variante com ā incluída.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_18848:18848:0\",\"lemas\":[\"offensator\",\"offensātor\"],\"lema_canonico\":\"offensator\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"aquele que tropeça ou comete deslizes na fala; usado por Quintiliano\",\"aliases\":[],\"exemplos\":[\"Quint. 10, 3, 20\"],\"notas\":\"Lema e sentido atestados em Lewis & Short; variante com ā incluída.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_18849-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_18849",
-    "page_num": 18849,
-    "lemmas": [
-      "offensio",
-      "offensio"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "1) Ato de bater contra, tropeçar; 2) Ofensa, escândalo; 3) indisposição, enfermidade; 4) desagrado, antipatia; 5) má reputação, desprestígio.",
-    "exemplos": [],
-    "notas": "Grafia e sentidos alinhados com LS/Whitaker/Lat→Deu; exemplos selecionados. | [dedupe] redirect → chunk_18847:18847:0 | [dedupe] redirect → chunk_18847:18847:0",
-    "raw_text": "{\"id\":\"chunk_18849:18849:0\",\"lemas\":[\"offensio\",\"offensionis\"],\"lema_canonico\":\"offensio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"1) Ato de bater contra, tropeçar; 2) Ofensa, escândalo; 3) indisposição, enfermidade; 4) desagrado, antipatia; 5) má reputação, desprestígio.\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 2, 40, 84\",\"Cic. Div. in Caecil. 3, 9\",\"Plin. 2, 7, 5, § 24\",\"Vitr. 9, 8, 3\",\"Lact. Opif. Dei 10, 13\"],\"notas\":\"Grafia e sentidos alinhados com LS/Whitaker/Lat→Deu; exemplos selecionados.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_18849:18849:0\",\"lemas\":[\"offensio\",\"offensionis\"],\"lema_canonico\":\"offensio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"1) Ato de bater contra, tropeçar; 2) Ofensa, escândalo; 3) indisposição, enfermidade; 4) desagrado, antipatia; 5) má reputação, desprestígio.\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 2, 40, 84\",\"Cic. Div. in Caecil. 3, 9\",\"Plin. 2, 7, 5, § 24\",\"Vitr. 9, 8, 3\",\"Lact. Opif. Dei 10, 13\"],\"notas\":\"Grafia e sentidos alinhados com LS/Whitaker/Lat→Deu; exemplos selecionados.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_18850-e1",
@@ -1518,28 +1320,6 @@
     "raw_json": "{\"id\":\"chunk_18856:18856:0\",\"lemas\":[\"officio\",\"offĭcio\"],\"lema_canonico\":\"officio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[\"tr.\",\"intr.\"],\"definicao\":\"vir ao encontro de, opor-se; fazer obstáculo, impedir, obstruir; fig.: prejudicar, embargar.\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 2, 49\",\"Sal. C. Cat. 27, 41\",\"Cic. Verr. 2, 733\",\"Lucr. 2, 1551\"],\"notas\":\"Identificado com offĭcĭo (ob‑facio) do LS; marcado como verbo 3ª -iō (-ere).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_18856-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_18856",
-    "page_num": 18856,
-    "lemmas": [
-      "officium",
-      "officium"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "dever, obrigação; serviço, favor; cargo, ofício.",
-    "exemplos": [],
-    "notas": "Forma e sentido confirmados por LS e Lat→Deu; nenhum exemplo citado no excerto. | [dedupe] redirect → chunk_18840:18840:0 | [dedupe] redirect → chunk_18840:18840:0",
-    "raw_text": "{\"id\":\"chunk_18856:18856:1\",\"lemas\":[\"officium\"],\"lema_canonico\":\"officium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"dever, obrigação; serviço, favor; cargo, ofício.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma e sentido confirmados por LS e Lat→Deu; nenhum exemplo citado no excerto.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_18856:18856:1\",\"lemas\":[\"officium\"],\"lema_canonico\":\"officium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"dever, obrigação; serviço, favor; cargo, ofício.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma e sentido confirmados por LS e Lat→Deu; nenhum exemplo citado no excerto.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_18857-e1",
     "volume_id": "faria",
     "doc_name": "chunk_18857",
@@ -1582,50 +1362,6 @@
     "notas": "Padronizado conforme LS/Whitaker; included canonical citations.",
     "raw_text": "{\"id\":\"chunk_18858:18858:0\",\"lemas\":[\"officiosus\",\"officiōsus\",\"officiosa\",\"officiosum\"],\"lema_canonico\":\"officiosus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"obsequioso, atencioso; cumpridor do dever, prestativo\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 13, 21, 2\",\"Cic. Planc. 19, 46\",\"Hor. Ep. 1, 7, 8\"],\"notas\":\"Padronizado conforme LS/Whitaker; included canonical citations.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_18858:18858:0\",\"lemas\":[\"officiosus\",\"officiōsus\",\"officiosa\",\"officiosum\"],\"lema_canonico\":\"officiosus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"obsequioso, atencioso; cumpridor do dever, prestativo\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 13, 21, 2\",\"Cic. Planc. 19, 46\",\"Hor. Ep. 1, 7, 8\"],\"notas\":\"Padronizado conforme LS/Whitaker; included canonical citations.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_18859-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_18859",
-    "page_num": 18859,
-    "lemmas": [
-      "officiosus",
-      "officiosus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "diligente, cortês, prestável; pronto a servir; (subst.) às vezes usado como substantivo masculino para empregado/serviçal em contextos tardios",
-    "exemplos": [],
-    "notas": "Unifiquei variantes gráficas e privilegiei a forma adjetival atestada em LS/Whitaker; substantivo derivado mantido como uso secundário. | [dedupe] redirect → chunk_18858:18858:0 | [dedupe] redirect → chunk_18858:18858:0",
-    "raw_text": "{\"id\":\"chunk_18859:18859:0\",\"lemas\":[\"officiosus\",\"officiōsus\",\"offĭcĭōsus\"],\"lema_canonico\":\"officiosus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"diligente, cortês, prestável; pronto a servir; (subst.) às vezes usado como substantivo masculino para empregado/serviçal em contextos tardios\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 13, 21, 2\",\"Cic. Planc. 19, 46\",\"Hor. Ep. 1, 7, 8\",\"Ov. P. 3, 2, 17\"],\"notas\":\"Unifiquei variantes gráficas e privilegiei a forma adjetival atestada em LS/Whitaker; substantivo derivado mantido como uso secundário.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_18859:18859:0\",\"lemas\":[\"officiosus\",\"officiōsus\",\"offĭcĭōsus\"],\"lema_canonico\":\"officiosus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"diligente, cortês, prestável; pronto a servir; (subst.) às vezes usado como substantivo masculino para empregado/serviçal em contextos tardios\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 13, 21, 2\",\"Cic. Planc. 19, 46\",\"Hor. Ep. 1, 7, 8\",\"Ov. P. 3, 2, 17\"],\"notas\":\"Unifiquei variantes gráficas e privilegiei a forma adjetival atestada em LS/Whitaker; substantivo derivado mantido como uso secundário.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_18860-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_18860",
-    "page_num": 18860,
-    "lemmas": [
-      "officium",
-      "officium"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Serviço, favor; cargo, função pública; dever, obrigação moral; culto/cerimónia (sentido ritual).",
-    "exemplos": [],
-    "notas": "Entrada normalizada segundo LS/Whitaker; sentidos condensados. | [dedupe] redirect → chunk_18840:18840:0 | [dedupe] redirect → chunk_18840:18840:0",
-    "raw_text": "{\"id\":\"chunk_18860:18860:0\",\"lemas\":[\"officium\"],\"lema_canonico\":\"officium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Serviço, favor; cargo, função pública; dever, obrigação moral; culto/cerimónia (sentido ritual).\",\"aliases\":[],\"exemplos\":[\"Cic. At. 16, 14, 3\",\"Cic. Fam. 14, 1, 5\",\"Caes. B. Civ. 3, 103, 4\"],\"notas\":\"Entrada normalizada segundo LS/Whitaker; sentidos condensados.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_18860:18860:0\",\"lemas\":[\"officium\"],\"lema_canonico\":\"officium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Serviço, favor; cargo, função pública; dever, obrigação moral; culto/cerimónia (sentido ritual).\",\"aliases\":[],\"exemplos\":[\"Cic. At. 16, 14, 3\",\"Cic. Fam. 14, 1, 5\",\"Caes. B. Civ. 3, 103, 4\"],\"notas\":\"Entrada normalizada segundo LS/Whitaker; sentidos condensados.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_18861-e1",
@@ -1716,28 +1452,6 @@
     "raw_json": "{\"id\":\"chunk_18864:18864:0\",\"lemas\":[\"offirmo\",\"obfirmo\"],\"lema_canonico\":\"offirmo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"Tornar firme, consolidar; fig.: afirmar, perseverar, obstinar‑se.\",\"aliases\":[],\"exemplos\":[\"Apul. M. 7, 20\",\"Plaut. Merc. 82\",\"Plaut. Bacch. 1199\"],\"notas\":\"Variantia 'obfirmo' mantida; paradigma e sentidos confirmados por LS e fontes lexicográficas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_18865-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_18865",
-    "page_num": 18865,
-    "lemmas": [
-      "offigō",
-      "offigō"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "cravar, fixar, pregar; (pass.) ser pregado, ser afixado",
-    "exemplos": [],
-    "notas": "Lema e particípio alinhados com Whitaker/LS (offīgō, offīgere, offīxī, offīxus). Corrigida confusão gráfica do OCR. | [dedupe] redirect → chunk_18861:18861:0 | [dedupe] redirect → chunk_18861:18861:0",
-    "raw_text": "{\"id\":\"chunk_18865:18865:0\",\"lemas\":[\"offigō\",\"offigere\",\"offīgī\",\"offixus\",\"offixum\"],\"lema_canonico\":\"offigō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"cravar, fixar, pregar; (pass.) ser pregado, ser afixado\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Lema e particípio alinhados com Whitaker/LS (offīgō, offīgere, offīxī, offīxus). Corrigida confusão gráfica do OCR.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_18865:18865:0\",\"lemas\":[\"offigō\",\"offigere\",\"offīgī\",\"offixus\",\"offixum\"],\"lema_canonico\":\"offigō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"cravar, fixar, pregar; (pass.) ser pregado, ser afixado\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Lema e particípio alinhados com Whitaker/LS (offīgō, offīgere, offīxī, offīxus). Corrigida confusão gráfica do OCR.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_18866-e1",
     "volume_id": "faria",
     "doc_name": "chunk_18866",
@@ -1802,50 +1516,6 @@
     "notas": "Grafia clássica normalizada; confirmado em LS e Whitaker.",
     "raw_text": "{\"id\":\"chunk_18868:18868:0\",\"lemas\":[\"offrēnātus\",\"offrenatus\",\"offrēnatus\",\"offrēnātus\"],\"lema_canonico\":\"offrēnātus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"domado; figuradamente, refreado, contido\",\"aliases\":[],\"exemplos\":[\"Plaut. Capt. 3, 5, 96\"],\"notas\":\"Grafia clássica normalizada; confirmado em LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_18868:18868:0\",\"lemas\":[\"offrēnātus\",\"offrenatus\",\"offrēnatus\",\"offrēnātus\"],\"lema_canonico\":\"offrēnātus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"domado; figuradamente, refreado, contido\",\"aliases\":[],\"exemplos\":[\"Plaut. Capt. 3, 5, 96\"],\"notas\":\"Grafia clássica normalizada; confirmado em LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_18869-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_18869",
-    "page_num": 18869,
-    "lemmas": [
-      "officium",
-      "officium"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "dever, obrigação; serviço, favor; cargo, oficio; cerimônia; agradecimento (sentido de duty, service).",
-    "exemplos": [],
-    "notas": "Grafia e sentidos confirmados por Lewis & Short e Lat→Deu. | [dedupe] redirect → chunk_18840:18840:0 | [dedupe] redirect → chunk_18840:18840:0",
-    "raw_text": "{\"id\":\"chunk_18869:18869:0\",\"lemas\":[\"officium\"],\"lema_canonico\":\"officium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"dever, obrigação; serviço, favor; cargo, oficio; cerimônia; agradecimento (sentido de duty, service).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Grafia e sentidos confirmados por Lewis & Short e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_18869:18869:0\",\"lemas\":[\"officium\"],\"lema_canonico\":\"officium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"dever, obrigação; serviço, favor; cargo, oficio; cerimônia; agradecimento (sentido de duty, service).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Grafia e sentidos confirmados por Lewis & Short e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_18869-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_18869",
-    "page_num": 18869,
-    "lemmas": [
-      "officium",
-      "officium"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "serviço, dever, favor; ofício, cargo; obrigação moral ou prática",
-    "exemplos": [],
-    "notas": "Agregado plural 'officia' como forma de 'officium'; normalizado lema canônico 'officium'. | [dedupe] redirect → chunk_18840:18840:0 | [dedupe] redirect → chunk_18840:18840:0",
-    "raw_text": "{\"id\":\"chunk_18869:18869:1\",\"lemas\":[\"officium\",\"officia\"],\"lema_canonico\":\"officium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"serviço, dever, favor; ofício, cargo; obrigação moral ou prática\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Agregado plural 'officia' como forma de 'officium'; normalizado lema canônico 'officium'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_18869:18869:1\",\"lemas\":[\"officium\",\"officia\"],\"lema_canonico\":\"officium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"serviço, dever, favor; ofício, cargo; obrigação moral ou prática\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Agregado plural 'officia' como forma de 'officium'; normalizado lema canônico 'officium'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_18869-e3",
@@ -1934,28 +1604,6 @@
     "notas": "Grafia com brevícola (offŭla) documentada em LS; incluída forma variante offa. | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='offula' → 'offŭla'",
     "raw_text": "{\"id\":\"chunk_18872:18872:0\",\"lemas\":[\"offula\",\"offŭla\"],\"lema_canonico\":\"offula\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"pequeno pedaço, bocadinho de alimento; uso vulgar; também usado pejorativamente sobre escravos\",\"aliases\":[\"offa\"],\"exemplos\":[\"Varr. R.R. 2, 4, 11\",\"Varr. L. L. 5, §110\",\"Col. 12, 53, 4\",\"Veg. Vet. 4, 18\",\"Claud. ap. Suet. Claud. 40\"],\"notas\":\"Grafia com brevícola (offŭla) documentada em LS; incluída forma variante offa.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_18872:18872:0\",\"lemas\":[\"offula\",\"offŭla\"],\"lema_canonico\":\"offula\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"pequeno pedaço, bocadinho de alimento; uso vulgar; também usado pejorativamente sobre escravos\",\"aliases\":[\"offa\"],\"exemplos\":[\"Varr. R.R. 2, 4, 11\",\"Varr. L. L. 5, §110\",\"Col. 12, 53, 4\",\"Veg. Vet. 4, 18\",\"Claud. ap. Suet. Claud. 40\"],\"notas\":\"Grafia com brevícola (offŭla) documentada em LS; incluída forma variante offa.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_18873-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_18873",
-    "page_num": 18873,
-    "lemmas": [
-      "offulgĕo",
-      "offulgĕo"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "brilhar, resplandecer (verbo intransitivo); atest. em versos (poss. variação gráfica offulgeo/offulgeo)",
-    "exemplos": [],
-    "notas": "Forma apresentada como offulegio no OCR; normalizada para offulgeo/offulgeo com base no contexto (Verg.). Revisar variantes.\n[ocr_pipeline 2025-08-16T23:15:19.831049Z] lemma_in='offulgeo' → 'offulgĕo' | motivo: match direto em LS por lemma/lemma_norm | [ocr_fix 2025-08-17T01:11:51Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='offulgĕo' → 'offulgĕo' | [dedupe] redirect → chunk_18874:18874:0 | [dedupe] redirect → chunk_18874:18874:0",
-    "raw_text": "{\"id\":\"chunk_18873:18873:0\",\"lemas\":[\"offulgeo\",\"offulegio\",\"offŭlēgio\"],\"lema_canonico\":\"offulgeo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"brilhar, resplandecer (verbo intransitivo); atest. em versos (poss. variação gráfica offulgeo/offulgeo)\",\"aliases\":[],\"exemplos\":[\"Verg. Aen. 9, 110\"],\"notas\":\"Forma apresentada como offulegio no OCR; normalizada para offulgeo/offulgeo com base no contexto (Verg.). Revisar variantes.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_18873:18873:0\",\"lemas\":[\"offulgeo\",\"offulegio\",\"offŭlēgio\"],\"lema_canonico\":\"offulgeo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"brilhar, resplandecer (verbo intransitivo); atest. em versos (poss. variação gráfica offulgeo/offulgeo)\",\"aliases\":[],\"exemplos\":[\"Verg. Aen. 9, 110\"],\"notas\":\"Forma apresentada como offulegio no OCR; normalizada para offulgeo/offulgeo com base no contexto (Verg.). Revisar variantes.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
     "id": "chunk_18874-e1",
@@ -2068,50 +1716,6 @@
     "raw_json": "{\"id\":\"chunk_18877:18877:0\",\"lemas\":[\"Offilus\",\"Offillus\",\"Offullus\",\"Ilus\"],\"lema_canonico\":\"Offilus\",\"morfologia\":\"s. masc. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"nome próprio masculino romano (Offilius/Offilus); atestado em fontes clássicas como Cicero e Tito Lívio\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 7,31\",\"T. Liv. 9,7,2\"],\"notas\":\"Normalizadas variantes e corrigidos erros de OCR; mantida referência às ocorrências citadas.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"src_ocr\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_18878-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_18878",
-    "page_num": 18878,
-    "lemmas": [
-      "offendo",
-      "offendo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Ofender; bater/atingir contra, chocar; causar ofensa, magoar, irritar; encontrar, topar com; (naval) encalhar.",
-    "exemplos": [],
-    "notas": "Lema e sentidos confirmados em Lat→Deu e Lewis & Short; paradigmas offendo, offendere, offendi, offensus. | [dedupe] redirect → chunk_18842:18842:0 | [dedupe] redirect → chunk_18842:18842:0",
-    "raw_text": "{\"id\":\"chunk_18878:18878:0\",\"lemas\":[\"offendo\",\"offendere\"],\"lema_canonico\":\"offendo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Ofender; bater/atingir contra, chocar; causar ofensa, magoar, irritar; encontrar, topar com; (naval) encalhar.\",\"aliases\":[],\"exemplos\":[\"Ov. F. 2, 720\"],\"notas\":\"Lema e sentidos confirmados em Lat→Deu e Lewis & Short; paradigmas offendo, offendere, offendi, offensus.\",\"flags\":[\"src_latdeu\",\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_18878:18878:0\",\"lemas\":[\"offendo\",\"offendere\"],\"lema_canonico\":\"offendo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Ofender; bater/atingir contra, chocar; causar ofensa, magoar, irritar; encontrar, topar com; (naval) encalhar.\",\"aliases\":[],\"exemplos\":[\"Ov. F. 2, 720\"],\"notas\":\"Lema e sentidos confirmados em Lat→Deu e Lewis & Short; paradigmas offendo, offendere, offendi, offensus.\",\"flags\":[\"src_latdeu\",\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_18878-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_18878",
-    "page_num": 18878,
-    "lemmas": [
-      "offendo",
-      "offendo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "Forma: 3. pers. sg. pres. ind. de offendo — 'ele/ela ofende'. Em Faria atestado com sentido particular 'repetir muitas vezes, repisar' (Ter. Phorm. 1030).",
-    "exemplos": [],
-    "notas": "Forma verbal atestada no impresso; morfologia apresentada como infinitivo por vocabulário-alvo (ver flags). | [dedupe] redirect → chunk_18842:18842:0 | [dedupe] redirect → chunk_18842:18842:0 | [ocr_fix 2025-08-17T19:59:05Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='offendo' → 'offendo'",
-    "raw_text": "{\"id\":\"chunk_18878:18878:1\",\"lemas\":[\"offendit\"],\"lema_canonico\":\"offendo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Forma: 3. pers. sg. pres. ind. de offendo — 'ele/ela ofende'. Em Faria atestado com sentido particular 'repetir muitas vezes, repisar' (Ter. Phorm. 1030).\",\"aliases\":[],\"exemplos\":[\"Ter. Phorm. 1030\"],\"notas\":\"Forma verbal atestada no impresso; morfologia apresentada como infinitivo por vocabulário-alvo (ver flags).\",\"flags\":[\"src_ls\",\"src_firstpass\",\"src_ocr\",\"conf:med\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_18878:18878:1\",\"lemas\":[\"offendit\"],\"lema_canonico\":\"offendo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Forma: 3. pers. sg. pres. ind. de offendo — 'ele/ela ofende'. Em Faria atestado com sentido particular 'repetir muitas vezes, repisar' (Ter. Phorm. 1030).\",\"aliases\":[],\"exemplos\":[\"Ter. Phorm. 1030\"],\"notas\":\"Forma verbal atestada no impresso; morfologia apresentada como infinitivo por vocabulário-alvo (ver flags).\",\"flags\":[\"src_ls\",\"src_firstpass\",\"src_ocr\",\"conf:med\",\"morph_out_of_vocab\"]}"
-  },
-  {
     "id": "chunk_18878-e3",
     "volume_id": "faria",
     "doc_name": "chunk_18878",
@@ -2132,28 +1736,6 @@
     "notas": "Registro do erro de OCR; recomendado redirecionar para 'offendit'.\n[ocr_pipeline 2025-08-16T23:26:28.991649Z] lemma_in='olgeńit' → 'offendo' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T18:33:33Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='offendo' → 'offendo'",
     "raw_text": "{\"id\":\"chunk_18878:18878:2\",\"lemas\":[\"olgeńit\"],\"lema_canonico\":\"olgeńit\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Forma resultado de OCR incorreto no impresso; corresponde a 'offendit'.\",\"aliases\":[\"offendit\"],\"exemplos\":[],\"notas\":\"Registro do erro de OCR; recomendado redirecionar para 'offendit'.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_18878:18878:2\",\"lemas\":[\"olgeńit\"],\"lema_canonico\":\"olgeńit\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Forma resultado de OCR incorreto no impresso; corresponde a 'offendit'.\",\"aliases\":[\"offendit\"],\"exemplos\":[],\"notas\":\"Registro do erro de OCR; recomendado redirecionar para 'offendit'.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_18879-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_18879",
-    "page_num": 18879,
-    "lemmas": [
-      "offero",
-      "offero"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "apresentar, oferecer; mostrar, expor; (pass.) aparecer, mostrar‑se; também: conceder, causar, oferecer em sacrifício",
-    "exemplos": [],
-    "notas": "Normalizado lema para offero (Lewis & Short: offĕro, obtuli, oblātum). | [dedupe] redirect → chunk_18854:18854:0 | [dedupe] redirect → chunk_18854:18854:0",
-    "raw_text": "{\"id\":\"chunk_18879:18879:0\",\"lemas\":[\"offero\",\"offerre\"],\"lema_canonico\":\"offero\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"apresentar, oferecer; mostrar, expor; (pass.) aparecer, mostrar‑se; também: conceder, causar, oferecer em sacrifício\",\"aliases\":[],\"exemplos\":[\"Plaut. Truc. 103\",\"Verg. A. 6, 291\",\"Cic. Att. 3, 10, 2\"],\"notas\":\"Normalizado lema para offero (Lewis & Short: offĕro, obtuli, oblātum).\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_18879:18879:0\",\"lemas\":[\"offero\",\"offerre\"],\"lema_canonico\":\"offero\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"apresentar, oferecer; mostrar, expor; (pass.) aparecer, mostrar‑se; também: conceder, causar, oferecer em sacrifício\",\"aliases\":[],\"exemplos\":[\"Plaut. Truc. 103\",\"Verg. A. 6, 291\",\"Cic. Att. 3, 10, 2\"],\"notas\":\"Normalizado lema para offero (Lewis & Short: offĕro, obtuli, oblātum).\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_18880-e1",
@@ -2572,28 +2154,6 @@
     "notas": "Unificadas variantes gráficas; sentidos segundo LS/Whitaker. | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='olea' → 'ŏlĕa'",
     "raw_text": "{\"id\":\"chunk_18896:18896:0\",\"lemas\":[\"olea\",\"olēa\",\"ŏlĕa\"],\"lema_canonico\":\"olea\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"azeitona (fruto); por extensão, oliveira (árvore)\",\"aliases\":[],\"exemplos\":[\"Hor. Ep. 2, 1, 31\",\"Cic. Div. 2, 16\",\"Varr. L. L. 5, §108\",\"Plin. 15, 2, 3, §12\",\"Verg. G. 2, 302\",\"Plaut. Stich. 5, 4, 9\"],\"notas\":\"Unificadas variantes gráficas; sentidos segundo LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_18896:18896:0\",\"lemas\":[\"olea\",\"olēa\",\"ŏlĕa\"],\"lema_canonico\":\"olea\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"azeitona (fruto); por extensão, oliveira (árvore)\",\"aliases\":[],\"exemplos\":[\"Hor. Ep. 2, 1, 31\",\"Cic. Div. 2, 16\",\"Varr. L. L. 5, §108\",\"Plin. 15, 2, 3, §12\",\"Verg. G. 2, 302\",\"Plaut. Stich. 5, 4, 9\"],\"notas\":\"Unificadas variantes gráficas; sentidos segundo LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_18897-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_18897",
-    "page_num": 18897,
-    "lemmas": [
-      "agnus",
-      "agnus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Cordeiro, carneiro jovem; lamb.",
-    "exemplos": [],
-    "notas": "Genitivo confirmado como agnī; lemata e morfologia harmonizados com Whitaker e LS. | [dedupe] redirect → chunk_1136:1136:3 | [dedupe] redirect → chunk_1136:1136:3",
-    "raw_text": "{\"id\":\"chunk_18897:18897:0\",\"lemas\":[\"agnus\"],\"lema_canonico\":\"agnus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Cordeiro, carneiro jovem; lamb.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Genitivo confirmado como agnī; lemata e morfologia harmonizados com Whitaker e LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_18897:18897:0\",\"lemas\":[\"agnus\"],\"lema_canonico\":\"agnus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Cordeiro, carneiro jovem; lamb.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Genitivo confirmado como agnī; lemata e morfologia harmonizados com Whitaker e LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_18897-e2",
@@ -3036,28 +2596,6 @@
     "raw_json": "{\"id\":\"chunk_18915:18915:0\",\"lemas\":[\"oleum\"],\"lema_canonico\":\"oleum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Azeite; por extensão, unguento/óleo perfumado; também, a palaestra (lugar de luta/unguimento).\",\"aliases\":[],\"exemplos\":[\"Cato R. R. 64\",\"Varr. R. R. 1, 55\",\"Plin. Nat. 15, 6, §21\",\"Cic. Sen. 11, 36\",\"Hor. S. 2, 3, 125\"],\"notas\":\"Concorda com Lewis & Short e Whitaker; normalizada morfologia para 2ª declinação neutra.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_18916-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_18916",
-    "page_num": 18916,
-    "lemmas": [
-      "olfacio",
-      "olfacio"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Cheirar, farejar; fig.: farejar, perceber, suspeitar; também ‘dar o cheiro de, fazer cheirar a’.",
-    "exemplos": [],
-    "notas": "Padronizado para olfacio (olfaciō); indicado como v. 3ª transitivo. Formas perfeitas olfēcī / olfēctum/olfactum atestadas nos dicionários. | [dedupe] redirect → chunk_18920:18920:0 | [dedupe] redirect → chunk_18920:18920:0",
-    "raw_text": "{\"id\":\"chunk_18916:18916:0\",\"lemas\":[\"olfacio\",\"olfaciō\"],\"lema_canonico\":\"olfacio\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"Cheirar, farejar; fig.: farejar, perceber, suspeitar; também ‘dar o cheiro de, fazer cheirar a’.\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 5, 38, 111\",\"Plin. 11, 37, 50 §137\",\"Cic. Agr. 1, 4, 11\",\"Varr. R. R. 2, 2, 16\",\"Ter. Ad. 3, 3, 43\"],\"notas\":\"Padronizado para olfacio (olfaciō); indicado como v. 3ª transitivo. Formas perfeitas olfēcī / olfēctum/olfactum atestadas nos dicionários.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_18916:18916:0\",\"lemas\":[\"olfacio\",\"olfaciō\"],\"lema_canonico\":\"olfacio\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"Cheirar, farejar; fig.: farejar, perceber, suspeitar; também ‘dar o cheiro de, fazer cheirar a’.\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 5, 38, 111\",\"Plin. 11, 37, 50 §137\",\"Cic. Agr. 1, 4, 11\",\"Varr. R. R. 2, 2, 16\",\"Ter. Ad. 3, 3, 43\"],\"notas\":\"Padronizado para olfacio (olfaciō); indicado como v. 3ª transitivo. Formas perfeitas olfēcī / olfēctum/olfactum atestadas nos dicionários.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_18917-e1",
     "volume_id": "faria",
     "doc_name": "chunk_18917",
@@ -3100,28 +2638,6 @@
     "notas": "Registrado como particípio e como substantivo 4ª decl. (-ūs) em LS/Whitaker.",
     "raw_text": "{\"id\":\"chunk_18918:18918:0\",\"lemas\":[\"olfactus\",\"olfactūs\",\"olfactum\"],\"lema_canonico\":\"olfactus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio passivo de olfacio; substantivado: cheiro, ato de cheirar; sentido literal e transferido (o sentido do olfato).\",\"aliases\":[],\"exemplos\":[\"Plin. 21, 21, §156\",\"Plin. 32, 3, §28\",\"Plin. 35, 15, §182\",\"Plin. 11, 37, §137\"],\"notas\":\"Registrado como particípio e como substantivo 4ª decl. (-ūs) em LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_18918:18918:0\",\"lemas\":[\"olfactus\",\"olfactūs\",\"olfactum\"],\"lema_canonico\":\"olfactus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio passivo de olfacio; substantivado: cheiro, ato de cheirar; sentido literal e transferido (o sentido do olfato).\",\"aliases\":[],\"exemplos\":[\"Plin. 21, 21, §156\",\"Plin. 32, 3, §28\",\"Plin. 35, 15, §182\",\"Plin. 11, 37, §137\"],\"notas\":\"Registrado como particípio e como substantivo 4ª decl. (-ūs) em LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_18919-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_18919",
-    "page_num": 18919,
-    "lemmas": [
-      "olfactus",
-      "olfactus"
-    ],
-    "morfologia": "s. masc. 4ª (-us)",
-    "morph_render": "s. masc. 4ª (-us)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "olfactus/olfactus: cheiro, ação de cheirar; sentido do olfato.",
-    "exemplos": [],
-    "notas": "Grafia normalizada para 'olfactus' e morfologia ajustada para 4.ª declinação (-ūs). | [dedupe] redirect → chunk_18918:18918:0 | [dedupe] redirect → chunk_18918:18918:0",
-    "raw_text": "{\"id\":\"chunk_18919:18919:0\",\"lemas\":[\"olfactus\",\"olfactū s\"],\"lema_canonico\":\"olfactus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"olfactus/olfactus: cheiro, ação de cheirar; sentido do olfato.\",\"aliases\":[\"olfactus\"],\"exemplos\":[\"Plin. H. Nat. 10, 194\"],\"notas\":\"Grafia normalizada para 'olfactus' e morfologia ajustada para 4.ª declinação (-ūs).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_18919:18919:0\",\"lemas\":[\"olfactus\",\"olfactū s\"],\"lema_canonico\":\"olfactus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"olfactus/olfactus: cheiro, ação de cheirar; sentido do olfato.\",\"aliases\":[\"olfactus\"],\"exemplos\":[\"Plin. H. Nat. 10, 194\"],\"notas\":\"Grafia normalizada para 'olfactus' e morfologia ajustada para 4.ª declinação (-ūs).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_18920-e1",
@@ -3542,28 +3058,6 @@
     "raw_json": "{\"id\":\"chunk_18936:18936:0\",\"lemas\":[\"ollus\",\"olla\",\"ollum\"],\"lema_canonico\":\"ollus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"(arcaico) forma de ille — 'aquele, essa pessoa/coisa'.\",\"aliases\":[],\"exemplos\":[\"Verg. En. 5, 197\"],\"notas\":\"Arcaísmo atestado em Lewis & Short e Whitaker; variantes olla/ollum registradas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_18937-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_18937",
-    "page_num": 18937,
-    "lemmas": [
-      "oleo",
-      "oleo"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "cheirar, exalar cheiro; também: dar cheiro de algo (emitir odor).",
-    "exemplos": [],
-    "notas": "Verbo olēre (pres. oleo, inf. olere, perf. olui) atestado em LS, Whitaker e Lat→Deu. | [dedupe] redirect → chunk_18910:18910:0 | [dedupe] redirect → chunk_18910:18910:0",
-    "raw_text": "{\"id\":\"chunk_18937:18937:0\",\"lemas\":[\"oleo\",\"olere\",\"olui\"],\"lema_canonico\":\"oleo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"cheirar, exalar cheiro; também: dar cheiro de algo (emitir odor).\",\"aliases\":[],\"exemplos\":[\"Plaut. Poen. 1, 2, 56\",\"Plaut. Most. 1, 3, 120\"],\"notas\":\"Verbo olēre (pres. oleo, inf. olere, perf. olui) atestado em LS, Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_18937:18937:0\",\"lemas\":[\"oleo\",\"olere\",\"olui\"],\"lema_canonico\":\"oleo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"cheirar, exalar cheiro; também: dar cheiro de algo (emitir odor).\",\"aliases\":[],\"exemplos\":[\"Plaut. Poen. 1, 2, 56\",\"Plaut. Most. 1, 3, 120\"],\"notas\":\"Verbo olēre (pres. oleo, inf. olere, perf. olui) atestado em LS, Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_18938-e1",
     "volume_id": "faria",
     "doc_name": "chunk_18938",
@@ -3652,94 +3146,6 @@
     "raw_json": "{\"id\":\"chunk_18941:18941:0\",\"lemas\":[\"olivus\"],\"lema_canonico\":\"olivus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"oliveiro/olive-coloured; relativo à oliveira ou à cor da azeitona (adj. 'olive-colored' or 'of the olive tree').\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigido: entrada era interpretada como substantivo no first_pass; Whitaker registra 'olivus' como adjetivo (1/2).\",\"flags\":[\"src_whitaker\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_18941-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_18941",
-    "page_num": 18941,
-    "lemmas": [
-      "ŏlīvum",
-      "olivum"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "azeite, óleo de oliva; por extensão, unguento; também atestado como designação de oliveira/azeitona em algumas ocorrências.",
-    "exemplos": [],
-    "notas": "Acepções e forma respaldadas por Lewis & Short e Lat→Deu; distinção entre olivum (óleo) e oliva (azeitona/oliveira). | [dedupe] redirect → chunk_18932:18932:0 | [dedupe] redirect → chunk_18932:18932:0 | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='olivum' → 'ŏlīvum'",
-    "raw_text": "{\"id\":\"chunk_18941:18941:1\",\"lemas\":[\"olivum\"],\"lema_canonico\":\"olivum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"azeite, óleo de oliva; por extensão, unguento; também atestado como designação de oliveira/azeitona em algumas ocorrências.\",\"aliases\":[],\"exemplos\":[\"Hor. S. 2, 4, 50\",\"Lucr. 2, 392\"],\"notas\":\"Acepções e forma respaldadas por Lewis & Short e Lat→Deu; distinção entre olivum (óleo) e oliva (azeitona/oliveira).\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_18941:18941:1\",\"lemas\":[\"olivum\"],\"lema_canonico\":\"olivum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"azeite, óleo de oliva; por extensão, unguento; também atestado como designação de oliveira/azeitona em algumas ocorrências.\",\"aliases\":[],\"exemplos\":[\"Hor. S. 2, 4, 50\",\"Lucr. 2, 392\"],\"notas\":\"Acepções e forma respaldadas por Lewis & Short e Lat→Deu; distinção entre olivum (óleo) e oliva (azeitona/oliveira).\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_18941-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_18941",
-    "page_num": 18941,
-    "lemmas": [
-      "olīvum",
-      "olīvum"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "óleo de oliva; pomada/unguento; meton. a palæstra (uso para ungir lutadores).",
-    "exemplos": [],
-    "notas": "Normalizado para forma neutra olīvum; inclui acepções LS/Whitaker. | [dedupe] redirect → chunk_18932:18932:0 | [dedupe] redirect → chunk_18932:18932:0",
-    "raw_text": "{\"id\":\"chunk_18941:18941:2\",\"lemas\":[\"olīvum\",\"olivum\"],\"lema_canonico\":\"olīvum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"óleo de oliva; pomada/unguento; meton. a palæstra (uso para ungir lutadores).\",\"aliases\":[],\"exemplos\":[\"Plaut. Ps. 1, 3, 67\"],\"notas\":\"Normalizado para forma neutra olīvum; inclui acepções LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_18941:18941:2\",\"lemas\":[\"olīvum\",\"olivum\"],\"lema_canonico\":\"olīvum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"óleo de oliva; pomada/unguento; meton. a palæstra (uso para ungir lutadores).\",\"aliases\":[],\"exemplos\":[\"Plaut. Ps. 1, 3, 67\"],\"notas\":\"Normalizado para forma neutra olīvum; inclui acepções LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_18941-e4",
-    "volume_id": "faria",
-    "doc_name": "chunk_18941",
-    "page_num": 18941,
-    "lemmas": [
-      "olus",
-      "olus"
-    ],
-    "morfologia": "s. neut. 3ª (-is)",
-    "morph_render": "s. neut. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "verdura, legume; hortaliça (couve, nabos, ervas de cozinha).",
-    "exemplos": [],
-    "notas": "Aceptação de holus como variante (LS indica equivalência). | [dedupe] redirect → chunk_18911:18911:0 | [dedupe] redirect → chunk_18911:18911:0",
-    "raw_text": "{\"id\":\"chunk_18941:18941:3\",\"lemas\":[\"olus\",\"holus\"],\"lema_canonico\":\"olus\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"verdura, legume; hortaliça (couve, nabos, ervas de cozinha).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Aceptação de holus como variante (LS indica equivalência).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_18941:18941:3\",\"lemas\":[\"olus\",\"holus\"],\"lema_canonico\":\"olus\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"verdura, legume; hortaliça (couve, nabos, ervas de cozinha).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Aceptação de holus como variante (LS indica equivalência).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_18942-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_18942",
-    "page_num": 18942,
-    "lemmas": [
-      "holus",
-      "holus"
-    ],
-    "morfologia": "s. neut. 3ª (-is)",
-    "morph_render": "s. neut. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Legumes, hortaliças; verduras de cozinha (especialmente repolho, couve, beterrabas).",
-    "exemplos": [],
-    "notas": "Preferida a forma holus; olus atestada como variante rústica (LS/Whitaker). | [dedupe] redirect → chunk_12703:12703:0 | [dedupe] redirect → chunk_12703:12703:0",
-    "raw_text": "{\"id\":\"chunk_18942:18942:0\",\"lemas\":[\"holus\",\"olus\"],\"lema_canonico\":\"holus\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Legumes, hortaliças; verduras de cozinha (especialmente repolho, couve, beterrabas).\",\"aliases\":[],\"exemplos\":[\"Hor. Ep. 1, 17, 13\",\"Cat. Agr. 149, 2\"],\"notas\":\"Preferida a forma holus; olus atestada como variante rústica (LS/Whitaker).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_18942:18942:0\",\"lemas\":[\"holus\",\"olus\"],\"lema_canonico\":\"holus\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Legumes, hortaliças; verduras de cozinha (especialmente repolho, couve, beterrabas).\",\"aliases\":[],\"exemplos\":[\"Hor. Ep. 1, 17, 13\",\"Cat. Agr. 149, 2\"],\"notas\":\"Preferida a forma holus; olus atestada como variante rústica (LS/Whitaker).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_18943-e1",
     "volume_id": "faria",
     "doc_name": "chunk_18943",
@@ -3760,28 +3166,6 @@
     "notas": "Grafia preferível 'olusculum'; variante holusculum atestada. Normalizado com gen. -ī.",
     "raw_text": "{\"id\":\"chunk_18943:18943:0\",\"lemas\":[\"olusculum\",\"holusculum\"],\"lema_canonico\":\"olusculum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"pequena hortaliça, legume; usado por vezes em sentido depreciativo (small herb/vegetable, little cabbage).\",\"aliases\":[],\"exemplos\":[\"Hor. S. 2, 6, 64\",\"Juv. 11, 79\"],\"notas\":\"Grafia preferível 'olusculum'; variante holusculum atestada. Normalizado com gen. -ī.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_18943:18943:0\",\"lemas\":[\"olusculum\",\"holusculum\"],\"lema_canonico\":\"olusculum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"pequena hortaliça, legume; usado por vezes em sentido depreciativo (small herb/vegetable, little cabbage).\",\"aliases\":[],\"exemplos\":[\"Hor. S. 2, 6, 64\",\"Juv. 11, 79\"],\"notas\":\"Grafia preferível 'olusculum'; variante holusculum atestada. Normalizado com gen. -ī.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_18944-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_18944",
-    "page_num": 18944,
-    "lemmas": [
-      "Olympium",
-      "Olympium"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:low",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "registrada forma/variante ligada a Olímpia; possíveis leituras toponímicas ou gentílicas (variante pouco clara).",
-    "exemplos": [],
-    "notas": "Forma incerta no corpus; necessidade de verificação contra fontes primárias/edições (OCR sugeriu diversa morfologia). | [dedupe] redirect → chunk_18955:18955:0 | [dedupe] redirect → chunk_18955:18955:0",
-    "raw_text": "{\"id\":\"chunk_18944:18944:0\",\"lemas\":[\"Olympium\"],\"lema_canonico\":\"Olympium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"registrada forma/variante ligada a Olímpia; possíveis leituras toponímicas ou gentílicas (variante pouco clara).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma incerta no corpus; necessidade de verificação contra fontes primárias/edições (OCR sugeriu diversa morfologia).\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_18944:18944:0\",\"lemas\":[\"Olympium\"],\"lema_canonico\":\"Olympium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"registrada forma/variante ligada a Olímpia; possíveis leituras toponímicas ou gentílicas (variante pouco clara).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma incerta no corpus; necessidade de verificação contra fontes primárias/edições (OCR sugeriu diversa morfologia).\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
     "id": "chunk_18945-e1",
@@ -3806,28 +3190,6 @@
     "raw_json": "{\"id\":\"chunk_18945:18945:0\",\"lemas\":[\"Olympia\"],\"lema_canonico\":\"Olympia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Olímpia, região sagrada em Élide onde se celebravam os jogos olímpicos; nome do lugar e do santuário associado.\",\"aliases\":[],\"exemplos\":[\"Cic. de Or. 3, 32, 127\",\"Cic. Tusc. 1, 46, 111\"],\"notas\":\"Forma e declinação alinhadas com Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_18946-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_18946",
-    "page_num": 18946,
-    "lemmas": [
-      "Ŏlympĭa",
-      "olympia"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Olympia, -ae, f.: local sagrado em Élide onde se celebravam os jogos Olímpicos; plural neutro (olympia, -orum) usado para os jogos em si.",
-    "exemplos": [],
-    "notas": "Singular feminino principal; menciona uso plural substantivado conforme LS. | [dedupe] redirect → chunk_18945:18945:0 | [dedupe] redirect → chunk_18945:18945:0 | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='olympia' → 'Ŏlympĭa'",
-    "raw_text": "{\"id\":\"chunk_18946:18946:0\",\"lemas\":[\"olympia\",\"olympiā\"],\"lema_canonico\":\"olympia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Olympia, -ae, f.: local sagrado em Élide onde se celebravam os jogos Olímpicos; plural neutro (olympia, -orum) usado para os jogos em si.\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 2, 144\"],\"notas\":\"Singular feminino principal; menciona uso plural substantivado conforme LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_18946:18946:0\",\"lemas\":[\"olympia\",\"olympiā\"],\"lema_canonico\":\"olympia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Olympia, -ae, f.: local sagrado em Élide onde se celebravam os jogos Olímpicos; plural neutro (olympia, -orum) usado para os jogos em si.\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 2, 144\"],\"notas\":\"Singular feminino principal; menciona uso plural substantivado conforme LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_18947-e1",
     "volume_id": "faria",
     "doc_name": "chunk_18947",
@@ -3850,28 +3212,6 @@
     "raw_json": "{\"id\":\"chunk_18947:18947:0\",\"lemas\":[\"Olympiades\",\"Ŏlympĭădes\"],\"lema_canonico\":\"Olympiades\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Ŏlympĭădes: Olimpíades; nome próprio feminino referente às ninfas/musas do Olimpo (plur.).\",\"aliases\":[],\"exemplos\":[\"Varr. L. Lat. 7, 8\"],\"notas\":\"Forma atestada por Lewis & Short e por vocabulários modernos; pluralidade preservada.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_18948-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_18948",
-    "page_num": 18948,
-    "lemmas": [
-      "Olympias",
-      "Olympias"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Olimpíade; filha de Neoptolemus, esposa de Filipe e mãe de Alexandre (figura histórica).",
-    "exemplos": [],
-    "notas": "Corrigida citação para concordar com Lewis & Short; declinação 3ª feminina (gen. -adis). | [dedupe] redirect → chunk_18949:18949:0 | [dedupe] redirect → chunk_18949:18949:0",
-    "raw_text": "{\"id\":\"chunk_18948:18948:0\",\"lemas\":[\"Olympias\",\"olympias\"],\"lema_canonico\":\"Olympias\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Olimpíade; filha de Neoptolemus, esposa de Filipe e mãe de Alexandre (figura histórica).\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 1, 23\"],\"notas\":\"Corrigida citação para concordar com Lewis & Short; declinação 3ª feminina (gen. -adis).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_18948:18948:0\",\"lemas\":[\"Olympias\",\"olympias\"],\"lema_canonico\":\"Olympias\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Olimpíade; filha de Neoptolemus, esposa de Filipe e mãe de Alexandre (figura histórica).\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 1, 23\"],\"notas\":\"Corrigida citação para concordar com Lewis & Short; declinação 3ª feminina (gen. -adis).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_18949-e1",
     "volume_id": "faria",
     "doc_name": "chunk_18949",
@@ -3892,28 +3232,6 @@
     "notas": "Concilia entradas LS (multiplas acepções) e Lat→Deu (Olympiad).",
     "raw_text": "{\"id\":\"chunk_18949:18949:0\",\"lemas\":[\"olympias\"],\"lema_canonico\":\"olympias\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"olympias, -adis, f.: a Olympiad (período); também atestado como nome próprio (filha de Neoptolemus) e como vento regional.\",\"aliases\":[],\"exemplos\":[\"Cic. Rep. 2, 18, 28\",\"Ov. P. 4, 6, 5\"],\"notas\":\"Concilia entradas LS (multiplas acepções) e Lat→Deu (Olympiad).\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_18949:18949:0\",\"lemas\":[\"olympias\"],\"lema_canonico\":\"olympias\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"olympias, -adis, f.: a Olympiad (período); também atestado como nome próprio (filha de Neoptolemus) e como vento regional.\",\"aliases\":[],\"exemplos\":[\"Cic. Rep. 2, 18, 28\",\"Ov. P. 4, 6, 5\"],\"notas\":\"Concilia entradas LS (multiplas acepções) e Lat→Deu (Olympiad).\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_18950-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_18950",
-    "page_num": 18950,
-    "lemmas": [
-      "Ŏlympĭus",
-      "Ŏlympĭus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "olímpico, relativo a Olímpia ou aos Olímpicos (poét.).",
-    "exemplos": [],
-    "notas": "Conferido com Lewis & Short (Ŏlympĭus a, um). | [dedupe] redirect → chunk_18956:18956:0 | [dedupe] redirect → chunk_18956:18956:0 | [ocr_fix 2025-08-17T19:54:10Z] match direto em LS por lemma/lemma_norm | lemma_in='Olympius' → 'Ŏlympĭus'",
-    "raw_text": "{\"id\":\"chunk_18950:18950:0\",\"lemas\":[\"Olympius\",\"Ŏlympĭus\"],\"lema_canonico\":\"Olympius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"olímpico, relativo a Olímpia ou aos Olímpicos (poét.).\",\"aliases\":[],\"exemplos\":[\"Hor. O. 1, 1, 36\"],\"notas\":\"Conferido com Lewis & Short (Ŏlympĭus a, um).\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_18950:18950:0\",\"lemas\":[\"Olympius\",\"Ŏlympĭus\"],\"lema_canonico\":\"Olympius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"olímpico, relativo a Olímpia ou aos Olímpicos (poét.).\",\"aliases\":[],\"exemplos\":[\"Hor. O. 1, 1, 36\"],\"notas\":\"Conferido com Lewis & Short (Ŏlympĭus a, um).\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
     "id": "chunk_18951-e1",
@@ -4070,28 +3388,6 @@
     "raw_json": "{\"id\":\"chunk_18957:18957:0\",\"lemas\":[\"pus\",\"pūs\"],\"lema_canonico\":\"pus\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"matéria branca e viscosa de uma ferida; pus; por extensão, pessoa maliciosa ou nociva.\",\"aliases\":[],\"exemplos\":[\"Cels. 5, 26, 20\",\"Cels. 5, 28, 8\",\"Plin. Nat. 24, 16, §145\",\"Plin. Nat. 35, 6, §38\",\"Non. 2, 31\",\"Hor. S. 1, 7, 1\"],\"notas\":\"Inserido macron em pūs e alinhado com Lewis & Short e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_18957-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_18957",
-    "page_num": 18957,
-    "lemmas": [
-      "Olympus",
-      "Olympus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Olimpo: monte principal (entre Tessália e Macedônia), sede dos deuses; também diversos montes homónimos e uma cidade marítima na Panfília.",
-    "exemplos": [],
-    "notas": "Unificadas variantes e agrupadas acepções; corrigido erro de OCR que separava 'Ŏlym pus'. | [dedupe] redirect → chunk_18951:18951:0 | [dedupe] redirect → chunk_18951:18951:0",
-    "raw_text": "{\"id\":\"chunk_18957:18957:1\",\"lemas\":[\"Olympus\",\"Ŏlympus\"],\"lema_canonico\":\"Olympus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Olimpo: monte principal (entre Tessália e Macedônia), sede dos deuses; também diversos montes homónimos e uma cidade marítima na Panfília.\",\"aliases\":[],\"exemplos\":[\"Verg. G. 1, 282\",\"Plin. H. Nat. 5, 148\",\"Plin. H. Nat. 21, 31\",\"Plin. H. Nat. 5, 118\",\"Plin. H. Nat. 5, 142\",\"T. Liv. 38, 18\",\"Cic. Verr. 1, 58\"],\"notas\":\"Unificadas variantes e agrupadas acepções; corrigido erro de OCR que separava 'Ŏlym pus'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_18957:18957:1\",\"lemas\":[\"Olympus\",\"Ŏlympus\"],\"lema_canonico\":\"Olympus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Olimpo: monte principal (entre Tessália e Macedônia), sede dos deuses; também diversos montes homónimos e uma cidade marítima na Panfília.\",\"aliases\":[],\"exemplos\":[\"Verg. G. 1, 282\",\"Plin. H. Nat. 5, 148\",\"Plin. H. Nat. 21, 31\",\"Plin. H. Nat. 5, 118\",\"Plin. H. Nat. 5, 142\",\"T. Liv. 38, 18\",\"Cic. Verr. 1, 58\"],\"notas\":\"Unificadas variantes e agrupadas acepções; corrigido erro de OCR que separava 'Ŏlym pus'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_18958-e1",
     "volume_id": "faria",
     "doc_name": "chunk_18958",
@@ -4200,28 +3496,6 @@
     "notas": "Registradas ambas variantes; lema canónico escolhido como omasum (mais comum). | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='omasum' → 'ŏmāsum'",
     "raw_text": "{\"id\":\"chunk_18962:18962:0\",\"lemas\":[\"omasum\",\"omasium\"],\"lema_canonico\":\"omasum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"omasum (omasium): o omaso, a terceira câmara estomacal dos ruminantes; trípas de boi (anat./culin.).\",\"aliases\":[],\"exemplos\":[\"Hor. Sat. 2, 5, 40\"],\"notas\":\"Registradas ambas variantes; lema canónico escolhido como omasum (mais comum).\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_18962:18962:0\",\"lemas\":[\"omasum\",\"omasium\"],\"lema_canonico\":\"omasum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"omasum (omasium): o omaso, a terceira câmara estomacal dos ruminantes; trípas de boi (anat./culin.).\",\"aliases\":[],\"exemplos\":[\"Hor. Sat. 2, 5, 40\"],\"notas\":\"Registradas ambas variantes; lema canónico escolhido como omasum (mais comum).\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_18963-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_18963",
-    "page_num": 18963,
-    "lemmas": [
-      "Omber",
-      "Omber"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:low",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada apontada como redirecionamento para 'Umber' no impresso; definição transferida para alvo.",
-    "raw_text": "{\"id\":\"chunk_18963:18963:0\",\"lemas\":[\"Omber\"],\"lema_canonico\":\"Omber\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Umber\"],\"exemplos\":[],\"notas\":\"Entrada apontada como redirecionamento para 'Umber' no impresso; definição transferida para alvo.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_18963:18963:0\",\"lemas\":[\"Omber\"],\"lema_canonico\":\"Omber\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Umber\"],\"exemplos\":[],\"notas\":\"Entrada apontada como redirecionamento para 'Umber' no impresso; definição transferida para alvo.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"redirect_only\"]}"
   },
   {
     "id": "chunk_18964-e1",
@@ -4378,28 +3652,6 @@
     "raw_json": "{\"id\":\"chunk_18970:18970:0\",\"lemas\":[\"omissus\"],\"lema_canonico\":\"omissus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo de omitto; usado também como adjetivo 'negligente, descuidado'.\",\"aliases\":[],\"exemplos\":[\"Ter. Heaut. 962\",\"Ter. Andr. 830\"],\"notas\":\"Unificadas as acepções de particípio e adjetivo; marcado como PPP.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_18971-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_18971",
-    "page_num": 18971,
-    "lemmas": [
-      "omitto",
-      "omitto"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Deixar ir; desatender, omitir, deixar de lado; transitive (also figurative senses).",
-    "exemplos": [],
-    "notas": "Infinitivo e paradigmas normalizados segundo LS/Whitaker; marcado como transitivo. | [dedupe] redirect → chunk_18969:18969:0 | [dedupe] redirect → chunk_18969:18969:0",
-    "raw_text": "{\"id\":\"chunk_18971:18971:0\",\"lemas\":[\"omitto\"],\"lema_canonico\":\"omitto\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"Deixar ir; desatender, omitir, deixar de lado; transitive (also figurative senses).\",\"aliases\":[],\"exemplos\":[\"Plaut. Amph. 240\",\"Liv. 21, 11\",\"Ter. Ad. 267\",\"Cic. Fin. 1, 36\"],\"notas\":\"Infinitivo e paradigmas normalizados segundo LS/Whitaker; marcado como transitivo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_18971:18971:0\",\"lemas\":[\"omitto\"],\"lema_canonico\":\"omitto\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"Deixar ir; desatender, omitir, deixar de lado; transitive (also figurative senses).\",\"aliases\":[],\"exemplos\":[\"Plaut. Amph. 240\",\"Liv. 21, 11\",\"Ter. Ad. 267\",\"Cic. Fin. 1, 36\"],\"notas\":\"Infinitivo e paradigmas normalizados segundo LS/Whitaker; marcado como transitivo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_18972-e1",
     "volume_id": "faria",
     "doc_name": "chunk_18972",
@@ -4420,28 +3672,6 @@
     "notas": "Entrada alinhada com Lewis & Short e Lat→Deu; listadas formas e uso substantivado.",
     "raw_text": "{\"id\":\"chunk_18972:18972:0\",\"lemas\":[\"omnis\",\"omne\",\"omnia\"],\"lema_canonico\":\"omnis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"cada, todo; (pl.) todos; no neutro plural: omnia = todas as coisas, tudo.\",\"aliases\":[],\"exemplos\":[\"Cic. Fin. 1, 20, 65\",\"Liv. 37, 53, 20\",\"Cic. Caecin. 35, 101\",\"Cic. Part. Or. 17, 60\"],\"notas\":\"Entrada alinhada com Lewis & Short e Lat→Deu; listadas formas e uso substantivado.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_18972:18972:0\",\"lemas\":[\"omnis\",\"omne\",\"omnia\"],\"lema_canonico\":\"omnis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"cada, todo; (pl.) todos; no neutro plural: omnia = todas as coisas, tudo.\",\"aliases\":[],\"exemplos\":[\"Cic. Fin. 1, 20, 65\",\"Liv. 37, 53, 20\",\"Cic. Caecin. 35, 101\",\"Cic. Part. Or. 17, 60\"],\"notas\":\"Entrada alinhada com Lewis & Short e Lat→Deu; listadas formas e uso substantivado.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_18973-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_18973",
-    "page_num": 18973,
-    "lemmas": [
-      "omnis",
-      "omnis"
-    ],
-    "morfologia": "adj. (3) 2T",
-    "morph_render": "adj. (3) 2T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "todo, toda, todo inteiro; cada.",
-    "exemplos": [],
-    "notas": "Entrada OCR corrupta 'omŭia' corrigida para omnis / omnia (radical confirmado em LS/Whitaker). | [dedupe] redirect → chunk_18972:18972:0 | [dedupe] redirect → chunk_18972:18972:0",
-    "raw_text": "{\"id\":\"chunk_18973:18973:0\",\"lemas\":[\"omnis\"],\"lema_canonico\":\"omnis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"todo, toda, todo inteiro; cada.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada OCR corrupta 'omŭia' corrigida para omnis / omnia (radical confirmado em LS/Whitaker).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_18973:18973:0\",\"lemas\":[\"omnis\"],\"lema_canonico\":\"omnis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"todo, toda, todo inteiro; cada.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada OCR corrupta 'omŭia' corrigida para omnis / omnia (radical confirmado em LS/Whitaker).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_18974-e1",
@@ -4640,28 +3870,6 @@
     "notas": "",
     "raw_text": "{\"id\":\"chunk_18982:18982:0\",\"lemas\":[\"omnipotens\"],\"lema_canonico\":\"omnipotens\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[],\"definicao\":\"Todo-poderoso, onipotente; usado também como substantivo para 'o Todo-Poderoso' (Deus, Júpiter).\",\"aliases\":[],\"exemplos\":[\"Verg. A. 8, 334\",\"Ov. Met. 2, 505\"],\"notas\":\"\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_18982:18982:0\",\"lemas\":[\"omnipotens\"],\"lema_canonico\":\"omnipotens\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[],\"definicao\":\"Todo-poderoso, onipotente; usado também como substantivo para 'o Todo-Poderoso' (Deus, Júpiter).\",\"aliases\":[],\"exemplos\":[\"Verg. A. 8, 334\",\"Ov. Met. 2, 505\"],\"notas\":\"\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_18983-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_18983",
-    "page_num": 18983,
-    "lemmas": [
-      "omnis",
-      "omnis"
-    ],
-    "morfologia": "adj. (3) 3T",
-    "morph_render": "adj. (3) 3T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "cada, todo; no neutro: tudo (sing./pl. selon contexto); em plural: todas as coisas/pessoas",
-    "exemplos": [],
-    "notas": "Forma e flexões normalizadas; incluídas variantes neutras e plural. | [dedupe] redirect → chunk_18972:18972:0 | [dedupe] redirect → chunk_18972:18972:0",
-    "raw_text": "{\"id\":\"chunk_18983:18983:0\",\"lemas\":[\"omnis\",\"omne\",\"omnia\"],\"lema_canonico\":\"omnis\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"cada, todo; no neutro: tudo (sing./pl. selon contexto); em plural: todas as coisas/pessoas\",\"aliases\":[],\"exemplos\":[\"Cic. Leg. 2, 70\",\"Ces. B. Gal. 5, 6, 3\",\"Cic. De or. 2, 158\",\"Cic. Lael. 58\",\"Liv. 31, 45, 7\"],\"notas\":\"Forma e flexões normalizadas; incluídas variantes neutras e plural.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_18983:18983:0\",\"lemas\":[\"omnis\",\"omne\",\"omnia\"],\"lema_canonico\":\"omnis\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"cada, todo; no neutro: tudo (sing./pl. selon contexto); em plural: todas as coisas/pessoas\",\"aliases\":[],\"exemplos\":[\"Cic. Leg. 2, 70\",\"Ces. B. Gal. 5, 6, 3\",\"Cic. De or. 2, 158\",\"Cic. Lael. 58\",\"Liv. 31, 45, 7\"],\"notas\":\"Forma e flexões normalizadas; incluídas variantes neutras e plural.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_18984-e1",
@@ -4906,28 +4114,6 @@
     "raw_json": "{\"id\":\"chunk_18994:18994:0\",\"lemas\":[\"Onchēs\"],\"lema_canonico\":\"Onchēs\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Nome próprio (guerreiro), grafias variantes atestadas na tradição manuscrita.\",\"aliases\":[],\"exemplos\":[\"V. Flac. 6, 256\"],\"notas\":\"Forma e flexões incertas no OCR; entrada baseada na primeira passada, requer verificação em edições críticas.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_18994-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_18994",
-    "page_num": 18994,
-    "lemmas": [
-      "onera",
-      "onera"
-    ],
-    "morfologia": "s. neut. 3ª (-is)",
-    "morph_render": "s. neut. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada tratada como variante/forma (pl.) de onus; redirecionamento para 'onus'.",
-    "raw_text": "{\"id\":\"chunk_18994:18994:1\",\"lemas\":[\"onera\"],\"lema_canonico\":\"onera\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"onus\"],\"exemplos\":[],\"notas\":\"Entrada tratada como variante/forma (pl.) de onus; redirecionamento para 'onus'.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"src_latdeu\",\"conf:high\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_18994:18994:1\",\"lemas\":[\"onera\"],\"lema_canonico\":\"onera\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"onus\"],\"exemplos\":[],\"notas\":\"Entrada tratada como variante/forma (pl.) de onus; redirecionamento para 'onus'.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"src_latdeu\",\"conf:high\",\"redirect_only\"]}"
-  },
-  {
     "id": "chunk_18995-e1",
     "volume_id": "faria",
     "doc_name": "chunk_18995",
@@ -4948,50 +4134,6 @@
     "notas": "Entrada harmonizada para substantivo (navis oneraria) e adjetivo (onerarius, -a, -um).",
     "raw_text": "{\"id\":\"chunk_18995:18995:0\",\"lemas\":[\"oneraria\",\"onerarius\",\"onerarium\"],\"lema_canonico\":\"onerarius\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"1) Subst.: onerāria, navis onerāria — navio de carga, navio mercante. 2) Adj.: onerārius, -a, -um — relativo a carga, que transporta carga.\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 10, 12, 2\"],\"notas\":\"Entrada harmonizada para substantivo (navis oneraria) e adjetivo (onerarius, -a, -um).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_18995:18995:0\",\"lemas\":[\"oneraria\",\"onerarius\",\"onerarium\"],\"lema_canonico\":\"onerarius\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"1) Subst.: onerāria, navis onerāria — navio de carga, navio mercante. 2) Adj.: onerārius, -a, -um — relativo a carga, que transporta carga.\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 10, 12, 2\"],\"notas\":\"Entrada harmonizada para substantivo (navis oneraria) e adjetivo (onerarius, -a, -um).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_18996-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_18996",
-    "page_num": 18996,
-    "lemmas": [
-      "onerarius",
-      "onerarius"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "de carga, relativo ao transporte ou que suporta carga; também substantivo fem. (oneraria), navis oneraria = navio de carga.",
-    "exemplos": [],
-    "notas": "Formas de gênero listadas; substantivo feminino registrado em LS. | [dedupe] redirect → chunk_18995:18995:0 | [dedupe] redirect → chunk_18995:18995:0",
-    "raw_text": "{\"id\":\"chunk_18996:18996:0\",\"lemas\":[\"onerarius\",\"oneraria\",\"onerarium\"],\"lema_canonico\":\"onerarius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"de carga, relativo ao transporte ou que suporta carga; também substantivo fem. (oneraria), navis oneraria = navio de carga.\",\"aliases\":[],\"exemplos\":[\"Liv. 41, 4\",\"Caes. B. G. 4, 22\",\"Liv. 22, 11, 6\",\"Cic. Att. 10, 12, 2\"],\"notas\":\"Formas de gênero listadas; substantivo feminino registrado em LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_18996:18996:0\",\"lemas\":[\"onerarius\",\"oneraria\",\"onerarium\"],\"lema_canonico\":\"onerarius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"de carga, relativo ao transporte ou que suporta carga; também substantivo fem. (oneraria), navis oneraria = navio de carga.\",\"aliases\":[],\"exemplos\":[\"Liv. 41, 4\",\"Caes. B. G. 4, 22\",\"Liv. 22, 11, 6\",\"Cic. Att. 10, 12, 2\"],\"notas\":\"Formas de gênero listadas; substantivo feminino registrado em LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_18997-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_18997",
-    "page_num": 18997,
-    "lemmas": [
-      "onus",
-      "onus"
-    ],
-    "morfologia": "s. neut. 3ª (-is)",
-    "morph_render": "s. neut. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Carga, peso; encargo, fardo; às vezes bens ou encargos financeiros (cargo, freight).",
-    "exemplos": [],
-    "notas": "Normalizada a forma do genitivo (oneris). | [dedupe] redirect → chunk_12736:12736:0 | [dedupe] redirect → chunk_12736:12736:0",
-    "raw_text": "{\"id\":\"chunk_18997:18997:0\",\"lemas\":[\"onus\"],\"lema_canonico\":\"onus\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Carga, peso; encargo, fardo; às vezes bens ou encargos financeiros (cargo, freight).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizada a forma do genitivo (oneris).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_18997:18997:0\",\"lemas\":[\"onus\"],\"lema_canonico\":\"onus\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Carga, peso; encargo, fardo; às vezes bens ou encargos financeiros (cargo, freight).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizada a forma do genitivo (oneris).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_18998-e1",

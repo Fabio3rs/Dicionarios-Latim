@@ -22,50 +22,6 @@
     "raw_json": "{\"id\":\"chunk_5200:5200:0\",\"lemas\":[\"classiei\"],\"lema_canonico\":\"classiei\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada possivelmente corrompida por OCR (clāssiēi → provavelmente classici/classiarii). Não há confirmação segura nas fontes prestadas.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_5200-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_5200",
-    "page_num": 5200,
-    "lemmas": [
-      "classis",
-      "classis"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "fleet; levy/draft; a division or band of ships and, by extension, their crews or forces (naval contingent).",
-    "exemplos": [],
-    "notas": "Corrigido lema para classis (3rd decl., f.). Unificado com fontes LS/Whitaker. | [dedupe] redirect → chunk_5205:5205:0 | [dedupe] redirect → chunk_5205:5205:0",
-    "raw_text": "{\"id\":\"chunk_5200:5200:1\",\"lemas\":[\"classis\"],\"lema_canonico\":\"classis\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"fleet; levy/draft; a division or band of ships and, by extension, their crews or forces (naval contingent).\",\"aliases\":[],\"exemplos\":[\"Q. Curc. 4, 3, 18\",\"Tac. Hist. 2, 17\"],\"notas\":\"Corrigido lema para classis (3rd decl., f.). Unificado com fontes LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5200:5200:1\",\"lemas\":[\"classis\"],\"lema_canonico\":\"classis\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"fleet; levy/draft; a division or band of ships and, by extension, their crews or forces (naval contingent).\",\"aliases\":[],\"exemplos\":[\"Q. Curc. 4, 3, 18\",\"Tac. Hist. 2, 17\"],\"notas\":\"Corrigido lema para classis (3rd decl., f.). Unificado com fontes LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_5201-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5201",
-    "page_num": 5201,
-    "lemmas": [
-      "classicus",
-      "classicus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "substantivo/adjetivo: (subst. pl.) marines, marinheiros; (adj.) relativo à frota, da primeira classe; também: de primeira ordem, clássico.",
-    "exemplos": [],
-    "notas": "Unificado lema canónico 'classicus' com atestados para o plural substantivado 'classici' (LS/Whitaker). | [dedupe] redirect → chunk_5204:5204:0 | [dedupe] redirect → chunk_5204:5204:0",
-    "raw_text": "{\"id\":\"chunk_5201:5201:0\",\"lemas\":[\"classicus\",\"classici\"],\"lema_canonico\":\"classicus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"substantivo/adjetivo: (subst. pl.) marines, marinheiros; (adj.) relativo à frota, da primeira classe; também: de primeira ordem, clássico.\",\"aliases\":[],\"exemplos\":[\"A. Gél. 7, 13, 1\",\"A. Gél. 19, 8, 15\"],\"notas\":\"Unificado lema canónico 'classicus' com atestados para o plural substantivado 'classici' (LS/Whitaker).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5201:5201:0\",\"lemas\":[\"classicus\",\"classici\"],\"lema_canonico\":\"classicus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"substantivo/adjetivo: (subst. pl.) marines, marinheiros; (adj.) relativo à frota, da primeira classe; também: de primeira ordem, clássico.\",\"aliases\":[],\"exemplos\":[\"A. Gél. 7, 13, 1\",\"A. Gél. 19, 8, 15\"],\"notas\":\"Unificado lema canónico 'classicus' com atestados para o plural substantivado 'classici' (LS/Whitaker).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_5202-e1",
     "volume_id": "faria",
     "doc_name": "chunk_5202",
@@ -396,28 +352,6 @@
     "raw_json": "{\"id\":\"chunk_5215:5215:0\",\"lemas\":[\"claudico\",\"claudĭco\"],\"lema_canonico\":\"claudico\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"Coxear, claudicar; também figuradamente vacilar, ser desigual ou não proceder bem.\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 2, 249\",\"Lucr. 4, 518\",\"Cic. Nat. 1, 107\"],\"notas\":\"Forma e transitividade confirmadas com LS; mantida como verbo intransitivo de 1ª conjugação.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_5215-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_5215",
-    "page_num": 5215,
-    "lemmas": [
-      "Claudius",
-      "Claudius"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Adjetivo gentilício relativo à gens Cláudia; usado como cognome/relativo a individ. da família Claudia.",
-    "exemplos": [],
-    "notas": "Grafia e variantes conforme LS; categoria adjetival padronizada segundo vocabulário permitido. | [dedupe] redirect → chunk_5212:5212:0 | [dedupe] redirect → chunk_5212:5212:0",
-    "raw_text": "{\"id\":\"chunk_5215:5215:1\",\"lemas\":[\"Claudius\",\"Claudia\",\"Claudium\"],\"lema_canonico\":\"Claudius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Adjetivo gentilício relativo à gens Cláudia; usado como cognome/relativo a individ. da família Claudia.\",\"aliases\":[],\"exemplos\":[\"Hor. Od. 4, 4, 73\",\"Ov. P. 1, 8, 44\"],\"notas\":\"Grafia e variantes conforme LS; categoria adjetival padronizada segundo vocabulário permitido.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5215:5215:1\",\"lemas\":[\"Claudius\",\"Claudia\",\"Claudium\"],\"lema_canonico\":\"Claudius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Adjetivo gentilício relativo à gens Cláudia; usado como cognome/relativo a individ. da família Claudia.\",\"aliases\":[],\"exemplos\":[\"Hor. Od. 4, 4, 73\",\"Ov. P. 1, 8, 44\"],\"notas\":\"Grafia e variantes conforme LS; categoria adjetival padronizada segundo vocabulário permitido.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_5216-e1",
     "volume_id": "faria",
     "doc_name": "chunk_5216",
@@ -460,28 +394,6 @@
     "notas": "Formas variantes e usos alinhados com Lewis & Short; classificado como verbo da 3ª conjugação, transitivo.",
     "raw_text": "{\"id\":\"chunk_5217:5217:0\",\"lemas\":[\"claudo\",\"clūdo\",\"clōdo\"],\"lema_canonico\":\"claudo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"Fechar, encerrar, trancar; também encerrar/terminar, deter ou cercar (usos militares/topográficos e retóricos).\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 5, 50\",\"Liv. 23, 2, 9\",\"Ov. Met. 6, 527\",\"Ov. F. 3, 384\",\"Hor. Sat. 1, 2, 28\",\"Caes. B. G. 2, 19\"],\"notas\":\"Formas variantes e usos alinhados com Lewis & Short; classificado como verbo da 3ª conjugação, transitivo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_5217:5217:0\",\"lemas\":[\"claudo\",\"clūdo\",\"clōdo\"],\"lema_canonico\":\"claudo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"Fechar, encerrar, trancar; também encerrar/terminar, deter ou cercar (usos militares/topográficos e retóricos).\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 5, 50\",\"Liv. 23, 2, 9\",\"Ov. Met. 6, 527\",\"Ov. F. 3, 384\",\"Hor. Sat. 1, 2, 28\",\"Caes. B. G. 2, 19\"],\"notas\":\"Formas variantes e usos alinhados com Lewis & Short; classificado como verbo da 3ª conjugação, transitivo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_5218-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5218",
-    "page_num": 5218,
-    "lemmas": [
-      "claudo",
-      "claudo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "to shut, close (trans.); (in some uses) to be defective, falter; also attested intransitive senses related to limping in late usage.",
-    "exemplos": [],
-    "notas": "Verb corrected to 3rd conjugation; both trans. and intr. senses noted per LS and Lat→Deu. | [dedupe] redirect → chunk_5217:5217:0 | [dedupe] redirect → chunk_5217:5217:0",
-    "raw_text": "{\"id\":\"chunk_5218:5218:0\",\"lemas\":[\"claudo\"],\"lema_canonico\":\"claudo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\",\"intr.\"],\"definicao\":\"to shut, close (trans.); (in some uses) to be defective, falter; also attested intransitive senses related to limping in late usage.\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 5, 22\",\"Plin. Nat. 37, 2\"],\"notas\":\"Verb corrected to 3rd conjugation; both trans. and intr. senses noted per LS and Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5218:5218:0\",\"lemas\":[\"claudo\"],\"lema_canonico\":\"claudo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\",\"intr.\"],\"definicao\":\"to shut, close (trans.); (in some uses) to be defective, falter; also attested intransitive senses related to limping in late usage.\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 5, 22\",\"Plin. Nat. 37, 2\"],\"notas\":\"Verb corrected to 3rd conjugation; both trans. and intr. senses noted per LS and Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_5219-e1",
@@ -550,28 +462,6 @@
     "raw_json": "{\"id\":\"chunk_5221:5221:0\",\"lemas\":[\"claustra\",\"claustrum\",\"clostra\",\"clostrum\"],\"lema_canonico\":\"claustrum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"fecho, ferrolho, barra; por extensão, obstáculo, cerco; geralmente usado no plural (claustra) para indicar cercas, portas ou barreiras; também clausura/claustro.\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 4, 52\",\"Cic. Mur. 17\"],\"notas\":\"Pluralia tantum em muitos contextos; variantes ortográficas atestadas (clostra, clostrum).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_5222-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5222",
-    "page_num": 5222,
-    "lemmas": [
-      "claustrum",
-      "claustrum"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "substantivo neutro de 2ª declinação: fecho, tranca, recinto; ver claustra (uso frequente no plural).",
-    "exemplos": [],
-    "notas": "Normalizada a indicação de gênero/declinação conforme LS/Whitaker; referência cruzada para claustra. | [dedupe] redirect → chunk_5221:5221:0 | [dedupe] redirect → chunk_5221:5221:0",
-    "raw_text": "{\"id\":\"chunk_5222:5222:0\",\"lemas\":[\"claustrum\"],\"lema_canonico\":\"claustrum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"substantivo neutro de 2ª declinação: fecho, tranca, recinto; ver claustra (uso frequente no plural).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizada a indicação de gênero/declinação conforme LS/Whitaker; referência cruzada para claustra.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5222:5222:0\",\"lemas\":[\"claustrum\"],\"lema_canonico\":\"claustrum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"substantivo neutro de 2ª declinação: fecho, tranca, recinto; ver claustra (uso frequente no plural).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizada a indicação de gênero/declinação conforme LS/Whitaker; referência cruzada para claustra.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_5223-e1",
     "volume_id": "faria",
     "doc_name": "chunk_5223",
@@ -592,28 +482,6 @@
     "notas": "Normalizada a grafia; variante macronizada atestada no LS.",
     "raw_text": "{\"id\":\"chunk_5223:5223:0\",\"lemas\":[\"clausula\",\"clausŭla\"],\"lema_canonico\":\"clausula\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"conclusão, fim; fecho de período (retórica); cláusula, termo final/condição\",\"aliases\":[],\"exemplos\":[\"Cic. Phil. 13, 47\",\"Cic. Or. 3, 44\"],\"notas\":\"Normalizada a grafia; variante macronizada atestada no LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_5223:5223:0\",\"lemas\":[\"clausula\",\"clausŭla\"],\"lema_canonico\":\"clausula\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"conclusão, fim; fecho de período (retórica); cláusula, termo final/condição\",\"aliases\":[],\"exemplos\":[\"Cic. Phil. 13, 47\",\"Cic. Or. 3, 44\"],\"notas\":\"Normalizada a grafia; variante macronizada atestada no LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_5224-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5224",
-    "page_num": 5224,
-    "lemmas": [
-      "claustrum",
-      "claustrum"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "lugar fechado, espaço encerrado; cerramento, fechadura.",
-    "exemplos": [],
-    "notas": "[dedupe] redirect → chunk_5221:5221:0 | [dedupe] redirect → chunk_5221:5221:0 | [ocr_fix 2025-08-17T19:56:48Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='claustrum' → 'claustrum'",
-    "raw_text": "{\"id\":\"chunk_5224:5224:0\",\"lemas\":[\"claustrum\",\"claustum\"],\"lema_canonico\":\"claustrum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"lugar fechado, espaço encerrado; cerramento, fechadura.\",\"aliases\":[],\"exemplos\":[\"Col. 7, 6, 5\",\"Lucr. 1, 354\"],\"notas\":\"\",\"flags\":[\"src_whitaker\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_5224:5224:0\",\"lemas\":[\"claustrum\",\"claustum\"],\"lema_canonico\":\"claustrum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"lugar fechado, espaço encerrado; cerramento, fechadura.\",\"aliases\":[],\"exemplos\":[\"Col. 7, 6, 5\",\"Lucr. 1, 354\"],\"notas\":\"\",\"flags\":[\"src_whitaker\",\"conf:med\"]}"
   },
   {
     "id": "chunk_5225-e1",
@@ -968,28 +836,6 @@
     "raw_json": "{\"id\":\"chunk_5239:5239:0\",\"lemas\":[\"clemens\",\"Clēmens\"],\"lema_canonico\":\"clemens\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[],\"definicao\":\"Adj.: gentil, manso, brando; também 'clemente' no sentido moral (indulgente, misericordioso); em sentido meteorológico/poético: calmo, ameno.\",\"aliases\":[],\"exemplos\":[\"Catul. 64, 272\",\"T. Liv. 1, 26, 8\",\"Plin. Paneg. 30\"],\"notas\":\"Incluídas variantes e advérbio clementer conforme LS/Whitaker; genitivo -entis confirmado.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_5240-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5240",
-    "page_num": 5240,
-    "lemmas": [
-      "clēmens",
-      "clēmens"
-    ],
-    "morfologia": "adj. (3) 1T",
-    "morph_render": "adj. (3) 1T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "misericordioso, brando, ameno; também atestado como nome próprio (Clēmens) em lat. posterior",
-    "exemplos": [],
-    "notas": "Lewis & Short e Whitaker registram tanto o adjetivo quanto uso como nome próprio; entrada unificada sob o lema adjetival. | [dedupe] redirect → chunk_5239:5239:0 | [dedupe] redirect → chunk_5239:5239:0",
-    "raw_text": "{\"id\":\"chunk_5240:5240:0\",\"lemas\":[\"clēmens\",\"Clēmens\"],\"lema_canonico\":\"clēmens\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[],\"definicao\":\"misericordioso, brando, ameno; também atestado como nome próprio (Clēmens) em lat. posterior\",\"aliases\":[],\"exemplos\":[\"Tac. Ann. 1, 23\"],\"notas\":\"Lewis & Short e Whitaker registram tanto o adjetivo quanto uso como nome próprio; entrada unificada sob o lema adjetival.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5240:5240:0\",\"lemas\":[\"clēmens\",\"Clēmens\"],\"lema_canonico\":\"clēmens\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[],\"definicao\":\"misericordioso, brando, ameno; também atestado como nome próprio (Clēmens) em lat. posterior\",\"aliases\":[],\"exemplos\":[\"Tac. Ann. 1, 23\"],\"notas\":\"Lewis & Short e Whitaker registram tanto o adjetivo quanto uso como nome próprio; entrada unificada sob o lema adjetival.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_5241-e1",
     "volume_id": "faria",
     "doc_name": "chunk_5241",
@@ -1276,50 +1122,6 @@
     "raw_json": "{\"id\":\"chunk_5252:5252:1\",\"lemas\":[\"clepō\",\"clepo\"],\"lema_canonico\":\"clepō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Roubar, furtar; também (fig.) ocultar, dissimular.\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 2, 23\",\"Sen. Med. 156\"],\"notas\":\"Formas e sentidos corroborados por Lewis & Short e pelo sumário Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_5253-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5253",
-    "page_num": 5253,
-    "lemmas": [
-      "clĕpo",
-      "clĕpo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "roubar, furtar; tomar ou retirar secretamente; também refugiar‑se (reflex.) — perfeito clepsī (clepsi)",
-    "exemplos": [],
-    "notas": "Perfeito 'clepsi' é forma attestada; entrada ajustada para o lema do verbo (clepo, clepĕre) conforme Lat→Deu e Whitaker. | [dedupe] redirect → chunk_5252:5252:1 | [dedupe] redirect → chunk_5252:5252:1 | [ocr_fix 2025-08-17T19:46:13Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='clepo' → 'clĕpo'",
-    "raw_text": "{\"id\":\"chunk_5253:5253:0\",\"lemas\":[\"clepo\",\"clepere\"],\"lema_canonico\":\"clepo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"perf. ind. 1sg\"],\"definicao\":\"roubar, furtar; tomar ou retirar secretamente; também refugiar‑se (reflex.) — perfeito clepsī (clepsi)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Perfeito 'clepsi' é forma attestada; entrada ajustada para o lema do verbo (clepo, clepĕre) conforme Lat→Deu e Whitaker.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_5253:5253:0\",\"lemas\":[\"clepo\",\"clepere\"],\"lema_canonico\":\"clepo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"perf. ind. 1sg\"],\"definicao\":\"roubar, furtar; tomar ou retirar secretamente; também refugiar‑se (reflex.) — perfeito clepsī (clepsi)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Perfeito 'clepsi' é forma attestada; entrada ajustada para o lema do verbo (clepo, clepĕre) conforme Lat→Deu e Whitaker.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_5254-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5254",
-    "page_num": 5254,
-    "lemmas": [
-      "clepsydra",
-      "clepsydra"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "clepsidra, relógio de água; instrumento para medir o tempo (usado também para marcar a duração do discurso); por extensão, o tempo medido pela clepsidra.",
-    "exemplos": [],
-    "notas": "Grafia regularizada para clepsydra; acepção e uso oratório confirmados por Lat→Deu e Whitaker. | [dedupe] redirect → chunk_15197:15197:0 | [dedupe] redirect → chunk_15197:15197:0",
-    "raw_text": "{\"id\":\"chunk_5254:5254:0\",\"lemas\":[\"clepsydra\"],\"lema_canonico\":\"clepsydra\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"clepsidra, relógio de água; instrumento para medir o tempo (usado também para marcar a duração do discurso); por extensão, o tempo medido pela clepsidra.\",\"aliases\":[],\"exemplos\":[\"Cic. Or. 3, 34, 138\",\"Sen. Ep. 24, 19\"],\"notas\":\"Grafia regularizada para clepsydra; acepção e uso oratório confirmados por Lat→Deu e Whitaker.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5254:5254:0\",\"lemas\":[\"clepsydra\"],\"lema_canonico\":\"clepsydra\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"clepsidra, relógio de água; instrumento para medir o tempo (usado também para marcar a duração do discurso); por extensão, o tempo medido pela clepsidra.\",\"aliases\":[],\"exemplos\":[\"Cic. Or. 3, 34, 138\",\"Sen. Ep. 24, 19\"],\"notas\":\"Grafia regularizada para clepsydra; acepção e uso oratório confirmados por Lat→Deu e Whitaker.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_5255-e1",
     "volume_id": "faria",
     "doc_name": "chunk_5255",
@@ -1450,28 +1252,6 @@
     "notas": "Forma e sentido confirmados por Lewis & Short e Whitaker (clinatus, part. de clināre).",
     "raw_text": "{\"id\":\"chunk_5260:5260:0\",\"lemas\":[\"clinatus\"],\"lema_canonico\":\"clinatus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo/adjetivo de clīno: inclinado, curvado, afundado.\",\"aliases\":[],\"exemplos\":[\"Cic. Arat. 53\",\"Cic. Arat. 86\"],\"notas\":\"Forma e sentido confirmados por Lewis & Short e Whitaker (clinatus, part. de clināre).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_5260:5260:0\",\"lemas\":[\"clinatus\"],\"lema_canonico\":\"clinatus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo/adjetivo de clīno: inclinado, curvado, afundado.\",\"aliases\":[],\"exemplos\":[\"Cic. Arat. 53\",\"Cic. Arat. 86\"],\"notas\":\"Forma e sentido confirmados por Lewis & Short e Whitaker (clinatus, part. de clināre).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_5261-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5261",
-    "page_num": 5261,
-    "lemmas": [
-      "Clīnĭas",
-      "Clīnĭas"
-    ],
-    "morfologia": "s. masc. 1ª (-ae)",
-    "morph_render": "s. masc. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Nome próprio masculino: Cliniades, identificado como filho de Clínias (Ovid. Ibis 633).",
-    "exemplos": [],
-    "notas": "A grafia e declinação vêm do material OCR/first_pass; não confirmado em Whitaker.\n[ocr_pipeline 2025-08-16T23:10:36.825657Z] lemma_in='Cliniades' → 'Clīnĭas' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:05:33Z] match direto em LS por lemma/lemma_norm | lemma_in='Clīnĭas' → 'Clīnĭas' | [dedupe] redirect → chunk_5262:5262:0 | [dedupe] redirect → chunk_5262:5262:0",
-    "raw_text": "{\"id\":\"chunk_5261:5261:0\",\"lemas\":[\"Cliniades\"],\"lema_canonico\":\"Cliniades\",\"morfologia\":\"s. masc. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Nome próprio masculino: Cliniades, identificado como filho de Clínias (Ovid. Ibis 633).\",\"aliases\":[],\"exemplos\":[\"Ov. Ib. 633\"],\"notas\":\"A grafia e declinação vêm do material OCR/first_pass; não confirmado em Whitaker.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_5261:5261:0\",\"lemas\":[\"Cliniades\"],\"lema_canonico\":\"Cliniades\",\"morfologia\":\"s. masc. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Nome próprio masculino: Cliniades, identificado como filho de Clínias (Ovid. Ibis 633).\",\"aliases\":[],\"exemplos\":[\"Ov. Ib. 633\"],\"notas\":\"A grafia e declinação vêm do material OCR/first_pass; não confirmado em Whitaker.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
     "id": "chunk_5262-e1",
@@ -1628,28 +1408,6 @@
     "raw_json": "{\"id\":\"chunk_5267:5267:0\",\"lemas\":[\"clipeus\",\"clĭpĕus\",\"clipeum\"],\"lema_canonico\":\"clipeus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"escudo redondo de bronze (escudo romano circular); também: disco solar; abóbada do céu; por extensão, efígie/medalhão em forma de disco\",\"aliases\":[],\"exemplos\":[\"Plaut. Trin. 2, 4, 195\",\"Cic. Fin. 2, 30, 97\",\"Liv. 1, 43, 2\",\"Verg. A. 2, 443\"],\"notas\":\"Corrigido gênero para masculino (LS/Whitaker); variantes gráficas atestadas incluídas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_5268-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5268",
-    "page_num": 5268,
-    "lemmas": [
-      "clipeus",
-      "clipeus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Escudo redondo (geralmente de bronze); disco do sol; escudo decorativo com bustos; meteorito circular.",
-    "exemplos": [],
-    "notas": "Formas variantes (clupeus) atestadas; sentidos conforme Lewis & Short e Whitaker. | [dedupe] redirect → chunk_5267:5267:0 | [dedupe] redirect → chunk_5267:5267:0",
-    "raw_text": "{\"id\":\"chunk_5268:5268:0\",\"lemas\":[\"clipeus\",\"clupeus\"],\"lema_canonico\":\"clipeus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Escudo redondo (geralmente de bronze); disco do sol; escudo decorativo com bustos; meteorito circular.\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 1, 34\",\"T. Liv. 25, 39, 13\",\"Ov. Met. 15, 192\",\"Sen. Nat. 1, 1, 15\"],\"notas\":\"Formas variantes (clupeus) atestadas; sentidos conforme Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5268:5268:0\",\"lemas\":[\"clipeus\",\"clupeus\"],\"lema_canonico\":\"clipeus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Escudo redondo (geralmente de bronze); disco do sol; escudo decorativo com bustos; meteorito circular.\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 1, 34\",\"T. Liv. 25, 39, 13\",\"Ov. Met. 15, 192\",\"Sen. Nat. 1, 1, 15\"],\"notas\":\"Formas variantes (clupeus) atestadas; sentidos conforme Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_5269-e1",
     "volume_id": "faria",
     "doc_name": "chunk_5269",
@@ -1780,28 +1538,6 @@
     "notas": "Entry attested in Faria; Whitaker marks UNKNOWN — requires confirmation in major lexica.\n[ocr_pipeline 2025-08-16T23:10:39.178222Z] lemma_in='Cliternia' → 'Clīternīni' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:05:36Z] match direto em LS por lemma/lemma_norm | lemma_in='Clīternīni' → 'Clīternīni'",
     "raw_text": "{\"id\":\"chunk_5274:5274:0\",\"lemas\":[\"Cliternia\"],\"lema_canonico\":\"Cliternia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Cliternia, a town of the Samnites (Plin. H. Nat. 3,103).\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 3, 103\"],\"notas\":\"Entry attested in Faria; Whitaker marks UNKNOWN — requires confirmation in major lexica.\",\"flags\":[\"src_firstpass\",\"src_whitaker\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_5274:5274:0\",\"lemas\":[\"Cliternia\"],\"lema_canonico\":\"Cliternia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Cliternia, a town of the Samnites (Plin. H. Nat. 3,103).\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 3, 103\"],\"notas\":\"Entry attested in Faria; Whitaker marks UNKNOWN — requires confirmation in major lexica.\",\"flags\":[\"src_firstpass\",\"src_whitaker\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_5275-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5275",
-    "page_num": 5275,
-    "lemmas": [
-      "Clīternīni",
-      "Clīternīni"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Of or pertaining to Cliternia (adjective attested, e.g. Cic. Fam. 9,22,4).",
-    "exemplos": [],
-    "notas": "Adjective derived from Cliternia; attestation in Cicero per first_pass OCR. Whitaker lists UNKNOWN.\n[ocr_pipeline 2025-08-16T23:10:39.393521Z] lemma_in='Cliterninus' → 'Clīternīni' | motivo: similaridade semântica FAISS (definição/gloss) | [dedupe] redirect → chunk_5274:5274:0 | [ocr_fix 2025-08-17T18:24:13Z] match direto em LS por lemma/lemma_norm | lemma_in='Clīternīni' → 'Clīternīni' | [dedupe] redirect → chunk_5274:5274:0",
-    "raw_text": "{\"id\":\"chunk_5275:5275:0\",\"lemas\":[\"Cliterninus\",\"Cliternina\",\"Cliterninum\"],\"lema_canonico\":\"Cliterninus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Of or pertaining to Cliternia (adjective attested, e.g. Cic. Fam. 9,22,4).\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 9, 22, 4\"],\"notas\":\"Adjective derived from Cliternia; attestation in Cicero per first_pass OCR. Whitaker lists UNKNOWN.\",\"flags\":[\"src_firstpass\",\"src_whitaker\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_5275:5275:0\",\"lemas\":[\"Cliterninus\",\"Cliternina\",\"Cliterninum\"],\"lema_canonico\":\"Cliterninus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Of or pertaining to Cliternia (adjective attested, e.g. Cic. Fam. 9,22,4).\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 9, 22, 4\"],\"notas\":\"Adjective derived from Cliternia; attestation in Cicero per first_pass OCR. Whitaker lists UNKNOWN.\",\"flags\":[\"src_firstpass\",\"src_whitaker\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
     "id": "chunk_5276-e1",
@@ -1958,28 +1694,6 @@
     "raw_json": "{\"id\":\"chunk_5282:5282:0\",\"lemas\":[\"Clodia\",\"Clōdia\"],\"lema_canonico\":\"Clodia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Clodia — feminine name, variant of Claudia; belonging to the Claudian gens in usage.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada tratada como variante de Claudia (LS records Clōdia).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_5283-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5283",
-    "page_num": 5283,
-    "lemmas": [
-      "Clodianus",
-      "Clodianus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Of Clodius; pertaining to the gens Clodia/Clodius (adjective).",
-    "exemplos": [],
-    "notas": "Corresponde a LS Clōdĭānus and Whitaker clodianus. | [dedupe] redirect → chunk_5284:5284:0 | [dedupe] redirect → chunk_5284:5284:0",
-    "raw_text": "{\"id\":\"chunk_5283:5283:0\",\"lemas\":[\"Clodianus\",\"Clōdianus\"],\"lema_canonico\":\"Clodianus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Of Clodius; pertaining to the gens Clodia/Clodius (adjective).\",\"aliases\":[],\"exemplos\":[\"Cic. Dom. 24\"],\"notas\":\"Corresponde a LS Clōdĭānus and Whitaker clodianus.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5283:5283:0\",\"lemas\":[\"Clodianus\",\"Clōdianus\"],\"lema_canonico\":\"Clodianus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Of Clodius; pertaining to the gens Clodia/Clodius (adjective).\",\"aliases\":[],\"exemplos\":[\"Cic. Dom. 24\"],\"notas\":\"Corresponde a LS Clōdĭānus and Whitaker clodianus.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_5284-e1",
     "volume_id": "faria",
     "doc_name": "chunk_5284",
@@ -2000,28 +1714,6 @@
     "notas": "Forma atestada tanto como adjetivo (Lewis & Short, Whitaker) quanto como sobrenome pessoal em fontes como Cícero.",
     "raw_text": "{\"id\":\"chunk_5284:5284:0\",\"lemas\":[\"Clōdiānus\",\"Clodiānus\"],\"lema_canonico\":\"Clōdiānus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"gentilício/adjetivo relativo à gens Claudia; também atestado como sobrenome pessoal (ex.: em Cícero)\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 1, 19, 3\"],\"notas\":\"Forma atestada tanto como adjetivo (Lewis & Short, Whitaker) quanto como sobrenome pessoal em fontes como Cícero.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_5284:5284:0\",\"lemas\":[\"Clōdiānus\",\"Clodiānus\"],\"lema_canonico\":\"Clōdiānus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"gentilício/adjetivo relativo à gens Claudia; também atestado como sobrenome pessoal (ex.: em Cícero)\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 1, 19, 3\"],\"notas\":\"Forma atestada tanto como adjetivo (Lewis & Short, Whitaker) quanto como sobrenome pessoal em fontes como Cícero.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_5285-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5285",
-    "page_num": 5285,
-    "lemmas": [
-      "Clōdĭus",
-      "Clōdĭus"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Primeira passada e OCR apresentam entrada como referência ('v.' = vide) a 'claudico'; não confirmado como forma própria aqui.\n[ocr_pipeline 2025-08-16T23:10:38.750806Z] lemma_in='clodius' → 'Clōdĭus' | motivo: match direto em LS por lemma/lemma_norm | [ocr_fix 2025-08-17T01:05:36Z] match direto em LS por lemma/lemma_norm | lemma_in='Clōdĭus' → 'Clōdĭus' | [dedupe] redirect → chunk_5286:5286:0 | [dedupe] redirect → chunk_5286:5286:0",
-    "raw_text": "{\"id\":\"chunk_5285:5285:0\",\"lemas\":[\"clodius\"],\"lema_canonico\":\"clodius\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"claudico\"],\"exemplos\":[],\"notas\":\"Primeira passada e OCR apresentam entrada como referência ('v.' = vide) a 'claudico'; não confirmado como forma própria aqui.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_5285:5285:0\",\"lemas\":[\"clodius\"],\"lema_canonico\":\"clodius\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"claudico\"],\"exemplos\":[],\"notas\":\"Primeira passada e OCR apresentam entrada como referência ('v.' = vide) a 'claudico'; não confirmado como forma própria aqui.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"redirect_only\"]}"
   },
   {
     "id": "chunk_5286-e1",
@@ -2066,28 +1758,6 @@
     "notas": "Registro de variante ortográfica Clōdĭus vinculada à gens Claudia (LS/Whitaker).",
     "raw_text": "{\"id\":\"chunk_5287:5287:0\",\"lemas\":[\"Clodius\",\"Clōdĭus\",\"Clōdius\"],\"lema_canonico\":\"Clodius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Nome próprio: P. Clodius Pulcher, tribuno da plebe; inimigo de Cicerão, morto por Milo.\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 2, 21, 6\"],\"notas\":\"Registro de variante ortográfica Clōdĭus vinculada à gens Claudia (LS/Whitaker).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_5287:5287:0\",\"lemas\":[\"Clodius\",\"Clōdĭus\",\"Clōdius\"],\"lema_canonico\":\"Clodius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Nome próprio: P. Clodius Pulcher, tribuno da plebe; inimigo de Cicerão, morto por Milo.\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 2, 21, 6\"],\"notas\":\"Registro de variante ortográfica Clōdĭus vinculada à gens Claudia (LS/Whitaker).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_5287-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_5287",
-    "page_num": 5287,
-    "lemmas": [
-      "clōdo",
-      "clōdō"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada tratada como remissão/variante de Claudius/claudō conforme LS; mantida como redirecionamento. | [dedupe] redirect → chunk_5292:5292:0 | [dedupe] redirect → chunk_5292:5292:0 | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='clōdō' → 'clōdo'",
-    "raw_text": "{\"id\":\"chunk_5287:5287:1\",\"lemas\":[\"clōdō\",\"clodio\"],\"lema_canonico\":\"clōdō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Claudius\",\"claudo\",\"claudō\"],\"exemplos\":[],\"notas\":\"Entrada tratada como remissão/variante de Claudius/claudō conforme LS; mantida como redirecionamento.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_5287:5287:1\",\"lemas\":[\"clōdō\",\"clodio\"],\"lema_canonico\":\"clōdō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Claudius\",\"claudo\",\"claudō\"],\"exemplos\":[],\"notas\":\"Entrada tratada como remissão/variante de Claudius/claudō conforme LS; mantida como redirecionamento.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"redirect_only\"]}"
   },
   {
     "id": "chunk_5288-e1",
@@ -2200,28 +1870,6 @@
     "raw_json": "{\"id\":\"chunk_5292:5292:0\",\"lemas\":[\"clōdo\"],\"lema_canonico\":\"clōdo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Possibly a variant or error related to claudo; attested in some sources as clōdo = claudo (to close, shut). Evidence conflicts between lexical sources.\",\"aliases\":[\"claudo\"],\"exemplos\":[],\"notas\":\"Fontes conflitantes: LS registra clōdo = claudo; Whitaker lists clodo as adjectival. Mantida forma verbal, revisão necessária.\",\"flags\":[\"src_firstpass\",\"src_ls\",\"src_whitaker\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_5293-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5293",
-    "page_num": 5293,
-    "lemmas": [
-      "claustrum",
-      "claustrum"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "forma variante ortográfica de claustrum: recinto, cancel, barreira, porteira, represa",
-    "exemplos": [],
-    "notas": "Retificado para lema canónico 'claustrum' conforme LS/Whitaker. | [dedupe] redirect → chunk_5221:5221:0 | [dedupe] redirect → chunk_5221:5221:0",
-    "raw_text": "{\"id\":\"chunk_5293:5293:0\",\"lemas\":[\"clostrum\",\"claustrum\"],\"lema_canonico\":\"claustrum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"forma variante ortográfica de claustrum: recinto, cancel, barreira, porteira, represa\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Retificado para lema canónico 'claustrum' conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5293:5293:0\",\"lemas\":[\"clostrum\",\"claustrum\"],\"lema_canonico\":\"claustrum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"forma variante ortográfica de claustrum: recinto, cancel, barreira, porteira, represa\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Retificado para lema canónico 'claustrum' conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_5294-e1",
     "volume_id": "faria",
     "doc_name": "chunk_5294",
@@ -2242,50 +1890,6 @@
     "notas": "Entrada tratada como nome próprio indeclinável; referências do Lewis & Short consolidadas. | [ocr_fix 2025-08-17T19:56:49Z] match direto em LS por lemma/lemma_norm | lemma_in='Clōthō' → 'Clōthō'",
     "raw_text": "{\"id\":\"chunk_5294:5294:0\",\"lemas\":[\"Clōthō\",\"Clotho\"],\"lema_canonico\":\"Clōthō\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"one of the three Parcae (the spinner); mythological personification of the thread of life.\",\"aliases\":[],\"exemplos\":[\"Ov. F. 6, 757\",\"Ov. F. 6, 241\",\"Juv. 9, 135\",\"Stat. Th. 3, 556\",\"Sil. 5, 404\"],\"notas\":\"Entrada tratada como nome próprio indeclinável; referências do Lewis & Short consolidadas.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_5294:5294:0\",\"lemas\":[\"Clōthō\",\"Clotho\"],\"lema_canonico\":\"Clōthō\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"one of the three Parcae (the spinner); mythological personification of the thread of life.\",\"aliases\":[],\"exemplos\":[\"Ov. F. 6, 757\",\"Ov. F. 6, 241\",\"Juv. 9, 135\",\"Stat. Th. 3, 556\",\"Sil. 5, 404\"],\"notas\":\"Entrada tratada como nome próprio indeclinável; referências do Lewis & Short consolidadas.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_5295-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5295",
-    "page_num": 5295,
-    "lemmas": [
-      "claudo",
-      "claudo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "claudō, claudere, clausī, clausus — verbo transitivo: fechar, encerrar, trancar; também concluir.",
-    "exemplos": [],
-    "notas": "Unificadas formas variantes; lema canônico escolhido conforme LS/Whitaker. | [dedupe] redirect → chunk_5217:5217:0 | [dedupe] redirect → chunk_5217:5217:0",
-    "raw_text": "{\"id\":\"chunk_5295:5295:0\",\"lemas\":[\"claudo\",\"cludo\",\"clūdo\"],\"lema_canonico\":\"claudo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"claudō, claudere, clausī, clausus — verbo transitivo: fechar, encerrar, trancar; também concluir.\",\"aliases\":[],\"exemplos\":[\"Suet. Aug. 22\"],\"notas\":\"Unificadas formas variantes; lema canônico escolhido conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5295:5295:0\",\"lemas\":[\"claudo\",\"cludo\",\"clūdo\"],\"lema_canonico\":\"claudo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"claudō, claudere, clausī, clausus — verbo transitivo: fechar, encerrar, trancar; também concluir.\",\"aliases\":[],\"exemplos\":[\"Suet. Aug. 22\"],\"notas\":\"Unificadas formas variantes; lema canônico escolhido conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_5296-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5296",
-    "page_num": 5296,
-    "lemmas": [
-      "claudus",
-      "claudus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Adjetivo (variante clūdus de claudus): manco, aleijado; por extensão, defeituoso, vacilante, incerto.",
-    "exemplos": [],
-    "notas": "Registrada como variante gráfica de claudus em LS/Whitaker. | [dedupe] redirect → chunk_5219:5219:0 | [dedupe] redirect → chunk_5219:5219:0",
-    "raw_text": "{\"id\":\"chunk_5296:5296:0\",\"lemas\":[\"clūdus\",\"claudus\",\"cludus\"],\"lema_canonico\":\"claudus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Adjetivo (variante clūdus de claudus): manco, aleijado; por extensão, defeituoso, vacilante, incerto.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Registrada como variante gráfica de claudus em LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5296:5296:0\",\"lemas\":[\"clūdus\",\"claudus\",\"cludus\"],\"lema_canonico\":\"claudus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Adjetivo (variante clūdus de claudus): manco, aleijado; por extensão, defeituoso, vacilante, incerto.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Registrada como variante gráfica de claudus em LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_5296-e2",
@@ -2464,28 +2068,6 @@
     "raw_json": "{\"id\":\"chunk_5301:5301:0\",\"lemas\":[\"Cluilius\"],\"lema_canonico\":\"Cluilius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"nomen proprium; nome de rei de Alba (Cluilius), citado em Liv. 1, 23.\",\"aliases\":[],\"exemplos\":[\"Liv. 1, 23, 3\"],\"notas\":\"Corresponde a Clŭĭlĭus (Lewis & Short); tratado como nomen proprium/gentilicium.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_5302-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5302",
-    "page_num": 5302,
-    "lemmas": [
-      "Clŭĭlĭus",
-      "Clŭĭlĭus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "a king of Alba; eponymous ancestor associated with the Cluiliae fossae (early Roman/Alban tradition).",
-    "exemplos": [],
-    "notas": "Grafia e referências alinhadas com Lewis & Short; tratado como substantivo próprio da 2ª declinação. | [dedupe] redirect → chunk_5301:5301:0 | [dedupe] redirect → chunk_5301:5301:0 | [ocr_fix 2025-08-17T19:56:49Z] match direto em LS por lemma/lemma_norm | lemma_in='Cluilius' → 'Clŭĭlĭus'",
-    "raw_text": "{\"id\":\"chunk_5302:5302:0\",\"lemas\":[\"Clŭĭlĭus\",\"Cluilius\"],\"lema_canonico\":\"Cluilius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"a king of Alba; eponymous ancestor associated with the Cluiliae fossae (early Roman/Alban tradition).\",\"aliases\":[],\"exemplos\":[\"Liv. 1, 23, 4\",\"Liv. 1, 23, 3\",\"Liv. 2, 39, 5\",\"Plut. Coriol. p. 227\"],\"notas\":\"Grafia e referências alinhadas com Lewis & Short; tratado como substantivo próprio da 2ª declinação.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_5302:5302:0\",\"lemas\":[\"Clŭĭlĭus\",\"Cluilius\"],\"lema_canonico\":\"Cluilius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"a king of Alba; eponymous ancestor associated with the Cluiliae fossae (early Roman/Alban tradition).\",\"aliases\":[],\"exemplos\":[\"Liv. 1, 23, 4\",\"Liv. 1, 23, 3\",\"Liv. 2, 39, 5\",\"Plut. Coriol. p. 227\"],\"notas\":\"Grafia e referências alinhadas com Lewis & Short; tratado como substantivo próprio da 2ª declinação.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_5303-e1",
     "volume_id": "faria",
     "doc_name": "chunk_5303",
@@ -2552,28 +2134,6 @@
     "raw_json": "{\"id\":\"chunk_5305:5305:0\",\"lemas\":[\"cluō\",\"cluo\"],\"lema_canonico\":\"cluō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"limpar, purgar (transitivo); também atestado como clueo 'ser chamado' em outra entrada\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 15, 119\"],\"notas\":\"LS registra clŭo = 'purgo' (tr.); Lat→Deu registra cluō/cluere = 'ser chamado' (intransitivo) — fontes conflitantes.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_firstpass\",\"conf:low\"]}"
   },
   {
-    "id": "chunk_5306-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5306",
-    "page_num": 5306,
-    "lemmas": [
-      "clipeus",
-      "clipeus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "escudo redondo ou convexa (usualmente de bronze); também disco do sol, abóbada celeste; sentido figurado: meteorito/placa brilhante",
-    "exemplos": [],
-    "notas": "Escolhido 'clipeus' como lema canônico; inclui variante neutra clupeum atestada em fontes laterais. | [dedupe] redirect → chunk_5267:5267:0 | [dedupe] redirect → chunk_5267:5267:0",
-    "raw_text": "{\"id\":\"chunk_5306:5306:1\",\"lemas\":[\"clipeus\",\"clupeum\"],\"lema_canonico\":\"clipeus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"escudo redondo ou convexa (usualmente de bronze); também disco do sol, abóbada celeste; sentido figurado: meteorito/placa brilhante\",\"aliases\":[],\"exemplos\":[\"Verg. A. 2, 443\",\"Hor. C. 1, 28, 11\",\"Ov. M. 8, 27\"],\"notas\":\"Escolhido 'clipeus' como lema canônico; inclui variante neutra clupeum atestada em fontes laterais.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5306:5306:1\",\"lemas\":[\"clipeus\",\"clupeum\"],\"lema_canonico\":\"clipeus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"escudo redondo ou convexa (usualmente de bronze); também disco do sol, abóbada celeste; sentido figurado: meteorito/placa brilhante\",\"aliases\":[],\"exemplos\":[\"Verg. A. 2, 443\",\"Hor. C. 1, 28, 11\",\"Ov. M. 8, 27\"],\"notas\":\"Escolhido 'clipeus' como lema canônico; inclui variante neutra clupeum atestada em fontes laterais.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_5306-e2",
     "volume_id": "faria",
     "doc_name": "chunk_5306",
@@ -2616,28 +2176,6 @@
     "notas": "Entrada original indica forma plural -arum; morfologia lexical normalizada para fem. 1ª sing. (see notes).\n[ocr_pipeline 2025-08-16T23:24:07.114588Z] lemma_in='Clupea' → 'clŭpĕa' | motivo: match direto em LS por lemma/lemma_norm | [ocr_fix 2025-08-17T01:23:38Z] match direto em LS por lemma/lemma_norm | lemma_in='clŭpĕa' → 'clŭpĕa'",
     "raw_text": "{\"id\":\"chunk_5306:5306:3\",\"lemas\":[\"Clupea\"],\"lema_canonico\":\"Clupea\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"topónimo (plural): Clípeas, cidade da Zeugítania, na África\",\"aliases\":[],\"exemplos\":[\"Cés. B. Civ. 2, 23, 2\"],\"notas\":\"Entrada original indica forma plural -arum; morfologia lexical normalizada para fem. 1ª sing. (see notes).\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"morph_out_of_vocab\"]}",
     "raw_json": "{\"id\":\"chunk_5306:5306:3\",\"lemas\":[\"Clupea\"],\"lema_canonico\":\"Clupea\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"topónimo (plural): Clípeas, cidade da Zeugítania, na África\",\"aliases\":[],\"exemplos\":[\"Cés. B. Civ. 2, 23, 2\"],\"notas\":\"Entrada original indica forma plural -arum; morfologia lexical normalizada para fem. 1ª sing. (see notes).\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"morph_out_of_vocab\"]}"
-  },
-  {
-    "id": "chunk_5306-e4",
-    "volume_id": "faria",
-    "doc_name": "chunk_5306",
-    "page_num": 5306,
-    "lemmas": [
-      "clĭpĕus",
-      "clĭpĕus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Remissão detectada no original ('v. clīpeus'); marcada como redirecionamento para a entrada principal.\n[ocr_pipeline 2025-08-16T23:24:07.115388Z] lemma_in='clipeus' → 'clĭpĕus' | motivo: match direto em LS por lemma/lemma_norm | [ocr_fix 2025-08-17T01:23:38Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='clĭpĕus' → 'clĭpĕus' | [dedupe] redirect → chunk_5267:5267:0 | [dedupe] redirect → chunk_5267:5267:0",
-    "raw_text": "{\"id\":\"chunk_5306:5306:4\",\"lemas\":[\"clipeus\"],\"lema_canonico\":\"clipeus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"clipeus\"],\"exemplos\":[],\"notas\":\"Remissão detectada no original ('v. clīpeus'); marcada como redirecionamento para a entrada principal.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_5306:5306:4\",\"lemas\":[\"clipeus\"],\"lema_canonico\":\"clipeus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"clipeus\"],\"exemplos\":[],\"notas\":\"Remissão detectada no original ('v. clīpeus'); marcada como redirecionamento para a entrada principal.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"redirect_only\"]}"
   },
   {
     "id": "chunk_5306-e5",
@@ -2770,28 +2308,6 @@
     "notas": "Mantidos os dois sentidos apontados nas fontes (topónimo e anthroponímico). | [ocr_fix 2025-08-17T19:56:50Z] similaridade semântica FAISS (definição/gloss) + reranking por forma | lemma_in='Cluvia' → 'Clŭvĭa'",
     "raw_text": "{\"id\":\"chunk_5306:5306:10\",\"lemas\":[\"Cluvia\",\"Clŭvĭa\"],\"lema_canonico\":\"Cluvia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Clúvia: 1) cidade do Samnium; 2) nome de mulher (atestado em fontes clássicas).\",\"aliases\":[],\"exemplos\":[\"Liv. 9, 31\",\"Juv. 2, 49\"],\"notas\":\"Mantidos os dois sentidos apontados nas fontes (topónimo e anthroponímico).\",\"flags\":[\"src_ls\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_5306:5306:10\",\"lemas\":[\"Cluvia\",\"Clŭvĭa\"],\"lema_canonico\":\"Cluvia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Clúvia: 1) cidade do Samnium; 2) nome de mulher (atestado em fontes clássicas).\",\"aliases\":[],\"exemplos\":[\"Liv. 9, 31\",\"Juv. 2, 49\"],\"notas\":\"Mantidos os dois sentidos apontados nas fontes (topónimo e anthroponímico).\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_5306-e11",
-    "volume_id": "faria",
-    "doc_name": "chunk_5306",
-    "page_num": 5306,
-    "lemmas": [
-      "Clŭvĭa",
-      "Clŭvĭa"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Cluvianum — villa (casa de campo) de Clúvio",
-    "exemplos": [],
-    "notas": "Normalizada grafia e categoria como topônimo (villa).\n[ocr_pipeline 2025-08-16T23:24:08.377804Z] lemma_in='Cluvianum' → 'Clŭvĭa' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:23:40Z] match direto em LS por lemma/lemma_norm | lemma_in='Clŭvĭa' → 'Clŭvĭa' | [dedupe] redirect → chunk_5306:5306:10 | [dedupe] redirect → chunk_5306:5306:10",
-    "raw_text": "{\"id\":\"chunk_5306:5306:11\",\"lemas\":[\"Cluvianum\"],\"lema_canonico\":\"Cluvianum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Cluvianum — villa (casa de campo) de Clúvio\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 14, 10, 3\"],\"notas\":\"Normalizada grafia e categoria como topônimo (villa).\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}",
-    "raw_json": "{\"id\":\"chunk_5306:5306:11\",\"lemas\":[\"Cluvianum\"],\"lema_canonico\":\"Cluvianum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Cluvianum — villa (casa de campo) de Clúvio\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 14, 10, 3\"],\"notas\":\"Normalizada grafia e categoria como topônimo (villa).\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}"
   },
   {
     "id": "chunk_5306-e12",
@@ -2990,50 +2506,6 @@
     "notas": "Particípio derivado de clīpĕō; forma atestada como adjetivo em literatura (clipeatus/clipeata).",
     "raw_text": "{\"id\":\"chunk_5312:5312:0\",\"lemas\":[\"clypeatus\",\"clīpeātus\",\"clypeātus\"],\"lema_canonico\":\"clypeatus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio/adjetivo: armado com escudo; em relevo como um escudo (clipeatus).\",\"aliases\":[],\"exemplos\":[\"Verg. A. 7, 793 (clipeata agmina)\"],\"notas\":\"Particípio derivado de clīpĕō; forma atestada como adjetivo em literatura (clipeatus/clipeata).\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_5312:5312:0\",\"lemas\":[\"clypeatus\",\"clīpeātus\",\"clypeātus\"],\"lema_canonico\":\"clypeatus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio/adjetivo: armado com escudo; em relevo como um escudo (clipeatus).\",\"aliases\":[],\"exemplos\":[\"Verg. A. 7, 793 (clipeata agmina)\"],\"notas\":\"Particípio derivado de clīpĕō; forma atestada como adjetivo em literatura (clipeatus/clipeata).\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_5312-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_5312",
-    "page_num": 5312,
-    "lemmas": [
-      "clīpēō",
-      "clīpēō"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Verbo raro: revestir/proteger com um escudo; tornar clipeatus.",
-    "exemplos": [],
-    "notas": "Verbo formado sobre clipeus; grafias variantes (clypeo, clupeo) registradas; transitivo em usos literários. | [dedupe] redirect → chunk_5266:5266:0 | [dedupe] redirect → chunk_5266:5266:0",
-    "raw_text": "{\"id\":\"chunk_5312:5312:1\",\"lemas\":[\"clypeo\",\"clīpēō\",\"clipeō\"],\"lema_canonico\":\"clīpēō\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"Verbo raro: revestir/proteger com um escudo; tornar clipeatus.\",\"aliases\":[],\"exemplos\":[\"Varr. L. L. 5, §7 (cit.) — 'clipeata agmina'\",\"Ov. M. 3, 110\"],\"notas\":\"Verbo formado sobre clipeus; grafias variantes (clypeo, clupeo) registradas; transitivo em usos literários.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5312:5312:1\",\"lemas\":[\"clypeo\",\"clīpēō\",\"clipeō\"],\"lema_canonico\":\"clīpēō\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"Verbo raro: revestir/proteger com um escudo; tornar clipeatus.\",\"aliases\":[],\"exemplos\":[\"Varr. L. L. 5, §7 (cit.) — 'clipeata agmina'\",\"Ov. M. 3, 110\"],\"notas\":\"Verbo formado sobre clipeus; grafias variantes (clypeo, clupeo) registradas; transitivo em usos literários.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_5312-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_5312",
-    "page_num": 5312,
-    "lemmas": [
-      "clipeus",
-      "clipeus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Escudo redondo (frequentemente de bronze); por metonímia: disco solar, abóbada do céu; peça em relevo em forma de escudo.",
-    "exemplos": [],
-    "notas": "Grafias com y/ī e variantes neutras atestadas; acepções conforme LS/Whitaker. | [dedupe] redirect → chunk_5267:5267:0 | [dedupe] redirect → chunk_5267:5267:0",
-    "raw_text": "{\"id\":\"chunk_5312:5312:2\",\"lemas\":[\"clypeus\",\"clipeus\",\"clypeum\"],\"lema_canonico\":\"clipeus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Escudo redondo (frequentemente de bronze); por metonímia: disco solar, abóbada do céu; peça em relevo em forma de escudo.\",\"aliases\":[],\"exemplos\":[\"Verg. A. 7, 793\",\"Sil. 8, 436\",\"Ov. M. 3, 110\"],\"notas\":\"Grafias com y/ī e variantes neutras atestadas; acepções conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5312:5312:2\",\"lemas\":[\"clypeus\",\"clipeus\",\"clypeum\"],\"lema_canonico\":\"clipeus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Escudo redondo (frequentemente de bronze); por metonímia: disco solar, abóbada do céu; peça em relevo em forma de escudo.\",\"aliases\":[],\"exemplos\":[\"Verg. A. 7, 793\",\"Sil. 8, 436\",\"Ov. M. 3, 110\"],\"notas\":\"Grafias com y/ī e variantes neutras atestadas; acepções conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_5312-e4",
@@ -3276,28 +2748,6 @@
     "notas": "Grafia com G- atestada como variante; morfologia normalizada. | [ocr_fix 2025-08-17T19:46:14Z] match direto em Gaffiot por lemma/lemma_norm | lemma_in='Cnidus' → 'Cnĭdus'",
     "raw_text": "{\"id\":\"chunk_5322:5322:0\",\"lemas\":[\"Cnidus\",\"Gnidus\"],\"lema_canonico\":\"Cnidus\",\"morfologia\":\"s. fem. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Cnidus, cidade da Caria (templum Veneris), nome próprio de lugar.\",\"aliases\":[],\"exemplos\":[\"Cic. Pomp. 33\"],\"notas\":\"Grafia com G- atestada como variante; morfologia normalizada.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_5322:5322:0\",\"lemas\":[\"Cnidus\",\"Gnidus\"],\"lema_canonico\":\"Cnidus\",\"morfologia\":\"s. fem. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Cnidus, cidade da Caria (templum Veneris), nome próprio de lugar.\",\"aliases\":[],\"exemplos\":[\"Cic. Pomp. 33\"],\"notas\":\"Grafia com G- atestada como variante; morfologia normalizada.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_5323-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5323",
-    "page_num": 5323,
-    "lemmas": [
-      "Cnōsos",
-      "Cnōsos"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Remissão original 'v. Gnos.' preservada como alias; tratado como redirecionamento. | [ocr_fix 2025-08-17T19:46:18Z] match direto em LS por lemma/lemma_norm | lemma_in='Cnōsus' → 'Cnōsos'",
-    "raw_text": "{\"id\":\"chunk_5323:5323:0\",\"lemas\":[\"Cnōsus\",\"Cnossus\",\"Cnosus\"],\"lema_canonico\":\"Cnōsus\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Gnos\"],\"exemplos\":[],\"notas\":\"Remissão original 'v. Gnos.' preservada como alias; tratado como redirecionamento.\",\"flags\":[\"src_ls\",\"conf:med\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_5323:5323:0\",\"lemas\":[\"Cnōsus\",\"Cnossus\",\"Cnosus\"],\"lema_canonico\":\"Cnōsus\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Gnos\"],\"exemplos\":[],\"notas\":\"Remissão original 'v. Gnos.' preservada como alias; tratado como redirecionamento.\",\"flags\":[\"src_ls\",\"conf:med\",\"redirect_only\"]}"
   },
   {
     "id": "chunk_5323-e2",
@@ -3960,28 +3410,6 @@
     "raw_json": "{\"id\":\"chunk_5351:5351:0\",\"lemas\":[\"coaltus\",\"coalo\",\"coalere\"],\"lema_canonico\":\"coaltus\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio passado (coaltus) associado a coalēre/coalēscere ou ao verbo tardio coalō: 'unido, crescido junto'\",\"aliases\":[],\"exemplos\":[\"Tac. An. 14, 11\"],\"notas\":\"Forma particípia tratada como entrada; Whitaker registra coaltus ligado ao verbo tardio coalō. Morfologia fora do vocabulário rígido (particípio).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:med\",\"morph_out_of_vocab\"]}"
   },
   {
-    "id": "chunk_5352-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5352",
-    "page_num": 5352,
-    "lemmas": [
-      "cŏălesco",
-      "cŏălesco"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "forma perfeita (1ª p. sg.) de coalescō/coaleō: 'juntar-se, crescer junto, coalescer'",
-    "exemplos": [],
-    "notas": "Registro de forma (coalūī) tratada como perfeito de coalescō; Whitaker atesta variantes (coalesco / coalo). | [dedupe] redirect → chunk_5350:5350:0 | [dedupe] redirect → chunk_5350:5350:0 | [ocr_fix 2025-08-17T19:46:19Z] match direto em Gaffiot por lemma/lemma_norm | lemma_in='coalesco' → 'cŏălesco'",
-    "raw_text": "{\"id\":\"chunk_5352:5352:0\",\"lemas\":[\"coalui\",\"coalesco\",\"coalo\"],\"lema_canonico\":\"coalesco\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"perf. ind. act.\"],\"definicao\":\"forma perfeita (1ª p. sg.) de coalescō/coaleō: 'juntar-se, crescer junto, coalescer'\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Registro de forma (coalūī) tratada como perfeito de coalescō; Whitaker atesta variantes (coalesco / coalo).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:med\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_5352:5352:0\",\"lemas\":[\"coalui\",\"coalesco\",\"coalo\"],\"lema_canonico\":\"coalesco\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"perf. ind. act.\"],\"definicao\":\"forma perfeita (1ª p. sg.) de coalescō/coaleō: 'juntar-se, crescer junto, coalescer'\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Registro de forma (coalūī) tratada como perfeito de coalescō; Whitaker atesta variantes (coalesco / coalo).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:med\",\"morph_out_of_vocab\"]}"
-  },
-  {
     "id": "chunk_5353-e1",
     "volume_id": "faria",
     "doc_name": "chunk_5353",
@@ -4024,28 +3452,6 @@
     "notas": "Substantivo derivado do verbo coarcto; normalizado a partir de OCR.",
     "raw_text": "{\"id\":\"chunk_5354:5354:0\",\"lemas\":[\"coarctatio\",\"coarcto\"],\"lema_canonico\":\"coarctatio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"aperto; ato de apertar ou de juntar firmemente; constrição, compressão; aglomeração\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Substantivo derivado do verbo coarcto; normalizado a partir de OCR.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_5354:5354:0\",\"lemas\":[\"coarctatio\",\"coarcto\"],\"lema_canonico\":\"coarctatio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"aperto; ato de apertar ou de juntar firmemente; constrição, compressão; aglomeração\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Substantivo derivado do verbo coarcto; normalizado a partir de OCR.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_5355-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5355",
-    "page_num": 5355,
-    "lemmas": [
-      "cŏargŭo",
-      "cŏargŭo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "mostrar por prova; refutar, desemascarar; convencer por evidência; incriminar, condenar",
-    "exemplos": [],
-    "notas": "Forma perfeita 'coarguī' é 1ª sing. perf. de coarguō; entrada baseada no Lat→Deu. | [dedupe] redirect → chunk_5356:5356:0 | [dedupe] redirect → chunk_5356:5356:0 | [ocr_fix 2025-08-17T19:46:19Z] match direto em Gaffiot por lemma/lemma_norm | lemma_in='coarguo' → 'cŏargŭo'",
-    "raw_text": "{\"id\":\"chunk_5355:5355:0\",\"lemas\":[\"coarguo\",\"coarguere\"],\"lema_canonico\":\"coarguo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"mostrar por prova; refutar, desemascarar; convencer por evidência; incriminar, condenar\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma perfeita 'coarguī' é 1ª sing. perf. de coarguō; entrada baseada no Lat→Deu.\",\"flags\":[\"src_latdeu\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_5355:5355:0\",\"lemas\":[\"coarguo\",\"coarguere\"],\"lema_canonico\":\"coarguo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"mostrar por prova; refutar, desemascarar; convencer por evidência; incriminar, condenar\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma perfeita 'coarguī' é 1ª sing. perf. de coarguō; entrada baseada no Lat→Deu.\",\"flags\":[\"src_latdeu\",\"conf:med\"]}"
   },
   {
     "id": "chunk_5356-e1",
@@ -4422,28 +3828,6 @@
     "raw_json": "{\"id\":\"chunk_5371:5371:1\",\"lemas\":[\"coec\",\"coecos\"],\"lema_canonico\":\"coec\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Nome de fruto/palmeira (doum palm, Hyphaene thebaica) atestado em tradições léxicas tardias; forma atípica em fontes clássicas, possivelmente regional ou corrupta.\",\"aliases\":[],\"exemplos\":[\"Plin. (cf. referência em Whitaker)\"],\"notas\":\"Entrada preservada como forma atestada em Whitaker; possível leitura corrupta/region. em fontes latinas.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_5371-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_5371",
-    "page_num": 5371,
-    "lemmas": [
-      "lea",
-      "lea"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Leoa (substantivo feminino; forma poética atestada).",
-    "exemplos": [],
-    "notas": "Forma e sentido confirmados por Lewis & Short e Whitaker; aqui possivelmente resultou de segmentação indevida em OCR do composto 'cochlea'. | [dedupe] redirect → chunk_15580:15580:0 | [dedupe] redirect → chunk_15580:15580:0",
-    "raw_text": "{\"id\":\"chunk_5371:5371:2\",\"lemas\":[\"lea\",\"leae\"],\"lema_canonico\":\"lea\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Leoa (substantivo feminino; forma poética atestada).\",\"aliases\":[],\"exemplos\":[\"Varr. ap. Philarg. ad Verg. E. 2, 63\",\"Lucr. 5, 1318\",\"Ov. M. 9, 648\"],\"notas\":\"Forma e sentido confirmados por Lewis & Short e Whitaker; aqui possivelmente resultou de segmentação indevida em OCR do composto 'cochlea'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5371:5371:2\",\"lemas\":[\"lea\",\"leae\"],\"lema_canonico\":\"lea\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Leoa (substantivo feminino; forma poética atestada).\",\"aliases\":[],\"exemplos\":[\"Varr. ap. Philarg. ad Verg. E. 2, 63\",\"Lucr. 5, 1318\",\"Ov. M. 9, 648\"],\"notas\":\"Forma e sentido confirmados por Lewis & Short e Whitaker; aqui possivelmente resultou de segmentação indevida em OCR do composto 'cochlea'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_5372-e1",
     "volume_id": "faria",
     "doc_name": "chunk_5372",
@@ -4486,28 +3870,6 @@
     "notas": "Adjetivo derivado do substantivo cochlear; normalizada a forma attestada.",
     "raw_text": "{\"id\":\"chunk_5373:5373:0\",\"lemas\":[\"cochlearis\"],\"lema_canonico\":\"cochlearis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"Relativo à colher; 'de colher' (p.ex. mensura cochlearis, medida de colher).\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 21, 172\"],\"notas\":\"Adjetivo derivado do substantivo cochlear; normalizada a forma attestada.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_5373:5373:0\",\"lemas\":[\"cochlearis\"],\"lema_canonico\":\"cochlearis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"Relativo à colher; 'de colher' (p.ex. mensura cochlearis, medida de colher).\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 21, 172\"],\"notas\":\"Adjetivo derivado do substantivo cochlear; normalizada a forma attestada.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_5373-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_5373",
-    "page_num": 5373,
-    "lemmas": [
-      "cochlear",
-      "cochlear"
-    ],
-    "morfologia": "s. neut. 3ª (-is)",
-    "morph_render": "s. neut. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Colher; instrumento para extrair caracóis; também 'porção de colher', colherada.",
-    "exemplos": [],
-    "notas": "Inclui variantes nom./acc. e o adjetivo relacionado cochlearis. | [dedupe] redirect → chunk_5372:5372:0 | [dedupe] redirect → chunk_5372:5372:0",
-    "raw_text": "{\"id\":\"chunk_5373:5373:1\",\"lemas\":[\"cochlear\",\"cochleare\",\"cochlearis\"],\"lema_canonico\":\"cochlear\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Colher; instrumento para extrair caracóis; também 'porção de colher', colherada.\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 21, 172\"],\"notas\":\"Inclui variantes nom./acc. e o adjetivo relacionado cochlearis.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5373:5373:1\",\"lemas\":[\"cochlear\",\"cochleare\",\"cochlearis\"],\"lema_canonico\":\"cochlear\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Colher; instrumento para extrair caracóis; também 'porção de colher', colherada.\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 21, 172\"],\"notas\":\"Inclui variantes nom./acc. e o adjetivo relacionado cochlearis.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_5374-e1",
@@ -4774,28 +4136,6 @@
     "raw_json": "{\"id\":\"chunk_5385:5385:0\",\"lemas\":[\"Codrus\",\"Cōdrus\"],\"lema_canonico\":\"Codrus\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Último rei de Atenas que se entregou à morte para garantir a vitória de seu povo; também nome citado como figura literária/poética (hostil a Virgílio em tradições posteriores).\",\"aliases\":[],\"exemplos\":[\"Hor. O. 3, 19, 2\",\"Cic. Tusc. 1, 48, 116\",\"Cic. Fin. 5, 22, 62\",\"Cic. N. D. 3, 19, 49\",\"Juv. 3, 203\",\"Verg. Ecl. 5, 11\"],\"notas\":\"Normalizado conforme Lewis & Short; variedade grafêmica incluída.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_5386-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5386",
-    "page_num": 5386,
-    "lemmas": [
-      "Coeus",
-      "Coeus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Titã mitológico (gr. Koîos), nome próprio latino Coeus (variante grafada Coebus em algumas tradições).",
-    "exemplos": [],
-    "notas": "Normalizada para Coeus; 'Coebus' mantida como variante grafémica possível (OCR/edições). | [dedupe] redirect → chunk_5420:5420:0 | [dedupe] redirect → chunk_5420:5420:0 | [ocr_fix 2025-08-17T19:46:17Z] match direto em LS por lemma/lemma_norm | lemma_in='Coeus' → 'Coeus'",
-    "raw_text": "{\"id\":\"chunk_5386:5386:0\",\"lemas\":[\"Coeus\",\"Coebus\"],\"lema_canonico\":\"Coeus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Titã mitológico (gr. Koîos), nome próprio latino Coeus (variante grafada Coebus em algumas tradições).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizada para Coeus; 'Coebus' mantida como variante grafémica possível (OCR/edições).\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_5386:5386:0\",\"lemas\":[\"Coeus\",\"Coebus\"],\"lema_canonico\":\"Coeus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Titã mitológico (gr. Koîos), nome próprio latino Coeus (variante grafada Coebus em algumas tradições).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizada para Coeus; 'Coebus' mantida como variante grafémica possível (OCR/edições).\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_5387-e1",
     "volume_id": "faria",
     "doc_name": "chunk_5387",
@@ -4816,50 +4156,6 @@
     "notas": "Identificado como perfeito ativo 1ª sg. de cōgō; acepções confirmadas por Lat→Deu/Whitaker/LS.",
     "raw_text": "{\"id\":\"chunk_5387:5387:0\",\"lemas\":[\"cogo\"],\"lema_canonico\":\"cogo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"perf. ind. act., 1ª sg. (coēgī / coegi)\"],\"definicao\":\"forma perfeita ativa, 1. p. sg. de cōgō, cōgere: juntei, reuni; forcei, obriguei; reuni-me/foi reunido (sentidos: gather/compel/etc.).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Identificado como perfeito ativo 1ª sg. de cōgō; acepções confirmadas por Lat→Deu/Whitaker/LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_5387:5387:0\",\"lemas\":[\"cogo\"],\"lema_canonico\":\"cogo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"perf. ind. act., 1ª sg. (coēgī / coegi)\"],\"definicao\":\"forma perfeita ativa, 1. p. sg. de cōgō, cōgere: juntei, reuni; forcei, obriguei; reuni-me/foi reunido (sentidos: gather/compel/etc.).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Identificado como perfeito ativo 1ª sg. de cōgō; acepções confirmadas por Lat→Deu/Whitaker/LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_5388-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5388",
-    "page_num": 5388,
-    "lemmas": [
-      "Coelae",
-      "Coelae"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "topônimo plural: o golfo/ilha(s) chamado(s) Cela, na Eubéia (attested: Liv. 31,47).",
-    "exemplos": [],
-    "notas": "Entrada tratada como nome próprio plural; forma plural gen. -ārum indicada no OCR. | [dedupe] redirect → chunk_5389:5389:1 | [dedupe] redirect → chunk_5389:5389:1 | [ocr_fix 2025-08-20T01:03:57Z] Correção automática de lema via Gaffiot | lemma_in='Coelae' → 'Coelae'",
-    "raw_text": "{\"id\":\"chunk_5388:5388:0\",\"lemas\":[\"Coelae\"],\"lema_canonico\":\"Coelae\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"topônimo plural: o golfo/ilha(s) chamado(s) Cela, na Eubéia (attested: Liv. 31,47).\",\"aliases\":[],\"exemplos\":[\"T. Liv. 31, 47\"],\"notas\":\"Entrada tratada como nome próprio plural; forma plural gen. -ārum indicada no OCR.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_5388:5388:0\",\"lemas\":[\"Coelae\"],\"lema_canonico\":\"Coelae\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"topônimo plural: o golfo/ilha(s) chamado(s) Cela, na Eubéia (attested: Liv. 31,47).\",\"aliases\":[],\"exemplos\":[\"T. Liv. 31, 47\"],\"notas\":\"Entrada tratada como nome próprio plural; forma plural gen. -ārum indicada no OCR.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_5389-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5389",
-    "page_num": 5389,
-    "lemmas": [
-      "caelus",
-      "caelus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "céu, firmamento; espaço, ar, clima; universo/mundo; por vezes usado para designar Jehovah.",
-    "exemplos": [],
-    "notas": "Grafia variante coelus ↔ caelus atestada; unificado lema canônico como caelus. | [dedupe] redirect → chunk_3910:3910:0 | [dedupe] redirect → chunk_3910:3910:0",
-    "raw_text": "{\"id\":\"chunk_5389:5389:0\",\"lemas\":[\"caelus\",\"coelus\"],\"lema_canonico\":\"caelus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"céu, firmamento; espaço, ar, clima; universo/mundo; por vezes usado para designar Jehovah.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Grafia variante coelus ↔ caelus atestada; unificado lema canônico como caelus.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5389:5389:0\",\"lemas\":[\"caelus\",\"coelus\"],\"lema_canonico\":\"caelus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"céu, firmamento; espaço, ar, clima; universo/mundo; por vezes usado para designar Jehovah.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Grafia variante coelus ↔ caelus atestada; unificado lema canônico como caelus.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_5389-e2",
@@ -4906,28 +4202,6 @@
     "raw_json": "{\"id\":\"chunk_5390:5390:0\",\"lemas\":[\"coeles\",\"coēles\",\"coelēs\"],\"lema_canonico\":\"coeles\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Designação derivada de cael-; adjetivo/substantivo: celestial, pertencente ao céu; como subst. (freq. pl.) 'os deuses', 'habitantes do céu'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Correlacionado com Lewis & Short e Whitaker (v. cael-; sentido 'the Gods', 'heavenly').\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_5391-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5391",
-    "page_num": 5391,
-    "lemmas": [
-      "caelestis",
-      "caelestis"
-    ],
-    "morfologia": "adj. (3) 2T",
-    "morph_render": "adj. (3) 2T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Celestial; relativo ao céu ou aos deuses; como subst.: assuntos/corpos celestes, divindade, os deuses (freq. pl.).",
-    "exemplos": [],
-    "notas": "Forma variante 'coelestis' = 'caelestis' corroborada por LS e Whitaker; adotada a forma canónica 'caelestis'. | [dedupe] redirect → chunk_3895:3895:0 | [dedupe] redirect → chunk_3895:3895:0",
-    "raw_text": "{\"id\":\"chunk_5391:5391:0\",\"lemas\":[\"coelestis\",\"caelestis\",\"caeleste\"],\"lema_canonico\":\"caelestis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"Celestial; relativo ao céu ou aos deuses; como subst.: assuntos/corpos celestes, divindade, os deuses (freq. pl.).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma variante 'coelestis' = 'caelestis' corroborada por LS e Whitaker; adotada a forma canónica 'caelestis'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5391:5391:0\",\"lemas\":[\"coelestis\",\"caelestis\",\"caeleste\"],\"lema_canonico\":\"caelestis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"Celestial; relativo ao céu ou aos deuses; como subst.: assuntos/corpos celestes, divindade, os deuses (freq. pl.).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma variante 'coelestis' = 'caelestis' corroborada por LS e Whitaker; adotada a forma canónica 'caelestis'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_5392-e1",
     "volume_id": "faria",
     "doc_name": "chunk_5392",
@@ -4972,28 +4246,6 @@
     "raw_json": "{\"id\":\"chunk_5393:5393:0\",\"lemas\":[\"coelolidae\",\"caelolidae\"],\"lema_canonico\":\"caelolidae\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Entrada remissiva ou provável leitura errada de OCR; remete a 'caelolidae' (não atestado com segurança nas fontes consultadas).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Registro possivelmente corrupto/OCR; não localizado em LS/Whitaker; conservar remissão. Verificar fonte primária.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\",\"morph_out_of_vocab\"]}"
   },
   {
-    "id": "chunk_5394-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5394",
-    "page_num": 5394,
-    "lemmas": [
-      "caelum",
-      "caelum"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "caelum: céu; espaço, ar, clima; universo, mundo; em uso teológico, Deus/Jehovah.",
-    "exemplos": [],
-    "notas": "Grafia variante 'coelum' = 'caelum' confirmada por Whitaker e Lat→Deu; adotado lema canónico 'caelum'. | [dedupe] redirect → chunk_3909:3909:0 | [dedupe] redirect → chunk_3909:3909:0",
-    "raw_text": "{\"id\":\"chunk_5394:5394:0\",\"lemas\":[\"coelum\",\"caelum\"],\"lema_canonico\":\"caelum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"caelum: céu; espaço, ar, clima; universo, mundo; em uso teológico, Deus/Jehovah.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Grafia variante 'coelum' = 'caelum' confirmada por Whitaker e Lat→Deu; adotado lema canónico 'caelum'.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5394:5394:0\",\"lemas\":[\"coelum\",\"caelum\"],\"lema_canonico\":\"caelum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"caelum: céu; espaço, ar, clima; universo, mundo; em uso teológico, Deus/Jehovah.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Grafia variante 'coelum' = 'caelum' confirmada por Whitaker e Lat→Deu; adotado lema canónico 'caelum'.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_5395-e1",
     "volume_id": "faria",
     "doc_name": "chunk_5395",
@@ -5014,28 +4266,6 @@
     "notas": "Perfeito coēmī atestado; forma tratada como verbo da 3ª conjugação (coemō).",
     "raw_text": "{\"id\":\"chunk_5395:5395:0\",\"lemas\":[\"coemo\"],\"lema_canonico\":\"coemo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"coemō, coemere, coēmī, coemptum: buy up; purchase (often in large quantity).\",\"aliases\":[\"coëmi\",\"coemi\"],\"exemplos\":[],\"notas\":\"Perfeito coēmī atestado; forma tratada como verbo da 3ª conjugação (coemō).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_5395:5395:0\",\"lemas\":[\"coemo\"],\"lema_canonico\":\"coemo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"coemō, coemere, coēmī, coemptum: buy up; purchase (often in large quantity).\",\"aliases\":[\"coëmi\",\"coemi\"],\"exemplos\":[],\"notas\":\"Perfeito coēmī atestado; forma tratada como verbo da 3ª conjugação (coemō).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_5396-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5396",
-    "page_num": 5396,
-    "lemmas": [
-      "coemo",
-      "coemo"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "comprar em grande quantidade; comprar por atacado; adquirir",
-    "exemplos": [],
-    "notas": "Infinitivo e paradigma normalizados para coemō, coemere, coēmī, coēmptum; supino/ppp variante em gênero. | [dedupe] redirect → chunk_5395:5395:0 | [dedupe] redirect → chunk_5395:5395:0",
-    "raw_text": "{\"id\":\"chunk_5396:5396:0\",\"lemas\":[\"coemo\"],\"lema_canonico\":\"coemo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"comprar em grande quantidade; comprar por atacado; adquirir\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 4, 133\"],\"notas\":\"Infinitivo e paradigma normalizados para coemō, coemere, coēmī, coēmptum; supino/ppp variante em gênero.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5396:5396:0\",\"lemas\":[\"coemo\"],\"lema_canonico\":\"coemo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"comprar em grande quantidade; comprar por atacado; adquirir\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 4, 133\"],\"notas\":\"Infinitivo e paradigma normalizados para coemō, coemere, coēmī, coēmptum; supino/ppp variante em gênero.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_5397-e1",

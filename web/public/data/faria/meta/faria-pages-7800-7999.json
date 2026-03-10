@@ -1,27 +1,5 @@
 [
   {
-    "id": "chunk_7800-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_7800",
-    "page_num": 7800,
-    "lemmas": [
-      "Dēïănīra",
-      "Dēïănīra"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "nome próprio feminino (filha de Oeneu; esposa de Hēraclēs), causadora involuntária da morte de Hēraclēs",
-    "exemplos": [],
-    "notas": "Normalizada para Deianira (forma canónica); entrada remissiva na fonte Faria interpretada como 'vide Dēianira'. | [dedupe] redirect → chunk_7790:7790:0 | [dedupe] redirect → chunk_7790:7790:0 | [ocr_fix 2025-08-17T19:47:16Z] match direto em LS por lemma/lemma_norm | lemma_in='Deianira' → 'Dēïănīra'",
-    "raw_text": "{\"id\":\"chunk_7800:7800:0\",\"lemas\":[\"Deianira\",\"Dēianira\",\"Dejanira\"],\"lema_canonico\":\"Deianira\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"nome próprio feminino (filha de Oeneu; esposa de Hēraclēs), causadora involuntária da morte de Hēraclēs\",\"aliases\":[],\"exemplos\":[\"Ov. M. 9, 9\",\"Hyg. Fab. 34\"],\"notas\":\"Normalizada para Deianira (forma canónica); entrada remissiva na fonte Faria interpretada como 'vide Dēianira'.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_7800:7800:0\",\"lemas\":[\"Deianira\",\"Dēianira\",\"Dejanira\"],\"lema_canonico\":\"Deianira\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"nome próprio feminino (filha de Oeneu; esposa de Hēraclēs), causadora involuntária da morte de Hēraclēs\",\"aliases\":[],\"exemplos\":[\"Ov. M. 9, 9\",\"Hyg. Fab. 34\"],\"notas\":\"Normalizada para Deianira (forma canónica); entrada remissiva na fonte Faria interpretada como 'vide Dēianira'.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_7801-e1",
     "volume_id": "faria",
     "doc_name": "chunk_7801",
@@ -88,28 +66,6 @@
     "raw_json": "{\"id\":\"chunk_7803:7803:0\",\"lemas\":[\"deiectus\",\"dejectus\"],\"lema_canonico\":\"deiectus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"1) Part. perf. pass. de dēiciō: lançado/derrubado. 2) Adj.: abatido, prostrado, pendente. 3) Subst. (4ª decl.): declive, encosta; ato de lançar/queda.\",\"aliases\":[],\"exemplos\":[\"Verg. En. 10, 858\",\"Liv. 9, 2 (cf. LS)\"],\"notas\":\"Reunidas variantes gráficas (deiectus/dejectus) e funções (particípio, adjetivo, substantivo) conforme LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_7804-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_7804",
-    "page_num": 7804,
-    "lemmas": [
-      "deiectio",
-      "deiectio"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "dēiectiōnis, f. 1) ato de lançar/arrojar para baixo; queda, derrocada; 2) ejection, expulsão; 3) medicina: purgação, diarreia.",
-    "exemplos": [],
-    "notas": "Unificadas variantes de grafia; confirmado como fem. 3ª (dēiectiō, -ōnis). | [dedupe] redirect → chunk_7802:7802:0 | [dedupe] redirect → chunk_7802:7802:0",
-    "raw_text": "{\"id\":\"chunk_7804:7804:0\",\"lemas\":[\"deiectio\",\"dejectio\"],\"lema_canonico\":\"deiectio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"dēiectiōnis, f. 1) ato de lançar/arrojar para baixo; queda, derrocada; 2) ejection, expulsão; 3) medicina: purgação, diarreia.\",\"aliases\":[],\"exemplos\":[\"Liv. 9, 2, 9\",\"Caes. B. Gall. 2, 8, 3\",\"Sen. Irae 3, 5\"],\"notas\":\"Unificadas variantes de grafia; confirmado como fem. 3ª (dēiectiō, -ōnis).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_7804:7804:0\",\"lemas\":[\"deiectio\",\"dejectio\"],\"lema_canonico\":\"deiectio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"dēiectiōnis, f. 1) ato de lançar/arrojar para baixo; queda, derrocada; 2) ejection, expulsão; 3) medicina: purgação, diarreia.\",\"aliases\":[],\"exemplos\":[\"Liv. 9, 2, 9\",\"Caes. B. Gall. 2, 8, 3\",\"Sen. Irae 3, 5\"],\"notas\":\"Unificadas variantes de grafia; confirmado como fem. 3ª (dēiectiō, -ōnis).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_7805-e1",
     "volume_id": "faria",
     "doc_name": "chunk_7805",
@@ -130,28 +86,6 @@
     "notas": "Lema em infinitivo clássico dēiūrāre; variantes ortográficas incluídas.",
     "raw_text": "{\"id\":\"chunk_7805:7805:0\",\"lemas\":[\"dēiūrāre\",\"dejurare\",\"deiurare\"],\"lema_canonico\":\"dēiūrāre\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"fazer juramento; jurar (prestar um juramento)\",\"aliases\":[],\"exemplos\":[\"Ter. Eun. 331\"],\"notas\":\"Lema em infinitivo clássico dēiūrāre; variantes ortográficas incluídas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_7805:7805:0\",\"lemas\":[\"dēiūrāre\",\"dejurare\",\"deiurare\"],\"lema_canonico\":\"dēiūrāre\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"fazer juramento; jurar (prestar um juramento)\",\"aliases\":[],\"exemplos\":[\"Ter. Eun. 331\"],\"notas\":\"Lema em infinitivo clássico dēiūrāre; variantes ortográficas incluídas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_7806-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_7806",
-    "page_num": 7806,
-    "lemmas": [
-      "dē-ĭcĭo",
-      "dē-ĭcĭo"
-    ],
-    "morfologia": "v. 3ª -iō (-ere)",
-    "morph_render": "v. 3ª -iō (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "lansar, precipitar; derrubar, expelir; desapossar; fig.: humilhar, afastar",
-    "exemplos": [],
-    "notas": "Infinitivo regularizado para dēicere / dēiciō; formas perf. dejeci / dēiēcī normalizadas. | [dedupe] redirect → chunk_7790:7790:1 | [dedupe] redirect → chunk_7790:7790:1 | [ocr_fix 2025-08-17T19:57:20Z] match direto em LS por lemma/lemma_norm | lemma_in='deicio' → 'dē-ĭcĭo'",
-    "raw_text": "{\"id\":\"chunk_7806:7806:0\",\"lemas\":[\"deicio\",\"deicere\",\"deicio\",\"deicio\"],\"lema_canonico\":\"deicio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[],\"definicao\":\"lansar, precipitar; derrubar, expelir; desapossar; fig.: humilhar, afastar\",\"aliases\":[],\"exemplos\":[\"Cic. Amer. 100\",\"Cic. B. Gal. 4, 12, 2\",\"Caes. B. Gal. 7, 51, 1\",\"Verg. A. 3, 317\",\"Verg. A. 11, 480\",\"Cic. Verr. 5, 181\",\"Caes. B. Gal. 7, 63, 8\"],\"notas\":\"Infinitivo regularizado para dēicere / dēiciō; formas perf. dejeci / dēiēcī normalizadas.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_7806:7806:0\",\"lemas\":[\"deicio\",\"deicere\",\"deicio\",\"deicio\"],\"lema_canonico\":\"deicio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[],\"definicao\":\"lansar, precipitar; derrubar, expelir; desapossar; fig.: humilhar, afastar\",\"aliases\":[],\"exemplos\":[\"Cic. Amer. 100\",\"Cic. B. Gal. 4, 12, 2\",\"Caes. B. Gal. 7, 51, 1\",\"Verg. A. 3, 317\",\"Verg. A. 11, 480\",\"Cic. Verr. 5, 181\",\"Caes. B. Gal. 7, 63, 8\"],\"notas\":\"Infinitivo regularizado para dēicere / dēiciō; formas perf. dejeci / dēiēcī normalizadas.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
     "id": "chunk_7807-e1",
@@ -1342,28 +1276,6 @@
     "raw_json": "{\"id\":\"chunk_7858:7858:0\",\"lemas\":[\"delicia\",\"deliciae\"],\"lema_canonico\":\"delicia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"delícias; prazer, voluptade; também objeto de afeto ou pessoa querida (plural frequentemente usado)\",\"aliases\":[],\"exemplos\":[\"Cic. Lae. 50\",\"Cic. Att. 1, 17, 9\",\"Cic. Div. 1, 79\"],\"notas\":\"Lemma inclui variantes canônicas (delicia, deliciae); alinhado com Lewis & Short e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_7859-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_7859",
-    "page_num": 7859,
-    "lemmas": [
-      "delicia",
-      "delicia"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "darling, favorito; fonte de prazer ou deleite; em plural (dēliciae) termo de carinho/afeto.",
-    "exemplos": [],
-    "notas": "Levantamento confirma uso afetivo especialmente no plural; entradas em LS e Whitaker coerentes. | [dedupe] redirect → chunk_7858:7858:0 | [dedupe] redirect → chunk_7858:7858:0",
-    "raw_text": "{\"id\":\"chunk_7859:7859:0\",\"lemas\":[\"delicia\",\"deliciae\"],\"lema_canonico\":\"delicia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"darling, favorito; fonte de prazer ou deleite; em plural (dēliciae) termo de carinho/afeto.\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 1, 8, 3\"],\"notas\":\"Levantamento confirma uso afetivo especialmente no plural; entradas em LS e Whitaker coerentes.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_7859:7859:0\",\"lemas\":[\"delicia\",\"deliciae\"],\"lema_canonico\":\"delicia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"darling, favorito; fonte de prazer ou deleite; em plural (dēliciae) termo de carinho/afeto.\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 1, 8, 3\"],\"notas\":\"Levantamento confirma uso afetivo especialmente no plural; entradas em LS e Whitaker coerentes.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_7860-e1",
     "volume_id": "faria",
     "doc_name": "chunk_7860",
@@ -1540,28 +1452,6 @@
     "raw_json": "{\"id\":\"chunk_7867:7867:0\",\"lemas\":[\"delimo\"],\"lema_canonico\":\"delimo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"Tirar limando; raspar; aparar (cit. Plin. H. Nat. 34, 26).\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 34, 26\"],\"notas\":\"Entrada mantida da primeira passada; não encontrada nas fontes fornecidas (possível forma rara ou corrupta).\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_7868-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_7868",
-    "page_num": 7868,
-    "lemmas": [
-      "delinquo",
-      "delinquo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "faltar, ausentar-se (raro); cometer falta, delinquir, pecar (sentido usual)",
-    "exemplos": [],
-    "notas": "Paradigma normalizado: dēlinquō, dēlinquere, dēlīquī, dēlictus; classificado como intransitivo. | [dedupe] redirect → chunk_7870:7870:0 | [dedupe] redirect → chunk_7870:7870:0",
-    "raw_text": "{\"id\":\"chunk_7868:7868:0\",\"lemas\":[\"delinquo\"],\"lema_canonico\":\"delinquo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"faltar, ausentar-se (raro); cometer falta, delinquir, pecar (sentido usual)\",\"aliases\":[],\"exemplos\":[\"Serv. En. 4, 390\",\"Cic. Agr. 2, 100\"],\"notas\":\"Paradigma normalizado: dēlinquō, dēlinquere, dēlīquī, dēlictus; classificado como intransitivo.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_7868:7868:0\",\"lemas\":[\"delinquo\"],\"lema_canonico\":\"delinquo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"faltar, ausentar-se (raro); cometer falta, delinquir, pecar (sentido usual)\",\"aliases\":[],\"exemplos\":[\"Serv. En. 4, 390\",\"Cic. Agr. 2, 100\"],\"notas\":\"Paradigma normalizado: dēlinquō, dēlinquere, dēlīquī, dēlictus; classificado como intransitivo.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_7869-e1",
     "volume_id": "faria",
     "doc_name": "chunk_7869",
@@ -1606,28 +1496,6 @@
     "raw_json": "{\"id\":\"chunk_7870:7870:0\",\"lemas\":[\"delinquō\"],\"lema_canonico\":\"delinquō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"verbo dēlinquō (perf. dēlīquī): faltar, falhar no dever; pecar, cometer falta/ofensa\",\"aliases\":[\"deliquī\"],\"exemplos\":[],\"notas\":\"Entrada normalizada para o lema infinitivo; forma perfeita dēlīquī (deliquī) registrada como alias; alinhado com Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_7871-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_7871",
-    "page_num": 7871,
-    "lemmas": [
-      "deliquio",
-      "deliquio"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "falta, carência; também usado para 'eclipse' (de sol/lua); por extensão, queda, fluxo.",
-    "exemplos": [],
-    "notas": "Corresponde a dēlĭquio (ōnis) em Lewis & Short e entradas equivalentes no Whitaker. | [dedupe] redirect → chunk_8093:8093:0 | [dedupe] redirect → chunk_8093:8093:0",
-    "raw_text": "{\"id\":\"chunk_7871:7871:0\",\"lemas\":[\"deliquio\",\"deliquionis\"],\"lema_canonico\":\"deliquio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"falta, carência; também usado para 'eclipse' (de sol/lua); por extensão, queda, fluxo.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corresponde a dēlĭquio (ōnis) em Lewis & Short e entradas equivalentes no Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_7871:7871:0\",\"lemas\":[\"deliquio\",\"deliquionis\"],\"lema_canonico\":\"deliquio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"falta, carência; também usado para 'eclipse' (de sol/lua); por extensão, queda, fluxo.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corresponde a dēlĭquio (ōnis) em Lewis & Short e entradas equivalentes no Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_7871-e2",
     "volume_id": "faria",
     "doc_name": "chunk_7871",
@@ -1648,28 +1516,6 @@
     "notas": "Equivalente a dēlĭquĭum em Lewis & Short; forma neutra, 2ª declinação, atestada.",
     "raw_text": "{\"id\":\"chunk_7871:7871:1\",\"lemas\":[\"deliquium\",\"deliquii\"],\"lema_canonico\":\"deliquium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"(raro) falta, defeito; também 'eclipse' (de um astro); sentido de queda/fluxo em autores.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Equivalente a dēlĭquĭum em Lewis & Short; forma neutra, 2ª declinação, atestada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_7871:7871:1\",\"lemas\":[\"deliquium\",\"deliquii\"],\"lema_canonico\":\"deliquium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"(raro) falta, defeito; também 'eclipse' (de um astro); sentido de queda/fluxo em autores.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Equivalente a dēlĭquĭum em Lewis & Short; forma neutra, 2ª declinação, atestada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_7871-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_7871",
-    "page_num": 7871,
-    "lemmas": [
-      "dēlĭquio",
-      "dēlĭquio"
-    ],
-    "morfologia": "s. 3ª (-is)",
-    "morph_render": "s. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Notas sobre formas oblíquas: leituras como 'deliqui.o' parecem representar formas casuais (dat./abl. etc.) ou grafias variantes das entradas dēliquio / dēliquium; não constituem lema próprio.",
-    "exemplos": [],
-    "notas": "Interpretação de variantes/abreviações do dicionário; formular explicativo, não novo lema. | [dedupe] redirect → chunk_8093:8093:0 | [dedupe] redirect → chunk_8093:8093:0 | [ocr_fix 2025-08-17T20:01:08Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='deliquio' → 'dēlĭquio'",
-    "raw_text": "{\"id\":\"chunk_7871:7871:2\",\"lemas\":[\"deliquio\",\"deliquium\"],\"lema_canonico\":\"deliquio\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Notas sobre formas oblíquas: leituras como 'deliqui.o' parecem representar formas casuais (dat./abl. etc.) ou grafias variantes das entradas dēliquio / dēliquium; não constituem lema próprio.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Interpretação de variantes/abreviações do dicionário; formular explicativo, não novo lema.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"src_whitaker\",\"conf:med\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_7871:7871:2\",\"lemas\":[\"deliquio\",\"deliquium\"],\"lema_canonico\":\"deliquio\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Notas sobre formas oblíquas: leituras como 'deliqui.o' parecem representar formas casuais (dat./abl. etc.) ou grafias variantes das entradas dēliquio / dēliquium; não constituem lema próprio.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Interpretação de variantes/abreviações do dicionário; formular explicativo, não novo lema.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"src_whitaker\",\"conf:med\",\"needs_review\"]}"
   },
   {
     "id": "chunk_7871-e4",
@@ -1714,28 +1560,6 @@
     "notas": "Grafias corroboradas por Lewis & Short e Whitaker; definido também em Lat→Deu.",
     "raw_text": "{\"id\":\"chunk_7872:7872:0\",\"lemas\":[\"deliquus\",\"deliqua\",\"deliquum\"],\"lema_canonico\":\"deliquus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Faltando; que faz falta, ausente (Plaut.).\",\"aliases\":[],\"exemplos\":[\"Plaut. Cas. 2, 2, 33\"],\"notas\":\"Grafias corroboradas por Lewis & Short e Whitaker; definido também em Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_7872:7872:0\",\"lemas\":[\"deliquus\",\"deliqua\",\"deliquum\"],\"lema_canonico\":\"deliquus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Faltando; que faz falta, ausente (Plaut.).\",\"aliases\":[],\"exemplos\":[\"Plaut. Cas. 2, 2, 33\"],\"notas\":\"Grafias corroboradas por Lewis & Short e Whitaker; definido também em Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_7873-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_7873",
-    "page_num": 7873,
-    "lemmas": [
-      "deliramentum",
-      "deliramentum"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "nonsense, absurdity; divagações, extravagâncias (frequente no pl.)",
-    "exemplos": [],
-    "notas": "Normalizada forma com macrons (dēlīrāmentum); nota sobre uso preferente no plural. | [dedupe] redirect → chunk_7897:7897:0 | [dedupe] redirect → chunk_7897:7897:0",
-    "raw_text": "{\"id\":\"chunk_7873:7873:0\",\"lemas\":[\"deliramentum\",\"dēlīrāmentum\"],\"lema_canonico\":\"deliramentum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"nonsense, absurdity; divagações, extravagâncias (frequente no pl.)\",\"aliases\":[],\"exemplos\":[\"Plaut. Am. 2, 2, 64\",\"Plaut. Men. 5, 5, 21\",\"Plin. Nat. 2, 7, 5\",\"Fronto Ep. ad M. Caes. 2, 1\",\"Luc. (Vulg.) 24, 14\"],\"notas\":\"Normalizada forma com macrons (dēlīrāmentum); nota sobre uso preferente no plural.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_7873:7873:0\",\"lemas\":[\"deliramentum\",\"dēlīrāmentum\"],\"lema_canonico\":\"deliramentum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"nonsense, absurdity; divagações, extravagâncias (frequente no pl.)\",\"aliases\":[],\"exemplos\":[\"Plaut. Am. 2, 2, 64\",\"Plaut. Men. 5, 5, 21\",\"Plin. Nat. 2, 7, 5\",\"Fronto Ep. ad M. Caes. 2, 1\",\"Luc. (Vulg.) 24, 14\"],\"notas\":\"Normalizada forma com macrons (dēlīrāmentum); nota sobre uso preferente no plural.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_7874-e1",
@@ -1846,28 +1670,6 @@
     "notas": "Grafia e referência verificadas; tratado como verbo de 1ª conjugação (dēlītigāre) conforme Lat→Deu/Whitaker.",
     "raw_text": "{\"id\":\"chunk_7877:7877:1\",\"lemas\":[\"dēlītigō\",\"delitigo\"],\"lema_canonico\":\"dēlītigō\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"altercar, contender em palavras; zangar-se verbalmente (intransitivo).\",\"aliases\":[],\"exemplos\":[\"Hor. Ars Poet. 94\"],\"notas\":\"Grafia e referência verificadas; tratado como verbo de 1ª conjugação (dēlītigāre) conforme Lat→Deu/Whitaker.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_7877:7877:1\",\"lemas\":[\"dēlītigō\",\"delitigo\"],\"lema_canonico\":\"dēlītigō\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"altercar, contender em palavras; zangar-se verbalmente (intransitivo).\",\"aliases\":[],\"exemplos\":[\"Hor. Ars Poet. 94\"],\"notas\":\"Grafia e referência verificadas; tratado como verbo de 1ª conjugação (dēlītigāre) conforme Lat→Deu/Whitaker.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_7878-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_7878",
-    "page_num": 7878,
-    "lemmas": [
-      "dē-lĭtesco",
-      "dē-lĭtesco"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Esconder‑se; ocultar‑se; recolher‑se (forma perfeita: dēlitūī).",
-    "exemplos": [],
-    "notas": "First pass registrava a forma perfeita delitui; Lat→Deu atesta dēlitēscere → dēlituī. | [dedupe] redirect → chunk_7877:7877:0 | [dedupe] redirect → chunk_7877:7877:0 | [ocr_fix 2025-08-17T19:47:23Z] match direto em LS por lemma/lemma_norm | lemma_in='delitesco' → 'dē-lĭtesco'",
-    "raw_text": "{\"id\":\"chunk_7878:7878:0\",\"lemas\":[\"delitescere\"],\"lema_canonico\":\"delitesco\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Esconder‑se; ocultar‑se; recolher‑se (forma perfeita: dēlitūī).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"First pass registrava a forma perfeita delitui; Lat→Deu atesta dēlitēscere → dēlituī.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_7878:7878:0\",\"lemas\":[\"delitescere\"],\"lema_canonico\":\"delitesco\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Esconder‑se; ocultar‑se; recolher‑se (forma perfeita: dēlitūī).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"First pass registrava a forma perfeita delitui; Lat→Deu atesta dēlitēscere → dēlituī.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
     "id": "chunk_7879-e1",
@@ -2068,28 +1870,6 @@
     "raw_json": "{\"id\":\"chunk_7886:7886:0\",\"lemas\":[\"delphinus\",\"delphin\"],\"lema_canonico\":\"delphinus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"golfinho; ornamento em forma de golfinho; (também: parte de órgão hidráulico; constelação)\",\"aliases\":[\"delphin\"],\"exemplos\":[\"Ov. F. 2, 114\"],\"notas\":\"\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_7887-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_7887",
-    "page_num": 7887,
-    "lemmas": [
-      "delphinus",
-      "delphinus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "golfinho; ornamento em forma de golfinho; parte de órgão hidráulico; constelação",
-    "exemplos": [],
-    "notas": "Lema normalizado para forma clássica; incluída variante poética 'delphin' (LS). | [dedupe] redirect → chunk_7886:7886:0 | [dedupe] redirect → chunk_7886:7886:0",
-    "raw_text": "{\"id\":\"chunk_7887:7887:0\",\"lemas\":[\"delphinus\",\"delphin\"],\"lema_canonico\":\"delphinus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"golfinho; ornamento em forma de golfinho; parte de órgão hidráulico; constelação\",\"aliases\":[],\"exemplos\":[\"Hor. A. P. 30\",\"Plin. Nat. 9, 8, 7\",\"Plin. Ep. 9, 33, 4\",\"Gell. 7, 8\",\"Cic. N. D. 27, 77\",\"Cic. Div. 2, 70\",\"Juv. 6, 590\",\"Juv. 10, 14\",\"Ov. M. 6, 120\",\"Ov. M. 11, 237\",\"Verg. A. 8, 673\",\"Prop. 3, 17, 25\",\"Varr. R.R. 2, 5, 13\",\"Vitr. 10, 13\"],\"notas\":\"Lema normalizado para forma clássica; incluída variante poética 'delphin' (LS).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_7887:7887:0\",\"lemas\":[\"delphinus\",\"delphin\"],\"lema_canonico\":\"delphinus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"golfinho; ornamento em forma de golfinho; parte de órgão hidráulico; constelação\",\"aliases\":[],\"exemplos\":[\"Hor. A. P. 30\",\"Plin. Nat. 9, 8, 7\",\"Plin. Ep. 9, 33, 4\",\"Gell. 7, 8\",\"Cic. N. D. 27, 77\",\"Cic. Div. 2, 70\",\"Juv. 6, 590\",\"Juv. 10, 14\",\"Ov. M. 6, 120\",\"Ov. M. 11, 237\",\"Verg. A. 8, 673\",\"Prop. 3, 17, 25\",\"Varr. R.R. 2, 5, 13\",\"Vitr. 10, 13\"],\"notas\":\"Lema normalizado para forma clássica; incluída variante poética 'delphin' (LS).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_7888-e1",
     "volume_id": "faria",
     "doc_name": "chunk_7888",
@@ -2222,28 +2002,6 @@
     "raw_json": "{\"id\":\"chunk_7893:7893:0\",\"lemas\":[\"deludo\",\"deludere\",\"delusi\",\"delusus\"],\"lema_canonico\":\"deludo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Enganar, iludir; zombar, ridicularizar; também: executar/representar completamente uma atuação (uso teatral).\",\"aliases\":[],\"exemplos\":[\"Plaut. Rud. 147\"],\"notas\":\"Principal parts mantidas; sentidos confirmados por Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_7894-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_7894",
-    "page_num": 7894,
-    "lemmas": [
-      "deludo",
-      "deludo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "enganar, iludir; zombar de, brincar às custas de",
-    "exemplos": [],
-    "notas": "Formas conjugadas: dēlūdō, dēlūdere, dēlūsī, dēlūsum. | [dedupe] redirect → chunk_7893:7893:0 | [dedupe] redirect → chunk_7893:7893:0",
-    "raw_text": "{\"id\":\"chunk_7894:7894:0\",\"lemas\":[\"deludo\"],\"lema_canonico\":\"deludo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"enganar, iludir; zombar de, brincar às custas de\",\"aliases\":[],\"exemplos\":[\"Hor. Sat. 2, 5, 56\"],\"notas\":\"Formas conjugadas: dēlūdō, dēlūdere, dēlūsī, dēlūsum.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_7894:7894:0\",\"lemas\":[\"deludo\"],\"lema_canonico\":\"deludo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"enganar, iludir; zombar de, brincar às custas de\",\"aliases\":[],\"exemplos\":[\"Hor. Sat. 2, 5, 56\"],\"notas\":\"Formas conjugadas: dēlūdō, dēlūdere, dēlūsī, dēlūsum.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_7895-e1",
     "volume_id": "faria",
     "doc_name": "chunk_7895",
@@ -2330,50 +2088,6 @@
     "notas": "Leitura conjectural a partir do OCR 'dēmarĕ'; forma e sentido conservados da primeira passada, mas ausência de confirmação em dicionários clássicos.",
     "raw_text": "{\"id\":\"chunk_7898:7898:0\",\"lemas\":[\"demarāre\",\"demarare\"],\"lema_canonico\":\"demarāre\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"1) lançar à água; desancorar, derrubar (literal). 2) enfraquecer (fig.)\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 28, 36\",\"Cic. Or. 231\"],\"notas\":\"Leitura conjectural a partir do OCR 'dēmarĕ'; forma e sentido conservados da primeira passada, mas ausência de confirmação em dicionários clássicos.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_7898:7898:0\",\"lemas\":[\"demarāre\",\"demarare\"],\"lema_canonico\":\"demarāre\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"1) lançar à água; desancorar, derrubar (literal). 2) enfraquecer (fig.)\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 28, 36\",\"Cic. Or. 231\"],\"notas\":\"Leitura conjectural a partir do OCR 'dēmarĕ'; forma e sentido conservados da primeira passada, mas ausência de confirmação em dicionários clássicos.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_7899-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_7899",
-    "page_num": 7899,
-    "lemmas": [
-      "Dēlos",
-      "Dēlos"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "ilha no mar Egeu, uma das Cíclades; berço de Apolo e Diana",
-    "exemplos": [],
-    "notas": "Adotei a forma canónica Dēlos com variantes atestadas por Lewis & Short; declinação conforme gen. sing. -ī. | [dedupe] redirect → chunk_7882:7882:0 | [dedupe] redirect → chunk_7882:7882:0 | [ocr_fix 2025-08-17T19:57:18Z] match direto em LS por lemma/lemma_norm | lemma_in='Delos' → 'Dēlos'",
-    "raw_text": "{\"id\":\"chunk_7899:7899:0\",\"lemas\":[\"Delos\",\"Delius\",\"Delia\",\"Deliacus\"],\"lema_canonico\":\"Delos\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"ilha no mar Egeu, uma das Cíclades; berço de Apolo e Diana\",\"aliases\":[],\"exemplos\":[\"Verg. A. 3, 73\",\"Ov. Met. 6, 191\",\"Cic. Verr. 1, 1, 17\"],\"notas\":\"Adotei a forma canónica Dēlos com variantes atestadas por Lewis & Short; declinação conforme gen. sing. -ī.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_7899:7899:0\",\"lemas\":[\"Delos\",\"Delius\",\"Delia\",\"Deliacus\"],\"lema_canonico\":\"Delos\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"ilha no mar Egeu, uma das Cíclades; berço de Apolo e Diana\",\"aliases\":[],\"exemplos\":[\"Verg. A. 3, 73\",\"Ov. Met. 6, 191\",\"Cic. Verr. 1, 1, 17\"],\"notas\":\"Adotei a forma canónica Dēlos com variantes atestadas por Lewis & Short; declinação conforme gen. sing. -ī.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_7900-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_7900",
-    "page_num": 7900,
-    "lemmas": [
-      "deludo",
-      "deludo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Enganar, ludibriar; caçoar, fazer troça; também representar/completar uma atuação teatral.",
-    "exemplos": [],
-    "notas": "Entrada focaliza a forma perfeita 'delusi' — relaciona‑se aos principais do verbo; confirmado por Whitaker/Lat→Deu. | [dedupe] redirect → chunk_7893:7893:0 | [dedupe] redirect → chunk_7893:7893:0",
-    "raw_text": "{\"id\":\"chunk_7900:7900:0\",\"lemas\":[\"deludo\",\"deludere\",\"delusi\",\"delusus\"],\"lema_canonico\":\"deludo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Enganar, ludibriar; caçoar, fazer troça; também representar/completar uma atuação teatral.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada focaliza a forma perfeita 'delusi' — relaciona‑se aos principais do verbo; confirmado por Whitaker/Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_7900:7900:0\",\"lemas\":[\"deludo\",\"deludere\",\"delusi\",\"delusus\"],\"lema_canonico\":\"deludo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Enganar, ludibriar; caçoar, fazer troça; também representar/completar uma atuação teatral.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada focaliza a forma perfeita 'delusi' — relaciona‑se aos principais do verbo; confirmado por Whitaker/Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_7901-e1",
@@ -2814,28 +2528,6 @@
     "notas": "Correlacionado com Whitaker e Lat→Deu (demerēre/dēmereō); LS não lista explicitamente, mas sentido aceitável.",
     "raw_text": "{\"id\":\"chunk_7920:7920:0\",\"lemas\":[\"demeritus\"],\"lema_canonico\":\"demeritus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Particípio perfeito passivo de demerēre/dēmereō: merecido; digno; obtido por mérito.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Correlacionado com Whitaker e Lat→Deu (demerēre/dēmereō); LS não lista explicitamente, mas sentido aceitável.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_firstpass\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_7920:7920:0\",\"lemas\":[\"demeritus\"],\"lema_canonico\":\"demeritus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Particípio perfeito passivo de demerēre/dēmereō: merecido; digno; obtido por mérito.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Correlacionado com Whitaker e Lat→Deu (demerēre/dēmereō); LS não lista explicitamente, mas sentido aceitável.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_firstpass\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_7921-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_7921",
-    "page_num": 7921,
-    "lemmas": [
-      "demersus",
-      "demersus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Particípio perfeito passivo de demergo; submerso, afundado, mergido; usado também como adjetivo.",
-    "exemplos": [],
-    "notas": "Corrigido OCR; corroborado por LS e Whitaker (part. de demergo). | [dedupe] redirect → chunk_7923:7923:0 | [dedupe] redirect → chunk_7923:7923:0",
-    "raw_text": "{\"id\":\"chunk_7921:7921:0\",\"lemas\":[\"demersus\",\"demersum\",\"demersa\"],\"lema_canonico\":\"demersus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Particípio perfeito passivo de demergo; submerso, afundado, mergido; usado também como adjetivo.\",\"aliases\":[],\"exemplos\":[\"App. Mag. p. 287, 35\"],\"notas\":\"Corrigido OCR; corroborado por LS e Whitaker (part. de demergo).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_7921:7921:0\",\"lemas\":[\"demersus\",\"demersum\",\"demersa\"],\"lema_canonico\":\"demersus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Particípio perfeito passivo de demergo; submerso, afundado, mergido; usado também como adjetivo.\",\"aliases\":[],\"exemplos\":[\"App. Mag. p. 287, 35\"],\"notas\":\"Corrigido OCR; corroborado por LS e Whitaker (part. de demergo).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_7922-e1",
@@ -3322,28 +3014,6 @@
     "raw_json": "{\"id\":\"chunk_7942:7942:0\",\"lemas\":[\"demitto\"],\"lema_canonico\":\"demitto\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"(entrada ambígua; primeiro passado sugere 'mitigar, suavizar' mas léxico padrão associa 'demitto' a 'deixar cair, enviar para baixo')\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 1, 13, 37\"],\"notas\":\"Entrada possivelmente confundida com dēmītiō/derivados; requer verificação contra LS/Whitaker para sentido 'mitigar'.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_7943-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_7943",
-    "page_num": 7943,
-    "lemmas": [
-      "demitto",
-      "demitto"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "enviar para baixo; deixar cair; abaixar; depor; fazer descer",
-    "exemplos": [],
-    "notas": "Formas dēmittere / dēmittō confirmadas; sentidos gerais conforme Lat→Deu e Whitaker. | [dedupe] redirect → chunk_7938:7938:0 | [dedupe] redirect → chunk_7938:7938:0",
-    "raw_text": "{\"id\":\"chunk_7943:7943:0\",\"lemas\":[\"demitto\",\"demittere\"],\"lema_canonico\":\"demitto\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"enviar para baixo; deixar cair; abaixar; depor; fazer descer\",\"aliases\":[],\"exemplos\":[\"Hor. 2, 9\",\"Hor. Od. 3, 6, 42\",\"Cic. Att. 11, 15, 3\"],\"notas\":\"Formas dēmittere / dēmittō confirmadas; sentidos gerais conforme Lat→Deu e Whitaker.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_7943:7943:0\",\"lemas\":[\"demitto\",\"demittere\"],\"lema_canonico\":\"demitto\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"enviar para baixo; deixar cair; abaixar; depor; fazer descer\",\"aliases\":[],\"exemplos\":[\"Hor. 2, 9\",\"Hor. Od. 3, 6, 42\",\"Cic. Att. 11, 15, 3\"],\"notas\":\"Formas dēmittere / dēmittō confirmadas; sentidos gerais conforme Lat→Deu e Whitaker.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_7944-e1",
     "volume_id": "faria",
     "doc_name": "chunk_7944",
@@ -3828,28 +3498,6 @@
     "raw_json": "{\"id\":\"chunk_7965:7965:0\",\"lemas\":[\"Dēmosthēnēs\",\"Demosthenes\"],\"lema_canonico\":\"Dēmosthēnēs\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Demóstenes, célebre orador ateniense (384–322 a.C.).\",\"aliases\":[\"Dēmosthēnĭcus\"],\"exemplos\":[\"Cic. de Or. 1, 89\"],\"notas\":\"Grafia e datas uniformizadas; adjectival derivado (Dēmosthēnĭcus) atestado no LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_7966-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_7966",
-    "page_num": 7966,
-    "lemmas": [
-      "demoveo",
-      "demoveo"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Particípio perfeito passivo de dēmōveō: removido, afastado; deposto, banido; desviado.",
-    "exemplos": [],
-    "notas": "Forma partid. corrigida e vinculada ao verbo dēmoveō (Whitaker, LS). | [dedupe] redirect → chunk_7967:7967:0 | [dedupe] redirect → chunk_7967:7967:0",
-    "raw_text": "{\"id\":\"chunk_7966:7966:0\",\"lemas\":[\"demotus\",\"demoveo\"],\"lema_canonico\":\"demoveo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo de dēmōveō: removido, afastado; deposto, banido; desviado.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma partid. corrigida e vinculada ao verbo dēmoveō (Whitaker, LS).\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_7966:7966:0\",\"lemas\":[\"demotus\",\"demoveo\"],\"lema_canonico\":\"demoveo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo de dēmōveō: removido, afastado; deposto, banido; desviado.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma partid. corrigida e vinculada ao verbo dēmoveō (Whitaker, LS).\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_7967-e1",
     "volume_id": "faria",
     "doc_name": "chunk_7967",
@@ -3982,28 +3630,6 @@
     "raw_json": "{\"id\":\"chunk_7969:7969:1\",\"lemas\":[\"dēmulceō\"],\"lema_canonico\":\"dēmulceō\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"Acariciar com a mão; afagar, tocar de leve.\",\"aliases\":[],\"exemplos\":[\"Tert. Heaut. 762\"],\"notas\":\"Conferido com Lat→Deu e Lewis & Short; forma e flexões confirmadas.\",\"flags\":[\"src_latdeu\",\"src_ls\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_7970-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_7970",
-    "page_num": 7970,
-    "lemmas": [
-      "demulceo",
-      "demulceo"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Demulcēre: acariciar, afagar; apaziguar, suavizar; (fig.) amansar, encantar.",
-    "exemplos": [],
-    "notas": "Formas do perfeito/p.p. incluídas (demulsī, demulctus); transitividade indicada conforme Lat→Deu/Whitaker. | [dedupe] redirect → chunk_7969:7969:1 | [dedupe] redirect → chunk_7969:7969:1",
-    "raw_text": "{\"id\":\"chunk_7970:7970:0\",\"lemas\":[\"demulceo\",\"demulcere\",\"demulsi\",\"demulctus\",\"dēmulceō\"],\"lema_canonico\":\"demulceo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"Demulcēre: acariciar, afagar; apaziguar, suavizar; (fig.) amansar, encantar.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Formas do perfeito/p.p. incluídas (demulsī, demulctus); transitividade indicada conforme Lat→Deu/Whitaker.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_7970:7970:0\",\"lemas\":[\"demulceo\",\"demulcere\",\"demulsi\",\"demulctus\",\"dēmulceō\"],\"lema_canonico\":\"demulceo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"Demulcēre: acariciar, afagar; apaziguar, suavizar; (fig.) amansar, encantar.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Formas do perfeito/p.p. incluídas (demulsī, demulctus); transitividade indicada conforme Lat→Deu/Whitaker.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_7971-e1",
     "volume_id": "faria",
     "doc_name": "chunk_7971",
@@ -4068,28 +3694,6 @@
     "notas": "Entrada incerta; forma e gênero atestados no OCR/first_pass, mas falta confirmação clara em dicionários principais.",
     "raw_text": "{\"id\":\"chunk_7973:7973:0\",\"lemas\":[\"demitio\"],\"lema_canonico\":\"demitio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"substantivo: queda, derrubamento; mudança para pior (registro incerto).\",\"aliases\":[],\"exemplos\":[\"Cic. Rep. 2, 7\"],\"notas\":\"Entrada incerta; forma e gênero atestados no OCR/first_pass, mas falta confirmação clara em dicionários principais.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_7973:7973:0\",\"lemas\":[\"demitio\"],\"lema_canonico\":\"demitio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"substantivo: queda, derrubamento; mudança para pior (registro incerto).\",\"aliases\":[],\"exemplos\":[\"Cic. Rep. 2, 7\"],\"notas\":\"Entrada incerta; forma e gênero atestados no OCR/first_pass, mas falta confirmação clara em dicionários principais.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_7974-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_7974",
-    "page_num": 7974,
-    "lemmas": [
-      "dē-mūto",
-      "dē-mūto"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Particípio perfeito passivo de dēmūtō: mudado, alterado, transformado.",
-    "exemplos": [],
-    "notas": "Vinculado ao verbo demuto; forma e sentido confirmados por Whitaker. | [dedupe] redirect → chunk_7975:7975:0 | [dedupe] redirect → chunk_7975:7975:0 | [ocr_fix 2025-08-17T19:47:24Z] match direto em LS por lemma/lemma_norm | lemma_in='demuto' → 'dē-mūto'",
-    "raw_text": "{\"id\":\"chunk_7974:7974:0\",\"lemas\":[\"demutatus\",\"demuto\"],\"lema_canonico\":\"demuto\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo de dēmūtō: mudado, alterado, transformado.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Vinculado ao verbo demuto; forma e sentido confirmados por Whitaker.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_7974:7974:0\",\"lemas\":[\"demutatus\",\"demuto\"],\"lema_canonico\":\"demuto\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo de dēmūtō: mudado, alterado, transformado.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Vinculado ao verbo demuto; forma e sentido confirmados por Whitaker.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}"
   },
   {
     "id": "chunk_7975-e1",
@@ -4405,28 +4009,6 @@
     "raw_json": "{\"id\":\"chunk_7988:7988:0\",\"lemas\":[\"denoto\"],\"lema_canonico\":\"denoto\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"dēnotāre: indicar, designar; também: difamar, censurar.\",\"aliases\":[],\"exemplos\":[\"Cic. An. 3, 53\",\"Suet. Calig. 56\"],\"notas\":\"Conferido com Lat→Deu; formas e sentidos padronizados para o infinitivo.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"src_ocr\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_7989-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_7989",
-    "page_num": 7989,
-    "lemmas": [
-      "dens",
-      "dens"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "dente; qualquer peça em forma de dente (p. ex. dente do arado); por extensão: martírio, foice (atributo de Saturno), ferocidade/inveja",
-    "exemplos": [],
-    "notas": "Unificação para dens, dentis; sentidos resumidos a partir de Lewis & Short e Whitaker | [dedupe] redirect → chunk_23377:23377:2 | [dedupe] redirect → chunk_23377:23377:2",
-    "raw_text": "{\"id\":\"chunk_7989:7989:0\",\"lemas\":[\"dens\",\"densis\",\"dentis\"],\"lema_canonico\":\"dens\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"dente; qualquer peça em forma de dente (p. ex. dente do arado); por extensão: martírio, foice (atributo de Saturno), ferocidade/inveja\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 2, 134\",\"Col. 2, 4, 6\",\"Ov. Met. 8, 283\",\"Verg. G. 2, 406\",\"Cic. Fab. 67\"],\"notas\":\"Unificação para dens, dentis; sentidos resumidos a partir de Lewis & Short e Whitaker\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_7989:7989:0\",\"lemas\":[\"dens\",\"densis\",\"dentis\"],\"lema_canonico\":\"dens\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"dente; qualquer peça em forma de dente (p. ex. dente do arado); por extensão: martírio, foice (atributo de Saturno), ferocidade/inveja\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 2, 134\",\"Col. 2, 4, 6\",\"Ov. Met. 8, 283\",\"Verg. G. 2, 406\",\"Cic. Fab. 67\"],\"notas\":\"Unificação para dens, dentis; sentidos resumidos a partir de Lewis & Short e Whitaker\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_7990-e1",
     "volume_id": "faria",
     "doc_name": "chunk_7990",
@@ -4579,28 +4161,6 @@
     "notas": "Unidas as variantes verbais (denso = densō; variante denseo = densēre/alternate spelling) e alinhado com LS/Whitaker/Lat→Deu.",
     "raw_text": "{\"id\":\"chunk_7996:7996:0\",\"lemas\":[\"denso\",\"denseo\"],\"lema_canonico\":\"denso\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"dēnsāre (densō): tornar denso, apertar ou prensar juntos; condensar, espessar; (fig.) condensar.\",\"aliases\":[],\"exemplos\":[\"Quint. 11, 3, 164\"],\"notas\":\"Unidas as variantes verbais (denso = densō; variante denseo = densēre/alternate spelling) e alinhado com LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"src_firstpass\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_7996:7996:0\",\"lemas\":[\"denso\",\"denseo\"],\"lema_canonico\":\"denso\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"dēnsāre (densō): tornar denso, apertar ou prensar juntos; condensar, espessar; (fig.) condensar.\",\"aliases\":[],\"exemplos\":[\"Quint. 11, 3, 164\"],\"notas\":\"Unidas as variantes verbais (denso = densō; variante denseo = densēre/alternate spelling) e alinhado com LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"src_firstpass\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_7997-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_7997",
-    "page_num": 7997,
-    "lemmas": [
-      "densus",
-      "densus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "espesso, denso, apertado; também: frequente, numeroso; figuradamente: cheio de, coberto de.",
-    "exemplos": [],
-    "notas": "Grafia e sentidos confirmados com LS e Whitaker; exemplos corrigidos (Cic. Att.). | [dedupe] redirect → chunk_7990:7990:0 | [dedupe] redirect → chunk_7990:7990:0",
-    "raw_text": "{\"id\":\"chunk_7997:7997:0\",\"lemas\":[\"densus\",\"densa\",\"densum\"],\"lema_canonico\":\"densus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"espesso, denso, apertado; também: frequente, numeroso; figuradamente: cheio de, coberto de.\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 12, 15\",\"Verg. G. 4, 317\",\"Quint. 10, 1, 106\"],\"notas\":\"Grafia e sentidos confirmados com LS e Whitaker; exemplos corrigidos (Cic. Att.).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"src_firstpass\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_7997:7997:0\",\"lemas\":[\"densus\",\"densa\",\"densum\"],\"lema_canonico\":\"densus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"espesso, denso, apertado; também: frequente, numeroso; figuradamente: cheio de, coberto de.\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 12, 15\",\"Verg. G. 4, 317\",\"Quint. 10, 1, 106\"],\"notas\":\"Grafia e sentidos confirmados com LS e Whitaker; exemplos corrigidos (Cic. Att.).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"src_firstpass\",\"conf:high\"]}"
   },
   {
     "id": "chunk_7998-e1",

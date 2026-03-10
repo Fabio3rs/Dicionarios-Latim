@@ -44,50 +44,6 @@
     "raw_json": "{\"id\":\"chunk_5801:5801:0\",\"lemas\":[\"complanatus\"],\"lema_canonico\":\"complanatus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de complano: nivelado, aplainado; também 'arrasado, derrubado'\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Particípio confirmado em Whitaker; mantida a leitura lexical.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_5802-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5802",
-    "page_num": 5802,
-    "lemmas": [
-      "complāno",
-      "complāno"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "aplainar, nivelar; arrasar, derrubar; suavizar, mitigar (sentido figurado)",
-    "exemplos": [],
-    "notas": "Formas e sentidos alinhados com Whitaker; macrons omitidos para normalização. | [dedupe] redirect → chunk_5799:5799:1 | [dedupe] redirect → chunk_5799:5799:1 | [ocr_fix 2025-08-17T19:46:27Z] match direto em Gaffiot por lemma/lemma_norm | lemma_in='complano' → 'complāno'",
-    "raw_text": "{\"id\":\"chunk_5802:5802:0\",\"lemas\":[\"complano\"],\"lema_canonico\":\"complano\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"aplainar, nivelar; arrasar, derrubar; suavizar, mitigar (sentido figurado)\",\"aliases\":[],\"exemplos\":[\"Suet. Caes. 41, 1\",\"Cic. Dom. 101\",\"Sen. Prov. 5, 9\"],\"notas\":\"Formas e sentidos alinhados com Whitaker; macrons omitidos para normalização.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_5802:5802:0\",\"lemas\":[\"complano\"],\"lema_canonico\":\"complano\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"aplainar, nivelar; arrasar, derrubar; suavizar, mitigar (sentido figurado)\",\"aliases\":[],\"exemplos\":[\"Suet. Caes. 41, 1\",\"Cic. Dom. 101\",\"Sen. Prov. 5, 9\"],\"notas\":\"Formas e sentidos alinhados com Whitaker; macrons omitidos para normalização.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_5803-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5803",
-    "page_num": 5803,
-    "lemmas": [
-      "complector",
-      "complector"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "Verbo deponente: abraçar, rodear; compreender, abarcar; apoderar-se, captar intelectualmente.",
-    "exemplos": [],
-    "notas": "Deponente (complectī, complexus sum); morfologia aproximada ao inventário disponível. | [dedupe] redirect → chunk_6282:6282:0 | [dedupe] redirect → chunk_6282:6282:0",
-    "raw_text": "{\"id\":\"chunk_5803:5803:0\",\"lemas\":[\"complector\"],\"lema_canonico\":\"complector\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"Verbo deponente: abraçar, rodear; compreender, abarcar; apoderar-se, captar intelectualmente.\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 1, 46\",\"Plaut. Mil. 2, 6, 53\",\"Ov. M. 12, 428\"],\"notas\":\"Deponente (complectī, complexus sum); morfologia aproximada ao inventário disponível.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_5803:5803:0\",\"lemas\":[\"complector\"],\"lema_canonico\":\"complector\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"Verbo deponente: abraçar, rodear; compreender, abarcar; apoderar-se, captar intelectualmente.\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 1, 46\",\"Plaut. Mil. 2, 6, 53\",\"Ov. M. 12, 428\"],\"notas\":\"Deponente (complectī, complexus sum); morfologia aproximada ao inventário disponível.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}"
-  },
-  {
     "id": "chunk_5804-e1",
     "volume_id": "faria",
     "doc_name": "chunk_5804",
@@ -152,28 +108,6 @@
     "notas": "Forma apresentada como complēre/completeō; transitivo (regência variável) indicada em morph_extra.",
     "raw_text": "{\"id\":\"chunk_5805:5805:0\",\"lemas\":[\"compleo\",\"complēre\"],\"lema_canonico\":\"complēre\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"encher totalmente; completar, preencher; acabar, concluir.\",\"aliases\":[],\"exemplos\":[\"Caes. BGal. 5, 40, 3\",\"Caes. BG. 1, 25, 1\",\"Liv. 23, 33, 15\"],\"notas\":\"Forma apresentada como complēre/completeō; transitivo (regência variável) indicada em morph_extra.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_5805:5805:0\",\"lemas\":[\"compleo\",\"complēre\"],\"lema_canonico\":\"complēre\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"encher totalmente; completar, preencher; acabar, concluir.\",\"aliases\":[],\"exemplos\":[\"Caes. BGal. 5, 40, 3\",\"Caes. BG. 1, 25, 1\",\"Liv. 23, 33, 15\"],\"notas\":\"Forma apresentada como complēre/completeō; transitivo (regência variável) indicada em morph_extra.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_5806-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5806",
-    "page_num": 5806,
-    "lemmas": [
-      "completus",
-      "completus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "1) Particípio perfeito passivo de compleō. 2) Adjetivo: cheio, completo, acabado.",
-    "exemplos": [],
-    "notas": "Grafia com macron confirmada (complētus/complēo); dupla função (particípio e adjetivo). | [dedupe] redirect → chunk_5790:5790:0 | [dedupe] redirect → chunk_5790:5790:0",
-    "raw_text": "{\"id\":\"chunk_5806:5806:0\",\"lemas\":[\"completus\",\"complētus\"],\"lema_canonico\":\"completus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"1) Particípio perfeito passivo de compleō. 2) Adjetivo: cheio, completo, acabado.\",\"aliases\":[],\"exemplos\":[\"Cic. Or. 168\"],\"notas\":\"Grafia com macron confirmada (complētus/complēo); dupla função (particípio e adjetivo).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5806:5806:0\",\"lemas\":[\"completus\",\"complētus\"],\"lema_canonico\":\"completus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"1) Particípio perfeito passivo de compleō. 2) Adjetivo: cheio, completo, acabado.\",\"aliases\":[],\"exemplos\":[\"Cic. Or. 168\"],\"notas\":\"Grafia com macron confirmada (complētus/complēo); dupla função (particípio e adjetivo).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_5807-e1",
@@ -374,28 +308,6 @@
     "raw_json": "{\"id\":\"chunk_5811:5811:1\",\"lemas\":[\"comploratus\",\"complōrātus\",\"conploratus\"],\"lema_canonico\":\"comploratus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"Substantivo: lamentação, pranto coletivo, clamor violento (atestado especialmente em Tito Lívio).\",\"aliases\":[],\"exemplos\":[\"Liv. 22, 55, 7\",\"Liv. 23, 42, 5\",\"Liv. 25, 26, 10\"],\"notas\":\"Entrada substantival homógrafa do particípio; evidência principal em Lívio (Lewis & Short).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_5812-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5812",
-    "page_num": 5812,
-    "lemmas": [
-      "comploratus",
-      "comploratus"
-    ],
-    "morfologia": "s. masc. 4ª (-us)",
-    "morph_render": "s. masc. 4ª (-us)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Lamentação ruidosa e violenta; pranto coletivo, clamor (sentido especial em Tito Lívio).",
-    "exemplos": [],
-    "notas": "Substantivo 4ª decl. atestado em Lívio; variante com con- registrada. | [dedupe] redirect → chunk_5811:5811:1 | [dedupe] redirect → chunk_5811:5811:1",
-    "raw_text": "{\"id\":\"chunk_5812:5812:0\",\"lemas\":[\"comploratus\",\"conploratus\",\"complōrātus\"],\"lema_canonico\":\"comploratus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"Lamentação ruidosa e violenta; pranto coletivo, clamor (sentido especial em Tito Lívio).\",\"aliases\":[],\"exemplos\":[\"Liv. 22, 55, 7\",\"Liv. 23, 42, 5\",\"Liv. 25, 26, 10\"],\"notas\":\"Substantivo 4ª decl. atestado em Lívio; variante com con- registrada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5812:5812:0\",\"lemas\":[\"comploratus\",\"conploratus\",\"complōrātus\"],\"lema_canonico\":\"comploratus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"Lamentação ruidosa e violenta; pranto coletivo, clamor (sentido especial em Tito Lívio).\",\"aliases\":[],\"exemplos\":[\"Liv. 22, 55, 7\",\"Liv. 23, 42, 5\",\"Liv. 25, 26, 10\"],\"notas\":\"Substantivo 4ª decl. atestado em Lívio; variante com con- registrada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_5813-e1",
     "volume_id": "faria",
     "doc_name": "chunk_5813",
@@ -482,50 +394,6 @@
     "notas": "Normalizado como adjetivo 3ª; variantes e observação de superlativo mantidas.",
     "raw_text": "{\"id\":\"chunk_5816:5816:0\",\"lemas\":[\"complures\",\"complūrēs\",\"complus\"],\"lema_canonico\":\"complures\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[],\"definicao\":\"vários, muitos; alguns (usado principalmente no plural); mais numerosos.\",\"aliases\":[],\"exemplos\":[\"Cæs. B. G. 1, 52, 5\",\"A. Gell. 11, 1, 1\"],\"notas\":\"Normalizado como adjetivo 3ª; variantes e observação de superlativo mantidas.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_5816:5816:0\",\"lemas\":[\"complures\",\"complūrēs\",\"complus\"],\"lema_canonico\":\"complures\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[],\"definicao\":\"vários, muitos; alguns (usado principalmente no plural); mais numerosos.\",\"aliases\":[],\"exemplos\":[\"Cæs. B. G. 1, 52, 5\",\"A. Gell. 11, 1, 1\"],\"notas\":\"Normalizado como adjetivo 3ª; variantes e observação de superlativo mantidas.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_5817-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5817",
-    "page_num": 5817,
-    "lemmas": [
-      "complures",
-      "complures"
-    ],
-    "morfologia": "adj. (3) 1T",
-    "morph_render": "adj. (3) 1T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "(pl.) muitos, várias pessoas; vários (especialmente em plural de significado coletivo).",
-    "exemplos": [],
-    "notas": "Forma e uso atestados; variantes registradas (complus). | [dedupe] redirect → chunk_5816:5816:0 | [dedupe] redirect → chunk_5816:5816:0",
-    "raw_text": "{\"id\":\"chunk_5817:5817:0\",\"lemas\":[\"complures\",\"complus\",\"complūra\"],\"lema_canonico\":\"complures\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[],\"definicao\":\"(pl.) muitos, várias pessoas; vários (especialmente em plural de significado coletivo).\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 1, 8\"],\"notas\":\"Forma e uso atestados; variantes registradas (complus).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5817:5817:0\",\"lemas\":[\"complures\",\"complus\",\"complūra\"],\"lema_canonico\":\"complures\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[],\"definicao\":\"(pl.) muitos, várias pessoas; vários (especialmente em plural de significado coletivo).\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 1, 8\"],\"notas\":\"Forma e uso atestados; variantes registradas (complus).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_5818-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5818",
-    "page_num": 5818,
-    "lemmas": [
-      "compendium",
-      "compendium"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "coisa economizada; ganho, vantagem; abreviatura, resumo, compêndio; atalho (sentido figurado).",
-    "exemplos": [],
-    "notas": "Normalizada forma nominativa/genitiva (compendium, compendii). | [dedupe] redirect → chunk_5768:5768:0 | [dedupe] redirect → chunk_5768:5768:0",
-    "raw_text": "{\"id\":\"chunk_5818:5818:0\",\"lemas\":[\"compendium\"],\"lema_canonico\":\"compendium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"coisa economizada; ganho, vantagem; abreviatura, resumo, compêndio; atalho (sentido figurado).\",\"aliases\":[],\"exemplos\":[\"Plaut. Pers. 4, 3, 2\",\"Cic. Verr. 2, 2, 3\"],\"notas\":\"Normalizada forma nominativa/genitiva (compendium, compendii).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5818:5818:0\",\"lemas\":[\"compendium\"],\"lema_canonico\":\"compendium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"coisa economizada; ganho, vantagem; abreviatura, resumo, compêndio; atalho (sentido figurado).\",\"aliases\":[],\"exemplos\":[\"Plaut. Pers. 4, 3, 2\",\"Cic. Verr. 2, 2, 3\"],\"notas\":\"Normalizada forma nominativa/genitiva (compendium, compendii).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_5818-e2",
@@ -768,28 +636,6 @@
     "notas": "Entrada ajustada para substantivo neutro (2ª decl.) conforme Whitaker/LS; inclui variante compositum.",
     "raw_text": "{\"id\":\"chunk_5824:5824:0\",\"lemas\":[\"composita\",\"compositum\"],\"lema_canonico\":\"compositum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"coisa composta; preparado composto (p.ex. medicamento composto); acordo, compact (arrangement, compact).\",\"aliases\":[],\"exemplos\":[\"Lucr. 4, 326\"],\"notas\":\"Entrada ajustada para substantivo neutro (2ª decl.) conforme Whitaker/LS; inclui variante compositum.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_5824:5824:0\",\"lemas\":[\"composita\",\"compositum\"],\"lema_canonico\":\"compositum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"coisa composta; preparado composto (p.ex. medicamento composto); acordo, compact (arrangement, compact).\",\"aliases\":[],\"exemplos\":[\"Lucr. 4, 326\"],\"notas\":\"Entrada ajustada para substantivo neutro (2ª decl.) conforme Whitaker/LS; inclui variante compositum.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_5825-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5825",
-    "page_num": 5825,
-    "lemmas": [
-      "compositus",
-      "compositus"
-    ],
-    "morfologia": "adj. (3) 3T",
-    "morph_render": "adj. (3) 3T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "particípio passivo de compōnō; composto, disposto; bem-ordenado, regulado; combinado, concertado.",
-    "exemplos": [],
-    "notas": "Marcada tanto como adjetivo quanto como particípio perfeito passivo (morph_extra). | [dedupe] redirect → chunk_5826:5826:0 | [dedupe] redirect → chunk_5826:5826:0",
-    "raw_text": "{\"id\":\"chunk_5825:5825:0\",\"lemas\":[\"compositus\",\"composita\",\"compositum\"],\"lema_canonico\":\"compositus\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio passivo de compōnō; composto, disposto; bem-ordenado, regulado; combinado, concertado.\",\"aliases\":[],\"exemplos\":[\"Sal. B. Jug. 85, 26\",\"Tac. Hist. 2, 59, 4\",\"Sen. Ep. 66, 5\"],\"notas\":\"Marcada tanto como adjetivo quanto como particípio perfeito passivo (morph_extra).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5825:5825:0\",\"lemas\":[\"compositus\",\"composita\",\"compositum\"],\"lema_canonico\":\"compositus\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio passivo de compōnō; composto, disposto; bem-ordenado, regulado; combinado, concertado.\",\"aliases\":[],\"exemplos\":[\"Sal. B. Jug. 85, 26\",\"Tac. Hist. 2, 59, 4\",\"Sen. Ep. 66, 5\"],\"notas\":\"Marcada tanto como adjetivo quanto como particípio perfeito passivo (morph_extra).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_5826-e1",
@@ -1166,28 +1012,6 @@
     "raw_json": "{\"id\":\"chunk_5840:5840:0\",\"lemas\":[\"compressio\"],\"lema_canonico\":\"compressio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"aperto, compressão; abraço sexual, cópula; compressão/abreviação de expressão (sentidos atestados).\",\"aliases\":[],\"exemplos\":[\"Cic. M. 51\"],\"notas\":\"Inclui sentidos literal e figurado (LS/Whitaker).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_5841-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5841",
-    "page_num": 5841,
-    "lemmas": [
-      "comprimo",
-      "comprimo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "(de com + premo) comprimir, apertar; reprimir, conter; guardar, suprimir; usos variados em autores clássicos.",
-    "exemplos": [],
-    "notas": "Entrada duplicada (variações de exemplos); normalizada morfologia e formas do supino/particípio. | [dedupe] redirect → chunk_5838:5838:0 | [dedupe] redirect → chunk_5838:5838:0",
-    "raw_text": "{\"id\":\"chunk_5841:5841:0\",\"lemas\":[\"comprimo\",\"comprimō\"],\"lema_canonico\":\"comprimo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"(de com + premo) comprimir, apertar; reprimir, conter; guardar, suprimir; usos variados em autores clássicos.\",\"aliases\":[],\"exemplos\":[\"Cic. Acad. 2, 145\",\"Verg. Aen. 6, 388\",\"Ter. Phorm. 868\",\"Liv. 26, 41, 11\"],\"notas\":\"Entrada duplicada (variações de exemplos); normalizada morfologia e formas do supino/particípio.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5841:5841:0\",\"lemas\":[\"comprimo\",\"comprimō\"],\"lema_canonico\":\"comprimo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"(de com + premo) comprimir, apertar; reprimir, conter; guardar, suprimir; usos variados em autores clássicos.\",\"aliases\":[],\"exemplos\":[\"Cic. Acad. 2, 145\",\"Verg. Aen. 6, 388\",\"Ter. Phorm. 868\",\"Liv. 26, 41, 11\"],\"notas\":\"Entrada duplicada (variações de exemplos); normalizada morfologia e formas do supino/particípio.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_5842-e1",
     "volume_id": "faria",
     "doc_name": "chunk_5842",
@@ -1408,28 +1232,6 @@
     "raw_json": "{\"id\":\"chunk_5851:5851:0\",\"lemas\":[\"Compsanus\",\"Compsānus\",\"Compsanus, -um\"],\"lema_canonico\":\"Compsanus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo a Compsa (topónimo); atestado em Cicerão\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 5, 164\"],\"notas\":\"Whitaker não registra; conservado do first_pass e OCR; precisa verificação em fontes maiores.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_5852-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5852",
-    "page_num": 5852,
-    "lemmas": [
-      "comō",
-      "comō"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Pentejar, arrumar; adornar, embelezar; pôr em ordem.",
-    "exemplos": [],
-    "notas": "Entrada apresentada originalmente como forma perfeita 'compsi' (1ª sg. perf.); lemma regularizado para comō (Whitaker/Lat→Deu confirmam). | [dedupe] redirect → chunk_5741:5741:0 | [dedupe] redirect → chunk_5741:5741:0",
-    "raw_text": "{\"id\":\"chunk_5852:5852:0\",\"lemas\":[\"comō\"],\"lema_canonico\":\"comō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Pentejar, arrumar; adornar, embelezar; pôr em ordem.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada apresentada originalmente como forma perfeita 'compsi' (1ª sg. perf.); lemma regularizado para comō (Whitaker/Lat→Deu confirmam).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5852:5852:0\",\"lemas\":[\"comō\"],\"lema_canonico\":\"comō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Pentejar, arrumar; adornar, embelezar; pôr em ordem.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada apresentada originalmente como forma perfeita 'compsi' (1ª sg. perf.); lemma regularizado para comō (Whitaker/Lat→Deu confirmam).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_5853-e1",
     "volume_id": "faria",
     "doc_name": "chunk_5853",
@@ -1584,28 +1386,6 @@
     "raw_json": "{\"id\":\"chunk_5859:5859:0\",\"lemas\":[\"computus\"],\"lema_canonico\":\"computus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Cálculo; conta, computação (latim tardio). Também: conta bancária (sentido tardio).\",\"aliases\":[],\"exemplos\":[\"Firm. Math. 1, 12 fin.\",\"Auct. ap. Goes. Agrim. p. 236\"],\"notas\":\"Atestado por Lewis & Short (compŭtus) e Whitaker; corrige leitura como particípio de 'compingo'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_5860-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5860",
-    "page_num": 5860,
-    "lemmas": [
-      "compingo",
-      "compingo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Juntar, unir, compactar; ligar coisas entre si (com sense de 'zusammenfügen, verbinden').",
-    "exemplos": [],
-    "notas": "Preferida leitura do Lat→Deu (compingere, compingō, compēgī, compāctum) indicando sentido de unir/compactar; existir homonímia com entradas que significam 'pintar/ferir' em outras fontes. | [dedupe] redirect → chunk_5769:5769:0 | [dedupe] redirect → chunk_5769:5769:0",
-    "raw_text": "{\"id\":\"chunk_5860:5860:0\",\"lemas\":[\"compingo\"],\"lema_canonico\":\"compingo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"Juntar, unir, compactar; ligar coisas entre si (com sense de 'zusammenfügen, verbinden').\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Preferida leitura do Lat→Deu (compingere, compingō, compēgī, compāctum) indicando sentido de unir/compactar; existir homonímia com entradas que significam 'pintar/ferir' em outras fontes.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_5860:5860:0\",\"lemas\":[\"compingo\"],\"lema_canonico\":\"compingo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"Juntar, unir, compactar; ligar coisas entre si (com sense de 'zusammenfügen, verbinden').\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Preferida leitura do Lat→Deu (compingere, compingō, compēgī, compāctum) indicando sentido de unir/compactar; existir homonímia com entradas que significam 'pintar/ferir' em outras fontes.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_5861-e1",
     "volume_id": "faria",
     "doc_name": "chunk_5861",
@@ -1736,28 +1516,6 @@
     "notas": "Integra verbo computō (v. 1ª) e reconhece substantivo relacionado computus separadamente.",
     "raw_text": "{\"id\":\"chunk_5866:5866:0\",\"lemas\":[\"computō\",\"computo\",\"cōmputo\"],\"lema_canonico\":\"computō\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"tr.\",\"intr.\"],\"definicao\":\"calcular, contar; levar em conta, acrescentar; também: fazer a conta (intr.)\",\"aliases\":[],\"exemplos\":[\"Juv. 10, 245\",\"Plin. H. N. 9, 118\",\"Cic. Phil. 2, 94\"],\"notas\":\"Integra verbo computō (v. 1ª) e reconhece substantivo relacionado computus separadamente.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_5866:5866:0\",\"lemas\":[\"computō\",\"computo\",\"cōmputo\"],\"lema_canonico\":\"computō\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"tr.\",\"intr.\"],\"definicao\":\"calcular, contar; levar em conta, acrescentar; também: fazer a conta (intr.)\",\"aliases\":[],\"exemplos\":[\"Juv. 10, 245\",\"Plin. H. N. 9, 118\",\"Cic. Phil. 2, 94\"],\"notas\":\"Integra verbo computō (v. 1ª) e reconhece substantivo relacionado computus separadamente.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_5867-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5867",
-    "page_num": 5867,
-    "lemmas": [
-      "computesco",
-      "computesco"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Apodrecer completamente; decompor-se (pela podridão).",
-    "exemplos": [],
-    "notas": "Forma perfeita atestada irregularmente em algumas fontes como 'putuī' — mantida na nota de edição. OCR ajudou a restaurar macron.  | [dedupe] redirect → chunk_5868:5868:0 | [ocr_fix 2025-08-17T18:32:11Z] match direto em Gaffiot por lemma/lemma_norm | lemma_in='computescō' → 'computesco' | [dedupe] redirect → chunk_5868:5868:0 | [ocr_fix 2025-08-17T19:56:54Z] match direto em Gaffiot por lemma/lemma_norm | lemma_in='computesco' → 'computesco'",
-    "raw_text": "{\"id\":\"chunk_5867:5867:0\",\"lemas\":[\"computescō\",\"computesco\",\"computescere\"],\"lema_canonico\":\"computescō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Apodrecer completamente; decompor-se (pela podridão).\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 32, 67\",\"Lucr. 3, 343\"],\"notas\":\"Forma perfeita atestada irregularmente em algumas fontes como 'putuī' — mantida na nota de edição. OCR ajudou a restaurar macron. \",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}",
-    "raw_json": "{\"id\":\"chunk_5867:5867:0\",\"lemas\":[\"computescō\",\"computesco\",\"computescere\"],\"lema_canonico\":\"computescō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Apodrecer completamente; decompor-se (pela podridão).\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 32, 67\",\"Lucr. 3, 343\"],\"notas\":\"Forma perfeita atestada irregularmente em algumas fontes como 'putuī' — mantida na nota de edição. OCR ajudou a restaurar macron. \",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}"
   },
   {
     "id": "chunk_5868-e1",
@@ -2046,28 +1804,6 @@
     "raw_json": "{\"id\":\"chunk_5879:5879:1\",\"lemas\":[\"concalefactum\",\"concalefactus\"],\"lema_canonico\":\"concalefactum\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo (ou forma supina) do verbo concalefacere: aquecido repetidamente, aquecer outra vez.\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 2, 316\"],\"notas\":\"Tratado como forma participial vinculada a concalefactio; morfologia do verbo alinhada ao composto -facere (3ª).\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_5880-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5880",
-    "page_num": 5880,
-    "lemmas": [
-      "concalefacturus",
-      "concalefacturus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "particípio futuro ativo de concalefaciō: que há de aquecer, apto a aquecer (usado adjectivalmente)",
-    "exemplos": [],
-    "notas": "Forma de particípio futuro; morfologia de particípio futuro não está explícita no vocabulário solicitado — usada a classe adjetival mais próxima. | [dedupe] redirect → chunk_5885:5885:0 | [dedupe] redirect → chunk_5885:5885:0",
-    "raw_text": "{\"id\":\"chunk_5880:5880:0\",\"lemas\":[\"concalefactūrus\",\"concalefacturus\"],\"lema_canonico\":\"concalefacturus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"particípio futuro ativo de concalefaciō: que há de aquecer, apto a aquecer (usado adjectivalmente)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma de particípio futuro; morfologia de particípio futuro não está explícita no vocabulário solicitado — usada a classe adjetival mais próxima.\",\"flags\":[\"src_whitaker\",\"conf:med\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_5880:5880:0\",\"lemas\":[\"concalefactūrus\",\"concalefacturus\"],\"lema_canonico\":\"concalefacturus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"particípio futuro ativo de concalefaciō: que há de aquecer, apto a aquecer (usado adjectivalmente)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma de particípio futuro; morfologia de particípio futuro não está explícita no vocabulário solicitado — usada a classe adjetival mais próxima.\",\"flags\":[\"src_whitaker\",\"conf:med\",\"morph_out_of_vocab\"]}"
-  },
-  {
     "id": "chunk_5881-e1",
     "volume_id": "faria",
     "doc_name": "chunk_5881",
@@ -2088,28 +1824,6 @@
     "notas": "Grafia alinhada com Lewis & Short; classificado como adjetivo (particípio) da 1ª/2ª declinação.",
     "raw_text": "{\"id\":\"chunk_5881:5881:0\",\"lemas\":[\"concalefactus\",\"concălĕfactus\"],\"lema_canonico\":\"concalefactus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de concalefaciō: aquecido, aquecido por ação (usado adjectivalmente ou como forma verbal passiva)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Grafia alinhada com Lewis & Short; classificado como adjetivo (particípio) da 1ª/2ª declinação.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_5881:5881:0\",\"lemas\":[\"concalefactus\",\"concălĕfactus\"],\"lema_canonico\":\"concalefactus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de concalefaciō: aquecido, aquecido por ação (usado adjectivalmente ou como forma verbal passiva)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Grafia alinhada com Lewis & Short; classificado como adjetivo (particípio) da 1ª/2ª declinação.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_5882-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5882",
-    "page_num": 5882,
-    "lemmas": [
-      "con-călĕfăcĭo",
-      "con-călĕfăcĭo"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "facio-derivative of concaleo: to make thoroughly warm, heat completely",
-    "exemplos": [],
-    "notas": "Perfect form concalefeci attested; lemma normalized to concalefacio (LS remits concălĕfīo to this verb). | [dedupe] redirect → chunk_5884:5884:1 | [dedupe] redirect → chunk_5884:5884:1 | [ocr_fix 2025-08-17T19:46:27Z] match direto em LS por lemma/lemma_norm | lemma_in='concalefacio' → 'con-călĕfăcĭo'",
-    "raw_text": "{\"id\":\"chunk_5882:5882:0\",\"lemas\":[\"concalefacio\"],\"lema_canonico\":\"concalefacio\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"facio-derivative of concaleo: to make thoroughly warm, heat completely\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Perfect form concalefeci attested; lemma normalized to concalefacio (LS remits concălĕfīo to this verb).\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_5882:5882:0\",\"lemas\":[\"concalefacio\"],\"lema_canonico\":\"concalefacio\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"facio-derivative of concaleo: to make thoroughly warm, heat completely\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Perfect form concalefeci attested; lemma normalized to concalefacio (LS remits concălĕfīo to this verb).\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
     "id": "chunk_5883-e1",
@@ -2198,28 +1912,6 @@
     "notas": "Normalizada forma sem macron; ligada ao verbo concalefacio.",
     "raw_text": "{\"id\":\"chunk_5885:5885:0\",\"lemas\":[\"concalefacturus\"],\"lema_canonico\":\"concalefacturus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Part. fut. adj. de concalefacio: que aquece, apto a aquecer\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 21, 141\"],\"notas\":\"Normalizada forma sem macron; ligada ao verbo concalefacio.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_5885:5885:0\",\"lemas\":[\"concalefacturus\"],\"lema_canonico\":\"concalefacturus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Part. fut. adj. de concalefacio: que aquece, apto a aquecer\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 21, 141\"],\"notas\":\"Normalizada forma sem macron; ligada ao verbo concalefacio.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_5885-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_5885",
-    "page_num": 5885,
-    "lemmas": [
-      "concalesco",
-      "concalesco"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "concalesco: tornar-se quente/aquecer; concalefio: forma relacionada (semideponente) vinculada a concalefacio",
-    "exemplos": [],
-    "notas": "Unificadas leituras; marcados intr. para concalesco e dep. para concalefio (semideponente). | [dedupe] redirect → chunk_5884:5884:0 | [dedupe] redirect → chunk_5884:5884:0",
-    "raw_text": "{\"id\":\"chunk_5885:5885:1\",\"lemas\":[\"concalesco\",\"concalefio\"],\"lema_canonico\":\"concalesco\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"intr.\",\"dep.\"],\"definicao\":\"concalesco: tornar-se quente/aquecer; concalefio: forma relacionada (semideponente) vinculada a concalefacio\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 3, 25\",\"Cic. Att. 4, 18, 2\"],\"notas\":\"Unificadas leituras; marcados intr. para concalesco e dep. para concalefio (semideponente).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5885:5885:1\",\"lemas\":[\"concalesco\",\"concalefio\"],\"lema_canonico\":\"concalesco\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"intr.\",\"dep.\"],\"definicao\":\"concalesco: tornar-se quente/aquecer; concalefio: forma relacionada (semideponente) vinculada a concalefacio\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 3, 25\",\"Cic. Att. 4, 18, 2\"],\"notas\":\"Unificadas leituras; marcados intr. para concalesco e dep. para concalefio (semideponente).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_5886-e1",
@@ -2552,28 +2244,6 @@
     "raw_json": "{\"id\":\"chunk_5900:5900:0\",\"lemas\":[\"concentus\"],\"lema_canonico\":\"concentus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"Conjunto de sons harmoniosos; concerto, harmonia; por extensão, aplauso, união ou concordância.\",\"aliases\":[],\"exemplos\":[\"Verg. G. 1, 422\",\"Plin. Pan. 2, 6\",\"Hor. Ep. 1, 14, 31\"],\"notas\":\"Forma e acepções padronizadas com base em Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_5901-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5901",
-    "page_num": 5901,
-    "lemmas": [
-      "concipio",
-      "concipio"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "(vocábulo citado na forma perfeita 'concepi') Verbo concipiō, concipere: receber, conceber, formar, entender, proferir; 'concepi' = eu concebi/entendi/proferi.",
-    "exemplos": [],
-    "notas": "Corrigido o lema da forma perfeita 'concepi' para o infinitivo concipiō; significado baseado em Whitaker e LS. | [dedupe] redirect → chunk_5950:5950:0 | [dedupe] redirect → chunk_5950:5950:0",
-    "raw_text": "{\"id\":\"chunk_5901:5901:0\",\"lemas\":[\"concipio\"],\"lema_canonico\":\"concipio\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"perf. 1sg\"],\"definicao\":\"(vocábulo citado na forma perfeita 'concepi') Verbo concipiō, concipere: receber, conceber, formar, entender, proferir; 'concepi' = eu concebi/entendi/proferi.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigido o lema da forma perfeita 'concepi' para o infinitivo concipiō; significado baseado em Whitaker e LS.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5901:5901:0\",\"lemas\":[\"concipio\"],\"lema_canonico\":\"concipio\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"perf. 1sg\"],\"definicao\":\"(vocábulo citado na forma perfeita 'concepi') Verbo concipiō, concipere: receber, conceber, formar, entender, proferir; 'concepi' = eu concebi/entendi/proferi.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigido o lema da forma perfeita 'concepi' para o infinitivo concipiō; significado baseado em Whitaker e LS.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_5902-e1",
     "volume_id": "faria",
     "doc_name": "chunk_5902",
@@ -2684,28 +2354,6 @@
     "raw_json": "{\"id\":\"chunk_5906:5906:0\",\"lemas\":[\"concerpo\",\"concerpere\",\"concerpsi\",\"concerptus\"],\"lema_canonico\":\"concerpo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"rasgar, dilacerar; figurado: censurar, criticar severamente\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 10, 12, 33\",\"Cic. Fam. 8, 6, 5\"],\"notas\":\"Unificado com Lat→Deu e Whitaker (concerpere/concerptus); forma e sentidos confirmados.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_5907-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5907",
-    "page_num": 5907,
-    "lemmas": [
-      "concrepo",
-      "concrepo"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Forma perfeita de concrepo (concrepāre): 'remeu; fez ruído, estalou, tilintou' (perf. indic. act. 1ª sg.).",
-    "exemplos": [],
-    "notas": "Forma perfeita concrepui confirmada por Whitaker/Lat→Deu; verbo listado como concrepāre (1ª conj.). | [dedupe] redirect → chunk_5998:5998:0 | [dedupe] redirect → chunk_5998:5998:0",
-    "raw_text": "{\"id\":\"chunk_5907:5907:0\",\"lemas\":[\"concrepui\"],\"lema_canonico\":\"concrepo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"perf. 1ª sg. ind. act.\"],\"definicao\":\"Forma perfeita de concrepo (concrepāre): 'remeu; fez ruído, estalou, tilintou' (perf. indic. act. 1ª sg.).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma perfeita concrepui confirmada por Whitaker/Lat→Deu; verbo listado como concrepāre (1ª conj.).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5907:5907:0\",\"lemas\":[\"concrepui\"],\"lema_canonico\":\"concrepo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"perf. 1ª sg. ind. act.\"],\"definicao\":\"Forma perfeita de concrepo (concrepāre): 'remeu; fez ruído, estalou, tilintou' (perf. indic. act. 1ª sg.).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma perfeita concrepui confirmada por Whitaker/Lat→Deu; verbo listado como concrepāre (1ª conj.).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_5908-e1",
     "volume_id": "faria",
     "doc_name": "chunk_5908",
@@ -2770,28 +2418,6 @@
     "notas": "Entrada atestada na passagem indicada do original (OCR); Whitaker não devolveu registro claro — necessita revisão lexicográfica adicional.",
     "raw_text": "{\"id\":\"chunk_5910:5910:0\",\"lemas\":[\"concretātor\",\"concretator\"],\"lema_canonico\":\"concretātor\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Substantivo: 'rival' (atestado em Tacitus, Annales).\",\"aliases\":[],\"exemplos\":[\"Tac. Ann. 14, 29\"],\"notas\":\"Entrada atestada na passagem indicada do original (OCR); Whitaker não devolveu registro claro — necessita revisão lexicográfica adicional.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_5910:5910:0\",\"lemas\":[\"concretātor\",\"concretator\"],\"lema_canonico\":\"concretātor\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Substantivo: 'rival' (atestado em Tacitus, Annales).\",\"aliases\":[],\"exemplos\":[\"Tac. Ann. 14, 29\"],\"notas\":\"Entrada atestada na passagem indicada do original (OCR); Whitaker não devolveu registro claro — necessita revisão lexicográfica adicional.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_5911-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5911",
-    "page_num": 5911,
-    "lemmas": [
-      "con",
-      "con"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "elemento prefical (com-, con-) usado para indicar companhia, intensidade ou completude; forma proclítica comum antes de consonantes.",
-    "exemplos": [],
-    "notas": "Mantido como lema não-declinável; 'prefixo' não cabe no vocabulário morfológico exigido. | [dedupe] redirect → chunk_5947:5947:1 | [dedupe] redirect → chunk_5947:5947:1 | [ocr_fix 2025-08-17T19:46:30Z] match direto em LS por lemma/lemma_norm | lemma_in='con' → 'con'",
-    "raw_text": "{\"id\":\"chunk_5911:5911:0\",\"lemas\":[\"con\"],\"lema_canonico\":\"con\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"elemento prefical (com-, con-) usado para indicar companhia, intensidade ou completude; forma proclítica comum antes de consonantes.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Mantido como lema não-declinável; 'prefixo' não cabe no vocabulário morfológico exigido.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:med\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_5911:5911:0\",\"lemas\":[\"con\"],\"lema_canonico\":\"con\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"elemento prefical (com-, con-) usado para indicar companhia, intensidade ou completude; forma proclítica comum antes de consonantes.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Mantido como lema não-declinável; 'prefixo' não cabe no vocabulário morfológico exigido.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:med\",\"morph_out_of_vocab\"]}"
   },
   {
     "id": "chunk_5911-e2",
@@ -2882,28 +2508,6 @@
     "raw_json": "{\"id\":\"chunk_5913:5913:0\",\"lemas\":[\"concerto\",\"concertare\"],\"lema_canonico\":\"concerto\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"entrar em conflito, combater; figurado: disputar, debater\",\"aliases\":[],\"exemplos\":[\"Caes. B. Gall. 6, 55, 1\",\"Cic. Att. 13, 12, 2\"],\"notas\":\"Verificado com Whitaker; morfologia ajustada para 1ª conjugação e uso intransitivo/figur.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_5914-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5914",
-    "page_num": 5914,
-    "lemmas": [
-      "concedo",
-      "concedo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Conceder, permitir, ceder, dar lugar; (perf. cong.) concessi = 'concedi'.",
-    "exemplos": [],
-    "notas": "Forma destacada 'concessi' interpretada como perfeito de concedo; lemma normalizado para concedo. | [dedupe] redirect → chunk_5895:5895:0 | [dedupe] redirect → chunk_5895:5895:0",
-    "raw_text": "{\"id\":\"chunk_5914:5914:0\",\"lemas\":[\"concedo\"],\"lema_canonico\":\"concedo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"perf. 1sg\"],\"definicao\":\"Conceder, permitir, ceder, dar lugar; (perf. cong.) concessi = 'concedi'.\",\"aliases\":[\"concessi\"],\"exemplos\":[],\"notas\":\"Forma destacada 'concessi' interpretada como perfeito de concedo; lemma normalizado para concedo.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"src_firstpass\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5914:5914:0\",\"lemas\":[\"concedo\"],\"lema_canonico\":\"concedo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"perf. 1sg\"],\"definicao\":\"Conceder, permitir, ceder, dar lugar; (perf. cong.) concessi = 'concedi'.\",\"aliases\":[\"concessi\"],\"exemplos\":[],\"notas\":\"Forma destacada 'concessi' interpretada como perfeito de concedo; lemma normalizado para concedo.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"src_firstpass\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_5915-e1",
     "volume_id": "faria",
     "doc_name": "chunk_5915",
@@ -2968,50 +2572,6 @@
     "notas": "Reconciliado como forma dupla (particípio e substantivo) conforme LS/Whitaker; morfologia principal indicada como substantivo do 4.º notando o particípio em morph_extra",
     "raw_text": "{\"id\":\"chunk_5917:5917:0\",\"lemas\":[\"concessus\"],\"lema_canonico\":\"concessus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"1) Particípio perfeito passivo de concedo: concedido, permitido. 2) Substantivo (4ª decl.): concessão, permissão, licença; uso notável em abl. sing. em autores\",\"aliases\":[],\"exemplos\":[\"Caes. B. G. 7, 20\",\"Cic. Cael. 12, 28\",\"Cic. Fam. 4, 6, 3\",\"Tac. Ann. 12, 44\"],\"notas\":\"Reconciliado como forma dupla (particípio e substantivo) conforme LS/Whitaker; morfologia principal indicada como substantivo do 4.º notando o particípio em morph_extra\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_5917:5917:0\",\"lemas\":[\"concessus\"],\"lema_canonico\":\"concessus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"1) Particípio perfeito passivo de concedo: concedido, permitido. 2) Substantivo (4ª decl.): concessão, permissão, licença; uso notável em abl. sing. em autores\",\"aliases\":[],\"exemplos\":[\"Caes. B. G. 7, 20\",\"Cic. Cael. 12, 28\",\"Cic. Fam. 4, 6, 3\",\"Tac. Ann. 12, 44\"],\"notas\":\"Reconciliado como forma dupla (particípio e substantivo) conforme LS/Whitaker; morfologia principal indicada como substantivo do 4.º notando o particípio em morph_extra\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_5918-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5918",
-    "page_num": 5918,
-    "lemmas": [
-      "concessio",
-      "concessio"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "permissão, concessão; ato de conceder; também: figura de concessão em retórica.",
-    "exemplos": [],
-    "notas": "Restaurado lema correto (não 'conceditio'); genitivo -onis confirmado por LS. | [dedupe] redirect → chunk_5915:5915:0 | [dedupe] redirect → chunk_5915:5915:0",
-    "raw_text": "{\"id\":\"chunk_5918:5918:0\",\"lemas\":[\"concessio\"],\"lema_canonico\":\"concessio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"permissão, concessão; ato de conceder; também: figura de concessão em retórica.\",\"aliases\":[],\"exemplos\":[\"Cic. Agr. 3, 3, 11\",\"Cic. Verr. 3, 195\"],\"notas\":\"Restaurado lema correto (não 'conceditio'); genitivo -onis confirmado por LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"src_ocr\"]}",
-    "raw_json": "{\"id\":\"chunk_5918:5918:0\",\"lemas\":[\"concessio\"],\"lema_canonico\":\"concessio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"permissão, concessão; ato de conceder; também: figura de concessão em retórica.\",\"aliases\":[],\"exemplos\":[\"Cic. Agr. 3, 3, 11\",\"Cic. Verr. 3, 195\"],\"notas\":\"Restaurado lema correto (não 'conceditio'); genitivo -onis confirmado por LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"src_ocr\"]}"
-  },
-  {
-    "id": "chunk_5919-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5919",
-    "page_num": 5919,
-    "lemmas": [
-      "concessus",
-      "concessus"
-    ],
-    "morfologia": "s. masc. 4ª (-us)",
-    "morph_render": "s. masc. 4ª (-us)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Concessão, consentimento, permissão; às vezes usado sobretudo no ablativo.",
-    "exemplos": [],
-    "notas": "Substantivo da 4.ª declinação, correlacionado ao particípio do verbo concedo. | [dedupe] redirect → chunk_5917:5917:0 | [dedupe] redirect → chunk_5917:5917:0",
-    "raw_text": "{\"id\":\"chunk_5919:5919:0\",\"lemas\":[\"concessus\"],\"lema_canonico\":\"concessus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"Concessão, consentimento, permissão; às vezes usado sobretudo no ablativo.\",\"aliases\":[],\"exemplos\":[\"Cic. Rep. 1, 50\"],\"notas\":\"Substantivo da 4.ª declinação, correlacionado ao particípio do verbo concedo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5919:5919:0\",\"lemas\":[\"concessus\"],\"lema_canonico\":\"concessus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"Concessão, consentimento, permissão; às vezes usado sobretudo no ablativo.\",\"aliases\":[],\"exemplos\":[\"Cic. Rep. 1, 50\"],\"notas\":\"Substantivo da 4.ª declinação, correlacionado ao particípio do verbo concedo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_5920-e1",
@@ -3166,50 +2726,6 @@
     "notas": "Corrige leitura OCR 'conchylius' → adjectivum conchyliatus/-atum; atestado em Whitaker e Lat→Deu.",
     "raw_text": "{\"id\":\"chunk_5926:5926:0\",\"lemas\":[\"conchyliatus\",\"conchyliatum\"],\"lema_canonico\":\"conchyliatus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"tingido de púrpura; vestido de púrpura; (também: pessoa vestida de púrpura, uso substantivado).\",\"aliases\":[],\"exemplos\":[\"Cic. Phil. 2, 67\"],\"notas\":\"Corrige leitura OCR 'conchylius' → adjectivum conchyliatus/-atum; atestado em Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_5926:5926:0\",\"lemas\":[\"conchyliatus\",\"conchyliatum\"],\"lema_canonico\":\"conchyliatus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"tingido de púrpura; vestido de púrpura; (também: pessoa vestida de púrpura, uso substantivado).\",\"aliases\":[],\"exemplos\":[\"Cic. Phil. 2, 67\"],\"notas\":\"Corrige leitura OCR 'conchylius' → adjectivum conchyliatus/-atum; atestado em Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_5927-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5927",
-    "page_num": 5927,
-    "lemmas": [
-      "conchylium",
-      "conchylium"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "molusco bivalve; concha de que se extrai a púrpura; por extensão, púrpura/tinta púrpura",
-    "exemplos": [],
-    "notas": "Normalizado conforme LS/Whitaker (conchȳlĭum); mantidas referências atestadas | [dedupe] redirect → chunk_5924:5924:0 | [dedupe] redirect → chunk_5924:5924:0",
-    "raw_text": "{\"id\":\"chunk_5927:5927:0\",\"lemas\":[\"conchylium\",\"conchylĭum\"],\"lema_canonico\":\"conchylium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"molusco bivalve; concha de que se extrai a púrpura; por extensão, púrpura/tinta púrpura\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 2, 33, 24\",\"Lucr. 6, 1074\",\"Cic. Verr. 4, 59\"],\"notas\":\"Normalizado conforme LS/Whitaker (conchȳlĭum); mantidas referências atestadas\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5927:5927:0\",\"lemas\":[\"conchylium\",\"conchylĭum\"],\"lema_canonico\":\"conchylium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"molusco bivalve; concha de que se extrai a púrpura; por extensão, púrpura/tinta púrpura\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 2, 33, 24\",\"Lucr. 6, 1074\",\"Cic. Verr. 4, 59\"],\"notas\":\"Normalizado conforme LS/Whitaker (conchȳlĭum); mantidas referências atestadas\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_5928-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5928",
-    "page_num": 5928,
-    "lemmas": [
-      "concido",
-      "concido"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "concido, concidere, concidi: (tr.) cortar, reduzir em pedaços; arruinar, destruir; (intr.) cair, desabar, sucumbir; perder o ânimo, falhar.",
-    "exemplos": [],
-    "notas": "Entrada original registrava a forma perfeita 'concidi'; lema normalizado para concidō (3ª conj.). | [dedupe] redirect → chunk_5929:5929:0 | [dedupe] redirect → chunk_5929:5929:0",
-    "raw_text": "{\"id\":\"chunk_5928:5928:0\",\"lemas\":[\"concido\",\"concidi\"],\"lema_canonico\":\"concido\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"concido, concidere, concidi: (tr.) cortar, reduzir em pedaços; arruinar, destruir; (intr.) cair, desabar, sucumbir; perder o ânimo, falhar.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada original registrava a forma perfeita 'concidi'; lema normalizado para concidō (3ª conj.).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5928:5928:0\",\"lemas\":[\"concido\",\"concidi\"],\"lema_canonico\":\"concido\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"concido, concidere, concidi: (tr.) cortar, reduzir em pedaços; arruinar, destruir; (intr.) cair, desabar, sucumbir; perder o ânimo, falhar.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada original registrava a forma perfeita 'concidi'; lema normalizado para concidō (3ª conj.).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_5929-e1",
@@ -3454,50 +2970,6 @@
     "raw_json": "{\"id\":\"chunk_5937:5937:0\",\"lemas\":[\"conciliatus\"],\"lema_canonico\":\"conciliatus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"(1) substantivo 4ª decl. = união, conexão (especialmente em Lucrécio, uso raro); (2) particípio/adjetivo de conciliō: inclinado, conciliado, favorável, devotado.\",\"aliases\":[],\"exemplos\":[\"Lucr. 1, 576\",\"Lucr. 2, 100\",\"Lucr. 2, 133\",\"Lucr. 2, 936\"],\"notas\":\"Dupla natureza atestada (substantivo 4ª decl. em Lucrécio; particípio/adjetivo derivado de conciliō). Optei por morfologia do substantivo 4ª e assinalei o marcador participial.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_5938-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5938",
-    "page_num": 5938,
-    "lemmas": [
-      "conciliatus",
-      "conciliatus"
-    ],
-    "morfologia": "s. masc. 4ª (-us)",
-    "morph_render": "s. masc. 4ª (-us)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "1) (substantivo, raro) união, conexão (atestado em Lucr.) 2) (adjetivo) bem disposto, favorável, inclinado",
-    "exemplos": [],
-    "notas": "Agrupei acepções substantiva (4ª) e adjetiva: lema segundo LS/Whitaker; forma substantival evidenciada em Lucrécio | [dedupe] redirect → chunk_5937:5937:0 | [dedupe] redirect → chunk_5937:5937:0",
-    "raw_text": "{\"id\":\"chunk_5938:5938:0\",\"lemas\":[\"conciliatus\",\"concilĭātus\"],\"lema_canonico\":\"conciliatus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"1) (substantivo, raro) união, conexão (atestado em Lucr.) 2) (adjetivo) bem disposto, favorável, inclinado\",\"aliases\":[],\"exemplos\":[\"Lucr. 1, 576\",\"Lucr. 2, 100\",\"Lucr. 2, 133\",\"Lucr. 2, 936\",\"Quint. 4, 1, 41\"],\"notas\":\"Agrupei acepções substantiva (4ª) e adjetiva: lema segundo LS/Whitaker; forma substantival evidenciada em Lucrécio\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5938:5938:0\",\"lemas\":[\"conciliatus\",\"concilĭātus\"],\"lema_canonico\":\"conciliatus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"1) (substantivo, raro) união, conexão (atestado em Lucr.) 2) (adjetivo) bem disposto, favorável, inclinado\",\"aliases\":[],\"exemplos\":[\"Lucr. 1, 576\",\"Lucr. 2, 100\",\"Lucr. 2, 133\",\"Lucr. 2, 936\",\"Quint. 4, 1, 41\"],\"notas\":\"Agrupei acepções substantiva (4ª) e adjetiva: lema segundo LS/Whitaker; forma substantival evidenciada em Lucrécio\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_5939-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5939",
-    "page_num": 5939,
-    "lemmas": [
-      "conciliatus",
-      "conciliatus"
-    ],
-    "morfologia": "s. masc. 4ª (-us)",
-    "morph_render": "s. masc. 4ª (-us)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "união, ligação (substantivo, 4ª declinação); atestado sobretudo em Lucrécio em formas isoladas (abl. sing.).",
-    "exemplos": [],
-    "notas": "Entrada reconciliada com Lewis & Short e Whitaker; forma atestada especialmente em Lucr. | [dedupe] redirect → chunk_5937:5937:0 | [dedupe] redirect → chunk_5937:5937:0",
-    "raw_text": "{\"id\":\"chunk_5939:5939:0\",\"lemas\":[\"conciliatus\",\"concĭlĭātus\"],\"lema_canonico\":\"conciliatus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"união, ligação (substantivo, 4ª declinação); atestado sobretudo em Lucrécio em formas isoladas (abl. sing.).\",\"aliases\":[],\"exemplos\":[\"Lucr. 1, 575\",\"Lucr. 1, 576\",\"Lucr. 2, 100\",\"Lucr. 2, 133\",\"Lucr. 2, 936\"],\"notas\":\"Entrada reconciliada com Lewis & Short e Whitaker; forma atestada especialmente em Lucr.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5939:5939:0\",\"lemas\":[\"conciliatus\",\"concĭlĭātus\"],\"lema_canonico\":\"conciliatus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"união, ligação (substantivo, 4ª declinação); atestado sobretudo em Lucrécio em formas isoladas (abl. sing.).\",\"aliases\":[],\"exemplos\":[\"Lucr. 1, 575\",\"Lucr. 1, 576\",\"Lucr. 2, 100\",\"Lucr. 2, 133\",\"Lucr. 2, 936\"],\"notas\":\"Entrada reconciliada com Lewis & Short e Whitaker; forma atestada especialmente em Lucr.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_5940-e1",
     "volume_id": "faria",
     "doc_name": "chunk_5940",
@@ -3718,28 +3190,6 @@
     "raw_json": "{\"id\":\"chunk_5947:5947:2\",\"lemas\":[\"cinis\",\"cineris\"],\"lema_canonico\":\"cinis\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"cinzas, brasas; por extensão, ruína, destruição; também sepultura/ossos cremados.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Lema e gênero confirmados por Lewis & Short e pelo resumo Lat→Deu; forma gen. 'cineris' indicada nas fontes.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_5948-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5948",
-    "page_num": 5948,
-    "lemmas": [
-      "concinō",
-      "concinō"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "cantar/juntar vozes; soar em concerto; estar em harmonia, concordar; também celebrar em canto, anunciar (p. ex. ave que prediz pelo canto).",
-    "exemplos": [],
-    "notas": "Verbo da 3ª conjugação; assinalados usos transitivos e intransitivos conforme fontes. | [dedupe] redirect → chunk_13691:13691:1 | [dedupe] redirect → chunk_13691:13691:1",
-    "raw_text": "{\"id\":\"chunk_5948:5948:0\",\"lemas\":[\"concinō\",\"concinere\"],\"lema_canonico\":\"concinō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"intr.\",\"tr.\"],\"definicao\":\"cantar/juntar vozes; soar em concerto; estar em harmonia, concordar; também celebrar em canto, anunciar (p. ex. ave que prediz pelo canto).\",\"aliases\":[],\"exemplos\":[\"Caes. B. Civ. 3, 92, 5\",\"Cic. Nat. 2, 19\",\"Catul. 61, 12\",\"Hor. O. 4, 2, 33\",\"Ov. Am. 3, 12, 2\"],\"notas\":\"Verbo da 3ª conjugação; assinalados usos transitivos e intransitivos conforme fontes.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5948:5948:0\",\"lemas\":[\"concinō\",\"concinere\"],\"lema_canonico\":\"concinō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"intr.\",\"tr.\"],\"definicao\":\"cantar/juntar vozes; soar em concerto; estar em harmonia, concordar; também celebrar em canto, anunciar (p. ex. ave que prediz pelo canto).\",\"aliases\":[],\"exemplos\":[\"Caes. B. Civ. 3, 92, 5\",\"Cic. Nat. 2, 19\",\"Catul. 61, 12\",\"Hor. O. 4, 2, 33\",\"Ov. Am. 3, 12, 2\"],\"notas\":\"Verbo da 3ª conjugação; assinalados usos transitivos e intransitivos conforme fontes.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_5949-e1",
     "volume_id": "faria",
     "doc_name": "chunk_5949",
@@ -3870,28 +3320,6 @@
     "notas": "Lema normalizado para forma lexical sem sinais diacríticos; genitivo concisionis (ōnis) confirmado.",
     "raw_text": "{\"id\":\"chunk_5953:5953:0\",\"lemas\":[\"concisio\"],\"lema_canonico\":\"concisio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"cortar em pedaços; destruição, mutilação; em retórica, divisão de uma sentença em cláusulas curtas (inciso).\",\"aliases\":[],\"exemplos\":[\"Vulg. Joel 3, 14\",\"Vulg. Phil. 3, 2\",\"Cic. Part. Or. 6, 19\"],\"notas\":\"Lema normalizado para forma lexical sem sinais diacríticos; genitivo concisionis (ōnis) confirmado.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_5953:5953:0\",\"lemas\":[\"concisio\"],\"lema_canonico\":\"concisio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"cortar em pedaços; destruição, mutilação; em retórica, divisão de uma sentença em cláusulas curtas (inciso).\",\"aliases\":[],\"exemplos\":[\"Vulg. Joel 3, 14\",\"Vulg. Phil. 3, 2\",\"Cic. Part. Or. 6, 19\"],\"notas\":\"Lema normalizado para forma lexical sem sinais diacríticos; genitivo concisionis (ōnis) confirmado.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_5954-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5954",
-    "page_num": 5954,
-    "lemmas": [
-      "concisus",
-      "concisus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Adjetivo/particípio: cortado, dividido; breve, conciso.",
-    "exemplos": [],
-    "notas": "Registro como adjetivo e particípio perfeito passivo, conforme LS e Whitaker. | [dedupe] redirect → chunk_5955:5955:0 | [dedupe] redirect → chunk_5955:5955:0",
-    "raw_text": "{\"id\":\"chunk_5954:5954:0\",\"lemas\":[\"concisus\",\"concīsus\"],\"lema_canonico\":\"concisus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Adjetivo/particípio: cortado, dividido; breve, conciso.\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 34, 63\",\"Sen. Ep. 100, 6\"],\"notas\":\"Registro como adjetivo e particípio perfeito passivo, conforme LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5954:5954:0\",\"lemas\":[\"concisus\",\"concīsus\"],\"lema_canonico\":\"concisus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Adjetivo/particípio: cortado, dividido; breve, conciso.\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 34, 63\",\"Sen. Ep. 100, 6\"],\"notas\":\"Registro como adjetivo e particípio perfeito passivo, conforme LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_5955-e1",
@@ -4068,28 +3496,6 @@
     "notas": "Forma nominativa regularizada como 'concitor'; referências alinhadas com LS e Whitaker.",
     "raw_text": "{\"id\":\"chunk_5962:5962:0\",\"lemas\":[\"concitor\"],\"lema_canonico\":\"concitor\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"aquele que incita ou excita; instigador, agitador\",\"aliases\":[],\"exemplos\":[\"Liv. 23, 41, 1\",\"Liv. 29, 3, 3\",\"Liv. 37, 45, 17\",\"Liv. 45, 10, 11\",\"Tac. A. 4, 28\",\"Tac. H. 1, 68\",\"Tac. H. 4, 56\",\"Just. 2, 9, 21\"],\"notas\":\"Forma nominativa regularizada como 'concitor'; referências alinhadas com LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_5962:5962:0\",\"lemas\":[\"concitor\"],\"lema_canonico\":\"concitor\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"aquele que incita ou excita; instigador, agitador\",\"aliases\":[],\"exemplos\":[\"Liv. 23, 41, 1\",\"Liv. 29, 3, 3\",\"Liv. 37, 45, 17\",\"Liv. 45, 10, 11\",\"Tac. A. 4, 28\",\"Tac. H. 1, 68\",\"Tac. H. 4, 56\",\"Just. 2, 9, 21\"],\"notas\":\"Forma nominativa regularizada como 'concitor'; referências alinhadas com LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_5963-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5963",
-    "page_num": 5963,
-    "lemmas": [
-      "concitatus",
-      "concitatus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "particípio perfeito passivo de concito; como adjetivo: impetuoso, apresado; excitado, veemente",
-    "exemplos": [],
-    "notas": "Unifica sentido de particípio e adjetivo; confirmado macron e usos por LS e Whitaker. | [dedupe] redirect → chunk_5960:5960:0 | [dedupe] redirect → chunk_5960:5960:0",
-    "raw_text": "{\"id\":\"chunk_5963:5963:0\",\"lemas\":[\"concitatus\"],\"lema_canonico\":\"concitatus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de concito; como adjetivo: impetuoso, apresado; excitado, veemente\",\"aliases\":[],\"exemplos\":[\"Verg. Aen. 12, 331\",\"Verg. Aen. 11, 889\"],\"notas\":\"Unifica sentido de particípio e adjetivo; confirmado macron e usos por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5963:5963:0\",\"lemas\":[\"concitatus\"],\"lema_canonico\":\"concitatus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de concito; como adjetivo: impetuoso, apresado; excitado, veemente\",\"aliases\":[],\"exemplos\":[\"Verg. Aen. 12, 331\",\"Verg. Aen. 11, 889\"],\"notas\":\"Unifica sentido de particípio e adjetivo; confirmado macron e usos por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_5964-e1",
@@ -4354,28 +3760,6 @@
     "notas": "Normalizada grafia sem diacríticos; confirmada por Lewis & Short e Whitaker. | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='conclusiuncula' → 'conclūsĭuncŭla'",
     "raw_text": "{\"id\":\"chunk_5975:5975:0\",\"lemas\":[\"conclusiuncula\"],\"lema_canonico\":\"conclusiuncula\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Pequena conclusão ou argumento capcioso; sofisma; ‘conclusiuncula’ usado por Cícero para indicar conclusão insignificante.\",\"aliases\":[],\"exemplos\":[\"Cic. Acad. 2, 24, 75\",\"Cic. Tusc. 2, 18, 42\"],\"notas\":\"Normalizada grafia sem diacríticos; confirmada por Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_5975:5975:0\",\"lemas\":[\"conclusiuncula\"],\"lema_canonico\":\"conclusiuncula\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Pequena conclusão ou argumento capcioso; sofisma; ‘conclusiuncula’ usado por Cícero para indicar conclusão insignificante.\",\"aliases\":[],\"exemplos\":[\"Cic. Acad. 2, 24, 75\",\"Cic. Tusc. 2, 18, 42\"],\"notas\":\"Normalizada grafia sem diacríticos; confirmada por Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_5976-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5976",
-    "page_num": 5976,
-    "lemmas": [
-      "conclusus",
-      "conclusus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Particípio perfeito passivo de concludo; encerrado, fechado, confinado; usado também como adjetivo/substantivo (ato de encerrar).",
-    "exemplos": [],
-    "notas": "Formas e uso confirmados em Lewis & Short e Whitaker; marcado como particípio perfeito passivo. | [dedupe] redirect → chunk_5969:5969:0 | [dedupe] redirect → chunk_5969:5969:0",
-    "raw_text": "{\"id\":\"chunk_5976:5976:0\",\"lemas\":[\"conclusus\",\"conclūsus\"],\"lema_canonico\":\"conclusus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo de concludo; encerrado, fechado, confinado; usado também como adjetivo/substantivo (ato de encerrar).\",\"aliases\":[],\"exemplos\":[\"Cael. Aur. Tard. 1, 4, 77\"],\"notas\":\"Formas e uso confirmados em Lewis & Short e Whitaker; marcado como particípio perfeito passivo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5976:5976:0\",\"lemas\":[\"conclusus\",\"conclūsus\"],\"lema_canonico\":\"conclusus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo de concludo; encerrado, fechado, confinado; usado também como adjetivo/substantivo (ato de encerrar).\",\"aliases\":[],\"exemplos\":[\"Cael. Aur. Tard. 1, 4, 77\"],\"notas\":\"Formas e uso confirmados em Lewis & Short e Whitaker; marcado como particípio perfeito passivo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_5977-e1",
@@ -4664,28 +4048,6 @@
     "raw_json": "{\"id\":\"chunk_5989:5989:0\",\"lemas\":[\"concors\"],\"lema_canonico\":\"concors\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[],\"definicao\":\"concorde, unido de ânimo; harmonioso, concordante\",\"aliases\":[],\"exemplos\":[\"Cic. Lig. 5\",\"Verg. En. 3, 542\"],\"notas\":\"Genitivo concordis; sentido e flexão confirmados por Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_5990-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5990",
-    "page_num": 5990,
-    "lemmas": [
-      "con",
-      "con"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "Prefixo/preposição intensiva: com, juntamente; intensificador: completamente, fortemente.",
-    "exemplos": [],
-    "notas": "Entrada de forma abreviada; tratada como lema de prefixo. Visto em LS e Whitaker. | [dedupe] redirect → chunk_5947:5947:1 | [dedupe] redirect → chunk_5947:5947:1",
-    "raw_text": "{\"id\":\"chunk_5990:5990:0\",\"lemas\":[\"con\"],\"lema_canonico\":\"con\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Prefixo/preposição intensiva: com, juntamente; intensificador: completamente, fortemente.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada de forma abreviada; tratada como lema de prefixo. Visto em LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_5990:5990:0\",\"lemas\":[\"con\"],\"lema_canonico\":\"con\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Prefixo/preposição intensiva: com, juntamente; intensificador: completamente, fortemente.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada de forma abreviada; tratada como lema de prefixo. Visto em LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}"
-  },
-  {
     "id": "chunk_5990-e2",
     "volume_id": "faria",
     "doc_name": "chunk_5990",
@@ -4840,28 +4202,6 @@
     "raw_json": "{\"id\":\"chunk_5995:5995:0\",\"lemas\":[\"concredo\",\"concredere\"],\"lema_canonico\":\"concredo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"confiar, entregar a alguém para guarda; confiar (segredos)\",\"aliases\":[],\"exemplos\":[\"Cic. Quint. 62\",\"Hor. Sat. 2, 6, 43\"],\"notas\":\"Normalizada a forma do presente e infinitivo; regência indicada conforme fontes.\",\"flags\":[\"src_latdeu\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_5996-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5996",
-    "page_num": 5996,
-    "lemmas": [
-      "concretus",
-      "concretus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Particípio passado/passivo de concresco; sólido, coagulado, condensado; também substantivo: condensação.",
-    "exemplos": [],
-    "notas": "Unido ao particípio de concresco; entrada corroborada por Lewis & Short e Whitaker. | [dedupe] redirect → chunk_5994:5994:0 | [dedupe] redirect → chunk_5994:5994:0",
-    "raw_text": "{\"id\":\"chunk_5996:5996:0\",\"lemas\":[\"concrētus\",\"concretus\"],\"lema_canonico\":\"concretus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio passado/passivo de concresco; sólido, coagulado, condensado; também substantivo: condensação.\",\"aliases\":[],\"exemplos\":[\"Plin. 12, 16, 35, § 70\"],\"notas\":\"Unido ao particípio de concresco; entrada corroborada por Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5996:5996:0\",\"lemas\":[\"concrētus\",\"concretus\"],\"lema_canonico\":\"concretus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio passado/passivo de concresco; sólido, coagulado, condensado; também substantivo: condensação.\",\"aliases\":[],\"exemplos\":[\"Plin. 12, 16, 35, § 70\"],\"notas\":\"Unido ao particípio de concresco; entrada corroborada por Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_5997-e1",
     "volume_id": "faria",
     "doc_name": "chunk_5997",
@@ -4904,28 +4244,6 @@
     "notas": "Verificado como verbo de 1ª conjugação em Whitaker e Lat→Deu; acepções intrans. e uso transitivo atestado nas fontes.",
     "raw_text": "{\"id\":\"chunk_5998:5998:0\",\"lemas\":[\"concrepo\",\"concrepare\"],\"lema_canonico\":\"concrepo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"Fazer estalos; emitir ruído agudo/estalidos; (trans.) produzir retumbar ou fazer ressoar.\",\"aliases\":[],\"exemplos\":[\"Cés. B. Gal. 7, 21, 1\",\"Ov. Fast. 5, 441\"],\"notas\":\"Verificado como verbo de 1ª conjugação em Whitaker e Lat→Deu; acepções intrans. e uso transitivo atestado nas fontes.\",\"flags\":[\"src_latdeu\",\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_5998:5998:0\",\"lemas\":[\"concrepo\",\"concrepare\"],\"lema_canonico\":\"concrepo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"Fazer estalos; emitir ruído agudo/estalidos; (trans.) produzir retumbar ou fazer ressoar.\",\"aliases\":[],\"exemplos\":[\"Cés. B. Gal. 7, 21, 1\",\"Ov. Fast. 5, 441\"],\"notas\":\"Verificado como verbo de 1ª conjugação em Whitaker e Lat→Deu; acepções intrans. e uso transitivo atestado nas fontes.\",\"flags\":[\"src_latdeu\",\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_5999-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5999",
-    "page_num": 5999,
-    "lemmas": [
-      "con-crĕpo",
-      "con-crĕpo"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "produzir som agudo; ranger, chiar, estalar; tilintar",
-    "exemplos": [],
-    "notas": "Restauradas formas pessoais e infinitivo a partir do dicionário Lat→Deu. | [dedupe] redirect → chunk_5998:5998:0 | [dedupe] redirect → chunk_5998:5998:0 | [ocr_fix 2025-08-17T19:46:31Z] match direto em LS por lemma/lemma_norm | lemma_in='concrepō' → 'con-crĕpo'",
-    "raw_text": "{\"id\":\"chunk_5999:5999:0\",\"lemas\":[\"concrepō\",\"concrepāre\",\"concrepuī\"],\"lema_canonico\":\"concrepō\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"produzir som agudo; ranger, chiar, estalar; tilintar\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Restauradas formas pessoais e infinitivo a partir do dicionário Lat→Deu.\",\"flags\":[\"src_latdeu\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_5999:5999:0\",\"lemas\":[\"concrepō\",\"concrepāre\",\"concrepuī\"],\"lema_canonico\":\"concrepō\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"produzir som agudo; ranger, chiar, estalar; tilintar\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Restauradas formas pessoais e infinitivo a partir do dicionário Lat→Deu.\",\"flags\":[\"src_latdeu\",\"conf:med\"]}"
   },
   {
     "id": "chunk_5999-e2",

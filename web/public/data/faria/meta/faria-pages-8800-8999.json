@@ -1,27 +1,5 @@
 [
   {
-    "id": "chunk_8800-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_8800",
-    "page_num": 8800,
-    "lemmas": [
-      "dissipo",
-      "dissipo"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "espalhar, dispersar; dissipar, desperdiciar, destruir; figurado: derrotar, divulgar",
-    "exemplos": [],
-    "notas": "Forma alternativa attested em LS como dissŭpo; canonicalizado como dissipo (dissipo, āre). | [dedupe] redirect → chunk_8769:8769:0 | [dedupe] redirect → chunk_8769:8769:0",
-    "raw_text": "{\"id\":\"chunk_8800:8800:0\",\"lemas\":[\"dissipo\",\"dissupo\"],\"lema_canonico\":\"dissipo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"espalhar, dispersar; dissipar, desperdiciar, destruir; figurado: derrotar, divulgar\",\"aliases\":[],\"exemplos\":[\"Cic. Pomp. 22\",\"Cic. Tusc. 1, 62\",\"Cic. Pis. 93\",\"Cic. Agr. 1, 2\",\"Cic. Fam. 2, 10, 3\",\"Cic. Phil. 14, 15\"],\"notas\":\"Forma alternativa attested em LS como dissŭpo; canonicalizado como dissipo (dissipo, āre).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_8800:8800:0\",\"lemas\":[\"dissipo\",\"dissupo\"],\"lema_canonico\":\"dissipo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"espalhar, dispersar; dissipar, desperdiciar, destruir; figurado: derrotar, divulgar\",\"aliases\":[],\"exemplos\":[\"Cic. Pomp. 22\",\"Cic. Tusc. 1, 62\",\"Cic. Pis. 93\",\"Cic. Agr. 1, 2\",\"Cic. Fam. 2, 10, 3\",\"Cic. Phil. 14, 15\"],\"notas\":\"Forma alternativa attested em LS como dissŭpo; canonicalizado como dissipo (dissipo, āre).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_8801-e1",
     "volume_id": "faria",
     "doc_name": "chunk_8801",
@@ -352,28 +330,6 @@
     "raw_json": "{\"id\":\"chunk_8813:8813:1\",\"lemas\":[\"dissuadeo\",\"dissuādēre\"],\"lema_canonico\":\"dissuadeo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"dissuadir; persuadir alguém a não fazer algo\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Reconstruídas formas principais (dissuādeō, dissuādēre, dissuāsī, dissuāsum); transitive confirmed by Whitaker/Lat→Deu\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_8814-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_8814",
-    "page_num": 8814,
-    "lemmas": [
-      "dis-suādĕo",
-      "dis-suādĕo"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "desaconselhar, dissuadir; afastar do propósito.",
-    "exemplos": [],
-    "notas": "Forma e regência esclarecidas; macrons conforme fontes. | [dedupe] redirect → chunk_8813:8813:1 | [dedupe] redirect → chunk_8813:8813:1 | [ocr_fix 2025-08-17T19:53:31Z] match direto em LS por lemma/lemma_norm | lemma_in='dissuadeo' → 'dis-suādĕo'",
-    "raw_text": "{\"id\":\"chunk_8814:8814:0\",\"lemas\":[\"dissuadeo\",\"dissuādeō\"],\"lema_canonico\":\"dissuadeo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"desaconselhar, dissuadir; afastar do propósito.\",\"aliases\":[],\"exemplos\":[\"Cic. Planc. 67, 170\",\"Cic. Lac. 96\"],\"notas\":\"Forma e regência esclarecidas; macrons conforme fontes.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_8814:8814:0\",\"lemas\":[\"dissuadeo\",\"dissuādeō\"],\"lema_canonico\":\"dissuadeo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"desaconselhar, dissuadir; afastar do propósito.\",\"aliases\":[],\"exemplos\":[\"Cic. Planc. 67, 170\",\"Cic. Lac. 96\"],\"notas\":\"Forma e regência esclarecidas; macrons conforme fontes.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_8815-e1",
     "volume_id": "faria",
     "doc_name": "chunk_8815",
@@ -440,28 +396,6 @@
     "raw_json": "{\"id\":\"chunk_8817:8817:0\",\"lemas\":[\"dissuasor\",\"dissuāsor\"],\"lema_canonico\":\"dissuasor\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"aquele que aconselha em contrário; quem dissuade, opositor\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 2, 65\"],\"notas\":\"Inclui variante com macron para corresponder a edições que o registram.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_8818-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_8818",
-    "page_num": 8818,
-    "lemmas": [
-      "dis-sĭlĭo",
-      "dis-sĭlĭo"
-    ],
-    "morfologia": "v. 4ª (-īre)",
-    "morph_render": "v. 4ª (-īre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "saltar; romper-se, partir-se; afastar-se saltando",
-    "exemplos": [],
-    "notas": "Baseado em Lat→Deu e Whitaker: dissiliō, dissilīre; supino/part. variante discutida. | [dedupe] redirect → chunk_8786:8786:0 | [dedupe] redirect → chunk_8786:8786:0 | [ocr_fix 2025-08-17T19:47:37Z] match direto em LS por lemma/lemma_norm | lemma_in='dissiliō' → 'dis-sĭlĭo'",
-    "raw_text": "{\"id\":\"chunk_8818:8818:0\",\"lemas\":[\"dissiliō\",\"dissilio\"],\"lema_canonico\":\"dissiliō\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"saltar; romper-se, partir-se; afastar-se saltando\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 37, 57\",\"Verg. Sen. 8, 240\"],\"notas\":\"Baseado em Lat→Deu e Whitaker: dissiliō, dissilīre; supino/part. variante discutida.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_8818:8818:0\",\"lemas\":[\"dissiliō\",\"dissilio\"],\"lema_canonico\":\"dissiliō\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"saltar; romper-se, partir-se; afastar-se saltando\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 37, 57\",\"Verg. Sen. 8, 240\"],\"notas\":\"Baseado em Lat→Deu e Whitaker: dissiliō, dissilīre; supino/part. variante discutida.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_8819-e1",
     "volume_id": "faria",
     "doc_name": "chunk_8819",
@@ -482,50 +416,6 @@
     "notas": "Entrada incerta: forma atestada por OCR/first_pass mas não claramente confirmada em dicionários; requer revisão.\n[ocr_pipeline 2025-08-16T23:24:42.237352Z] lemma_in='dissilius' → 'dispessus' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:24:26Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='dispessus' → 'dispessus'",
     "raw_text": "{\"id\":\"chunk_8819:8819:0\",\"lemas\":[\"dissilius\"],\"lema_canonico\":\"dissilius\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"adjetivo/particípio suposto relacionado a dissilio; leitura incerta (forma e paradigma duvidosos)\",\"aliases\":[],\"exemplos\":[\"Ov. F. 1, 408\",\"Cic. Lac. 160\"],\"notas\":\"Entrada incerta: forma atestada por OCR/first_pass mas não claramente confirmada em dicionários; requer revisão.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_8819:8819:0\",\"lemas\":[\"dissilius\"],\"lema_canonico\":\"dissilius\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"adjetivo/particípio suposto relacionado a dissilio; leitura incerta (forma e paradigma duvidosos)\",\"aliases\":[],\"exemplos\":[\"Ov. F. 1, 408\",\"Cic. Lac. 160\"],\"notas\":\"Entrada incerta: forma atestada por OCR/first_pass mas não claramente confirmada em dicionários; requer revisão.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_8819-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_8819",
-    "page_num": 8819,
-    "lemmas": [
-      "dissilio",
-      "dissilio"
-    ],
-    "morfologia": "v. 4ª (-īre)",
-    "morph_render": "v. 4ª (-īre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "saltar, romper-se; partir-se, estilhaçar-se; usado literal e figuradamente",
-    "exemplos": [],
-    "notas": "Conjugação e formas perfeitas (dissilui) confirmadas por Lat→Deu e testemunhos lexicográficos. | [dedupe] redirect → chunk_8786:8786:0 | [dedupe] redirect → chunk_8786:8786:0",
-    "raw_text": "{\"id\":\"chunk_8819:8819:1\",\"lemas\":[\"dissilio\",\"dissilire\"],\"lema_canonico\":\"dissilio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"saltar, romper-se; partir-se, estilhaçar-se; usado literal e figuradamente\",\"aliases\":[],\"exemplos\":[\"Lucr. 1, 385\",\"Verg. A. 12, 740\",\"Ov. Tr. 4, 6, 20\",\"Sen. Ep. 113\"],\"notas\":\"Conjugação e formas perfeitas (dissilui) confirmadas por Lat→Deu e testemunhos lexicográficos.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_8819:8819:1\",\"lemas\":[\"dissilio\",\"dissilire\"],\"lema_canonico\":\"dissilio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"saltar, romper-se; partir-se, estilhaçar-se; usado literal e figuradamente\",\"aliases\":[],\"exemplos\":[\"Lucr. 1, 385\",\"Verg. A. 12, 740\",\"Ov. Tr. 4, 6, 20\",\"Sen. Ep. 113\"],\"notas\":\"Conjugação e formas perfeitas (dissilui) confirmadas por Lat→Deu e testemunhos lexicográficos.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_8819-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_8819",
-    "page_num": 8819,
-    "lemmas": [
-      "dissimulo",
-      "dissimulo"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "fingir que algo não é; dissimular, ocultar, esconder; também: deixar passar sem notar",
-    "exemplos": [],
-    "notas": "Forma e significados confirmados por Lewis & Short e Lat→Deu. | [dedupe] redirect → chunk_8796:8796:0 | [dedupe] redirect → chunk_8796:8796:0",
-    "raw_text": "{\"id\":\"chunk_8819:8819:2\",\"lemas\":[\"dissimulo\",\"dissimulari\"],\"lema_canonico\":\"dissimulo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"fingir que algo não é; dissimular, ocultar, esconder; também: deixar passar sem notar\",\"aliases\":[],\"exemplos\":[\"Plaut. Epid. 2, 2, 54\",\"Cic. Att. 1, 18\",\"Caes. B. C. 1, 19, 2\",\"Suet. Ner. 29\"],\"notas\":\"Forma e significados confirmados por Lewis & Short e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_8819:8819:2\",\"lemas\":[\"dissimulo\",\"dissimulari\"],\"lema_canonico\":\"dissimulo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"fingir que algo não é; dissimular, ocultar, esconder; também: deixar passar sem notar\",\"aliases\":[],\"exemplos\":[\"Plaut. Epid. 2, 2, 54\",\"Cic. Att. 1, 18\",\"Caes. B. C. 1, 19, 2\",\"Suet. Ner. 29\"],\"notas\":\"Forma e significados confirmados por Lewis & Short e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_8820-e1",
@@ -616,28 +506,6 @@
     "raw_json": "{\"id\":\"chunk_8823:8823:0\",\"lemas\":[\"distantia\"],\"lema_canonico\":\"distantia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"distance, remoteness; separation, opening; figuratively: difference, diversity\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 2, 61\",\"Cic. Leg. 24, 74\"],\"notas\":\"Forma e sentidos confirmados em Lewis & Short e Lat→Deu; variante adjectival/particípica atestada em outras fontes.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_8824-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_8824",
-    "page_num": 8824,
-    "lemmas": [
-      "distensĭo",
-      "distensĭo"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada atua como remissiva para distendo (ver); mantida como redirect_only. | [ocr_fix 2025-08-17T19:47:37Z] match direto em Gaffiot por lemma/lemma_norm | lemma_in='distensio' → 'distensĭo'",
-    "raw_text": "{\"id\":\"chunk_8824:8824:0\",\"lemas\":[\"distēnsiō\",\"distensio\"],\"lema_canonico\":\"distensio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"distendo\"],\"exemplos\":[],\"notas\":\"Entrada atua como remissiva para distendo (ver); mantida como redirect_only.\",\"flags\":[\"src_whitaker\",\"conf:med\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_8824:8824:0\",\"lemas\":[\"distēnsiō\",\"distensio\"],\"lema_canonico\":\"distensio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"distendo\"],\"exemplos\":[],\"notas\":\"Entrada atua como remissiva para distendo (ver); mantida como redirect_only.\",\"flags\":[\"src_whitaker\",\"conf:med\",\"redirect_only\"]}"
-  },
-  {
     "id": "chunk_8825-e1",
     "volume_id": "faria",
     "doc_name": "chunk_8825",
@@ -680,28 +548,6 @@
     "notas": "Grafia com macron informada; sentido e uso confirmados por Lewis & Short.",
     "raw_text": "{\"id\":\"chunk_8826:8826:0\",\"lemas\":[\"distensus\",\"distēnsus\"],\"lema_canonico\":\"distensus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de distendō; usado também como adjetivo 'inchado, estendido, cheio'\",\"aliases\":[],\"exemplos\":[\"Hor. Sat. 1, 1, 10\"],\"notas\":\"Grafia com macron informada; sentido e uso confirmados por Lewis & Short.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_8826:8826:0\",\"lemas\":[\"distensus\",\"distēnsus\"],\"lema_canonico\":\"distensus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de distendō; usado também como adjetivo 'inchado, estendido, cheio'\",\"aliases\":[],\"exemplos\":[\"Hor. Sat. 1, 1, 10\"],\"notas\":\"Grafia com macron informada; sentido e uso confirmados por Lewis & Short.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_8827-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_8827",
-    "page_num": 8827,
-    "lemmas": [
-      "distensus",
-      "distensus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "particípio perfeito passivo de distendo; (adjet.) ocupado",
-    "exemplos": [],
-    "notas": "Conferido com Lewis & Short; entrada corresponde a distensus, -a, -um. | [dedupe] redirect → chunk_8826:8826:0 | [dedupe] redirect → chunk_8826:8826:0",
-    "raw_text": "{\"id\":\"chunk_8827:8827:0\",\"lemas\":[\"distensus\"],\"lema_canonico\":\"distensus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de distendo; (adjet.) ocupado\",\"aliases\":[],\"exemplos\":[\"Cic. Amer. 22\",\"Cic. Att. 15, 18, 2\"],\"notas\":\"Conferido com Lewis & Short; entrada corresponde a distensus, -a, -um.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_8827:8827:0\",\"lemas\":[\"distensus\"],\"lema_canonico\":\"distensus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de distendo; (adjet.) ocupado\",\"aliases\":[],\"exemplos\":[\"Cic. Amer. 22\",\"Cic. Att. 15, 18, 2\"],\"notas\":\"Conferido com Lewis & Short; entrada corresponde a distensus, -a, -um.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_8828-e1",
@@ -880,28 +726,6 @@
     "raw_json": "{\"id\":\"chunk_8835:8835:0\",\"lemas\":[\"distinguo\"],\"lema_canonico\":\"distinguo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"to separate, set apart; to distinguish, mark off; (fig.) to divide or differentiate\",\"aliases\":[],\"exemplos\":[\"Caes. B. Gall. 4, 17, 7\",\"Ov. Her. 8, 69\",\"Cic. Plaut. 79\",\"Cic. Fam. 7, 2, 4\",\"Caes. B. Gall. 2, 5, 2\"],\"notas\":\"Forma e referências verificadas com Whitaker and Lat→Deu; morfologia ajustada ao esquema.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_8836-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_8836",
-    "page_num": 8836,
-    "lemmas": [
-      "distinctio",
-      "distinctio"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "A distinguishing, a distinction or difference; (fig.) separation or division in discourse; rhetorical/ornamental distinction",
-    "exemplos": [],
-    "notas": "Lema fixado como substantivo (gen. -onis); formas verbais corrompidas no OCR descartadas. | [dedupe] redirect → chunk_8832:8832:0 | [dedupe] redirect → chunk_8832:8832:0",
-    "raw_text": "{\"id\":\"chunk_8836:8836:0\",\"lemas\":[\"distinctio\",\"distinctĭo\"],\"lema_canonico\":\"distinctio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"A distinguishing, a distinction or difference; (fig.) separation or division in discourse; rhetorical/ornamental distinction\",\"aliases\":[],\"exemplos\":[\"Cic. Fin. 1, 10, 33\",\"Cic. Off. 1, 29\",\"Cic. Leg. 2, 5\",\"Cic. Fin. 1, 19\",\"Quint. 4, 5, 6\",\"Plin. 10, 11, 13, §29\",\"Cic. de Or. 3, 48\"],\"notas\":\"Lema fixado como substantivo (gen. -onis); formas verbais corrompidas no OCR descartadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_8836:8836:0\",\"lemas\":[\"distinctio\",\"distinctĭo\"],\"lema_canonico\":\"distinctio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"A distinguishing, a distinction or difference; (fig.) separation or division in discourse; rhetorical/ornamental distinction\",\"aliases\":[],\"exemplos\":[\"Cic. Fin. 1, 10, 33\",\"Cic. Off. 1, 29\",\"Cic. Leg. 2, 5\",\"Cic. Fin. 1, 19\",\"Quint. 4, 5, 6\",\"Plin. 10, 11, 13, §29\",\"Cic. de Or. 3, 48\"],\"notas\":\"Lema fixado como substantivo (gen. -onis); formas verbais corrompidas no OCR descartadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_8837-e1",
     "volume_id": "faria",
     "doc_name": "chunk_8837",
@@ -966,50 +790,6 @@
     "notas": "Formas perfeitas ajustadas conforme Lat→Deu/Whitaker (distorsī, distortum).",
     "raw_text": "{\"id\":\"chunk_8839:8839:0\",\"lemas\":[\"distorqueō\",\"distorquere\"],\"lema_canonico\":\"distorqueō\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"torcer, distorcer; fig.: torturar, atormentar\",\"aliases\":[],\"exemplos\":[\"Hor. Sat. 1, 9, 65\",\"Sen. Ben. 7, 19\"],\"notas\":\"Formas perfeitas ajustadas conforme Lat→Deu/Whitaker (distorsī, distortum).\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_8839:8839:0\",\"lemas\":[\"distorqueō\",\"distorquere\"],\"lema_canonico\":\"distorqueō\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"torcer, distorcer; fig.: torturar, atormentar\",\"aliases\":[],\"exemplos\":[\"Hor. Sat. 1, 9, 65\",\"Sen. Ben. 7, 19\"],\"notas\":\"Formas perfeitas ajustadas conforme Lat→Deu/Whitaker (distorsī, distortum).\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_8840-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_8840",
-    "page_num": 8840,
-    "lemmas": [
-      "distorqueo",
-      "distorqueo"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "torcer, contorcer; distorcer, perverter; também: provocar dor/aflição (Petr.).",
-    "exemplos": [],
-    "notas": "Perfeito distorsi e supino distortum atestados; normalizada a forma conforme Whitaker/Lat→Deu. | [dedupe] redirect → chunk_8839:8839:0 | [dedupe] redirect → chunk_8839:8839:0",
-    "raw_text": "{\"id\":\"chunk_8840:8840:0\",\"lemas\":[\"distorqueo\",\"distorquere\"],\"lema_canonico\":\"distorqueo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"torcer, contorcer; distorcer, perverter; também: provocar dor/aflição (Petr.).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Perfeito distorsi e supino distortum atestados; normalizada a forma conforme Whitaker/Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_8840:8840:0\",\"lemas\":[\"distorqueo\",\"distorquere\"],\"lema_canonico\":\"distorqueo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"torcer, contorcer; distorcer, perverter; também: provocar dor/aflição (Petr.).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Perfeito distorsi e supino distortum atestados; normalizada a forma conforme Whitaker/Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_8840-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_8840",
-    "page_num": 8840,
-    "lemmas": [
-      "dis-torquĕo",
-      "dis-torquĕo"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Perfect indicative active form distorsī (distorsi): 'I twisted, I distorted' — perfect of distorqueō, distorquēre.",
-    "exemplos": [],
-    "notas": "Retificado a partir do Lat→Deu; normalizado lema para distorqueō. | [dedupe] redirect → chunk_8839:8839:0 | [dedupe] redirect → chunk_8839:8839:0 | [ocr_fix 2025-08-17T19:53:33Z] match direto em LS por lemma/lemma_norm | lemma_in='distorqueō' → 'dis-torquĕo'",
-    "raw_text": "{\"id\":\"chunk_8840:8840:1\",\"lemas\":[\"distorqueō\",\"distorqueo\",\"distorquēre\"],\"lema_canonico\":\"distorqueō\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"Perfect indicative active form distorsī (distorsi): 'I twisted, I distorted' — perfect of distorqueō, distorquēre.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Retificado a partir do Lat→Deu; normalizado lema para distorqueō.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_8840:8840:1\",\"lemas\":[\"distorqueō\",\"distorqueo\",\"distorquēre\"],\"lema_canonico\":\"distorqueō\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"Perfect indicative active form distorsī (distorsi): 'I twisted, I distorted' — perfect of distorqueō, distorquēre.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Retificado a partir do Lat→Deu; normalizado lema para distorqueō.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
     "id": "chunk_8841-e1",
@@ -1098,28 +878,6 @@
     "notas": "Consolidado como particípio/adjetivo; confirmações em LS, Whitaker e Lat→Deu.",
     "raw_text": "{\"id\":\"chunk_8844:8844:0\",\"lemas\":[\"distractus\",\"distracta\",\"distractum\"],\"lema_canonico\":\"distractus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perf. pass. de distrahō; como adjetivo: dividido, disperso, perturbado.\",\"aliases\":[],\"exemplos\":[\"Luc. 4, 96\",\"Cic. Planc. 79\",\"Sal. Cat. 51, 9\"],\"notas\":\"Consolidado como particípio/adjetivo; confirmações em LS, Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_8844:8844:0\",\"lemas\":[\"distractus\",\"distracta\",\"distractum\"],\"lema_canonico\":\"distractus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perf. pass. de distrahō; como adjetivo: dividido, disperso, perturbado.\",\"aliases\":[],\"exemplos\":[\"Luc. 4, 96\",\"Cic. Planc. 79\",\"Sal. Cat. 51, 9\"],\"notas\":\"Consolidado como particípio/adjetivo; confirmações em LS, Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_8845-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_8845",
-    "page_num": 8845,
-    "lemmas": [
-      "divendere",
-      "divendere"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "divendere: vender por retalho; divenditus: particípio perfeito passivo, 'vendido por retalho, posto à venda'",
-    "exemplos": [],
-    "notas": "Entrada baseada em Whitaker; particípio marcado em morph_extra. | [dedupe] redirect → chunk_8846:8846:0 | [dedupe] redirect → chunk_8846:8846:0",
-    "raw_text": "{\"id\":\"chunk_8845:8845:0\",\"lemas\":[\"divendere\",\"divenditus\"],\"lema_canonico\":\"divendere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"divendere: vender por retalho; divenditus: particípio perfeito passivo, 'vendido por retalho, posto à venda'\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada baseada em Whitaker; particípio marcado em morph_extra.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_8845:8845:0\",\"lemas\":[\"divendere\",\"divenditus\"],\"lema_canonico\":\"divendere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"divendere: vender por retalho; divenditus: particípio perfeito passivo, 'vendido por retalho, posto à venda'\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada baseada em Whitaker; particípio marcado em morph_extra.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}"
   },
   {
     "id": "chunk_8846-e1",
@@ -1252,28 +1010,6 @@
     "notas": "Inclui forma adverbial 'diverse' e interpretação como particípio de dīvertere; harmonizado com LS e Whitaker.",
     "raw_text": "{\"id\":\"chunk_8851:8851:0\",\"lemas\":[\"diversus\",\"diverse\"],\"lema_canonico\":\"diversus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"1) (adj.) diverso, oposto, afastado, separado; que se volta para outro lado. 2) (part. perf.) particípio/resultante de dīvertere. 3) (adv., diverse) de modo diverso; em direções diferentes.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Inclui forma adverbial 'diverse' e interpretação como particípio de dīvertere; harmonizado com LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_8851:8851:0\",\"lemas\":[\"diversus\",\"diverse\"],\"lema_canonico\":\"diversus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"1) (adj.) diverso, oposto, afastado, separado; que se volta para outro lado. 2) (part. perf.) particípio/resultante de dīvertere. 3) (adv., diverse) de modo diverso; em direções diferentes.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Inclui forma adverbial 'diverse' e interpretação como particípio de dīvertere; harmonizado com LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_8852-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_8852",
-    "page_num": 8852,
-    "lemmas": [
-      "diversus",
-      "diversus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Particípio/adjetivo (de dīvertere/divertere): voltado para outro lado; separado, diverso; em sentido figurado: oposto, hostil.",
-    "exemplos": [],
-    "notas": "Normalizada forma e indicação de origem verbal; fontes LS, Whitaker e Lat→Deu concordam. | [dedupe] redirect → chunk_8851:8851:0 | [dedupe] redirect → chunk_8851:8851:0",
-    "raw_text": "{\"id\":\"chunk_8852:8852:0\",\"lemas\":[\"diversus\",\"dīversus\"],\"lema_canonico\":\"diversus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio/adjetivo (de dīvertere/divertere): voltado para outro lado; separado, diverso; em sentido figurado: oposto, hostil.\",\"aliases\":[],\"exemplos\":[\"Cés. B. Civ. 1, 69, 1\",\"Cés. B. Gal. 7, 16, 3\",\"Cic. Cael. 12\"],\"notas\":\"Normalizada forma e indicação de origem verbal; fontes LS, Whitaker e Lat→Deu concordam.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_8852:8852:0\",\"lemas\":[\"diversus\",\"dīversus\"],\"lema_canonico\":\"diversus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio/adjetivo (de dīvertere/divertere): voltado para outro lado; separado, diverso; em sentido figurado: oposto, hostil.\",\"aliases\":[],\"exemplos\":[\"Cés. B. Civ. 1, 69, 1\",\"Cés. B. Gal. 7, 16, 3\",\"Cic. Cael. 12\"],\"notas\":\"Normalizada forma e indicação de origem verbal; fontes LS, Whitaker e Lat→Deu concordam.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_8853-e1",
@@ -1496,28 +1232,6 @@
     "raw_json": "{\"id\":\"chunk_8862:8862:0\",\"lemas\":[\"dīvīnitas\",\"divinitas\"],\"lema_canonico\":\"dīvīnitas\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Divindade; natureza ou qualidade divina; poder ou excelência divina; também divinação em uso transferido.\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 2, 86\",\"Cic. Or. 19, 62\"],\"notas\":\"Gênero e forma confirmados com LS/Whitaker; normalizada a forma genitiva -tātis.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_8863-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_8863",
-    "page_num": 8863,
-    "lemmas": [
-      "dīvīnus",
-      "dīvīnus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Pertencente a um deus; divino, sagrado; inspirado, profético. Como substantivo masculino (dīvīnus) = adivinho, profeta; adverbialmente: dīvīne = divinamente.",
-    "exemplos": [],
-    "notas": "Corrigido classificação: não é apenas advérbio; admite formas adjetivais, substantivas e adverbiais (LS/Whitaker). | [dedupe] redirect → chunk_8865:8865:1 | [dedupe] redirect → chunk_8865:8865:1",
-    "raw_text": "{\"id\":\"chunk_8863:8863:0\",\"lemas\":[\"dīvīnus\",\"divinus\"],\"lema_canonico\":\"dīvīnus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Pertencente a um deus; divino, sagrado; inspirado, profético. Como substantivo masculino (dīvīnus) = adivinho, profeta; adverbialmente: dīvīne = divinamente.\",\"aliases\":[\"dīvīne\"],\"exemplos\":[\"Cic. De Or. 1, 26\",\"Cic. De Or. 1, 49\",\"Verg. G. 1, 415\"],\"notas\":\"Corrigido classificação: não é apenas advérbio; admite formas adjetivais, substantivas e adverbiais (LS/Whitaker).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_8863:8863:0\",\"lemas\":[\"dīvīnus\",\"divinus\"],\"lema_canonico\":\"dīvīnus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Pertencente a um deus; divino, sagrado; inspirado, profético. Como substantivo masculino (dīvīnus) = adivinho, profeta; adverbialmente: dīvīne = divinamente.\",\"aliases\":[\"dīvīne\"],\"exemplos\":[\"Cic. De Or. 1, 26\",\"Cic. De Or. 1, 49\",\"Verg. G. 1, 415\"],\"notas\":\"Corrigido classificação: não é apenas advérbio; admite formas adjetivais, substantivas e adverbiais (LS/Whitaker).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_8864-e1",
     "volume_id": "faria",
     "doc_name": "chunk_8864",
@@ -1714,50 +1428,6 @@
     "notas": "Uniformizada grafia macronizada e marcada como particípio/adjetivo; suportado por LS e Whitaker.",
     "raw_text": "{\"id\":\"chunk_8871:8871:0\",\"lemas\":[\"dīvīsus\",\"divisus\"],\"lema_canonico\":\"dīvīsus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo de dīvīdō; como adjetivo: dividido, separado, distinguido.\",\"aliases\":[],\"exemplos\":[\"Lucr. 4, 962\"],\"notas\":\"Uniformizada grafia macronizada e marcada como particípio/adjetivo; suportado por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_8871:8871:0\",\"lemas\":[\"dīvīsus\",\"divisus\"],\"lema_canonico\":\"dīvīsus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo de dīvīdō; como adjetivo: dividido, separado, distinguido.\",\"aliases\":[],\"exemplos\":[\"Lucr. 4, 962\"],\"notas\":\"Uniformizada grafia macronizada e marcada como particípio/adjetivo; suportado por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_8872-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_8872",
-    "page_num": 8872,
-    "lemmas": [
-      "dīvīsiō",
-      "dīvīsiō"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Divisão, partilha, distribuição; allotment, partition; também sentido técnico de separação/violation em contextos jurídicos/literários.",
-    "exemplos": [],
-    "notas": "Gênero feminino e sentido conferidos com Lewis & Short e Whitaker; corrigido erro de OCR que indicava masculino. | [dedupe] redirect → chunk_8868:8868:0 | [dedupe] redirect → chunk_8868:8868:0",
-    "raw_text": "{\"id\":\"chunk_8872:8872:0\",\"lemas\":[\"dīvīsiō\",\"divisio\"],\"lema_canonico\":\"dīvīsiō\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Divisão, partilha, distribuição; allotment, partition; também sentido técnico de separação/violation em contextos jurídicos/literários.\",\"aliases\":[],\"exemplos\":[\"Liv. 45, 30, 2\"],\"notas\":\"Gênero feminino e sentido conferidos com Lewis & Short e Whitaker; corrigido erro de OCR que indicava masculino.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_8872:8872:0\",\"lemas\":[\"dīvīsiō\",\"divisio\"],\"lema_canonico\":\"dīvīsiō\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Divisão, partilha, distribuição; allotment, partition; também sentido técnico de separação/violation em contextos jurídicos/literários.\",\"aliases\":[],\"exemplos\":[\"Liv. 45, 30, 2\"],\"notas\":\"Gênero feminino e sentido conferidos com Lewis & Short e Whitaker; corrigido erro de OCR que indicava masculino.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_8873-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_8873",
-    "page_num": 8873,
-    "lemmas": [
-      "dives",
-      "dives"
-    ],
-    "morfologia": "adj. (3) 1T",
-    "morph_render": "adj. (3) 1T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Rich, wealthy; (of land) fertile or productive; also valuable or gifted; compar. divitior, sup. divitissimus",
-    "exemplos": [],
-    "notas": "Adjetivo com comparativo e superlativo atestados; substantival/poetic uses (divite, divitiae) related but entered separately. | [dedupe] redirect → chunk_8853:8853:0 | [dedupe] redirect → chunk_8853:8853:0",
-    "raw_text": "{\"id\":\"chunk_8873:8873:0\",\"lemas\":[\"dives\",\"divitis\",\"divitior\",\"divitissimus\"],\"lema_canonico\":\"dives\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[],\"definicao\":\"Rich, wealthy; (of land) fertile or productive; also valuable or gifted; compar. divitior, sup. divitissimus\",\"aliases\":[],\"exemplos\":[\"Plaut. Aul. 2, 2, 7 (usage)\",\"Hor. C. 4, 8, 5\",\"Ov. Am. 1, 10, 53\"],\"notas\":\"Adjetivo com comparativo e superlativo atestados; substantival/poetic uses (divite, divitiae) related but entered separately.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_8873:8873:0\",\"lemas\":[\"dives\",\"divitis\",\"divitior\",\"divitissimus\"],\"lema_canonico\":\"dives\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[],\"definicao\":\"Rich, wealthy; (of land) fertile or productive; also valuable or gifted; compar. divitior, sup. divitissimus\",\"aliases\":[],\"exemplos\":[\"Plaut. Aul. 2, 2, 7 (usage)\",\"Hor. C. 4, 8, 5\",\"Ov. Am. 1, 10, 53\"],\"notas\":\"Adjetivo com comparativo e superlativo atestados; substantival/poetic uses (divite, divitiae) related but entered separately.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_8874-e1",
@@ -2068,50 +1738,6 @@
     "raw_json": "{\"id\":\"chunk_8886:8886:1\",\"lemas\":[\"dixi\",\"dixisti\",\"dixit\"],\"lema_canonico\":\"dixi\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Lista de formas perfeitas de dīcō: dīxī (1ª sg. perf.), dīxistī (2ª sg. perf.), dīxit (3ª sg. perf.).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigido provável confusão/OCR entre dīxis, dīxisti, dīxeris; explicadas as formas canónicas do perfeito.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_8887-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_8887",
-    "page_num": 8887,
-    "lemmas": [
-      "do",
-      "do"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "dar; oferecer, conceder, entregar; também: consagrar, causar; usos jurídicos e impersonais",
-    "exemplos": [],
-    "notas": "Formas com macrons normalizadas (dō, āre, dēdī, dātum) conforme LS e Lat→Deu. | [dedupe] redirect → chunk_23710:23710:1 | [dedupe] redirect → chunk_23710:23710:1",
-    "raw_text": "{\"id\":\"chunk_8887:8887:0\",\"lemas\":[\"do\"],\"lema_canonico\":\"do\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"dar; oferecer, conceder, entregar; também: consagrar, causar; usos jurídicos e impersonais\",\"aliases\":[],\"exemplos\":[\"Cic. Lael. 26\",\"Plaut. Capt. 797\",\"Caes. B. Gal. 1, 19, 1\",\"Ov. F. 6, 434\"],\"notas\":\"Formas com macrons normalizadas (dō, āre, dēdī, dātum) conforme LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_8887:8887:0\",\"lemas\":[\"do\"],\"lema_canonico\":\"do\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"dar; oferecer, conceder, entregar; também: consagrar, causar; usos jurídicos e impersonais\",\"aliases\":[],\"exemplos\":[\"Cic. Lael. 26\",\"Plaut. Capt. 797\",\"Caes. B. Gal. 1, 19, 1\",\"Ov. F. 6, 434\"],\"notas\":\"Formas com macrons normalizadas (dō, āre, dēdī, dātum) conforme LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_8888-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_8888",
-    "page_num": 8888,
-    "lemmas": [
-      "doceo",
-      "doceo"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "ensinar, instruir; transmitir conhecimento; também: treinar, preparar (teatralmente); form. com duplo acusativo",
-    "exemplos": [],
-    "notas": "Lema e formas principais alinhadas com Lewis & Short e Whitaker (docēre, docuī, doctum). | [dedupe] redirect → chunk_7634:7634:1 | [dedupe] redirect → chunk_7634:7634:1",
-    "raw_text": "{\"id\":\"chunk_8888:8888:0\",\"lemas\":[\"doceo\",\"docēo\"],\"lema_canonico\":\"doceo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"ensinar, instruir; transmitir conhecimento; também: treinar, preparar (teatralmente); form. com duplo acusativo\",\"aliases\":[],\"exemplos\":[\"Cic. Leg. 1, 58\",\"Cic. Pis. 73\",\"Cic. Br. 185\"],\"notas\":\"Lema e formas principais alinhadas com Lewis & Short e Whitaker (docēre, docuī, doctum).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_8888:8888:0\",\"lemas\":[\"doceo\",\"docēo\"],\"lema_canonico\":\"doceo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"ensinar, instruir; transmitir conhecimento; também: treinar, preparar (teatralmente); form. com duplo acusativo\",\"aliases\":[],\"exemplos\":[\"Cic. Leg. 1, 58\",\"Cic. Pis. 73\",\"Cic. Br. 185\"],\"notas\":\"Lema e formas principais alinhadas com Lewis & Short e Whitaker (docēre, docuī, doctum).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_8889-e1",
     "volume_id": "faria",
     "doc_name": "chunk_8889",
@@ -2266,28 +1892,6 @@
     "raw_json": "{\"id\":\"chunk_8895:8895:0\",\"lemas\":[\"doctus\",\"docta\",\"doctum\"],\"lema_canonico\":\"doctus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"1. Particípio perfeito passivo de doceō: ensinado, tendo sido ensinado. 2. Adjetivo: instruído, culto, sábio, experiente, habilidoso, astuto. 3. Substantivo masc. pl. (doctī): os sábios, os eruditos.\",\"aliases\":[],\"exemplos\":[\"Cic. Br. 169\",\"Hor. Od. 1, 29, 9\",\"Cic. Lae. 17\",\"Cic. Mil. 8\"],\"notas\":\"Unificado com entradas lexicográficas (LS, Lat→Deu); particípio marcado em morph_extra.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_8896-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_8896",
-    "page_num": 8896,
-    "lemmas": [
-      "doctus",
-      "doctus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "particípio perfeito passivo de docēre; 'ensinato, instruído'; como adjetivo: culto, experiente, habilidoso",
-    "exemplos": [],
-    "notas": "Particípio e uso adjetival confirmados por LS e Whitaker. | [dedupe] redirect → chunk_8895:8895:0 | [dedupe] redirect → chunk_8895:8895:0",
-    "raw_text": "{\"id\":\"chunk_8896:8896:0\",\"lemas\":[\"doctus\"],\"lema_canonico\":\"doctus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de docēre; 'ensinato, instruído'; como adjetivo: culto, experiente, habilidoso\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Particípio e uso adjetival confirmados por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_8896:8896:0\",\"lemas\":[\"doctus\"],\"lema_canonico\":\"doctus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de docēre; 'ensinato, instruído'; como adjetivo: culto, experiente, habilidoso\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Particípio e uso adjetival confirmados por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_8897-e1",
     "volume_id": "faria",
     "doc_name": "chunk_8897",
@@ -2310,50 +1914,6 @@
     "raw_json": "{\"id\":\"chunk_8897:8897:0\",\"lemas\":[\"documentum\"],\"lema_canonico\":\"documentum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"lição, exemplo; advertência; prova, documento, escrito\",\"aliases\":[],\"exemplos\":[\"Luc. 6, 392\"],\"notas\":\"\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_8898-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_8898",
-    "page_num": 8898,
-    "lemmas": [
-      "documentum",
-      "documentum"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "lição, ensino; aviso, exemplo; prova, documento, escrita oficial",
-    "exemplos": [],
-    "notas": "Grafia e sentidos padronizados segundo Lewis & Short e Lat→Deu. | [dedupe] redirect → chunk_8897:8897:0 | [dedupe] redirect → chunk_8897:8897:0",
-    "raw_text": "{\"id\":\"chunk_8898:8898:0\",\"lemas\":[\"documentum\"],\"lema_canonico\":\"documentum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"lição, ensino; aviso, exemplo; prova, documento, escrita oficial\",\"aliases\":[],\"exemplos\":[\"Cæs. B. G. 7, 4, 9\",\"Cic. Rab. Post. 10, 27\",\"T. Liv. 32, 7, 10\"],\"notas\":\"Grafia e sentidos padronizados segundo Lewis & Short e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_8898:8898:0\",\"lemas\":[\"documentum\"],\"lema_canonico\":\"documentum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"lição, ensino; aviso, exemplo; prova, documento, escrita oficial\",\"aliases\":[],\"exemplos\":[\"Cæs. B. G. 7, 4, 9\",\"Cic. Rab. Post. 10, 27\",\"T. Liv. 32, 7, 10\"],\"notas\":\"Grafia e sentidos padronizados segundo Lewis & Short e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_8899-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_8899",
-    "page_num": 8899,
-    "lemmas": [
-      "Dodōnāeus",
-      "Dodōnāeus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:low",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "relativo a Dodōna; também substantivo próprio feminino: a cidade/óraculo de Dodona no Épiro",
-    "exemplos": [],
-    "notas": "Entrada mantida da primeira passada; correção ortográfica presumida (Cândia→Épiro/Dodōna). Necessita verificação em dicionários latinos primários. | [dedupe] redirect → chunk_8900:8900:0 | [dedupe] redirect → chunk_8900:8900:0",
-    "raw_text": "{\"id\":\"chunk_8899:8899:0\",\"lemas\":[\"Dodōnāeus\",\"Dodonaeus\"],\"lema_canonico\":\"Dodōnāeus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo a Dodōna; também substantivo próprio feminino: a cidade/óraculo de Dodona no Épiro\",\"aliases\":[],\"exemplos\":[\"Civ. Div. 1, 95\"],\"notas\":\"Entrada mantida da primeira passada; correção ortográfica presumida (Cândia→Épiro/Dodōna). Necessita verificação em dicionários latinos primários.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_8899:8899:0\",\"lemas\":[\"Dodōnāeus\",\"Dodonaeus\"],\"lema_canonico\":\"Dodōnāeus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo a Dodōna; também substantivo próprio feminino: a cidade/óraculo de Dodona no Épiro\",\"aliases\":[],\"exemplos\":[\"Civ. Div. 1, 95\"],\"notas\":\"Entrada mantida da primeira passada; correção ortográfica presumida (Cândia→Épiro/Dodōna). Necessita verificação em dicionários latinos primários.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
     "id": "chunk_8900-e1",
     "volume_id": "faria",
     "doc_name": "chunk_8900",
@@ -2374,28 +1934,6 @@
     "notas": "Forma restituída a partir do OCR; falta confirmação em dicionários principais (Whitaker não registra de modo confiável).",
     "raw_text": "{\"id\":\"chunk_8900:8900:0\",\"lemas\":[\"Dodonaeus\",\"Dodōnāeus\"],\"lema_canonico\":\"Dodonaeus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo a Dodona (topónimo); pertencente ou relativo à cidade de Dodona.\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 2, 4, 5\"],\"notas\":\"Forma restituída a partir do OCR; falta confirmação em dicionários principais (Whitaker não registra de modo confiável).\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_8900:8900:0\",\"lemas\":[\"Dodonaeus\",\"Dodōnāeus\"],\"lema_canonico\":\"Dodonaeus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo a Dodona (topónimo); pertencente ou relativo à cidade de Dodona.\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 2, 4, 5\"],\"notas\":\"Forma restituída a partir do OCR; falta confirmação em dicionários principais (Whitaker não registra de modo confiável).\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_8901-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_8901",
-    "page_num": 8901,
-    "lemmas": [
-      "dōdrantārĭus",
-      "dōdrantārĭus"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "nome próprio (f.) relacionado a Dodona — personificação ou referência ao sítio/sacerdotisa de Dodona",
-    "exemplos": [],
-    "notas": "Forma e genitivo sugeridos pelo primeiro passo; falta confirmação em dicionários principais.\n[ocr_pipeline 2025-08-16T23:19:37.321113Z] lemma_in='Dodōnis' → 'dōdrantārĭus' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:17:35Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='dōdrantārĭus' → 'dōdrantārĭus' | [dedupe] redirect → chunk_8903:8903:0 | [dedupe] redirect → chunk_8903:8903:0",
-    "raw_text": "{\"id\":\"chunk_8901:8901:0\",\"lemas\":[\"Dodōnis\",\"Dodonis\"],\"lema_canonico\":\"Dodōnis\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"nome próprio (f.) relacionado a Dodona — personificação ou referência ao sítio/sacerdotisa de Dodona\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 13, 716\"],\"notas\":\"Forma e genitivo sugeridos pelo primeiro passo; falta confirmação em dicionários principais.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_8901:8901:0\",\"lemas\":[\"Dodōnis\",\"Dodonis\"],\"lema_canonico\":\"Dodōnis\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"nome próprio (f.) relacionado a Dodona — personificação ou referência ao sítio/sacerdotisa de Dodona\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 13, 716\"],\"notas\":\"Forma e genitivo sugeridos pelo primeiro passo; falta confirmação em dicionários principais.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
     "id": "chunk_8902-e1",
@@ -2596,28 +2134,6 @@
     "raw_json": "{\"id\":\"chunk_8909:8909:1\",\"lemas\":[\"dolens\"],\"lema_canonico\":\"dolens\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"part. pres.\"],\"definicao\":\"Particípio presente ativo de doleō, -ēre: 'que sente dor; aflito, lamentoso'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Confirmado com Lewis & Short e Whitaker como participium praesentis de doleō.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_8910-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_8910",
-    "page_num": 8910,
-    "lemmas": [
-      "dolens",
-      "dolens"
-    ],
-    "morfologia": "adj. (3) 3T",
-    "morph_render": "adj. (3) 3T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Particípio presente de doleō; ‘que sente dor, doloroso; que causa dor’",
-    "exemplos": [],
-    "notas": "Classificado como adj. de 3ª com marcador de part. pres.; confirmado por Lewis & Short e Whitaker. | [dedupe] redirect → chunk_8909:8909:1 | [dedupe] redirect → chunk_8909:8909:1",
-    "raw_text": "{\"id\":\"chunk_8910:8910:0\",\"lemas\":[\"dolens\"],\"lema_canonico\":\"dolens\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[\"part. pres.\"],\"definicao\":\"Particípio presente de doleō; ‘que sente dor, doloroso; que causa dor’\",\"aliases\":[],\"exemplos\":[\"Sal. B. Jug. 84, 1\",\"Ov. Met. 4, 246\"],\"notas\":\"Classificado como adj. de 3ª com marcador de part. pres.; confirmado por Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_8910:8910:0\",\"lemas\":[\"dolens\"],\"lema_canonico\":\"dolens\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[\"part. pres.\"],\"definicao\":\"Particípio presente de doleō; ‘que sente dor, doloroso; que causa dor’\",\"aliases\":[],\"exemplos\":[\"Sal. B. Jug. 84, 1\",\"Ov. Met. 4, 246\"],\"notas\":\"Classificado como adj. de 3ª com marcador de part. pres.; confirmado por Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_8911-e1",
     "volume_id": "faria",
     "doc_name": "chunk_8911",
@@ -2660,28 +2176,6 @@
     "notas": "Formas de perfeito/supino normalizadas (duī/— conforme tradição; grafia unificada) e regência alinhada a LS.",
     "raw_text": "{\"id\":\"chunk_8912:8912:0\",\"lemas\":[\"doleo\",\"doleō\"],\"lema_canonico\":\"doleo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"sentir dor, sofrer; afligir-se; por extensão: lamentar, deplorar; usos impessoais e variadas regências\",\"aliases\":[],\"exemplos\":[\"Plaut. Cist. 60\",\"Cic. Tusc. 2, 44\",\"Cic. Sest. 145\"],\"notas\":\"Formas de perfeito/supino normalizadas (duī/— conforme tradição; grafia unificada) e regência alinhada a LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_8912:8912:0\",\"lemas\":[\"doleo\",\"doleō\"],\"lema_canonico\":\"doleo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"sentir dor, sofrer; afligir-se; por extensão: lamentar, deplorar; usos impessoais e variadas regências\",\"aliases\":[],\"exemplos\":[\"Plaut. Cist. 60\",\"Cic. Tusc. 2, 44\",\"Cic. Sest. 145\"],\"notas\":\"Formas de perfeito/supino normalizadas (duī/— conforme tradição; grafia unificada) e regência alinhada a LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_8913-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_8913",
-    "page_num": 8913,
-    "lemmas": [
-      "doletum",
-      "doletum"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:low",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada aparenta ser redirecionamento corrupto para 'dolium' (vase). Mantida grafia original do manuscrito como variantes.",
-    "raw_text": "{\"id\":\"chunk_8913:8913:0\",\"lemas\":[\"doletum\",\"dolelus\"],\"lema_canonico\":\"doletum\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"dolium\"],\"exemplos\":[],\"notas\":\"Entrada aparenta ser redirecionamento corrupto para 'dolium' (vase). Mantida grafia original do manuscrito como variantes.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_8913:8913:0\",\"lemas\":[\"doletum\",\"dolelus\"],\"lema_canonico\":\"doletum\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"dolium\"],\"exemplos\":[],\"notas\":\"Entrada aparenta ser redirecionamento corrupto para 'dolium' (vase). Mantida grafia original do manuscrito como variantes.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"redirect_only\"]}"
   },
   {
     "id": "chunk_8914-e1",
@@ -2992,50 +2486,6 @@
     "raw_json": "{\"id\":\"chunk_8927:8927:0\",\"lemas\":[\"dōlōsus\",\"dolōsus\",\"dolosus\"],\"lema_canonico\":\"dōlōsus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"astucioso, manhoso, enganador; 'crafty, deceitful' (uso sobretudo poético)\",\"aliases\":[],\"exemplos\":[\"Hor. Sat. 2, 5, 70\"],\"notas\":\"Grafia com macron no primeiro o conforme LS; advérbio dōlōse atestado.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_8928-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_8928",
-    "page_num": 8928,
-    "lemmas": [
-      "doleo",
-      "doleo"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "doleō, dolēre: sentir dor, padecer, estar aflito; também lamentar-se, estar triste; causar dor.",
-    "exemplos": [],
-    "notas": "Paradigma reforçado conforme LS/Lat→Deu; acentuação macrônica indicada. | [dedupe] redirect → chunk_8912:8912:0 | [dedupe] redirect → chunk_8912:8912:0",
-    "raw_text": "{\"id\":\"chunk_8928:8928:0\",\"lemas\":[\"doleo\",\"dolēre\"],\"lema_canonico\":\"doleo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"doleō, dolēre: sentir dor, padecer, estar aflito; também lamentar-se, estar triste; causar dor.\",\"aliases\":[],\"exemplos\":[\"Plaut. Truc. 2, 6, 45\",\"Cic. Tusc. 2, 19, 44\"],\"notas\":\"Paradigma reforçado conforme LS/Lat→Deu; acentuação macrônica indicada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_8928:8928:0\",\"lemas\":[\"doleo\",\"dolēre\"],\"lema_canonico\":\"doleo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"doleō, dolēre: sentir dor, padecer, estar aflito; também lamentar-se, estar triste; causar dor.\",\"aliases\":[],\"exemplos\":[\"Plaut. Truc. 2, 6, 45\",\"Cic. Tusc. 2, 19, 44\"],\"notas\":\"Paradigma reforçado conforme LS/Lat→Deu; acentuação macrônica indicada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_8928-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_8928",
-    "page_num": 8928,
-    "lemmas": [
-      "doleo",
-      "doleo"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "dolūī: perfeito de doleō — 'tive dor/estive aflito'. Forma perfeita usada para relatar ação passada de sofrer dor.",
-    "exemplos": [],
-    "notas": "Entrada explicita o perfeito doluī; relação paradigma confirmada por LS e Lat→Deu. | [dedupe] redirect → chunk_8912:8912:0 | [dedupe] redirect → chunk_8912:8912:0",
-    "raw_text": "{\"id\":\"chunk_8928:8928:1\",\"lemas\":[\"dolui\",\"doleo\"],\"lema_canonico\":\"doleo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"dolūī: perfeito de doleō — 'tive dor/estive aflito'. Forma perfeita usada para relatar ação passada de sofrer dor.\",\"aliases\":[],\"exemplos\":[\"Plaut. Truc. 2, 6, 45\"],\"notas\":\"Entrada explicita o perfeito doluī; relação paradigma confirmada por LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_8928:8928:1\",\"lemas\":[\"dolui\",\"doleo\"],\"lema_canonico\":\"doleo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"dolūī: perfeito de doleō — 'tive dor/estive aflito'. Forma perfeita usada para relatar ação passada de sofrer dor.\",\"aliases\":[],\"exemplos\":[\"Plaut. Truc. 2, 6, 45\"],\"notas\":\"Entrada explicita o perfeito doluī; relação paradigma confirmada por LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_8929-e1",
     "volume_id": "faria",
     "doc_name": "chunk_8929",
@@ -3144,28 +2594,6 @@
     "notas": "Registro como locativo/advérbio confirmado por Whitaker; OCR suportou leitura. | [ocr_fix 2025-08-17T19:47:39Z] match direto em Gaffiot por lemma/lemma_norm | lemma_in='domi' → 'dŏmi'",
     "raw_text": "{\"id\":\"chunk_8933:8933:0\",\"lemas\":[\"domi\"],\"lema_canonico\":\"domi\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"em casa, no lar (locativo de domus; adv.).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Registro como locativo/advérbio confirmado por Whitaker; OCR suportou leitura.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"src_ocr\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_8933:8933:0\",\"lemas\":[\"domi\"],\"lema_canonico\":\"domi\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"em casa, no lar (locativo de domus; adv.).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Registro como locativo/advérbio confirmado por Whitaker; OCR suportou leitura.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"src_ocr\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_8934-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_8934",
-    "page_num": 8934,
-    "lemmas": [
-      "dŏmĭcĭlĭum",
-      "dŏmĭcĭlĭum"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "dwelling, home, domicile",
-    "exemplos": [],
-    "notas": "Corrigida grafia para domicilium (attested form); 'domicinium' mantido como variante OCR provável. | [dedupe] redirect → chunk_8935:8935:0 | [dedupe] redirect → chunk_8935:8935:0 | [ocr_fix 2025-08-17T19:57:33Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='domicilium' → 'dŏmĭcĭlĭum'",
-    "raw_text": "{\"id\":\"chunk_8934:8934:0\",\"lemas\":[\"domicilium\",\"domicinium\"],\"lema_canonico\":\"domicilium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"dwelling, home, domicile\",\"aliases\":[\"domicinium\"],\"exemplos\":[\"Marc. 5, 78\"],\"notas\":\"Corrigida grafia para domicilium (attested form); 'domicinium' mantido como variante OCR provável.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_8934:8934:0\",\"lemas\":[\"domicilium\",\"domicinium\"],\"lema_canonico\":\"domicilium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"dwelling, home, domicile\",\"aliases\":[\"domicinium\"],\"exemplos\":[\"Marc. 5, 78\"],\"notas\":\"Corrigida grafia para domicilium (attested form); 'domicinium' mantido como variante OCR provável.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
     "id": "chunk_8935-e1",
@@ -3432,28 +2860,6 @@
     "raw_json": "{\"id\":\"chunk_8946:8946:0\",\"lemas\":[\"dominor\",\"dominārī\"],\"lema_canonico\":\"dominor\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"verbo deponente: exercer domínio, ser senhor, dominar, reinar (absoluto ou com complemento em abl./in + abl.)\",\"aliases\":[],\"exemplos\":[\"Cic. Rep. 3, 12\",\"Liv. 33, 46\",\"Tac. A. 4, 7\"],\"notas\":\"Forma deponente confirmada; escolha da conjugação 1ª (dominārī) conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_8947-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_8947",
-    "page_num": 8947,
-    "lemmas": [
-      "dominus",
-      "dominus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "1) Senhor, dono de casa, proprietário. 2) Figurado: governante, chefe; título honorífico (imperadores); também 'amante' em contextos poéticos.",
-    "exemplos": [],
-    "notas": "Grafia e referências normalizadas segundo LS/Whitaker. | [dedupe] redirect → chunk_8547:8547:1 | [dedupe] redirect → chunk_8547:8547:1",
-    "raw_text": "{\"id\":\"chunk_8947:8947:0\",\"lemas\":[\"dominus\"],\"lema_canonico\":\"dominus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"1) Senhor, dono de casa, proprietário. 2) Figurado: governante, chefe; título honorífico (imperadores); também 'amante' em contextos poéticos.\",\"aliases\":[],\"exemplos\":[\"Cic. Off. 1, 39, 139\",\"Cic. Rep. 1, 48\",\"Suet. Dom. 13\",\"Ov. Am. 3, 7, 11\"],\"notas\":\"Grafia e referências normalizadas segundo LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_8947:8947:0\",\"lemas\":[\"dominus\"],\"lema_canonico\":\"dominus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"1) Senhor, dono de casa, proprietário. 2) Figurado: governante, chefe; título honorífico (imperadores); também 'amante' em contextos poéticos.\",\"aliases\":[],\"exemplos\":[\"Cic. Off. 1, 39, 139\",\"Cic. Rep. 1, 48\",\"Suet. Dom. 13\",\"Ov. Am. 3, 7, 11\"],\"notas\":\"Grafia e referências normalizadas segundo LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_8948-e1",
     "volume_id": "faria",
     "doc_name": "chunk_8948",
@@ -3540,28 +2946,6 @@
     "notas": "Unificação de formas nominais e adjetivais; atestado em LS e Whitaker.",
     "raw_text": "{\"id\":\"chunk_8951:8951:0\",\"lemas\":[\"Domitianus\",\"Domitiānus\",\"Domitiana\",\"Domitianum\"],\"lema_canonico\":\"Domitianus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"1) Nome próprio: Domiciano, imperador romano (81–96 A.D.). 2) Adjetivo derivado: relativo a Domiciano (p.ex. Via Domitiana).\",\"aliases\":[],\"exemplos\":[\"Suet. Dom. passim\",\"Tac. H. 3, 86\",\"Stat. S. 4 praef.\",\"Suet. Dom. 13\"],\"notas\":\"Unificação de formas nominais e adjetivais; atestado em LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_8951:8951:0\",\"lemas\":[\"Domitianus\",\"Domitiānus\",\"Domitiana\",\"Domitianum\"],\"lema_canonico\":\"Domitianus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"1) Nome próprio: Domiciano, imperador romano (81–96 A.D.). 2) Adjetivo derivado: relativo a Domiciano (p.ex. Via Domitiana).\",\"aliases\":[],\"exemplos\":[\"Suet. Dom. passim\",\"Tac. H. 3, 86\",\"Stat. S. 4 praef.\",\"Suet. Dom. 13\"],\"notas\":\"Unificação de formas nominais e adjetivais; atestado em LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_8952-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_8952",
-    "page_num": 8952,
-    "lemmas": [
-      "Domitianus",
-      "Domitianus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Tito Flávio Domitiano, imperador romano (n. 51 – m. 96), reinou 81–96 d.C.",
-    "exemplos": [],
-    "notas": "Unificadas variantes orthográficas; forma egenitiva/declinação 2ª confirmadas. | [dedupe] redirect → chunk_8951:8951:0 | [dedupe] redirect → chunk_8951:8951:0",
-    "raw_text": "{\"id\":\"chunk_8952:8952:0\",\"lemas\":[\"Domitianus\",\"Domitiānus\"],\"lema_canonico\":\"Domitianus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Tito Flávio Domitiano, imperador romano (n. 51 – m. 96), reinou 81–96 d.C.\",\"aliases\":[],\"exemplos\":[\"Suet. Dom.\"],\"notas\":\"Unificadas variantes orthográficas; forma egenitiva/declinação 2ª confirmadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_8952:8952:0\",\"lemas\":[\"Domitianus\",\"Domitiānus\"],\"lema_canonico\":\"Domitianus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Tito Flávio Domitiano, imperador romano (n. 51 – m. 96), reinou 81–96 d.C.\",\"aliases\":[],\"exemplos\":[\"Suet. Dom.\"],\"notas\":\"Unificadas variantes orthográficas; forma egenitiva/declinação 2ª confirmadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_8953-e1",
@@ -3740,28 +3124,6 @@
     "raw_json": "{\"id\":\"chunk_8960:8960:0\",\"lemas\":[\"domo\",\"domō\"],\"lema_canonico\":\"domo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"domar, domesticar; subjugar, vencer (transitivo)\",\"aliases\":[],\"exemplos\":[\"Varro R.R. 1, 20, 2\",\"Plaut. Pers. 2, 3, 7\",\"Cic. N. D. 2, 64\"],\"notas\":\"Formas pessoais domō, domūī, domītum e infinitivo domāre confirmadas; verbo transitivo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_8961-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_8961",
-    "page_num": 8961,
-    "lemmas": [
-      "domo",
-      "domo"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Forma perfeita (1ª pessoa do sing. do perfeito indicativo) do verbo domō, domāre: domar, subjugar, conquistar.",
-    "exemplos": [],
-    "notas": "Entrada retificada para o lema verbal (infinitivo); indicado tempo/forma em morph_extra. | [dedupe] redirect → chunk_8960:8960:0 | [dedupe] redirect → chunk_8960:8960:0",
-    "raw_text": "{\"id\":\"chunk_8961:8961:0\",\"lemas\":[\"domo\"],\"lema_canonico\":\"domo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"perf. ind. 1 s.\"],\"definicao\":\"Forma perfeita (1ª pessoa do sing. do perfeito indicativo) do verbo domō, domāre: domar, subjugar, conquistar.\",\"aliases\":[\"domui\"],\"exemplos\":[],\"notas\":\"Entrada retificada para o lema verbal (infinitivo); indicado tempo/forma em morph_extra.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_8961:8961:0\",\"lemas\":[\"domo\"],\"lema_canonico\":\"domo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"perf. ind. 1 s.\"],\"definicao\":\"Forma perfeita (1ª pessoa do sing. do perfeito indicativo) do verbo domō, domāre: domar, subjugar, conquistar.\",\"aliases\":[\"domui\"],\"exemplos\":[],\"notas\":\"Entrada retificada para o lema verbal (infinitivo); indicado tempo/forma em morph_extra.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_8962-e1",
     "volume_id": "faria",
     "doc_name": "chunk_8962",
@@ -3784,50 +3146,6 @@
     "raw_json": "{\"id\":\"chunk_8962:8962:0\",\"lemas\":[\"domus\"],\"lema_canonico\":\"domus\",\"morfologia\":\"s. fem. 4ª (-us)\",\"morph_extra\":[\"gen. sg.\"],\"definicao\":\"Casa, edifício; lar, residência, família, domicílio.\",\"aliases\":[\"domui\"],\"exemplos\":[],\"notas\":\"Registro como substantivo (4ª decl.) com indicação de caso genitivo singular.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_8963-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_8963",
-    "page_num": 8963,
-    "lemmas": [
-      "Dŏmĭtĭus",
-      "dŏmĭtĭus"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "(incerta) 'volta à casa' — atestado numa referência patrística (Ac. apud S. Jer., 3, 34); possível forma medieval/ecclesiástica relacionada a domus",
-    "exemplos": [],
-    "notas": "Forma e análise incertas; não encontrada em LS/Whitaker; mantida a leitura do first_pass/OCR para revisão.\n[ocr_pipeline 2025-08-16T23:24:41.554066Z] lemma_in='domutis' → 'dŏmĭtĭus' | motivo: similaridade semântica FAISS (definição/gloss) | [dedupe] redirect → chunk_8953:8953:0 | [ocr_fix 2025-08-17T18:32:30Z] match direto em LS por lemma/lemma_norm | lemma_in='dŏmĭtĭus' → 'dŏmĭtĭus' | [dedupe] redirect → chunk_8953:8953:0 | [ocr_fix 2025-08-20T01:03:57Z] Correção automática de lema via LS | lemma_in='dŏmĭtĭus' → 'Dŏmĭtĭus'",
-    "raw_text": "{\"id\":\"chunk_8963:8963:0\",\"lemas\":[\"domutis\"],\"lema_canonico\":\"domutis\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"(incerta) 'volta à casa' — atestado numa referência patrística (Ac. apud S. Jer., 3, 34); possível forma medieval/ecclesiástica relacionada a domus\",\"aliases\":[],\"exemplos\":[\"Ac. apud S. Jer., 3, 34\"],\"notas\":\"Forma e análise incertas; não encontrada em LS/Whitaker; mantida a leitura do first_pass/OCR para revisão.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_8963:8963:0\",\"lemas\":[\"domutis\"],\"lema_canonico\":\"domutis\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"(incerta) 'volta à casa' — atestado numa referência patrística (Ac. apud S. Jer., 3, 34); possível forma medieval/ecclesiástica relacionada a domus\",\"aliases\":[],\"exemplos\":[\"Ac. apud S. Jer., 3, 34\"],\"notas\":\"Forma e análise incertas; não encontrada em LS/Whitaker; mantida a leitura do first_pass/OCR para revisão.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_8964-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_8964",
-    "page_num": 8964,
-    "lemmas": [
-      "domus",
-      "domus"
-    ],
-    "morfologia": "s. fem. 4ª (-us)",
-    "morph_render": "s. fem. 4ª (-us)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Casa, domicílio; família, lar; edifício; por extensão pátria, palácio; usos idiomáticos (ex.: domi, 'em casa').",
-    "exemplos": [],
-    "notas": "Registro da forma -ūs (principal) e menção às formas mais antigas em -i; normalizei referências citadas. | [dedupe] redirect → chunk_8962:8962:0 | [dedupe] redirect → chunk_8962:8962:0",
-    "raw_text": "{\"id\":\"chunk_8964:8964:0\",\"lemas\":[\"domus\"],\"lema_canonico\":\"domus\",\"morfologia\":\"s. fem. 4ª (-us)\",\"morph_extra\":[\"variant forms: domi (loc.), domūs/gen. old domī\"],\"definicao\":\"Casa, domicílio; família, lar; edifício; por extensão pátria, palácio; usos idiomáticos (ex.: domi, 'em casa').\",\"aliases\":[],\"exemplos\":[\"Cic. Fin. 5, 42\",\"Cic. Or. 89\",\"Cic. B. Gal. 1, 31, 14\",\"Cic. Att. 4, 12\",\"Tib. 3, 2, 22\",\"Plaut. Mil. 191\",\"Cic. Att. 10, 14, 2\",\"A. Gell. 4, 16, 5\"],\"notas\":\"Registro da forma -ūs (principal) e menção às formas mais antigas em -i; normalizei referências citadas.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_8964:8964:0\",\"lemas\":[\"domus\"],\"lema_canonico\":\"domus\",\"morfologia\":\"s. fem. 4ª (-us)\",\"morph_extra\":[\"variant forms: domi (loc.), domūs/gen. old domī\"],\"definicao\":\"Casa, domicílio; família, lar; edifício; por extensão pátria, palácio; usos idiomáticos (ex.: domi, 'em casa').\",\"aliases\":[],\"exemplos\":[\"Cic. Fin. 5, 42\",\"Cic. Or. 89\",\"Cic. B. Gal. 1, 31, 14\",\"Cic. Att. 4, 12\",\"Tib. 3, 2, 22\",\"Plaut. Mil. 191\",\"Cic. Att. 10, 14, 2\",\"A. Gell. 4, 16, 5\"],\"notas\":\"Registro da forma -ūs (principal) e menção às formas mais antigas em -i; normalizei referências citadas.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_8965-e1",
     "volume_id": "faria",
     "doc_name": "chunk_8965",
@@ -3848,28 +3166,6 @@
     "notas": "Sing. 'donarium' e pl. 'donaria' confirmados (LS, Whitaker, Lat→Deu).",
     "raw_text": "{\"id\":\"chunk_8965:8965:0\",\"lemas\":[\"donarium\",\"donaria\"],\"lema_canonico\":\"donarium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[\"pl. nom./acc.\"],\"definicao\":\"Lugar do templo onde se guardavam oferendas; tesouro do templo; por metonímia, templo/santuário/altar.\",\"aliases\":[],\"exemplos\":[\"Luc. 9, 516\",\"Verg. G. 3, 533\",\"Apul. Met. 9, 10\"],\"notas\":\"Sing. 'donarium' e pl. 'donaria' confirmados (LS, Whitaker, Lat→Deu).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_8965:8965:0\",\"lemas\":[\"donarium\",\"donaria\"],\"lema_canonico\":\"donarium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[\"pl. nom./acc.\"],\"definicao\":\"Lugar do templo onde se guardavam oferendas; tesouro do templo; por metonímia, templo/santuário/altar.\",\"aliases\":[],\"exemplos\":[\"Luc. 9, 516\",\"Verg. G. 3, 533\",\"Apul. Met. 9, 10\"],\"notas\":\"Sing. 'donarium' e pl. 'donaria' confirmados (LS, Whitaker, Lat→Deu).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_8966-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_8966",
-    "page_num": 8966,
-    "lemmas": [
-      "dōnārĭum",
-      "dōnārĭum"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Recinto/tesouro do templo onde se guardavam as ofertas votivas; por metonímia, o próprio templo ou santuário; também: a oferta votiva.",
-    "exemplos": [],
-    "notas": "Harmonizado com Lewis & Short e Whitaker; removida indicação errônea de verbo. | [dedupe] redirect → chunk_8965:8965:0 | [dedupe] redirect → chunk_8965:8965:0",
-    "raw_text": "{\"id\":\"chunk_8966:8966:0\",\"lemas\":[\"dōnārĭum\",\"donarium\"],\"lema_canonico\":\"dōnārĭum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Recinto/tesouro do templo onde se guardavam as ofertas votivas; por metonímia, o próprio templo ou santuário; também: a oferta votiva.\",\"aliases\":[],\"exemplos\":[\"Luc. 9, 516\",\"App. M. 1, p. 221\",\"Verg. G. 3, 533\",\"Ov. F. 3, 335\",\"Liv. 42, 28\"],\"notas\":\"Harmonizado com Lewis & Short e Whitaker; removida indicação errônea de verbo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_8966:8966:0\",\"lemas\":[\"dōnārĭum\",\"donarium\"],\"lema_canonico\":\"dōnārĭum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Recinto/tesouro do templo onde se guardavam as ofertas votivas; por metonímia, o próprio templo ou santuário; também: a oferta votiva.\",\"aliases\":[],\"exemplos\":[\"Luc. 9, 516\",\"App. M. 1, p. 221\",\"Verg. G. 3, 533\",\"Ov. F. 3, 335\",\"Liv. 42, 28\"],\"notas\":\"Harmonizado com Lewis & Short e Whitaker; removida indicação errônea de verbo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_8967-e1",
@@ -4002,50 +3298,6 @@
     "notas": "Entrada atestada por Lewis & Short de forma lacunar; OCR sugere dōnĭque. | [ocr_fix 2025-08-17T19:47:39Z] match direto em LS por lemma/lemma_norm | lemma_in='dōnique' → 'dōnique'",
     "raw_text": "{\"id\":\"chunk_8972:8972:0\",\"lemas\":[\"dōnique\",\"donique\"],\"lema_canonico\":\"dōnique\",\"morfologia\":\"conj.\",\"morph_extra\":[],\"definicao\":\"var. de dōnec? — conjunção com sentido aproximado de “até que”, atestada em alguns manuscritos; entrada incerta.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada atestada por Lewis & Short de forma lacunar; OCR sugere dōnĭque.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"src_ocr\",\"conf:med\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_8972:8972:0\",\"lemas\":[\"dōnique\",\"donique\"],\"lema_canonico\":\"dōnique\",\"morfologia\":\"conj.\",\"morph_extra\":[],\"definicao\":\"var. de dōnec? — conjunção com sentido aproximado de “até que”, atestada em alguns manuscritos; entrada incerta.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada atestada por Lewis & Short de forma lacunar; OCR sugere dōnĭque.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"src_ocr\",\"conf:med\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_8973-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_8973",
-    "page_num": 8973,
-    "lemmas": [
-      "donec",
-      "donec"
-    ],
-    "morfologia": "conj.",
-    "morph_render": "conj.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Conjunção: enquanto, até que.",
-    "exemplos": [],
-    "notas": "Corrigida para donec; donicum/donĭcum registrados como variantes corruptas/arcaicas em LS/inscrições. | [dedupe] redirect → chunk_8971:8971:0 | [dedupe] redirect → chunk_8971:8971:0",
-    "raw_text": "{\"id\":\"chunk_8973:8973:0\",\"lemas\":[\"donec\"],\"lema_canonico\":\"donec\",\"morfologia\":\"conj.\",\"morph_extra\":[],\"definicao\":\"Conjunção: enquanto, até que.\",\"aliases\":[\"donicum\",\"donĭcum\"],\"exemplos\":[],\"notas\":\"Corrigida para donec; donicum/donĭcum registrados como variantes corruptas/arcaicas em LS/inscrições.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_8973:8973:0\",\"lemas\":[\"donec\"],\"lema_canonico\":\"donec\",\"morfologia\":\"conj.\",\"morph_extra\":[],\"definicao\":\"Conjunção: enquanto, até que.\",\"aliases\":[\"donicum\",\"donĭcum\"],\"exemplos\":[],\"notas\":\"Corrigida para donec; donicum/donĭcum registrados como variantes corruptas/arcaicas em LS/inscrições.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_8974-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_8974",
-    "page_num": 8974,
-    "lemmas": [
-      "dōnique",
-      "dōnique"
-    ],
-    "morfologia": "interj.",
-    "morph_render": "interj.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "interjeição introdutória (inic.); atestado em Lucrécio.",
-    "exemplos": [],
-    "notas": "Entrada confirmada em Lewis & Short (lem.) como 'dōnique' = init. | [dedupe] redirect → chunk_8972:8972:0 | [dedupe] redirect → chunk_8972:8972:0 | [ocr_fix 2025-08-17T19:57:32Z] match direto em LS por lemma/lemma_norm | lemma_in='dōnique' → 'dōnique'",
-    "raw_text": "{\"id\":\"chunk_8974:8974:0\",\"lemas\":[\"dōnique\"],\"lema_canonico\":\"dōnique\",\"morfologia\":\"interj.\",\"morph_extra\":[],\"definicao\":\"interjeição introdutória (inic.); atestado em Lucrécio.\",\"aliases\":[],\"exemplos\":[\"Lucr. 2, 1116\"],\"notas\":\"Entrada confirmada em Lewis & Short (lem.) como 'dōnique' = init.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_8974:8974:0\",\"lemas\":[\"dōnique\"],\"lema_canonico\":\"dōnique\",\"morfologia\":\"interj.\",\"morph_extra\":[],\"definicao\":\"interjeição introdutória (inic.); atestado em Lucrécio.\",\"aliases\":[],\"exemplos\":[\"Lucr. 2, 1116\"],\"notas\":\"Entrada confirmada em Lewis & Short (lem.) como 'dōnique' = init.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
     "id": "chunk_8975-e1",
@@ -4290,28 +3542,6 @@
     "raw_json": "{\"id\":\"chunk_8985:8985:0\",\"lemas\":[\"Doricus\",\"Dorīcus\"],\"lema_canonico\":\"Doricus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Dórico; relativo aos Dórios ou a Dória. 1) Dórico (Plin. H. Nat. 6, 7). 2) Por extensão: grego (Verg. Aen. 2, 27).\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 6, 7\",\"Verg. Aen. 2, 27\"],\"notas\":\"Normalizado grafia; separado sentidos conforme fontes.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_8986-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_8986",
-    "page_num": 8986,
-    "lemmas": [
-      "Doriaei",
-      "Doriaei"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:low",
-    "needs_review": 1,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Redirecionamento: vide Dorylaei; não há dados lexicais suficientes aqui.",
-    "raw_text": "{\"id\":\"chunk_8986:8986:0\",\"lemas\":[\"Doriaei\",\"Dorylaei\"],\"lema_canonico\":\"Doriaei\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Dorylaei\"],\"exemplos\":[],\"notas\":\"Redirecionamento: vide Dorylaei; não há dados lexicais suficientes aqui.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"redirect_only\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_8986:8986:0\",\"lemas\":[\"Doriaei\",\"Dorylaei\"],\"lema_canonico\":\"Doriaei\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Dorylaei\"],\"exemplos\":[],\"notas\":\"Redirecionamento: vide Dorylaei; não há dados lexicais suficientes aqui.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"redirect_only\",\"needs_review\"]}"
-  },
-  {
     "id": "chunk_8987-e1",
     "volume_id": "faria",
     "doc_name": "chunk_8987",
@@ -4422,28 +3652,6 @@
     "raw_json": "{\"id\":\"chunk_8991:8991:0\",\"lemas\":[\"Dorius\",\"Doriusus\"],\"lema_canonico\":\"Dorius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Dório; relativo aos Dórios, ao dialeto dórico ou ao modo dórico.\",\"aliases\":[],\"exemplos\":[\"Hor. Epod. 6, 9\"],\"notas\":\"Grafia e morfologia alinhadas com Whitaker; exemplos confirmados.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_8992-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_8992",
-    "page_num": 8992,
-    "lemmas": [
-      "dormio",
-      "dormio"
-    ],
-    "morfologia": "v. 4ª (-īre)",
-    "morph_render": "v. 4ª (-īre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "dormīre: dormir; formas métricas/arcaicas (ex.: dormiam) atestadas em Plauto.",
-    "exemplos": [],
-    "notas": "Lema normalizado para infinitivo dormīre; forma textual 'dormiam' mantida como variante/alias (Plauto). | [dedupe] redirect → chunk_8993:8993:0",
-    "raw_text": "{\"id\":\"chunk_8992:8992:0\",\"lemas\":[\"dormio\"],\"lema_canonico\":\"dormio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"dormīre: dormir; formas métricas/arcaicas (ex.: dormiam) atestadas em Plauto.\",\"aliases\":[\"dormiam\"],\"exemplos\":[\"Plaut. Trin. 726\"],\"notas\":\"Lema normalizado para infinitivo dormīre; forma textual 'dormiam' mantida como variante/alias (Plauto).\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_8992:8992:0\",\"lemas\":[\"dormio\"],\"lema_canonico\":\"dormio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"dormīre: dormir; formas métricas/arcaicas (ex.: dormiam) atestadas em Plauto.\",\"aliases\":[\"dormiam\"],\"exemplos\":[\"Plaut. Trin. 726\"],\"notas\":\"Lema normalizado para infinitivo dormīre; forma textual 'dormiam' mantida como variante/alias (Plauto).\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_8993-e1",
     "volume_id": "faria",
     "doc_name": "chunk_8993",
@@ -4508,28 +3716,6 @@
     "notas": "Entrée substantival alinhada com LS/Whitaker; macrons normalizados na análise interna.",
     "raw_text": "{\"id\":\"chunk_8995:8995:0\",\"lemas\":[\"dormitio\"],\"lema_canonico\":\"dormitio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"ato de dormir, sono, cochilo; no latim eclesiástico, morte (sentido figurado).\",\"aliases\":[],\"exemplos\":[\"Varr. ap. Non. 100, 1–2\",\"Vulg. Johan. 11, 13\",\"Tert. Patient. 9\",\"Vulg. 2 Macc. 12, 45\",\"Inscr. Orell. 4461\"],\"notas\":\"Entrée substantival alinhada com LS/Whitaker; macrons normalizados na análise interna.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_8995:8995:0\",\"lemas\":[\"dormitio\"],\"lema_canonico\":\"dormitio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"ato de dormir, sono, cochilo; no latim eclesiástico, morte (sentido figurado).\",\"aliases\":[],\"exemplos\":[\"Varr. ap. Non. 100, 1–2\",\"Vulg. Johan. 11, 13\",\"Tert. Patient. 9\",\"Vulg. 2 Macc. 12, 45\",\"Inscr. Orell. 4461\"],\"notas\":\"Entrée substantival alinhada com LS/Whitaker; macrons normalizados na análise interna.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_8995-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_8995",
-    "page_num": 8995,
-    "lemmas": [
-      "dormitio",
-      "dormitio"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "substantivo: ato de adormecer, cochilo; (ecles.) morte. Verbo (freq.): cochilar, adormecer; ficar inativo; negligenciar.",
-    "exemplos": [],
-    "notas": "Entrada mista (substantivo + verbo frequentativo). Combinei informações; morfologia mista assinalada em morph_extra. | [dedupe] redirect → chunk_8995:8995:0 | [dedupe] redirect → chunk_8995:8995:0",
-    "raw_text": "{\"id\":\"chunk_8995:8995:1\",\"lemas\":[\"dormitio\",\"dormito\"],\"lema_canonico\":\"dormitio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[\"v. 1ª (-āre)\"],\"definicao\":\"substantivo: ato de adormecer, cochilo; (ecles.) morte. Verbo (freq.): cochilar, adormecer; ficar inativo; negligenciar.\",\"aliases\":[],\"exemplos\":[\"Cic. Dei. 1, 59\",\"Ov. Her. 19, 195\",\"Cic. De Or. 2, 144\",\"Hor. Ars Poet. 359\"],\"notas\":\"Entrada mista (substantivo + verbo frequentativo). Combinei informações; morfologia mista assinalada em morph_extra.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_8995:8995:1\",\"lemas\":[\"dormitio\",\"dormito\"],\"lema_canonico\":\"dormitio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[\"v. 1ª (-āre)\"],\"definicao\":\"substantivo: ato de adormecer, cochilo; (ecles.) morte. Verbo (freq.): cochilar, adormecer; ficar inativo; negligenciar.\",\"aliases\":[],\"exemplos\":[\"Cic. Dei. 1, 59\",\"Ov. Her. 19, 195\",\"Cic. De Or. 2, 144\",\"Hor. Ars Poet. 359\"],\"notas\":\"Entrada mista (substantivo + verbo frequentativo). Combinei informações; morfologia mista assinalada em morph_extra.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"morph_out_of_vocab\"]}"
   },
   {
     "id": "chunk_8995-e3",
@@ -4618,27 +3804,5 @@
     "notas": "Preservei a forma adjetival e a substantival neutra; normalizei macrons conforme fonte.",
     "raw_text": "{\"id\":\"chunk_8998:8998:0\",\"lemas\":[\"dormitorius\",\"dormitorium\"],\"lema_canonico\":\"dormitorius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"subst. neut. dormitorium\"],\"definicao\":\"Relativo a dormir; que serve para dormir. Substantivado (dormitorium): quarto para dormir, dormitório.\",\"aliases\":[],\"exemplos\":[\"Plin. Ep. 5, 6\",\"Plin. Ep. 2, 17, 9\",\"Plin. Nat. 30, 6, § 51\"],\"notas\":\"Preservei a forma adjetival e a substantival neutra; normalizei macrons conforme fonte.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_8998:8998:0\",\"lemas\":[\"dormitorius\",\"dormitorium\"],\"lema_canonico\":\"dormitorius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"subst. neut. dormitorium\"],\"definicao\":\"Relativo a dormir; que serve para dormir. Substantivado (dormitorium): quarto para dormir, dormitório.\",\"aliases\":[],\"exemplos\":[\"Plin. Ep. 5, 6\",\"Plin. Ep. 2, 17, 9\",\"Plin. Nat. 30, 6, § 51\"],\"notas\":\"Preservei a forma adjetival e a substantival neutra; normalizei macrons conforme fonte.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_8999-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_8999",
-    "page_num": 8999,
-    "lemmas": [
-      "dorsennus",
-      "dorsennus"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada redireciona para Dossenus (Lewis & Short); definido como referência. | [ocr_fix 2025-08-17T19:47:45Z] match direto em LS por lemma/lemma_norm | lemma_in='dorsennus' → 'dorsennus'",
-    "raw_text": "{\"id\":\"chunk_8999:8999:0\",\"lemas\":[\"dorsennus\",\"dorsēnus\"],\"lema_canonico\":\"dorsennus\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"dossenus\"],\"exemplos\":[],\"notas\":\"Entrada redireciona para Dossenus (Lewis & Short); definido como referência.\",\"flags\":[\"src_ls\",\"conf:med\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_8999:8999:0\",\"lemas\":[\"dorsennus\",\"dorsēnus\"],\"lema_canonico\":\"dorsennus\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"dossenus\"],\"exemplos\":[],\"notas\":\"Entrada redireciona para Dossenus (Lewis & Short); definido como referência.\",\"flags\":[\"src_ls\",\"conf:med\",\"redirect_only\"]}"
   }
 ]

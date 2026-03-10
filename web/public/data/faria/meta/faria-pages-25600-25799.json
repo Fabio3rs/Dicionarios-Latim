@@ -88,28 +88,6 @@
     "raw_json": "{\"id\":\"chunk_25603:25603:0\",\"lemas\":[\"sēmĭ-grăvis\",\"semigravis\"],\"lema_canonico\":\"sēmĭ-grăvis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"half-overcome; half-drunken (half-inebriate)\",\"aliases\":[],\"exemplos\":[\"Liv. 25, 24, 2\"],\"notas\":\"Forma atestada em Lewis & Short; grafia normalizada do prefixo sēmĭ-.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_25604-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_25604",
-    "page_num": 25604,
-    "lemmas": [
-      "sēpărābĭlis",
-      "sēpărābĭlis"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Separar-se de si; enbornar. (texto incerto, verificar fonte primária)",
-    "exemplos": [],
-    "notas": "Entrada e grafia seguem a primeira passada; leitura OCR suspeita, requer verificação no original.\n[ocr_pipeline 2025-08-16T23:17:42.463245Z] lemma_in='sēminīgē ōs' → 'sēpărābĭlis' | motivo: similaridade semântica FAISS (definição/gloss) | [dedupe] redirect → chunk_25718:25718:0 | [ocr_fix 2025-08-17T18:28:20Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='sēpărābĭlis' → 'sēpărābĭlis' | [dedupe] redirect → chunk_25718:25718:0",
-    "raw_text": "{\"id\":\"chunk_25604:25604:0\",\"lemas\":[\"sēminīgē ōs\",\"ăre\"],\"lema_canonico\":\"sēminīgē ōs\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"Separar-se de si; enbornar. (texto incerto, verificar fonte primária)\",\"aliases\":[],\"exemplos\":[\"Cic. Cael. 18\"],\"notas\":\"Entrada e grafia seguem a primeira passada; leitura OCR suspeita, requer verificação no original.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_25604:25604:0\",\"lemas\":[\"sēminīgē ōs\",\"ăre\"],\"lema_canonico\":\"sēminīgē ōs\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"Separar-se de si; enbornar. (texto incerto, verificar fonte primária)\",\"aliases\":[],\"exemplos\":[\"Cic. Cael. 18\"],\"notas\":\"Entrada e grafia seguem a primeira passada; leitura OCR suspeita, requer verificação no original.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
     "id": "chunk_25605-e1",
     "volume_id": "faria",
     "doc_name": "chunk_25605",
@@ -350,28 +328,6 @@
     "notas": "Grafia normalizada a partir de LS; Whitaker atesta pullatus como adj. correlato.",
     "raw_text": "{\"id\":\"chunk_25612:25612:3\",\"lemas\":[\"sēmĭ-pullātus\",\"semipullatus\",\"semi-ullatus\"],\"lema_canonico\":\"sēmĭ-pullātus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Vestido em meia‑negrura; ‘clothed in half‑black’.\",\"aliases\":[],\"exemplos\":[\"Sid. Ep. 1, 7\"],\"notas\":\"Grafia normalizada a partir de LS; Whitaker atesta pullatus como adj. correlato.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"src_ocr\"]}",
     "raw_json": "{\"id\":\"chunk_25612:25612:3\",\"lemas\":[\"sēmĭ-pullātus\",\"semipullatus\",\"semi-ullatus\"],\"lema_canonico\":\"sēmĭ-pullātus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Vestido em meia‑negrura; ‘clothed in half‑black’.\",\"aliases\":[],\"exemplos\":[\"Sid. Ep. 1, 7\"],\"notas\":\"Grafia normalizada a partir de LS; Whitaker atesta pullatus como adj. correlato.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"src_ocr\"]}"
-  },
-  {
-    "id": "chunk_25612-e5",
-    "volume_id": "faria",
-    "doc_name": "chunk_25612",
-    "page_num": 25612,
-    "lemmas": [
-      "sīmĭŏlus",
-      "sīmĭŏlus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Pequeno macaco; termo depreciativo ‘little ape’.",
-    "exemplos": [],
-    "notas": "Atestado por LS e Whitaker como substantivo masculino diminutivo. | [dedupe] redirect → chunk_26067:26067:0 | [dedupe] redirect → chunk_26067:26067:0",
-    "raw_text": "{\"id\":\"chunk_25612:25612:4\",\"lemas\":[\"sīmĭŏlus\",\"simiolus\"],\"lema_canonico\":\"sīmĭŏlus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Pequeno macaco; termo depreciativo ‘little ape’.\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 7, 2, 3\"],\"notas\":\"Atestado por LS e Whitaker como substantivo masculino diminutivo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_25612:25612:4\",\"lemas\":[\"sīmĭŏlus\",\"simiolus\"],\"lema_canonico\":\"sīmĭŏlus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Pequeno macaco; termo depreciativo ‘little ape’.\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 7, 2, 3\"],\"notas\":\"Atestado por LS e Whitaker como substantivo masculino diminutivo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_25612-e6",
@@ -616,28 +572,6 @@
     "raw_json": "{\"id\":\"chunk_25618:25618:0\",\"lemas\":[\"seminatus\"],\"lema_canonico\":\"seminatus\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo de seminō ‘semear, plantar’.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_25619-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_25619",
-    "page_num": 25619,
-    "lemmas": [
-      "semen",
-      "semen"
-    ],
-    "morfologia": "s. neut. 3ª (-is)",
-    "morph_render": "s. neut. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "semente; broto; origem, causa; descendência (sentidos locais listados em Lewis & Short e Lat→Deu).",
-    "exemplos": [],
-    "notas": "Lema e sentidos confirmados por Lewis & Short e Lat→Deu. | [dedupe] redirect → chunk_25573:25573:0 | [dedupe] redirect → chunk_25573:25573:0",
-    "raw_text": "{\"id\":\"chunk_25619:25619:0\",\"lemas\":[\"semen\"],\"lema_canonico\":\"semen\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"semente; broto; origem, causa; descendência (sentidos locais listados em Lewis & Short e Lat→Deu).\",\"aliases\":[],\"exemplos\":[\"Ov. M. 1, 108\"],\"notas\":\"Lema e sentidos confirmados por Lewis & Short e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_25619:25619:0\",\"lemas\":[\"semen\"],\"lema_canonico\":\"semen\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"semente; broto; origem, causa; descendência (sentidos locais listados em Lewis & Short e Lat→Deu).\",\"aliases\":[],\"exemplos\":[\"Ov. M. 1, 108\"],\"notas\":\"Lema e sentidos confirmados por Lewis & Short e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_25619-e2",
     "volume_id": "faria",
     "doc_name": "chunk_25619",
@@ -658,72 +592,6 @@
     "notas": "Forma e genitivo (seminecis) alinhadas com Whitaker e passagens poéticas.",
     "raw_text": "{\"id\":\"chunk_25619:25619:1\",\"lemas\":[\"seminex\",\"seminecis\"],\"lema_canonico\":\"seminex\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[],\"definicao\":\"meio-morto, semivivo; ‘half-dead’.\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 1, 228\"],\"notas\":\"Forma e genitivo (seminecis) alinhadas com Whitaker e passagens poéticas.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_25619:25619:1\",\"lemas\":[\"seminex\",\"seminecis\"],\"lema_canonico\":\"seminex\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[],\"definicao\":\"meio-morto, semivivo; ‘half-dead’.\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 1, 228\"],\"notas\":\"Forma e genitivo (seminecis) alinhadas com Whitaker e passagens poéticas.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_25620-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_25620",
-    "page_num": 25620,
-    "lemmas": [
-      "semen",
-      "semen"
-    ],
-    "morfologia": "s. neut. 3ª (-is)",
-    "morph_render": "s. neut. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "semente; aquilo que semeia, origem, princípio",
-    "exemplos": [],
-    "notas": "OCR indicava 'sēmins' (gen. sēminis); normalizado para sēmen (gen. sēminis). | [dedupe] redirect → chunk_25573:25573:0 | [dedupe] redirect → chunk_25573:25573:0",
-    "raw_text": "{\"id\":\"chunk_25620:25620:0\",\"lemas\":[\"semen\",\"sēmen\"],\"lema_canonico\":\"semen\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"semente; aquilo que semeia, origem, princípio\",\"aliases\":[],\"exemplos\":[],\"notas\":\"OCR indicava 'sēmins' (gen. sēminis); normalizado para sēmen (gen. sēminis).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_25620:25620:0\",\"lemas\":[\"semen\",\"sēmen\"],\"lema_canonico\":\"semen\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"semente; aquilo que semeia, origem, princípio\",\"aliases\":[],\"exemplos\":[],\"notas\":\"OCR indicava 'sēmins' (gen. sēminis); normalizado para sēmen (gen. sēminis).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_25620-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_25620",
-    "page_num": 25620,
-    "lemmas": [
-      "semen",
-      "semen"
-    ],
-    "morfologia": "s. neut. 3ª (-is)",
-    "morph_render": "s. neut. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "semente; genitivo regular sēminis (o OCR registrou 'sēmins')",
-    "exemplos": [],
-    "notas": "Entrada aparentemente registra forma genitiva errada ('sēmins'); corrigido para sēmen (gen. sēminis). | [dedupe] redirect → chunk_25573:25573:0 | [dedupe] redirect → chunk_25573:25573:0",
-    "raw_text": "{\"id\":\"chunk_25620:25620:1\",\"lemas\":[\"semen\",\"sēmen\"],\"lema_canonico\":\"semen\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"semente; genitivo regular sēminis (o OCR registrou 'sēmins')\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada aparentemente registra forma genitiva errada ('sēmins'); corrigido para sēmen (gen. sēminis).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_25620:25620:1\",\"lemas\":[\"semen\",\"sēmen\"],\"lema_canonico\":\"semen\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"semente; genitivo regular sēminis (o OCR registrou 'sēmins')\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada aparentemente registra forma genitiva errada ('sēmins'); corrigido para sēmen (gen. sēminis).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_25621-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_25621",
-    "page_num": 25621,
-    "lemmas": [
-      "semen",
-      "semen"
-    ],
-    "morfologia": "s. neut. 3ª (-is)",
-    "morph_render": "s. neut. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Semente; descendência, raça; figuradamente: origem, princípio, causa.",
-    "exemplos": [],
-    "notas": "Unificado lema para sēmen (gen. sēminis). Removida variante redundante 'sēminum' como lema. | [dedupe] redirect → chunk_25573:25573:0 | [dedupe] redirect → chunk_25573:25573:0",
-    "raw_text": "{\"id\":\"chunk_25621:25621:0\",\"lemas\":[\"semen\"],\"lema_canonico\":\"semen\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Semente; descendência, raça; figuradamente: origem, princípio, causa.\",\"aliases\":[],\"exemplos\":[\"Cato R.R.; Lucr. 4, 1031\"],\"notas\":\"Unificado lema para sēmen (gen. sēminis). Removida variante redundante 'sēminum' como lema.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_25621:25621:0\",\"lemas\":[\"semen\"],\"lema_canonico\":\"semen\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Semente; descendência, raça; figuradamente: origem, princípio, causa.\",\"aliases\":[],\"exemplos\":[\"Cato R.R.; Lucr. 4, 1031\"],\"notas\":\"Unificado lema para sēmen (gen. sēminis). Removida variante redundante 'sēminum' como lema.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_25622-e1",
@@ -902,28 +770,6 @@
     "raw_json": "{\"id\":\"chunk_25629:25629:0\",\"lemas\":[\"sēmĭ-plēnus\",\"semiplenus\",\"semiplenē\"],\"lema_canonico\":\"semiplenus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"meio-cheio; parcialmente cheio; também adv.: sēmĭ-plēnē, parcialmente, incompletamente.\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 2, 5, 25, § 63\",\"Colum. 5, 5, 4\",\"Colum. 9, 15, 4\",\"Pall. Febr. 32\",\"Liv. 25, 30\",\"Vell. 2, 80, 1\",\"Vell. 2, 112, 2\",\"Sid. Ep. 4, 22\"],\"notas\":\"Unificado com Lewis & Short, Whitaker e Lat→Deu; incluída forma adverbial registrada em LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_25630-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_25630",
-    "page_num": 25630,
-    "lemmas": [
-      "potens",
-      "potens"
-    ],
-    "morfologia": "adj. (3) 1T",
-    "morph_render": "adj. (3) 1T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "poderoso; forte; capaz; (subst.) o poderoso, o potentado.",
-    "exemplos": [],
-    "notas": "Formas compar./superl. incluídas; alinhado com Whitaker e LS. | [dedupe] redirect → chunk_21863:21863:0 | [dedupe] redirect → chunk_21863:21863:0",
-    "raw_text": "{\"id\":\"chunk_25630:25630:1\",\"lemas\":[\"potens\",\"potentis\",\"potentior\",\"potentissimus\"],\"lema_canonico\":\"potens\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[],\"definicao\":\"poderoso; forte; capaz; (subst.) o poderoso, o potentado.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Formas compar./superl. incluídas; alinhado com Whitaker e LS.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_25630:25630:1\",\"lemas\":[\"potens\",\"potentis\",\"potentior\",\"potentissimus\"],\"lema_canonico\":\"potens\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[],\"definicao\":\"poderoso; forte; capaz; (subst.) o poderoso, o potentado.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Formas compar./superl. incluídas; alinhado com Whitaker e LS.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_25630-e2",
     "volume_id": "faria",
     "doc_name": "chunk_25630",
@@ -988,28 +834,6 @@
     "notas": "Lema e forma clássica confirmados em Lewis & Short; mantida forma com macrons como variante. | [ocr_fix 2025-08-17T20:00:19Z] match direto em LS por lemma/lemma_norm | lemma_in='Semiramis' → 'Sĕmīrămis'",
     "raw_text": "{\"id\":\"chunk_25631:25631:0\",\"lemas\":[\"Sēmīrămis\",\"Semiramis\"],\"lema_canonico\":\"Semiramis\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Rainha lendária da Assíria; esposa e sucessora de Ninus, creditada com obras grandiosas em Babilônia; usada por metáfora pejorativa (ex.: Cic. Prov.).\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 4, 58\",\"Cic. Prov. 9\"],\"notas\":\"Lema e forma clássica confirmados em Lewis & Short; mantida forma com macrons como variante.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"src_ocr\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_25631:25631:0\",\"lemas\":[\"Sēmīrămis\",\"Semiramis\"],\"lema_canonico\":\"Semiramis\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Rainha lendária da Assíria; esposa e sucessora de Ninus, creditada com obras grandiosas em Babilônia; usada por metáfora pejorativa (ex.: Cic. Prov.).\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 4, 58\",\"Cic. Prov. 9\"],\"notas\":\"Lema e forma clássica confirmados em Lewis & Short; mantida forma com macrons como variante.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"src_ocr\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_25632-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_25632",
-    "page_num": 25632,
-    "lemmas": [
-      "Sĕmīrămis",
-      "Sĕmīrămis"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Semíramis, lendária rainha da Assíria; adj. e subst. referente a essa figura",
-    "exemplos": [],
-    "notas": "Forma e grafia alinhadas com Lewis & Short; mantida referência fornecida. | [dedupe] redirect → chunk_25631:25631:0 | [dedupe] redirect → chunk_25631:25631:0 | [ocr_fix 2025-08-17T19:52:05Z] match direto em LS por lemma/lemma_norm | lemma_in='Semiramis' → 'Sĕmīrămis'",
-    "raw_text": "{\"id\":\"chunk_25632:25632:0\",\"lemas\":[\"Semiramis\",\"Sēmīrămis\"],\"lema_canonico\":\"Semiramis\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Semíramis, lendária rainha da Assíria; adj. e subst. referente a essa figura\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 5, 85\"],\"notas\":\"Forma e grafia alinhadas com Lewis & Short; mantida referência fornecida.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_25632:25632:0\",\"lemas\":[\"Semiramis\",\"Sēmīrămis\"],\"lema_canonico\":\"Semiramis\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Semíramis, lendária rainha da Assíria; adj. e subst. referente a essa figura\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 5, 85\"],\"notas\":\"Forma e grafia alinhadas com Lewis & Short; mantida referência fornecida.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
     "id": "chunk_25633-e1",
@@ -1298,50 +1122,6 @@
     "raw_json": "{\"id\":\"chunk_25645:25645:0\",\"lemas\":[\"sēmĭtārĭus\",\"semitarius\"],\"lema_canonico\":\"semitarius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo a atalhos, veredas; 'of or belonging to lanes or by-ways'.\",\"aliases\":[],\"exemplos\":[\"Catul. 37, 16\"],\"notas\":\"Forma e sentido harmonizados com Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_25646-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_25646",
-    "page_num": 25646,
-    "lemmas": [
-      "semi",
-      "semi"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "prefixo: meio-, parcialmente",
-    "exemplos": [],
-    "notas": "Entrada tratada como prefixo; morfologia lexical não cabe no vocabulário morfológico pedido. | [dedupe] redirect → chunk_25630:25630:0 | [dedupe] redirect → chunk_25630:25630:0",
-    "raw_text": "{\"id\":\"chunk_25646:25646:0\",\"lemas\":[\"semi\"],\"lema_canonico\":\"semi\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"prefixo: meio-, parcialmente\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada tratada como prefixo; morfologia lexical não cabe no vocabulário morfológico pedido.\",\"flags\":[\"src_whitaker\",\"conf:med\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_25646:25646:0\",\"lemas\":[\"semi\"],\"lema_canonico\":\"semi\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"prefixo: meio-, parcialmente\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada tratada como prefixo; morfologia lexical não cabe no vocabulário morfológico pedido.\",\"flags\":[\"src_whitaker\",\"conf:med\",\"morph_out_of_vocab\"]}"
-  },
-  {
-    "id": "chunk_25646-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_25646",
-    "page_num": 25646,
-    "lemmas": [
-      "tus",
-      "tus"
-    ],
-    "morfologia": "s. neut. 3ª (-is)",
-    "morph_render": "s. neut. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "tus, turis: incenso, olíbano (resina aromática usada em sacrifício/como perfume)",
-    "exemplos": [],
-    "notas": "Formas e genitivo normalizadas conforme Lewis & Short e Whitaker; lema canônico 'tus'. | [dedupe] redirect → chunk_22052:22052:0 | [dedupe] redirect → chunk_22052:22052:0",
-    "raw_text": "{\"id\":\"chunk_25646:25646:1\",\"lemas\":[\"tus\",\"turis\"],\"lema_canonico\":\"tus\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"tus, turis: incenso, olíbano (resina aromática usada em sacrifício/como perfume)\",\"aliases\":[],\"exemplos\":[\"Plin. 12, 14\",\"Verg. A. 1, 417\"],\"notas\":\"Formas e genitivo normalizadas conforme Lewis & Short e Whitaker; lema canônico 'tus'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_25646:25646:1\",\"lemas\":[\"tus\",\"turis\"],\"lema_canonico\":\"tus\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"tus, turis: incenso, olíbano (resina aromática usada em sacrifício/como perfume)\",\"aliases\":[],\"exemplos\":[\"Plin. 12, 14\",\"Verg. A. 1, 417\"],\"notas\":\"Formas e genitivo normalizadas conforme Lewis & Short e Whitaker; lema canônico 'tus'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_25646-e3",
     "volume_id": "faria",
     "doc_name": "chunk_25646",
@@ -1406,28 +1186,6 @@
     "notas": "Correção da forma verbal: lemma = sēmitāre, atestado em Lat→Deu e Whitaker como verbo derivado de semita.",
     "raw_text": "{\"id\":\"chunk_25648:25648:0\",\"lemas\":[\"sēmitāre\",\"semitare\"],\"lema_canonico\":\"semitare\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"to cut a way through, to make or open a path; to furrow (form.: sēmitō, sēmitāvī, sēmitātus).\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 17, 169\"],\"notas\":\"Correção da forma verbal: lemma = sēmitāre, atestado em Lat→Deu e Whitaker como verbo derivado de semita.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_25648:25648:0\",\"lemas\":[\"sēmitāre\",\"semitare\"],\"lema_canonico\":\"semitare\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"to cut a way through, to make or open a path; to furrow (form.: sēmitō, sēmitāvī, sēmitātus).\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 17, 169\"],\"notas\":\"Correção da forma verbal: lemma = sēmitāre, atestado em Lat→Deu e Whitaker como verbo derivado de semita.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_25648-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_25648",
-    "page_num": 25648,
-    "lemmas": [
-      "semita",
-      "semita"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "a narrow way, a path, a footpath; lane, by-way (opp. via).",
-    "exemplos": [],
-    "notas": "Forma e sentido confirmados em Lewis & Short e Whitaker. | [dedupe] redirect → chunk_25643:25643:0 | [dedupe] redirect → chunk_25643:25643:0",
-    "raw_text": "{\"id\":\"chunk_25648:25648:1\",\"lemas\":[\"semita\",\"sēmĭta\",\"semitae\"],\"lema_canonico\":\"semita\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"a narrow way, a path, a footpath; lane, by-way (opp. via).\",\"aliases\":[],\"exemplos\":[\"Cic. Agr. 2, 35\"],\"notas\":\"Forma e sentido confirmados em Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_25648:25648:1\",\"lemas\":[\"semita\",\"sēmĭta\",\"semitae\"],\"lema_canonico\":\"semita\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"a narrow way, a path, a footpath; lane, by-way (opp. via).\",\"aliases\":[],\"exemplos\":[\"Cic. Agr. 2, 35\"],\"notas\":\"Forma e sentido confirmados em Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_25649-e1",
@@ -1518,28 +1276,6 @@
     "raw_json": "{\"id\":\"chunk_25652:25652:0\",\"lemas\":[\"semivir\",\"semivira\",\"semivirum\"],\"lema_canonico\":\"semivir\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"1) (substantivo) meio-homem; 2) eunuco (sentido transferido); 3) (adj.) efeminado, voluptuoso; também devasso/libertino\",\"aliases\":[],\"exemplos\":[\"Ov. Fast. 5, 380\",\"Juv. 6, 513\",\"Verg. Aen. 4, 215\"],\"notas\":\"Formas substantivas e adjetivais listadas e padronizadas; morfologia segundo Whitaker/Lewis & Short.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_25653-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_25653",
-    "page_num": 25653,
-    "lemmas": [
-      "sēmi-",
-      "sēmi-"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "prefixo latino 'semi-' indicando 'meio', 'metade', 'parcialmente'.",
-    "exemplos": [],
-    "notas": "Entrada originalmente marcada como prefixo; morfologia de 'prefixo' não consta do vocabulário exigido.\n[ocr_pipeline 2025-08-16T23:21:49.614696Z] lemma_in='semi' → 'sēmi-' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:20:32Z] match direto em LS por lemma/lemma_norm | lemma_in='sēmi-' → 'sēmi-' | [dedupe] redirect → chunk_25613:25613:0 | [dedupe] redirect → chunk_25613:25613:0",
-    "raw_text": "{\"id\":\"chunk_25653:25653:0\",\"lemas\":[\"semi\"],\"lema_canonico\":\"semi\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"prefixo latino 'semi-' indicando 'meio', 'metade', 'parcialmente'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada originalmente marcada como prefixo; morfologia de 'prefixo' não consta do vocabulário exigido.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"morph_out_of_vocab\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_25653:25653:0\",\"lemas\":[\"semi\"],\"lema_canonico\":\"semi\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"prefixo latino 'semi-' indicando 'meio', 'metade', 'parcialmente'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada originalmente marcada como prefixo; morfologia de 'prefixo' não consta do vocabulário exigido.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"morph_out_of_vocab\",\"needs_review\"]}"
-  },
-  {
     "id": "chunk_25653-e2",
     "volume_id": "faria",
     "doc_name": "chunk_25653",
@@ -1562,28 +1298,6 @@
     "raw_json": "{\"id\":\"chunk_25653:25653:1\",\"lemas\":[\"virus\"],\"lema_canonico\":\"virus\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"líquido viscoso; muco; veneno, secreção venenosa; suco ou sêmen em contextos naturais; sentido figurado: princípio nocivo, elemento acre.\",\"aliases\":[],\"exemplos\":[\"Verg. G. 3, 281\",\"Plin. Nat. 9, 50\"],\"notas\":\"Grafia e declinação confirmadas por Lewis & Short, Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_25653-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_25653",
-    "page_num": 25653,
-    "lemmas": [
-      "sēmĭ-confectus",
-      "sēmĭ-confectus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "adjetivo composto (semi- + virus) usado como apelativo: 'meio-homem, semivírte' (uso atestado em Cicero).",
-    "exemplos": [],
-    "notas": "Mantida variante com e sem macrons; composto por prefixo 'semi-' + 'virus' no texto adjetival de Cícero.\n[ocr_pipeline 2025-08-16T23:21:49.828649Z] lemma_in='semivīrus' → 'sēmĭ-confectus' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:20:32Z] match direto em LS por lemma/lemma_norm | lemma_in='sēmĭ-confectus' → 'sēmĭ-confectus' | [dedupe] redirect → chunk_25642:25642:0 | [dedupe] redirect → chunk_25642:25642:0",
-    "raw_text": "{\"id\":\"chunk_25653:25653:2\",\"lemas\":[\"sēmivīrus\",\"semivīrus\"],\"lema_canonico\":\"semivīrus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"adjetivo composto (semi- + virus) usado como apelativo: 'meio-homem, semivírte' (uso atestado em Cicero).\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 1, 45\"],\"notas\":\"Mantida variante com e sem macrons; composto por prefixo 'semi-' + 'virus' no texto adjetival de Cícero.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}",
-    "raw_json": "{\"id\":\"chunk_25653:25653:2\",\"lemas\":[\"sēmivīrus\",\"semivīrus\"],\"lema_canonico\":\"semivīrus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"adjetivo composto (semi- + virus) usado como apelativo: 'meio-homem, semivírte' (uso atestado em Cicero).\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 1, 45\"],\"notas\":\"Mantida variante com e sem macrons; composto por prefixo 'semi-' + 'virus' no texto adjetival de Cícero.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}"
-  },
-  {
     "id": "chunk_25654-e1",
     "volume_id": "faria",
     "doc_name": "chunk_25654",
@@ -1604,28 +1318,6 @@
     "notas": "Lema normalizado e grafia ajustada; sentido confirmado em Whitaker e Lewis & Short.",
     "raw_text": "{\"id\":\"chunk_25654:25654:0\",\"lemas\":[\"semivocalis\"],\"lema_canonico\":\"semivocalis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"parcialmente vocálico; semi-vocal, que tem em parte a qualidade de voz\",\"aliases\":[],\"exemplos\":[\"Varr. R.R. 1, 17, 1\"],\"notas\":\"Lema normalizado e grafia ajustada; sentido confirmado em Whitaker e Lewis & Short.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_25654:25654:0\",\"lemas\":[\"semivocalis\"],\"lema_canonico\":\"semivocalis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"parcialmente vocálico; semi-vocal, que tem em parte a qualidade de voz\",\"aliases\":[],\"exemplos\":[\"Varr. R.R. 1, 17, 1\"],\"notas\":\"Lema normalizado e grafia ajustada; sentido confirmado em Whitaker e Lewis & Short.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_25655-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_25655",
-    "page_num": 25655,
-    "lemmas": [
-      "semivocalis",
-      "semivocalis"
-    ],
-    "morfologia": "adj. (3) 2T",
-    "morph_render": "adj. (3) 2T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "adj. relativo a sons semivocálicos; semivogal",
-    "exemplos": [],
-    "notas": "Classificado como adjetivo conforme LS/Whitaker; corrigida a morfologia da forma substantivada do OCR. | [dedupe] redirect → chunk_25654:25654:0 | [dedupe] redirect → chunk_25654:25654:0",
-    "raw_text": "{\"id\":\"chunk_25655:25655:0\",\"lemas\":[\"semivocalis\",\"sēmivocālis\"],\"lema_canonico\":\"semivocalis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"adj. relativo a sons semivocálicos; semivogal\",\"aliases\":[],\"exemplos\":[\"Quint. 1, 4, 6\"],\"notas\":\"Classificado como adjetivo conforme LS/Whitaker; corrigida a morfologia da forma substantivada do OCR.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_25655:25655:0\",\"lemas\":[\"semivocalis\",\"sēmivocālis\"],\"lema_canonico\":\"semivocalis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"adj. relativo a sons semivocálicos; semivogal\",\"aliases\":[],\"exemplos\":[\"Quint. 1, 4, 6\"],\"notas\":\"Classificado como adjetivo conforme LS/Whitaker; corrigida a morfologia da forma substantivada do OCR.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_25656-e1",
@@ -1692,28 +1384,6 @@
     "notas": "Formas e sentido confirmados por Lewis & Short e Lat→Deu (sēmovēre).",
     "raw_text": "{\"id\":\"chunk_25658:25658:0\",\"lemas\":[\"sēmoveō\",\"semoveo\"],\"lema_canonico\":\"semoveo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"remover, afastar, separar (tr.).\",\"aliases\":[],\"exemplos\":[\"Cic. Acad. 1, 34\",\"Cic. Fin. 2, 39\"],\"notas\":\"Formas e sentido confirmados por Lewis & Short e Lat→Deu (sēmovēre).\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_25658:25658:0\",\"lemas\":[\"sēmoveō\",\"semoveo\"],\"lema_canonico\":\"semoveo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"remover, afastar, separar (tr.).\",\"aliases\":[],\"exemplos\":[\"Cic. Acad. 1, 34\",\"Cic. Fin. 2, 39\"],\"notas\":\"Formas e sentido confirmados por Lewis & Short e Lat→Deu (sēmovēre).\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_25658-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_25658",
-    "page_num": 25658,
-    "lemmas": [
-      "semoveo",
-      "semoveo"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "perfeito indicativo ativo de 'sēmovēre' — 'afastei, removi'.",
-    "exemplos": [],
-    "notas": "Registro da forma perfeita; lema canônico apontado para o infinitivo 'semoveo'. | [dedupe] redirect → chunk_25658:25658:0 | [dedupe] redirect → chunk_25658:25658:0",
-    "raw_text": "{\"id\":\"chunk_25658:25658:1\",\"lemas\":[\"sēmōvī\",\"semovi\"],\"lema_canonico\":\"semoveo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"perf. 1ª sg. ind. akt.\"],\"definicao\":\"perfeito indicativo ativo de 'sēmovēre' — 'afastei, removi'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Registro da forma perfeita; lema canônico apontado para o infinitivo 'semoveo'.\",\"flags\":[\"src_latdeu\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_25658:25658:1\",\"lemas\":[\"sēmōvī\",\"semovi\"],\"lema_canonico\":\"semoveo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"perf. 1ª sg. ind. akt.\"],\"definicao\":\"perfeito indicativo ativo de 'sēmovēre' — 'afastei, removi'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Registro da forma perfeita; lema canônico apontado para o infinitivo 'semoveo'.\",\"flags\":[\"src_latdeu\",\"src_ls\",\"conf:high\"]}"
   },
   {
     "id": "chunk_25659-e1",
@@ -1826,50 +1496,6 @@
     "raw_json": "{\"id\":\"chunk_25663:25663:0\",\"lemas\":[\"Semproniānus\",\"Sempronianus\",\"Semproniana\",\"Sempronianum\"],\"lema_canonico\":\"Semproniānus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Gentilício/adjetivo referente à gens Sempronia; 'de Semprônio'.\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 12, 29, 2\"],\"notas\":\"Forma e uso confirmados em Whitaker; alinhado ao verbete prepassado.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_25663-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_25663",
-    "page_num": 25663,
-    "lemmas": [
-      "sempronianus",
-      "sempronianus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Relativo à gens Sempronía; pertencente a Semprônio.",
-    "exemplos": [],
-    "notas": "Padronizado conforme Whitaker; variante feminina/neutra inclusas. | [dedupe] redirect → chunk_25663:25663:0 | [dedupe] redirect → chunk_25663:25663:0",
-    "raw_text": "{\"id\":\"chunk_25663:25663:1\",\"lemas\":[\"sempronianus\",\"semproniana\",\"sempronianum\"],\"lema_canonico\":\"sempronianus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo à gens Sempronía; pertencente a Semprônio.\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 12, 29, 2\"],\"notas\":\"Padronizado conforme Whitaker; variante feminina/neutra inclusas.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_25663:25663:1\",\"lemas\":[\"sempronianus\",\"semproniana\",\"sempronianum\"],\"lema_canonico\":\"sempronianus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo à gens Sempronía; pertencente a Semprônio.\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 12, 29, 2\"],\"notas\":\"Padronizado conforme Whitaker; variante feminina/neutra inclusas.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_25664-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_25664",
-    "page_num": 25664,
-    "lemmas": [
-      "Sempronius",
-      "Sempronius"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Relativo à gens Sempronia; Semproniano",
-    "exemplos": [],
-    "notas": "Grafia e flexões harmonizadas com LS/Whitaker; lema canonizado como forma romana. | [dedupe] redirect → chunk_25662:25662:0 | [dedupe] redirect → chunk_25662:25662:0",
-    "raw_text": "{\"id\":\"chunk_25664:25664:0\",\"lemas\":[\"Sempronius\",\"Semprōnĭus\"],\"lema_canonico\":\"Sempronius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo à gens Sempronia; Semproniano\",\"aliases\":[],\"exemplos\":[\"Cic. Brut. 62, 222\"],\"notas\":\"Grafia e flexões harmonizadas com LS/Whitaker; lema canonizado como forma romana.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_25664:25664:0\",\"lemas\":[\"Sempronius\",\"Semprōnĭus\"],\"lema_canonico\":\"Sempronius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo à gens Sempronia; Semproniano\",\"aliases\":[],\"exemplos\":[\"Cic. Brut. 62, 222\"],\"notas\":\"Grafia e flexões harmonizadas com LS/Whitaker; lema canonizado como forma romana.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_25665-e1",
     "volume_id": "faria",
     "doc_name": "chunk_25665",
@@ -1980,28 +1606,6 @@
     "raw_json": "{\"id\":\"chunk_25669:25669:0\",\"lemas\":[\"Sēna\"],\"lema_canonico\":\"Sēna\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Sena, cidade da Úmbria (hoje Sinigaglia); local da derrota de Asdrúbal por M. Livius Salinator; também nome de um rio próximo.\",\"aliases\":[],\"exemplos\":[\"Liv. 27, 46\"],\"notas\":\"Grafia com macron confirmada; cidade e rio atestados por Lewis & Short.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_25670-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_25670",
-    "page_num": 25670,
-    "lemmas": [
-      "Sēna",
-      "Sēna"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Cidade costeira da Úmbria (mod. Sinigaglia) e o rio próximo (mod. Cesano).",
-    "exemplos": [],
-    "notas": "Padronizado com macron conforme LS; inclui tanto a cidade quanto o rio. | [dedupe] redirect → chunk_25669:25669:0 | [dedupe] redirect → chunk_25669:25669:0",
-    "raw_text": "{\"id\":\"chunk_25670:25670:0\",\"lemas\":[\"Sēna\",\"Sena\"],\"lema_canonico\":\"Sēna\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Cidade costeira da Úmbria (mod. Sinigaglia) e o rio próximo (mod. Cesano).\",\"aliases\":[],\"exemplos\":[\"Liv. 27, 46 sqq.\",\"Eutr. 3, 10\",\"Luc. 2, 407\",\"Sil. 8, 455\",\"Sil. 15, 555\"],\"notas\":\"Padronizado com macron conforme LS; inclui tanto a cidade quanto o rio.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_25670:25670:0\",\"lemas\":[\"Sēna\",\"Sena\"],\"lema_canonico\":\"Sēna\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Cidade costeira da Úmbria (mod. Sinigaglia) e o rio próximo (mod. Cesano).\",\"aliases\":[],\"exemplos\":[\"Liv. 27, 46 sqq.\",\"Eutr. 3, 10\",\"Luc. 2, 407\",\"Sil. 8, 455\",\"Sil. 15, 555\"],\"notas\":\"Padronizado com macron conforme LS; inclui tanto a cidade quanto o rio.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_25671-e1",
     "volume_id": "faria",
     "doc_name": "chunk_25671",
@@ -2022,28 +1626,6 @@
     "notas": "Grafia e sentido confirmados por LS e Whitaker; morfologia ajustada para a 2ª declinação neutra. | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='senaculum' → 'sĕnācŭlum'",
     "raw_text": "{\"id\":\"chunk_25671:25671:0\",\"lemas\":[\"senaculum\"],\"lema_canonico\":\"senaculum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Sala ou espaço de reunião do senado; originalmente um espaço aberto no Fórum junto à Graecostasis.\",\"aliases\":[],\"exemplos\":[\"T. Liv. 41, 27, 7\",\"Varr. L. L. 5, §156\",\"Val. Max. 2, 2, 6\"],\"notas\":\"Grafia e sentido confirmados por LS e Whitaker; morfologia ajustada para a 2ª declinação neutra.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_25671:25671:0\",\"lemas\":[\"senaculum\"],\"lema_canonico\":\"senaculum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Sala ou espaço de reunião do senado; originalmente um espaço aberto no Fórum junto à Graecostasis.\",\"aliases\":[],\"exemplos\":[\"T. Liv. 41, 27, 7\",\"Varr. L. L. 5, §156\",\"Val. Max. 2, 2, 6\"],\"notas\":\"Grafia e sentido confirmados por LS e Whitaker; morfologia ajustada para a 2ª declinação neutra.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_25672-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_25672",
-    "page_num": 25672,
-    "lemmas": [
-      "sēnārius",
-      "sēnārius"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "(adj. e subst.) relativo a grupos de seis; como substantivo, o verso senário (seis pés), senarius, i m.",
-    "exemplos": [],
-    "notas": "Entrada normalizada para o lema em -us; sentido substantival (verso senário) atestado em LS/Whitaker. | [dedupe] redirect → chunk_25673:25673:0 | [dedupe] redirect → chunk_25673:25673:0",
-    "raw_text": "{\"id\":\"chunk_25672:25672:0\",\"lemas\":[\"sēnārius\"],\"lema_canonico\":\"sēnārius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"(adj. e subst.) relativo a grupos de seis; como substantivo, o verso senário (seis pés), senarius, i m.\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 5, 64\"],\"notas\":\"Entrada normalizada para o lema em -us; sentido substantival (verso senário) atestado em LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_25672:25672:0\",\"lemas\":[\"sēnārius\"],\"lema_canonico\":\"sēnārius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"(adj. e subst.) relativo a grupos de seis; como substantivo, o verso senário (seis pés), senarius, i m.\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 5, 64\"],\"notas\":\"Entrada normalizada para o lema em -us; sentido substantival (verso senário) atestado em LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_25673-e1",
@@ -2220,50 +1802,6 @@
     "notas": "Entrada unificada: substantivo principal 'senectus' (3ª decl.) com a variante 'senecta' atestada.",
     "raw_text": "{\"id\":\"chunk_25680:25680:0\",\"lemas\":[\"senectus\",\"senecta\"],\"lema_canonico\":\"senectus\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Velhice, idade avançada; também 'senectus' usado poeticamente para senilidade; 'senecta' atesta variantes e usos coletivos/poéticos.\",\"aliases\":[],\"exemplos\":[\"Hor. Od. 1, 31, 19\"],\"notas\":\"Entrada unificada: substantivo principal 'senectus' (3ª decl.) com a variante 'senecta' atestada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_25680:25680:0\",\"lemas\":[\"senectus\",\"senecta\"],\"lema_canonico\":\"senectus\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Velhice, idade avançada; também 'senectus' usado poeticamente para senilidade; 'senecta' atesta variantes e usos coletivos/poéticos.\",\"aliases\":[],\"exemplos\":[\"Hor. Od. 1, 31, 19\"],\"notas\":\"Entrada unificada: substantivo principal 'senectus' (3ª decl.) com a variante 'senecta' atestada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_25681-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_25681",
-    "page_num": 25681,
-    "lemmas": [
-      "senectus",
-      "senectus"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Velhice; idade avançada, senilidade; também usado coletivamente para os velhos ou para designar cabelos grisalhos/pele desprendida (usos literários).",
-    "exemplos": [],
-    "notas": "Unificadas as acepções adjetival e substantiva conforme LS/Whitaker; forma substantiva da 3ª declinação confirmada. | [dedupe] redirect → chunk_25680:25680:0 | [dedupe] redirect → chunk_25680:25680:0",
-    "raw_text": "{\"id\":\"chunk_25681:25681:0\",\"lemas\":[\"senectus\"],\"lema_canonico\":\"senectus\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Velhice; idade avançada, senilidade; também usado coletivamente para os velhos ou para designar cabelos grisalhos/pele desprendida (usos literários).\",\"aliases\":[],\"exemplos\":[\"Plaut. Am. 4, 2, 12\",\"Lucr. 5, 886\",\"Cic. Lael.\",\"Plin. Nat. 20, 23, 95\"],\"notas\":\"Unificadas as acepções adjetival e substantiva conforme LS/Whitaker; forma substantiva da 3ª declinação confirmada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_25681:25681:0\",\"lemas\":[\"senectus\"],\"lema_canonico\":\"senectus\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Velhice; idade avançada, senilidade; também usado coletivamente para os velhos ou para designar cabelos grisalhos/pele desprendida (usos literários).\",\"aliases\":[],\"exemplos\":[\"Plaut. Am. 4, 2, 12\",\"Lucr. 5, 886\",\"Cic. Lael.\",\"Plin. Nat. 20, 23, 95\"],\"notas\":\"Unificadas as acepções adjetival e substantiva conforme LS/Whitaker; forma substantiva da 3ª declinação confirmada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_25682-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_25682",
-    "page_num": 25682,
-    "lemmas": [
-      "senectus",
-      "senectus"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "velhice, idade avançada; senilidade; (poét.) cabelos brancos; figuradamente severidade/maturidade",
-    "exemplos": [],
-    "notas": "Unificada a forma clássica 'senectus' como substantivo feminino de 3ª declinação. Referências Lewis & Short e Lat→Deu confirmam o lemas e sentidos. | [dedupe] redirect → chunk_25680:25680:0 | [dedupe] redirect → chunk_25680:25680:0",
-    "raw_text": "{\"id\":\"chunk_25682:25682:0\",\"lemas\":[\"senectus\"],\"lema_canonico\":\"senectus\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"velhice, idade avançada; senilidade; (poét.) cabelos brancos; figuradamente severidade/maturidade\",\"aliases\":[],\"exemplos\":[\"Cic. Lael.\",\"Verg. A. 5, 416\",\"Plin. 20, 23, 95\"],\"notas\":\"Unificada a forma clássica 'senectus' como substantivo feminino de 3ª declinação. Referências Lewis & Short e Lat→Deu confirmam o lemas e sentidos.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_25682:25682:0\",\"lemas\":[\"senectus\"],\"lema_canonico\":\"senectus\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"velhice, idade avançada; senilidade; (poét.) cabelos brancos; figuradamente severidade/maturidade\",\"aliases\":[],\"exemplos\":[\"Cic. Lael.\",\"Verg. A. 5, 416\",\"Plin. 20, 23, 95\"],\"notas\":\"Unificada a forma clássica 'senectus' como substantivo feminino de 3ª declinação. Referências Lewis & Short e Lat→Deu confirmam o lemas e sentidos.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_25683-e1",
@@ -2528,28 +2066,6 @@
     "notas": "Entrada ambígua no OCR; 'Senătes' parece etnônimo em Plínio. Copiado da primeira passada para revisão especializada.",
     "raw_text": "{\"id\":\"chunk_25693:25693:0\",\"lemas\":[\"senates\"],\"lema_canonico\":\"senates\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Forma incerta/variante atestada no corpus (aparente etnônimo ou forma flexionada); significado/contexto exigem verificação\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada ambígua no OCR; 'Senătes' parece etnônimo em Plínio. Copiado da primeira passada para revisão especializada.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_25693:25693:0\",\"lemas\":[\"senates\"],\"lema_canonico\":\"senates\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Forma incerta/variante atestada no corpus (aparente etnônimo ou forma flexionada); significado/contexto exigem verificação\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada ambígua no OCR; 'Senătes' parece etnônimo em Plínio. Copiado da primeira passada para revisão especializada.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_25693-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_25693",
-    "page_num": 25693,
-    "lemmas": [
-      "senatus",
-      "senatus"
-    ],
-    "morfologia": "s. masc. 4ª (-us)",
-    "morph_render": "s. masc. 4ª (-us)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "senado; assembleia de aristocratas; conselho",
-    "exemplos": [],
-    "notas": "Conforme Lewis & Short e Whitaker: sĕnātus, -ūs, m., 4ª declinação. | [dedupe] redirect → chunk_25676:25676:0 | [dedupe] redirect → chunk_25676:25676:0",
-    "raw_text": "{\"id\":\"chunk_25693:25693:1\",\"lemas\":[\"senatus\"],\"lema_canonico\":\"senatus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"senado; assembleia de aristocratas; conselho\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Conforme Lewis & Short e Whitaker: sĕnātus, -ūs, m., 4ª declinação.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_25693:25693:1\",\"lemas\":[\"senatus\"],\"lema_canonico\":\"senatus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"senado; assembleia de aristocratas; conselho\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Conforme Lewis & Short e Whitaker: sĕnātus, -ūs, m., 4ª declinação.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_25693-e3",
@@ -2860,28 +2376,6 @@
     "raw_json": "{\"id\":\"chunk_25706:25706:0\",\"lemas\":[\"sententiosus\",\"sententiosa\",\"sententiosum\",\"sententiōsus\",\"sententiōsē\"],\"lema_canonico\":\"sententiosus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"pithy, sententious; full of meaning; (adv. sententiose) sentenciously\",\"aliases\":[],\"exemplos\":[\"Cic. Or. 71, 236\",\"Cic. Or. 2, 71, 286\"],\"notas\":\"Inclui variante adverbial sententiose; grafias clássicas atendidas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_25707-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_25707",
-    "page_num": 25707,
-    "lemmas": [
-      "sententiosus",
-      "sententiosus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "sentencioso; cheio de sentido, pithy, conciso; também 'sententious'",
-    "exemplos": [],
-    "notas": "Inclui variantes nominativas; advérbio correspondente (sententiose) atestado em LS. | [dedupe] redirect → chunk_25706:25706:0 | [dedupe] redirect → chunk_25706:25706:0",
-    "raw_text": "{\"id\":\"chunk_25707:25707:0\",\"lemas\":[\"sententiosus\",\"sententiosa\",\"sententiosum\"],\"lema_canonico\":\"sententiosus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"sentencioso; cheio de sentido, pithy, conciso; também 'sententious'\",\"aliases\":[],\"exemplos\":[\"Cic. Brut. 95, 325\"],\"notas\":\"Inclui variantes nominativas; advérbio correspondente (sententiose) atestado em LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_25707:25707:0\",\"lemas\":[\"sententiosus\",\"sententiosa\",\"sententiosum\"],\"lema_canonico\":\"sententiosus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"sentencioso; cheio de sentido, pithy, conciso; também 'sententious'\",\"aliases\":[],\"exemplos\":[\"Cic. Brut. 95, 325\"],\"notas\":\"Inclui variantes nominativas; advérbio correspondente (sententiose) atestado em LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_25708-e1",
     "volume_id": "faria",
     "doc_name": "chunk_25708",
@@ -2926,28 +2420,6 @@
     "raw_json": "{\"id\":\"chunk_25709:25709:0\",\"lemas\":[\"Sentīnas\",\"Sentīnātes\"],\"lema_canonico\":\"Sentīnas\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"Relativo a Sentinum (cidade da Úmbria); também att. como gentilício/plural (Sentīnates) para os habitantes.\",\"aliases\":[],\"exemplos\":[\"Liv. 10, 27, 1\"],\"notas\":\"LS registra formas relativas a Sentinum; preservada referência a Sentinum.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_25710-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_25710",
-    "page_num": 25710,
-    "lemmas": [
-      "sentio",
-      "sentio"
-    ],
-    "morfologia": "v. 4ª (-īre)",
-    "morph_render": "v. 4ª (-īre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "sentir, perceber pelos sentidos; também notar, opinar, julgar; transitivo e intransitivo",
-    "exemplos": [],
-    "notas": "Normalizado para a forma padrão sentio, īre; inclui uso transitivo e intransitivo. | [dedupe] redirect → chunk_20667:20667:1 | [dedupe] redirect → chunk_20667:20667:1",
-    "raw_text": "{\"id\":\"chunk_25710:25710:0\",\"lemas\":[\"sentio\"],\"lema_canonico\":\"sentio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[\"tr.\",\"intr.\"],\"definicao\":\"sentir, perceber pelos sentidos; também notar, opinar, julgar; transitivo e intransitivo\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 3, 33\",\"Cic. Phil. 2, 83\",\"Cic. Cat. 2, 27\",\"Cic. Rep. 3, 32\",\"Cic. De Or. 3, 33\",\"Cic. Verr. 3, 108\",\"Cic. Verr. 2, 76\"],\"notas\":\"Normalizado para a forma padrão sentio, īre; inclui uso transitivo e intransitivo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_25710:25710:0\",\"lemas\":[\"sentio\"],\"lema_canonico\":\"sentio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[\"tr.\",\"intr.\"],\"definicao\":\"sentir, perceber pelos sentidos; também notar, opinar, julgar; transitivo e intransitivo\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 3, 33\",\"Cic. Phil. 2, 83\",\"Cic. Cat. 2, 27\",\"Cic. Rep. 3, 32\",\"Cic. De Or. 3, 33\",\"Cic. Verr. 3, 108\",\"Cic. Verr. 2, 76\"],\"notas\":\"Normalizado para a forma padrão sentio, īre; inclui uso transitivo e intransitivo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_25711-e1",
     "volume_id": "faria",
     "doc_name": "chunk_25711",
@@ -2968,28 +2440,6 @@
     "notas": "Leitura e status incertos; forma tratada conforme first_pass pois não coincide claramente com dicionários principais; requer verificação.",
     "raw_text": "{\"id\":\"chunk_25711:25711:0\",\"lemas\":[\"sēns\"],\"lema_canonico\":\"sēns\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Entrada problemática/arcaica registrada como substantivo masc. (freq. pl.) com sentidos aparentemente figurados: 'espinhoso' / 'mãos ávidas'.\",\"aliases\":[],\"exemplos\":[\"Caes. B. Gal. 2, 17, 4\",\"Plaut. Cas. 592\"],\"notas\":\"Leitura e status incertos; forma tratada conforme first_pass pois não coincide claramente com dicionários principais; requer verificação.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_25711:25711:0\",\"lemas\":[\"sēns\"],\"lema_canonico\":\"sēns\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Entrada problemática/arcaica registrada como substantivo masc. (freq. pl.) com sentidos aparentemente figurados: 'espinhoso' / 'mãos ávidas'.\",\"aliases\":[],\"exemplos\":[\"Caes. B. Gal. 2, 17, 4\",\"Plaut. Cas. 592\"],\"notas\":\"Leitura e status incertos; forma tratada conforme first_pass pois não coincide claramente com dicionários principais; requer verificação.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_25712-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_25712",
-    "page_num": 25712,
-    "lemmas": [
-      "sentio",
-      "sentio"
-    ],
-    "morfologia": "v. 4ª (-īre)",
-    "morph_render": "v. 4ª (-īre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "perceber, sentir; também entender, opinar; formas perf. sensī, supin sēnsum",
-    "exemplos": [],
-    "notas": "Corrige classificação errada da 1ª passada; harmonizado com Lewis & Short e Lat→Deu. | [dedupe] redirect → chunk_20667:20667:1 | [dedupe] redirect → chunk_20667:20667:1",
-    "raw_text": "{\"id\":\"chunk_25712:25712:0\",\"lemas\":[\"sentio\"],\"lema_canonico\":\"sentio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[\"tr.\",\"intr.\"],\"definicao\":\"perceber, sentir; também entender, opinar; formas perf. sensī, supin sēnsum\",\"aliases\":[],\"exemplos\":[\"Lucr. 3, 393\",\"Lucr. 1, 496\",\"Plaut.\",\"Cic.\"],\"notas\":\"Corrige classificação errada da 1ª passada; harmonizado com Lewis & Short e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_25712:25712:0\",\"lemas\":[\"sentio\"],\"lema_canonico\":\"sentio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[\"tr.\",\"intr.\"],\"definicao\":\"perceber, sentir; também entender, opinar; formas perf. sensī, supin sēnsum\",\"aliases\":[],\"exemplos\":[\"Lucr. 3, 393\",\"Lucr. 1, 496\",\"Plaut.\",\"Cic.\"],\"notas\":\"Corrige classificação errada da 1ª passada; harmonizado com Lewis & Short e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_25713-e1",
@@ -3080,28 +2530,6 @@
     "raw_json": "{\"id\":\"chunk_25716:25716:0\",\"lemas\":[\"seorsum\",\"seorsus\"],\"lema_canonico\":\"seorsum\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"Separadamente, à parte; apart, sundry.\",\"aliases\":[],\"exemplos\":[\"Cic. Rep. 6, 1\",\"Lucr. 6, 631\"],\"notas\":\"Inclui variantes atestadas (seorsus, sorsuma em Lucrécio).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_25717-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_25717",
-    "page_num": 25717,
-    "lemmas": [
-      "seorsum",
-      "seorsum"
-    ],
-    "morfologia": "adv.",
-    "morph_render": "adv.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "separadamente, à parte; (seorsus) adj.: separado, à parte",
-    "exemplos": [],
-    "notas": "Distinção entre advérbio seorsum e adjetivo seorsus; removida indicação incorreta de preposição/ablativo. | [dedupe] redirect → chunk_25716:25716:0 | [dedupe] redirect → chunk_25716:25716:0",
-    "raw_text": "{\"id\":\"chunk_25717:25717:0\",\"lemas\":[\"seorsum\",\"seorsus\"],\"lema_canonico\":\"seorsum\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"separadamente, à parte; (seorsus) adj.: separado, à parte\",\"aliases\":[],\"exemplos\":[\"Lucr. 3, 564\",\"V. Flacc. 5, 58\"],\"notas\":\"Distinção entre advérbio seorsum e adjetivo seorsus; removida indicação incorreta de preposição/ablativo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_25717:25717:0\",\"lemas\":[\"seorsum\",\"seorsus\"],\"lema_canonico\":\"seorsum\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"separadamente, à parte; (seorsus) adj.: separado, à parte\",\"aliases\":[],\"exemplos\":[\"Lucr. 3, 564\",\"V. Flacc. 5, 58\"],\"notas\":\"Distinção entre advérbio seorsum e adjetivo seorsus; removida indicação incorreta de preposição/ablativo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_25718-e1",
     "volume_id": "faria",
     "doc_name": "chunk_25718",
@@ -3122,50 +2550,6 @@
     "notas": "Grafia com macrons preservada em lema alternativo; declinação 3ª conforme LS/Whitaker.",
     "raw_text": "{\"id\":\"chunk_25718:25718:0\",\"lemas\":[\"separabilis\",\"sēparābilis\"],\"lema_canonico\":\"separabilis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"that may be separated; separable\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 1, 10, 21\"],\"notas\":\"Grafia com macrons preservada em lema alternativo; declinação 3ª conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_25718:25718:0\",\"lemas\":[\"separabilis\",\"sēparābilis\"],\"lema_canonico\":\"separabilis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"that may be separated; separable\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 1, 10, 21\"],\"notas\":\"Grafia com macrons preservada em lema alternativo; declinação 3ª conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_25719-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_25719",
-    "page_num": 25719,
-    "lemmas": [
-      "separō",
-      "separō"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "separō: afastar, dividir; separāri: infinitivo presente passivo de separō, 'ser separado' / 'se separar'",
-    "exemplos": [],
-    "notas": "Registrada a forma verbal separāri como infinitivo presente passivo; lemas incluem o verbo base separō. | [dedupe] redirect → chunk_25720:25720:2 | [dedupe] redirect → chunk_25720:25720:2",
-    "raw_text": "{\"id\":\"chunk_25719:25719:0\",\"lemas\":[\"separō\",\"separari\"],\"lema_canonico\":\"separō\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"separō: afastar, dividir; separāri: infinitivo presente passivo de separō, 'ser separado' / 'se separar'\",\"aliases\":[],\"exemplos\":[\"Cic. Br. 198\",\"Cic. Fam. 2, 16, 5\",\"Cic. De Or. 2, 118\"],\"notas\":\"Registrada a forma verbal separāri como infinitivo presente passivo; lemas incluem o verbo base separō.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_25719:25719:0\",\"lemas\":[\"separō\",\"separari\"],\"lema_canonico\":\"separō\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"separō: afastar, dividir; separāri: infinitivo presente passivo de separō, 'ser separado' / 'se separar'\",\"aliases\":[],\"exemplos\":[\"Cic. Br. 198\",\"Cic. Fam. 2, 16, 5\",\"Cic. De Or. 2, 118\"],\"notas\":\"Registrada a forma verbal separāri como infinitivo presente passivo; lemas incluem o verbo base separō.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_25720-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_25720",
-    "page_num": 25720,
-    "lemmas": [
-      "ile",
-      "ile"
-    ],
-    "morfologia": "s. neut. 3ª (-is)",
-    "morph_render": "s. neut. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Região da virilha; partes íntimas; lado do corpo desde os quadris até a virilha (pl.); lombo; vísceras, entranhas.",
-    "exemplos": [],
-    "notas": "Unificadas formas atestadas (ile, ilis, ilum); genitivo īlis padrão. Corrigido conforme LS e Whitaker. | [dedupe] redirect → chunk_14893:14893:0 | [dedupe] redirect → chunk_14893:14893:0",
-    "raw_text": "{\"id\":\"chunk_25720:25720:0\",\"lemas\":[\"ile\",\"ilis\",\"ilum\"],\"lema_canonico\":\"ile\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Região da virilha; partes íntimas; lado do corpo desde os quadris até a virilha (pl.); lombo; vísceras, entranhas.\",\"aliases\":[],\"exemplos\":[\"Verg. A. 7, 499\",\"Ov. M. 3, 216\",\"Plin. 20, 5, §31\"],\"notas\":\"Unificadas formas atestadas (ile, ilis, ilum); genitivo īlis padrão. Corrigido conforme LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_25720:25720:0\",\"lemas\":[\"ile\",\"ilis\",\"ilum\"],\"lema_canonico\":\"ile\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Região da virilha; partes íntimas; lado do corpo desde os quadris até a virilha (pl.); lombo; vísceras, entranhas.\",\"aliases\":[],\"exemplos\":[\"Verg. A. 7, 499\",\"Ov. M. 3, 216\",\"Plin. 20, 5, §31\"],\"notas\":\"Unificadas formas atestadas (ile, ilis, ilum); genitivo īlis padrão. Corrigido conforme LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_25720-e2",
@@ -3212,28 +2596,6 @@
     "raw_json": "{\"id\":\"chunk_25720:25720:2\",\"lemas\":[\"separo\",\"sēparō\"],\"lema_canonico\":\"separo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"Separar; apartar; distinguir.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizada a forma verbal com paradigma clássico (sēparō, sēparāre, sēparāvī, sēparātum).\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_25721-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_25721",
-    "page_num": 25721,
-    "lemmas": [
-      "sēparātus",
-      "sēparātus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "separado; particípio/adjetivo derivado de sēparō ‘separar’.",
-    "exemplos": [],
-    "notas": "Corrigido POS: não é advérbio (ver sēparātē), tratado como particípio/adjetivo. | [dedupe] redirect → chunk_25722:25722:0 | [dedupe] redirect → chunk_25722:25722:0",
-    "raw_text": "{\"id\":\"chunk_25721:25721:0\",\"lemas\":[\"sēparātus\",\"separatus\"],\"lema_canonico\":\"sēparātus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"separado; particípio/adjetivo derivado de sēparō ‘separar’.\",\"aliases\":[],\"exemplos\":[\"Cic. Inv. 2, 156\"],\"notas\":\"Corrigido POS: não é advérbio (ver sēparātē), tratado como particípio/adjetivo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_25721:25721:0\",\"lemas\":[\"sēparātus\",\"separatus\"],\"lema_canonico\":\"sēparātus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"separado; particípio/adjetivo derivado de sēparō ‘separar’.\",\"aliases\":[],\"exemplos\":[\"Cic. Inv. 2, 156\"],\"notas\":\"Corrigido POS: não é advérbio (ver sēparātē), tratado como particípio/adjetivo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_25722-e1",
     "volume_id": "faria",
     "doc_name": "chunk_25722",
@@ -3276,28 +2638,6 @@
     "notas": "Registro tratado como substantivo 4ª declinação (LS atesta tanto o substantivo ūs quanto o particípio adjetival).",
     "raw_text": "{\"id\":\"chunk_25723:25723:0\",\"lemas\":[\"separatus\",\"sēpărātus\"],\"lema_canonico\":\"separatus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"(sēpārātus, -ūs, m.) separação, acto de apartar; também atestado como particípio/adjetivo (sēpārātus, a, um) de sēparō.\",\"aliases\":[\"sēpārātus a um\"],\"exemplos\":[\"App. Flor. p. 350, 40\"],\"notas\":\"Registro tratado como substantivo 4ª declinação (LS atesta tanto o substantivo ūs quanto o particípio adjetival).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_25723:25723:0\",\"lemas\":[\"separatus\",\"sēpărātus\"],\"lema_canonico\":\"separatus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"(sēpārātus, -ūs, m.) separação, acto de apartar; também atestado como particípio/adjetivo (sēpārātus, a, um) de sēparō.\",\"aliases\":[\"sēpārātus a um\"],\"exemplos\":[\"App. Flor. p. 350, 40\"],\"notas\":\"Registro tratado como substantivo 4ª declinação (LS atesta tanto o substantivo ūs quanto o particípio adjetival).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_25724-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_25724",
-    "page_num": 25724,
-    "lemmas": [
-      "separo",
-      "separo"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "to separate, put aside; distinguish (transitive)",
-    "exemplos": [],
-    "notas": "Paradigma indicado; usos e testemunhos conservados. | [dedupe] redirect → chunk_25720:25720:2 | [dedupe] redirect → chunk_25720:25720:2",
-    "raw_text": "{\"id\":\"chunk_25724:25724:0\",\"lemas\":[\"separo\",\"sēparō\",\"sēparāre\"],\"lema_canonico\":\"separo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"to separate, put aside; distinguish (transitive)\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 4, 34\",\"Cic. Or. 1, 95\",\"Liv. 43, 34, 12\"],\"notas\":\"Paradigma indicado; usos e testemunhos conservados.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_25724:25724:0\",\"lemas\":[\"separo\",\"sēparō\",\"sēparāre\"],\"lema_canonico\":\"separo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"to separate, put aside; distinguish (transitive)\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 4, 34\",\"Cic. Or. 1, 95\",\"Liv. 43, 34, 12\"],\"notas\":\"Paradigma indicado; usos e testemunhos conservados.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_25725-e1",
@@ -3498,28 +2838,6 @@
     "raw_json": "{\"id\":\"chunk_25728:25728:4\",\"lemas\":[\"siphnus\",\"siphnĭus\"],\"lema_canonico\":\"siphnus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Uma das ilhas das Cíclades (actual Sifano); adj.: relativo a Siphnus.\",\"aliases\":[],\"exemplos\":[\"Plin. 4, 12, 22, § 66\",\"Plin. 36, 22, 44, § 159\"],\"notas\":\"Entrada alinhada com Lewis & Short (Siphnus; adj. Siphnĭus, a, um).\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_25728-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_25728",
-    "page_num": 25728,
-    "lemmas": [
-      "Sīsўphus",
-      "sisyphus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Sísifo, personagem da mitologia grega, rei de Corinto, condenado a rolar eternamente uma pedra no inferno; adjetivos derivados: relativo a Sísifo (Sisyphius, Sisypheius).",
-    "exemplos": [],
-    "notas": "Formas e variantes normalizadas; entradas mitológicas clássicas. Confirmação externa não fornecida no material recebido. | [dedupe] redirect → chunk_26164:26164:0 | [dedupe] redirect → chunk_26164:26164:0 | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='sisyphus' → 'Sīsўphus'",
-    "raw_text": "{\"id\":\"chunk_25728:25728:5\",\"lemas\":[\"sisyphus\",\"sisyphos\"],\"lema_canonico\":\"sisyphus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Sísifo, personagem da mitologia grega, rei de Corinto, condenado a rolar eternamente uma pedra no inferno; adjetivos derivados: relativo a Sísifo (Sisyphius, Sisypheius).\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 4, 459\",\"Hor. S. 1, 3, 47\"],\"notas\":\"Formas e variantes normalizadas; entradas mitológicas clássicas. Confirmação externa não fornecida no material recebido.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_25728:25728:5\",\"lemas\":[\"sisyphus\",\"sisyphos\"],\"lema_canonico\":\"sisyphus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Sísifo, personagem da mitologia grega, rei de Corinto, condenado a rolar eternamente uma pedra no inferno; adjetivos derivados: relativo a Sísifo (Sisyphius, Sisypheius).\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 4, 459\",\"Hor. S. 1, 3, 47\"],\"notas\":\"Formas e variantes normalizadas; entradas mitológicas clássicas. Confirmação externa não fornecida no material recebido.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
     "id": "chunk_25728-e4",
     "volume_id": "faria",
     "doc_name": "chunk_25728",
@@ -3540,50 +2858,6 @@
     "notas": "Grafia e desinência tiradas do OCR/first pass; falta verificação em dicionários principais (Lat→Deu lista 'sepelis' como forma verbal distinta).",
     "raw_text": "{\"id\":\"chunk_25728:25728:6\",\"lemas\":[\"sepĕlis\"],\"lema_canonico\":\"sepĕlis\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"Adjetivo (reportado): ‘que tem seis pés’ (cit. Apul. Met. 6, 103).\",\"aliases\":[],\"exemplos\":[\"Apul. Met. 6, 103\"],\"notas\":\"Grafia e desinência tiradas do OCR/first pass; falta verificação em dicionários principais (Lat→Deu lista 'sepelis' como forma verbal distinta).\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_25728:25728:6\",\"lemas\":[\"sepĕlis\"],\"lema_canonico\":\"sepĕlis\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"Adjetivo (reportado): ‘que tem seis pés’ (cit. Apul. Met. 6, 103).\",\"aliases\":[],\"exemplos\":[\"Apul. Met. 6, 103\"],\"notas\":\"Grafia e desinência tiradas do OCR/first pass; falta verificação em dicionários principais (Lat→Deu lista 'sepelis' como forma verbal distinta).\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_25728-e5",
-    "volume_id": "faria",
-    "doc_name": "chunk_25728",
-    "page_num": 25728,
-    "lemmas": [
-      "scyphus",
-      "scyphus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "taça, cálice; scyphulus: diminutivo (pequena taça).",
-    "exemplos": [],
-    "notas": "Corrigido OCR e mantidas variantes diminutivas; formas e sentidos confirmados em Whitaker/Lat→Deu. | [dedupe] redirect → chunk_25414:25414:0 | [dedupe] redirect → chunk_25414:25414:0",
-    "raw_text": "{\"id\":\"chunk_25728:25728:0\",\"lemas\":[\"scyphus\",\"scyphulus\"],\"lema_canonico\":\"scyphus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"taça, cálice; scyphulus: diminutivo (pequena taça).\",\"aliases\":[],\"exemplos\":[\"Plaut. As. 2, 4, 38\",\"Verg. A. 8, 278\",\"Plin. Nat. 34, 14, 40\"],\"notas\":\"Corrigido OCR e mantidas variantes diminutivas; formas e sentidos confirmados em Whitaker/Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_25728:25728:0\",\"lemas\":[\"scyphus\",\"scyphulus\"],\"lema_canonico\":\"scyphus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"taça, cálice; scyphulus: diminutivo (pequena taça).\",\"aliases\":[],\"exemplos\":[\"Plaut. As. 2, 4, 38\",\"Verg. A. 8, 278\",\"Plin. Nat. 34, 14, 40\"],\"notas\":\"Corrigido OCR e mantidas variantes diminutivas; formas e sentidos confirmados em Whitaker/Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_25728-e6",
-    "volume_id": "faria",
-    "doc_name": "chunk_25728",
-    "page_num": 25728,
-    "lemmas": [
-      "sepelio",
-      "sepelio"
-    ],
-    "morfologia": "v. 4ª (-īre)",
-    "morph_render": "v. 4ª (-īre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "enterrar, sepultar; também: cremar, submergir, suprimir; particípio supino/ppp: sepultus.",
-    "exemplos": [],
-    "notas": "Conjugação 4ª (sepelīre...) aceita como forma principal; variantes tardias (sepelo, sepelere...) registradas na tradição tardia. | [dedupe] redirect → chunk_25727:25727:0 | [dedupe] redirect → chunk_25727:25727:0",
-    "raw_text": "{\"id\":\"chunk_25728:25728:1\",\"lemas\":[\"sepelio\",\"sepelire\",\"sepelivi\",\"sepultus\"],\"lema_canonico\":\"sepelio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"enterrar, sepultar; também: cremar, submergir, suprimir; particípio supino/ppp: sepultus.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Conjugação 4ª (sepelīre...) aceita como forma principal; variantes tardias (sepelo, sepelere...) registradas na tradição tardia.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_25728:25728:1\",\"lemas\":[\"sepelio\",\"sepelire\",\"sepelivi\",\"sepultus\"],\"lema_canonico\":\"sepelio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"enterrar, sepultar; também: cremar, submergir, suprimir; particípio supino/ppp: sepultus.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Conjugação 4ª (sepelīre...) aceita como forma principal; variantes tardias (sepelo, sepelere...) registradas na tradição tardia.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_25728-e7",
@@ -3630,28 +2904,6 @@
     "raw_json": "{\"id\":\"chunk_25729:25729:0\",\"lemas\":[\"sepia\",\"sēpia\"],\"lema_canonico\":\"sepia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"1) choco/cuttle-fish; 2) a secreção preta usada como tinta (sepia, ink).\",\"aliases\":[],\"exemplos\":[\"Cic. N. D. 2, 50\",\"Pers. 3, 13\",\"Plin. 9, 29, 45 §84\",\"Plaut. Rud. 3, 2, 45\"],\"notas\":\"Forma confirmada como substantivo feminino 1ª decl.; normalizada sem diacríticos.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_25729-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_25729",
-    "page_num": 25729,
-    "lemmas": [
-      "saeptĭo",
-      "saeptĭo"
-    ],
-    "morfologia": "s. fem. 4ª (-us)",
-    "morph_render": "s. fem. 4ª (-us)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "Observação léxica: saeptio (substantivo, ação de cercar/vedar) relacionado ao verbo saepio/saepire (cercar, encerrar); entradas e formas variam entre autores.",
-    "exemplos": [],
-    "notas": "Fontes conflictantes quanto à declinação/grau (LS vs. Whitaker/Lat→Deu); mantida relação substantivo ↔ verbo.\n[ocr_pipeline 2025-08-16T23:27:56.384178Z] lemma_in='saeptio' → 'saeptĭo' | motivo: match direto em LS por lemma/lemma_norm | [ocr_fix 2025-08-17T01:28:50Z] match direto em LS por lemma/lemma_norm | lemma_in='saeptĭo' → 'saeptĭo' | [dedupe] redirect → chunk_25737:25737:2 | [dedupe] redirect → chunk_25737:25737:2",
-    "raw_text": "{\"id\":\"chunk_25729:25729:1\",\"lemas\":[\"saeptio\",\"saepio\",\"sepio\"],\"lema_canonico\":\"saeptio\",\"morfologia\":\"s. fem. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"Observação léxica: saeptio (substantivo, ação de cercar/vedar) relacionado ao verbo saepio/saepire (cercar, encerrar); entradas e formas variam entre autores.\",\"aliases\":[\"saepio\"],\"exemplos\":[\"Vitr. 5, 12, 5\",\"Vitr. 6, 11, 5\"],\"notas\":\"Fontes conflictantes quanto à declinação/grau (LS vs. Whitaker/Lat→Deu); mantida relação substantivo ↔ verbo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"src_firstpass\",\"conf:low\",\"needs_review\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_25729:25729:1\",\"lemas\":[\"saeptio\",\"saepio\",\"sepio\"],\"lema_canonico\":\"saeptio\",\"morfologia\":\"s. fem. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"Observação léxica: saeptio (substantivo, ação de cercar/vedar) relacionado ao verbo saepio/saepire (cercar, encerrar); entradas e formas variam entre autores.\",\"aliases\":[\"saepio\"],\"exemplos\":[\"Vitr. 5, 12, 5\",\"Vitr. 6, 11, 5\"],\"notas\":\"Fontes conflictantes quanto à declinação/grau (LS vs. Whitaker/Lat→Deu); mantida relação substantivo ↔ verbo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"src_firstpass\",\"conf:low\",\"needs_review\",\"morph_out_of_vocab\"]}"
-  },
-  {
     "id": "chunk_25730-e1",
     "volume_id": "faria",
     "doc_name": "chunk_25730",
@@ -3672,28 +2924,6 @@
     "notas": "Grafia corrigida a partir do OCR, mas sentido e classe carecem de confirmação lexical externa.",
     "raw_text": "{\"id\":\"chunk_25730:25730:0\",\"lemas\":[\"sepula\",\"sēpŭla\"],\"lema_canonico\":\"sepula\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"suposta forma substantiva (f.) atestada em textos; possivelmente relacionada a sēpia (seiche/sepiola) — necessidade de verificação.\",\"aliases\":[],\"exemplos\":[\"Plaut. Cas. 493\"],\"notas\":\"Grafia corrigida a partir do OCR, mas sentido e classe carecem de confirmação lexical externa.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_25730:25730:0\",\"lemas\":[\"sepula\",\"sēpŭla\"],\"lema_canonico\":\"sepula\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"suposta forma substantiva (f.) atestada em textos; possivelmente relacionada a sēpia (seiche/sepiola) — necessidade de verificação.\",\"aliases\":[],\"exemplos\":[\"Plaut. Cas. 493\"],\"notas\":\"Grafia corrigida a partir do OCR, mas sentido e classe carecem de confirmação lexical externa.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_25731-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_25731",
-    "page_num": 25731,
-    "lemmas": [
-      "sēpes",
-      "sēpes"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "cerca; sebe; barreira formada por plantas ou obra.",
-    "exemplos": [],
-    "notas": "Genitivo e sentido confirmados por LS e Whitaker. | [dedupe] redirect → chunk_25727:25727:1 | [dedupe] redirect → chunk_25727:25727:1",
-    "raw_text": "{\"id\":\"chunk_25731:25731:0\",\"lemas\":[\"sēpes\",\"sepes\"],\"lema_canonico\":\"sēpes\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"cerca; sebe; barreira formada por plantas ou obra.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Genitivo e sentido confirmados por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_25731:25731:0\",\"lemas\":[\"sēpes\",\"sepes\"],\"lema_canonico\":\"sēpes\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"cerca; sebe; barreira formada por plantas ou obra.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Genitivo e sentido confirmados por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_25732-e1",
@@ -3762,50 +2992,6 @@
     "raw_json": "{\"id\":\"chunk_25734:25734:0\",\"lemas\":[\"sēpōnō\",\"sepono\",\"sepōnō\"],\"lema_canonico\":\"sēpōnō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"Pôr à parte, apartar; pôr de lado, excluir; também: banir, relegar; reservar.\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 4, 237\",\"Ov. Her. 1, 10\",\"Prop. 1, 20, 24\"],\"notas\":\"Infinitivo sēpōnere (seponere) confirmado; particípio sepositus atestado.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_25735-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_25735",
-    "page_num": 25735,
-    "lemmas": [
-      "sepono",
-      "sepono"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "sepono, sēpōnere — pôr de lado, afastar, reservar; perfeito sēpōsuī.",
-    "exemplos": [],
-    "notas": "Entrada retificada para o infinitivo e paradigma; perfeito sēposui registrado. | [dedupe] redirect → chunk_25734:25734:0 | [dedupe] redirect → chunk_25734:25734:0",
-    "raw_text": "{\"id\":\"chunk_25735:25735:1\",\"lemas\":[\"sepono\",\"sēpōnere\"],\"lema_canonico\":\"sepono\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"sepono, sēpōnere — pôr de lado, afastar, reservar; perfeito sēpōsuī.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada retificada para o infinitivo e paradigma; perfeito sēposui registrado.\",\"flags\":[\"src_latdeu\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_25735:25735:1\",\"lemas\":[\"sepono\",\"sēpōnere\"],\"lema_canonico\":\"sepono\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"sepono, sēpōnere — pôr de lado, afastar, reservar; perfeito sēpōsuī.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada retificada para o infinitivo e paradigma; perfeito sēposui registrado.\",\"flags\":[\"src_latdeu\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_25735-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_25735",
-    "page_num": 25735,
-    "lemmas": [
-      "sepono",
-      "sepono"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "to put away, set aside; remove; disregard",
-    "exemplos": [],
-    "notas": "Paradigma reconstruído a partir de formas perf. e presente; verbo 3ª conj. | [dedupe] redirect → chunk_25734:25734:0 | [dedupe] redirect → chunk_25734:25734:0",
-    "raw_text": "{\"id\":\"chunk_25735:25735:0\",\"lemas\":[\"sepono\",\"sēpōnō\",\"sēpōnere\"],\"lema_canonico\":\"sepono\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"to put away, set aside; remove; disregard\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Paradigma reconstruído a partir de formas perf. e presente; verbo 3ª conj.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_25735:25735:0\",\"lemas\":[\"sepono\",\"sēpōnō\",\"sēpōnere\"],\"lema_canonico\":\"sepono\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"to put away, set aside; remove; disregard\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Paradigma reconstruído a partir de formas perf. e presente; verbo 3ª conj.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_25736-e1",
     "volume_id": "faria",
     "doc_name": "chunk_25736",
@@ -3850,50 +3036,6 @@
     "raw_json": "{\"id\":\"chunk_25736:25736:1\",\"lemas\":[\"sepse\"],\"lema_canonico\":\"sepse\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Pronome reflexivo composto (se + pse), usado como reforço: 'a si mesmo' (fem. ref. em alguns usos).\",\"aliases\":[],\"exemplos\":[\"Cic. Rep. 3, 8\"],\"notas\":\"Lewis & Short registra sepse como pron. reflex. fem. (se + ipse); morfologia tratada como indeclinável.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_25737-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_25737",
-    "page_num": 25737,
-    "lemmas": [
-      "saepio",
-      "saepio"
-    ],
-    "morfologia": "v. 4ª (-īre)",
-    "morph_render": "v. 4ª (-īre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "cercar, vedar, encerrar; cercar com sebe ou muralha",
-    "exemplos": [],
-    "notas": "Lema e formas confirmadas por Whitaker, Lewis & Short e Lat→Deu. | [dedupe] redirect → chunk_24888:24888:0 | [dedupe] redirect → chunk_24888:24888:0",
-    "raw_text": "{\"id\":\"chunk_25737:25737:0\",\"lemas\":[\"saepio\",\"saepīre\",\"saepsi\",\"saeptus\"],\"lema_canonico\":\"saepio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"cercar, vedar, encerrar; cercar com sebe ou muralha\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Lema e formas confirmadas por Whitaker, Lewis & Short e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_25737:25737:0\",\"lemas\":[\"saepio\",\"saepīre\",\"saepsi\",\"saeptus\"],\"lema_canonico\":\"saepio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"cercar, vedar, encerrar; cercar com sebe ou muralha\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Lema e formas confirmadas por Whitaker, Lewis & Short e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_25737-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_25737",
-    "page_num": 25737,
-    "lemmas": [
-      "sepio",
-      "sepio"
-    ],
-    "morfologia": "v. 4ª (-īre)",
-    "morph_render": "v. 4ª (-īre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada tratada como variante gráfica/redirect para saepio; forma atestada como equivalente em fontes (sēpĭo = saepio). | [dedupe] redirect → chunk_25738:25738:0 | [dedupe] redirect → chunk_25738:25738:0",
-    "raw_text": "{\"id\":\"chunk_25737:25737:1\",\"lemas\":[\"sepio\"],\"lema_canonico\":\"sepio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"saepio\"],\"exemplos\":[],\"notas\":\"Entrada tratada como variante gráfica/redirect para saepio; forma atestada como equivalente em fontes (sēpĭo = saepio).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_25737:25737:1\",\"lemas\":[\"sepio\"],\"lema_canonico\":\"sepio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"saepio\"],\"exemplos\":[],\"notas\":\"Entrada tratada como variante gráfica/redirect para saepio; forma atestada como equivalente em fontes (sēpĭo = saepio).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"redirect_only\"]}"
-  },
-  {
     "id": "chunk_25737-e3",
     "volume_id": "faria",
     "doc_name": "chunk_25737",
@@ -3914,28 +3056,6 @@
     "notas": "Substantivo denominal de saepio; formas e declinação confirmadas por Whitaker e Lewis & Short.",
     "raw_text": "{\"id\":\"chunk_25737:25737:2\",\"lemas\":[\"saeptio\",\"saeptionis\"],\"lema_canonico\":\"saeptio\",\"morfologia\":\"s. fem. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"ato de cercar; cerca, vedação\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Substantivo denominal de saepio; formas e declinação confirmadas por Whitaker e Lewis & Short.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_25737:25737:2\",\"lemas\":[\"saeptio\",\"saeptionis\"],\"lema_canonico\":\"saeptio\",\"morfologia\":\"s. fem. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"ato de cercar; cerca, vedação\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Substantivo denominal de saepio; formas e declinação confirmadas por Whitaker e Lewis & Short.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_25737-e4",
-    "volume_id": "faria",
-    "doc_name": "chunk_25737",
-    "page_num": 25737,
-    "lemmas": [
-      "saepsi",
-      "saepsi"
-    ],
-    "morfologia": "v. 4ª (-īre)",
-    "morph_render": "v. 4ª (-īre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "perfeito de saepio: cerquei, vedei, encorrei",
-    "exemplos": [],
-    "notas": "Forma perfeita tratada como forma de verbo; morfologia real (1ª pessoa perf.) é fora do vocabulário normalizado, indicada em morph_extra. | [dedupe] redirect → chunk_24891:24891:0 | [dedupe] redirect → chunk_24891:24891:0",
-    "raw_text": "{\"id\":\"chunk_25737:25737:3\",\"lemas\":[\"saepsi\"],\"lema_canonico\":\"saepsi\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[\"perf. act. ind. 1 sg.\"],\"definicao\":\"perfeito de saepio: cerquei, vedei, encorrei\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma perfeita tratada como forma de verbo; morfologia real (1ª pessoa perf.) é fora do vocabulário normalizado, indicada em morph_extra.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"src_latdeu\",\"conf:high\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_25737:25737:3\",\"lemas\":[\"saepsi\"],\"lema_canonico\":\"saepsi\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[\"perf. act. ind. 1 sg.\"],\"definicao\":\"perfeito de saepio: cerquei, vedei, encorrei\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma perfeita tratada como forma de verbo; morfologia real (1ª pessoa perf.) é fora do vocabulário normalizado, indicada em morph_extra.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"src_latdeu\",\"conf:high\",\"morph_out_of_vocab\"]}"
   },
   {
     "id": "chunk_25738-e1",
@@ -4180,28 +3300,6 @@
     "raw_json": "{\"id\":\"chunk_25748:25748:0\",\"lemas\":[\"septentrio\",\"septentrīō\",\"septentrīōnis\"],\"lema_canonico\":\"septentrio\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"o Setentrional; as Sete Estrelas/Ursa Maior; o norte (astrol./geogr.)\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 15, 19, 2\"],\"notas\":\"Correção de OCR e normalização para o lema atestado; mantida a citação fornecida.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_25749-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_25749",
-    "page_num": 25749,
-    "lemmas": [
-      "os",
-      "os"
-    ],
-    "morfologia": "s. neut. 3ª (-is)",
-    "morph_render": "s. neut. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "mouth; speech, expression; face, countenance",
-    "exemplos": [],
-    "notas": "Lema normalizado para os, oris; confirmado por LS e Whitaker. | [dedupe] redirect → chunk_19274:19274:0 | [dedupe] redirect → chunk_19274:19274:0",
-    "raw_text": "{\"id\":\"chunk_25749:25749:0\",\"lemas\":[\"os\",\"oris\"],\"lema_canonico\":\"os\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"mouth; speech, expression; face, countenance\",\"aliases\":[],\"exemplos\":[\"Cic. N. D. 2, 54\"],\"notas\":\"Lema normalizado para os, oris; confirmado por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_25749:25749:0\",\"lemas\":[\"os\",\"oris\"],\"lema_canonico\":\"os\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"mouth; speech, expression; face, countenance\",\"aliases\":[],\"exemplos\":[\"Cic. N. D. 2, 54\"],\"notas\":\"Lema normalizado para os, oris; confirmado por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_25749-e2",
     "volume_id": "faria",
     "doc_name": "chunk_25749",
@@ -4310,28 +3408,6 @@
     "notas": "Forma tratada como distributivo; morfologia específica de numerais não cabe no vocabulário fornecido.",
     "raw_text": "{\"id\":\"chunk_25753:25753:0\",\"lemas\":[\"septieni\",\"septĭeni\"],\"lema_canonico\":\"septieni\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Numeral distributivo 'sete de cada vez, sete para cada um'.\",\"aliases\":[],\"exemplos\":[\"T. Liv. 40, 29, 6\"],\"notas\":\"Forma tratada como distributivo; morfologia específica de numerais não cabe no vocabulário fornecido.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\",\"morph_out_of_vocab\"]}",
     "raw_json": "{\"id\":\"chunk_25753:25753:0\",\"lemas\":[\"septieni\",\"septĭeni\"],\"lema_canonico\":\"septieni\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Numeral distributivo 'sete de cada vez, sete para cada um'.\",\"aliases\":[],\"exemplos\":[\"T. Liv. 40, 29, 6\"],\"notas\":\"Forma tratada como distributivo; morfologia específica de numerais não cabe no vocabulário fornecido.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\",\"morph_out_of_vocab\"]}"
-  },
-  {
-    "id": "chunk_25754-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_25754",
-    "page_num": 25754,
-    "lemmas": [
-      "septentrio",
-      "septentrio"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "1) As sete estrelas da Ursa Menor; 2) Norte, vento do norte; 3) as regiões setentrionais.",
-    "exemplos": [],
-    "notas": "Unificadas formas variantes (septemtrio ↔ septentrio); gen. sing. -onis confirmado. | [dedupe] redirect → chunk_25748:25748:0 | [dedupe] redirect → chunk_25748:25748:0",
-    "raw_text": "{\"id\":\"chunk_25754:25754:0\",\"lemas\":[\"septentrio\",\"septemtrio\",\"septentrionis\"],\"lema_canonico\":\"septentrio\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"1) As sete estrelas da Ursa Menor; 2) Norte, vento do norte; 3) as regiões setentrionais.\",\"aliases\":[],\"exemplos\":[\"Cic. Ac. 2, 66\",\"T. Liv. 26, 45\",\"Cés. B. Gal. 1, 1, 5\"],\"notas\":\"Unificadas formas variantes (septemtrio ↔ septentrio); gen. sing. -onis confirmado.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_25754:25754:0\",\"lemas\":[\"septentrio\",\"septemtrio\",\"septentrionis\"],\"lema_canonico\":\"septentrio\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"1) As sete estrelas da Ursa Menor; 2) Norte, vento do norte; 3) as regiões setentrionais.\",\"aliases\":[],\"exemplos\":[\"Cic. Ac. 2, 66\",\"T. Liv. 26, 45\",\"Cés. B. Gal. 1, 1, 5\"],\"notas\":\"Unificadas formas variantes (septemtrio ↔ septentrio); gen. sing. -onis confirmado.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_25755-e1",
@@ -4532,28 +3608,6 @@
     "raw_json": "{\"id\":\"chunk_25760:25760:1\",\"lemas\":[\"septimanus\",\"septimana\",\"septimanum\"],\"lema_canonico\":\"septimanus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Do sétimo; relativo ao número sete (adjetivo).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada corroborada pelo Whitaker; adjetivo correlato a septimani.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_25761-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_25761",
-    "page_num": 25761,
-    "lemmas": [
-      "septĭmātrūs",
-      "septĭmātrūs"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Festas (pl.) celebradas sete dias após as idas em honra de Minerva (septímatras).",
-    "exemplos": [],
-    "notas": "Atestado em Lewis & Short (septĭmātrūs). Inserido como plural festivo; morfologia marcada com reserva. | [dedupe] redirect → chunk_25760:25760:3 | [dedupe] redirect → chunk_25760:25760:3 | [ocr_fix 2025-08-17T20:00:20Z] match direto em LS por lemma/lemma_norm | lemma_in='septimātrus' → 'septĭmātrūs'",
-    "raw_text": "{\"id\":\"chunk_25761:25761:0\",\"lemas\":[\"septimātrus\",\"septimātrūs\",\"septimatrus\"],\"lema_canonico\":\"septimātrus\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Festas (pl.) celebradas sete dias após as idas em honra de Minerva (septímatras).\",\"aliases\":[],\"exemplos\":[\"Varr. Lat. 6, 14\",\"Fest. s. v. quinquatrus\"],\"notas\":\"Atestado em Lewis & Short (septĭmātrūs). Inserido como plural festivo; morfologia marcada com reserva.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_25761:25761:0\",\"lemas\":[\"septimātrus\",\"septimātrūs\",\"septimatrus\"],\"lema_canonico\":\"septimātrus\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Festas (pl.) celebradas sete dias após as idas em honra de Minerva (septímatras).\",\"aliases\":[],\"exemplos\":[\"Varr. Lat. 6, 14\",\"Fest. s. v. quinquatrus\"],\"notas\":\"Atestado em Lewis & Short (septĭmātrūs). Inserido como plural festivo; morfologia marcada com reserva.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_25762-e1",
     "volume_id": "faria",
     "doc_name": "chunk_25762",
@@ -4664,28 +3718,6 @@
     "raw_json": "{\"id\":\"chunk_25766:25766:0\",\"lemas\":[\"Septimontium\",\"Septĭmontĭum\"],\"lema_canonico\":\"Septimontium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"O conjunto/circuito das sete colinas de Roma; também a festa (Septimontia) que comemorava a inclusão das sete colinas no circuito urbano.\",\"aliases\":[],\"exemplos\":[\"Varr. L. L. 5, §41\",\"Varr. L. L. 6, §24\",\"Fest. s. v. sacrani\",\"Tert. Idol. 10\"],\"notas\":\"Unificado com a grafia clássica do LS; inclui ambas acepções (lugar e festa).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_25767-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_25767",
-    "page_num": 25767,
-    "lemmas": [
-      "Septĭmĭus",
-      "Septĭmĭus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Nomen romano (gens Septimia); indivíduo citado: C. Septimius e outros portadores do nome (ex.: Septimius Severus).",
-    "exemplos": [],
-    "notas": "Forma do LS para o nomen; inclusão da forma feminina (Septimia). | [dedupe] redirect → chunk_25764:25764:0 | [dedupe] redirect → chunk_25764:25764:0 | [ocr_fix 2025-08-17T20:00:21Z] match direto em LS por lemma/lemma_norm | lemma_in='Septimius' → 'Septĭmĭus'",
-    "raw_text": "{\"id\":\"chunk_25767:25767:0\",\"lemas\":[\"Septimius\",\"Septĭmĭus\",\"Septimia\",\"Septĭmia\"],\"lema_canonico\":\"Septimius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Nomen romano (gens Septimia); indivíduo citado: C. Septimius e outros portadores do nome (ex.: Septimius Severus).\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 12, 13, 2\",\"Hor. Ep. 1, 9, 1\"],\"notas\":\"Forma do LS para o nomen; inclusão da forma feminina (Septimia).\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_25767:25767:0\",\"lemas\":[\"Septimius\",\"Septĭmĭus\",\"Septimia\",\"Septĭmia\"],\"lema_canonico\":\"Septimius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Nomen romano (gens Septimia); indivíduo citado: C. Septimius e outros portadores do nome (ex.: Septimius Severus).\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 12, 13, 2\",\"Hor. Ep. 1, 9, 1\"],\"notas\":\"Forma do LS para o nomen; inclusão da forma feminina (Septimia).\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_25768-e1",
     "volume_id": "faria",
     "doc_name": "chunk_25768",
@@ -4730,28 +3762,6 @@
     "raw_json": "{\"id\":\"chunk_25769:25769:0\",\"lemas\":[\"septimanus\",\"septimana\",\"septimanum\"],\"lema_canonico\":\"septimanus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"da sétima; pertencente ao sétimo (p.ex. legionários da sétima legion)\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 3, 63\",\"Plin. 3, 4, 5, § 36\"],\"notas\":\"Normalizado a partir de septimānus; formas flexionadas incluídas em lemas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_25770-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_25770",
-    "page_num": 25770,
-    "lemmas": [
-      "septingenti",
-      "septingenti"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Septingentésimo (relativo ao número 700).",
-    "exemplos": [],
-    "notas": "Normalizada a partir da forma com sinais diacríticos do OCR.\n[ocr_pipeline 2025-08-16T23:19:54.854773Z] lemma_in='septingenimus' → 'septingenti' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:17:59Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='septingenti' → 'septingenti' | [dedupe] redirect → chunk_25771:25771:0 | [dedupe] redirect → chunk_25771:25771:0",
-    "raw_text": "{\"id\":\"chunk_25770:25770:0\",\"lemas\":[\"septingenimus\",\"septingenĭmus\"],\"lema_canonico\":\"septingenimus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Septingentésimo (relativo ao número 700).\",\"aliases\":[],\"exemplos\":[\"T. Liv. Pref. 4\"],\"notas\":\"Normalizada a partir da forma com sinais diacríticos do OCR.\",\"flags\":[\"src_firstpass\",\"conf:low\"]}",
-    "raw_json": "{\"id\":\"chunk_25770:25770:0\",\"lemas\":[\"septingenimus\",\"septingenĭmus\"],\"lema_canonico\":\"septingenimus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Septingentésimo (relativo ao número 700).\",\"aliases\":[],\"exemplos\":[\"T. Liv. Pref. 4\"],\"notas\":\"Normalizada a partir da forma com sinais diacríticos do OCR.\",\"flags\":[\"src_firstpass\",\"conf:low\"]}"
-  },
-  {
     "id": "chunk_25771-e1",
     "volume_id": "faria",
     "doc_name": "chunk_25771",
@@ -4794,28 +3804,6 @@
     "notas": "Classificação como prefixo incerta; morfologia adaptada para indeclinável por falta de etiqueta 'prefix.' no vocabulário. Rever com fontes lexicográficas.\n[ocr_pipeline 2025-08-16T23:19:55.685530Z] lemma_in='di' → 'dī' | motivo: match direto em LS por lemma/lemma_norm | [ocr_fix 2025-08-17T01:18:00Z] match direto em LS por lemma/lemma_norm | lemma_in='dī' → 'dī'",
     "raw_text": "{\"id\":\"chunk_25772:25772:0\",\"lemas\":[\"di\"],\"lema_canonico\":\"di\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Forma gráfica ambígua: pode corresponder a prefixo 'di-' (two-/double) em palavras compostas ou a outras leituras; significado preciso não confirmado.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Classificação como prefixo incerta; morfologia adaptada para indeclinável por falta de etiqueta 'prefix.' no vocabulário. Rever com fontes lexicográficas.\",\"flags\":[\"src_firstpass\",\"src_whitaker\",\"conf:low\",\"morph_out_of_vocab\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_25772:25772:0\",\"lemas\":[\"di\"],\"lema_canonico\":\"di\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Forma gráfica ambígua: pode corresponder a prefixo 'di-' (two-/double) em palavras compostas ou a outras leituras; significado preciso não confirmado.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Classificação como prefixo incerta; morfologia adaptada para indeclinável por falta de etiqueta 'prefix.' no vocabulário. Rever com fontes lexicográficas.\",\"flags\":[\"src_firstpass\",\"src_whitaker\",\"conf:low\",\"morph_out_of_vocab\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_25772-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_25772",
-    "page_num": 25772,
-    "lemmas": [
-      "ens",
-      "ens"
-    ],
-    "morfologia": "s. 3ª (-is)",
-    "morph_render": "s. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "coisa; o ser; aquilo que existe (termo filosófico, usado por autores medievais e clássicos).",
-    "exemplos": [],
-    "notas": "Concorda com Lewis & Short e Whitaker (ens, entis). | [dedupe] redirect → chunk_20314:20314:1 | [dedupe] redirect → chunk_20314:20314:1",
-    "raw_text": "{\"id\":\"chunk_25772:25772:1\",\"lemas\":[\"ens\"],\"lema_canonico\":\"ens\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"coisa; o ser; aquilo que existe (termo filosófico, usado por autores medievais e clássicos).\",\"aliases\":[\"entis\"],\"exemplos\":[],\"notas\":\"Concorda com Lewis & Short e Whitaker (ens, entis).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_25772:25772:1\",\"lemas\":[\"ens\"],\"lema_canonico\":\"ens\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"coisa; o ser; aquilo que existe (termo filosófico, usado por autores medievais e clássicos).\",\"aliases\":[\"entis\"],\"exemplos\":[],\"notas\":\"Concorda com Lewis & Short e Whitaker (ens, entis).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_25772-e3",
@@ -5016,28 +4004,6 @@
     "raw_json": "{\"id\":\"chunk_25780:25780:0\",\"lemas\":[\"septunum\"],\"lema_canonico\":\"septunum\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"(tratamento incerto) suposto substantivo relacionado com peso ou medida de sete unidades (texto antigo/possível leitura corrupta).\",\"aliases\":[],\"exemplos\":[\"T. Liv. 23, 19, 16\",\"Marc. 8, 32, 29\"],\"notas\":\"Forma atípica sem confirmação em LS/Whitaker; entrada mantida da primeira passada com normalização mínima; revisão necessária.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_25780-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_25780",
-    "page_num": 25780,
-    "lemmas": [
-      "num",
-      "num"
-    ],
-    "morfologia": "adv.",
-    "morph_render": "adv.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "partícula interrogativa usada para perguntas que frequentemente esperam resposta negativa; 'acaso, porventura' (também: 'não' em certas entonações).",
-    "exemplos": [],
-    "notas": "Definição e exemplos confirmados por Lewis & Short e Whitaker. | [dedupe] redirect → chunk_14329:14329:1 | [dedupe] redirect → chunk_14329:14329:1",
-    "raw_text": "{\"id\":\"chunk_25780:25780:1\",\"lemas\":[\"num\"],\"lema_canonico\":\"num\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"partícula interrogativa usada para perguntas que frequentemente esperam resposta negativa; 'acaso, porventura' (também: 'não' em certas entonações).\",\"aliases\":[],\"exemplos\":[\"Plaut. Merc. 1, 2, 102\",\"Ter. And. 2, 2, 29\",\"Cic. Div. 1, 14, 24\"],\"notas\":\"Definição e exemplos confirmados por Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_25780:25780:1\",\"lemas\":[\"num\"],\"lema_canonico\":\"num\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"partícula interrogativa usada para perguntas que frequentemente esperam resposta negativa; 'acaso, porventura' (também: 'não' em certas entonações).\",\"aliases\":[],\"exemplos\":[\"Plaut. Merc. 1, 2, 102\",\"Ter. And. 2, 2, 29\",\"Cic. Div. 1, 14, 24\"],\"notas\":\"Definição e exemplos confirmados por Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_25781-e1",
     "volume_id": "faria",
     "doc_name": "chunk_25781",
@@ -5102,28 +4068,6 @@
     "notas": "Confirmed spelling and meaning with LS and Whitaker.",
     "raw_text": "{\"id\":\"chunk_25782:25782:0\",\"lemas\":[\"sepulcralis\",\"sepulcrālis\"],\"lema_canonico\":\"sepulcralis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"sepulchral; of or belonging to a tomb\",\"aliases\":[],\"exemplos\":[\"Ov. M. 8, 480\",\"Ov. H. 2, 120\"],\"notas\":\"Confirmed spelling and meaning with LS and Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_25782:25782:0\",\"lemas\":[\"sepulcralis\",\"sepulcrālis\"],\"lema_canonico\":\"sepulcralis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"sepulchral; of or belonging to a tomb\",\"aliases\":[],\"exemplos\":[\"Ov. M. 8, 480\",\"Ov. H. 2, 120\"],\"notas\":\"Confirmed spelling and meaning with LS and Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_25783-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_25783",
-    "page_num": 25783,
-    "lemmas": [
-      "Seres",
-      "Seres"
-    ],
-    "morfologia": "s. 3ª (-is)",
-    "morph_render": "s. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "povo do extremo Oriente (ant. designação para os fabricantes de seda; provável referência aos chineses)",
-    "exemplos": [],
-    "notas": "Unificadas variantes atestadas (LS/Whitaker); mantida referência literária. | [dedupe] redirect → chunk_25793:25793:0 | [dedupe] redirect → chunk_25793:25793:0",
-    "raw_text": "{\"id\":\"chunk_25783:25783:0\",\"lemas\":[\"Seres\",\"Ser\",\"Seris\"],\"lema_canonico\":\"Seres\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"povo do extremo Oriente (ant. designação para os fabricantes de seda; provável referência aos chineses)\",\"aliases\":[],\"exemplos\":[\"Verg. G. 2, 121\"],\"notas\":\"Unificadas variantes atestadas (LS/Whitaker); mantida referência literária.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_25783:25783:0\",\"lemas\":[\"Seres\",\"Ser\",\"Seris\"],\"lema_canonico\":\"Seres\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"povo do extremo Oriente (ant. designação para os fabricantes de seda; provável referência aos chineses)\",\"aliases\":[],\"exemplos\":[\"Verg. G. 2, 121\"],\"notas\":\"Unificadas variantes atestadas (LS/Whitaker); mantida referência literária.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_25784-e1",

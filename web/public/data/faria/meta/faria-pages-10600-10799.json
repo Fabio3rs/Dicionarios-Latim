@@ -1,27 +1,5 @@
 [
   {
-    "id": "chunk_10600-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_10600",
-    "page_num": 10600,
-    "lemmas": [
-      "extrusus",
-      "extrusus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "particípio perfeito passivo de extrūdō (extrudere): expelido, empurrado para fora",
-    "exemplos": [],
-    "notas": "Duplicata de forma confirmada por fontes; ajustado a grafia normativa | [dedupe] redirect → chunk_10595:10595:0 | [dedupe] redirect → chunk_10595:10595:0",
-    "raw_text": "{\"id\":\"chunk_10600:10600:0\",\"lemas\":[\"extrusus\"],\"lema_canonico\":\"extrusus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de extrūdō (extrudere): expelido, empurrado para fora\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Duplicata de forma confirmada por fontes; ajustado a grafia normativa\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_10600:10600:0\",\"lemas\":[\"extrusus\"],\"lema_canonico\":\"extrusus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de extrūdō (extrudere): expelido, empurrado para fora\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Duplicata de forma confirmada por fontes; ajustado a grafia normativa\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_10601-e1",
     "volume_id": "faria",
     "doc_name": "chunk_10601",
@@ -132,50 +110,6 @@
     "raw_json": "{\"id\":\"chunk_10604:10604:1\",\"lemas\":[\"exuleta\"],\"lema_canonico\":\"exuleta\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"(referência) vide exsudo — entrada possivelmente corrupta ou referencial\",\"aliases\":[\"exsudo\"],\"exemplos\":[],\"notas\":\"Forma e referência não confirmadas em LS/Whitaker/Lat→Deu; pode ser erro de impressão ou índice incorreto.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_10604-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_10604",
-    "page_num": 10604,
-    "lemmas": [
-      "extrŭo",
-      "extrŭo"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "ver/veja exsugio (forma atestada em algumas tradições manuscritas); forma incerta.",
-    "exemplos": [],
-    "notas": "OCR sugere exūgiō <- exsūgio; não encontrei confirmação em LS/Whitaker; mantido da first_pass.\n[ocr_pipeline 2025-08-16T23:12:28.799655Z] lemma_in='exugio' → 'extrŭo' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:08:02Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='extrŭo' → 'extrŭo' | [dedupe] redirect → chunk_10516:10516:0 | [dedupe] redirect → chunk_10516:10516:0",
-    "raw_text": "{\"id\":\"chunk_10604:10604:2\",\"lemas\":[\"exugio\"],\"lema_canonico\":\"exugio\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"ver/veja exsugio (forma atestada em algumas tradições manuscritas); forma incerta.\",\"aliases\":[\"exsugio\"],\"exemplos\":[],\"notas\":\"OCR sugere exūgiō <- exsūgio; não encontrei confirmação em LS/Whitaker; mantido da first_pass.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_10604:10604:2\",\"lemas\":[\"exugio\"],\"lema_canonico\":\"exugio\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"ver/veja exsugio (forma atestada em algumas tradições manuscritas); forma incerta.\",\"aliases\":[\"exsugio\"],\"exemplos\":[],\"notas\":\"OCR sugere exūgiō <- exsūgio; não encontrei confirmação em LS/Whitaker; mantido da first_pass.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_10605-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_10605",
-    "page_num": 10605,
-    "lemmas": [
-      "exsul",
-      "exsul"
-    ],
-    "morfologia": "s. 3ª (-is)",
-    "morph_render": "s. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "pessoa banida, exilado; também adjetivo ‘verbannt’ (banished)",
-    "exemplos": [],
-    "notas": "Lema normalizado para exsul (forma primária); inclui variante exul. Fonte: Lat→Deu, Whitaker, LS. | [dedupe] redirect → chunk_10520:10520:0 | [dedupe] redirect → chunk_10520:10520:0",
-    "raw_text": "{\"id\":\"chunk_10605:10605:0\",\"lemas\":[\"exsul\",\"exul\"],\"lema_canonico\":\"exsul\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"pessoa banida, exilado; também adjetivo ‘verbannt’ (banished)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Lema normalizado para exsul (forma primária); inclui variante exul. Fonte: Lat→Deu, Whitaker, LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_10605:10605:0\",\"lemas\":[\"exsul\",\"exul\"],\"lema_canonico\":\"exsul\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"pessoa banida, exilado; também adjetivo ‘verbannt’ (banished)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Lema normalizado para exsul (forma primária); inclui variante exul. Fonte: Lat→Deu, Whitaker, LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_10606-e1",
     "volume_id": "faria",
     "doc_name": "chunk_10606",
@@ -242,28 +176,6 @@
     "raw_json": "{\"id\":\"chunk_10608:10608:2\",\"lemas\":[\"exulcerāre\",\"exulcero\"],\"lema_canonico\":\"exulcerāre\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"ferir com úlceras; ulcerar; tornar doloroso ou irritar (fig. e lit.).\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 27, 112\",\"Cic. Br. 156\"],\"notas\":\"Forma e sentidos confirmados em Lat→Deu; lema em infinitivo corrigido.\",\"flags\":[\"src_latdeu\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_10608-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_10608",
-    "page_num": 10608,
-    "lemmas": [
-      "ex",
-      "ex"
-    ],
-    "morfologia": "prep. com abl.",
-    "morph_render": "prep. com abl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "para fora, de, a partir de; por causa de; conforme (preposição com ablativo)",
-    "exemplos": [],
-    "notas": "Forma e alterna antes de vogal; entradas confirmadas em Lewis & Short e Whitaker. | [dedupe] redirect → chunk_10069:10069:0 | [dedupe] redirect → chunk_10069:10069:0",
-    "raw_text": "{\"id\":\"chunk_10608:10608:0\",\"lemas\":[\"ex\",\"e\"],\"lema_canonico\":\"ex\",\"morfologia\":\"prep. com abl.\",\"morph_extra\":[],\"definicao\":\"para fora, de, a partir de; por causa de; conforme (preposição com ablativo)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma e alterna antes de vogal; entradas confirmadas em Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_10608:10608:0\",\"lemas\":[\"ex\",\"e\"],\"lema_canonico\":\"ex\",\"morfologia\":\"prep. com abl.\",\"morph_extra\":[],\"definicao\":\"para fora, de, a partir de; por causa de; conforme (preposição com ablativo)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma e alterna antes de vogal; entradas confirmadas em Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_10608-e3",
     "volume_id": "faria",
     "doc_name": "chunk_10608",
@@ -284,50 +196,6 @@
     "notas": "Lewis & Short regista ulcēro; Whitaker dá ulcerare/ulcero. Mantida forma clássica ‘ulcero’.",
     "raw_text": "{\"id\":\"chunk_10608:10608:1\",\"lemas\":[\"ulcero\",\"ulcerare\"],\"lema_canonico\":\"ulcero\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"fazer supurar, ulcerar; ferir, provocar inflamação\",\"aliases\":[],\"exemplos\":[\"Cic. Fat. 16, 36\",\"Hor. Ep. 1, 18, 72\"],\"notas\":\"Lewis & Short regista ulcēro; Whitaker dá ulcerare/ulcero. Mantida forma clássica ‘ulcero’.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_10608:10608:1\",\"lemas\":[\"ulcero\",\"ulcerare\"],\"lema_canonico\":\"ulcero\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"fazer supurar, ulcerar; ferir, provocar inflamação\",\"aliases\":[],\"exemplos\":[\"Cic. Fat. 16, 36\",\"Hor. Ep. 1, 18, 72\"],\"notas\":\"Lewis & Short regista ulcēro; Whitaker dá ulcerare/ulcero. Mantida forma clássica ‘ulcero’.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_10609-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_10609",
-    "page_num": 10609,
-    "lemmas": [
-      "exsul",
-      "exsul"
-    ],
-    "morfologia": "s. 3ª (-is)",
-    "morph_render": "s. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "pessoa banida, exilado; também adj.: verbannt, verbanntes (banished)",
-    "exemplos": [],
-    "notas": "Forma canónica ‘exsul’ confirmada por Lewis & Short e Whitaker; ‘exul’ é variante. | [dedupe] redirect → chunk_10520:10520:0 | [dedupe] redirect → chunk_10520:10520:0",
-    "raw_text": "{\"id\":\"chunk_10609:10609:0\",\"lemas\":[\"exsul\",\"exul\"],\"lema_canonico\":\"exsul\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"pessoa banida, exilado; também adj.: verbannt, verbanntes (banished)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma canónica ‘exsul’ confirmada por Lewis & Short e Whitaker; ‘exul’ é variante.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_10609:10609:0\",\"lemas\":[\"exsul\",\"exul\"],\"lema_canonico\":\"exsul\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"pessoa banida, exilado; também adj.: verbannt, verbanntes (banished)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma canónica ‘exsul’ confirmada por Lewis & Short e Whitaker; ‘exul’ é variante.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_10609-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_10609",
-    "page_num": 10609,
-    "lemmas": [
-      "exsilium",
-      "exsilium"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "banimento, exílio; lugar de refúgio ou retiro",
-    "exemplos": [],
-    "notas": "‘exsilium’ (com variante ‘exilium’) atestado em LS, Whitaker e Lat→Deu. | [dedupe] redirect → chunk_10253:10253:0 | [dedupe] redirect → chunk_10253:10253:0",
-    "raw_text": "{\"id\":\"chunk_10609:10609:1\",\"lemas\":[\"exsilium\",\"exilium\"],\"lema_canonico\":\"exsilium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"banimento, exílio; lugar de refúgio ou retiro\",\"aliases\":[],\"exemplos\":[],\"notas\":\"‘exsilium’ (com variante ‘exilium’) atestado em LS, Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_10609:10609:1\",\"lemas\":[\"exsilium\",\"exilium\"],\"lema_canonico\":\"exsilium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"banimento, exílio; lugar de refúgio ou retiro\",\"aliases\":[],\"exemplos\":[],\"notas\":\"‘exsilium’ (com variante ‘exilium’) atestado em LS, Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_10610-e1",
@@ -418,28 +286,6 @@
     "raw_json": "{\"id\":\"chunk_10612:10612:0\",\"lemas\":[\"exundo\",\"exundāre\"],\"lema_canonico\":\"exundo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"transbordar, jorrar para fora; figurado: abundar, estar cheio de\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 2, 229\",\"Tac. D. 30\"],\"notas\":\"Infinitivo e transitividade verificadas em Whitaker e Lat→Deu; marcado como intr.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_10613-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_10613",
-    "page_num": 10613,
-    "lemmas": [
-      "ex",
-      "ex"
-    ],
-    "morfologia": "prep. com abl.",
-    "morph_render": "prep. com abl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "de, a partir de, fora de; por, por causa de; usado também como prefixo com valor de 'para fora' ou 'completamente'.",
-    "exemplos": [],
-    "notas": "Formas variantes 'ex' e 'ē' registradas; usos consagrados em locuções latinas. | [dedupe] redirect → chunk_10069:10069:0 | [dedupe] redirect → chunk_10069:10069:0",
-    "raw_text": "{\"id\":\"chunk_10613:10613:0\",\"lemas\":[\"ex\",\"ē\"],\"lema_canonico\":\"ex\",\"morfologia\":\"prep. com abl.\",\"morph_extra\":[],\"definicao\":\"de, a partir de, fora de; por, por causa de; usado também como prefixo com valor de 'para fora' ou 'completamente'.\",\"aliases\":[],\"exemplos\":[\"ex parte\",\"ex senatus consulto\"],\"notas\":\"Formas variantes 'ex' e 'ē' registradas; usos consagrados em locuções latinas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_10613:10613:0\",\"lemas\":[\"ex\",\"ē\"],\"lema_canonico\":\"ex\",\"morfologia\":\"prep. com abl.\",\"morph_extra\":[],\"definicao\":\"de, a partir de, fora de; por, por causa de; usado também como prefixo com valor de 'para fora' ou 'completamente'.\",\"aliases\":[],\"exemplos\":[\"ex parte\",\"ex senatus consulto\"],\"notas\":\"Formas variantes 'ex' e 'ē' registradas; usos consagrados em locuções latinas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_10613-e2",
     "volume_id": "faria",
     "doc_name": "chunk_10613",
@@ -484,50 +330,6 @@
     "raw_json": "{\"id\":\"chunk_10613:10613:2\",\"lemas\":[\"exungo\",\"exungere\"],\"lema_canonico\":\"exungo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"espalhar/unir com unguento; ungir, perfumar (atum in Plauto).\",\"aliases\":[],\"exemplos\":[\"Plaut. Rud. 588\"],\"notas\":\"Infinitivo exungere atestado; forma apresentada em Plauto. Corrigido a partir do OCR.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_10614-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_10614",
-    "page_num": 10614,
-    "lemmas": [
-      "ex-ŭo",
-      "ex-ŭo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "tirar, despir; privar de; pôr de lado, abandonar. (a entrada refere-se à forma perfeita exūī)",
-    "exemplos": [],
-    "notas": "Entrada refere-se especificamente à forma perfeita 'exūī' do verbo exuō; lema colocado no infinitivo. | [dedupe] redirect → chunk_10119:10119:2 | [dedupe] redirect → chunk_10119:10119:2 | [ocr_fix 2025-08-17T19:48:20Z] match direto em LS por lemma/lemma_norm | lemma_in='exuō' → 'ex-ŭo'",
-    "raw_text": "{\"id\":\"chunk_10614:10614:0\",\"lemas\":[\"exuō\",\"exuere\"],\"lema_canonico\":\"exuō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"tirar, despir; privar de; pôr de lado, abandonar. (a entrada refere-se à forma perfeita exūī)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada refere-se especificamente à forma perfeita 'exūī' do verbo exuō; lema colocado no infinitivo.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_10614:10614:0\",\"lemas\":[\"exuō\",\"exuere\"],\"lema_canonico\":\"exuō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"tirar, despir; privar de; pôr de lado, abandonar. (a entrada refere-se à forma perfeita exūī)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada refere-se especificamente à forma perfeita 'exūī' do verbo exuō; lema colocado no infinitivo.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_10615-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_10615",
-    "page_num": 10615,
-    "lemmas": [
-      "exuo",
-      "exuo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "despir, despojar; figurado: livrar-se de, abandonar",
-    "exemplos": [],
-    "notas": "Infinitivo e transitividade confirmados em LS e Lat→Deu; forma do Verg. normalizada para Aen. | [dedupe] redirect → chunk_10119:10119:2 | [dedupe] redirect → chunk_10119:10119:2",
-    "raw_text": "{\"id\":\"chunk_10615:10615:0\",\"lemas\":[\"exuo\",\"exuō\"],\"lema_canonico\":\"exuo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"despir, despojar; figurado: livrar-se de, abandonar\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 5, 151\",\"Verg. Aen. 5, 423\",\"Cic. Fin. 5, 35\",\"Sen. Ep. 11, 4\"],\"notas\":\"Infinitivo e transitividade confirmados em LS e Lat→Deu; forma do Verg. normalizada para Aen.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_10615:10615:0\",\"lemas\":[\"exuo\",\"exuō\"],\"lema_canonico\":\"exuo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"despir, despojar; figurado: livrar-se de, abandonar\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 5, 151\",\"Verg. Aen. 5, 423\",\"Cic. Fin. 5, 35\",\"Sen. Ep. 11, 4\"],\"notas\":\"Infinitivo e transitividade confirmados em LS e Lat→Deu; forma do Verg. normalizada para Aen.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_10615-e2",
     "volume_id": "faria",
     "doc_name": "chunk_10615",
@@ -548,50 +350,6 @@
     "notas": "Distinção de exsurgō (erguer‑se) esclarecida; entradas LS/Lat→Deu confirmam sentido 'queimar'. | [ocr_fix 2025-08-20T01:03:57Z] Correção automática de lema via Gaffiot | lemma_in='exuro' → 'exūro'",
     "raw_text": "{\"id\":\"chunk_10615:10615:1\",\"lemas\":[\"exuro\",\"exūrō\"],\"lema_canonico\":\"exuro\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"queimar completamente, consumir pelo fogo; fig. devorar, destruir\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Distinção de exsurgō (erguer‑se) esclarecida; entradas LS/Lat→Deu confirmam sentido 'queimar'.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_10615:10615:1\",\"lemas\":[\"exuro\",\"exūrō\"],\"lema_canonico\":\"exuro\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"queimar completamente, consumir pelo fogo; fig. devorar, destruir\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Distinção de exsurgō (erguer‑se) esclarecida; entradas LS/Lat→Deu confirmam sentido 'queimar'.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_10615-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_10615",
-    "page_num": 10615,
-    "lemmas": [
-      "exsurgo",
-      "exsurgo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "erguer‑se, levantar‑se; surgir, erguer‑se em revolta; metaf.: sobressair, recuperar força",
-    "exemplos": [],
-    "notas": "Formas e perf. confirmadas (exsurrēxī/exsurrexi, exsurrectus). Mantida diferenciação de exūrō. | [dedupe] redirect → chunk_10534:10534:0 | [dedupe] redirect → chunk_10534:10534:0",
-    "raw_text": "{\"id\":\"chunk_10615:10615:2\",\"lemas\":[\"exsurgo\",\"exsurgō\",\"exsurgere\"],\"lema_canonico\":\"exsurgo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"erguer‑se, levantar‑se; surgir, erguer‑se em revolta; metaf.: sobressair, recuperar força\",\"aliases\":[],\"exemplos\":[\"Plaut. Rud. 1, 5, 22\",\"Verg. A. 11, 697\",\"Tac. H. 2, 14\"],\"notas\":\"Formas e perf. confirmadas (exsurrēxī/exsurrexi, exsurrectus). Mantida diferenciação de exūrō.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_10615:10615:2\",\"lemas\":[\"exsurgo\",\"exsurgō\",\"exsurgere\"],\"lema_canonico\":\"exsurgo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"erguer‑se, levantar‑se; surgir, erguer‑se em revolta; metaf.: sobressair, recuperar força\",\"aliases\":[],\"exemplos\":[\"Plaut. Rud. 1, 5, 22\",\"Verg. A. 11, 697\",\"Tac. H. 2, 14\"],\"notas\":\"Formas e perf. confirmadas (exsurrēxī/exsurrexi, exsurrectus). Mantida diferenciação de exūrō.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_10616-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_10616",
-    "page_num": 10616,
-    "lemmas": [
-      "exūro",
-      "exūrō"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Queimar completamente; consumir pelo fogo; também: secar, ressecar; fig.: consumir, devorar.",
-    "exemplos": [],
-    "notas": "Paradigma e transitividade confirmados em LS/Whitaker; normalizei formas latinas (exūrō, exūrere, exussī, exustum). | [dedupe] redirect → chunk_10615:10615:1 | [dedupe] redirect → chunk_10615:10615:1 | [ocr_fix 2025-08-20T01:03:57Z] Correção automática de lema via Gaffiot | lemma_in='exūrō' → 'exūro'",
-    "raw_text": "{\"id\":\"chunk_10616:10616:0\",\"lemas\":[\"exuro\",\"exūrō\",\"exūrere\"],\"lema_canonico\":\"exūrō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"Queimar completamente; consumir pelo fogo; também: secar, ressecar; fig.: consumir, devorar.\",\"aliases\":[],\"exemplos\":[\"Verg. En. 6, 742\",\"Cic. Verr. 1, 70\",\"Sall. B. Jug. 19, 6\",\"Cic. Br. 16\"],\"notas\":\"Paradigma e transitividade confirmados em LS/Whitaker; normalizei formas latinas (exūrō, exūrere, exussī, exustum).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_10616:10616:0\",\"lemas\":[\"exuro\",\"exūrō\",\"exūrere\"],\"lema_canonico\":\"exūrō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"Queimar completamente; consumir pelo fogo; também: secar, ressecar; fig.: consumir, devorar.\",\"aliases\":[],\"exemplos\":[\"Verg. En. 6, 742\",\"Cic. Verr. 1, 70\",\"Sall. B. Jug. 19, 6\",\"Cic. Br. 16\"],\"notas\":\"Paradigma e transitividade confirmados em LS/Whitaker; normalizei formas latinas (exūrō, exūrere, exussī, exustum).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_10617-e1",
@@ -616,28 +374,6 @@
     "raw_json": "{\"id\":\"chunk_10617:10617:0\",\"lemas\":[\"exūrere\",\"exūrō\"],\"lema_canonico\":\"exūrere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"queimar completamente; destruir pelo fogo; secar, torrar; consumir. (entrada refere-se ao perfeito exūssī)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Perfeito 1ª sg. 'exūssī' associado ao verbo exūrere; lema em infinitivo conforme dicionários.\",\"flags\":[\"src_latdeu\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_10618-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_10618",
-    "page_num": 10618,
-    "lemmas": [
-      "exustio",
-      "exustio"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "ação de queimar; combustão; incêndio, abrasamento",
-    "exemplos": [],
-    "notas": "Grafia e acentuação normalizadas; gênero e sentidos confirmados por LS/Whitaker. | [dedupe] redirect → chunk_10119:10119:3 | [dedupe] redirect → chunk_10119:10119:3",
-    "raw_text": "{\"id\":\"chunk_10618:10618:0\",\"lemas\":[\"exustio\",\"exūstiō\",\"exustĭo\"],\"lema_canonico\":\"exustio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"ação de queimar; combustão; incêndio, abrasamento\",\"aliases\":[],\"exemplos\":[\"Cic. Rep. 6, 23\"],\"notas\":\"Grafia e acentuação normalizadas; gênero e sentidos confirmados por LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_10618:10618:0\",\"lemas\":[\"exustio\",\"exūstiō\",\"exustĭo\"],\"lema_canonico\":\"exustio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"ação de queimar; combustão; incêndio, abrasamento\",\"aliases\":[],\"exemplos\":[\"Cic. Rep. 6, 23\"],\"notas\":\"Grafia e acentuação normalizadas; gênero e sentidos confirmados por LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_10619-e1",
     "volume_id": "faria",
     "doc_name": "chunk_10619",
@@ -658,28 +394,6 @@
     "notas": "Particípio de exūrō; forma confirmada por LS e Whitaker.",
     "raw_text": "{\"id\":\"chunk_10619:10619:0\",\"lemas\":[\"exustus\",\"exūstus\"],\"lema_canonico\":\"exustus\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de exūrō: queimado, consumido pelo fogo; reduzido a cinzas; também: ressequido, seco.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Particípio de exūrō; forma confirmada por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_10619:10619:0\",\"lemas\":[\"exustus\",\"exūstus\"],\"lema_canonico\":\"exustus\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de exūrō: queimado, consumido pelo fogo; reduzido a cinzas; também: ressequido, seco.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Particípio de exūrō; forma confirmada por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_10620-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_10620",
-    "page_num": 10620,
-    "lemmas": [
-      "exutus",
-      "exutus"
-    ],
-    "morfologia": "adj. (3) 3T",
-    "morph_render": "adj. (3) 3T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "particípio perfeito passivo de exuō: despido, despojado; ter tirado/privado de; despir-se.",
-    "exemplos": [],
-    "notas": "Particípio de exuō (exuō, exuere, exuī, exūtus); forma confirmada por LS e Whitaker. | [dedupe] redirect → chunk_10444:10444:0 | [dedupe] redirect → chunk_10444:10444:0",
-    "raw_text": "{\"id\":\"chunk_10620:10620:0\",\"lemas\":[\"exutus\",\"exūtus\",\"exuūtus\"],\"lema_canonico\":\"exutus\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de exuō: despido, despojado; ter tirado/privado de; despir-se.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Particípio de exuō (exuō, exuere, exuī, exūtus); forma confirmada por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_10620:10620:0\",\"lemas\":[\"exutus\",\"exūtus\",\"exuūtus\"],\"lema_canonico\":\"exutus\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de exuō: despido, despojado; ter tirado/privado de; despir-se.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Particípio de exuō (exuō, exuere, exuī, exūtus); forma confirmada por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_10621-e1",
@@ -1122,28 +836,6 @@
     "raw_json": "{\"id\":\"chunk_10640:10640:0\",\"lemas\":[\"Fabatriensis\"],\"lema_canonico\":\"Fabatriensis\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"gentilício (pl.): habitantes de Fabatria.\",\"aliases\":[],\"exemplos\":[\"Cic. Clu. 192\"],\"notas\":\"Entrada original apresenta forma plural (-ōrum); morfologia exata não cabe no vocabulário fornecido.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"morph_out_of_vocab\"]}"
   },
   {
-    "id": "chunk_10640-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_10640",
-    "page_num": 10640,
-    "lemmas": [
-      "faber",
-      "faber"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "artífice, trabalhador manual; ferreiro, carpinteiro; pessoa hábil nas artes.",
-    "exemplos": [],
-    "notas": "Normalizada morfologia para genitivo 'fabri' e unificada sentido substantival (advérbio separado). | [dedupe] redirect → chunk_10630:10630:0 | [dedupe] redirect → chunk_10630:10630:0",
-    "raw_text": "{\"id\":\"chunk_10640:10640:1\",\"lemas\":[\"faber\"],\"lema_canonico\":\"faber\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"artífice, trabalhador manual; ferreiro, carpinteiro; pessoa hábil nas artes.\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 9, 8\"],\"notas\":\"Normalizada morfologia para genitivo 'fabri' e unificada sentido substantival (advérbio separado).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_10640:10640:1\",\"lemas\":[\"faber\"],\"lema_canonico\":\"faber\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"artífice, trabalhador manual; ferreiro, carpinteiro; pessoa hábil nas artes.\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 9, 8\"],\"notas\":\"Normalizada morfologia para genitivo 'fabri' e unificada sentido substantival (advérbio separado).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_10641-e1",
     "volume_id": "faria",
     "doc_name": "chunk_10641",
@@ -1230,28 +922,6 @@
     "notas": "Consolidei sentidos principais atestados em fontes (LS/Whitaker/Lat→Deu).",
     "raw_text": "{\"id\":\"chunk_10643:10643:0\",\"lemas\":[\"fabrica\"],\"lema_canonico\":\"fabrica\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"ofício, trabalho manual; obra/fabricação; forja; arquitetura; astúcia, maquinação (sentido figurado).\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 7, 197\",\"Cic. Nat. 3, 55\",\"Cic. Nat. 2, 35\",\"Plaut. Bac. 366\"],\"notas\":\"Consolidei sentidos principais atestados em fontes (LS/Whitaker/Lat→Deu).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_10643:10643:0\",\"lemas\":[\"fabrica\"],\"lema_canonico\":\"fabrica\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"ofício, trabalho manual; obra/fabricação; forja; arquitetura; astúcia, maquinação (sentido figurado).\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 7, 197\",\"Cic. Nat. 3, 55\",\"Cic. Nat. 2, 35\",\"Plaut. Bac. 366\"],\"notas\":\"Consolidei sentidos principais atestados em fontes (LS/Whitaker/Lat→Deu).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_10644-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_10644",
-    "page_num": 10644,
-    "lemmas": [
-      "fabricatio",
-      "fabricatio"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "ato de fabricar; obra, construção; coisa fabricada",
-    "exemplos": [],
-    "notas": "Normalizada com base em Whitaker e Lat→Deu; mantidos exemplos da primeira passada. | [dedupe] redirect → chunk_10641:10641:0 | [dedupe] redirect → chunk_10641:10641:0",
-    "raw_text": "{\"id\":\"chunk_10644:10644:0\",\"lemas\":[\"fabricatio\",\"fabricationis\"],\"lema_canonico\":\"fabricatio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"ato de fabricar; obra, construção; coisa fabricada\",\"aliases\":[],\"exemplos\":[\"Vitr. 2, 1, 9\",\"Cic. Nat. 2, 133\",\"Cic. De Or. 3, 167\"],\"notas\":\"Normalizada com base em Whitaker e Lat→Deu; mantidos exemplos da primeira passada.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_10644:10644:0\",\"lemas\":[\"fabricatio\",\"fabricationis\"],\"lema_canonico\":\"fabricatio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"ato de fabricar; obra, construção; coisa fabricada\",\"aliases\":[],\"exemplos\":[\"Vitr. 2, 1, 9\",\"Cic. Nat. 2, 133\",\"Cic. De Or. 3, 167\"],\"notas\":\"Normalizada com base em Whitaker e Lat→Deu; mantidos exemplos da primeira passada.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_10645-e1",
@@ -1342,28 +1012,6 @@
     "raw_json": "{\"id\":\"chunk_10648:10648:0\",\"lemas\":[\"Fabricius\",\"Fabricianus\"],\"lema_canonico\":\"Fabricius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[\"proper name\"],\"definicao\":\"nome da gens romana Fabricius; também adjetivo Fabricianus/Fabricius ‘pertencente a Fabricius’\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 2, 66, 268\",\"Val. Max. 4, 4, 3\",\"Plin. Nat. 33, 12, 54, §153\"],\"notas\":\"Entrada baseada sobretudo em Lewis & Short (nome de família e adjetivo derivado); morfologia indicada como 2ª declinação.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_10649-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_10649",
-    "page_num": 10649,
-    "lemmas": [
-      "făbrĭcō",
-      "făbrĭcō"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Fazer, fabricar, forjar; trabalhar (no sentido próprio e figurado).",
-    "exemplos": [],
-    "notas": "Paradigma e equivalência com fabricor confirmados em LS/Whitaker; mantive transitivo. | [dedupe] redirect → chunk_10641:10641:1 | [dedupe] redirect → chunk_10641:10641:1",
-    "raw_text": "{\"id\":\"chunk_10649:10649:0\",\"lemas\":[\"fabrico\",\"făbrĭcō\",\"fabricāre\"],\"lema_canonico\":\"făbrĭcō\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"Fazer, fabricar, forjar; trabalhar (no sentido próprio e figurado).\",\"aliases\":[],\"exemplos\":[\"Hor. Sat. 1, 3, 102\",\"Verg. En. 2, 46\"],\"notas\":\"Paradigma e equivalência com fabricor confirmados em LS/Whitaker; mantive transitivo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_10649:10649:0\",\"lemas\":[\"fabrico\",\"făbrĭcō\",\"fabricāre\"],\"lema_canonico\":\"făbrĭcō\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"Fazer, fabricar, forjar; trabalhar (no sentido próprio e figurado).\",\"aliases\":[],\"exemplos\":[\"Hor. Sat. 1, 3, 102\",\"Verg. En. 2, 46\"],\"notas\":\"Paradigma e equivalência com fabricor confirmados em LS/Whitaker; mantive transitivo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_10650-e1",
     "volume_id": "faria",
     "doc_name": "chunk_10650",
@@ -1428,28 +1076,6 @@
     "notas": "Entrada adicionada como variação substantivada (neut. pl. raro); combinada evidência Whitaker/Lat→Deu",
     "raw_text": "{\"id\":\"chunk_10651:10651:1\",\"lemas\":[\"fabrilis\",\"fabrile\"],\"lema_canonico\":\"fabrilis\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[\"subst. n. pl.\"],\"definicao\":\"adjetivo: relativo a artesão/operário; relativo a ferreiro/carpinteiro/construtor; como substantivo (neut. pl.) = ferramentas/obra do carpinteiro\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada adicionada como variação substantivada (neut. pl. raro); combinada evidência Whitaker/Lat→Deu\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_firstpass\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_10651:10651:1\",\"lemas\":[\"fabrilis\",\"fabrile\"],\"lema_canonico\":\"fabrilis\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[\"subst. n. pl.\"],\"definicao\":\"adjetivo: relativo a artesão/operário; relativo a ferreiro/carpinteiro/construtor; como substantivo (neut. pl.) = ferramentas/obra do carpinteiro\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada adicionada como variação substantivada (neut. pl. raro); combinada evidência Whitaker/Lat→Deu\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_firstpass\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_10652-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_10652",
-    "page_num": 10652,
-    "lemmas": [
-      "fabrilis",
-      "fabrilis"
-    ],
-    "morfologia": "adj. (3) 3T",
-    "morph_render": "adj. (3) 3T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "relativo a operário, artesão; pertencente a metalúrgico/carpinteiro/construtor; (raramente subst. n. pl.) ferramentas ou obra do carpinteiro",
-    "exemplos": [],
-    "notas": "Adjetivo com variante neutra fabrile; entradas corroboradas por Whitaker e Lat→Deu | [dedupe] redirect → chunk_10651:10651:1 | [dedupe] redirect → chunk_10651:10651:1",
-    "raw_text": "{\"id\":\"chunk_10652:10652:0\",\"lemas\":[\"fabrilis\",\"fabrile\"],\"lema_canonico\":\"fabrilis\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"relativo a operário, artesão; pertencente a metalúrgico/carpinteiro/construtor; (raramente subst. n. pl.) ferramentas ou obra do carpinteiro\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 6, 1, 17\",\"Verg. Aen. 8, 451\"],\"notas\":\"Adjetivo com variante neutra fabrile; entradas corroboradas por Whitaker e Lat→Deu\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_10652:10652:0\",\"lemas\":[\"fabrilis\",\"fabrile\"],\"lema_canonico\":\"fabrilis\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"relativo a operário, artesão; pertencente a metalúrgico/carpinteiro/construtor; (raramente subst. n. pl.) ferramentas ou obra do carpinteiro\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 6, 1, 17\",\"Verg. Aen. 8, 451\"],\"notas\":\"Adjetivo com variante neutra fabrile; entradas corroboradas por Whitaker e Lat→Deu\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_10653-e1",
@@ -1584,28 +1210,6 @@
     "raw_json": "{\"id\":\"chunk_10658:10658:0\",\"lemas\":[\"fabulosus\",\"fabulosa\",\"fabulosum\"],\"lema_canonico\":\"fabulosus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"fabuloso; famoso ou próprio de fábula, lendário, fabulístico\",\"aliases\":[],\"exemplos\":[\"Hor. Carm. 1, 22, 7\"],\"notas\":\"Formas feminina e neutra incluídas como variantes canônicas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_10658-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_10658",
-    "page_num": 10658,
-    "lemmas": [
-      "facio",
-      "facio"
-    ],
-    "morfologia": "v. 3ª -iō (-ere)",
-    "morph_render": "v. 3ª -iō (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "fazer; (forma 'fac' = imperativo presente singular usado como ordem/Interjeição)",
-    "exemplos": [],
-    "notas": "Entrada 'fac' normalizada para o lema pleno 'facio'; observado uso imperativo absoluto. | [dedupe] redirect → chunk_10672:10672:0 | [dedupe] redirect → chunk_10672:10672:0",
-    "raw_text": "{\"id\":\"chunk_10658:10658:1\",\"lemas\":[\"facio\"],\"lema_canonico\":\"facio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[],\"definicao\":\"fazer; (forma 'fac' = imperativo presente singular usado como ordem/Interjeição)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada 'fac' normalizada para o lema pleno 'facio'; observado uso imperativo absoluto.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_10658:10658:1\",\"lemas\":[\"facio\"],\"lema_canonico\":\"facio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[],\"definicao\":\"fazer; (forma 'fac' = imperativo presente singular usado como ordem/Interjeição)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada 'fac' normalizada para o lema pleno 'facio'; observado uso imperativo absoluto.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_10659-e1",
     "volume_id": "faria",
     "doc_name": "chunk_10659",
@@ -1650,50 +1254,6 @@
     "raw_json": "{\"id\":\"chunk_10660:10660:0\",\"lemas\":[\"facies\"],\"lema_canonico\":\"facies\",\"morfologia\":\"s. fem. 5ª (-ei)\",\"morph_extra\":[],\"definicao\":\"forma, figura, aparência, rosto; aspecto exterior, aparência; em contextos jurídicos/forenses: aparência/face (ex.: prima facie).\",\"aliases\":[],\"exemplos\":[\"Plaut. Mil. 4, 4, 36\",\"Gell. l. l.\",\"Verg. A. 12, 891\",\"Tac. A. 4, 67\",\"Ov. Tr. 1, 3, 26\"],\"notas\":\"Separado do verbo 'facio'; normalizada a declinação (faciei) e corrigido OCR.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_10660-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_10660",
-    "page_num": 10660,
-    "lemmas": [
-      "facio",
-      "facio"
-    ],
-    "morfologia": "v. 3ª -iō (-ere)",
-    "morph_render": "v. 3ª -iō (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "fazer, produzir, causar, tornar; executar, compor; formar; (trans.) causar ou provocar.",
-    "exemplos": [],
-    "notas": "Entrada verbal separada do substantivo 'facies'; classificado como verbo 3ª -iō. | [dedupe] redirect → chunk_10672:10672:0 | [dedupe] redirect → chunk_10672:10672:0",
-    "raw_text": "{\"id\":\"chunk_10660:10660:1\",\"lemas\":[\"facio\"],\"lema_canonico\":\"facio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[],\"definicao\":\"fazer, produzir, causar, tornar; executar, compor; formar; (trans.) causar ou provocar.\",\"aliases\":[],\"exemplos\":[\"Cic.\",\"Plin. Nat.\",\"Varr. R.R. 1, 7\"],\"notas\":\"Entrada verbal separada do substantivo 'facies'; classificado como verbo 3ª -iō.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_10660:10660:1\",\"lemas\":[\"facio\"],\"lema_canonico\":\"facio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[],\"definicao\":\"fazer, produzir, causar, tornar; executar, compor; formar; (trans.) causar ou provocar.\",\"aliases\":[],\"exemplos\":[\"Cic.\",\"Plin. Nat.\",\"Varr. R.R. 1, 7\"],\"notas\":\"Entrada verbal separada do substantivo 'facies'; classificado como verbo 3ª -iō.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_10660-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_10660",
-    "page_num": 10660,
-    "lemmas": [
-      "facies",
-      "facies"
-    ],
-    "morfologia": "s. fem. 5ª (-ei)",
-    "morph_render": "s. fem. 5ª (-ei)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "1. aparência, forma exterior, rosto, feição; 2. aspecto, superfície, aparência geral; 3. em locuções: ‘in facie’ = perante, de rosto, pessoalmente.",
-    "exemplos": [],
-    "notas": "Normalizada para o substantivo clássico facies; corrige leitura editorial que a apresentou como imperativo. | [dedupe] redirect → chunk_10660:10660:0 | [dedupe] redirect → chunk_10660:10660:0",
-    "raw_text": "{\"id\":\"chunk_10660:10660:2\",\"lemas\":[\"facies\"],\"lema_canonico\":\"facies\",\"morfologia\":\"s. fem. 5ª (-ei)\",\"morph_extra\":[],\"definicao\":\"1. aparência, forma exterior, rosto, feição; 2. aspecto, superfície, aparência geral; 3. em locuções: ‘in facie’ = perante, de rosto, pessoalmente.\",\"aliases\":[],\"exemplos\":[\"Plaut. Mil. 4, 4, 36\"],\"notas\":\"Normalizada para o substantivo clássico facies; corrige leitura editorial que a apresentou como imperativo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_10660:10660:2\",\"lemas\":[\"facies\"],\"lema_canonico\":\"facies\",\"morfologia\":\"s. fem. 5ª (-ei)\",\"morph_extra\":[],\"definicao\":\"1. aparência, forma exterior, rosto, feição; 2. aspecto, superfície, aparência geral; 3. em locuções: ‘in facie’ = perante, de rosto, pessoalmente.\",\"aliases\":[],\"exemplos\":[\"Plaut. Mil. 4, 4, 36\"],\"notas\":\"Normalizada para o substantivo clássico facies; corrige leitura editorial que a apresentou como imperativo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_10660-e4",
     "volume_id": "faria",
     "doc_name": "chunk_10660",
@@ -1714,28 +1274,6 @@
     "notas": "Restaurada forma e sentido conforme Lewis & Short e Lat→Deu; elimina leitura corrupta sugerida por OCR.",
     "raw_text": "{\"id\":\"chunk_10660:10660:3\",\"lemas\":[\"facesso\"],\"lema_canonico\":\"facesso\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Verbo intensivo de facio; atuar com prontidão/energicamente: apressar-se, executar, cumprir, causar (em contextos diversos).\",\"aliases\":[],\"exemplos\":[\"Enn. apud Non. 306, 23 (cit. LS)\",\"Verg. A. 4, 295 (cit. LS)\"],\"notas\":\"Restaurada forma e sentido conforme Lewis & Short e Lat→Deu; elimina leitura corrupta sugerida por OCR.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_10660:10660:3\",\"lemas\":[\"facesso\"],\"lema_canonico\":\"facesso\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Verbo intensivo de facio; atuar com prontidão/energicamente: apressar-se, executar, cumprir, causar (em contextos diversos).\",\"aliases\":[],\"exemplos\":[\"Enn. apud Non. 306, 23 (cit. LS)\",\"Verg. A. 4, 295 (cit. LS)\"],\"notas\":\"Restaurada forma e sentido conforme Lewis & Short e Lat→Deu; elimina leitura corrupta sugerida por OCR.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_10661-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_10661",
-    "page_num": 10661,
-    "lemmas": [
-      "facesso",
-      "facesso"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "verbo intensivo de facio: procurar fazer, apressar‑se em fazer; causar/atrair; intr.: retirar‑se, ir embora",
-    "exemplos": [],
-    "notas": "Conjugação e sentidos confirmados por Lewis & Short e Lat→Deu (facessere, facessīvī, facessītum). | [dedupe] redirect → chunk_10660:10660:3 | [dedupe] redirect → chunk_10660:10660:3",
-    "raw_text": "{\"id\":\"chunk_10661:10661:0\",\"lemas\":[\"facesso\",\"facessō\"],\"lema_canonico\":\"facesso\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"verbo intensivo de facio: procurar fazer, apressar‑se em fazer; causar/atrair; intr.: retirar‑se, ir embora\",\"aliases\":[],\"exemplos\":[\"Cic. Off. 3, 142\",\"Verg. A. 4, 295\",\"Plaut. Men. 2, 1, 24\"],\"notas\":\"Conjugação e sentidos confirmados por Lewis & Short e Lat→Deu (facessere, facessīvī, facessītum).\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_10661:10661:0\",\"lemas\":[\"facesso\",\"facessō\"],\"lema_canonico\":\"facesso\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"verbo intensivo de facio: procurar fazer, apressar‑se em fazer; causar/atrair; intr.: retirar‑se, ir embora\",\"aliases\":[],\"exemplos\":[\"Cic. Off. 3, 142\",\"Verg. A. 4, 295\",\"Plaut. Men. 2, 1, 24\"],\"notas\":\"Conjugação e sentidos confirmados por Lewis & Short e Lat→Deu (facessere, facessīvī, facessītum).\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_10662-e1",
@@ -1782,28 +1320,6 @@
     "raw_json": "{\"id\":\"chunk_10663:10663:0\",\"lemas\":[\"facetia\",\"facetiae\"],\"lema_canonico\":\"facetia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"graça, gracejo; dito jocoso, facécia; witticism, drollery\",\"aliases\":[],\"exemplos\":[\"Plaut. Stich. 727\"],\"notas\":\"Forma clássica făcētia confirmada por Lewis & Short e Whitaker\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_10664-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_10664",
-    "page_num": 10664,
-    "lemmas": [
-      "facetia",
-      "facetia"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "brincadeira, graça; dito jocoso, witticism, jest",
-    "exemplos": [],
-    "notas": "Unificadas variantes; forma corroborada por LS e Whitaker. | [dedupe] redirect → chunk_10663:10663:0 | [dedupe] redirect → chunk_10663:10663:0",
-    "raw_text": "{\"id\":\"chunk_10664:10664:0\",\"lemas\":[\"facetia\",\"facētiae\"],\"lema_canonico\":\"facetia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"brincadeira, graça; dito jocoso, witticism, jest\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 2, 217\",\"Cic. De Or. 1, 243\"],\"notas\":\"Unificadas variantes; forma corroborada por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_10664:10664:0\",\"lemas\":[\"facetia\",\"facētiae\"],\"lema_canonico\":\"facetia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"brincadeira, graça; dito jocoso, witticism, jest\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 2, 217\",\"Cic. De Or. 1, 243\"],\"notas\":\"Unificadas variantes; forma corroborada por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_10665-e1",
     "volume_id": "faria",
     "doc_name": "chunk_10665",
@@ -1824,28 +1340,6 @@
     "notas": "Forma e acepções alinhadas com LS e Whitaker; variantes de gênero incluídas.",
     "raw_text": "{\"id\":\"chunk_10665:10665:0\",\"lemas\":[\"facetus\",\"faceta\",\"facetum\"],\"lema_canonico\":\"facetus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"elegante, bem-feito; espirituoso, jocoso, facetious\",\"aliases\":[],\"exemplos\":[\"Cic. Br. 325\",\"Cic. Br. 173\",\"Lucil. 963\",\"Cic. Leg. 2, 371\"],\"notas\":\"Forma e acepções alinhadas com LS e Whitaker; variantes de gênero incluídas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_10665:10665:0\",\"lemas\":[\"facetus\",\"faceta\",\"facetum\"],\"lema_canonico\":\"facetus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"elegante, bem-feito; espirituoso, jocoso, facetious\",\"aliases\":[],\"exemplos\":[\"Cic. Br. 325\",\"Cic. Br. 173\",\"Lucil. 963\",\"Cic. Leg. 2, 371\"],\"notas\":\"Forma e acepções alinhadas com LS e Whitaker; variantes de gênero incluídas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_10666-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_10666",
-    "page_num": 10666,
-    "lemmas": [
-      "facies",
-      "facies"
-    ],
-    "morfologia": "s. fem. 5ª (-ei)",
-    "morph_render": "s. fem. 5ª (-ei)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "aparência, forma exterior; rosto, fisionomia; figura, aspecto; aparência, espetáculo; em uso poético: espécie, qualidade",
-    "exemplos": [],
-    "notas": "Normalização conforme LS/Whitaker; forma e declinação confirmadas. | [dedupe] redirect → chunk_10660:10660:0 | [dedupe] redirect → chunk_10660:10660:0",
-    "raw_text": "{\"id\":\"chunk_10666:10666:0\",\"lemas\":[\"facies\"],\"lema_canonico\":\"facies\",\"morfologia\":\"s. fem. 5ª (-ei)\",\"morph_extra\":[],\"definicao\":\"aparência, forma exterior; rosto, fisionomia; figura, aspecto; aparência, espetáculo; em uso poético: espécie, qualidade\",\"aliases\":[],\"exemplos\":[\"Tac. An. 4, 67\",\"Verg. G. 4, 361\",\"Cic. Phil. 2, 16, 41\",\"Ov. A. A. 3, 105\",\"Tac. H. 5, 2\",\"Plin. Pan. 56, 6\",\"Verg. A. 6, 580\"],\"notas\":\"Normalização conforme LS/Whitaker; forma e declinação confirmadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_10666:10666:0\",\"lemas\":[\"facies\"],\"lema_canonico\":\"facies\",\"morfologia\":\"s. fem. 5ª (-ei)\",\"morph_extra\":[],\"definicao\":\"aparência, forma exterior; rosto, fisionomia; figura, aspecto; aparência, espetáculo; em uso poético: espécie, qualidade\",\"aliases\":[],\"exemplos\":[\"Tac. An. 4, 67\",\"Verg. G. 4, 361\",\"Cic. Phil. 2, 16, 41\",\"Ov. A. A. 3, 105\",\"Tac. H. 5, 2\",\"Plin. Pan. 56, 6\",\"Verg. A. 6, 580\"],\"notas\":\"Normalização conforme LS/Whitaker; forma e declinação confirmadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_10667-e1",
@@ -2222,28 +1716,6 @@
     "raw_json": "{\"id\":\"chunk_10681:10681:0\",\"lemas\":[\"facundia\",\"fācundia\"],\"lema_canonico\":\"facundia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"eloquência, fluência de palavra; dom da palavra\",\"aliases\":[],\"exemplos\":[\"Hor. O. 4, 7, 21\"],\"notas\":\"Forma e sentido confirmados por LS e Whitaker; grafias clássicas indicadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_10682-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_10682",
-    "page_num": 10682,
-    "lemmas": [
-      "facundia",
-      "facundia"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "eloquência, fluidez de discurso; prontidão de fala.",
-    "exemplos": [],
-    "notas": "Ambas as formas atestadas (Lewis & Short e Whitaker); facunditas aparece como variante posterior. | [dedupe] redirect → chunk_10681:10681:0 | [dedupe] redirect → chunk_10681:10681:0",
-    "raw_text": "{\"id\":\"chunk_10682:10682:0\",\"lemas\":[\"facundia\",\"facunditas\"],\"lema_canonico\":\"facundia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[\"variant: facunditas (f. 3ª)\"],\"definicao\":\"eloquência, fluidez de discurso; prontidão de fala.\",\"aliases\":[],\"exemplos\":[\"Plaut. Truc. 2, 6, 13\",\"Plaut. Truc. 494\"],\"notas\":\"Ambas as formas atestadas (Lewis & Short e Whitaker); facunditas aparece como variante posterior.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_10682:10682:0\",\"lemas\":[\"facundia\",\"facunditas\"],\"lema_canonico\":\"facundia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[\"variant: facunditas (f. 3ª)\"],\"definicao\":\"eloquência, fluidez de discurso; prontidão de fala.\",\"aliases\":[],\"exemplos\":[\"Plaut. Truc. 2, 6, 13\",\"Plaut. Truc. 494\"],\"notas\":\"Ambas as formas atestadas (Lewis & Short e Whitaker); facunditas aparece como variante posterior.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_10683-e1",
     "volume_id": "faria",
     "doc_name": "chunk_10683",
@@ -2308,28 +1780,6 @@
     "notas": "Substantivo (não adjetivo). Concordância entre Whitaker e Lat→Deu.",
     "raw_text": "{\"id\":\"chunk_10685:10685:0\",\"lemas\":[\"faeces\"],\"lema_canonico\":\"faeces\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"borra, sedimento; escória, excremento\",\"aliases\":[],\"exemplos\":[\"Plaut. Trin. 297\"],\"notas\":\"Substantivo (não adjetivo). Concordância entre Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_firstpass\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_10685:10685:0\",\"lemas\":[\"faeces\"],\"lema_canonico\":\"faeces\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"borra, sedimento; escória, excremento\",\"aliases\":[],\"exemplos\":[\"Plaut. Trin. 297\"],\"notas\":\"Substantivo (não adjetivo). Concordância entre Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_firstpass\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_10686-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_10686",
-    "page_num": 10686,
-    "lemmas": [
-      "facies",
-      "facies"
-    ],
-    "morfologia": "s. fem. 5ª (-ei)",
-    "morph_render": "s. fem. 5ª (-ei)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Rosto, face; forma, figura, aparência, aspecto exterior; também sentido figurado (à primeira vista, pretexto).",
-    "exemplos": [],
-    "notas": "Genitivo correto 'faciei' confirmado; entrada alinhada com LS e Lat→Deu. | [dedupe] redirect → chunk_10660:10660:0 | [dedupe] redirect → chunk_10660:10660:0",
-    "raw_text": "{\"id\":\"chunk_10686:10686:0\",\"lemas\":[\"facies\"],\"lema_canonico\":\"facies\",\"morfologia\":\"s. fem. 5ª (-ei)\",\"morph_extra\":[],\"definicao\":\"Rosto, face; forma, figura, aparência, aspecto exterior; também sentido figurado (à primeira vista, pretexto).\",\"aliases\":[],\"exemplos\":[\"Plaut. Mil. 4, 4, 36\",\"Gell. l. l.\",\"Verg. A. 12, 891\",\"Cic. de Or. 1, 28, 127\"],\"notas\":\"Genitivo correto 'faciei' confirmado; entrada alinhada com LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_10686:10686:0\",\"lemas\":[\"facies\"],\"lema_canonico\":\"facies\",\"morfologia\":\"s. fem. 5ª (-ei)\",\"morph_extra\":[],\"definicao\":\"Rosto, face; forma, figura, aparência, aspecto exterior; também sentido figurado (à primeira vista, pretexto).\",\"aliases\":[],\"exemplos\":[\"Plaut. Mil. 4, 4, 36\",\"Gell. l. l.\",\"Verg. A. 12, 891\",\"Cic. de Or. 1, 28, 127\"],\"notas\":\"Genitivo correto 'faciei' confirmado; entrada alinhada com LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_10687-e1",
@@ -2616,28 +2066,6 @@
     "notas": "Restituída a forma clássica Fāgūtālis e indicado o substantivo derivado Fāgūtal conforme LS. | [ocr_fix 2025-08-17T19:53:46Z] match direto em LS por lemma/lemma_norm | lemma_in='Fāgūtālis' → 'Fāgūtālis'",
     "raw_text": "{\"id\":\"chunk_10698:10698:0\",\"lemas\":[\"Fāgūtālis\",\"Fagutalis\"],\"lema_canonico\":\"Fāgūtālis\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"relativo ao Fāgūtal (luco/santuário da faia no Esquilino); substantivado Fāgūtal, -alis, n., o santuário\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 15, 18\"],\"notas\":\"Restituída a forma clássica Fāgūtālis e indicado o substantivo derivado Fāgūtal conforme LS.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_10698:10698:0\",\"lemas\":[\"Fāgūtālis\",\"Fagutalis\"],\"lema_canonico\":\"Fāgūtālis\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"relativo ao Fāgūtal (luco/santuário da faia no Esquilino); substantivado Fāgūtal, -alis, n., o santuário\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 15, 18\"],\"notas\":\"Restituída a forma clássica Fāgūtālis e indicado o substantivo derivado Fāgūtal conforme LS.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_10699-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_10699",
-    "page_num": 10699,
-    "lemmas": [
-      "fălārĭca",
-      "fălārĭca"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "míssil pesado usado em cerco (originalmente ligado a torres de cerco); forma variante: falaricium / phalaricum",
-    "exemplos": [],
-    "notas": "Variante f-/ph- atestada; Whitaker registra falarica/falaricium e phalarica/phalaricum. | [dedupe] redirect → chunk_10700:10700:0 | [dedupe] redirect → chunk_10700:10700:0 | [ocr_fix 2025-08-17T19:48:22Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='falarica' → 'fălārĭca'",
-    "raw_text": "{\"id\":\"chunk_10699:10699:0\",\"lemas\":[\"falarica\",\"falaricium\",\"phalarica\",\"phalaricum\"],\"lema_canonico\":\"falarica\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"míssil pesado usado em cerco (originalmente ligado a torres de cerco); forma variante: falaricium / phalaricum\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Variante f-/ph- atestada; Whitaker registra falarica/falaricium e phalarica/phalaricum.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_10699:10699:0\",\"lemas\":[\"falarica\",\"falaricium\",\"phalarica\",\"phalaricum\"],\"lema_canonico\":\"falarica\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"míssil pesado usado em cerco (originalmente ligado a torres de cerco); forma variante: falaricium / phalaricum\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Variante f-/ph- atestada; Whitaker registra falarica/falaricium e phalarica/phalaricum.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}"
   },
   {
     "id": "chunk_10700-e1",
@@ -3146,50 +2574,6 @@
     "raw_json": "{\"id\":\"chunk_10722:10722:0\",\"lemas\":[\"falsiloquus\"],\"lema_canonico\":\"falsiloquus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"mentiroso; que profere falsidades, caluniador (freq. em Plauto).\",\"aliases\":[],\"exemplos\":[\"Plaut. Mil. 2, 2, 36\"],\"notas\":\"Forma e flexão confirmadas por Whitaker e Lewis & Short (subst. raro também atestado).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_10723-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_10723",
-    "page_num": 10723,
-    "lemmas": [
-      "falsiloquus",
-      "falsiloquus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Que diz falsidades; mentiroso, caluniador. (Substantivado: falsiloquus, i, m., acusador falso.)",
-    "exemplos": [],
-    "notas": "Restaurada a grafia clássica e adicionadas formas feminina/neutra segundo LS/Whitaker. | [dedupe] redirect → chunk_10722:10722:0 | [dedupe] redirect → chunk_10722:10722:0",
-    "raw_text": "{\"id\":\"chunk_10723:10723:0\",\"lemas\":[\"falsiloquus\",\"falsiloqua\",\"falsiloquum\"],\"lema_canonico\":\"falsiloquus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Que diz falsidades; mentiroso, caluniador. (Substantivado: falsiloquus, i, m., acusador falso.)\",\"aliases\":[],\"exemplos\":[\"Plaut. Capt. 2, 2, 14\",\"Prud. Apoth. 107\"],\"notas\":\"Restaurada a grafia clássica e adicionadas formas feminina/neutra segundo LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_10723:10723:0\",\"lemas\":[\"falsiloquus\",\"falsiloqua\",\"falsiloquum\"],\"lema_canonico\":\"falsiloquus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Que diz falsidades; mentiroso, caluniador. (Substantivado: falsiloquus, i, m., acusador falso.)\",\"aliases\":[],\"exemplos\":[\"Plaut. Capt. 2, 2, 14\",\"Prud. Apoth. 107\"],\"notas\":\"Restaurada a grafia clássica e adicionadas formas feminina/neutra segundo LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_10724-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_10724",
-    "page_num": 10724,
-    "lemmas": [
-      "falsiloquus",
-      "falsiloquus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "que profere falsidades; mentiroso; subst. masc.: acusador falso, caluniador",
-    "exemplos": [],
-    "notas": "Grafia normalizada conforme LS; substancial uso masculino indicado por LS. | [dedupe] redirect → chunk_10722:10722:0 | [dedupe] redirect → chunk_10722:10722:0",
-    "raw_text": "{\"id\":\"chunk_10724:10724:0\",\"lemas\":[\"falsiloquus\",\"falsiloqua\",\"falsiloquum\"],\"lema_canonico\":\"falsiloquus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"que profere falsidades; mentiroso; subst. masc.: acusador falso, caluniador\",\"aliases\":[],\"exemplos\":[\"Plaut. Capt. 2, 2, 14\",\"Prud. Apoth. 107\",\"Plaut. Mil. 2, 2, 36\",\"Vulg. Job 16, 9\"],\"notas\":\"Grafia normalizada conforme LS; substancial uso masculino indicado por LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_10724:10724:0\",\"lemas\":[\"falsiloquus\",\"falsiloqua\",\"falsiloquum\"],\"lema_canonico\":\"falsiloquus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"que profere falsidades; mentiroso; subst. masc.: acusador falso, caluniador\",\"aliases\":[],\"exemplos\":[\"Plaut. Capt. 2, 2, 14\",\"Prud. Apoth. 107\",\"Plaut. Mil. 2, 2, 36\",\"Vulg. Job 16, 9\"],\"notas\":\"Grafia normalizada conforme LS; substancial uso masculino indicado por LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_10725-e1",
     "volume_id": "faria",
     "doc_name": "chunk_10725",
@@ -3498,28 +2882,6 @@
     "raw_json": "{\"id\":\"chunk_10738:10738:0\",\"lemas\":[\"familiaris\",\"familiare\"],\"lema_canonico\":\"familiaris\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"pertencente à família ou casa; doméstico, íntimo, familiar; usado também como substantivo para membro da casa/servo ou amigo íntimo\",\"aliases\":[],\"exemplos\":[\"Sen. Ep. 47, 4\",\"Cic. Tusc. 1, 21, 3\",\"Cic. Fam. 13, 13, 1\"],\"notas\":\"Inclui variante neutra 'familiare'; sentidos e usos confirmados por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_10739-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_10739",
-    "page_num": 10739,
-    "lemmas": [
-      "familiaris",
-      "familiaris"
-    ],
-    "morfologia": "adj. (3) 2T",
-    "morph_render": "adj. (3) 2T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "1) relativo à casa ou família; doméstico, particular ao lar; 2) íntimo, familiar; como substantivo: membro da família/servo familiar, pessoa de confiança.",
-    "exemplos": [],
-    "notas": "Adjetivo com uso substantivado atestado; classificação morfológica segundo Whitaker e LS. | [dedupe] redirect → chunk_10738:10738:0 | [dedupe] redirect → chunk_10738:10738:0",
-    "raw_text": "{\"id\":\"chunk_10739:10739:0\",\"lemas\":[\"familiaris\"],\"lema_canonico\":\"familiaris\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"1) relativo à casa ou família; doméstico, particular ao lar; 2) íntimo, familiar; como substantivo: membro da família/servo familiar, pessoa de confiança.\",\"aliases\":[],\"exemplos\":[\"Cic. Lael. 89\"],\"notas\":\"Adjetivo com uso substantivado atestado; classificação morfológica segundo Whitaker e LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_10739:10739:0\",\"lemas\":[\"familiaris\"],\"lema_canonico\":\"familiaris\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"1) relativo à casa ou família; doméstico, particular ao lar; 2) íntimo, familiar; como substantivo: membro da família/servo familiar, pessoa de confiança.\",\"aliases\":[],\"exemplos\":[\"Cic. Lael. 89\"],\"notas\":\"Adjetivo com uso substantivado atestado; classificação morfológica segundo Whitaker e LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_10740-e1",
     "volume_id": "faria",
     "doc_name": "chunk_10740",
@@ -3562,50 +2924,6 @@
     "notas": "Forma e exemplos verificados em LS e Whitaker; referência Caecel. mantida conforme uso editorial.",
     "raw_text": "{\"id\":\"chunk_10741:10741:0\",\"lemas\":[\"familiariter\"],\"lema_canonico\":\"familiariter\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"de modo familiar; intimamente, em termos de convivência; por extensão, com intimidade, profundamente, à vontade.\",\"aliases\":[],\"exemplos\":[\"Plaut. Rud. 420\",\"Quint. 6, 4, 8\",\"Cic. Cael. 57\",\"Cic. Caecel. 29\"],\"notas\":\"Forma e exemplos verificados em LS e Whitaker; referência Caecel. mantida conforme uso editorial.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_10741:10741:0\",\"lemas\":[\"familiariter\"],\"lema_canonico\":\"familiariter\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"de modo familiar; intimamente, em termos de convivência; por extensão, com intimidade, profundamente, à vontade.\",\"aliases\":[],\"exemplos\":[\"Plaut. Rud. 420\",\"Quint. 6, 4, 8\",\"Cic. Cael. 57\",\"Cic. Caecel. 29\"],\"notas\":\"Forma e exemplos verificados em LS e Whitaker; referência Caecel. mantida conforme uso editorial.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_10742-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_10742",
-    "page_num": 10742,
-    "lemmas": [
-      "familia",
-      "familia"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "casa; conjunto doméstico; família, casa (incl. servos); clã; comunidade religiosa",
-    "exemplos": [],
-    "notas": "Forma e acepções confirmadas em Whitaker e Lewis & Short; genitivo familiae (1ª decl.) normalizado. | [dedupe] redirect → chunk_10737:10737:0 | [dedupe] redirect → chunk_10737:10737:0",
-    "raw_text": "{\"id\":\"chunk_10742:10742:0\",\"lemas\":[\"familia\"],\"lema_canonico\":\"familia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"casa; conjunto doméstico; família, casa (incl. servos); clã; comunidade religiosa\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 2, 3, 51\"],\"notas\":\"Forma e acepções confirmadas em Whitaker e Lewis & Short; genitivo familiae (1ª decl.) normalizado.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_10742:10742:0\",\"lemas\":[\"familia\"],\"lema_canonico\":\"familia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"casa; conjunto doméstico; família, casa (incl. servos); clã; comunidade religiosa\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 2, 3, 51\"],\"notas\":\"Forma e acepções confirmadas em Whitaker e Lewis & Short; genitivo familiae (1ª decl.) normalizado.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_10743-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_10743",
-    "page_num": 10743,
-    "lemmas": [
-      "fames",
-      "fames"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "fome; carestia; necessidade; desejo intenso.",
-    "exemplos": [],
-    "notas": "Entrada duplicada em primeira passada; unificado ao lema fames/famis conforme LS/Whitaker. | [dedupe] redirect → chunk_10734:10734:0 | [dedupe] redirect → chunk_10734:10734:0",
-    "raw_text": "{\"id\":\"chunk_10743:10743:0\",\"lemas\":[\"fames\",\"famis\"],\"lema_canonico\":\"fames\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"fome; carestia; necessidade; desejo intenso.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada duplicada em primeira passada; unificado ao lema fames/famis conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_10743:10743:0\",\"lemas\":[\"fames\",\"famis\"],\"lema_canonico\":\"fames\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"fome; carestia; necessidade; desejo intenso.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada duplicada em primeira passada; unificado ao lema fames/famis conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_10744-e1",
@@ -3718,28 +3036,6 @@
     "raw_json": "{\"id\":\"chunk_10747:10747:0\",\"lemas\":[\"famuliō\"],\"lema_canonico\":\"famuliō\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"(incerto) substantivo/documento corroído; first_pass interpreta como particípio substantivado relacionado a famulor, mas forma não confirmada por fontes principais.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma e análise não confirmadas em LS/Whitaker/Lat→Deu; manter entrada para revisão detalhada.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_10748-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_10748",
-    "page_num": 10748,
-    "lemmas": [
-      "famulus",
-      "famulus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "1) (s.) servo, criado, atendente (masc.); 2) (s.) serva, criada, atendente (fem.); 3) (adj., poet.) servil, prestante, que serve.",
-    "exemplos": [],
-    "notas": "Entrada unificada das formas nominativas masculinas e femininas; inclui uso adjetival (poético). | [dedupe] redirect → chunk_10744:10744:1 | [dedupe] redirect → chunk_10744:10744:1",
-    "raw_text": "{\"id\":\"chunk_10748:10748:0\",\"lemas\":[\"famulus\",\"famula\",\"famulum\"],\"lema_canonico\":\"famulus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[\"fem. 1ª (-ae)\",\"adj. (1/2) -a, -um\"],\"definicao\":\"1) (s.) servo, criado, atendente (masc.); 2) (s.) serva, criada, atendente (fem.); 3) (adj., poet.) servil, prestante, que serve.\",\"aliases\":[],\"exemplos\":[\"Cic. Lael. 15, 55\",\"Cic. Off. 2, 7, 24\",\"Plaut. As. 1, 3, 32\",\"Verg. A. 1, 701\",\"Ov. M. 3, 229\"],\"notas\":\"Entrada unificada das formas nominativas masculinas e femininas; inclui uso adjetival (poético).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_10748:10748:0\",\"lemas\":[\"famulus\",\"famula\",\"famulum\"],\"lema_canonico\":\"famulus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[\"fem. 1ª (-ae)\",\"adj. (1/2) -a, -um\"],\"definicao\":\"1) (s.) servo, criado, atendente (masc.); 2) (s.) serva, criada, atendente (fem.); 3) (adj., poet.) servil, prestante, que serve.\",\"aliases\":[],\"exemplos\":[\"Cic. Lael. 15, 55\",\"Cic. Off. 2, 7, 24\",\"Plaut. As. 1, 3, 32\",\"Verg. A. 1, 701\",\"Ov. M. 3, 229\"],\"notas\":\"Entrada unificada das formas nominativas masculinas e femininas; inclui uso adjetival (poético).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"morph_out_of_vocab\"]}"
-  },
-  {
     "id": "chunk_10749-e1",
     "volume_id": "faria",
     "doc_name": "chunk_10749",
@@ -3804,28 +3100,6 @@
     "notas": "Entradas substantival e adjectival atestadas; aqui apresentada a forma adjectival com variantes nominais. Exemplos confirmam uso poético.",
     "raw_text": "{\"id\":\"chunk_10751:10751:0\",\"lemas\":[\"famulus\",\"famula\",\"famulum\"],\"lema_canonico\":\"famulus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"servente, servil; submisso, obediente (adjectival use); também substantivo 'servus, minister' (masc. famulus, fem. famula)\",\"aliases\":[],\"exemplos\":[\"Ov. F. 1, 286\",\"Luc. 4, 207\",\"Sil. 10, 647\",\"Val. Fl. 1, 749\",\"Claud. III Cons. Hon. 203\"],\"notas\":\"Entradas substantival e adjectival atestadas; aqui apresentada a forma adjectival com variantes nominais. Exemplos confirmam uso poético.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_10751:10751:0\",\"lemas\":[\"famulus\",\"famula\",\"famulum\"],\"lema_canonico\":\"famulus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"servente, servil; submisso, obediente (adjectival use); também substantivo 'servus, minister' (masc. famulus, fem. famula)\",\"aliases\":[],\"exemplos\":[\"Ov. F. 1, 286\",\"Luc. 4, 207\",\"Sil. 10, 647\",\"Val. Fl. 1, 749\",\"Claud. III Cons. Hon. 203\"],\"notas\":\"Entradas substantival e adjectival atestadas; aqui apresentada a forma adjectival com variantes nominais. Exemplos confirmam uso poético.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_10752-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_10752",
-    "page_num": 10752,
-    "lemmas": [
-      "famulus",
-      "famulus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "servo, criado, assistente; (em sentido especial) fâmulo de divindade, sacerdote",
-    "exemplos": [],
-    "notas": "Variantia feminina (famula) e adjetival (famulus, -a, -um) atestadas por LS/Whitaker. | [dedupe] redirect → chunk_10744:10744:1 | [dedupe] redirect → chunk_10744:10744:1",
-    "raw_text": "{\"id\":\"chunk_10752:10752:0\",\"lemas\":[\"famulus\",\"famula\"],\"lema_canonico\":\"famulus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"servo, criado, assistente; (em sentido especial) fâmulo de divindade, sacerdote\",\"aliases\":[],\"exemplos\":[\"Cic. Or. 2, 24\",\"Cic. Leg. 2, 22\"],\"notas\":\"Variantia feminina (famula) e adjetival (famulus, -a, -um) atestadas por LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_10752:10752:0\",\"lemas\":[\"famulus\",\"famula\"],\"lema_canonico\":\"famulus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"servo, criado, assistente; (em sentido especial) fâmulo de divindade, sacerdote\",\"aliases\":[],\"exemplos\":[\"Cic. Or. 2, 24\",\"Cic. Leg. 2, 22\"],\"notas\":\"Variantia feminina (famula) e adjetival (famulus, -a, -um) atestadas por LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_10753-e1",
@@ -4002,28 +3276,6 @@
     "notas": "Substantivo próprio unificado sob 'Fanum'; referências clássicas confirmam identificação.",
     "raw_text": "{\"id\":\"chunk_10758:10758:0\",\"lemas\":[\"Fanum\",\"Fanum Fortunae\"],\"lema_canonico\":\"Fanum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Fanum (cidade de Úmbria; Fano), célebre pelo templo de Fortuna (também chamado Fanum Fortunae)\",\"aliases\":[\"Fanum Fortunae\"],\"exemplos\":[\"Tac. Hist. 3, 50\",\"Caes. B. C. 1, 11\",\"Plin. Nat. 3, 14, 19\"],\"notas\":\"Substantivo próprio unificado sob 'Fanum'; referências clássicas confirmam identificação.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_10758:10758:0\",\"lemas\":[\"Fanum\",\"Fanum Fortunae\"],\"lema_canonico\":\"Fanum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Fanum (cidade de Úmbria; Fano), célebre pelo templo de Fortuna (também chamado Fanum Fortunae)\",\"aliases\":[\"Fanum Fortunae\"],\"exemplos\":[\"Tac. Hist. 3, 50\",\"Caes. B. C. 1, 11\",\"Plin. Nat. 3, 14, 19\"],\"notas\":\"Substantivo próprio unificado sob 'Fanum'; referências clássicas confirmam identificação.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_10759-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_10759",
-    "page_num": 10759,
-    "lemmas": [
-      "fānum",
-      "fānum"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "lugar consagrado a uma divindade; santuário, templo",
-    "exemplos": [],
-    "notas": "Sentidos principais (santuário/templo) confirmados; removidos sentidos indevidos relacionados a far/farris. | [dedupe] redirect → chunk_10757:10757:0 | [dedupe] redirect → chunk_10757:10757:0",
-    "raw_text": "{\"id\":\"chunk_10759:10759:0\",\"lemas\":[\"fānum\"],\"lema_canonico\":\"fānum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"lugar consagrado a uma divindade; santuário, templo\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 1, 90\",\"Cic. Div. 2, 67\"],\"notas\":\"Sentidos principais (santuário/templo) confirmados; removidos sentidos indevidos relacionados a far/farris.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_10759:10759:0\",\"lemas\":[\"fānum\"],\"lema_canonico\":\"fānum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"lugar consagrado a uma divindade; santuário, templo\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 1, 90\",\"Cic. Div. 2, 67\"],\"notas\":\"Sentidos principais (santuário/templo) confirmados; removidos sentidos indevidos relacionados a far/farris.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_10760-e1",
@@ -4224,28 +3476,6 @@
     "raw_json": "{\"id\":\"chunk_10766:10766:1\",\"lemas\":[\"farcīre\",\"farciō\",\"farsī\"],\"lema_canonico\":\"farcīre\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"Rechear, encher, atestar; (perfeito indic. 1ª sg.) farsī = 'eu enchi/rei'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada OCR 'farsi, pert. de farciō' reinterpretada: 'farsi' atesta a forma perf. (farsī) do verbo farcīre; lema posto no infinitivo.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_10766-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_10766",
-    "page_num": 10766,
-    "lemmas": [
-      "fārī",
-      "fārī"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Deponens 'fārī': falar, dizer; também: anunciar, profetizar.",
-    "exemplos": [],
-    "notas": "Unificado para o infinitivo fārī; formas pessoais fāris/fātur mantidas como variantes atestadas. | [dedupe] redirect → chunk_10762:10762:1 | [dedupe] redirect → chunk_10762:10762:1",
-    "raw_text": "{\"id\":\"chunk_10766:10766:2\",\"lemas\":[\"fārī\",\"fāris\",\"fātur\"],\"lema_canonico\":\"fārī\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"Deponens 'fārī': falar, dizer; também: anunciar, profetizar.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Unificado para o infinitivo fārī; formas pessoais fāris/fātur mantidas como variantes atestadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_10766:10766:2\",\"lemas\":[\"fārī\",\"fāris\",\"fātur\"],\"lema_canonico\":\"fārī\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"Deponens 'fārī': falar, dizer; também: anunciar, profetizar.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Unificado para o infinitivo fārī; formas pessoais fāris/fātur mantidas como variantes atestadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_10766-e4",
     "volume_id": "faria",
     "doc_name": "chunk_10766",
@@ -4444,28 +3674,6 @@
     "raw_json": "{\"id\":\"chunk_10773:10773:0\",\"lemas\":[\"fascia\"],\"lema_canonico\":\"fascia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"band, strip, bandage, fillet, sash; headband or decorative band; also streak or band of cloud and architectural fillet.\",\"aliases\":[],\"exemplos\":[\"Cic. Brut. 60, 217\",\"Suet. Dom. 17\",\"Suet. Galb. 21\",\"Plin. Nat. 8, 57\"],\"notas\":\"Lema e acepções confirmados por Lewis & Short e Whitaker; entrada original indicava possível adjetival 'fascĭālle' (provável erro OCR).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_10774-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_10774",
-    "page_num": 10774,
-    "lemmas": [
-      "fascĭa",
-      "fascĭa"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "faixa, tira ou bandagem; também diadema, faixa de cabeça, e por extensão posição/condição social em contextos figurados.",
-    "exemplos": [],
-    "notas": "Normalizada a forma fascĭa (fascía) e sentidos conforme LS/Whitaker. | [dedupe] redirect → chunk_10773:10773:0 | [dedupe] redirect → chunk_10773:10773:0",
-    "raw_text": "{\"id\":\"chunk_10774:10774:0\",\"lemas\":[\"fascĭa\",\"fascia\"],\"lema_canonico\":\"fascĭa\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"faixa, tira ou bandagem; também diadema, faixa de cabeça, e por extensão posição/condição social em contextos figurados.\",\"aliases\":[],\"exemplos\":[\"Cic. Brut. 60, 217\",\"Suet. Dom. 17\",\"Quint. 11, 3, 144\"],\"notas\":\"Normalizada a forma fascĭa (fascía) e sentidos conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_10774:10774:0\",\"lemas\":[\"fascĭa\",\"fascia\"],\"lema_canonico\":\"fascĭa\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"faixa, tira ou bandagem; também diadema, faixa de cabeça, e por extensão posição/condição social em contextos figurados.\",\"aliases\":[],\"exemplos\":[\"Cic. Brut. 60, 217\",\"Suet. Dom. 17\",\"Quint. 11, 3, 144\"],\"notas\":\"Normalizada a forma fascĭa (fascía) e sentidos conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_10775-e1",
     "volume_id": "faria",
     "doc_name": "chunk_10775",
@@ -4576,28 +3784,6 @@
     "raw_json": "{\"id\":\"chunk_10779:10779:0\",\"lemas\":[\"fascĭnum\",\"fascinus\",\"Fascinus\"],\"lema_canonico\":\"fascinum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[\"also attested as masculine fascinus (s. masc. 2ª (-i))\"],\"definicao\":\"1) bewitching, witchcraft; a charm or spell (maleficium, fascinum as protective/ablative amulet). 2) (by transference) the male organ; also personified as the deity Fascinus.\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 26, 96\",\"Hor. Epod. 8, 18\",\"Plin. 28, 4, 7\"],\"notas\":\"Entrada reúne a forma neutra fascinum e a forma masculina/personificação Fascinus; aceitação suportada por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_10780-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_10780",
-    "page_num": 10780,
-    "lemmas": [
-      "fascia",
-      "fascia"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "fita, tira; ligadura, bandagem; faixa de cabeça (fillet, diadem); lista arquitetônica; faixa de nuvem",
-    "exemplos": [],
-    "notas": "Unificadas grafias em fascia / fascĭa; acepções alinhadas com Lewis & Short e Whitaker. | [dedupe] redirect → chunk_10773:10773:0 | [dedupe] redirect → chunk_10773:10773:0",
-    "raw_text": "{\"id\":\"chunk_10780:10780:0\",\"lemas\":[\"fascia\",\"fascĭa\"],\"lema_canonico\":\"fascia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"fita, tira; ligadura, bandagem; faixa de cabeça (fillet, diadem); lista arquitetônica; faixa de nuvem\",\"aliases\":[],\"exemplos\":[\"Cic. Har. 44\",\"Hor. Sat. 2, 3, 295\"],\"notas\":\"Unificadas grafias em fascia / fascĭa; acepções alinhadas com Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_10780:10780:0\",\"lemas\":[\"fascia\",\"fascĭa\"],\"lema_canonico\":\"fascia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"fita, tira; ligadura, bandagem; faixa de cabeça (fillet, diadem); lista arquitetônica; faixa de nuvem\",\"aliases\":[],\"exemplos\":[\"Cic. Har. 44\",\"Hor. Sat. 2, 3, 295\"],\"notas\":\"Unificadas grafias em fascia / fascĭa; acepções alinhadas com Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_10781-e1",
     "volume_id": "faria",
     "doc_name": "chunk_10781",
@@ -4664,28 +3850,6 @@
     "raw_json": "{\"id\":\"chunk_10783:10783:0\",\"lemas\":[\"faseolus\",\"phaseolus\",\"phaseolus\"],\"lema_canonico\":\"faseolus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"kidney‑bean, French bean (Phaseolus) — edible bean.\",\"aliases\":[\"phaseolus\"],\"exemplos\":[\"Plin. Nat. 24, 65\"],\"notas\":\"Normalizado de OCR 'fasĕōlŭs' para faseolus; variante phaseolus atestada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_10784-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_10784",
-    "page_num": 10784,
-    "lemmas": [
-      "fas",
-      "fas"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "o que é permitido pela religião; direito ou mandamento divino; aquilo que é moralmente lícito (oposto a jus/humanum).",
-    "exemplos": [],
-    "notas": "Removida leitura errônea como particípio de facior; entrada confirmada como indeclinável. | [dedupe] redirect → chunk_10772:10772:0 | [dedupe] redirect → chunk_10772:10772:0",
-    "raw_text": "{\"id\":\"chunk_10784:10784:0\",\"lemas\":[\"fas\"],\"lema_canonico\":\"fas\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"o que é permitido pela religião; direito ou mandamento divino; aquilo que é moralmente lícito (oposto a jus/humanum).\",\"aliases\":[],\"exemplos\":[\"Verg. G. 1, 269\"],\"notas\":\"Removida leitura errônea como particípio de facior; entrada confirmada como indeclinável.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_10784:10784:0\",\"lemas\":[\"fas\"],\"lema_canonico\":\"fas\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"o que é permitido pela religião; direito ou mandamento divino; aquilo que é moralmente lícito (oposto a jus/humanum).\",\"aliases\":[],\"exemplos\":[\"Verg. G. 1, 269\"],\"notas\":\"Removida leitura errônea como particípio de facior; entrada confirmada como indeclinável.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_10784-e2",
     "volume_id": "faria",
     "doc_name": "chunk_10784",
@@ -4728,28 +3892,6 @@
     "notas": "Entrada original fornecia forma perfeita; normalizado para lema infinitivo; perfeito preservado em definiçã o. | [ocr_fix 2025-08-17T19:48:23Z] similaridade semântica FAISS (definição/gloss) + reranking por forma | lemma_in='fastīdō' → 'fasti'",
     "raw_text": "{\"id\":\"chunk_10785:10785:1\",\"lemas\":[\"fastīdō\"],\"lema_canonico\":\"fastīdō\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"verbo: sentir aversão, desgostar, enjoar (perfectum: fastīdī; variantes perf. fastīdīvī/fastidīvī).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada original fornecia forma perfeita; normalizado para lema infinitivo; perfeito preservado em definiçã o.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_10785:10785:1\",\"lemas\":[\"fastīdō\"],\"lema_canonico\":\"fastīdō\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"verbo: sentir aversão, desgostar, enjoar (perfectum: fastīdī; variantes perf. fastīdīvī/fastidīvī).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada original fornecia forma perfeita; normalizado para lema infinitivo; perfeito preservado em definiçã o.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_10785-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_10785",
-    "page_num": 10785,
-    "lemmas": [
-      "fasti",
-      "fasti"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "fastos; registro/calendário romano indicando dias sagrados e dias judiciais; anais (fastos consulares).",
-    "exemplos": [],
-    "notas": "Corresponde a fasti, -ōrum; plural derivado de fastus em uso técnico. | [dedupe] redirect → chunk_10766:10766:3 | [dedupe] redirect → chunk_10766:10766:3",
-    "raw_text": "{\"id\":\"chunk_10785:10785:0\",\"lemas\":[\"fasti\"],\"lema_canonico\":\"fasti\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"fastos; registro/calendário romano indicando dias sagrados e dias judiciais; anais (fastos consulares).\",\"aliases\":[],\"exemplos\":[\"Cic. Pis. 30\"],\"notas\":\"Corresponde a fasti, -ōrum; plural derivado de fastus em uso técnico.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_10785:10785:0\",\"lemas\":[\"fasti\"],\"lema_canonico\":\"fasti\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"fastos; registro/calendário romano indicando dias sagrados e dias judiciais; anais (fastos consulares).\",\"aliases\":[],\"exemplos\":[\"Cic. Pis. 30\"],\"notas\":\"Corresponde a fasti, -ōrum; plural derivado de fastus em uso técnico.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_10786-e1",
@@ -4926,28 +4068,6 @@
     "notas": "Grafia e sentidos harmonizados com Lewis & Short e Whitaker; genitivo indicado pela declinação 2ª (-i).",
     "raw_text": "{\"id\":\"chunk_10794:10794:0\",\"lemas\":[\"fastigium\"],\"lema_canonico\":\"fastigium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"cumeeira; topo, cume; beiral/declive; gable, pediment; sentido figurado: ápice, ponto culminante\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 3, 46, 180\",\"Caes. B. G. 7, 85, 4\",\"Verg. G. 2, 288\",\"Curt. 4, 2, 19\",\"Quint. 12, 1, 20\",\"Verg. A. 1, 342\"],\"notas\":\"Grafia e sentidos harmonizados com Lewis & Short e Whitaker; genitivo indicado pela declinação 2ª (-i).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_10794:10794:0\",\"lemas\":[\"fastigium\"],\"lema_canonico\":\"fastigium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"cumeeira; topo, cume; beiral/declive; gable, pediment; sentido figurado: ápice, ponto culminante\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 3, 46, 180\",\"Caes. B. G. 7, 85, 4\",\"Verg. G. 2, 288\",\"Curt. 4, 2, 19\",\"Quint. 12, 1, 20\",\"Verg. A. 1, 342\"],\"notas\":\"Grafia e sentidos harmonizados com Lewis & Short e Whitaker; genitivo indicado pela declinação 2ª (-i).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_10795-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_10795",
-    "page_num": 10795,
-    "lemmas": [
-      "fastigium",
-      "fastigium"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "(substantivo) summit, top, peak; slope, declivity; gable, roof; sharp point; (verbal root fastig- as fastigo: to make pointed, raise to a point)",
-    "exemplos": [],
-    "notas": "Entrada principal tratada como substantivo (fastigium); verba relacionados (fastigo, fastigare) indicados em morph_extra. Unificado com Whitaker e LS. | [dedupe] redirect → chunk_10794:10794:0 | [dedupe] redirect → chunk_10794:10794:0",
-    "raw_text": "{\"id\":\"chunk_10795:10795:0\",\"lemas\":[\"fastigium\",\"fastīgium\",\"fastigiō\",\"fastigio\"],\"lema_canonico\":\"fastigium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[\"v. 1ª (-āre)\"],\"definicao\":\"(substantivo) summit, top, peak; slope, declivity; gable, roof; sharp point; (verbal root fastig- as fastigo: to make pointed, raise to a point)\",\"aliases\":[],\"exemplos\":[\"Cic. de Or. 3, 46, 180\",\"Verg. A. 2, 458\",\"Plin. Nat. 17, 14, 24\"],\"notas\":\"Entrada principal tratada como substantivo (fastigium); verba relacionados (fastigo, fastigare) indicados em morph_extra. Unificado com Whitaker e LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_10795:10795:0\",\"lemas\":[\"fastigium\",\"fastīgium\",\"fastigiō\",\"fastigio\"],\"lema_canonico\":\"fastigium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[\"v. 1ª (-āre)\"],\"definicao\":\"(substantivo) summit, top, peak; slope, declivity; gable, roof; sharp point; (verbal root fastig- as fastigo: to make pointed, raise to a point)\",\"aliases\":[],\"exemplos\":[\"Cic. de Or. 3, 46, 180\",\"Verg. A. 2, 458\",\"Plin. Nat. 17, 14, 24\"],\"notas\":\"Entrada principal tratada como substantivo (fastigium); verba relacionados (fastigo, fastigare) indicados em morph_extra. Unificado com Whitaker e LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}"
   },
   {
     "id": "chunk_10796-e1",

@@ -1,27 +1,5 @@
 [
   {
-    "id": "chunk_29800-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_29800",
-    "page_num": 29800,
-    "lemmas": [
-      "venter",
-      "venter"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Ventre; estômago; por extensão, útero; barriga; sede da gula.",
-    "exemplos": [],
-    "notas": "Normalizado para lemma canónico; genitivo (ventris) implícito. | [dedupe] redirect → chunk_29793:29793:0 | [dedupe] redirect → chunk_29793:29793:0",
-    "raw_text": "{\"id\":\"chunk_29800:29800:1\",\"lemas\":[\"venter\"],\"lema_canonico\":\"venter\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Ventre; estômago; por extensão, útero; barriga; sede da gula.\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 2, 58\"],\"notas\":\"Normalizado para lemma canónico; genitivo (ventris) implícito.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_29800:29800:1\",\"lemas\":[\"venter\"],\"lema_canonico\":\"venter\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Ventre; estômago; por extensão, útero; barriga; sede da gula.\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 2, 58\"],\"notas\":\"Normalizado para lemma canónico; genitivo (ventris) implícito.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_29800-e2",
     "volume_id": "faria",
     "doc_name": "chunk_29800",
@@ -86,28 +64,6 @@
     "notas": "Registro de forma flexionada (venturis) tratada como forma do particípio futuro; morfologia real (particípio futuro) não cabe no vocabulário permitido.",
     "raw_text": "{\"id\":\"chunk_29801:29801:0\",\"lemas\":[\"venturus\",\"ventūrus\"],\"lema_canonico\":\"venturus\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[\"part. fut. act.\"],\"definicao\":\"particípio futuro de venio: 'que há de vir, vindouro' (forma attested: venturis = dat./abl. pl.)\",\"aliases\":[],\"exemplos\":[\"Plaut. Curc. (cf. Plaut. Cure. 315)\"],\"notas\":\"Registro de forma flexionada (venturis) tratada como forma do particípio futuro; morfologia real (particípio futuro) não cabe no vocabulário permitido.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}",
     "raw_json": "{\"id\":\"chunk_29801:29801:0\",\"lemas\":[\"venturus\",\"ventūrus\"],\"lema_canonico\":\"venturus\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[\"part. fut. act.\"],\"definicao\":\"particípio futuro de venio: 'que há de vir, vindouro' (forma attested: venturis = dat./abl. pl.)\",\"aliases\":[],\"exemplos\":[\"Plaut. Curc. (cf. Plaut. Cure. 315)\"],\"notas\":\"Registro de forma flexionada (venturis) tratada como forma do particípio futuro; morfologia real (particípio futuro) não cabe no vocabulário permitido.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}"
-  },
-  {
-    "id": "chunk_29802-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_29802",
-    "page_num": 29802,
-    "lemmas": [
-      "venio",
-      "venio"
-    ],
-    "morfologia": "v. 4ª (-īre)",
-    "morph_render": "v. 4ª (-īre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "venītus: perfect participle / supine form from veniō ('having come', 'arrived'); ventūrus: future active participle of veniō ('about to come', 'going to come'); ventūra (n. pl.) = the future, what will come.",
-    "exemplos": [],
-    "notas": "Agrupadas duas formas relacionadas a veniō. Marcação como verbo 4ª; particípio perfeito passivo indicado em morph_extra; limitações no vocabulário morfológico exigem morph_out_of_vocab flag. | [dedupe] redirect → chunk_29787:29787:0 | [dedupe] redirect → chunk_29787:29787:0",
-    "raw_text": "{\"id\":\"chunk_29802:29802:0\",\"lemas\":[\"venitus\",\"venturus\"],\"lema_canonico\":\"venio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"venītus: perfect participle / supine form from veniō ('having come', 'arrived'); ventūrus: future active participle of veniō ('about to come', 'going to come'); ventūra (n. pl.) = the future, what will come.\",\"aliases\":[],\"exemplos\":[\"Verg. En. 6, 66\",\"Luc. 9, 51\"],\"notas\":\"Agrupadas duas formas relacionadas a veniō. Marcação como verbo 4ª; particípio perfeito passivo indicado em morph_extra; limitações no vocabulário morfológico exigem morph_out_of_vocab flag.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_29802:29802:0\",\"lemas\":[\"venitus\",\"venturus\"],\"lema_canonico\":\"venio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"venītus: perfect participle / supine form from veniō ('having come', 'arrived'); ventūrus: future active participle of veniō ('about to come', 'going to come'); ventūra (n. pl.) = the future, what will come.\",\"aliases\":[],\"exemplos\":[\"Verg. En. 6, 66\",\"Luc. 9, 51\"],\"notas\":\"Agrupadas duas formas relacionadas a veniō. Marcação como verbo 4ª; particípio perfeito passivo indicado em morph_extra; limitações no vocabulário morfológico exigem morph_out_of_vocab flag.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}"
   },
   {
     "id": "chunk_29803-e1",
@@ -638,28 +594,6 @@
     "raw_json": "{\"id\":\"chunk_29825:29825:0\",\"lemas\":[\"vērax\",\"vērāx\",\"verax\"],\"lema_canonico\":\"vērax\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[],\"definicao\":\"veraz, verdadeiro; que fala a verdade ou é conforme à verdade.\",\"aliases\":[],\"exemplos\":[\"Plaut. Capt. 5, 2, 6\",\"Cic. Div. 1, 19, 38\",\"Hor. S. 1, 4, 89\"],\"notas\":\"Inclui a forma adverbial vērācĭter (att.). Grafia com macron segundo LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_29826-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_29826",
-    "page_num": 29826,
-    "lemmas": [
-      "verbēna",
-      "verbēna"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "folhagem, ervame; ramos, folhas e galhos de árvores aromáticas usados em cultos e ritos sagrados (p.ex. louro, murta, oliveira); ramos sagrados levados em cerimônias",
-    "exemplos": [],
-    "notas": "Unificado segundo Lewis & Short e Whitaker; preservado uso frequente no plural. | [dedupe] redirect → chunk_3469:3469:0 | [dedupe] redirect → chunk_3469:3469:0",
-    "raw_text": "{\"id\":\"chunk_29826:29826:0\",\"lemas\":[\"verbēna\",\"verbena\",\"verbēnae\"],\"lema_canonico\":\"verbēna\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"folhagem, ervame; ramos, folhas e galhos de árvores aromáticas usados em cultos e ritos sagrados (p.ex. louro, murta, oliveira); ramos sagrados levados em cerimônias\",\"aliases\":[],\"exemplos\":[\"Verg. A. 12, 120 (Serv.)\",\"Liv. 1, 24, 6\",\"Plin. Nat. 15, 29, 36\",\"Cic. Verr. 2, 4, 50\"],\"notas\":\"Unificado segundo Lewis & Short e Whitaker; preservado uso frequente no plural.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_29826:29826:0\",\"lemas\":[\"verbēna\",\"verbena\",\"verbēnae\"],\"lema_canonico\":\"verbēna\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"folhagem, ervame; ramos, folhas e galhos de árvores aromáticas usados em cultos e ritos sagrados (p.ex. louro, murta, oliveira); ramos sagrados levados em cerimônias\",\"aliases\":[],\"exemplos\":[\"Verg. A. 12, 120 (Serv.)\",\"Liv. 1, 24, 6\",\"Plin. Nat. 15, 29, 36\",\"Cic. Verr. 2, 4, 50\"],\"notas\":\"Unificado segundo Lewis & Short e Whitaker; preservado uso frequente no plural.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_29827-e1",
     "volume_id": "faria",
     "doc_name": "chunk_29827",
@@ -880,28 +814,6 @@
     "raw_json": "{\"id\":\"chunk_29834:29834:0\",\"lemas\":[\"verbĕrō\",\"verbero\"],\"lema_canonico\":\"verbĕrō\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"substantivo masc.: 'aquele digno de açoites', velhaco, patife (lit. 'worthy of stripes').\",\"aliases\":[],\"exemplos\":[\"Plaut. Amph. 284\",\"Cic. Att. 14, 6, 1\"],\"notas\":\"Substantivo confirmado em Lewis & Short; padronizei acentuação breve macron/diacríticos.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_29834-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_29834",
-    "page_num": 29834,
-    "lemmas": [
-      "verberō",
-      "verberō"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "verberar: chicotear, vergastar; bater, ferir; fig.: censurar ou maltratar com palavras.",
-    "exemplos": [],
-    "notas": "Separada e confirmada a entrada verbal (formas e sentidos segundo Lewis & Short e Whitaker). | [dedupe] redirect → chunk_29832:29832:2 | [dedupe] redirect → chunk_29832:29832:2",
-    "raw_text": "{\"id\":\"chunk_29834:29834:1\",\"lemas\":[\"verberō\",\"verberāre\",\"verbero\"],\"lema_canonico\":\"verberō\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"verberar: chicotear, vergastar; bater, ferir; fig.: censurar ou maltratar com palavras.\",\"aliases\":[],\"exemplos\":[\"Plaut. Am. 1, 1, 177\",\"Plaut. Am. 2, 1, 60\",\"Cic. Verr. 2, 5, 54\",\"Cic. Rep. 2, 31, 54\",\"Cic. De Or. 3, 79\",\"Verg. A. 11, 756\"],\"notas\":\"Separada e confirmada a entrada verbal (formas e sentidos segundo Lewis & Short e Whitaker).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_29834:29834:1\",\"lemas\":[\"verberō\",\"verberāre\",\"verbero\"],\"lema_canonico\":\"verberō\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"verberar: chicotear, vergastar; bater, ferir; fig.: censurar ou maltratar com palavras.\",\"aliases\":[],\"exemplos\":[\"Plaut. Am. 1, 1, 177\",\"Plaut. Am. 2, 1, 60\",\"Cic. Verr. 2, 5, 54\",\"Cic. Rep. 2, 31, 54\",\"Cic. De Or. 3, 79\",\"Verg. A. 11, 756\"],\"notas\":\"Separada e confirmada a entrada verbal (formas e sentidos segundo Lewis & Short e Whitaker).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_29835-e1",
     "volume_id": "faria",
     "doc_name": "chunk_29835",
@@ -1010,28 +922,6 @@
     "notas": "Inclui tanto o adjetivo (verbōsus) quanto o substantivo (verbōsitās); morfologia principal escolhida para o adj.; see LS/Whitaker.",
     "raw_text": "{\"id\":\"chunk_29837:29837:2\",\"lemas\":[\"verbōsus\",\"verbōsĭtas\"],\"lema_canonico\":\"verbōsus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Adj.: cheio de palavras, prolixo, verboso. Subst. (verbōsitās): multiplicidade de palavras, verbosidade, prolixidade.\",\"aliases\":[],\"exemplos\":[\"Cic. Mur. 12, 26\",\"Cic. Mur. 14, 30\",\"Cic. Fam. 7, 3, 5–6\",\"Quint. 2, 4, 31\",\"Quint. 4, 2, 79\",\"Prud. στεφ. 10, 551\",\"Symm. Ep. 8, 47\"],\"notas\":\"Inclui tanto o adjetivo (verbōsus) quanto o substantivo (verbōsitās); morfologia principal escolhida para o adj.; see LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}",
     "raw_json": "{\"id\":\"chunk_29837:29837:2\",\"lemas\":[\"verbōsus\",\"verbōsĭtas\"],\"lema_canonico\":\"verbōsus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Adj.: cheio de palavras, prolixo, verboso. Subst. (verbōsitās): multiplicidade de palavras, verbosidade, prolixidade.\",\"aliases\":[],\"exemplos\":[\"Cic. Mur. 12, 26\",\"Cic. Mur. 14, 30\",\"Cic. Fam. 7, 3, 5–6\",\"Quint. 2, 4, 31\",\"Quint. 4, 2, 79\",\"Prud. στεφ. 10, 551\",\"Symm. Ep. 8, 47\"],\"notas\":\"Inclui tanto o adjetivo (verbōsus) quanto o substantivo (verbōsitās); morfologia principal escolhida para o adj.; see LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}"
-  },
-  {
-    "id": "chunk_29838-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_29838",
-    "page_num": 29838,
-    "lemmas": [
-      "verbosus",
-      "verbosus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "full of words; wordy, prolix, verbose; adv. verbōsē = verbosely",
-    "exemplos": [],
-    "notas": "Normalizado a partir de Lewis & Short e Whitaker; incluído advérbio verbōsē. | [dedupe] redirect → chunk_29837:29837:2 | [dedupe] redirect → chunk_29837:29837:2",
-    "raw_text": "{\"id\":\"chunk_29838:29838:0\",\"lemas\":[\"verbosus\",\"verbōsus\",\"verbosa\",\"verbosum\"],\"lema_canonico\":\"verbosus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"full of words; wordy, prolix, verbose; adv. verbōsē = verbosely\",\"aliases\":[],\"exemplos\":[\"Cic. Mur. 26\",\"Quint. 2, 4, 31\"],\"notas\":\"Normalizado a partir de Lewis & Short e Whitaker; incluído advérbio verbōsē.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_29838:29838:0\",\"lemas\":[\"verbosus\",\"verbōsus\",\"verbosa\",\"verbosum\"],\"lema_canonico\":\"verbosus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"full of words; wordy, prolix, verbose; adv. verbōsē = verbosely\",\"aliases\":[],\"exemplos\":[\"Cic. Mur. 26\",\"Quint. 2, 4, 31\"],\"notas\":\"Normalizado a partir de Lewis & Short e Whitaker; incluído advérbio verbōsē.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_29839-e1",
@@ -1474,28 +1364,6 @@
     "raw_json": "{\"id\":\"chunk_29857:29857:0\",\"lemas\":[\"Vergilium\"],\"lema_canonico\":\"Vergilium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Topónimo: Vergílio, suposta cidadela da Hispânia Tarraconense (cit. T. Liv. 34, 21).\",\"aliases\":[],\"exemplos\":[\"T. Liv. 34, 21\"],\"notas\":\"Entrada conservada conforme primeira passada/OCR; forma e interpretação não confirmadas em dicionários principais.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_29858-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_29858",
-    "page_num": 29858,
-    "lemmas": [
-      "vergo",
-      "vergō"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "inclinar-se, pender; inclinar, dirigir; fig.: declinar, verge; também: verter, derramar (uso raro/poético).",
-    "exemplos": [],
-    "notas": "Harmonizado com Lewis & Short e Whitaker; infinitivo em -ere (3ª conj.). | [dedupe] redirect → chunk_10020:10020:1 | [dedupe] redirect → chunk_10020:10020:1 | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='vergō' → 'vergo'",
-    "raw_text": "{\"id\":\"chunk_29858:29858:0\",\"lemas\":[\"vergo\",\"vergō\"],\"lema_canonico\":\"vergō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"intr.\",\"tr.\"],\"definicao\":\"inclinar-se, pender; inclinar, dirigir; fig.: declinar, verge; também: verter, derramar (uso raro/poético).\",\"aliases\":[],\"exemplos\":[\"Lucr. 2, 212\",\"Lucr. 5, 1010\",\"Cic. Q. Fr. 3, 1, 14\",\"Tac. Ann. 2, 43\"],\"notas\":\"Harmonizado com Lewis & Short e Whitaker; infinitivo em -ere (3ª conj.).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_29858:29858:0\",\"lemas\":[\"vergo\",\"vergō\"],\"lema_canonico\":\"vergō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"intr.\",\"tr.\"],\"definicao\":\"inclinar-se, pender; inclinar, dirigir; fig.: declinar, verge; também: verter, derramar (uso raro/poético).\",\"aliases\":[],\"exemplos\":[\"Lucr. 2, 212\",\"Lucr. 5, 1010\",\"Cic. Q. Fr. 3, 1, 14\",\"Tac. Ann. 2, 43\"],\"notas\":\"Harmonizado com Lewis & Short e Whitaker; infinitivo em -ere (3ª conj.).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_29859-e1",
     "volume_id": "faria",
     "doc_name": "chunk_29859",
@@ -1562,28 +1430,6 @@
     "raw_json": "{\"id\":\"chunk_29861:29861:0\",\"lemas\":[\"veriloquium\"],\"lema_canonico\":\"veriloquium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"etimologia; (sentido técnico em Cicerão: ‘notatio’, exposição da origem das palavras).\",\"aliases\":[],\"exemplos\":[\"Cic. Top. 8, 35\"],\"notas\":\"Confirmado por Lewis & Short e Whitaker; grafia normalizada a partir do OCR.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_29862-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_29862",
-    "page_num": 29862,
-    "lemmas": [
-      "ver",
-      "ver"
-    ],
-    "morfologia": "s. neut. 3ª (-is)",
-    "morph_render": "s. neut. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "(entrada específica) genitivo singular veris: forma genitiva de vēr, 'primavera; spring'.",
-    "exemplos": [],
-    "notas": "Registro do caso genitivo; forma e análise apoiadas por dicionários latinos. | [dedupe] redirect → chunk_29819:29819:0 | [dedupe] redirect → chunk_29819:29819:0",
-    "raw_text": "{\"id\":\"chunk_29862:29862:0\",\"lemas\":[\"ver\"],\"lema_canonico\":\"ver\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"(entrada específica) genitivo singular veris: forma genitiva de vēr, 'primavera; spring'.\",\"aliases\":[\"veris\"],\"exemplos\":[],\"notas\":\"Registro do caso genitivo; forma e análise apoiadas por dicionários latinos.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_29862:29862:0\",\"lemas\":[\"ver\"],\"lema_canonico\":\"ver\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"(entrada específica) genitivo singular veris: forma genitiva de vēr, 'primavera; spring'.\",\"aliases\":[\"veris\"],\"exemplos\":[],\"notas\":\"Registro do caso genitivo; forma e análise apoiadas por dicionários latinos.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_29863-e1",
     "volume_id": "faria",
     "doc_name": "chunk_29863",
@@ -1604,28 +1450,6 @@
     "notas": "Corrigida grafia a partir do OCR; tratado como adjetivo de duas terminações (verisimilis, verisimile).",
     "raw_text": "{\"id\":\"chunk_29863:29863:0\",\"lemas\":[\"verisimilis\"],\"lema_canonico\":\"verisimilis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"verossímil; provável, plausível.\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 1, 66\"],\"notas\":\"Corrigida grafia a partir do OCR; tratado como adjetivo de duas terminações (verisimilis, verisimile).\",\"flags\":[\"src_whitaker\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_29863:29863:0\",\"lemas\":[\"verisimilis\"],\"lema_canonico\":\"verisimilis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"verossímil; provável, plausível.\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 1, 66\"],\"notas\":\"Corrigida grafia a partir do OCR; tratado como adjetivo de duas terminações (verisimilis, verisimile).\",\"flags\":[\"src_whitaker\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_29864-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_29864",
-    "page_num": 29864,
-    "lemmas": [
-      "sĭmĭlĭtūdo",
-      "sĭmĭlĭtūdo"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "semelhança; semelhança, similaridade; verossimilhança.",
-    "exemplos": [],
-    "notas": "Removida combinação errônea com vēr; normalizada para o lema simples 'similitudo'. | [dedupe] redirect → chunk_26066:26066:0 | [dedupe] redirect → chunk_26066:26066:0 | [ocr_fix 2025-08-17T19:52:57Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='similitudo' → 'sĭmĭlĭtūdo'",
-    "raw_text": "{\"id\":\"chunk_29864:29864:0\",\"lemas\":[\"similitudo\"],\"lema_canonico\":\"similitudo\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"semelhança; semelhança, similaridade; verossimilhança.\",\"aliases\":[],\"exemplos\":[\"Cic. Ac. 2, 107\"],\"notas\":\"Removida combinação errônea com vēr; normalizada para o lema simples 'similitudo'.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_29864:29864:0\",\"lemas\":[\"similitudo\"],\"lema_canonico\":\"similitudo\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"semelhança; semelhança, similaridade; verossimilhança.\",\"aliases\":[],\"exemplos\":[\"Cic. Ac. 2, 107\"],\"notas\":\"Removida combinação errônea com vēr; normalizada para o lema simples 'similitudo'.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}"
   },
   {
     "id": "chunk_29865-e1",
@@ -1670,28 +1494,6 @@
     "notas": "Particípio de vereor registrado por Lewis & Short e Whitaker; marcado como part. perf. pass.",
     "raw_text": "{\"id\":\"chunk_29866:29866:0\",\"lemas\":[\"veritus\"],\"lema_canonico\":\"veritus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito (deponente) de vereor, verērī: 'tendo respeitado/temido', usado também como adjetivo 'reverente, respeitado, temeroso'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Particípio de vereor registrado por Lewis & Short e Whitaker; marcado como part. perf. pass.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_29866:29866:0\",\"lemas\":[\"veritus\"],\"lema_canonico\":\"veritus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito (deponente) de vereor, verērī: 'tendo respeitado/temido', usado também como adjetivo 'reverente, respeitado, temeroso'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Particípio de vereor registrado por Lewis & Short e Whitaker; marcado como part. perf. pass.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_29867-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_29867",
-    "page_num": 29867,
-    "lemmas": [
-      "veritus",
-      "veritus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "adjectival/supine form from vereor; used adverbially/qualifyingly 'out of fear, from fear' (e.g. Plautus).",
-    "exemplos": [],
-    "notas": "Veritum/ veritus tratadas como formas relacionadas do particípio/supino de vereor; normalizada morfologia como adjetivo (1/2). | [dedupe] redirect → chunk_29866:29866:0 | [dedupe] redirect → chunk_29866:29866:0",
-    "raw_text": "{\"id\":\"chunk_29867:29867:0\",\"lemas\":[\"veritum\",\"veritus\"],\"lema_canonico\":\"veritus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"adjectival/supine form from vereor; used adverbially/qualifyingly 'out of fear, from fear' (e.g. Plautus).\",\"aliases\":[],\"exemplos\":[\"Plaut. Capt. 568\"],\"notas\":\"Veritum/ veritus tratadas como formas relacionadas do particípio/supino de vereor; normalizada morfologia como adjetivo (1/2).\",\"flags\":[\"src_latdeu\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_29867:29867:0\",\"lemas\":[\"veritum\",\"veritus\"],\"lema_canonico\":\"veritus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"adjectival/supine form from vereor; used adverbially/qualifyingly 'out of fear, from fear' (e.g. Plautus).\",\"aliases\":[],\"exemplos\":[\"Plaut. Capt. 568\"],\"notas\":\"Veritum/ veritus tratadas como formas relacionadas do particípio/supino de vereor; normalizada morfologia como adjetivo (1/2).\",\"flags\":[\"src_latdeu\",\"src_ls\",\"conf:high\"]}"
   },
   {
     "id": "chunk_29868-e1",
@@ -1802,28 +1604,6 @@
     "notas": "Corrigida leitura que atribuía erradamente valores verbais a 'vermis' (confusão tipográfica); alinhado com Lewis & Short.",
     "raw_text": "{\"id\":\"chunk_29872:29872:0\",\"lemas\":[\"vermis\"],\"lema_canonico\":\"vermis\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"verme; larva — atestado em Lucrécio, Plínio e outros.\",\"aliases\":[],\"exemplos\":[\"Lucr. 2, 871\",\"Lucr. 2, 928\",\"Lucr. 3, 719\",\"Lucr. 3, 723\",\"Plin. Nat. 18, 17, §159\",\"Plin. Nat. 24, 5, §11\",\"Plin. Nat. 30, 13, §114\",\"Col. 6, 30\"],\"notas\":\"Corrigida leitura que atribuía erradamente valores verbais a 'vermis' (confusão tipográfica); alinhado com Lewis & Short.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_29872:29872:0\",\"lemas\":[\"vermis\"],\"lema_canonico\":\"vermis\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"verme; larva — atestado em Lucrécio, Plínio e outros.\",\"aliases\":[],\"exemplos\":[\"Lucr. 2, 871\",\"Lucr. 2, 928\",\"Lucr. 3, 719\",\"Lucr. 3, 723\",\"Plin. Nat. 18, 17, §159\",\"Plin. Nat. 24, 5, §11\",\"Plin. Nat. 30, 13, §114\",\"Col. 6, 30\"],\"notas\":\"Corrigida leitura que atribuía erradamente valores verbais a 'vermis' (confusão tipográfica); alinhado com Lewis & Short.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_29872-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_29872",
-    "page_num": 29872,
-    "lemmas": [
-      "verro",
-      "verro"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "varrer, limpar por varrimento; também: arrastar, deslizar; perf. versi, sup. versum.",
-    "exemplos": [],
-    "notas": "Interpretado como o verbo clássico verro (perf. versi, sup. versum); preservada menção a leitura incerta 'vermō' como variante/possível corruptela. | [dedupe] redirect → chunk_10023:10023:0 | [dedupe] redirect → chunk_10023:10023:0 | [ocr_fix 2025-08-17T20:01:05Z] match direto em LS por lemma/lemma_norm | lemma_in='verro' → 'verro'",
-    "raw_text": "{\"id\":\"chunk_29872:29872:1\",\"lemas\":[\"verro\",\"vermō\"],\"lema_canonico\":\"verro\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"varrer, limpar por varrimento; também: arrastar, deslizar; perf. versi, sup. versum.\",\"aliases\":[],\"exemplos\":[\"Hor. C. 1, 1, 10 (cf. LS)\"],\"notas\":\"Interpretado como o verbo clássico verro (perf. versi, sup. versum); preservada menção a leitura incerta 'vermō' como variante/possível corruptela.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_29872:29872:1\",\"lemas\":[\"verro\",\"vermō\"],\"lema_canonico\":\"verro\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"varrer, limpar por varrimento; também: arrastar, deslizar; perf. versi, sup. versum.\",\"aliases\":[],\"exemplos\":[\"Hor. C. 1, 1, 10 (cf. LS)\"],\"notas\":\"Interpretado como o verbo clássico verro (perf. versi, sup. versum); preservada menção a leitura incerta 'vermō' como variante/possível corruptela.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:med\"]}"
   },
   {
     "id": "chunk_29873-e1",
@@ -2046,28 +1826,6 @@
     "raw_json": "{\"id\":\"chunk_29881:29881:0\",\"lemas\":[\"vernula\",\"vernŭla\"],\"lema_canonico\":\"vernula\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"substantivo: escravo jovem nascido em casa, escravo doméstico (post-Aug.); adjetivo (transferido): nativo, doméstico, próprio da casa.\",\"aliases\":[],\"exemplos\":[\"Juv. 10, 117\",\"Sen. Prov. 1, 6\",\"Plin. 22, 17, 20, §44\",\"Petr. 24\"],\"notas\":\"Unifiquei em feminino 1ª declinação; admiti uso adjetival atestado em autores.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_29882-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_29882",
-    "page_num": 29882,
-    "lemmas": [
-      "vernus",
-      "vernus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "relativo à primavera; primaveril. Substantivo relacionado vernum, -i, n.: primavera, tempo da primavera.",
-    "exemplos": [],
-    "notas": "Adjetivo e o substantivo vernum confirmados por LS e Whitaker; entrada unificada sob vernus como lema canônico. | [dedupe] redirect → chunk_29880:29880:0 | [dedupe] redirect → chunk_29880:29880:0",
-    "raw_text": "{\"id\":\"chunk_29882:29882:0\",\"lemas\":[\"vernus\",\"verna\",\"vernum\"],\"lema_canonico\":\"vernus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo à primavera; primaveril. Substantivo relacionado vernum, -i, n.: primavera, tempo da primavera.\",\"aliases\":[],\"exemplos\":[\"Cic. C. M. 70\"],\"notas\":\"Adjetivo e o substantivo vernum confirmados por LS e Whitaker; entrada unificada sob vernus como lema canônico.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_29882:29882:0\",\"lemas\":[\"vernus\",\"verna\",\"vernum\"],\"lema_canonico\":\"vernus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo à primavera; primaveril. Substantivo relacionado vernum, -i, n.: primavera, tempo da primavera.\",\"aliases\":[],\"exemplos\":[\"Cic. C. M. 70\"],\"notas\":\"Adjetivo e o substantivo vernum confirmados por LS e Whitaker; entrada unificada sob vernus como lema canônico.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_29883-e1",
     "volume_id": "faria",
     "doc_name": "chunk_29883",
@@ -2088,28 +1846,6 @@
     "notas": "Consolidado como advérbio (vērō) a partir de OCR e léxicos.",
     "raw_text": "{\"id\":\"chunk_29883:29883:0\",\"lemas\":[\"vērō\"],\"lema_canonico\":\"vērō\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"De fato; em verdade; certamente; também usado como resposta afirmativa 'sim'.\",\"aliases\":[],\"exemplos\":[\"Cic. Ot. 3, 13\"],\"notas\":\"Consolidado como advérbio (vērō) a partir de OCR e léxicos.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_29883:29883:0\",\"lemas\":[\"vērō\"],\"lema_canonico\":\"vērō\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"De fato; em verdade; certamente; também usado como resposta afirmativa 'sim'.\",\"aliases\":[],\"exemplos\":[\"Cic. Ot. 3, 13\"],\"notas\":\"Consolidado como advérbio (vērō) a partir de OCR e léxicos.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_29884-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_29884",
-    "page_num": 29884,
-    "lemmas": [
-      "vero",
-      "vero"
-    ],
-    "morfologia": "conj.",
-    "morph_render": "conj.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "partícula concessiva/confirmativa: mas, porém; em verdade, quanto a",
-    "exemplos": [],
-    "notas": "Entrada unificada como a conjunção/partícula vērō (var. graf. vero). | [dedupe] redirect → chunk_29883:29883:0 | [dedupe] redirect → chunk_29883:29883:0",
-    "raw_text": "{\"id\":\"chunk_29884:29884:0\",\"lemas\":[\"vero\"],\"lema_canonico\":\"vero\",\"morfologia\":\"conj.\",\"morph_extra\":[],\"definicao\":\"partícula concessiva/confirmativa: mas, porém; em verdade, quanto a\",\"aliases\":[],\"exemplos\":[\"Cés. B. Gal. 1, 12, 2\",\"Cic. Sess. 143, 3\",\"Cic. Arch. 49\"],\"notas\":\"Entrada unificada como a conjunção/partícula vērō (var. graf. vero).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_29884:29884:0\",\"lemas\":[\"vero\"],\"lema_canonico\":\"vero\",\"morfologia\":\"conj.\",\"morph_extra\":[],\"definicao\":\"partícula concessiva/confirmativa: mas, porém; em verdade, quanto a\",\"aliases\":[],\"exemplos\":[\"Cés. B. Gal. 1, 12, 2\",\"Cic. Sess. 143, 3\",\"Cic. Arch. 49\"],\"notas\":\"Entrada unificada como a conjunção/partícula vērō (var. graf. vero).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_29885-e1",
@@ -2376,28 +2112,6 @@
     "raw_json": "{\"id\":\"chunk_29896:29896:0\",\"lemas\":[\"Verrius\",\"Verria\",\"Verrium\"],\"lema_canonico\":\"Verrius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Gentilício/adjetivo relativo a Verres; também aparece como nome de família romana.\",\"aliases\":[],\"exemplos\":[\"Suet. Gram. 17\"],\"notas\":\"Lema e definição alinhados a Lewis & Short (Verrĭus, a, um). Mantida referência de first_pass.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_29897-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_29897",
-    "page_num": 29897,
-    "lemmas": [
-      "verro",
-      "verro"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "varrer; levar varrendo, arrastar; figuradamente: arrebatar, levar consigo.",
-    "exemplos": [],
-    "notas": "Formas conforme Lewis & Short (verro, verrere, verri, versus). | [dedupe] redirect → chunk_10023:10023:0 | [dedupe] redirect → chunk_10023:10023:0",
-    "raw_text": "{\"id\":\"chunk_29897:29897:0\",\"lemas\":[\"verro\",\"verrere\"],\"lema_canonico\":\"verro\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"varrer; levar varrendo, arrastar; figuradamente: arrebatar, levar consigo.\",\"aliases\":[],\"exemplos\":[\"Plaut. Merc. 2, 3, 63\",\"Verg. Aen. 8, 641\"],\"notas\":\"Formas conforme Lewis & Short (verro, verrere, verri, versus).\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_29897:29897:0\",\"lemas\":[\"verro\",\"verrere\"],\"lema_canonico\":\"verro\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"varrer; levar varrendo, arrastar; figuradamente: arrebatar, levar consigo.\",\"aliases\":[],\"exemplos\":[\"Plaut. Merc. 2, 3, 63\",\"Verg. Aen. 8, 641\"],\"notas\":\"Formas conforme Lewis & Short (verro, verrere, verri, versus).\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_29898-e1",
     "volume_id": "faria",
     "doc_name": "chunk_29898",
@@ -2442,28 +2156,6 @@
     "raw_json": "{\"id\":\"chunk_29899:29899:0\",\"lemas\":[\"verrucosus\",\"verrucosa\",\"verrucosum\"],\"lema_canonico\":\"verrucosus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"cheio de verrugas; figuradamente áspero, rugoso, grosseiro\",\"aliases\":[],\"exemplos\":[\"Pers. 1, 77\",\"Cic. Brut. 14, 57\",\"Aur. Vict. Vir. Illustr. 43\"],\"notas\":\"Normalizada a grafia para formas canônicas sem diacríticos; sentidos confirmados por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_29900-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_29900",
-    "page_num": 29900,
-    "lemmas": [
-      "verrūcōsus",
-      "verrūcōsus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "cheio de verrugas; áspero, rugoso; também cognomen (ex.: Q. Fabius Maximus Cunctator).",
-    "exemplos": [],
-    "notas": "[dedupe] redirect → chunk_29899:29899:0 | [dedupe] redirect → chunk_29899:29899:0",
-    "raw_text": "{\"id\":\"chunk_29900:29900:0\",\"lemas\":[\"verrūcōsus\",\"verrucosa\",\"verrucosum\"],\"lema_canonico\":\"verrūcōsus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"cheio de verrugas; áspero, rugoso; também cognomen (ex.: Q. Fabius Maximus Cunctator).\",\"aliases\":[],\"exemplos\":[\"Cic. Brut. 14, 57\",\"Pers. 1, 77\"],\"notas\":\"\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_29900:29900:0\",\"lemas\":[\"verrūcōsus\",\"verrucosa\",\"verrucosum\"],\"lema_canonico\":\"verrūcōsus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"cheio de verrugas; áspero, rugoso; também cognomen (ex.: Q. Fabius Maximus Cunctator).\",\"aliases\":[],\"exemplos\":[\"Cic. Brut. 14, 57\",\"Pers. 1, 77\"],\"notas\":\"\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_29901-e1",
     "volume_id": "faria",
     "doc_name": "chunk_29901",
@@ -2506,50 +2198,6 @@
     "notas": "Forma não atestada em Lewis & Short/Whitaker; preservada da primeira passada para revisão.",
     "raw_text": "{\"id\":\"chunk_29902:29902:0\",\"lemas\":[\"vernico\"],\"lema_canonico\":\"vernico\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"(incerto) leitura da fonte OCR indicando verbo 'vernico' = 'voltar, virar' — não confirmada em principais léxicos; manter sob revisão.\",\"aliases\":[],\"exemplos\":[\"T. Liv. 29, 27\"],\"notas\":\"Forma não atestada em Lewis & Short/Whitaker; preservada da primeira passada para revisão.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_29902:29902:0\",\"lemas\":[\"vernico\"],\"lema_canonico\":\"vernico\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"(incerto) leitura da fonte OCR indicando verbo 'vernico' = 'voltar, virar' — não confirmada em principais léxicos; manter sob revisão.\",\"aliases\":[],\"exemplos\":[\"T. Liv. 29, 27\"],\"notas\":\"Forma não atestada em Lewis & Short/Whitaker; preservada da primeira passada para revisão.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_29902-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_29902",
-    "page_num": 29902,
-    "lemmas": [
-      "vernus",
-      "vernus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Relativo à primavera (vernus, verna, vernum). Nota: verna como substantivo designa escravo nascido na casa do senhor (house-slave).",
-    "exemplos": [],
-    "notas": "Combina adjetivo 'vernus' e o substantivo 'verna' conforme Whitaker e Lewis & Short. | [dedupe] redirect → chunk_29880:29880:0 | [dedupe] redirect → chunk_29880:29880:0",
-    "raw_text": "{\"id\":\"chunk_29902:29902:1\",\"lemas\":[\"vernus\",\"verna\",\"vernum\",\"vernicus\",\"vernica\"],\"lema_canonico\":\"vernus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo à primavera (vernus, verna, vernum). Nota: verna como substantivo designa escravo nascido na casa do senhor (house-slave).\",\"aliases\":[\"verna\"],\"exemplos\":[],\"notas\":\"Combina adjetivo 'vernus' e o substantivo 'verna' conforme Whitaker e Lewis & Short.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_29902:29902:1\",\"lemas\":[\"vernus\",\"verna\",\"vernum\",\"vernicus\",\"vernica\"],\"lema_canonico\":\"vernus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo à primavera (vernus, verna, vernum). Nota: verna como substantivo designa escravo nascido na casa do senhor (house-slave).\",\"aliases\":[\"verna\"],\"exemplos\":[],\"notas\":\"Combina adjetivo 'vernus' e o substantivo 'verna' conforme Whitaker e Lewis & Short.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_29902-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_29902",
-    "page_num": 29902,
-    "lemmas": [
-      "-ic",
-      "-ic"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:low",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Sufixo formador (grafia incerta para latim; provável confusão com '-icus').",
-    "exemplos": [],
-    "notas": "Sufixo tratado com cautela; forma '-ic' não é forma latina padrão ('-icus' é atestada). | [dedupe] redirect → chunk_17246:17246:0 | [dedupe] redirect → chunk_17246:17246:0",
-    "raw_text": "{\"id\":\"chunk_29902:29902:2\",\"lemas\":[\"-ic\",\"ic\"],\"lema_canonico\":\"-ic\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Sufixo formador (grafia incerta para latim; provável confusão com '-icus').\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Sufixo tratado com cautela; forma '-ic' não é forma latina padrão ('-icus' é atestada).\",\"flags\":[\"src_firstpass\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_29902:29902:2\",\"lemas\":[\"-ic\",\"ic\"],\"lema_canonico\":\"-ic\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Sufixo formador (grafia incerta para latim; provável confusão com '-icus').\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Sufixo tratado com cautela; forma '-ic' não é forma latina padrão ('-icus' é atestada).\",\"flags\":[\"src_firstpass\",\"conf:low\",\"needs_review\"]}"
   },
   {
     "id": "chunk_29903-e1",
@@ -2638,28 +2286,6 @@
     "notas": "Registro como deponente (versor, -ārī) com morfologia marcada em morph_extra.",
     "raw_text": "{\"id\":\"chunk_29904:29904:2\",\"lemas\":[\"versor\",\"versari\",\"versatus\"],\"lema_canonico\":\"versari\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"Mover-se, voltar-se; estar, ocupar-se; fig., viver, frequentar (verbo deponente).\",\"aliases\":[],\"exemplos\":[\"Plaut. Poen. 1, 2, 53\",\"Cic. Tusc. 1, 5, 10\"],\"notas\":\"Registro como deponente (versor, -ārī) com morfologia marcada em morph_extra.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_29904:29904:2\",\"lemas\":[\"versor\",\"versari\",\"versatus\"],\"lema_canonico\":\"versari\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"Mover-se, voltar-se; estar, ocupar-se; fig., viver, frequentar (verbo deponente).\",\"aliases\":[],\"exemplos\":[\"Plaut. Poen. 1, 2, 53\",\"Cic. Tusc. 1, 5, 10\"],\"notas\":\"Registro como deponente (versor, -ārī) com morfologia marcada em morph_extra.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_29904-e4",
-    "volume_id": "faria",
-    "doc_name": "chunk_29904",
-    "page_num": 29904,
-    "lemmas": [
-      "versus",
-      "versus"
-    ],
-    "morfologia": "s. masc. 4ª (-us)",
-    "morph_render": "s. masc. 4ª (-us)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Sulco; linha, fila, fileira; verso de poema, linha de escrita.",
-    "exemplos": [],
-    "notas": "Substantivo do 4.º decl. com acepções arcaica e poética confirmadas por LS. | [dedupe] redirect → chunk_29920:29920:0 | [dedupe] redirect → chunk_29920:29920:0",
-    "raw_text": "{\"id\":\"chunk_29904:29904:3\",\"lemas\":[\"versus\"],\"lema_canonico\":\"versus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"Sulco; linha, fila, fileira; verso de poema, linha de escrita.\",\"aliases\":[],\"exemplos\":[\"Verg. G. 4, 144\",\"Cic. Rab. Post. 6, 14\"],\"notas\":\"Substantivo do 4.º decl. com acepções arcaica e poética confirmadas por LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_29904:29904:3\",\"lemas\":[\"versus\"],\"lema_canonico\":\"versus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"Sulco; linha, fila, fileira; verso de poema, linha de escrita.\",\"aliases\":[],\"exemplos\":[\"Verg. G. 4, 144\",\"Cic. Rab. Post. 6, 14\"],\"notas\":\"Substantivo do 4.º decl. com acepções arcaica e poética confirmadas por LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_29905-e1",
@@ -3322,28 +2948,6 @@
     "raw_json": "{\"id\":\"chunk_29932:29932:0\",\"lemas\":[\"Vertumnalia\"],\"lema_canonico\":\"Vertumnalia\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Festas em honra de Vertumno (vertumnália), nome de festividade, normalmente usado no plural.\",\"aliases\":[],\"exemplos\":[\"Varr. L. Lat. 6, 21\"],\"notas\":\"Entrada baseada na passada; forma plural neutra mantida. Sem confirmação direta nos dicionários fornecidos.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}"
   },
   {
-    "id": "chunk_29933-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_29933",
-    "page_num": 29933,
-    "lemmas": [
-      "Vertumnus",
-      "Vertumnus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Deus romano das estações e da mudança; associado a horti e ao comércio; patrono das transformações sazonais.",
-    "exemplos": [],
-    "notas": "Corrigida referência OCR (Ov.); adicionado festival Vertumnalia como entrada relacionada. | [dedupe] redirect → chunk_29934:29934:0 | [dedupe] redirect → chunk_29934:29934:0 | [ocr_fix 2025-08-17T20:01:05Z] match direto em LS por lemma/lemma_norm | lemma_in='Vertumnus' → 'Vertumnus'",
-    "raw_text": "{\"id\":\"chunk_29933:29933:0\",\"lemas\":[\"Vertumnus\",\"Vertumnalia\"],\"lema_canonico\":\"Vertumnus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Deus romano das estações e da mudança; associado a horti e ao comércio; patrono das transformações sazonais.\",\"aliases\":[],\"exemplos\":[\"Ov. F. 6, 410\",\"Hor. Ep. 1, 20, 1\"],\"notas\":\"Corrigida referência OCR (Ov.); adicionado festival Vertumnalia como entrada relacionada.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_29933:29933:0\",\"lemas\":[\"Vertumnus\",\"Vertumnalia\"],\"lema_canonico\":\"Vertumnus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Deus romano das estações e da mudança; associado a horti e ao comércio; patrono das transformações sazonais.\",\"aliases\":[],\"exemplos\":[\"Ov. F. 6, 410\",\"Hor. Ep. 1, 20, 1\"],\"notas\":\"Corrigida referência OCR (Ov.); adicionado festival Vertumnalia como entrada relacionada.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_29934-e1",
     "volume_id": "faria",
     "doc_name": "chunk_29934",
@@ -3542,50 +3146,6 @@
     "raw_json": "{\"id\":\"chunk_29941:29941:0\",\"lemas\":[\"vērum\",\"verum\"],\"lema_canonico\":\"verum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"A verdade; aquilo que é verdadeiro; também: o justo, o correto.\",\"aliases\":[],\"exemplos\":[\"Cic. Or. 1, 13\"],\"notas\":\"Normalizado para verum (neutro, 2ª decl.).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_29942-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_29942",
-    "page_num": 29942,
-    "lemmas": [
-      "veru",
-      "veru"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "spit for roasting; point of a skewer or javelin (attested Plautus).",
-    "exemplos": [],
-    "notas": "Corrigido lema para a forma substantiva veru (neutro), separando do adjetivo verus. | [dedupe] redirect → chunk_29935:29935:0 | [dedupe] redirect → chunk_29935:29935:0",
-    "raw_text": "{\"id\":\"chunk_29942:29942:0\",\"lemas\":[\"veru\"],\"lema_canonico\":\"veru\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"spit for roasting; point of a skewer or javelin (attested Plautus).\",\"aliases\":[],\"exemplos\":[\"Plaut. Rud. 1302\"],\"notas\":\"Corrigido lema para a forma substantiva veru (neutro), separando do adjetivo verus.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_29942:29942:0\",\"lemas\":[\"veru\"],\"lema_canonico\":\"veru\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"spit for roasting; point of a skewer or javelin (attested Plautus).\",\"aliases\":[],\"exemplos\":[\"Plaut. Rud. 1302\"],\"notas\":\"Corrigido lema para a forma substantiva veru (neutro), separando do adjetivo verus.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_29942-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_29942",
-    "page_num": 29942,
-    "lemmas": [
-      "verum",
-      "verum"
-    ],
-    "morfologia": "adv.",
-    "morph_render": "adv.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "however, nevertheless; as phrase verum tamen 'but, yet'; also used to resume discourse ('I say') in Cicero.",
-    "exemplos": [],
-    "notas": "Unificado para o advérbio lemma verum; variante fraseológica 'verum tamen' preservada em aliases. | [dedupe] redirect → chunk_29940:29940:0 | [dedupe] redirect → chunk_29940:29940:0",
-    "raw_text": "{\"id\":\"chunk_29942:29942:1\",\"lemas\":[\"verum\"],\"lema_canonico\":\"verum\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"however, nevertheless; as phrase verum tamen 'but, yet'; also used to resume discourse ('I say') in Cicero.\",\"aliases\":[\"verum tamen\"],\"exemplos\":[\"Cic. Verr. 5, 101\",\"Cic. Verr. 3, 4\"],\"notas\":\"Unificado para o advérbio lemma verum; variante fraseológica 'verum tamen' preservada em aliases.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_29942:29942:1\",\"lemas\":[\"verum\"],\"lema_canonico\":\"verum\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"however, nevertheless; as phrase verum tamen 'but, yet'; also used to resume discourse ('I say') in Cicero.\",\"aliases\":[\"verum tamen\"],\"exemplos\":[\"Cic. Verr. 5, 101\",\"Cic. Verr. 3, 4\"],\"notas\":\"Unificado para o advérbio lemma verum; variante fraseológica 'verum tamen' preservada em aliases.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_29943-e1",
     "volume_id": "faria",
     "doc_name": "chunk_29943",
@@ -3762,28 +3322,6 @@
     "raw_json": "{\"id\":\"chunk_29950:29950:0\",\"lemas\":[\"vesaniēns\",\"vesaniens\"],\"lema_canonico\":\"vesaniēns\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[],\"definicao\":\"Furioso, enlouquecido, frenético.\",\"aliases\":[],\"exemplos\":[\"Catul. 25, 13\"],\"notas\":\"Grafia e forma do genitivo (vesāniēntis) conforme leituras clásicas; harmonizado com Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_29951-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_29951",
-    "page_num": 29951,
-    "lemmas": [
-      "vesanus",
-      "vesanus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "louco, fora de si; também violento, furioso",
-    "exemplos": [],
-    "notas": "Normalizado variantes e referências; sentidos conforme Whitaker/LS/Lat→Deu | [dedupe] redirect → chunk_29948:29948:0 | [dedupe] redirect → chunk_29948:29948:0",
-    "raw_text": "{\"id\":\"chunk_29951:29951:0\",\"lemas\":[\"vesanus\",\"vesana\",\"vesanum\"],\"lema_canonico\":\"vesanus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"louco, fora de si; também violento, furioso\",\"aliases\":[],\"exemplos\":[\"Hor. Ars Poet. 453\",\"Liv. 7, 33, 11\"],\"notas\":\"Normalizado variantes e referências; sentidos conforme Whitaker/LS/Lat→Deu\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_29951:29951:0\",\"lemas\":[\"vesanus\",\"vesana\",\"vesanum\"],\"lema_canonico\":\"vesanus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"louco, fora de si; também violento, furioso\",\"aliases\":[],\"exemplos\":[\"Hor. Ars Poet. 453\",\"Liv. 7, 33, 11\"],\"notas\":\"Normalizado variantes e referências; sentidos conforme Whitaker/LS/Lat→Deu\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_29952-e1",
     "volume_id": "faria",
     "doc_name": "chunk_29952",
@@ -3936,28 +3474,6 @@
     "notas": "Sentidos múltiplos atestados por LS e Whitaker; termos normalizados",
     "raw_text": "{\"id\":\"chunk_29957:29957:0\",\"lemas\":[\"vescus\",\"vesca\",\"vescum\"],\"lema_canonico\":\"vescus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"1) delgado, magro, fraco, attenuado; 2) corroendo, que come (metaf.)\",\"aliases\":[],\"exemplos\":[\"Verg. G. 4, 131\"],\"notas\":\"Sentidos múltiplos atestados por LS e Whitaker; termos normalizados\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_29957:29957:0\",\"lemas\":[\"vescus\",\"vesca\",\"vescum\"],\"lema_canonico\":\"vescus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"1) delgado, magro, fraco, attenuado; 2) corroendo, que come (metaf.)\",\"aliases\":[],\"exemplos\":[\"Verg. G. 4, 131\"],\"notas\":\"Sentidos múltiplos atestados por LS e Whitaker; termos normalizados\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_29958-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_29958",
-    "page_num": 29958,
-    "lemmas": [
-      "vescus",
-      "vescus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "magro, fraco, débil; escasso, pobre; (também) corrosivo, que corrói",
-    "exemplos": [],
-    "notas": "Unificado lema e morfologia segundo Lewis & Short e Whitaker; sentidos sintetizados. | [dedupe] redirect → chunk_29957:29957:0 | [dedupe] redirect → chunk_29957:29957:0",
-    "raw_text": "{\"id\":\"chunk_29958:29958:0\",\"lemas\":[\"vescus\",\"vesca\",\"vescum\"],\"lema_canonico\":\"vescus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"magro, fraco, débil; escasso, pobre; (também) corrosivo, que corrói\",\"aliases\":[],\"exemplos\":[\"Verg. G. 3, 175\",\"Lucr. 1, 326\"],\"notas\":\"Unificado lema e morfologia segundo Lewis & Short e Whitaker; sentidos sintetizados.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_29958:29958:0\",\"lemas\":[\"vescus\",\"vesca\",\"vescum\"],\"lema_canonico\":\"vescus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"magro, fraco, débil; escasso, pobre; (também) corrosivo, que corrói\",\"aliases\":[],\"exemplos\":[\"Verg. G. 3, 175\",\"Lucr. 1, 326\"],\"notas\":\"Unificado lema e morfologia segundo Lewis & Short e Whitaker; sentidos sintetizados.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_29959-e1",
@@ -4356,28 +3872,6 @@
     "raw_json": "{\"id\":\"chunk_29974:29974:1\",\"lemas\":[\"Vestālia\",\"Vestalia\"],\"lema_canonico\":\"Vestalia\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[\"plur. tantum\"],\"definicao\":\"festas em honra de Vesta (Vestalia), pluralia tantum; festival celebrado em 9 de junho\",\"aliases\":[],\"exemplos\":[\"Varr. L. Lat. 6, 17\"],\"notas\":\"Vestalia é forma plural (neuter pluralia tantum) atestada; morfologia plural não cabe no vocabulário morfológico exigido — marquei como indecl. e adicionei morph_extra.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}"
   },
   {
-    "id": "chunk_29975-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_29975",
-    "page_num": 29975,
-    "lemmas": [
-      "vestalis",
-      "vestalis"
-    ],
-    "morfologia": "adj. (3) 2T",
-    "morph_render": "adj. (3) 2T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "relativo a Vesta (vestal); como substantivo: virgo Vestalis, sacerdotisa de Vesta.",
-    "exemplos": [],
-    "notas": "Morfologia e acepções verificadas em Whitaker e Lat→Deu; Lewis & Short também registra uso substantivado. | [dedupe] redirect → chunk_29976:29976:0 | [dedupe] redirect → chunk_29976:29976:0",
-    "raw_text": "{\"id\":\"chunk_29975:29975:0\",\"lemas\":[\"vestalis\"],\"lema_canonico\":\"vestalis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"relativo a Vesta (vestal); como substantivo: virgo Vestalis, sacerdotisa de Vesta.\",\"aliases\":[],\"exemplos\":[\"Cic. Leg. 2, 20\"],\"notas\":\"Morfologia e acepções verificadas em Whitaker e Lat→Deu; Lewis & Short também registra uso substantivado.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_29975:29975:0\",\"lemas\":[\"vestalis\"],\"lema_canonico\":\"vestalis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"relativo a Vesta (vestal); como substantivo: virgo Vestalis, sacerdotisa de Vesta.\",\"aliases\":[],\"exemplos\":[\"Cic. Leg. 2, 20\"],\"notas\":\"Morfologia e acepções verificadas em Whitaker e Lat→Deu; Lewis & Short também registra uso substantivado.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_29976-e1",
     "volume_id": "faria",
     "doc_name": "chunk_29976",
@@ -4420,28 +3914,6 @@
     "notas": "Entrada tratada como sufixo derivacional; primeiro passe mantido como base informativa.",
     "raw_text": "{\"id\":\"chunk_29977:29977:0\",\"lemas\":[\"-or\"],\"lema_canonico\":\"-or\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Sufixo formador de substantivos (frequentemente abstratos ou agentes) a partir de verbos (p.ex. amor, timor, actor).\",\"aliases\":[],\"exemplos\":[\"amor\",\"timor\"],\"notas\":\"Entrada tratada como sufixo derivacional; primeiro passe mantido como base informativa.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_29977:29977:0\",\"lemas\":[\"-or\"],\"lema_canonico\":\"-or\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Sufixo formador de substantivos (frequentemente abstratos ou agentes) a partir de verbos (p.ex. amor, timor, actor).\",\"aliases\":[],\"exemplos\":[\"amor\",\"timor\"],\"notas\":\"Entrada tratada como sufixo derivacional; primeiro passe mantido como base informativa.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_29977-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_29977",
-    "page_num": 29977,
-    "lemmas": [
-      "vester",
-      "vester"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Pronome/adjetivo possessivo de 2. pessoa do plural: vosso, vossa; usos literários e figurados conforme contexto.",
-    "exemplos": [],
-    "notas": "Normalizado lema para a forma lexical 'vester'; incluídas variantes atestadas. | [dedupe] redirect → chunk_30402:30402:2 | [dedupe] redirect → chunk_30402:30402:2 | [ocr_fix 2025-08-17T20:01:09Z] match direto em LS por lemma/lemma_norm | lemma_in='vester' → 'vester'",
-    "raw_text": "{\"id\":\"chunk_29977:29977:1\",\"lemas\":[\"vester\",\"vestra\",\"vestrum\"],\"lema_canonico\":\"vester\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Pronome/adjetivo possessivo de 2. pessoa do plural: vosso, vossa; usos literários e figurados conforme contexto.\",\"aliases\":[\"vestrum\",\"vestr\"],\"exemplos\":[\"Cic. Rep. 6, 14\",\"T. Liv. 30, 44, 7\",\"Plaut. St. 664\",\"Ter. Eun. 1066\",\"T. Liv. 6, 15, 10\",\"Cic. Nat. 3, 35\"],\"notas\":\"Normalizado lema para a forma lexical 'vester'; incluídas variantes atestadas.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_29977:29977:1\",\"lemas\":[\"vester\",\"vestra\",\"vestrum\"],\"lema_canonico\":\"vester\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Pronome/adjetivo possessivo de 2. pessoa do plural: vosso, vossa; usos literários e figurados conforme contexto.\",\"aliases\":[\"vestrum\",\"vestr\"],\"exemplos\":[\"Cic. Rep. 6, 14\",\"T. Liv. 30, 44, 7\",\"Plaut. St. 664\",\"Ter. Eun. 1066\",\"T. Liv. 6, 15, 10\",\"Cic. Nat. 3, 35\"],\"notas\":\"Normalizado lema para a forma lexical 'vester'; incluídas variantes atestadas.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
     "id": "chunk_29977-e3",
@@ -4706,28 +4178,6 @@
     "notas": "Entrada onomástica confirmada apenas pelo texto/ocr; forma e referência estabilizadas.",
     "raw_text": "{\"id\":\"chunk_29987:29987:0\",\"lemas\":[\"vestinus\"],\"lema_canonico\":\"vestinus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"prenome próprio: Júlio Ático Vestino, cônsul referido por Tácito; (p. ex., o Vestinus que Nero mandou matar)\",\"aliases\":[],\"exemplos\":[\"Tac. Ann. 15, 48\"],\"notas\":\"Entrada onomástica confirmada apenas pelo texto/ocr; forma e referência estabilizadas.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}",
     "raw_json": "{\"id\":\"chunk_29987:29987:0\",\"lemas\":[\"vestinus\"],\"lema_canonico\":\"vestinus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"prenome próprio: Júlio Ático Vestino, cônsul referido por Tácito; (p. ex., o Vestinus que Nero mandou matar)\",\"aliases\":[],\"exemplos\":[\"Tac. Ann. 15, 48\"],\"notas\":\"Entrada onomástica confirmada apenas pelo texto/ocr; forma e referência estabilizadas.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}"
-  },
-  {
-    "id": "chunk_29987-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_29987",
-    "page_num": 29987,
-    "lemmas": [
-      "vestio",
-      "vestio"
-    ],
-    "morfologia": "v. 4ª (-īre)",
-    "morph_render": "v. 4ª (-īre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "vestir, cobrir com roupas; prover de vestes, ornamentar",
-    "exemplos": [],
-    "notas": "Normalizado à forma de 4ª conjugação conforme Lewis & Short; formas perfeitas registradas em LS (vīstī / vīī) não listadas como variantes lematizadas. | [dedupe] redirect → chunk_29977:29977:2 | [dedupe] redirect → chunk_29977:29977:2",
-    "raw_text": "{\"id\":\"chunk_29987:29987:1\",\"lemas\":[\"vestio\",\"vestīre\"],\"lema_canonico\":\"vestio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"vestir, cobrir com roupas; prover de vestes, ornamentar\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 2, 9, 2\",\"Plaut. Cas. 4, 4, 4\"],\"notas\":\"Normalizado à forma de 4ª conjugação conforme Lewis & Short; formas perfeitas registradas em LS (vīstī / vīī) não listadas como variantes lematizadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_29987:29987:1\",\"lemas\":[\"vestio\",\"vestīre\"],\"lema_canonico\":\"vestio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"vestir, cobrir com roupas; prover de vestes, ornamentar\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 2, 9, 2\",\"Plaut. Cas. 4, 4, 4\"],\"notas\":\"Normalizado à forma de 4ª conjugação conforme Lewis & Short; formas perfeitas registradas em LS (vīstī / vīī) não listadas como variantes lematizadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_29988-e1",

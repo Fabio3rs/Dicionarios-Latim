@@ -22,50 +22,6 @@
     "raw_json": "{\"id\":\"chunk_16000:16000:0\",\"lemas\":[\"loculamentum\"],\"lema_canonico\":\"loculamentum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"caixa, estojo, compartimento; receptáculo para coisas; em pl. ou gen. aplicado a ninhos de pombas e a estantes/caixas para livros\",\"aliases\":[],\"exemplos\":[\"Col. 8, 8, 3\",\"Sen. Tranq. 9, 7\",\"Vitr. 10, 14, 3\",\"Veg. Vet. 2, 32\"],\"notas\":\"Normalizado lema e gênero conforme LS/Whitaker/Lat→Deu; exemplos verificados.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_16001-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16001",
-    "page_num": 16001,
-    "lemmas": [
-      "loculus",
-      "loculus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "pequeno lugar; compartimento, nicho; ataúde; em pl., estojo/bolsa/cofre",
-    "exemplos": [],
-    "notas": "Sentidos conforme Lewis & Short; morfologia normalizada | [dedupe] redirect → chunk_15994:15994:0 | [dedupe] redirect → chunk_15994:15994:0",
-    "raw_text": "{\"id\":\"chunk_16001:16001:0\",\"lemas\":[\"loculus\"],\"lema_canonico\":\"loculus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"pequeno lugar; compartimento, nicho; ataúde; em pl., estojo/bolsa/cofre\",\"aliases\":[],\"exemplos\":[\"Plaut. Mil. 853\",\"Plin. Nat. 7, 165\",\"Hor. Ep. 2, 1, 175\"],\"notas\":\"Sentidos conforme Lewis & Short; morfologia normalizada\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_16001:16001:0\",\"lemas\":[\"loculus\"],\"lema_canonico\":\"loculus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"pequeno lugar; compartimento, nicho; ataúde; em pl., estojo/bolsa/cofre\",\"aliases\":[],\"exemplos\":[\"Plaut. Mil. 853\",\"Plin. Nat. 7, 165\",\"Hor. Ep. 2, 1, 175\"],\"notas\":\"Sentidos conforme Lewis & Short; morfologia normalizada\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_16002-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16002",
-    "page_num": 16002,
-    "lemmas": [
-      "locuples",
-      "locuples"
-    ],
-    "morfologia": "adj. (3) 3T",
-    "morph_render": "adj. (3) 3T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "rico, opulento; abundante, generoso; também ‘rico em terras’ ou ‘confiável’ em usos específicos",
-    "exemplos": [],
-    "notas": "Incluída variante locupletus/‑a/‑um como forma alternativa encontrada na tradição lexicográfica; lema canônico locuples (3rd decl.) | [dedupe] redirect → chunk_16002:16002:0 | [dedupe] redirect → chunk_16002:16002:0",
-    "raw_text": "{\"id\":\"chunk_16002:16002:2\",\"lemas\":[\"locuples\",\"locupletus\",\"locupleta\",\"locupletum\"],\"lema_canonico\":\"locuples\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"rico, opulento; abundante, generoso; também ‘rico em terras’ ou ‘confiável’ em usos específicos\",\"aliases\":[],\"exemplos\":[\"Cic. Rep. 2, 161\",\"Cic. Br. 47\",\"Sal. B. Jug. 84\",\"Cic. Fin. 5, 13\"],\"notas\":\"Incluída variante locupletus/‑a/‑um como forma alternativa encontrada na tradição lexicográfica; lema canônico locuples (3rd decl.)\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_16002:16002:2\",\"lemas\":[\"locuples\",\"locupletus\",\"locupleta\",\"locupletum\"],\"lema_canonico\":\"locuples\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"rico, opulento; abundante, generoso; também ‘rico em terras’ ou ‘confiável’ em usos específicos\",\"aliases\":[],\"exemplos\":[\"Cic. Rep. 2, 161\",\"Cic. Br. 47\",\"Sal. B. Jug. 84\",\"Cic. Fin. 5, 13\"],\"notas\":\"Incluída variante locupletus/‑a/‑um como forma alternativa encontrada na tradição lexicográfica; lema canônico locuples (3rd decl.)\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_16002-e2",
     "volume_id": "faria",
     "doc_name": "chunk_16002",
@@ -418,28 +374,6 @@
     "raw_json": "{\"id\":\"chunk_16016:16016:0\",\"lemas\":[\"logica\"],\"lema_canonico\":\"logica\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"lógica (disciplina); termo de empréstimo grego atestado em autores clássicos\",\"aliases\":[],\"exemplos\":[\"Cic. Fin. 1, 7\"],\"notas\":\"Escolhido gênero feminino conforme LS e Lat→Deu; Whitaker registra variantes/neutro para usos particulares.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_16017-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16017",
-    "page_num": 16017,
-    "lemmas": [
-      "logos",
-      "logos"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "palavra; em pl.: palavras vãs, tagarelice; dito espirituoso, bon-mot; fábula",
-    "exemplos": [],
-    "notas": "Unificado com leituras do Lewis & Short e Whitaker; inclui variante logus. | [dedupe] redirect → chunk_16015:16015:0 | [dedupe] redirect → chunk_16015:16015:0",
-    "raw_text": "{\"id\":\"chunk_16017:16017:0\",\"lemas\":[\"logos\",\"logus\"],\"lema_canonico\":\"logos\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"palavra; em pl.: palavras vãs, tagarelice; dito espirituoso, bon-mot; fábula\",\"aliases\":[],\"exemplos\":[\"Plaut. Men. 5, 2, 29\",\"Ter. Phorm. 3, 2, 7\",\"Plaut. Stich. 1, 3, 68\",\"Sen. Cons. ad Polyb. 27\"],\"notas\":\"Unificado com leituras do Lewis & Short e Whitaker; inclui variante logus.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_16017:16017:0\",\"lemas\":[\"logos\",\"logus\"],\"lema_canonico\":\"logos\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"palavra; em pl.: palavras vãs, tagarelice; dito espirituoso, bon-mot; fábula\",\"aliases\":[],\"exemplos\":[\"Plaut. Men. 5, 2, 29\",\"Ter. Phorm. 3, 2, 7\",\"Plaut. Stich. 1, 3, 68\",\"Sen. Cons. ad Polyb. 27\"],\"notas\":\"Unificado com leituras do Lewis & Short e Whitaker; inclui variante logus.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_16018-e1",
     "volume_id": "faria",
     "doc_name": "chunk_16018",
@@ -504,28 +438,6 @@
     "notas": "Forma atestada em fontes manuscritas; Whitaker marca como unknown — revisão necessária.",
     "raw_text": "{\"id\":\"chunk_16020:16020:0\",\"lemas\":[\"Lollianus\"],\"lema_canonico\":\"Lollianus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo a Lollius (gentilício)\",\"aliases\":[],\"exemplos\":[\"Tac. Ann. 1, 10\"],\"notas\":\"Forma atestada em fontes manuscritas; Whitaker marca como unknown — revisão necessária.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_16020:16020:0\",\"lemas\":[\"Lollianus\"],\"lema_canonico\":\"Lollianus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo a Lollius (gentilício)\",\"aliases\":[],\"exemplos\":[\"Tac. Ann. 1, 10\"],\"notas\":\"Forma atestada em fontes manuscritas; Whitaker marca como unknown — revisão necessária.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_16021-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16021",
-    "page_num": 16021,
-    "lemmas": [
-      "lolium",
-      "lolium"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "lolium: darnel, a weed in grain; darnel spikelet.",
-    "exemplos": [],
-    "notas": "Normalizado a partir de variante e correções OCR. | [dedupe] redirect → chunk_16018:16018:0 | [dedupe] redirect → chunk_16018:16018:0",
-    "raw_text": "{\"id\":\"chunk_16021:16021:0\",\"lemas\":[\"lolium\",\"lōlium\"],\"lema_canonico\":\"lolium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"lolium: darnel, a weed in grain; darnel spikelet.\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 2, 145\"],\"notas\":\"Normalizado a partir de variante e correções OCR.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_16021:16021:0\",\"lemas\":[\"lolium\",\"lōlium\"],\"lema_canonico\":\"lolium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"lolium: darnel, a weed in grain; darnel spikelet.\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 2, 145\"],\"notas\":\"Normalizado a partir de variante e correções OCR.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_16022-e1",
@@ -636,28 +548,6 @@
     "notas": "Substantivo feminino (longaeva, ae) atestado como subst. em Lewis & Short; homonímia com a forma f. do adjetivo longaevus.",
     "raw_text": "{\"id\":\"chunk_16025:16025:1\",\"lemas\":[\"longaeva\"],\"lema_canonico\":\"longaeva\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"mulher velha (substantivo feminino)\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 10, 462\"],\"notas\":\"Substantivo feminino (longaeva, ae) atestado como subst. em Lewis & Short; homonímia com a forma f. do adjetivo longaevus.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_16025:16025:1\",\"lemas\":[\"longaeva\"],\"lema_canonico\":\"longaeva\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"mulher velha (substantivo feminino)\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 10, 462\"],\"notas\":\"Substantivo feminino (longaeva, ae) atestado como subst. em Lewis & Short; homonímia com a forma f. do adjetivo longaevus.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_16026-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16026",
-    "page_num": 16026,
-    "lemmas": [
-      "longaevus",
-      "longaevus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "de grande idade; muito velho, idoso; (poét.) antigo",
-    "exemplos": [],
-    "notas": "Corrigido para a forma canónica longaevus; variantes confirmadas. | [dedupe] redirect → chunk_16025:16025:0 | [dedupe] redirect → chunk_16025:16025:0",
-    "raw_text": "{\"id\":\"chunk_16026:16026:0\",\"lemas\":[\"longaevus\",\"longaeva\",\"longaevum\"],\"lema_canonico\":\"longaevus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"de grande idade; muito velho, idoso; (poét.) antigo\",\"aliases\":[],\"exemplos\":[\"Verg. Aen. 3, 169\"],\"notas\":\"Corrigido para a forma canónica longaevus; variantes confirmadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_16026:16026:0\",\"lemas\":[\"longaevus\",\"longaeva\",\"longaevum\"],\"lema_canonico\":\"longaevus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"de grande idade; muito velho, idoso; (poét.) antigo\",\"aliases\":[],\"exemplos\":[\"Verg. Aen. 3, 169\"],\"notas\":\"Corrigido para a forma canónica longaevus; variantes confirmadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_16027-e1",
@@ -878,28 +768,6 @@
     "notas": "Corresponde a Longŭla em Lewis & Short; registrada gentilícia Longulāni (Plin.). | [ocr_fix 2025-08-17T19:53:55Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='Longula' → 'Longŭla'",
     "raw_text": "{\"id\":\"chunk_16035:16035:1\",\"lemas\":[\"Longula\"],\"lema_canonico\":\"Longula\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"topónimo: cidade volsca nas proximidades de Corioli (antiga Itália).\",\"aliases\":[],\"exemplos\":[\"T. Liv. 2, 23, 4\",\"T. Liv. 2, 33\",\"T. Liv. 9, 39\"],\"notas\":\"Corresponde a Longŭla em Lewis & Short; registrada gentilícia Longulāni (Plin.).\",\"flags\":[\"src_ls\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_16035:16035:1\",\"lemas\":[\"Longula\"],\"lema_canonico\":\"Longula\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"topónimo: cidade volsca nas proximidades de Corioli (antiga Itália).\",\"aliases\":[],\"exemplos\":[\"T. Liv. 2, 23, 4\",\"T. Liv. 2, 33\",\"T. Liv. 9, 39\"],\"notas\":\"Corresponde a Longŭla em Lewis & Short; registrada gentilícia Longulāni (Plin.).\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_16036-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16036",
-    "page_num": 16036,
-    "lemmas": [
-      "longinque",
-      "longinque"
-    ],
-    "morfologia": "adv.",
-    "morph_render": "adv.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "far off, at a distance; for a long while",
-    "exemplos": [],
-    "notas": "Incluída variante macronizada attestada em LS; forma adv. confirmada por Whitaker/LS. | [dedupe] redirect → chunk_16030:16030:0 | [dedupe] redirect → chunk_16030:16030:0",
-    "raw_text": "{\"id\":\"chunk_16036:16036:0\",\"lemas\":[\"longinque\"],\"lema_canonico\":\"longinque\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"far off, at a distance; for a long while\",\"aliases\":[\"longinquē\"],\"exemplos\":[\"Plaut. Rud. 226\"],\"notas\":\"Incluída variante macronizada attestada em LS; forma adv. confirmada por Whitaker/LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_16036:16036:0\",\"lemas\":[\"longinque\"],\"lema_canonico\":\"longinque\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"far off, at a distance; for a long while\",\"aliases\":[\"longinquē\"],\"exemplos\":[\"Plaut. Rud. 226\"],\"notas\":\"Incluída variante macronizada attestada em LS; forma adv. confirmada por Whitaker/LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_16037-e1",
@@ -1276,50 +1144,6 @@
     "raw_json": "{\"id\":\"chunk_16053:16053:0\",\"lemas\":[\"lorarius\"],\"lema_canonico\":\"lorarius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"a harness-maker; em sentido transferido, açoiteiro, castigador de escravos\",\"aliases\":[],\"exemplos\":[\"Gell. 10, 3, 8\",\"Plaut. Capt. 1, 2\"],\"notas\":\"Normalizado de lōrārĭus (LS); inscr. citadas em LS retidas como atestado epigráfico.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_16054-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16054",
-    "page_num": 16054,
-    "lemmas": [
-      "loricatus",
-      "loricatus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Vestido com uma lorica; encurvado/panzern (usado de quem usa couraça).",
-    "exemplos": [],
-    "notas": "Removidos diacríticos OCR; significado alinhado com Whitaker e Lat→Deu. | [dedupe] redirect → chunk_16059:16059:0 | [dedupe] redirect → chunk_16059:16059:0",
-    "raw_text": "{\"id\":\"chunk_16054:16054:0\",\"lemas\":[\"loricatus\",\"loricata\",\"loricatum\"],\"lema_canonico\":\"loricatus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Vestido com uma lorica; encurvado/panzern (usado de quem usa couraça).\",\"aliases\":[],\"exemplos\":[\"Verg. Mor. 123\"],\"notas\":\"Removidos diacríticos OCR; significado alinhado com Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_16054:16054:0\",\"lemas\":[\"loricatus\",\"loricata\",\"loricatum\"],\"lema_canonico\":\"loricatus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Vestido com uma lorica; encurvado/panzern (usado de quem usa couraça).\",\"aliases\":[],\"exemplos\":[\"Verg. Mor. 123\"],\"notas\":\"Removidos diacríticos OCR; significado alinhado com Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_16055-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16055",
-    "page_num": 16055,
-    "lemmas": [
-      "laureola",
-      "laureola"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Pequeno ramo ou coroa de louro; diminutivo de laurus; símbolo de vitória; também usado figuradamente (pequeno triunfo).",
-    "exemplos": [],
-    "notas": "Incluída variante grafética 'loreola'; lema preferido 'laureola' conforme LS e Whitaker. | [dedupe] redirect → chunk_15550:15550:0 | [dedupe] redirect → chunk_15550:15550:0",
-    "raw_text": "{\"id\":\"chunk_16055:16055:0\",\"lemas\":[\"laureola\",\"loreola\"],\"lema_canonico\":\"laureola\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Pequeno ramo ou coroa de louro; diminutivo de laurus; símbolo de vitória; também usado figuradamente (pequeno triunfo).\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 5, 20, 4\"],\"notas\":\"Incluída variante grafética 'loreola'; lema preferido 'laureola' conforme LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_16055:16055:0\",\"lemas\":[\"laureola\",\"loreola\"],\"lema_canonico\":\"laureola\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Pequeno ramo ou coroa de louro; diminutivo de laurus; símbolo de vitória; também usado figuradamente (pequeno triunfo).\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 5, 20, 4\"],\"notas\":\"Incluída variante grafética 'loreola'; lema preferido 'laureola' conforme LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_16056-e1",
     "volume_id": "faria",
     "doc_name": "chunk_16056",
@@ -1428,28 +1252,6 @@
     "notas": "Verbo 1ª conj. (lōrīcāre) atestado por Lewis & Short e Lat→Deu; exemplos selecionados.",
     "raw_text": "{\"id\":\"chunk_16060:16060:0\",\"lemas\":[\"lōrīcō\",\"lorico\",\"lorīco\"],\"lema_canonico\":\"lorico\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"cobrir com couraça; revestir, armar (transf.: revestir, encapar)\",\"aliases\":[],\"exemplos\":[\"Liv. 23, 19\",\"Plin. H. Nat. 8, 24, 36 §88\",\"Varr. R. Rust. 1, 57\"],\"notas\":\"Verbo 1ª conj. (lōrīcāre) atestado por Lewis & Short e Lat→Deu; exemplos selecionados.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_16060:16060:0\",\"lemas\":[\"lōrīcō\",\"lorico\",\"lorīco\"],\"lema_canonico\":\"lorico\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"cobrir com couraça; revestir, armar (transf.: revestir, encapar)\",\"aliases\":[],\"exemplos\":[\"Liv. 23, 19\",\"Plin. H. Nat. 8, 24, 36 §88\",\"Varr. R. Rust. 1, 57\"],\"notas\":\"Verbo 1ª conj. (lōrīcāre) atestado por Lewis & Short e Lat→Deu; exemplos selecionados.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_16060-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_16060",
-    "page_num": 16060,
-    "lemmas": [
-      "loricatus",
-      "loricatus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "particípio/adjetivo: revestido de couraça; armado, protegido por couraça",
-    "exemplos": [],
-    "notas": "Adjetivo/PPP derivado de lōrīcō confirmado por Lewis & Short; marcado como particípio perfeito passivo. | [dedupe] redirect → chunk_16059:16059:0 | [dedupe] redirect → chunk_16059:16059:0",
-    "raw_text": "{\"id\":\"chunk_16060:16060:1\",\"lemas\":[\"loricatus\",\"lōrīcātus\",\"lōrĭcātus\"],\"lema_canonico\":\"loricatus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio/adjetivo: revestido de couraça; armado, protegido por couraça\",\"aliases\":[],\"exemplos\":[\"Liv. 23, 19\",\"Liv. 37, 40\",\"Plin. 8, 24, 36 §88\",\"Quint. 8, 5, 15\"],\"notas\":\"Adjetivo/PPP derivado de lōrīcō confirmado por Lewis & Short; marcado como particípio perfeito passivo.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_16060:16060:1\",\"lemas\":[\"loricatus\",\"lōrīcātus\",\"lōrĭcātus\"],\"lema_canonico\":\"loricatus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio/adjetivo: revestido de couraça; armado, protegido por couraça\",\"aliases\":[],\"exemplos\":[\"Liv. 23, 19\",\"Liv. 37, 40\",\"Plin. 8, 24, 36 §88\",\"Quint. 8, 5, 15\"],\"notas\":\"Adjetivo/PPP derivado de lōrīcō confirmado por Lewis & Short; marcado como particípio perfeito passivo.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_16060-e3",
@@ -1628,28 +1430,6 @@
     "raw_json": "{\"id\":\"chunk_16066:16066:0\",\"lemas\":[\"lotus\",\"lautus\"],\"lema_canonico\":\"lotus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de lavo (lāvō, lāvāre): ‘lavado, banhado’; por extensão: ‘bem tratado, elegante’; nota: lōtus também forma substantivos distintos (lōtus, -ī; lōtus, -ūs)\",\"aliases\":[\"lautus\"],\"exemplos\":[],\"notas\":\"Unifiquei variantes (lōtus ~ lautus); marquei como part. perf. e adjetivo conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_16067-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16067",
-    "page_num": 16067,
-    "lemmas": [
-      "lunisis",
-      "lunisis"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:low",
-    "needs_review": 1,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada ambígua no OCR; original indica 'v. lotus' (vide). Requer verificação lexicográfica.",
-    "raw_text": "{\"id\":\"chunk_16067:16067:0\",\"lemas\":[\"lunisis\"],\"lema_canonico\":\"lunisis\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"lotus\"],\"exemplos\":[],\"notas\":\"Entrada ambígua no OCR; original indica 'v. lotus' (vide). Requer verificação lexicográfica.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"src_whitaker\",\"conf:low\",\"needs_review\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_16067:16067:0\",\"lemas\":[\"lunisis\"],\"lema_canonico\":\"lunisis\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"lotus\"],\"exemplos\":[],\"notas\":\"Entrada ambígua no OCR; original indica 'v. lotus' (vide). Requer verificação lexicográfica.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"src_whitaker\",\"conf:low\",\"needs_review\",\"redirect_only\"]}"
-  },
-  {
     "id": "chunk_16068-e1",
     "volume_id": "faria",
     "doc_name": "chunk_16068",
@@ -1738,28 +1518,6 @@
     "raw_json": "{\"id\":\"chunk_16070:16070:0\",\"lemas\":[\"lūbrĭcō\",\"lubrico\"],\"lema_canonico\":\"lūbrĭcō\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"tornar liso ou escorregadio; lubrificar; (também: ser escorregadio em usos tardios)\",\"aliases\":[],\"exemplos\":[\"Juv. 11, 175\",\"Arn. 1, 22\",\"Prud. Psych. 571\"],\"notas\":\"Formas pessoais e supinas normalizadas segundo Lewis & Short e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_16070-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_16070",
-    "page_num": 16070,
-    "lemmas": [
-      "lūbrĭco",
-      "lūbrĭco"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "tornar escorregadio; lubrificar (forma denominativa relacionada a lūbrĭcō)",
-    "exemplos": [],
-    "notas": "Entrada derivacional tratada como denom.; relação com lūbrĭcō indicada. Verificar atestação léxica adicional.\n[ocr_pipeline 2025-08-16T23:26:00.212455Z] lemma_in='lubrifico' → 'lūbrĭco' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:26:10Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='lūbrĭco' → 'lūbrĭco' | [dedupe] redirect → chunk_16070:16070:0 | [dedupe] redirect → chunk_16070:16070:0",
-    "raw_text": "{\"id\":\"chunk_16070:16070:1\",\"lemas\":[\"lubrifico\",\"lubrificare\"],\"lema_canonico\":\"lubrifico\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"tornar escorregadio; lubrificar (forma denominativa relacionada a lūbrĭcō)\",\"aliases\":[],\"exemplos\":[\"Juv. 11, 173\"],\"notas\":\"Entrada derivacional tratada como denom.; relação com lūbrĭcō indicada. Verificar atestação léxica adicional.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_16070:16070:1\",\"lemas\":[\"lubrifico\",\"lubrificare\"],\"lema_canonico\":\"lubrifico\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"tornar escorregadio; lubrificar (forma denominativa relacionada a lūbrĭcō)\",\"aliases\":[],\"exemplos\":[\"Juv. 11, 173\"],\"notas\":\"Entrada derivacional tratada como denom.; relação com lūbrĭcō indicada. Verificar atestação léxica adicional.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
     "id": "chunk_16070-e4",
     "volume_id": "faria",
     "doc_name": "chunk_16070",
@@ -1846,28 +1604,6 @@
     "notas": "Grafia normalizada Lūca; forma adjetival Lūcēnsis atestada em LS.",
     "raw_text": "{\"id\":\"chunk_16073:16073:0\",\"lemas\":[\"Lūca\",\"Luca\"],\"lema_canonico\":\"Lūca\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"cidade da Etrúria (mod. Lucca)\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 1, 9, 9\"],\"notas\":\"Grafia normalizada Lūca; forma adjetival Lūcēnsis atestada em LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_16073:16073:0\",\"lemas\":[\"Lūca\",\"Luca\"],\"lema_canonico\":\"Lūca\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"cidade da Etrúria (mod. Lucca)\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 1, 9, 9\"],\"notas\":\"Grafia normalizada Lūca; forma adjetival Lūcēnsis atestada em LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_16074-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16074",
-    "page_num": 16074,
-    "lemmas": [
-      "luca",
-      "luca"
-    ],
-    "morfologia": "s. 3ª (-is)",
-    "morph_render": "s. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "luca: (top.) Lucca, cidade da Etrúria; bovis / bōs, bovis: boi, vaca, também termo aplicado a elefante (pl. cattle). Entrada composta: ‘luca’ (topónimo) e ‘bovis’ (animal apelidado).",
-    "exemplos": [],
-    "notas": "Entrada combinada (topónimo + apelido zoológico). Morfologia mista entre 1ª e 3ª declinação; escolheu‑se 3ª (-is) como aproximação (ver flags). | [dedupe] redirect → chunk_16073:16073:0 | [dedupe] redirect → chunk_16073:16073:0",
-    "raw_text": "{\"id\":\"chunk_16074:16074:0\",\"lemas\":[\"luca\",\"bovis\"],\"lema_canonico\":\"luca\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"luca: (top.) Lucca, cidade da Etrúria; bovis / bōs, bovis: boi, vaca, também termo aplicado a elefante (pl. cattle). Entrada composta: ‘luca’ (topónimo) e ‘bovis’ (animal apelidado).\",\"aliases\":[],\"exemplos\":[\"Plaut. Cas. 861\",\"Liv. (passim) — uso comparativo/leporello em autores antigos\"],\"notas\":\"Entrada combinada (topónimo + apelido zoológico). Morfologia mista entre 1ª e 3ª declinação; escolheu‑se 3ª (-is) como aproximação (ver flags).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_16074:16074:0\",\"lemas\":[\"luca\",\"bovis\"],\"lema_canonico\":\"luca\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"luca: (top.) Lucca, cidade da Etrúria; bovis / bōs, bovis: boi, vaca, também termo aplicado a elefante (pl. cattle). Entrada composta: ‘luca’ (topónimo) e ‘bovis’ (animal apelidado).\",\"aliases\":[],\"exemplos\":[\"Plaut. Cas. 861\",\"Liv. (passim) — uso comparativo/leporello em autores antigos\"],\"notas\":\"Entrada combinada (topónimo + apelido zoológico). Morfologia mista entre 1ª e 3ª declinação; escolheu‑se 3ª (-is) como aproximação (ver flags).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"morph_out_of_vocab\"]}"
   },
   {
     "id": "chunk_16075-e1",
@@ -1978,28 +1714,6 @@
     "notas": "Entrada atestada como lūcānica (Lat→Deu); relação etimológica com Lucania.",
     "raw_text": "{\"id\":\"chunk_16079:16079:0\",\"lemas\":[\"lucanica\",\"lūcānica\"],\"lema_canonico\":\"lucanica\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Salpicão/paio; espécie de salsicha originária da Lucânia.\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 9, 16, 8\"],\"notas\":\"Entrada atestada como lūcānica (Lat→Deu); relação etimológica com Lucania.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_16079:16079:0\",\"lemas\":[\"lucanica\",\"lūcānica\"],\"lema_canonico\":\"lucanica\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Salpicão/paio; espécie de salsicha originária da Lucânia.\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 9, 16, 8\"],\"notas\":\"Entrada atestada como lūcānica (Lat→Deu); relação etimológica com Lucania.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_16079-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_16079",
-    "page_num": 16079,
-    "lemmas": [
-      "Lucania",
-      "Lucania"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Região do sul da Itália (Lucânia).",
-    "exemplos": [],
-    "notas": "Forma toponímica; origem do adjetivo/denominativo 'lucanica'/'lucanus'. | [dedupe] redirect → chunk_16077:16077:0 | [dedupe] redirect → chunk_16077:16077:0",
-    "raw_text": "{\"id\":\"chunk_16079:16079:1\",\"lemas\":[\"Lucania\"],\"lema_canonico\":\"Lucania\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Região do sul da Itália (Lucânia).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma toponímica; origem do adjetivo/denominativo 'lucanica'/'lucanus'.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_16079:16079:1\",\"lemas\":[\"Lucania\"],\"lema_canonico\":\"Lucania\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Região do sul da Itália (Lucânia).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma toponímica; origem do adjetivo/denominativo 'lucanica'/'lucanus'.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
     "id": "chunk_16080-e1",
@@ -2310,50 +2024,6 @@
     "raw_json": "{\"id\":\"chunk_16092:16092:0\",\"lemas\":[\"lucerna\"],\"lema_canonico\":\"lucerna\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"lâmpada de azeite; por extensão, vigília ou trabalho noturno\",\"aliases\":[],\"exemplos\":[\"Cic. Fin. 4, 24, 63\",\"Juv. 1, 51\"],\"notas\":\"Grafia e declinação normalizadas conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_16093-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16093",
-    "page_num": 16093,
-    "lemmas": [
-      "luceo",
-      "luceo"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "To shine, be light or clear; in impersonal use, to begin to be day, to dawn.",
-    "exemplos": [],
-    "notas": "Conjugational class and senses checked against Lewis & Short and Lat→Deu. | [dedupe] redirect → chunk_16087:16087:0 | [dedupe] redirect → chunk_16087:16087:0",
-    "raw_text": "{\"id\":\"chunk_16093:16093:0\",\"lemas\":[\"luceo\"],\"lema_canonico\":\"luceo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"To shine, be light or clear; in impersonal use, to begin to be day, to dawn.\",\"aliases\":[],\"exemplos\":[\"Verg. Buc. 6, 37\",\"Ov. F. 5, 417\",\"Cic. Fin. 1, 5, 8\"],\"notas\":\"Conjugational class and senses checked against Lewis & Short and Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_16093:16093:0\",\"lemas\":[\"luceo\"],\"lema_canonico\":\"luceo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"To shine, be light or clear; in impersonal use, to begin to be day, to dawn.\",\"aliases\":[],\"exemplos\":[\"Verg. Buc. 6, 37\",\"Ov. F. 5, 417\",\"Cic. Fin. 1, 5, 8\"],\"notas\":\"Conjugational class and senses checked against Lewis & Short and Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_16094-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16094",
-    "page_num": 16094,
-    "lemmas": [
-      "lux",
-      "lux"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "subst. (forma abl./loc. lūce) usada em locuções temporais como 'primo lūce' = ao raiar do dia; exemplos: primo lūce (Cic.), lūce claro (Plaut.).",
-    "exemplos": [],
-    "notas": "Entrada original dava 'lūcid.' (OCR/abreviação); retificado para o substantivo base 'lux' com uso ablativo 'lūce'.\n[ocr_pipeline 2025-08-16T23:20:20.350331Z] lemma_in='lux' → 'lux' | motivo: match direto em LS por lemma/lemma_norm | [ocr_fix 2025-08-17T01:18:34Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='lux' → 'lux' | [dedupe] redirect → chunk_16230:16230:0 | [dedupe] redirect → chunk_16230:16230:0",
-    "raw_text": "{\"id\":\"chunk_16094:16094:0\",\"lemas\":[\"lux\"],\"lema_canonico\":\"lux\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"subst. (forma abl./loc. lūce) usada em locuções temporais como 'primo lūce' = ao raiar do dia; exemplos: primo lūce (Cic.), lūce claro (Plaut.).\",\"aliases\":[],\"exemplos\":[\"Cic. Or. 3, 132\",\"Plau. Aul. 748\"],\"notas\":\"Entrada original dava 'lūcid.' (OCR/abreviação); retificado para o substantivo base 'lux' com uso ablativo 'lūce'.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_16094:16094:0\",\"lemas\":[\"lux\"],\"lema_canonico\":\"lux\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"subst. (forma abl./loc. lūce) usada em locuções temporais como 'primo lūce' = ao raiar do dia; exemplos: primo lūce (Cic.), lūce claro (Plaut.).\",\"aliases\":[],\"exemplos\":[\"Cic. Or. 3, 132\",\"Plau. Aul. 748\"],\"notas\":\"Entrada original dava 'lūcid.' (OCR/abreviação); retificado para o substantivo base 'lux' com uso ablativo 'lūce'.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
     "id": "chunk_16095-e1",
     "volume_id": "faria",
     "doc_name": "chunk_16095",
@@ -2398,28 +2068,6 @@
     "raw_json": "{\"id\":\"chunk_16096:16096:0\",\"lemas\":[\"lucidus\",\"lucida\",\"lucidum\"],\"lema_canonico\":\"lucidus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Bright, clear, shining; (transferred) brilliant, beautiful, transparent. Neuter sometimes used adverbially.\",\"aliases\":[],\"exemplos\":[\"Hor. O. 2, 12, 14\"],\"notas\":\"Formas e sentido confirmados por Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_16097-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16097",
-    "page_num": 16097,
-    "lemmas": [
-      "lucidus",
-      "lucidus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "brilhante, luminoso; figurado: claro, distinto, evidente.",
-    "exemplos": [],
-    "notas": "Grafia e referências harmonizadas com Lewis & Short e Whitaker. | [dedupe] redirect → chunk_16096:16096:0 | [dedupe] redirect → chunk_16096:16096:0",
-    "raw_text": "{\"id\":\"chunk_16097:16097:0\",\"lemas\":[\"lucidus\"],\"lema_canonico\":\"lucidus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"brilhante, luminoso; figurado: claro, distinto, evidente.\",\"aliases\":[],\"exemplos\":[\"Ov. Her. 15, 74\",\"Hor. Ars Poet. 4, 11\"],\"notas\":\"Grafia e referências harmonizadas com Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_16097:16097:0\",\"lemas\":[\"lucidus\"],\"lema_canonico\":\"lucidus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"brilhante, luminoso; figurado: claro, distinto, evidente.\",\"aliases\":[],\"exemplos\":[\"Ov. Her. 15, 74\",\"Hor. Ars Poet. 4, 11\"],\"notas\":\"Grafia e referências harmonizadas com Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_16098-e1",
     "volume_id": "faria",
     "doc_name": "chunk_16098",
@@ -2462,28 +2110,6 @@
     "notas": "Entrada cobre tanto o substantivo (planeta) quanto o uso adjetival atestado em LS; declinação como -ī confirmada.",
     "raw_text": "{\"id\":\"chunk_16099:16099:0\",\"lemas\":[\"lucifer\"],\"lema_canonico\":\"lucifer\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"a estrela da manhã (planeta Vênus); também adjetivo 'que traz luz' (light-bringing)\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 2, 53\",\"Prop. 2, 15, 28\"],\"notas\":\"Entrada cobre tanto o substantivo (planeta) quanto o uso adjetival atestado em LS; declinação como -ī confirmada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_16099:16099:0\",\"lemas\":[\"lucifer\"],\"lema_canonico\":\"lucifer\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"a estrela da manhã (planeta Vênus); também adjetivo 'que traz luz' (light-bringing)\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 2, 53\",\"Prop. 2, 15, 28\"],\"notas\":\"Entrada cobre tanto o substantivo (planeta) quanto o uso adjetival atestado em LS; declinação como -ī confirmada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_16100-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16100",
-    "page_num": 16100,
-    "lemmas": [
-      "lucifer",
-      "lucifer"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "que traz/produz luz; epíteto feminino (Lucifera) aplicado a divindades (ex.: Diana) e usado como adjetivo poético.",
-    "exemplos": [],
-    "notas": "Incluídas as variantes canônicas e relação com o epíteto próprio 'Lucifera'. | [dedupe] redirect → chunk_16098:16098:0 | [dedupe] redirect → chunk_16098:16098:0",
-    "raw_text": "{\"id\":\"chunk_16100:16100:0\",\"lemas\":[\"lucifer\",\"lucifera\",\"luciferum\"],\"lema_canonico\":\"lucifer\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"que traz/produz luz; epíteto feminino (Lucifera) aplicado a divindades (ex.: Diana) e usado como adjetivo poético.\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 2, 68\"],\"notas\":\"Incluídas as variantes canônicas e relação com o epíteto próprio 'Lucifera'.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_16100:16100:0\",\"lemas\":[\"lucifer\",\"lucifera\",\"luciferum\"],\"lema_canonico\":\"lucifer\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"que traz/produz luz; epíteto feminino (Lucifera) aplicado a divindades (ex.: Diana) e usado como adjetivo poético.\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 2, 68\"],\"notas\":\"Incluídas as variantes canônicas e relação com o epíteto próprio 'Lucifera'.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_16101-e1",
@@ -2662,28 +2288,6 @@
     "raw_json": "{\"id\":\"chunk_16107:16107:0\",\"lemas\":[\"Lucretia\"],\"lema_canonico\":\"Lucretia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Lucrécia, matrona romana célebre pela sua virtude (esposa de Colatino)\",\"aliases\":[],\"exemplos\":[\"Ov. F. 2, 685\"],\"notas\":\"Grafia normalizada; nome próprio feminino.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_16108-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16108",
-    "page_num": 16108,
-    "lemmas": [
-      "Lucretius",
-      "Lucretius"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Lucrécio (nome próprio masculino), poeta romano",
-    "exemplos": [],
-    "notas": "Identificado como nome próprio masculino; morfologia padronizada. | [dedupe] redirect → chunk_16109:16109:0 | [dedupe] redirect → chunk_16109:16109:0",
-    "raw_text": "{\"id\":\"chunk_16108:16108:0\",\"lemas\":[\"Lucretius\"],\"lema_canonico\":\"Lucretius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Lucrécio (nome próprio masculino), poeta romano\",\"aliases\":[],\"exemplos\":[\"Hor. L. O. 1, 7, 10\"],\"notas\":\"Identificado como nome próprio masculino; morfologia padronizada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_16108:16108:0\",\"lemas\":[\"Lucretius\"],\"lema_canonico\":\"Lucretius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Lucrécio (nome próprio masculino), poeta romano\",\"aliases\":[],\"exemplos\":[\"Hor. L. O. 1, 7, 10\"],\"notas\":\"Identificado como nome próprio masculino; morfologia padronizada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_16109-e1",
     "volume_id": "faria",
     "doc_name": "chunk_16109",
@@ -2794,28 +2398,6 @@
     "raw_json": "{\"id\":\"chunk_16113:16113:0\",\"lemas\":[\"Lucerinus\"],\"lema_canonico\":\"Lucerinus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"Nome do lago Lucerino (topónimo).\",\"aliases\":[],\"exemplos\":[\"Verg. G. 2, 161\"],\"notas\":\"Entrada indicada como nome de lago; forma e declinação incertas no OCR. Revisão adicional necessária.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_16114-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16114",
-    "page_num": 16114,
-    "lemmas": [
-      "lucror",
-      "lucror"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "verbo deponente 'lucror': ganhar, lucrar; também adquirir, obter; economizar, poupar.",
-    "exemplos": [],
-    "notas": "Infinitivo lucrārī (1ª conj.) confirmado; entrada retificada a partir de Lat→Deu e first_pass. | [dedupe] redirect → chunk_16106:16106:0 | [dedupe] redirect → chunk_16106:16106:0",
-    "raw_text": "{\"id\":\"chunk_16114:16114:0\",\"lemas\":[\"lucror\",\"lucrārī\"],\"lema_canonico\":\"lucror\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"verbo deponente 'lucror': ganhar, lucrar; também adquirir, obter; economizar, poupar.\",\"aliases\":[],\"exemplos\":[\"Cic. Par. 21\",\"Cic. Verr. 1, 33\",\"Plin. H. Nat. 18, 68\"],\"notas\":\"Infinitivo lucrārī (1ª conj.) confirmado; entrada retificada a partir de Lat→Deu e first_pass.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_16114:16114:0\",\"lemas\":[\"lucror\",\"lucrārī\"],\"lema_canonico\":\"lucror\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"verbo deponente 'lucror': ganhar, lucrar; também adquirir, obter; economizar, poupar.\",\"aliases\":[],\"exemplos\":[\"Cic. Par. 21\",\"Cic. Verr. 1, 33\",\"Plin. H. Nat. 18, 68\"],\"notas\":\"Infinitivo lucrārī (1ª conj.) confirmado; entrada retificada a partir de Lat→Deu e first_pass.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_16115-e1",
     "volume_id": "faria",
     "doc_name": "chunk_16115",
@@ -2836,28 +2418,6 @@
     "notas": "Grafia ajustada (macrons removidos nos lemas canónicos).",
     "raw_text": "{\"id\":\"chunk_16115:16115:0\",\"lemas\":[\"lucrosus\",\"lucrosa\",\"lucrosum\"],\"lema_canonico\":\"lucrosus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"lucrative, gainful; profitable.\",\"aliases\":[],\"exemplos\":[\"Ov. Am. 1, 10, 35\"],\"notas\":\"Grafia ajustada (macrons removidos nos lemas canónicos).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_16115:16115:0\",\"lemas\":[\"lucrosus\",\"lucrosa\",\"lucrosum\"],\"lema_canonico\":\"lucrosus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"lucrative, gainful; profitable.\",\"aliases\":[],\"exemplos\":[\"Ov. Am. 1, 10, 35\"],\"notas\":\"Grafia ajustada (macrons removidos nos lemas canónicos).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_16116-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16116",
-    "page_num": 16116,
-    "lemmas": [
-      "lucrum",
-      "lucrum"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Lucro, ganho; também riqueza, vantagem; por extensão, ganância.",
-    "exemplos": [],
-    "notas": "Normalizado a partir de 'lūcrum'; confirmado por Whitaker e Lat→Deu. | [dedupe] redirect → chunk_16070:16070:2 | [dedupe] redirect → chunk_16070:16070:2",
-    "raw_text": "{\"id\":\"chunk_16116:16116:0\",\"lemas\":[\"lucrum\"],\"lema_canonico\":\"lucrum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Lucro, ganho; também riqueza, vantagem; por extensão, ganância.\",\"aliases\":[],\"exemplos\":[\"Plaut. Poen. 777\",\"Ov. Am. 3, 8, 35\",\"Sen. Hippol. 4, 250\",\"Cic. Fam. 7, 24, 1\",\"Cic. Fam. 9, 17, 1\"],\"notas\":\"Normalizado a partir de 'lūcrum'; confirmado por Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_16116:16116:0\",\"lemas\":[\"lucrum\"],\"lema_canonico\":\"lucrum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Lucro, ganho; também riqueza, vantagem; por extensão, ganância.\",\"aliases\":[],\"exemplos\":[\"Plaut. Poen. 777\",\"Ov. Am. 3, 8, 35\",\"Sen. Hippol. 4, 250\",\"Cic. Fam. 7, 24, 1\",\"Cic. Fam. 9, 17, 1\"],\"notas\":\"Normalizado a partir de 'lūcrum'; confirmado por Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_16117-e1",
@@ -3012,50 +2572,6 @@
     "notas": "Corrigido erro de OCR ('luctĕr') para luctifer; sentido e atestação confirmados por Lewis & Short.",
     "raw_text": "{\"id\":\"chunk_16122:16122:0\",\"lemas\":[\"luctifer\",\"luctifera\",\"luctiferum\"],\"lema_canonico\":\"luctifer\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Mournful; bringing grief; ominous, ill‑fated.\",\"aliases\":[],\"exemplos\":[\"Sen. Her. F. 601\"],\"notas\":\"Corrigido erro de OCR ('luctĕr') para luctifer; sentido e atestação confirmados por Lewis & Short.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_16122:16122:0\",\"lemas\":[\"luctifer\",\"luctifera\",\"luctiferum\"],\"lema_canonico\":\"luctifer\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Mournful; bringing grief; ominous, ill‑fated.\",\"aliases\":[],\"exemplos\":[\"Sen. Her. F. 601\"],\"notas\":\"Corrigido erro de OCR ('luctĕr') para luctifer; sentido e atestação confirmados por Lewis & Short.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_16123-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16123",
-    "page_num": 16123,
-    "lemmas": [
-      "luctifer",
-      "luctifer"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Que traz luto; funesto, triste, doloroso.",
-    "exemplos": [],
-    "notas": "Corrigido de 'luctiferus' (OCR/first pass) para a forma atestada luctifer, conforme Lewis & Short e Lat→Deu. | [dedupe] redirect → chunk_16122:16122:0 | [dedupe] redirect → chunk_16122:16122:0",
-    "raw_text": "{\"id\":\"chunk_16123:16123:0\",\"lemas\":[\"luctifer\",\"luctifera\",\"luctiferum\"],\"lema_canonico\":\"luctifer\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Que traz luto; funesto, triste, doloroso.\",\"aliases\":[],\"exemplos\":[\"Verg. En. 7, 324\"],\"notas\":\"Corrigido de 'luctiferus' (OCR/first pass) para a forma atestada luctifer, conforme Lewis & Short e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_16123:16123:0\",\"lemas\":[\"luctifer\",\"luctifera\",\"luctiferum\"],\"lema_canonico\":\"luctifer\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Que traz luto; funesto, triste, doloroso.\",\"aliases\":[],\"exemplos\":[\"Verg. En. 7, 324\"],\"notas\":\"Corrigido de 'luctiferus' (OCR/first pass) para a forma atestada luctifer, conforme Lewis & Short e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_16124-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16124",
-    "page_num": 16124,
-    "lemmas": [
-      "luctĭfer",
-      "luctĭfer"
-    ],
-    "morfologia": "adj. (3) 1T",
-    "morph_render": "adj. (3) 1T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "adjetivo (particípio presente): que traz/produz luto; trad. 'luctífero' (poético).",
-    "exemplos": [],
-    "notas": "Forma atestada pelo OCR; falta confirmação em dicionários principais — requer revisão.\n[ocr_pipeline 2025-08-16T23:14:20.686155Z] lemma_in='luctiferans' → 'luctĭfer' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:10:32Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='luctĭfer' → 'luctĭfer' | [dedupe] redirect → chunk_16122:16122:0 | [dedupe] redirect → chunk_16122:16122:0",
-    "raw_text": "{\"id\":\"chunk_16124:16124:0\",\"lemas\":[\"luctiferans\"],\"lema_canonico\":\"luctiferans\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[\"part. pres.\"],\"definicao\":\"adjetivo (particípio presente): que traz/produz luto; trad. 'luctífero' (poético).\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 1, 732\"],\"notas\":\"Forma atestada pelo OCR; falta confirmação em dicionários principais — requer revisão.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"morph_out_of_vocab\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_16124:16124:0\",\"lemas\":[\"luctiferans\"],\"lema_canonico\":\"luctiferans\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[\"part. pres.\"],\"definicao\":\"adjetivo (particípio presente): que traz/produz luto; trad. 'luctífero' (poético).\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 1, 732\"],\"notas\":\"Forma atestada pelo OCR; falta confirmação em dicionários principais — requer revisão.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"morph_out_of_vocab\",\"needs_review\"]}"
   },
   {
     "id": "chunk_16125-e1",
@@ -3300,28 +2816,6 @@
     "raw_json": "{\"id\":\"chunk_16134:16134:0\",\"lemas\":[\"lucenter\"],\"lema_canonico\":\"lucenter\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"advérbio: claramente, brilhantemente; excelentemente.\",\"aliases\":[],\"exemplos\":[\"Cic. Ep. 76\"],\"notas\":\"Derivado de luceō, lucēre; confirmado por Whitaker.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_16135-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16135",
-    "page_num": 16135,
-    "lemmas": [
-      "lucenter",
-      "lucenter"
-    ],
-    "morfologia": "adv.",
-    "morph_render": "adv.",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "muito bem, brilhantemente; excelentemente",
-    "exemplos": [],
-    "notas": "Forma Lucenter confirmada; 'lucentier' é leitura OCR/variant uncertain. | [dedupe] redirect → chunk_16134:16134:0 | [dedupe] redirect → chunk_16134:16134:0",
-    "raw_text": "{\"id\":\"chunk_16135:16135:0\",\"lemas\":[\"lucenter\"],\"lema_canonico\":\"lucenter\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"muito bem, brilhantemente; excelentemente\",\"aliases\":[],\"exemplos\":[\"Cic. Fin. 2, 15\"],\"notas\":\"Forma Lucenter confirmada; 'lucentier' é leitura OCR/variant uncertain.\",\"flags\":[\"src_whitaker\",\"src_ocr\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_16135:16135:0\",\"lemas\":[\"lucenter\"],\"lema_canonico\":\"lucenter\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"muito bem, brilhantemente; excelentemente\",\"aliases\":[],\"exemplos\":[\"Cic. Fin. 2, 15\"],\"notas\":\"Forma Lucenter confirmada; 'lucentier' é leitura OCR/variant uncertain.\",\"flags\":[\"src_whitaker\",\"src_ocr\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_16136-e1",
     "volume_id": "faria",
     "doc_name": "chunk_16136",
@@ -3342,28 +2836,6 @@
     "notas": "Sentidos e exemplos harmonizados com Lewis & Short e Whitaker.",
     "raw_text": "{\"id\":\"chunk_16136:16136:0\",\"lemas\":[\"luculentus\",\"luculenta\",\"luculentum\"],\"lema_canonico\":\"luculentus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"bright, shining; figuratively splendid, excellent, illustrious; perspicuous or notable\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 7, 10, 2\",\"Plaut. Mil. 958\",\"Cic. Phil. 7, 17\",\"Cic. Att. 12, 21, 1\",\"Sall. C. Cat. 31, 6\"],\"notas\":\"Sentidos e exemplos harmonizados com Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_16136:16136:0\",\"lemas\":[\"luculentus\",\"luculenta\",\"luculentum\"],\"lema_canonico\":\"luculentus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"bright, shining; figuratively splendid, excellent, illustrious; perspicuous or notable\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 7, 10, 2\",\"Plaut. Mil. 958\",\"Cic. Phil. 7, 17\",\"Cic. Att. 12, 21, 1\",\"Sall. C. Cat. 31, 6\"],\"notas\":\"Sentidos e exemplos harmonizados com Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_16136-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_16136",
-    "page_num": 16136,
-    "lemmas": [
-      "lucullianus",
-      "lucullianus"
-    ],
-    "morfologia": null,
-    "morph_render": null,
-    "morph_extra": [],
-    "conf": "conf:low",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada fornecida sem definição no excerto; não foi possível confirmar forma/morfologia externamente. | [dedupe] redirect → chunk_16137:16137:0 | [dedupe] redirect → chunk_16137:16137:0",
-    "raw_text": "{\"id\":\"chunk_16136:16136:1\",\"lemas\":[\"lucullianus\"],\"lema_canonico\":\"lucullianus\",\"morfologia\":\"\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada fornecida sem definição no excerto; não foi possível confirmar forma/morfologia externamente.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_16136:16136:1\",\"lemas\":[\"lucullianus\"],\"lema_canonico\":\"lucullianus\",\"morfologia\":\"\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada fornecida sem definição no excerto; não foi possível confirmar forma/morfologia externamente.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
     "id": "chunk_16137-e1",
@@ -3694,28 +3166,6 @@
     "notas": "Forma registrada em Lewis & Short (lūdĭfĭcātor, -ōris). Citação preferida conforme LS.",
     "raw_text": "{\"id\":\"chunk_16151:16151:0\",\"lemas\":[\"ludificator\"],\"lema_canonico\":\"ludificator\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"aquele que zomba de outro; enganador, burlão\",\"aliases\":[],\"exemplos\":[\"Plaut. Most. 5, 1, 18\"],\"notas\":\"Forma registrada em Lewis & Short (lūdĭfĭcātor, -ōris). Citação preferida conforme LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_16151:16151:0\",\"lemas\":[\"ludificator\"],\"lema_canonico\":\"ludificator\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"aquele que zomba de outro; enganador, burlão\",\"aliases\":[],\"exemplos\":[\"Plaut. Most. 5, 1, 18\"],\"notas\":\"Forma registrada em Lewis & Short (lūdĭfĭcātor, -ōris). Citação preferida conforme LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_16152-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16152",
-    "page_num": 16152,
-    "lemmas": [
-      "lūdĭfĭcātĭo",
-      "lūdĭfĭcātĭo"
-    ],
-    "morfologia": "adj. (3) 1T",
-    "morph_render": "adj. (3) 1T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "particípio perfeito passivo, suposto de ludificō / lūdĭfor: 'tendo sido ludibriado, zombado, ridicularizado'.",
-    "exemplos": [],
-    "notas": "Forma atestada no first_pass; não confirmada em LS/Whitaker — requer verificação em fontes primárias.\n[ocr_pipeline 2025-08-16T23:14:27.948242Z] lemma_in='ludifactus' → 'lūdĭfĭcātĭo' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:10:41Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='lūdĭfĭcātĭo' → 'lūdĭfĭcātĭo' | [dedupe] redirect → chunk_16150:16150:0 | [dedupe] redirect → chunk_16150:16150:0",
-    "raw_text": "{\"id\":\"chunk_16152:16152:0\",\"lemas\":[\"ludifactus\"],\"lema_canonico\":\"ludifactus\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo, suposto de ludificō / lūdĭfor: 'tendo sido ludibriado, zombado, ridicularizado'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma atestada no first_pass; não confirmada em LS/Whitaker — requer verificação em fontes primárias.\",\"flags\":[\"src_firstpass\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_16152:16152:0\",\"lemas\":[\"ludifactus\"],\"lema_canonico\":\"ludifactus\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo, suposto de ludificō / lūdĭfor: 'tendo sido ludibriado, zombado, ridicularizado'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma atestada no first_pass; não confirmada em LS/Whitaker — requer verificação em fontes primárias.\",\"flags\":[\"src_firstpass\",\"conf:low\",\"needs_review\"]}"
   },
   {
     "id": "chunk_16152-e2",
@@ -4248,28 +3698,6 @@
     "raw_json": "{\"id\":\"chunk_16170:16170:0\",\"lemas\":[\"lūnō\",\"lūnātus\",\"luno\",\"lunatus\"],\"lema_canonico\":\"lūnō\",\"morfologia\":\"v. 1ª (-āre), tr.\",\"morph_extra\":[],\"definicao\":\"Dobrar em forma de crescente; curvar em forma de meia-lua. Part. pāss./adj. lūnātus: em forma de crescente, lunado.\",\"aliases\":[],\"exemplos\":[\"Ov. Am. 1, 1, 23\",\"Prop. 4 (5), 6, 25\",\"Verg. A. 1, 490\",\"Stat. Th. 6, 265\"],\"notas\":\"Normalizado macrons (lūnō, -āre, -āvī, -ātum); incluído particípio lūnātus como variante adjetival.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_16171-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16171",
-    "page_num": 16171,
-    "lemmas": [
-      "linter",
-      "linter"
-    ],
-    "morfologia": "s. neut. 3ª (-is)",
-    "morph_render": "s. neut. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "small boat, skiff, trough; lunter = archaic variant of linter.",
-    "exemplos": [],
-    "notas": "lunter attested as archaic variant; gen. lintris (-is) per LS/Whitaker. | [dedupe] redirect → chunk_15941:15941:0 | [dedupe] redirect → chunk_15941:15941:0",
-    "raw_text": "{\"id\":\"chunk_16171:16171:0\",\"lemas\":[\"linter\",\"lunter\"],\"lema_canonico\":\"linter\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"small boat, skiff, trough; lunter = archaic variant of linter.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"lunter attested as archaic variant; gen. lintris (-is) per LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_16171:16171:0\",\"lemas\":[\"linter\",\"lunter\"],\"lema_canonico\":\"linter\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"small boat, skiff, trough; lunter = archaic variant of linter.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"lunter attested as archaic variant; gen. lintris (-is) per LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_16172-e1",
     "volume_id": "faria",
     "doc_name": "chunk_16172",
@@ -4290,28 +3718,6 @@
     "notas": "Grafia normalizada; sentido e exempla confirmados por LS e Whitaker. | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='lunula' → 'lūnŭla'",
     "raw_text": "{\"id\":\"chunk_16172:16172:0\",\"lemas\":[\"lunula\"],\"lema_canonico\":\"lunula\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"pequena lua; ornamento em forma de meia-lua usado por mulheres\",\"aliases\":[],\"exemplos\":[\"Plaut. Ep. 5, 1, 33\"],\"notas\":\"Grafia normalizada; sentido e exempla confirmados por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_16172:16172:0\",\"lemas\":[\"lunula\"],\"lema_canonico\":\"lunula\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"pequena lua; ornamento em forma de meia-lua usado por mulheres\",\"aliases\":[],\"exemplos\":[\"Plaut. Ep. 5, 1, 33\"],\"notas\":\"Grafia normalizada; sentido e exempla confirmados por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_16173-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16173",
-    "page_num": 16173,
-    "lemmas": [
-      "luo",
-      "luo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "(homographs) 1) to wash, lave; 2) to pay, discharge (a debt), expiate (see LS for distinct senses and forms).",
-    "exemplos": [],
-    "notas": "Two distinct entries in LS (wash vs. pay); principal principal parts lūere/luere etc. Forms normalized. | [dedupe] redirect → chunk_16155:16155:2 | [dedupe] redirect → chunk_16155:16155:2",
-    "raw_text": "{\"id\":\"chunk_16173:16173:0\",\"lemas\":[\"luo\"],\"lema_canonico\":\"luo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"(homographs) 1) to wash, lave; 2) to pay, discharge (a debt), expiate (see LS for distinct senses and forms).\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 17, 7, 1\",\"Cic. Verr. 1, 8, 31\",\"Cic. Phil. 1, 32\"],\"notas\":\"Two distinct entries in LS (wash vs. pay); principal principal parts lūere/luere etc. Forms normalized.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_16173:16173:0\",\"lemas\":[\"luo\"],\"lema_canonico\":\"luo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"(homographs) 1) to wash, lave; 2) to pay, discharge (a debt), expiate (see LS for distinct senses and forms).\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 17, 7, 1\",\"Cic. Verr. 1, 8, 31\",\"Cic. Phil. 1, 32\"],\"notas\":\"Two distinct entries in LS (wash vs. pay); principal principal parts lūere/luere etc. Forms normalized.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_16174-e1",
@@ -4468,28 +3874,6 @@
     "raw_json": "{\"id\":\"chunk_16179:16179:0\",\"lemas\":[\"lupercalia\"],\"lema_canonico\":\"lupercalia\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Festas (pl.) romanas chamadas Lupercália, celebradas em meados de fevereiro, ligadas ao Lupercal e ao culto de Pan/Fauno.\",\"aliases\":[],\"exemplos\":[\"Cic. Phil. 2, 84\"],\"notas\":\"Forma plural e sentido religioso/toponímico confirmados por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_16179-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_16179",
-    "page_num": 16179,
-    "lemmas": [
-      "lupercalia",
-      "lupercalia"
-    ],
-    "morfologia": "s. neut. 3ª (-is)",
-    "morph_render": "s. neut. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Festas religiosas romanas conhecidas como Lupercália; possivelmente em honra de Pan/Lycean Pan ou Fauno.",
-    "exemplos": [],
-    "notas": "Duplicata editorial da mesma entrada; normalizada conforme fontes externas. | [dedupe] redirect → chunk_16179:16179:0 | [dedupe] redirect → chunk_16179:16179:0",
-    "raw_text": "{\"id\":\"chunk_16179:16179:1\",\"lemas\":[\"lupercalia\"],\"lema_canonico\":\"lupercalia\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Festas religiosas romanas conhecidas como Lupercália; possivelmente em honra de Pan/Lycean Pan ou Fauno.\",\"aliases\":[],\"exemplos\":[\"Cic. Phil. 2, 84\"],\"notas\":\"Duplicata editorial da mesma entrada; normalizada conforme fontes externas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_16179:16179:1\",\"lemas\":[\"lupercalia\"],\"lema_canonico\":\"lupercalia\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Festas religiosas romanas conhecidas como Lupercália; possivelmente em honra de Pan/Lycean Pan ou Fauno.\",\"aliases\":[],\"exemplos\":[\"Cic. Phil. 2, 84\"],\"notas\":\"Duplicata editorial da mesma entrada; normalizada conforme fontes externas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_16180-e1",
     "volume_id": "faria",
     "doc_name": "chunk_16180",
@@ -4534,28 +3918,6 @@
     "raw_json": "{\"id\":\"chunk_16181:16181:0\",\"lemas\":[\"Lupercus\",\"Lupērcus\"],\"lema_canonico\":\"Lupercus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"O deus Pan (Lycean Pan) ou, mais frequentemente, sacerdote de Lupercus (participante nos Lupercalia).\",\"aliases\":[],\"exemplos\":[\"Verg. A. 8, 663\",\"Ov. F. 2, 267\",\"Juv. 2, 142\",\"Suet. Caes. 76\"],\"notas\":\"Padronizado para Lupercus; sentidos divididos entre divindade e sacerdote, conforme LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_16182-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16182",
-    "page_num": 16182,
-    "lemmas": [
-      "lupus",
-      "lupus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "lobo; também ‘grappling iron’ (sentido secundário atestado em léxicos clássicos).",
-    "exemplos": [],
-    "notas": "Normalizado conforme Lewis & Short e Whitaker; forma canónica 'lupus'. | [dedupe] redirect → chunk_16187:16187:0 | [dedupe] redirect → chunk_16187:16187:0",
-    "raw_text": "{\"id\":\"chunk_16182:16182:0\",\"lemas\":[\"lupus\"],\"lema_canonico\":\"lupus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"lobo; também ‘grappling iron’ (sentido secundário atestado em léxicos clássicos).\",\"aliases\":[],\"exemplos\":[\"Verg. A. 9, 566\"],\"notas\":\"Normalizado conforme Lewis & Short e Whitaker; forma canónica 'lupus'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_16182:16182:0\",\"lemas\":[\"lupus\"],\"lema_canonico\":\"lupus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"lobo; também ‘grappling iron’ (sentido secundário atestado em léxicos clássicos).\",\"aliases\":[],\"exemplos\":[\"Verg. A. 9, 566\"],\"notas\":\"Normalizado conforme Lewis & Short e Whitaker; forma canónica 'lupus'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_16182-e2",
     "volume_id": "faria",
     "doc_name": "chunk_16182",
@@ -4576,28 +3938,6 @@
     "notas": "Não encontrado de forma confiável nas fontes principais; formas supinas/particípios incertas — item mantido para revisão.",
     "raw_text": "{\"id\":\"chunk_16182:16182:1\",\"lemas\":[\"lupio\"],\"lema_canonico\":\"lupio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"(entrada rara/incipiente) attested reading suggesting ‘gritar, utter the cry of a kite’; forma e paradigma incertos.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Não encontrado de forma confiável nas fontes principais; formas supinas/particípios incertas — item mantido para revisão.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_16182:16182:1\",\"lemas\":[\"lupio\"],\"lema_canonico\":\"lupio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"(entrada rara/incipiente) attested reading suggesting ‘gritar, utter the cry of a kite’; forma e paradigma incertos.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Não encontrado de forma confiável nas fontes principais; formas supinas/particípios incertas — item mantido para revisão.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_16182-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_16182",
-    "page_num": 16182,
-    "lemmas": [
-      "lupus",
-      "lupus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "forma do substantivo 'lupus' (nom. pl. / gen. sg. conforme contexto) — plural 'lobos' quando nominativo plural.",
-    "exemplos": [],
-    "notas": "Registro da forma flexionada 'lupi' tratada como lema-forma; direcionado para o lema canónico 'lupus'. | [dedupe] redirect → chunk_16187:16187:0 | [dedupe] redirect → chunk_16187:16187:0",
-    "raw_text": "{\"id\":\"chunk_16182:16182:2\",\"lemas\":[\"lupi\"],\"lema_canonico\":\"lupus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"forma do substantivo 'lupus' (nom. pl. / gen. sg. conforme contexto) — plural 'lobos' quando nominativo plural.\",\"aliases\":[],\"exemplos\":[\"Ov. Trist. 4, 6, 3\"],\"notas\":\"Registro da forma flexionada 'lupi' tratada como lema-forma; direcionado para o lema canónico 'lupus'.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_16182:16182:2\",\"lemas\":[\"lupi\"],\"lema_canonico\":\"lupus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"forma do substantivo 'lupus' (nom. pl. / gen. sg. conforme contexto) — plural 'lobos' quando nominativo plural.\",\"aliases\":[],\"exemplos\":[\"Ov. Trist. 4, 6, 3\"],\"notas\":\"Registro da forma flexionada 'lupi' tratada como lema-forma; direcionado para o lema canónico 'lupus'.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
   },
   {
     "id": "chunk_16183-e1",
@@ -4842,28 +4182,6 @@
     "raw_json": "{\"id\":\"chunk_16193:16193:0\",\"lemas\":[\"luscinia\",\"luscinia\"],\"lema_canonico\":\"luscinia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"rouxinol; a ave de canto melodioso (nightingale).\",\"aliases\":[],\"exemplos\":[\"Hor. Sat. 2, 3, 245\"],\"notas\":\"Grafia variante luscĭnĭa atestada em Lewis & Short; forma luscinia confirmada em Whitaker/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_16194-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16194",
-    "page_num": 16194,
-    "lemmas": [
-      "luscinia",
-      "luscinia"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "ruxinol; a cantora noturna (nightingale).",
-    "exemplos": [],
-    "notas": "Ortografia regularizada a partir do OCR; confirmada por LS/Whitaker. | [dedupe] redirect → chunk_16193:16193:0 | [dedupe] redirect → chunk_16193:16193:0",
-    "raw_text": "{\"id\":\"chunk_16194:16194:0\",\"lemas\":[\"luscinia\"],\"lema_canonico\":\"luscinia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"ruxinol; a cantora noturna (nightingale).\",\"aliases\":[],\"exemplos\":[\"Plaut. Bac. 881\",\"Plin. 10, 29\"],\"notas\":\"Ortografia regularizada a partir do OCR; confirmada por LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_16194:16194:0\",\"lemas\":[\"luscinia\"],\"lema_canonico\":\"luscinia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"ruxinol; a cantora noturna (nightingale).\",\"aliases\":[],\"exemplos\":[\"Plaut. Bac. 881\",\"Plin. 10, 29\"],\"notas\":\"Ortografia regularizada a partir do OCR; confirmada por LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_16195-e1",
     "volume_id": "faria",
     "doc_name": "chunk_16195",
@@ -4928,28 +4246,6 @@
     "notas": "Entrada baseada no first_pass e no OCR; forma pessoal pouco atestada — revisão necessária.",
     "raw_text": "{\"id\":\"chunk_16197:16197:0\",\"lemas\":[\"Luscius\"],\"lema_canonico\":\"Luscius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"nome próprio masculino (Luscius), atestado em obras latinas.\",\"aliases\":[],\"exemplos\":[\"Cic. Com. 43\"],\"notas\":\"Entrada baseada no first_pass e no OCR; forma pessoal pouco atestada — revisão necessária.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_16197:16197:0\",\"lemas\":[\"Luscius\"],\"lema_canonico\":\"Luscius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"nome próprio masculino (Luscius), atestado em obras latinas.\",\"aliases\":[],\"exemplos\":[\"Cic. Com. 43\"],\"notas\":\"Entrada baseada no first_pass e no OCR; forma pessoal pouco atestada — revisão necessária.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_16198-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16198",
-    "page_num": 16198,
-    "lemmas": [
-      "luscus",
-      "luscus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Com um só olho; meio-cego, com um olho fechado (sentido literal e figurado: 'one-eyed', 'half-blind', 'with one eye shut').",
-    "exemplos": [],
-    "notas": "Grafia e morfologia confirmadas em LS e Whitaker; variantes de gênero incluídas. | [dedupe] redirect → chunk_16196:16196:0 | [dedupe] redirect → chunk_16196:16196:0",
-    "raw_text": "{\"id\":\"chunk_16198:16198:0\",\"lemas\":[\"luscus\",\"lusca\",\"luscum\"],\"lema_canonico\":\"luscus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Com um só olho; meio-cego, com um olho fechado (sentido literal e figurado: 'one-eyed', 'half-blind', 'with one eye shut').\",\"aliases\":[],\"exemplos\":[\"Plaut. Trin. 2, 4, 64\",\"Plaut. Curc. 4, 2, 19\",\"Cic. Or. 2, 60, 246\",\"Mart. 4, 65\",\"Juv. 10, 157\"],\"notas\":\"Grafia e morfologia confirmadas em LS e Whitaker; variantes de gênero incluídas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_16198:16198:0\",\"lemas\":[\"luscus\",\"lusca\",\"luscum\"],\"lema_canonico\":\"luscus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Com um só olho; meio-cego, com um olho fechado (sentido literal e figurado: 'one-eyed', 'half-blind', 'with one eye shut').\",\"aliases\":[],\"exemplos\":[\"Plaut. Trin. 2, 4, 64\",\"Plaut. Curc. 4, 2, 19\",\"Cic. Or. 2, 60, 246\",\"Mart. 4, 65\",\"Juv. 10, 157\"],\"notas\":\"Grafia e morfologia confirmadas em LS e Whitaker; variantes de gênero incluídas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_16199-e1",

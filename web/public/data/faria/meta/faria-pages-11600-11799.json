@@ -198,28 +198,6 @@
     "raw_json": "{\"id\":\"chunk_11607:11607:0\",\"lemas\":[\"furtum\"],\"lema_canonico\":\"furtum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"roubo; objeto roubado; estratagema, ardil; (ling. amorosa) amores ocultos, adultério\",\"aliases\":[],\"exemplos\":[\"Cic. Cont. 26\",\"Cic. Verr. 4, 231\",\"Verg. A. 10, 735\",\"Ov. Met. 2, 423\"],\"notas\":\"Uniformizada morfologia e sentidos verificados em LS e Whitaker\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_11607-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_11607",
-    "page_num": 11607,
-    "lemmas": [
-      "furialis",
-      "furialis"
-    ],
-    "morfologia": "adj. (3) 2T",
-    "morph_render": "adj. (3) 2T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "pertencente às Fúrias; furioso, frenético, aterrador (principalmente poét.)",
-    "exemplos": [],
-    "notas": "Classificação adjectival alinhada com Whitaker; sentidos confirmados por Lewis & Short | [dedupe] redirect → chunk_11591:11591:1 | [dedupe] redirect → chunk_11591:11591:1",
-    "raw_text": "{\"id\":\"chunk_11607:11607:1\",\"lemas\":[\"furialis\"],\"lema_canonico\":\"furialis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"pertencente às Fúrias; furioso, frenético, aterrador (principalmente poét.)\",\"aliases\":[],\"exemplos\":[\"Verg. A. 7, 415\",\"Liv. 7, 17, 3\"],\"notas\":\"Classificação adjectival alinhada com Whitaker; sentidos confirmados por Lewis & Short\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_11607:11607:1\",\"lemas\":[\"furialis\"],\"lema_canonico\":\"furialis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"pertencente às Fúrias; furioso, frenético, aterrador (principalmente poét.)\",\"aliases\":[],\"exemplos\":[\"Verg. A. 7, 415\",\"Liv. 7, 17, 3\"],\"notas\":\"Classificação adjectival alinhada com Whitaker; sentidos confirmados por Lewis & Short\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_11608-e1",
     "volume_id": "faria",
     "doc_name": "chunk_11608",
@@ -350,28 +328,6 @@
     "notas": "Sentidos confirmados e ampliados por Lewis & Short",
     "raw_text": "{\"id\":\"chunk_11613:11613:0\",\"lemas\":[\"fuscus\",\"fusca\",\"fuscum\"],\"lema_canonico\":\"fuscus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"escuro, pardo, fulvo; transfer.: velado, sombrio; de voz: rouco, áspero\",\"aliases\":[],\"exemplos\":[\"Cic. Sest. 369\",\"Cic. Nat. 2, 16\"],\"notas\":\"Sentidos confirmados e ampliados por Lewis & Short\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_11613:11613:0\",\"lemas\":[\"fuscus\",\"fusca\",\"fuscum\"],\"lema_canonico\":\"fuscus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"escuro, pardo, fulvo; transfer.: velado, sombrio; de voz: rouco, áspero\",\"aliases\":[],\"exemplos\":[\"Cic. Sest. 369\",\"Cic. Nat. 2, 16\"],\"notas\":\"Sentidos confirmados e ampliados por Lewis & Short\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_11614-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_11614",
-    "page_num": 11614,
-    "lemmas": [
-      "fūsus",
-      "fūsus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "nome próprio masculino atestado como artista/gramático citado em Horácio (atribuído no OCR)",
-    "exemplos": [],
-    "notas": "Leitura incerta no OCR (Fusūs, 4, → Fusus, -i); homonímia com fūsus 'spindle' e part. de fundo exige verificação\n[ocr_pipeline 2025-08-16T23:12:47.395623Z] lemma_in='Fusus' → 'fūsus' | motivo: match direto em LS por lemma/lemma_norm | [ocr_fix 2025-08-17T01:08:27Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='fūsus' → 'fūsus' | [dedupe] redirect → chunk_11622:11622:0 | [dedupe] redirect → chunk_11622:11622:0",
-    "raw_text": "{\"id\":\"chunk_11614:11614:0\",\"lemas\":[\"Fusus\"],\"lema_canonico\":\"Fusus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"nome próprio masculino atestado como artista/gramático citado em Horácio (atribuído no OCR)\",\"aliases\":[],\"exemplos\":[\"Hor. Sat. 1, 6, 71\"],\"notas\":\"Leitura incerta no OCR (Fusūs, 4, → Fusus, -i); homonímia com fūsus 'spindle' e part. de fundo exige verificação\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_11614:11614:0\",\"lemas\":[\"Fusus\"],\"lema_canonico\":\"Fusus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"nome próprio masculino atestado como artista/gramático citado em Horácio (atribuído no OCR)\",\"aliases\":[],\"exemplos\":[\"Hor. Sat. 1, 6, 71\"],\"notas\":\"Leitura incerta no OCR (Fusūs, 4, → Fusus, -i); homonímia com fūsus 'spindle' e part. de fundo exige verificação\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
     "id": "chunk_11615-e1",
@@ -614,72 +570,6 @@
     "notas": "Substantivo confirmado; relacionado ao adjetivo futilis.",
     "raw_text": "{\"id\":\"chunk_11625:11625:0\",\"lemas\":[\"futilitas\"],\"lema_canonico\":\"futilitas\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"futilitas: futilidade, vaidade, inutilidade.\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 2, 70\"],\"notas\":\"Substantivo confirmado; relacionado ao adjetivo futilis.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_11625:11625:0\",\"lemas\":[\"futilitas\"],\"lema_canonico\":\"futilitas\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"futilitas: futilidade, vaidade, inutilidade.\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 2, 70\"],\"notas\":\"Substantivo confirmado; relacionado ao adjetivo futilis.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_11625-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_11625",
-    "page_num": 11625,
-    "lemmas": [
-      "futilis",
-      "futilis"
-    ],
-    "morfologia": "adj. (3) 2T",
-    "morph_render": "adj. (3) 2T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "futilis: vãos, inútil, sem valor.",
-    "exemplos": [],
-    "notas": "Adjetivo confirmado e compatível com a entrada derivada futilitas. | [dedupe] redirect → chunk_11624:11624:0 | [dedupe] redirect → chunk_11624:11624:0",
-    "raw_text": "{\"id\":\"chunk_11625:11625:1\",\"lemas\":[\"futilis\"],\"lema_canonico\":\"futilis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"futilis: vãos, inútil, sem valor.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Adjetivo confirmado e compatível com a entrada derivada futilitas.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_11625:11625:1\",\"lemas\":[\"futilis\"],\"lema_canonico\":\"futilis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"futilis: vãos, inútil, sem valor.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Adjetivo confirmado e compatível com a entrada derivada futilitas.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_11626-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_11626",
-    "page_num": 11626,
-    "lemmas": [
-      "futilis",
-      "futilis"
-    ],
-    "morfologia": "adj. (3) 3T",
-    "morph_render": "adj. (3) 3T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "vão, frívolo, inútil; sem valor",
-    "exemplos": [],
-    "notas": "Entrada alinhada com Whitaker e Lat→Deu; remissiva em LS para fūtĭle. | [dedupe] redirect → chunk_11624:11624:0 | [dedupe] redirect → chunk_11624:11624:0",
-    "raw_text": "{\"id\":\"chunk_11626:11626:0\",\"lemas\":[\"futilis\",\"futile\"],\"lema_canonico\":\"futilis\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"vão, frívolo, inútil; sem valor\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada alinhada com Whitaker e Lat→Deu; remissiva em LS para fūtĭle.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_11626:11626:0\",\"lemas\":[\"futilis\",\"futile\"],\"lema_canonico\":\"futilis\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"vão, frívolo, inútil; sem valor\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada alinhada com Whitaker e Lat→Deu; remissiva em LS para fūtĭle.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_11626-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_11626",
-    "page_num": 11626,
-    "lemmas": [
-      "futilitas",
-      "futilitas"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "vaidade; frivolidade; inutilidade; qualidade de ser fútil.",
-    "exemplos": [],
-    "notas": "Normalizada a declinação (futilitas, -atis); confirmado por LS/Whitaker/Lat→Deu. | [dedupe] redirect → chunk_11625:11625:0 | [dedupe] redirect → chunk_11625:11625:0",
-    "raw_text": "{\"id\":\"chunk_11626:11626:1\",\"lemas\":[\"futilitas\"],\"lema_canonico\":\"futilitas\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"vaidade; frivolidade; inutilidade; qualidade de ser fútil.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizada a declinação (futilitas, -atis); confirmado por LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_11626:11626:1\",\"lemas\":[\"futilitas\"],\"lema_canonico\":\"futilitas\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"vaidade; frivolidade; inutilidade; qualidade de ser fútil.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizada a declinação (futilitas, -atis); confirmado por LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_11627-e1",
@@ -1188,50 +1078,6 @@
     "raw_json": "{\"id\":\"chunk_11648:11648:0\",\"lemas\":[\"Gaditani\",\"Gādītānī\"],\"lema_canonico\":\"Gaditanus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Os gaditanos; habitantes de Gades (pl.).\",\"aliases\":[],\"exemplos\":[\"Cic. Balb. 39\"],\"notas\":\"Entrada plural derivada do adj. gentilício Gādītānus; LS registra Gādītānī, -ōrum.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_11649-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_11649",
-    "page_num": 11649,
-    "lemmas": [
-      "Gaditanus",
-      "Gaditanus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Relativo a Gades.",
-    "exemplos": [],
-    "notas": "Forma atestada em Lewis & Short; coincide com Whitaker. | [dedupe] redirect → chunk_11644:11644:0 | [dedupe] redirect → chunk_11644:11644:0",
-    "raw_text": "{\"id\":\"chunk_11649:11649:0\",\"lemas\":[\"Gaditanus\",\"Gadĭtānus\"],\"lema_canonico\":\"Gaditanus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo a Gades.\",\"aliases\":[],\"exemplos\":[\"Cic. Balb. 42\"],\"notas\":\"Forma atestada em Lewis & Short; coincide com Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_11649:11649:0\",\"lemas\":[\"Gaditanus\",\"Gadĭtānus\"],\"lema_canonico\":\"Gaditanus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo a Gades.\",\"aliases\":[],\"exemplos\":[\"Cic. Balb. 42\"],\"notas\":\"Forma atestada em Lewis & Short; coincide com Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_11650-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_11650",
-    "page_num": 11650,
-    "lemmas": [
-      "gaesum",
-      "gaesum"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "javelim/javali galês; (pl. gaesa) dardos ou javalis usados pelos povos galos",
-    "exemplos": [],
-    "notas": "Whitaker e Lat→Deu atestam gaesum (neut.); plural gaesa aparece na literatura. | [dedupe] redirect → chunk_11651:11651:0 | [dedupe] redirect → chunk_11651:11651:0",
-    "raw_text": "{\"id\":\"chunk_11650:11650:0\",\"lemas\":[\"gaesum\",\"gaesa\"],\"lema_canonico\":\"gaesum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"javelim/javali galês; (pl. gaesa) dardos ou javalis usados pelos povos galos\",\"aliases\":[],\"exemplos\":[\"Cæs. B. Gal. 3, 4, 1\",\"T. Liv. 26, 6, 5\"],\"notas\":\"Whitaker e Lat→Deu atestam gaesum (neut.); plural gaesa aparece na literatura.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_11650:11650:0\",\"lemas\":[\"gaesum\",\"gaesa\"],\"lema_canonico\":\"gaesum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"javelim/javali galês; (pl. gaesa) dardos ou javalis usados pelos povos galos\",\"aliases\":[],\"exemplos\":[\"Cæs. B. Gal. 3, 4, 1\",\"T. Liv. 26, 6, 5\"],\"notas\":\"Whitaker e Lat→Deu atestam gaesum (neut.); plural gaesa aparece na literatura.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_11651-e1",
     "volume_id": "faria",
     "doc_name": "chunk_11651",
@@ -1584,28 +1430,6 @@
     "raw_json": "{\"id\":\"chunk_11664:11664:0\",\"lemas\":[\"Galba\"],\"lema_canonico\":\"Galba\",\"morfologia\":\"s. masc. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"sobrenome (gens Sulpicia); nome próprio notável (p. ex. o imperador Galba, 69 AD)\",\"aliases\":[],\"exemplos\":[\"Suet. Galb.\",\"Caes. B. G. 2, 4, 7\",\"Juv. 8, 5\"],\"notas\":\"Entrada de antropónimo separada e normalizada; inclusas ocorrências onomásticas atestadas no LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_11665-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_11665",
-    "page_num": 11665,
-    "lemmas": [
-      "galba",
-      "galba"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "galba: larva do eschenspinner/larva do bicho-do-freixo; nux: noz. A entrada aparece como referência a caryus (Plin. H. Nat. 15, 90).",
-    "exemplos": [],
-    "notas": "Entrada original concatenava dois lemas; mantida referência a Plínio. Morfologia combina lemas distintos (ver flags). | [dedupe] redirect → chunk_11663:11663:0 | [dedupe] redirect → chunk_11663:11663:0",
-    "raw_text": "{\"id\":\"chunk_11665:11665:0\",\"lemas\":[\"galba\",\"nux\"],\"lema_canonico\":\"galba\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"galba: larva do eschenspinner/larva do bicho-do-freixo; nux: noz. A entrada aparece como referência a caryus (Plin. H. Nat. 15, 90).\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 15, 90\"],\"notas\":\"Entrada original concatenava dois lemas; mantida referência a Plínio. Morfologia combina lemas distintos (ver flags).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_11665:11665:0\",\"lemas\":[\"galba\",\"nux\"],\"lema_canonico\":\"galba\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"galba: larva do eschenspinner/larva do bicho-do-freixo; nux: noz. A entrada aparece como referência a caryus (Plin. H. Nat. 15, 90).\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 15, 90\"],\"notas\":\"Entrada original concatenava dois lemas; mantida referência a Plínio. Morfologia combina lemas distintos (ver flags).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"morph_out_of_vocab\"]}"
-  },
-  {
     "id": "chunk_11666-e1",
     "volume_id": "faria",
     "doc_name": "chunk_11666",
@@ -1648,28 +1472,6 @@
     "notas": "Grafias e variantes conforme LS e Whitaker; mantidas referências clássicas. | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='galbanum' → 'galbănum'",
     "raw_text": "{\"id\":\"chunk_11667:11667:0\",\"lemas\":[\"galbanum\",\"galbănum\",\"chalbane\"],\"lema_canonico\":\"galbanum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"resina gomosa (galbano) extraída de plantas umbelíferas da Síria/Pérsia (espécies de Ferula).\",\"aliases\":[\"galbănus\",\"chalbăne\"],\"exemplos\":[\"Plin. Nat. 12, 25, 56, § 121\",\"Plin. 24, 5, 13, § 21\",\"Suet. Galb. 3\",\"Luc. 9, 916\"],\"notas\":\"Grafias e variantes conforme LS e Whitaker; mantidas referências clássicas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_11667:11667:0\",\"lemas\":[\"galbanum\",\"galbănum\",\"chalbane\"],\"lema_canonico\":\"galbanum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"resina gomosa (galbano) extraída de plantas umbelíferas da Síria/Pérsia (espécies de Ferula).\",\"aliases\":[\"galbănus\",\"chalbăne\"],\"exemplos\":[\"Plin. Nat. 12, 25, 56, § 121\",\"Plin. 24, 5, 13, § 21\",\"Suet. Galb. 3\",\"Luc. 9, 916\"],\"notas\":\"Grafias e variantes conforme LS e Whitaker; mantidas referências clássicas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_11667-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_11667",
-    "page_num": 11667,
-    "lemmas": [
-      "galbeus",
-      "galbeus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "(subst.) galbeus: filactério/tiara ou faixa (arm-band) usada por fins ornamentais ou medicinais (atestado em léxicos menores); (adj.) relativo a tal faixa.",
-    "exemplos": [],
-    "notas": "Entrada no excerto sem definição; sentido e forma atestados por Whitaker; carece confirmação adicional. | [dedupe] redirect → chunk_11668:11668:0 | [dedupe] redirect → chunk_11668:11668:0",
-    "raw_text": "{\"id\":\"chunk_11667:11667:1\",\"lemas\":[\"galbeus\"],\"lema_canonico\":\"galbeus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"(subst.) galbeus: filactério/tiara ou faixa (arm-band) usada por fins ornamentais ou medicinais (atestado em léxicos menores); (adj.) relativo a tal faixa.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada no excerto sem definição; sentido e forma atestados por Whitaker; carece confirmação adicional.\",\"flags\":[\"src_whitaker\",\"conf:med\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_11667:11667:1\",\"lemas\":[\"galbeus\"],\"lema_canonico\":\"galbeus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"(subst.) galbeus: filactério/tiara ou faixa (arm-band) usada por fins ornamentais ou medicinais (atestado em léxicos menores); (adj.) relativo a tal faixa.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada no excerto sem definição; sentido e forma atestados por Whitaker; carece confirmação adicional.\",\"flags\":[\"src_whitaker\",\"conf:med\",\"needs_review\"]}"
   },
   {
     "id": "chunk_11668-e1",
@@ -1846,28 +1648,6 @@
     "notas": "Forma do 1.º conjug.; transitivo.",
     "raw_text": "{\"id\":\"chunk_11675:11675:0\",\"lemas\":[\"galeo\"],\"lema_canonico\":\"galeo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"Cobrir com um elmo; colocar o elmo em (alguém).\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 1, 100\"],\"notas\":\"Forma do 1.º conjug.; transitivo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_11675:11675:0\",\"lemas\":[\"galeo\"],\"lema_canonico\":\"galeo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"Cobrir com um elmo; colocar o elmo em (alguém).\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 1, 100\"],\"notas\":\"Forma do 1.º conjug.; transitivo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_11676-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_11676",
-    "page_num": 11676,
-    "lemmas": [
-      "Gălătae",
-      "Gălătae"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "the Galatians, a Celtic people who migrated into Phrygia (Galatia)",
-    "exemplos": [],
-    "notas": "LS entry indicates Galatae = Galatians; first_pass's 'Galeotas' (Sicilian seers) likely OCR error | [dedupe] redirect → chunk_11660:11660:0 | [dedupe] redirect → chunk_11660:11660:0 | [ocr_fix 2025-08-17T19:48:29Z] match direto em LS por lemma/lemma_norm | lemma_in='Galatae' → 'Gălătae'",
-    "raw_text": "{\"id\":\"chunk_11676:11676:0\",\"lemas\":[\"Galatae\"],\"lema_canonico\":\"Galatae\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"the Galatians, a Celtic people who migrated into Phrygia (Galatia)\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 6, 5, 3\"],\"notas\":\"LS entry indicates Galatae = Galatians; first_pass's 'Galeotas' (Sicilian seers) likely OCR error\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_11676:11676:0\",\"lemas\":[\"Galatae\"],\"lema_canonico\":\"Galatae\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"the Galatians, a Celtic people who migrated into Phrygia (Galatia)\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 6, 5, 3\"],\"notas\":\"LS entry indicates Galatae = Galatians; first_pass's 'Galeotas' (Sicilian seers) likely OCR error\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\",\"morph_out_of_vocab\"]}"
   },
   {
     "id": "chunk_11677-e1",
@@ -2112,28 +1892,6 @@
     "raw_json": "{\"id\":\"chunk_11686:11686:0\",\"lemas\":[\"galla\"],\"lema_canonico\":\"galla\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"(1) an oak-apple or gall-nut; (2) a Gaulish woman; (3) a priestess/attendant of Cybele (see Gallus/Galla).\",\"aliases\":[],\"exemplos\":[\"Plin. 16, 6, 9\",\"Col. 6, 7, 2\"],\"notas\":\"Múltiplos sentidos atestados em Lewis & Short; entrada normalizada para galla.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_11687-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_11687",
-    "page_num": 11687,
-    "lemmas": [
-      "galla",
-      "Galla"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "(pl. Gallae) sacerdotisa de Cibele; as Gallae, as sacerdotisas frenéticas de Cibele.",
-    "exemplos": [],
-    "notas": "Normalizado a forma singular lema; plural Gallae mantido na definição. | [dedupe] redirect → chunk_11686:11686:0 | [dedupe] redirect → chunk_11686:11686:0 | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='Galla' → 'galla'",
-    "raw_text": "{\"id\":\"chunk_11687:11687:1\",\"lemas\":[\"Galla\"],\"lema_canonico\":\"Galla\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"(pl. Gallae) sacerdotisa de Cibele; as Gallae, as sacerdotisas frenéticas de Cibele.\",\"aliases\":[],\"exemplos\":[\"Catull. 63, 12\"],\"notas\":\"Normalizado a forma singular lema; plural Gallae mantido na definição.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_11687:11687:1\",\"lemas\":[\"Galla\"],\"lema_canonico\":\"Galla\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"(pl. Gallae) sacerdotisa de Cibele; as Gallae, as sacerdotisas frenéticas de Cibele.\",\"aliases\":[],\"exemplos\":[\"Catull. 63, 12\"],\"notas\":\"Normalizado a forma singular lema; plural Gallae mantido na definição.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_11687-e2",
     "volume_id": "faria",
     "doc_name": "chunk_11687",
@@ -2176,28 +1934,6 @@
     "notas": "Normalized to standard place-name Gallaecia; variant Galécia recorded",
     "raw_text": "{\"id\":\"chunk_11688:11688:0\",\"lemas\":[\"Gallaecia\"],\"lema_canonico\":\"Gallaecia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"province in the northwest of Hispania (modern Galicia)\",\"aliases\":[\"Galécia\"],\"exemplos\":[\"Plin. H. Nat. 4, 112\"],\"notas\":\"Normalized to standard place-name Gallaecia; variant Galécia recorded\",\"flags\":[\"src_ls\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_11688:11688:0\",\"lemas\":[\"Gallaecia\"],\"lema_canonico\":\"Gallaecia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"province in the northwest of Hispania (modern Galicia)\",\"aliases\":[\"Galécia\"],\"exemplos\":[\"Plin. H. Nat. 4, 112\"],\"notas\":\"Normalized to standard place-name Gallaecia; variant Galécia recorded\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_11689-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_11689",
-    "page_num": 11689,
-    "lemmas": [
-      "Gallus",
-      "Gallus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "1) Os Gauleses, povo da Gália. 2) (em contexto religioso) sacerdotes de Cibele chamados Galli.",
-    "exemplos": [],
-    "notas": "Normalizada a forma canónica 'Gallus' com variantes; correção de abreviaturas nas citações. | [dedupe] redirect → chunk_11711:11711:0 | [dedupe] redirect → chunk_11711:11711:0",
-    "raw_text": "{\"id\":\"chunk_11689:11689:0\",\"lemas\":[\"Galli\",\"Gallus\",\"Galla\"],\"lema_canonico\":\"Gallus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"1) Os Gauleses, povo da Gália. 2) (em contexto religioso) sacerdotes de Cibele chamados Galli.\",\"aliases\":[],\"exemplos\":[\"Cés. B. G. 1, 1, 1\",\"Ov. F. 4, 361\"],\"notas\":\"Normalizada a forma canónica 'Gallus' com variantes; correção de abreviaturas nas citações.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_11689:11689:0\",\"lemas\":[\"Galli\",\"Gallus\",\"Galla\"],\"lema_canonico\":\"Gallus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"1) Os Gauleses, povo da Gália. 2) (em contexto religioso) sacerdotes de Cibele chamados Galli.\",\"aliases\":[],\"exemplos\":[\"Cés. B. G. 1, 1, 1\",\"Ov. F. 4, 361\"],\"notas\":\"Normalizada a forma canónica 'Gallus' com variantes; correção de abreviaturas nas citações.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_11690-e1",
@@ -2264,28 +2000,6 @@
     "notas": "Spelling normalized from OCR 'gallēus' → 'galleus'; distinct from gallus (rooster)",
     "raw_text": "{\"id\":\"chunk_11692:11692:0\",\"lemas\":[\"galleus\"],\"lema_canonico\":\"galleus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relating to the Gauls; also a kind of Gallic shoe/boot (Cic.)\",\"aliases\":[\"gallēus\"],\"exemplos\":[\"Cic. Phil. 2, 76\"],\"notas\":\"Spelling normalized from OCR 'gallēus' → 'galleus'; distinct from gallus (rooster)\",\"flags\":[\"src_whitaker\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_11692:11692:0\",\"lemas\":[\"galleus\"],\"lema_canonico\":\"galleus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relating to the Gauls; also a kind of Gallic shoe/boot (Cic.)\",\"aliases\":[\"gallēus\"],\"exemplos\":[\"Cic. Phil. 2, 76\"],\"notas\":\"Spelling normalized from OCR 'gallēus' → 'galleus'; distinct from gallus (rooster)\",\"flags\":[\"src_whitaker\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_11693-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_11693",
-    "page_num": 11693,
-    "lemmas": [
-      "Gallicus",
-      "Gallicus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Relativo à Gália; gaulês.",
-    "exemplos": [],
-    "notas": "Normalizado de 'Gallicāus' (OCR) para a forma atestada 'Gallicus'; incluída variante 'Gallicanus' como forma derivada. | [dedupe] redirect → chunk_11695:11695:0 | [dedupe] redirect → chunk_11695:11695:0",
-    "raw_text": "{\"id\":\"chunk_11693:11693:0\",\"lemas\":[\"Gallicus\",\"Gallicanus\"],\"lema_canonico\":\"Gallicus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo à Gália; gaulês.\",\"aliases\":[],\"exemplos\":[\"Cic. Cat. 2, 5\",\"Cic. Pis. frag. 10\"],\"notas\":\"Normalizado de 'Gallicāus' (OCR) para a forma atestada 'Gallicus'; incluída variante 'Gallicanus' como forma derivada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_11693:11693:0\",\"lemas\":[\"Gallicus\",\"Gallicanus\"],\"lema_canonico\":\"Gallicus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo à Gália; gaulês.\",\"aliases\":[],\"exemplos\":[\"Cic. Cat. 2, 5\",\"Cic. Pis. frag. 10\"],\"notas\":\"Normalizado de 'Gallicāus' (OCR) para a forma atestada 'Gallicus'; incluída variante 'Gallicanus' como forma derivada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_11694-e1",
@@ -2396,28 +2110,6 @@
     "notas": "Entry paralela ao outro 'gallīna' — unificadas acepções (próprio, figurado, topónimo).",
     "raw_text": "{\"id\":\"chunk_11697:11697:0\",\"lemas\":[\"gallīna\",\"gallina\"],\"lema_canonico\":\"gallīna\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"1) galinha (sentido próprio). 2) (fig.) expressão proverbial e de afecto; 3) topónimo/uso transferido (Ad Gallinas).\",\"aliases\":[],\"exemplos\":[\"Cic. C. M. 56\",\"Juv. 13, 44\",\"Plaut. As. 666\",\"Suet. Galb. 1\"],\"notas\":\"Entry paralela ao outro 'gallīna' — unificadas acepções (próprio, figurado, topónimo).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_11697:11697:0\",\"lemas\":[\"gallīna\",\"gallina\"],\"lema_canonico\":\"gallīna\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"1) galinha (sentido próprio). 2) (fig.) expressão proverbial e de afecto; 3) topónimo/uso transferido (Ad Gallinas).\",\"aliases\":[],\"exemplos\":[\"Cic. C. M. 56\",\"Juv. 13, 44\",\"Plaut. As. 666\",\"Suet. Galb. 1\"],\"notas\":\"Entry paralela ao outro 'gallīna' — unificadas acepções (próprio, figurado, topónimo).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_11698-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_11698",
-    "page_num": 11698,
-    "lemmas": [
-      "gallīna",
-      "gallīna"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "1) galinha; 2) (fig.) termo de carinho; 3) como nome próprio: Gallīna, nome de gladiador.",
-    "exemplos": [],
-    "notas": "Inclui tanto uso comum quanto atestado como nome próprio (Horácio). | [dedupe] redirect → chunk_11697:11697:0 | [dedupe] redirect → chunk_11697:11697:0",
-    "raw_text": "{\"id\":\"chunk_11698:11698:0\",\"lemas\":[\"gallīna\",\"Gallīna\"],\"lema_canonico\":\"gallīna\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"1) galinha; 2) (fig.) termo de carinho; 3) como nome próprio: Gallīna, nome de gladiador.\",\"aliases\":[],\"exemplos\":[\"Hor. Sat. 2, 6, 44\",\"Plaut. Ps. 1, 1, 27–28\",\"Cic. de Sen. 16, 56\",\"Juv. 13, 141\"],\"notas\":\"Inclui tanto uso comum quanto atestado como nome próprio (Horácio).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_11698:11698:0\",\"lemas\":[\"gallīna\",\"Gallīna\"],\"lema_canonico\":\"gallīna\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"1) galinha; 2) (fig.) termo de carinho; 3) como nome próprio: Gallīna, nome de gladiador.\",\"aliases\":[],\"exemplos\":[\"Hor. Sat. 2, 6, 44\",\"Plaut. Ps. 1, 1, 27–28\",\"Cic. de Sen. 16, 56\",\"Juv. 13, 141\"],\"notas\":\"Inclui tanto uso comum quanto atestado como nome próprio (Horácio).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_11699-e1",
@@ -2662,28 +2354,6 @@
     "raw_json": "{\"id\":\"chunk_11708:11708:0\",\"lemas\":[\"Gallionius\"],\"lema_canonico\":\"Gallionius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Galião, nome de família romana; em especial: P. Gallionius, epicurista célebre (Cic. Fin. 2, 24).\",\"aliases\":[],\"exemplos\":[\"Cic. Fin. 2, 24\"],\"notas\":\"Mantido da primeira passada; forma não confirmada em fontes eletrônicas consultáveis aqui.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_11709-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_11709",
-    "page_num": 11709,
-    "lemmas": [
-      "Gallus",
-      "Gallus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Gallic; of Gaul or the Gauls",
-    "exemplos": [],
-    "notas": "Forma confirmada como adjetivo (1/2) em Whitaker; Lewis & Short registra outras entradas homônimas (rooster, gentil. name). Chave: sentido ‘Gallic’. | [dedupe] redirect → chunk_11687:11687:0 | [dedupe] redirect → chunk_11687:11687:0",
-    "raw_text": "{\"id\":\"chunk_11709:11709:0\",\"lemas\":[\"Gallus\"],\"lema_canonico\":\"Gallus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Gallic; of Gaul or the Gauls\",\"aliases\":[],\"exemplos\":[\"Marc. 5, 1, 10\"],\"notas\":\"Forma confirmada como adjetivo (1/2) em Whitaker; Lewis & Short registra outras entradas homônimas (rooster, gentil. name). Chave: sentido ‘Gallic’.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_11709:11709:0\",\"lemas\":[\"Gallus\"],\"lema_canonico\":\"Gallus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Gallic; of Gaul or the Gauls\",\"aliases\":[],\"exemplos\":[\"Marc. 5, 1, 10\"],\"notas\":\"Forma confirmada como adjetivo (1/2) em Whitaker; Lewis & Short registra outras entradas homônimas (rooster, gentil. name). Chave: sentido ‘Gallic’.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_11710-e1",
     "volume_id": "faria",
     "doc_name": "chunk_11710",
@@ -2726,50 +2396,6 @@
     "notas": "Sentidos unificados e verificações feitas com Lewis & Short e Whitaker; morfologia padronizada.",
     "raw_text": "{\"id\":\"chunk_11711:11711:0\",\"lemas\":[\"Gallus\"],\"lema_canonico\":\"Gallus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"1) Habitante da Gália (um gaulês). 2) Sobrenome romano (ex.: C. Cornelius Gallus). 3) Nome de rio na Ásia Menor; também designa, em contexto, sacerdotes gállicos (Galli).\",\"aliases\":[],\"exemplos\":[\"Cæs. B. Gal. 3, 18, 2\",\"Verg. Ecl. 10, 4\",\"Ov. Am. 3, 9, 64\",\"Plin. H. Nat. 5, 32\"],\"notas\":\"Sentidos unificados e verificações feitas com Lewis & Short e Whitaker; morfologia padronizada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_11711:11711:0\",\"lemas\":[\"Gallus\"],\"lema_canonico\":\"Gallus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"1) Habitante da Gália (um gaulês). 2) Sobrenome romano (ex.: C. Cornelius Gallus). 3) Nome de rio na Ásia Menor; também designa, em contexto, sacerdotes gállicos (Galli).\",\"aliases\":[],\"exemplos\":[\"Cæs. B. Gal. 3, 18, 2\",\"Verg. Ecl. 10, 4\",\"Ov. Am. 3, 9, 64\",\"Plin. H. Nat. 5, 32\"],\"notas\":\"Sentidos unificados e verificações feitas com Lewis & Short e Whitaker; morfologia padronizada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_11711-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_11711",
-    "page_num": 11711,
-    "lemmas": [
-      "gallus",
-      "gallus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Galo, cock; frequentemente usado proverbialmente (ex.: gallus in sterquilinio suo).",
-    "exemplos": [],
-    "notas": "Entrada confirmada por Lewis & Short e Whitaker; mantidas citações relevantes. | [dedupe] redirect → chunk_11710:11710:0 | [dedupe] redirect → chunk_11710:11710:0",
-    "raw_text": "{\"id\":\"chunk_11711:11711:1\",\"lemas\":[\"gallus\"],\"lema_canonico\":\"gallus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Galo, cock; frequentemente usado proverbialmente (ex.: gallus in sterquilinio suo).\",\"aliases\":[],\"exemplos\":[\"Varr. R. R. 2, 10, 4\",\"Cic. Div. 2, 26, 56\",\"Juv. 13, 233\",\"Hor. S. 1, 1, 10\",\"Mart. 9, 69, 3\",\"Plin. 10, 21, 25, § 50\"],\"notas\":\"Entrada confirmada por Lewis & Short e Whitaker; mantidas citações relevantes.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_11711:11711:1\",\"lemas\":[\"gallus\"],\"lema_canonico\":\"gallus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Galo, cock; frequentemente usado proverbialmente (ex.: gallus in sterquilinio suo).\",\"aliases\":[],\"exemplos\":[\"Varr. R. R. 2, 10, 4\",\"Cic. Div. 2, 26, 56\",\"Juv. 13, 233\",\"Hor. S. 1, 1, 10\",\"Mart. 9, 69, 3\",\"Plin. 10, 21, 25, § 50\"],\"notas\":\"Entrada confirmada por Lewis & Short e Whitaker; mantidas citações relevantes.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_11711-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_11711",
-    "page_num": 11711,
-    "lemmas": [
-      "Gallicus",
-      "Gallicus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Adjetivo relativo à Gália; 'gálico', 'dos gauleses'.",
-    "exemplos": [],
-    "notas": "Forma adjetival atestada (Lewis & Short, Whitaker); variantes ortográficas incluídas. | [dedupe] redirect → chunk_11695:11695:0 | [dedupe] redirect → chunk_11695:11695:0",
-    "raw_text": "{\"id\":\"chunk_11711:11711:2\",\"lemas\":[\"Gallicus\",\"Gallĭcus\"],\"lema_canonico\":\"Gallicus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Adjetivo relativo à Gália; 'gálico', 'dos gauleses'.\",\"aliases\":[],\"exemplos\":[\"Prop. 2, 13, 48\",\"Ov. Am. 2, 13, 18\"],\"notas\":\"Forma adjetival atestada (Lewis & Short, Whitaker); variantes ortográficas incluídas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_11711:11711:2\",\"lemas\":[\"Gallicus\",\"Gallĭcus\"],\"lema_canonico\":\"Gallicus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Adjetivo relativo à Gália; 'gálico', 'dos gauleses'.\",\"aliases\":[],\"exemplos\":[\"Prop. 2, 13, 48\",\"Ov. Am. 2, 13, 18\"],\"notas\":\"Forma adjetival atestada (Lewis & Short, Whitaker); variantes ortográficas incluídas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_11712-e1",
@@ -3608,28 +3234,6 @@
     "raw_json": "{\"id\":\"chunk_11749:11749:0\",\"lemas\":[\"gaudium\"],\"lema_canonico\":\"gaudium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"alegria, júbilo, deleite; alegria interior (em contraste com laetitia que se exterioriza); também prazer sensorial ou causa de alegria.\",\"aliases\":[],\"exemplos\":[\"Petr. 61, 3\"],\"notas\":\"Entrada confirmada e sintetizada a partir de Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_11750-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_11750",
-    "page_num": 11750,
-    "lemmas": [
-      "gaudium",
-      "gaudium"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "alegria, satisfação, prazer, regozijo; em uso clássico também prazer dos sentidos; sentido figurado: prazer, gozo.",
-    "exemplos": [],
-    "notas": "Duplicata reconciliada com a outra entrada de 'gaudium'; morfologia ajustada para o padrão vocabular exigido. | [dedupe] redirect → chunk_11749:11749:0 | [dedupe] redirect → chunk_11749:11749:0",
-    "raw_text": "{\"id\":\"chunk_11750:11750:0\",\"lemas\":[\"gaudium\"],\"lema_canonico\":\"gaudium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"alegria, satisfação, prazer, regozijo; em uso clássico também prazer dos sentidos; sentido figurado: prazer, gozo.\",\"aliases\":[],\"exemplos\":[\"Cic. Fin. 5, 59\",\"Sall. Jug. 2, 4\",\"Plin. Nat. 16, 95\"],\"notas\":\"Duplicata reconciliada com a outra entrada de 'gaudium'; morfologia ajustada para o padrão vocabular exigido.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_11750:11750:0\",\"lemas\":[\"gaudium\"],\"lema_canonico\":\"gaudium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"alegria, satisfação, prazer, regozijo; em uso clássico também prazer dos sentidos; sentido figurado: prazer, gozo.\",\"aliases\":[],\"exemplos\":[\"Cic. Fin. 5, 59\",\"Sall. Jug. 2, 4\",\"Plin. Nat. 16, 95\"],\"notas\":\"Duplicata reconciliada com a outra entrada de 'gaudium'; morfologia ajustada para o padrão vocabular exigido.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_11751-e1",
     "volume_id": "faria",
     "doc_name": "chunk_11751",
@@ -3718,28 +3322,6 @@
     "raw_json": "{\"id\":\"chunk_11754:11754:0\",\"lemas\":[\"gausapa\",\"gausape\",\"gausapes\"],\"lema_canonico\":\"gausapa\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Tecido de frieze/felt, espesso e com pêlo; usado para vestuário e coberturas; figuradamente, cabelheira ou barba espessa.\",\"aliases\":[],\"exemplos\":[\"Petr. 23\",\"Pers. 4, 37\",\"Plin. 8, 48, 73\",\"Ov. A. A. 2, 300\",\"Hor. S. 2, 8, 11\"],\"notas\":\"Formas variantes atestadas (gausape, gausapes) incluídas; sentido e exemplos verificados em LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_11755-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_11755",
-    "page_num": 11755,
-    "lemmas": [
-      "gausapa",
-      "gausapa"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "tecido de frieze (pano de lã feltrada, áspero); manta ou vestuário feito desse tecido; em autores, formas variantes (gausape, gausapes).",
-    "exemplos": [],
-    "notas": "Forma base tomada como feminino 1ª declinação; variantes gráficas atestadas registradas em lemas/exemplos. | [dedupe] redirect → chunk_11754:11754:0 | [dedupe] redirect → chunk_11754:11754:0",
-    "raw_text": "{\"id\":\"chunk_11755:11755:0\",\"lemas\":[\"gausapa\",\"gausăpa\"],\"lema_canonico\":\"gausapa\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"tecido de frieze (pano de lã feltrada, áspero); manta ou vestuário feito desse tecido; em autores, formas variantes (gausape, gausapes).\",\"aliases\":[],\"exemplos\":[\"Varro ap. Charis. p. 80 P.\",\"Hor. S. 2, 8, 11 (gausape)\",\"Mart. 14, 152\",\"Plin. H. Nat. 8, 48\"],\"notas\":\"Forma base tomada como feminino 1ª declinação; variantes gráficas atestadas registradas em lemas/exemplos.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_11755:11755:0\",\"lemas\":[\"gausapa\",\"gausăpa\"],\"lema_canonico\":\"gausapa\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"tecido de frieze (pano de lã feltrada, áspero); manta ou vestuário feito desse tecido; em autores, formas variantes (gausape, gausapes).\",\"aliases\":[],\"exemplos\":[\"Varro ap. Charis. p. 80 P.\",\"Hor. S. 2, 8, 11 (gausape)\",\"Mart. 14, 152\",\"Plin. H. Nat. 8, 48\"],\"notas\":\"Forma base tomada como feminino 1ª declinação; variantes gráficas atestadas registradas em lemas/exemplos.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_11755-e2",
     "volume_id": "faria",
     "doc_name": "chunk_11755",
@@ -3782,50 +3364,6 @@
     "notas": "Entrada registra a forma variante frequentemente encontrada nos autores; relacionada a gausapa.",
     "raw_text": "{\"id\":\"chunk_11755:11755:2\",\"lemas\":[\"gausape\",\"gausăpe\"],\"lema_canonico\":\"gausape\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"variante de caso/grafia de gausapa (forma atestada em vários autores, usada como nominativo/accusativo/ablativo conforme tradição textual).\",\"aliases\":[\"gausapa\"],\"exemplos\":[\"Hor. S. 2, 8, 11 (gausape)\",\"Lucil. ap. Prisc. p. 870 (purpureo tersit tunc latas gausape mensas)\",\"Prisc. p. 759 P.\"],\"notas\":\"Entrada registra a forma variante frequentemente encontrada nos autores; relacionada a gausapa.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_11755:11755:2\",\"lemas\":[\"gausape\",\"gausăpe\"],\"lema_canonico\":\"gausape\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"variante de caso/grafia de gausapa (forma atestada em vários autores, usada como nominativo/accusativo/ablativo conforme tradição textual).\",\"aliases\":[\"gausapa\"],\"exemplos\":[\"Hor. S. 2, 8, 11 (gausape)\",\"Lucil. ap. Prisc. p. 870 (purpureo tersit tunc latas gausape mensas)\",\"Prisc. p. 759 P.\"],\"notas\":\"Entrada registra a forma variante frequentemente encontrada nos autores; relacionada a gausapa.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_11755-e4",
-    "volume_id": "faria",
-    "doc_name": "chunk_11755",
-    "page_num": 11755,
-    "lemmas": [
-      "gausăpe",
-      "gausăpe"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Grafia variante atestada em tradições textuais para um tecido (cf. gausapa, ‘frieze’). Evidência textual incerta; verificar fontes primárias.",
-    "exemplos": [],
-    "notas": "Entrada ambígua no OCR; forma gausapa citada em tradição. Necessita verificação em LS/Whitaker.\n[ocr_pipeline 2025-08-16T23:25:19.213293Z] lemma_in='gausape' → 'gausăpe' | motivo: match direto em LS por lemma/lemma_norm | [ocr_fix 2025-08-17T01:25:15Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='gausăpe' → 'gausăpe' | [dedupe] redirect → chunk_11755:11755:2 | [dedupe] redirect → chunk_11755:11755:2",
-    "raw_text": "{\"id\":\"chunk_11755:11755:3\",\"lemas\":[\"gausipe\",\"gausîpa\",\"gausapa\"],\"lema_canonico\":\"gausape\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Grafia variante atestada em tradições textuais para um tecido (cf. gausapa, ‘frieze’). Evidência textual incerta; verificar fontes primárias.\",\"aliases\":[],\"exemplos\":[\"Hor. Sat. 2, 8, 11\"],\"notas\":\"Entrada ambígua no OCR; forma gausapa citada em tradição. Necessita verificação em LS/Whitaker.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_11755:11755:3\",\"lemas\":[\"gausipe\",\"gausîpa\",\"gausapa\"],\"lema_canonico\":\"gausape\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Grafia variante atestada em tradições textuais para um tecido (cf. gausapa, ‘frieze’). Evidência textual incerta; verificar fontes primárias.\",\"aliases\":[],\"exemplos\":[\"Hor. Sat. 2, 8, 11\"],\"notas\":\"Entrada ambígua no OCR; forma gausapa citada em tradição. Necessita verificação em LS/Whitaker.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_11756-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_11756",
-    "page_num": 11756,
-    "lemmas": [
-      "gausăpe",
-      "gausăpe"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Forma variante possivelmente corrupta de gausapa; substantivo feminino (cit. Marc. 6, 59, 8).",
-    "exemplos": [],
-    "notas": "Entrada incerta; não encontrada em dicionários principais — mantida a forma editorial indicada pelo OCR.\n[ocr_pipeline 2025-08-16T23:25:13.877853Z] lemma_in='gausipa' → 'gausăpe' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:25:08Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='gausăpe' → 'gausăpe' | [dedupe] redirect → chunk_11755:11755:2 | [dedupe] redirect → chunk_11755:11755:2",
-    "raw_text": "{\"id\":\"chunk_11756:11756:0\",\"lemas\":[\"gausipa\",\"gausipana\"],\"lema_canonico\":\"gausipa\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Forma variante possivelmente corrupta de gausapa; substantivo feminino (cit. Marc. 6, 59, 8).\",\"aliases\":[\"gausapa\"],\"exemplos\":[\"Marc. 6, 59, 8\"],\"notas\":\"Entrada incerta; não encontrada em dicionários principais — mantida a forma editorial indicada pelo OCR.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_11756:11756:0\",\"lemas\":[\"gausipa\",\"gausipana\"],\"lema_canonico\":\"gausipa\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Forma variante possivelmente corrupta de gausapa; substantivo feminino (cit. Marc. 6, 59, 8).\",\"aliases\":[\"gausapa\"],\"exemplos\":[\"Marc. 6, 59, 8\"],\"notas\":\"Entrada incerta; não encontrada em dicionários principais — mantida a forma editorial indicada pelo OCR.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
     "id": "chunk_11757-e1",
@@ -4002,28 +3540,6 @@
     "notas": "Inclui a forma do rio e a variante Gelas; deriv. Gēlōus, Gēlenses atestadas. | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='Gela' → 'Gĕla'",
     "raw_text": "{\"id\":\"chunk_11764:11764:0\",\"lemas\":[\"Gela\",\"Gelas\"],\"lema_canonico\":\"Gela\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"cidade na costa sul da Sicília (também nome do rio Gela); citada por Vergílio e Plínio.\",\"aliases\":[\"Gelas\"],\"exemplos\":[\"Verg. A. 3, 702\",\"Plin. Nat. 31, 7\"],\"notas\":\"Inclui a forma do rio e a variante Gelas; deriv. Gēlōus, Gēlenses atestadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_11764:11764:0\",\"lemas\":[\"Gela\",\"Gelas\"],\"lema_canonico\":\"Gela\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"cidade na costa sul da Sicília (também nome do rio Gela); citada por Vergílio e Plínio.\",\"aliases\":[\"Gelas\"],\"exemplos\":[\"Verg. A. 3, 702\",\"Plin. Nat. 31, 7\"],\"notas\":\"Inclui a forma do rio e a variante Gelas; deriv. Gēlōus, Gēlenses atestadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_11765-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_11765",
-    "page_num": 11765,
-    "lemmas": [
-      "Gĕla",
-      "Gĕla"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Gelas, cidade (e rio) da Sicília.",
-    "exemplos": [],
-    "notas": "Corrigida declinação para feminina 1ª; presença apenas em primeira passagem/OCR — recomenda-se confirmação em repertórios lexicográficos.\n[ocr_pipeline 2025-08-16T23:20:12.747210Z] lemma_in='Gelas' → 'Gĕla' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:18:23Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='Gĕla' → 'Gĕla' | [dedupe] redirect → chunk_11764:11764:0 | [dedupe] redirect → chunk_11764:11764:0",
-    "raw_text": "{\"id\":\"chunk_11765:11765:0\",\"lemas\":[\"Gelas\"],\"lema_canonico\":\"Gelas\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Gelas, cidade (e rio) da Sicília.\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 3, 80\"],\"notas\":\"Corrigida declinação para feminina 1ª; presença apenas em primeira passagem/OCR — recomenda-se confirmação em repertórios lexicográficos.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_11765:11765:0\",\"lemas\":[\"Gelas\"],\"lema_canonico\":\"Gelas\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Gelas, cidade (e rio) da Sicília.\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 3, 80\"],\"notas\":\"Corrigida declinação para feminina 1ª; presença apenas em primeira passagem/OCR — recomenda-se confirmação em repertórios lexicográficos.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
     "id": "chunk_11766-e1",
@@ -4378,28 +3894,6 @@
     "raw_json": "{\"id\":\"chunk_11780:11780:1\",\"lemas\":[\"Gelonius\"],\"lema_canonico\":\"Gelonius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"adjetivo gentílico 'de Gelono, relativo a Gelono'.\",\"aliases\":[],\"exemplos\":[\"Suet. Cal. 18\"],\"notas\":\"Adjetivo registrado como Gelōnius, -a, -um em fontes; padronizada terminação.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}"
   },
   {
-    "id": "chunk_11781-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_11781",
-    "page_num": 11781,
-    "lemmas": [
-      "Gĕlōus",
-      "Gĕlōus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "relativo a Gela (cidade da Sicília); gentilício/adjetivo de Gela.",
-    "exemplos": [],
-    "notas": "Padronizado para Gelōus (LS/uso clássico). | [dedupe] redirect → chunk_11780:11780:1 | [dedupe] redirect → chunk_11780:11780:1 | [ocr_fix 2025-08-17T19:48:34Z] match direto em LS por lemma/lemma_norm | lemma_in='Gelōus' → 'Gĕlōus'",
-    "raw_text": "{\"id\":\"chunk_11781:11781:0\",\"lemas\":[\"Gelōus\",\"Gelous\",\"Gelaeus\"],\"lema_canonico\":\"Gelōus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo a Gela (cidade da Sicília); gentilício/adjetivo de Gela.\",\"aliases\":[],\"exemplos\":[\"Verg. G. 3, 701\"],\"notas\":\"Padronizado para Gelōus (LS/uso clássico).\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_11781:11781:0\",\"lemas\":[\"Gelōus\",\"Gelous\",\"Gelaeus\"],\"lema_canonico\":\"Gelōus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo a Gela (cidade da Sicília); gentilício/adjetivo de Gela.\",\"aliases\":[],\"exemplos\":[\"Verg. G. 3, 701\"],\"notas\":\"Padronizado para Gelōus (LS/uso clássico).\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_11782-e1",
     "volume_id": "faria",
     "doc_name": "chunk_11782",
@@ -4598,28 +4092,6 @@
     "raw_json": "{\"id\":\"chunk_11789:11789:1\",\"lemas\":[\"gemo\",\"gemere\"],\"lema_canonico\":\"gemo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"to groan, sigh; lament, bewail; utter a hollow sound\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Lema e definição confirmados por Lewis & Short and Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_11789-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_11789",
-    "page_num": 11789,
-    "lemmas": [
-      "nitidus",
-      "nitidus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "shining, bright, polished; neat, attractive",
-    "exemplos": [],
-    "notas": "Formas e sentido confirmados por Lewis & Short e Whitaker. | [dedupe] redirect → chunk_18115:18115:0 | [dedupe] redirect → chunk_18115:18115:0",
-    "raw_text": "{\"id\":\"chunk_11789:11789:2\",\"lemas\":[\"nitidus\",\"nitida\",\"nitidum\"],\"lema_canonico\":\"nitidus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"shining, bright, polished; neat, attractive\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Formas e sentido confirmados por Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_11789:11789:2\",\"lemas\":[\"nitidus\",\"nitida\",\"nitidum\"],\"lema_canonico\":\"nitidus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"shining, bright, polished; neat, attractive\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Formas e sentido confirmados por Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_11790-e1",
     "volume_id": "faria",
     "doc_name": "chunk_11790",
@@ -4684,28 +4156,6 @@
     "notas": "Grafia e sentidos confirmados em LS e Whitaker; reorganizado para formas canônicas.",
     "raw_text": "{\"id\":\"chunk_11792:11792:0\",\"lemas\":[\"geminus\",\"gemina\",\"geminum\"],\"lema_canonico\":\"geminus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"nascido ao mesmo tempo; gêmeo; por extensão: duplo, em número de dois; parecido, correspondente.\",\"aliases\":[],\"exemplos\":[\"Hor. O. 3, 29, 64\",\"Cic. Div. 2, 120\",\"Ov. Met. 2, 630\",\"Cic. Part. 26\",\"Cic. Phil. 1, 21\"],\"notas\":\"Grafia e sentidos confirmados em LS e Whitaker; reorganizado para formas canônicas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_11792:11792:0\",\"lemas\":[\"geminus\",\"gemina\",\"geminum\"],\"lema_canonico\":\"geminus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"nascido ao mesmo tempo; gêmeo; por extensão: duplo, em número de dois; parecido, correspondente.\",\"aliases\":[],\"exemplos\":[\"Hor. O. 3, 29, 64\",\"Cic. Div. 2, 120\",\"Ov. Met. 2, 630\",\"Cic. Part. 26\",\"Cic. Phil. 1, 21\"],\"notas\":\"Grafia e sentidos confirmados em LS e Whitaker; reorganizado para formas canônicas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_11792-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_11792",
-    "page_num": 11792,
-    "lemmas": [
-      "gemini",
-      "gemini"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "substantivo plural: gêmeos; irmãos nascidos juntos; por extensão, pares ou coisas duplas; também nome da constelação (Castor et Pollux).",
-    "exemplos": [],
-    "notas": "Entrada substantiva adicionada e confirmada com LS/Whitaker; mantida como plural lexicalizado. | [dedupe] redirect → chunk_11788:11788:0 | [dedupe] redirect → chunk_11788:11788:0",
-    "raw_text": "{\"id\":\"chunk_11792:11792:1\",\"lemas\":[\"gemini\"],\"lema_canonico\":\"gemini\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"substantivo plural: gêmeos; irmãos nascidos juntos; por extensão, pares ou coisas duplas; também nome da constelação (Castor et Pollux).\",\"aliases\":[],\"exemplos\":[\"Plaut. Mil. 3, 1, 123\",\"Cic. Acad. 2, 18, 56\",\"Plin. Nat. 18, 29, 69\",\"Ov. A. A. 1, 746\",\"Liv. 1, 4, 2\"],\"notas\":\"Entrada substantiva adicionada e confirmada com LS/Whitaker; mantida como plural lexicalizado.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_11792:11792:1\",\"lemas\":[\"gemini\"],\"lema_canonico\":\"gemini\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"substantivo plural: gêmeos; irmãos nascidos juntos; por extensão, pares ou coisas duplas; também nome da constelação (Castor et Pollux).\",\"aliases\":[],\"exemplos\":[\"Plaut. Mil. 3, 1, 123\",\"Cic. Acad. 2, 18, 56\",\"Plin. Nat. 18, 29, 69\",\"Ov. A. A. 1, 746\",\"Liv. 1, 4, 2\"],\"notas\":\"Entrada substantiva adicionada e confirmada com LS/Whitaker; mantida como plural lexicalizado.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_11793-e1",

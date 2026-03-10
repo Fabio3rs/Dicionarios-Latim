@@ -1,49 +1,5 @@
 [
   {
-    "id": "chunk_22800-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22800",
-    "page_num": 22800,
-    "lemmas": [
-      "pro",
-      "pro"
-    ],
-    "morfologia": "prep. com abl.",
-    "morph_render": "prep. com abl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "por, em favor de, diante de; em lugar de; segundo, a propósito de (preposição regendo o abl.).",
-    "exemplos": [],
-    "notas": "Corrigida classificação: não é apenas prefixo; é preposição regendo ablativo (Whitaker, LS). | [dedupe] redirect → chunk_22545:22545:0 | [dedupe] redirect → chunk_22545:22545:0",
-    "raw_text": "{\"id\":\"chunk_22800:22800:0\",\"lemas\":[\"pro\",\"prō\"],\"lema_canonico\":\"pro\",\"morfologia\":\"prep. com abl.\",\"morph_extra\":[],\"definicao\":\"por, em favor de, diante de; em lugar de; segundo, a propósito de (preposição regendo o abl.).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigida classificação: não é apenas prefixo; é preposição regendo ablativo (Whitaker, LS).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22800:22800:0\",\"lemas\":[\"pro\",\"prō\"],\"lema_canonico\":\"pro\",\"morfologia\":\"prep. com abl.\",\"morph_extra\":[],\"definicao\":\"por, em favor de, diante de; em lugar de; segundo, a propósito de (preposição regendo o abl.).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigida classificação: não é apenas prefixo; é preposição regendo ablativo (Whitaker, LS).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_22800-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_22800",
-    "page_num": 22800,
-    "lemmas": [
-      "nomen",
-      "nomen"
-    ],
-    "morfologia": "s. neut. 3ª (-is)",
-    "morph_render": "s. neut. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "nome; título, rubrica; conta/registro; causa, interesse; reputação, fama",
-    "exemplos": [],
-    "notas": "Normalizada forma e genitivo (nōmen, nōminis). Definição baseada em Lat→Deu e LS. | [dedupe] redirect → chunk_18166:18166:0 | [dedupe] redirect → chunk_18166:18166:0",
-    "raw_text": "{\"id\":\"chunk_22800:22800:1\",\"lemas\":[\"nomen\",\"nōmen\"],\"lema_canonico\":\"nomen\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"nome; título, rubrica; conta/registro; causa, interesse; reputação, fama\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizada forma e genitivo (nōmen, nōminis). Definição baseada em Lat→Deu e LS.\",\"flags\":[\"src_latdeu\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22800:22800:1\",\"lemas\":[\"nomen\",\"nōmen\"],\"lema_canonico\":\"nomen\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"nome; título, rubrica; conta/registro; causa, interesse; reputação, fama\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizada forma e genitivo (nōmen, nōminis). Definição baseada em Lat→Deu e LS.\",\"flags\":[\"src_latdeu\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_22800-e3",
     "volume_id": "faria",
     "doc_name": "chunk_22800",
@@ -330,28 +286,6 @@
     "raw_json": "{\"id\":\"chunk_22812:22812:0\",\"lemas\":[\"propagare\"],\"lema_canonico\":\"propagare\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Verb (propagō, propagāre): to propagate, spread, enlarge; participle propagātus = propagated, extended, increased.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizada a entrada para o verbo (lema no infinitivo) com o particípio como morph_extra; confirmada por Lat→Deu e Whitaker.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_22813-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22813",
-    "page_num": 22813,
-    "lemmas": [
-      "pro",
-      "pro"
-    ],
-    "morfologia": "prep. com abl.",
-    "morph_render": "prep. com abl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "em favor de; diante de; por, em lugar de; também: diante de/na frente de (uso espacial e figurado).",
-    "exemplos": [],
-    "notas": "Retificado de 'prefix.' para preposição com base em Whitaker e Lewis & Short. | [dedupe] redirect → chunk_22545:22545:0 | [dedupe] redirect → chunk_22545:22545:0",
-    "raw_text": "{\"id\":\"chunk_22813:22813:0\",\"lemas\":[\"pro\"],\"lema_canonico\":\"pro\",\"morfologia\":\"prep. com abl.\",\"morph_extra\":[],\"definicao\":\"em favor de; diante de; por, em lugar de; também: diante de/na frente de (uso espacial e figurado).\",\"aliases\":[],\"exemplos\":[\"Lucr. 2, 1137\",\"Plaut. Cas. 2, 4, 4\"],\"notas\":\"Retificado de 'prefix.' para preposição com base em Whitaker e Lewis & Short.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22813:22813:0\",\"lemas\":[\"pro\"],\"lema_canonico\":\"pro\",\"morfologia\":\"prep. com abl.\",\"morph_extra\":[],\"definicao\":\"em favor de; diante de; por, em lugar de; também: diante de/na frente de (uso espacial e figurado).\",\"aliases\":[],\"exemplos\":[\"Lucr. 2, 1137\",\"Plaut. Cas. 2, 4, 4\"],\"notas\":\"Retificado de 'prefix.' para preposição com base em Whitaker e Lewis & Short.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_22813-e2",
     "volume_id": "faria",
     "doc_name": "chunk_22813",
@@ -372,28 +306,6 @@
     "notas": "Forma medieval atestada em Whitaker; apresentada como variante de pagus.",
     "raw_text": "{\"id\":\"chunk_22813:22813:1\",\"lemas\":[\"paga\",\"pagae\"],\"lema_canonico\":\"paga\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"(forma medieval rara) distrito, comarca; variante feminina referente a pagus (território, cantão).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma medieval atestada em Whitaker; apresentada como variante de pagus.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_22813:22813:1\",\"lemas\":[\"paga\",\"pagae\"],\"lema_canonico\":\"paga\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"(forma medieval rara) distrito, comarca; variante feminina referente a pagus (território, cantão).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma medieval atestada em Whitaker; apresentada como variante de pagus.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_22813-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_22813",
-    "page_num": 22813,
-    "lemmas": [
-      "pagus",
-      "pagus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "distrito rural, comunidade local, cantão; região administrativa rural (oposto à cidade).",
-    "exemplos": [],
-    "notas": "Forma e sentido confirmados por Whitaker, Lewis & Short e Lat→Deu. | [dedupe] redirect → chunk_19450:19450:0 | [dedupe] redirect → chunk_19450:19450:0",
-    "raw_text": "{\"id\":\"chunk_22813:22813:2\",\"lemas\":[\"pagus\"],\"lema_canonico\":\"pagus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"distrito rural, comunidade local, cantão; região administrativa rural (oposto à cidade).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma e sentido confirmados por Whitaker, Lewis & Short e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22813:22813:2\",\"lemas\":[\"pagus\"],\"lema_canonico\":\"pagus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"distrito rural, comunidade local, cantão; região administrativa rural (oposto à cidade).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma e sentido confirmados por Whitaker, Lewis & Short e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_22813-e4",
@@ -418,28 +330,6 @@
     "raw_json": "{\"id\":\"chunk_22813:22813:3\",\"lemas\":[\"propagis\",\"propāgīs\"],\"lema_canonico\":\"propagis\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"(aparente) descendentes, prole, raça; sentido figurado de posteridade ou linhagem.\",\"aliases\":[],\"exemplos\":[\"Pac. Tr. 200\"],\"notas\":\"Leitura incerta no OCR ('propāgīs, is, subus. f.'); conservada forma dada na 1ª passada. Verificar edição-fonte para forma lemmática correta.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_22814-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22814",
-    "page_num": 22814,
-    "lemmas": [
-      "propāgāre",
-      "propāgāre"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "propagare: reproduzir por mergulha; propagar, multiplicar; prolongar, estender",
-    "exemplos": [],
-    "notas": "Verbo da 1ª conj., separado do substantivo propāgo; formas alinhadas com Whitaker/Lat→Deu. | [dedupe] redirect → chunk_22812:22812:0 | [dedupe] redirect → chunk_22812:22812:0",
-    "raw_text": "{\"id\":\"chunk_22814:22814:0\",\"lemas\":[\"propāgāre\",\"propāgo\"],\"lema_canonico\":\"propāgāre\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"propagare: reproduzir por mergulha; propagar, multiplicar; prolongar, estender\",\"aliases\":[],\"exemplos\":[\"Cat. Agr. 52, 1\",\"Plin. H. Nat. 17, 969\",\"Cic. Verr. 5, 180\"],\"notas\":\"Verbo da 1ª conj., separado do substantivo propāgo; formas alinhadas com Whitaker/Lat→Deu.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22814:22814:0\",\"lemas\":[\"propāgāre\",\"propāgo\"],\"lema_canonico\":\"propāgāre\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"propagare: reproduzir por mergulha; propagar, multiplicar; prolongar, estender\",\"aliases\":[],\"exemplos\":[\"Cat. Agr. 52, 1\",\"Plin. H. Nat. 17, 969\",\"Cic. Verr. 5, 180\"],\"notas\":\"Verbo da 1ª conj., separado do substantivo propāgo; formas alinhadas com Whitaker/Lat→Deu.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_22815-e1",
     "volume_id": "faria",
     "doc_name": "chunk_22815",
@@ -462,50 +352,6 @@
     "raw_json": "{\"id\":\"chunk_22815:22815:0\",\"lemas\":[\"propāgo\",\"propago\"],\"lema_canonico\":\"propāgo\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"propāgo (subst.): broto, rebento; descendência, prole; reprodução, extensão, propagação\",\"aliases\":[],\"exemplos\":[\"Cic. C.M. 52\",\"Hor. Ep. 2, 9, 11\",\"Cic. Rep. At. 18, 2\"],\"notas\":\"Substantivo tratado separadamente da forma verbal; concorda com Whitaker.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_22816-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22816",
-    "page_num": 22816,
-    "lemmas": [
-      "prōmulgātĭo",
-      "prōmulgātĭo"
-    ],
-    "morfologia": "adv.",
-    "morph_render": "adv.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Em plena luz do dia; ostensivamente, abertamente, publicamente (atribuição incerta)",
-    "exemplos": [],
-    "notas": "Forma atípica e não atestada nas principais fontes; mantida a leitura da 1ª passada por incapacidade de retificação segura.\n[ocr_pipeline 2025-08-16T23:27:16.937744Z] lemma_in='propagam' → 'prōmulgātĭo' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:27:57Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='prōmulgātĭo' → 'prōmulgātĭo' | [dedupe] redirect → chunk_22790:22790:0 | [dedupe] redirect → chunk_22790:22790:0",
-    "raw_text": "{\"id\":\"chunk_22816:22816:0\",\"lemas\":[\"propagam\",\"prōpāgam\"],\"lema_canonico\":\"propagam\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"Em plena luz do dia; ostensivamente, abertamente, publicamente (atribuição incerta)\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. I, 161\"],\"notas\":\"Forma atípica e não atestada nas principais fontes; mantida a leitura da 1ª passada por incapacidade de retificação segura.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_22816:22816:0\",\"lemas\":[\"propagam\",\"prōpāgam\"],\"lema_canonico\":\"propagam\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"Em plena luz do dia; ostensivamente, abertamente, publicamente (atribuição incerta)\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. I, 161\"],\"notas\":\"Forma atípica e não atestada nas principais fontes; mantida a leitura da 1ª passada por incapacidade de retificação segura.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_22817-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22817",
-    "page_num": 22817,
-    "lemmas": [
-      "pagus",
-      "pagus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "distrito rural, cantão; povoado rural, população do pagus",
-    "exemplos": [],
-    "notas": "Confirmado em LS, Whitaker e Lat→Deu. | [dedupe] redirect → chunk_19450:19450:0 | [dedupe] redirect → chunk_19450:19450:0",
-    "raw_text": "{\"id\":\"chunk_22817:22817:2\",\"lemas\":[\"pagus\"],\"lema_canonico\":\"pagus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"distrito rural, cantão; povoado rural, população do pagus\",\"aliases\":[],\"exemplos\":[\"Verg. G. 2, 382\"],\"notas\":\"Confirmado em LS, Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22817:22817:2\",\"lemas\":[\"pagus\"],\"lema_canonico\":\"pagus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"distrito rural, cantão; povoado rural, população do pagus\",\"aliases\":[],\"exemplos\":[\"Verg. G. 2, 382\"],\"notas\":\"Confirmado em LS, Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_22817-e2",
     "volume_id": "faria",
     "doc_name": "chunk_22817",
@@ -526,50 +372,6 @@
     "notas": "Lema e acentuação mantidos conforme primeira passada e OCR; falta verificação em dicionários principais.",
     "raw_text": "{\"id\":\"chunk_22817:22817:3\",\"lemas\":[\"propāgus\",\"propagus\"],\"lema_canonico\":\"propāgus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"estendido, desdobrado (registro atestado no material fornecido)\",\"aliases\":[],\"exemplos\":[\"Apul. M. 6, 15\"],\"notas\":\"Lema e acentuação mantidos conforme primeira passada e OCR; falta verificação em dicionários principais.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_22817:22817:3\",\"lemas\":[\"propāgus\",\"propagus\"],\"lema_canonico\":\"propāgus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"estendido, desdobrado (registro atestado no material fornecido)\",\"aliases\":[],\"exemplos\":[\"Apul. M. 6, 15\"],\"notas\":\"Lema e acentuação mantidos conforme primeira passada e OCR; falta verificação em dicionários principais.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_22817-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_22817",
-    "page_num": 22817,
-    "lemmas": [
-      "ipse",
-      "ipse"
-    ],
-    "morfologia": "pron.",
-    "morph_render": "pron.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "pronome demonstrativo: o próprio, ele próprio; em pessoa, ele/ela/isso mesmo(s).",
-    "exemplos": [],
-    "notas": "Lema e sentidos confirmados em Whitaker e Lewis & Short. | [dedupe] redirect → chunk_14850:14850:0 | [dedupe] redirect → chunk_14850:14850:0",
-    "raw_text": "{\"id\":\"chunk_22817:22817:0\",\"lemas\":[\"ipse\",\"ipsa\",\"ipsum\"],\"lema_canonico\":\"ipse\",\"morfologia\":\"pron.\",\"morph_extra\":[],\"definicao\":\"pronome demonstrativo: o próprio, ele próprio; em pessoa, ele/ela/isso mesmo(s).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Lema e sentidos confirmados em Whitaker e Lewis & Short.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_22817:22817:0\",\"lemas\":[\"ipse\",\"ipsa\",\"ipsum\"],\"lema_canonico\":\"ipse\",\"morfologia\":\"pron.\",\"morph_extra\":[],\"definicao\":\"pronome demonstrativo: o próprio, ele próprio; em pessoa, ele/ela/isso mesmo(s).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Lema e sentidos confirmados em Whitaker e Lewis & Short.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}"
-  },
-  {
-    "id": "chunk_22817-e4",
-    "volume_id": "faria",
-    "doc_name": "chunk_22817",
-    "page_num": 22817,
-    "lemmas": [
-      "pro",
-      "pro"
-    ],
-    "morfologia": "prep. com abl.",
-    "morph_render": "prep. com abl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "por, em frente a, em favor de; preposição que rege o ablativo; também elemento composicional/prefixo.",
-    "exemplos": [],
-    "notas": "Tratado como preposição regendo ablativo conforme Whitaker/LS; também é usado como prefixo. | [dedupe] redirect → chunk_22545:22545:0 | [dedupe] redirect → chunk_22545:22545:0",
-    "raw_text": "{\"id\":\"chunk_22817:22817:1\",\"lemas\":[\"pro\"],\"lema_canonico\":\"pro\",\"morfologia\":\"prep. com abl.\",\"morph_extra\":[],\"definicao\":\"por, em frente a, em favor de; preposição que rege o ablativo; também elemento composicional/prefixo.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Tratado como preposição regendo ablativo conforme Whitaker/LS; também é usado como prefixo.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22817:22817:1\",\"lemas\":[\"pro\"],\"lema_canonico\":\"pro\",\"morfologia\":\"prep. com abl.\",\"morph_extra\":[],\"definicao\":\"por, em frente a, em favor de; preposição que rege o ablativo; também elemento composicional/prefixo.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Tratado como preposição regendo ablativo conforme Whitaker/LS; também é usado como prefixo.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
   },
   {
     "id": "chunk_22818-e1",
@@ -748,28 +550,6 @@
     "raw_json": "{\"id\":\"chunk_22825:22825:0\",\"lemas\":[\"prōpendēre\",\"propendere\"],\"lema_canonico\":\"prōpendēre\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"Inclinar-se, pender para a frente; estar inclinado ou propenso a; pender (sobre), ter maior peso (de uma balança).\",\"aliases\":[],\"exemplos\":[\"Suet. Galb. 21\",\"Plin. H. Nat. 26, 36\",\"Cic. De Or. 2, 187\",\"Cic. Tusc. 5, 68\"],\"notas\":\"Infinitivo normalizado como lema; macrons regularizados. Perfeito prōpendī mantido em exemplificação.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_22826-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22826",
-    "page_num": 22826,
-    "lemmas": [
-      "prope",
-      "prope"
-    ],
-    "morfologia": "adv.",
-    "morph_render": "adv.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "perto, quase; quase que, perto de; também usado como preposição com accusativo (prope + acc.)",
-    "exemplos": [],
-    "notas": "Forma adverbial primária; nota acrescentada sobre uso preposicional com acc. | [dedupe] redirect → chunk_22821:22821:0 | [dedupe] redirect → chunk_22821:22821:0",
-    "raw_text": "{\"id\":\"chunk_22826:22826:0\",\"lemas\":[\"prope\"],\"lema_canonico\":\"prope\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"perto, quase; quase que, perto de; também usado como preposição com accusativo (prope + acc.)\",\"aliases\":[],\"exemplos\":[\"Plaut. Rud. 1, 4, 10\",\"Cic. Fam. 9, 7, 1\"],\"notas\":\"Forma adverbial primária; nota acrescentada sobre uso preposicional com acc.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22826:22826:0\",\"lemas\":[\"prope\"],\"lema_canonico\":\"prope\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"perto, quase; quase que, perto de; também usado como preposição com accusativo (prope + acc.)\",\"aliases\":[],\"exemplos\":[\"Plaut. Rud. 1, 4, 10\",\"Cic. Fam. 9, 7, 1\"],\"notas\":\"Forma adverbial primária; nota acrescentada sobre uso preposicional com acc.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_22827-e1",
     "volume_id": "faria",
     "doc_name": "chunk_22827",
@@ -814,28 +594,6 @@
     "raw_json": "{\"id\":\"chunk_22828:22828:0\",\"lemas\":[\"propensus\",\"prōpensus\"],\"lema_canonico\":\"propensus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio passado/passivo de propendēre; adjetivo: pendente para a frente; inclinado, propenso; também ‘preponderante, pesado’.\",\"aliases\":[],\"exemplos\":[\"Cic. Amer. 85\",\"Cic. Nat. 3, 95\",\"Plaut. Bac. 513\"],\"notas\":\"Entrada tratada como adj. (1/2) e PPP de propendēre conforme LS/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_22829-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22829",
-    "page_num": 22829,
-    "lemmas": [
-      "proprius",
-      "proprius"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "próprio; característico, particular; adequado",
-    "exemplos": [],
-    "notas": "Entrada normalizada para o adjetivo clássico 'proprius, -a, -um'; removeu leitura errônea como particípio presente. | [dedupe] redirect → chunk_22637:22637:2 | [dedupe] redirect → chunk_22637:22637:2",
-    "raw_text": "{\"id\":\"chunk_22829:22829:0\",\"lemas\":[\"proprius\"],\"lema_canonico\":\"proprius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"próprio; característico, particular; adequado\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 4, 4\"],\"notas\":\"Entrada normalizada para o adjetivo clássico 'proprius, -a, -um'; removeu leitura errônea como particípio presente.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22829:22829:0\",\"lemas\":[\"proprius\"],\"lema_canonico\":\"proprius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"próprio; característico, particular; adequado\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 4, 4\"],\"notas\":\"Entrada normalizada para o adjetivo clássico 'proprius, -a, -um'; removeu leitura errônea como particípio presente.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_22830-e1",
     "volume_id": "faria",
     "doc_name": "chunk_22830",
@@ -856,28 +614,6 @@
     "notas": "Forma possivelmente corrompida pelo OCR; mantida a entrada da 1ª passada com indicação de incerteza. Recomenda-se revisão na fonte original.",
     "raw_text": "{\"id\":\"chunk_22830:22830:0\",\"lemas\":[\"propriantia\"],\"lema_canonico\":\"propriantia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"(? ) pressa, diligência; também: precipitação — leitura incerta nas fontes (contextos citados: Sal. B. Jug.; Tac. An.).\",\"aliases\":[],\"exemplos\":[\"Sal. B. Jug. 36, 3\",\"Tac. An. 12, 20\"],\"notas\":\"Forma possivelmente corrompida pelo OCR; mantida a entrada da 1ª passada com indicação de incerteza. Recomenda-se revisão na fonte original.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_22830:22830:0\",\"lemas\":[\"propriantia\"],\"lema_canonico\":\"propriantia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"(? ) pressa, diligência; também: precipitação — leitura incerta nas fontes (contextos citados: Sal. B. Jug.; Tac. An.).\",\"aliases\":[],\"exemplos\":[\"Sal. B. Jug. 36, 3\",\"Tac. An. 12, 20\"],\"notas\":\"Forma possivelmente corrompida pelo OCR; mantida a entrada da 1ª passada com indicação de incerteza. Recomenda-se revisão na fonte original.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_22831-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22831",
-    "page_num": 22831,
-    "lemmas": [
-      "propertiatio",
-      "propertiatio"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:low",
-    "needs_review": 1,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada apresentada como referência a 'properantia' no OCR; não confirmada em dicionários principais.",
-    "raw_text": "{\"id\":\"chunk_22831:22831:0\",\"lemas\":[\"propertiatio\"],\"lema_canonico\":\"propertiatio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"properantia\"],\"exemplos\":[\"Cic. Fam. 5, 12, 2\"],\"notas\":\"Entrada apresentada como referência a 'properantia' no OCR; não confirmada em dicionários principais.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"redirect_only\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_22831:22831:0\",\"lemas\":[\"propertiatio\"],\"lema_canonico\":\"propertiatio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"properantia\"],\"exemplos\":[\"Cic. Fam. 5, 12, 2\"],\"notas\":\"Entrada apresentada como referência a 'properantia' no OCR; não confirmada em dicionários principais.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"redirect_only\",\"needs_review\"]}"
   },
   {
     "id": "chunk_22832-e1",
@@ -944,50 +680,6 @@
     "notas": "Leitura do OCR/first_pass conflituosa com formas esperadas (propertus/propertātus). Precisa de revisão editorial.",
     "raw_text": "{\"id\":\"chunk_22832:22832:2\",\"lemas\":[\"propertas\",\"propertās\",\"propertātus\"],\"lema_canonico\":\"propertas\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"(verificar) registrado como particípio/adjetivo 'apressado' em edições; leitura incerta\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 9, 586\"],\"notas\":\"Leitura do OCR/first_pass conflituosa com formas esperadas (propertus/propertātus). Precisa de revisão editorial.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_22832:22832:2\",\"lemas\":[\"propertas\",\"propertās\",\"propertātus\"],\"lema_canonico\":\"propertas\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"(verificar) registrado como particípio/adjetivo 'apressado' em edições; leitura incerta\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 9, 586\"],\"notas\":\"Leitura do OCR/first_pass conflituosa com formas esperadas (propertus/propertātus). Precisa de revisão editorial.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_22832-e4",
-    "volume_id": "faria",
-    "doc_name": "chunk_22832",
-    "page_num": 22832,
-    "lemmas": [
-      "prŏpĕrātĭo",
-      "prŏpĕrātĭo"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "(substantivo) pressa, celeridade — leitura e classificação incertas; possivelmente variante/dat. de properatio",
-    "exemplos": [],
-    "notas": "Entrada atestada de forma ambígua no OCR; Whitaker registra 'propertia' mas a análise morfológica é incerta.\n[ocr_pipeline 2025-08-16T23:27:20.169281Z] lemma_in='propertia' → 'prŏpĕrātĭo' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:28:01Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='prŏpĕrātĭo' → 'prŏpĕrātĭo' | [dedupe] redirect → chunk_22832:22832:1 | [dedupe] redirect → chunk_22832:22832:1",
-    "raw_text": "{\"id\":\"chunk_22832:22832:3\",\"lemas\":[\"propertia\",\"propertiā\",\"prŏpĕrātĭa\"],\"lema_canonico\":\"propertia\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"(substantivo) pressa, celeridade — leitura e classificação incertas; possivelmente variante/dat. de properatio\",\"aliases\":[],\"exemplos\":[\"Sal. B. Jug. 86, 1\"],\"notas\":\"Entrada atestada de forma ambígua no OCR; Whitaker registra 'propertia' mas a análise morfológica é incerta.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_22832:22832:3\",\"lemas\":[\"propertia\",\"propertiā\",\"prŏpĕrātĭa\"],\"lema_canonico\":\"propertia\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"(substantivo) pressa, celeridade — leitura e classificação incertas; possivelmente variante/dat. de properatio\",\"aliases\":[],\"exemplos\":[\"Sal. B. Jug. 86, 1\"],\"notas\":\"Entrada atestada de forma ambígua no OCR; Whitaker registra 'propertia' mas a análise morfológica é incerta.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_22832-e5",
-    "volume_id": "faria",
-    "doc_name": "chunk_22832",
-    "page_num": 22832,
-    "lemmas": [
-      "Prŏpertĭus",
-      "Prŏpertĭus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "cognome romano; poeta elegíaco Sextus Aurelius Propertius",
-    "exemplos": [],
-    "notas": "Atenção: atestado em Lewis & Short como nome próprio. | [dedupe] redirect → chunk_22835:22835:0 | [dedupe] redirect → chunk_22835:22835:0 | [ocr_fix 2025-08-17T19:59:50Z] match direto em LS por lemma/lemma_norm | lemma_in='Propertius' → 'Prŏpertĭus'",
-    "raw_text": "{\"id\":\"chunk_22832:22832:4\",\"lemas\":[\"Propertius\"],\"lema_canonico\":\"Propertius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"cognome romano; poeta elegíaco Sextus Aurelius Propertius\",\"aliases\":[],\"exemplos\":[\"Ov. Tr. 4, 10, 53\",\"Plin. Ep. 9, 22, 1\",\"Quint. 10, 1, 93\"],\"notas\":\"Atenção: atestado em Lewis & Short como nome próprio.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_22832:22832:4\",\"lemas\":[\"Propertius\"],\"lema_canonico\":\"Propertius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"cognome romano; poeta elegíaco Sextus Aurelius Propertius\",\"aliases\":[],\"exemplos\":[\"Ov. Tr. 4, 10, 53\",\"Plin. Ep. 9, 22, 1\",\"Quint. 10, 1, 93\"],\"notas\":\"Atenção: atestado em Lewis & Short como nome próprio.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
     "id": "chunk_22833-e1",
@@ -1100,28 +792,6 @@
     "raw_json": "{\"id\":\"chunk_22837:22837:0\",\"lemas\":[\"propinquus\",\"propinqua\",\"propinquum\"],\"lema_canonico\":\"propinquus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"próximo, vizinho; perto no espaço ou no tempo; por afinidade, relacionado; como substantivo: parente, vizinhança.\",\"aliases\":[],\"exemplos\":[\"Ter. Eun. 5, 5, 1\",\"Hor. C. 1, 22, 21\",\"Cic. Rosc. Am. 46, 133\"],\"notas\":\"Corrigido sentido segundo Lewis & Short e Whitaker; descartada leitura errônea do Faria.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_22838-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22838",
-    "page_num": 22838,
-    "lemmas": [
-      "pīnētum",
-      "pinetum"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "pine-wood; pine-grove, plantation of pines",
-    "exemplos": [],
-    "notas": "Lema e sentidos confirmados por Whitaker, Lewis & Short e Lat→Deu. | [dedupe] redirect → chunk_21278:21278:0 | [dedupe] redirect → chunk_21278:21278:0 | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='pinetum' → 'pīnētum'",
-    "raw_text": "{\"id\":\"chunk_22838:22838:1\",\"lemas\":[\"pinetum\"],\"lema_canonico\":\"pinetum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"pine-wood; pine-grove, plantation of pines\",\"aliases\":[],\"exemplos\":[\"Ov. F. 2, 275\",\"Plin. 27, 8, 43\"],\"notas\":\"Lema e sentidos confirmados por Whitaker, Lewis & Short e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22838:22838:1\",\"lemas\":[\"pinetum\"],\"lema_canonico\":\"pinetum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"pine-wood; pine-grove, plantation of pines\",\"aliases\":[],\"exemplos\":[\"Ov. F. 2, 275\",\"Plin. 27, 8, 43\"],\"notas\":\"Lema e sentidos confirmados por Whitaker, Lewis & Short e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_22838-e2",
     "volume_id": "faria",
     "doc_name": "chunk_22838",
@@ -1142,28 +812,6 @@
     "notas": "Forma atestada apenas no material de entrada; grafia/declinação incertas — requer verificação em fontes primárias/lexicográficas.",
     "raw_text": "{\"id\":\"chunk_22838:22838:2\",\"lemas\":[\"propineta\"],\"lema_canonico\":\"propineta\",\"morfologia\":\"s. masc. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"(entry uncertain) priest attached to a temple or divinity (as cited in Apul. Metam. 2,28)\",\"aliases\":[],\"exemplos\":[\"Apul. M. 2, 28\"],\"notas\":\"Forma atestada apenas no material de entrada; grafia/declinação incertas — requer verificação em fontes primárias/lexicográficas.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"morph_out_of_vocab\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_22838:22838:2\",\"lemas\":[\"propineta\"],\"lema_canonico\":\"propineta\",\"morfologia\":\"s. masc. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"(entry uncertain) priest attached to a temple or divinity (as cited in Apul. Metam. 2,28)\",\"aliases\":[],\"exemplos\":[\"Apul. M. 2, 28\"],\"notas\":\"Forma atestada apenas no material de entrada; grafia/declinação incertas — requer verificação em fontes primárias/lexicográficas.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"morph_out_of_vocab\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_22838-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_22838",
-    "page_num": 22838,
-    "lemmas": [
-      "pro",
-      "pro"
-    ],
-    "morfologia": "prep. com abl.",
-    "morph_render": "prep. com abl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "em frente a; por, em favor de; em lugar de; diante de; (prefixo) com valor de 'antes/à frente'.",
-    "exemplos": [],
-    "notas": "Distinguiu‑se o uso como preposição (com abl.) do emprego como prefixo; sintetizado de fontes principa is. | [dedupe] redirect → chunk_22545:22545:0 | [dedupe] redirect → chunk_22545:22545:0",
-    "raw_text": "{\"id\":\"chunk_22838:22838:0\",\"lemas\":[\"pro\"],\"lema_canonico\":\"pro\",\"morfologia\":\"prep. com abl.\",\"morph_extra\":[],\"definicao\":\"em frente a; por, em favor de; em lugar de; diante de; (prefixo) com valor de 'antes/à frente'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Distinguiu‑se o uso como preposição (com abl.) do emprego como prefixo; sintetizado de fontes principa is.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22838:22838:0\",\"lemas\":[\"pro\"],\"lema_canonico\":\"pro\",\"morfologia\":\"prep. com abl.\",\"morph_extra\":[],\"definicao\":\"em frente a; por, em favor de; em lugar de; diante de; (prefixo) com valor de 'antes/à frente'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Distinguiu‑se o uso como preposição (com abl.) do emprego como prefixo; sintetizado de fontes principa is.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
   },
   {
     "id": "chunk_22839-e1",
@@ -1298,50 +946,6 @@
     "raw_json": "{\"id\":\"chunk_22844:22844:0\",\"lemas\":[\"propinquo\",\"propinquāre\"],\"lema_canonico\":\"propinquo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"intr.\",\"tr.\"],\"definicao\":\"aproximar-se, chegar perto (intr. com dat. ou acc.); (tr.) trazer para mais perto, apressar, acelerar.\",\"aliases\":[],\"exemplos\":[\"Verg. A. 5, 185\",\"Verg. A. 10, 254\",\"Tac. An. 15, 39\"],\"notas\":\"Verbo da 1ª conjugação; regência com dat. ou acc. e usos poéticos/pós-Augustanos atestados (LS).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_22845-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22845",
-    "page_num": 22845,
-    "lemmas": [
-      "propinquus",
-      "propinquus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "perto, vizinho; também: próximo em tempo ou parentesco; substantivado: parente (m./f.) ou vizinhança (n.)",
-    "exemplos": [],
-    "notas": "Unificado conforme LS/Whitaker/Lat→Deu; incluído advérbio propinque. | [dedupe] redirect → chunk_22837:22837:0 | [dedupe] redirect → chunk_22837:22837:0",
-    "raw_text": "{\"id\":\"chunk_22845:22845:0\",\"lemas\":[\"propinquus\",\"propinqua\",\"propinquum\",\"propinque\"],\"lema_canonico\":\"propinquus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"perto, vizinho; também: próximo em tempo ou parentesco; substantivado: parente (m./f.) ou vizinhança (n.)\",\"aliases\":[],\"exemplos\":[\"Ter. Eun. 5, 5, 1\",\"Sall. J. 12, 2\",\"Hor. C. 1, 22, 21\",\"Cic. Rosc. Am. 46, 133\",\"Ov. Tr. 4, 4, 51\"],\"notas\":\"Unificado conforme LS/Whitaker/Lat→Deu; incluído advérbio propinque.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22845:22845:0\",\"lemas\":[\"propinquus\",\"propinqua\",\"propinquum\",\"propinque\"],\"lema_canonico\":\"propinquus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"perto, vizinho; também: próximo em tempo ou parentesco; substantivado: parente (m./f.) ou vizinhança (n.)\",\"aliases\":[],\"exemplos\":[\"Ter. Eun. 5, 5, 1\",\"Sall. J. 12, 2\",\"Hor. C. 1, 22, 21\",\"Cic. Rosc. Am. 46, 133\",\"Ov. Tr. 4, 4, 51\"],\"notas\":\"Unificado conforme LS/Whitaker/Lat→Deu; incluído advérbio propinque.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_22846-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22846",
-    "page_num": 22846,
-    "lemmas": [
-      "propinquus",
-      "propinquus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "próximo, vizinho; de lugar, tempo ou parentesco. Substantivo correspondente: prōpinquum, -ī, n. (a vizinhança) e formas masc./fem. para ‘parente’.",
-    "exemplos": [],
-    "notas": "Adjetivo de 1/2; substantivação e usos citados conforme LS/Whitaker. | [dedupe] redirect → chunk_22837:22837:0 | [dedupe] redirect → chunk_22837:22837:0",
-    "raw_text": "{\"id\":\"chunk_22846:22846:0\",\"lemas\":[\"propinquus\",\"propinqua\",\"propinquum\"],\"lema_canonico\":\"propinquus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"próximo, vizinho; de lugar, tempo ou parentesco. Substantivo correspondente: prōpinquum, -ī, n. (a vizinhança) e formas masc./fem. para ‘parente’.\",\"aliases\":[],\"exemplos\":[\"Cic. Off. 1, 59\"],\"notas\":\"Adjetivo de 1/2; substantivação e usos citados conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22846:22846:0\",\"lemas\":[\"propinquus\",\"propinqua\",\"propinquum\"],\"lema_canonico\":\"propinquus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"próximo, vizinho; de lugar, tempo ou parentesco. Substantivo correspondente: prōpinquum, -ī, n. (a vizinhança) e formas masc./fem. para ‘parente’.\",\"aliases\":[],\"exemplos\":[\"Cic. Off. 1, 59\"],\"notas\":\"Adjetivo de 1/2; substantivação e usos citados conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_22847-e1",
     "volume_id": "faria",
     "doc_name": "chunk_22847",
@@ -1362,94 +966,6 @@
     "notas": "Entrada incerta no léxico clássico; mantidas formas da primeira passada; leitura do OCR e referência a Plínio conservadas.",
     "raw_text": "{\"id\":\"chunk_22847:22847:12\",\"lemas\":[\"purōpus\",\"purŏpus\"],\"lema_canonico\":\"purōpus\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"(reportado) liga metálica, bronze dourado; atestado em Plínio segundo fontes modernas, leitura incerta.\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 34, 8, 20\"],\"notas\":\"Entrada incerta no léxico clássico; mantidas formas da primeira passada; leitura do OCR e referência a Plínio conservadas.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_22847:22847:12\",\"lemas\":[\"purōpus\",\"purŏpus\"],\"lema_canonico\":\"purōpus\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"(reportado) liga metálica, bronze dourado; atestado em Plínio segundo fontes modernas, leitura incerta.\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 34, 8, 20\"],\"notas\":\"Entrada incerta no léxico clássico; mantidas formas da primeira passada; leitura do OCR e referência a Plínio conservadas.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_22847-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_22847",
-    "page_num": 22847,
-    "lemmas": [
-      "perimo",
-      "perimo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Tomar inteiramente, destruir, extinguir; matar; anular, impedir.",
-    "exemplos": [],
-    "notas": "Entrada e paradigma confirmados por Lewis & Short e Lat→Deu (pĕrĭmo). | [dedupe] redirect → chunk_20403:20403:0 | [dedupe] redirect → chunk_20403:20403:0",
-    "raw_text": "{\"id\":\"chunk_22847:22847:0\",\"lemas\":[\"perimo\",\"perimere\",\"peremi\",\"peremptus\"],\"lema_canonico\":\"perimo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Tomar inteiramente, destruir, extinguir; matar; anular, impedir.\",\"aliases\":[],\"exemplos\":[\"Lucr. 1, 226\",\"Cic. Tusc. 1, 37\",\"Verg. A. 5, 787\",\"Vulg. Jos. 11, 11\"],\"notas\":\"Entrada e paradigma confirmados por Lewis & Short e Lat→Deu (pĕrĭmo).\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22847:22847:0\",\"lemas\":[\"perimo\",\"perimere\",\"peremi\",\"peremptus\"],\"lema_canonico\":\"perimo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Tomar inteiramente, destruir, extinguir; matar; anular, impedir.\",\"aliases\":[],\"exemplos\":[\"Lucr. 1, 226\",\"Cic. Tusc. 1, 37\",\"Verg. A. 5, 787\",\"Vulg. Jos. 11, 11\"],\"notas\":\"Entrada e paradigma confirmados por Lewis & Short e Lat→Deu (pĕrĭmo).\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_22847-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_22847",
-    "page_num": 22847,
-    "lemmas": [
-      "porphўrĭo",
-      "porphўrĭo"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "espécie de ave aquática (p.ex. Fulica porphyrio), galinha-d'água porfíria, 'purple gallinule'.",
-    "exemplos": [],
-    "notas": "Grafia corrigida de OCR; fontes discordam quanto ao gênero (masc. em algumas edições, fem. em outras).\n[ocr_pipeline 2025-08-16T23:27:25.347282Z] lemma_in='porphyrio' → 'porphўrĭo' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:28:08Z] match direto em LS por lemma/lemma_norm | lemma_in='porphўrĭo' → 'porphўrĭo' | [dedupe] redirect → chunk_22637:22637:0 | [dedupe] redirect → chunk_22637:22637:0",
-    "raw_text": "{\"id\":\"chunk_22847:22847:1\",\"lemas\":[\"porphyrio\"],\"lema_canonico\":\"porphyrio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"espécie de ave aquática (p.ex. Fulica porphyrio), galinha-d'água porfíria, 'purple gallinule'.\",\"aliases\":[],\"exemplos\":[\"Plin. 10, 16, 63\",\"Vulg. Lev. 11, 18\"],\"notas\":\"Grafia corrigida de OCR; fontes discordam quanto ao gênero (masc. em algumas edições, fem. em outras).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ocr\",\"conf:low\"]}",
-    "raw_json": "{\"id\":\"chunk_22847:22847:1\",\"lemas\":[\"porphyrio\"],\"lema_canonico\":\"porphyrio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"espécie de ave aquática (p.ex. Fulica porphyrio), galinha-d'água porfíria, 'purple gallinule'.\",\"aliases\":[],\"exemplos\":[\"Plin. 10, 16, 63\",\"Vulg. Lev. 11, 18\"],\"notas\":\"Grafia corrigida de OCR; fontes discordam quanto ao gênero (masc. em algumas edições, fem. em outras).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ocr\",\"conf:low\"]}"
-  },
-  {
-    "id": "chunk_22847-e4",
-    "volume_id": "faria",
-    "doc_name": "chunk_22847",
-    "page_num": 22847,
-    "lemmas": [
-      "pro",
-      "pro"
-    ],
-    "morfologia": "prep. com abl.",
-    "morph_render": "prep. com abl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "por, em frente a; em favor de; antes de; on behalf of, before, for, in front of (uses ablative).",
-    "exemplos": [],
-    "notas": "Entrée tratada como preposição (LS/Whitaker). | [dedupe] redirect → chunk_22545:22545:0 | [dedupe] redirect → chunk_22545:22545:0",
-    "raw_text": "{\"id\":\"chunk_22847:22847:7\",\"lemas\":[\"pro\"],\"lema_canonico\":\"pro\",\"morfologia\":\"prep. com abl.\",\"morph_extra\":[],\"definicao\":\"por, em frente a; em favor de; antes de; on behalf of, before, for, in front of (uses ablative).\",\"aliases\":[],\"exemplos\":[\"Lucr. 2, 1137\"],\"notas\":\"Entrée tratada como preposição (LS/Whitaker).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22847:22847:7\",\"lemas\":[\"pro\"],\"lema_canonico\":\"pro\",\"morfologia\":\"prep. com abl.\",\"morph_extra\":[],\"definicao\":\"por, em frente a; em favor de; antes de; on behalf of, before, for, in front of (uses ablative).\",\"aliases\":[],\"exemplos\":[\"Lucr. 2, 1137\"],\"notas\":\"Entrée tratada como preposição (LS/Whitaker).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_22847-e5",
-    "volume_id": "faria",
-    "doc_name": "chunk_22847",
-    "page_num": 22847,
-    "lemmas": [
-      "pus",
-      "pus"
-    ],
-    "morfologia": "s. neut. 3ª (-is)",
-    "morph_render": "s. neut. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "pus, matéria purulenta; fig.: amargura, fel, veneno (sentido figurado).",
-    "exemplos": [],
-    "notas": "Formas confirmadas (pus, pūris). | [dedupe] redirect → chunk_18957:18957:0 | [dedupe] redirect → chunk_18957:18957:0",
-    "raw_text": "{\"id\":\"chunk_22847:22847:8\",\"lemas\":[\"pus\",\"puris\"],\"lema_canonico\":\"pus\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"pus, matéria purulenta; fig.: amargura, fel, veneno (sentido figurado).\",\"aliases\":[],\"exemplos\":[\"Cels. 5, 26, 20\"],\"notas\":\"Formas confirmadas (pus, pūris).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22847:22847:8\",\"lemas\":[\"pus\",\"puris\"],\"lema_canonico\":\"pus\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"pus, matéria purulenta; fig.: amargura, fel, veneno (sentido figurado).\",\"aliases\":[],\"exemplos\":[\"Cels. 5, 26, 20\"],\"notas\":\"Formas confirmadas (pus, pūris).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_22847-e6",
@@ -1540,28 +1056,6 @@
     "raw_json": "{\"id\":\"chunk_22847:22847:2\",\"lemas\":[\"positio\",\"positionis\"],\"lema_canonico\":\"positio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"ato de pôr, colocação; posição, lugar, disposição; apresentação, modo de expor (retórica/lei); em prosódia, posição (vogal).\",\"aliases\":[],\"exemplos\":[\"Quint. 1, 5, 28\",\"Quint. 2, 10, 15\",\"Plin. 37, 13, 77\"],\"notas\":\"Unificado para a forma clássica 'positio' com suporte em LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_22847-e10",
-    "volume_id": "faria",
-    "doc_name": "chunk_22847",
-    "page_num": 22847,
-    "lemmas": [
-      "primus",
-      "primus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "primeiro, principal, mais importante; também adv. 'a princípio, em primeiro lugar'; usado como numeral ord. (o primeiro).",
-    "exemplos": [],
-    "notas": "Consolidação das formas adjetiva/adv./numeral segundo LS e Whitaker. | [dedupe] redirect → chunk_22490:22490:0 | [dedupe] redirect → chunk_22490:22490:0",
-    "raw_text": "{\"id\":\"chunk_22847:22847:3\",\"lemas\":[\"primus\",\"prima\",\"primum\"],\"lema_canonico\":\"primus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"primeiro, principal, mais importante; também adv. 'a princípio, em primeiro lugar'; usado como numeral ord. (o primeiro).\",\"aliases\":[],\"exemplos\":[\"Ov. P. 1, 2, 30\",\"Cic. Att. 15, 3, 2\"],\"notas\":\"Consolidação das formas adjetiva/adv./numeral segundo LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22847:22847:3\",\"lemas\":[\"primus\",\"prima\",\"primum\"],\"lema_canonico\":\"primus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"primeiro, principal, mais importante; também adv. 'a princípio, em primeiro lugar'; usado como numeral ord. (o primeiro).\",\"aliases\":[],\"exemplos\":[\"Ov. P. 1, 2, 30\",\"Cic. Att. 15, 3, 2\"],\"notas\":\"Consolidação das formas adjetiva/adv./numeral segundo LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_22847-e11",
     "volume_id": "faria",
     "doc_name": "chunk_22847",
@@ -1584,28 +1078,6 @@
     "raw_json": "{\"id\":\"chunk_22847:22847:4\",\"lemas\":[\"propior\",\"propius\"],\"lema_canonico\":\"propior\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"comparativo de 'prope': mais próximo, mais perto; mais recente (temporal); mais chegado por parentesco; que interessa mais.\",\"aliases\":[],\"exemplos\":[\"Ov. P. 1, 2, 30\",\"Cic. Att. 15, 3, 2\",\"Cic. Quint. 31, 97\",\"Liv. 4, 37, 11\"],\"notas\":\"Unificadas formas comparativas conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_22847-e12",
-    "volume_id": "faria",
-    "doc_name": "chunk_22847",
-    "page_num": 22847,
-    "lemmas": [
-      "proprius",
-      "proprius"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "próprio, pessoal; característico, particular, próprio de alguém ou de algo.",
-    "exemplos": [],
-    "notas": "Forma consolidada como adjetivo de 1ª/2ª declinação; sem exemplos no primeiro passe. | [dedupe] redirect → chunk_22637:22637:2 | [dedupe] redirect → chunk_22637:22637:2",
-    "raw_text": "{\"id\":\"chunk_22847:22847:5\",\"lemas\":[\"proprius\",\"propria\",\"proprium\"],\"lema_canonico\":\"proprius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"próprio, pessoal; característico, particular, próprio de alguém ou de algo.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma consolidada como adjetivo de 1ª/2ª declinação; sem exemplos no primeiro passe.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22847:22847:5\",\"lemas\":[\"proprius\",\"propria\",\"proprium\"],\"lema_canonico\":\"proprius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"próprio, pessoal; característico, particular, próprio de alguém ou de algo.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma consolidada como adjetivo de 1ª/2ª declinação; sem exemplos no primeiro passe.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_22847-e13",
     "volume_id": "faria",
     "doc_name": "chunk_22847",
@@ -1626,28 +1098,6 @@
     "notas": "Separada de 'propello' e normalizada para prōpulsāre (v. 1ª) conforme Lat→Deu, Whitaker e LS.",
     "raw_text": "{\"id\":\"chunk_22847:22847:6\",\"lemas\":[\"propulsare\"],\"lema_canonico\":\"propulsare\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"repelir, afastar, defender; fazer recuar, expulsar (trans.).\",\"aliases\":[],\"exemplos\":[\"Varr. R. R. 2, 9\",\"Cic. Phil. 5, 4\"],\"notas\":\"Separada de 'propello' e normalizada para prōpulsāre (v. 1ª) conforme Lat→Deu, Whitaker e LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_22847:22847:6\",\"lemas\":[\"propulsare\"],\"lema_canonico\":\"propulsare\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"repelir, afastar, defender; fazer recuar, expulsar (trans.).\",\"aliases\":[],\"exemplos\":[\"Varr. R. R. 2, 9\",\"Cic. Phil. 5, 4\"],\"notas\":\"Separada de 'propello' e normalizada para prōpulsāre (v. 1ª) conforme Lat→Deu, Whitaker e LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_22848-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22848",
-    "page_num": 22848,
-    "lemmas": [
-      "propior",
-      "propior"
-    ],
-    "morfologia": "adj. (3) 3T",
-    "morph_render": "adj. (3) 3T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Comparativo de 'prope': mais próximo, mais próximo no espaço ou no tempo; mais recente; mais próximo (em relação).",
-    "exemplos": [],
-    "notas": "Entrada tratada como adjetivo comparativo; incluídas formas de gênero/número. | [dedupe] redirect → chunk_22847:22847:4 | [dedupe] redirect → chunk_22847:22847:4",
-    "raw_text": "{\"id\":\"chunk_22848:22848:0\",\"lemas\":[\"propior\",\"propiora\",\"propius\"],\"lema_canonico\":\"propior\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"Comparativo de 'prope': mais próximo, mais próximo no espaço ou no tempo; mais recente; mais próximo (em relação).\",\"aliases\":[],\"exemplos\":[\"Tac. Hist. 5, 16\"],\"notas\":\"Entrada tratada como adjetivo comparativo; incluídas formas de gênero/número.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22848:22848:0\",\"lemas\":[\"propior\",\"propiora\",\"propius\"],\"lema_canonico\":\"propior\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"Comparativo de 'prope': mais próximo, mais próximo no espaço ou no tempo; mais recente; mais próximo (em relação).\",\"aliases\":[],\"exemplos\":[\"Tac. Hist. 5, 16\"],\"notas\":\"Entrada tratada como adjetivo comparativo; incluídas formas de gênero/número.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_22849-e1",
@@ -1758,28 +1208,6 @@
     "notas": "Grafia e classificação baseadas no manuscrito/OCR; forma não confirmada em dicionários principais.",
     "raw_text": "{\"id\":\"chunk_22852:22852:1\",\"lemas\":[\"propol\"],\"lema_canonico\":\"propol\",\"morfologia\":\"s. masc. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"(possivelmente) vendedor, revendedor; comerciante de miudezas (forma e identificação incertas).\",\"aliases\":[],\"exemplos\":[\"Plaut. Aul. 512\"],\"notas\":\"Grafia e classificação baseadas no manuscrito/OCR; forma não confirmada em dicionários principais.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_22852:22852:1\",\"lemas\":[\"propol\"],\"lema_canonico\":\"propol\",\"morfologia\":\"s. masc. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"(possivelmente) vendedor, revendedor; comerciante de miudezas (forma e identificação incertas).\",\"aliases\":[],\"exemplos\":[\"Plaut. Aul. 512\"],\"notas\":\"Grafia e classificação baseadas no manuscrito/OCR; forma não confirmada em dicionários principais.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_22853-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22853",
-    "page_num": 22853,
-    "lemmas": [
-      "prō-pello",
-      "prō-pello"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Impellere/avançar; afastar, expulsar, lançar para trás; derrubar, destruir; também: incitar, mover.",
-    "exemplos": [],
-    "notas": "Restaurado para prōpellō (prōpellere). Referência tácita do OCR mantida como pista. | [dedupe] redirect → chunk_22823:22823:0 | [dedupe] redirect → chunk_22823:22823:0 | [ocr_fix 2025-08-17T19:59:49Z] match direto em LS por lemma/lemma_norm | lemma_in='propellō' → 'prō-pello'",
-    "raw_text": "{\"id\":\"chunk_22853:22853:0\",\"lemas\":[\"propellō\",\"propello\",\"prōpellere\"],\"lema_canonico\":\"propellō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Impellere/avançar; afastar, expulsar, lançar para trás; derrubar, destruir; também: incitar, mover.\",\"aliases\":[],\"exemplos\":[\"Tác. Ann. 3, 86?\"],\"notas\":\"Restaurado para prōpellō (prōpellere). Referência tácita do OCR mantida como pista.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"src_ocr\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_22853:22853:0\",\"lemas\":[\"propellō\",\"propello\",\"prōpellere\"],\"lema_canonico\":\"propellō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Impellere/avançar; afastar, expulsar, lançar para trás; derrubar, destruir; também: incitar, mover.\",\"aliases\":[],\"exemplos\":[\"Tác. Ann. 3, 86?\"],\"notas\":\"Restaurado para prōpellō (prōpellere). Referência tácita do OCR mantida como pista.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"src_ocr\",\"conf:med\"]}"
   },
   {
     "id": "chunk_22854-e1",
@@ -2046,28 +1474,6 @@
     "raw_json": "{\"id\":\"chunk_22864:22864:0\",\"lemas\":[\"proprietas\"],\"lema_canonico\":\"proprietas\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"1) propriedade, qualidade própria, caráter específico; 2) direito de posse, propriedade; 3) uso figurado: propriedade (de termos).\",\"aliases\":[],\"exemplos\":[\"Cic. Lae. 2, 56\",\"Suet. Gal. 7\",\"Quint. 8, 2, 1\"],\"notas\":\"Unificada grafia e acepções conforme fontes; genitivo-tema indicado em notas internas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_22865-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22865",
-    "page_num": 22865,
-    "lemmas": [
-      "proprius",
-      "proprius"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "próprio; pessoal, peculiar; próprio de alguém ou de algo; característico, particular.",
-    "exemplos": [],
-    "notas": "Normalizado segundo Whitaker e Lewis & Short; inclui variantes femin./neut. | [dedupe] redirect → chunk_22637:22637:2 | [dedupe] redirect → chunk_22637:22637:2",
-    "raw_text": "{\"id\":\"chunk_22865:22865:0\",\"lemas\":[\"proprius\",\"propria\",\"proprium\"],\"lema_canonico\":\"proprius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"próprio; pessoal, peculiar; próprio de alguém ou de algo; característico, particular.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizado segundo Whitaker e Lewis & Short; inclui variantes femin./neut.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22865:22865:0\",\"lemas\":[\"proprius\",\"propria\",\"proprium\"],\"lema_canonico\":\"proprius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"próprio; pessoal, peculiar; próprio de alguém ou de algo; característico, particular.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizado segundo Whitaker e Lewis & Short; inclui variantes femin./neut.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_22865-e2",
     "volume_id": "faria",
     "doc_name": "chunk_22865",
@@ -2132,50 +1538,6 @@
     "notas": "Advérbio; entrada alinhada com Lat→Deu, Whitaker e LS que registram 'proprie/proprĭē' como adv.",
     "raw_text": "{\"id\":\"chunk_22867:22867:2\",\"lemas\":[\"proprie\"],\"lema_canonico\":\"proprie\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"particularmente; propriamente; especialmente; adequadamente\",\"aliases\":[],\"exemplos\":[\"Cic. Br. 23\",\"Cic. Par. 34\",\"Cic. Mil. 93\"],\"notas\":\"Advérbio; entrada alinhada com Lat→Deu, Whitaker e LS que registram 'proprie/proprĭē' como adv.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_22867:22867:2\",\"lemas\":[\"proprie\"],\"lema_canonico\":\"proprie\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"particularmente; propriamente; especialmente; adequadamente\",\"aliases\":[],\"exemplos\":[\"Cic. Br. 23\",\"Cic. Par. 34\",\"Cic. Mil. 93\"],\"notas\":\"Advérbio; entrada alinhada com Lat→Deu, Whitaker e LS que registram 'proprie/proprĭē' como adv.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_22867-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_22867",
-    "page_num": 22867,
-    "lemmas": [
-      "prope",
-      "prope"
-    ],
-    "morfologia": "adv.",
-    "morph_render": "adv.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "perto, junto; quase, por pouco; advérbio (também usado com sentido prep. + acc.: perto de)",
-    "exemplos": [],
-    "notas": "Unificada com Lewis & Short e Lat→Deu; inclui comparativo e superlativo (propius, proxime). | [dedupe] redirect → chunk_22821:22821:0 | [dedupe] redirect → chunk_22821:22821:0",
-    "raw_text": "{\"id\":\"chunk_22867:22867:0\",\"lemas\":[\"prope\",\"prŏpe\",\"propius\",\"proxime\"],\"lema_canonico\":\"prope\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"perto, junto; quase, por pouco; advérbio (também usado com sentido prep. + acc.: perto de)\",\"aliases\":[],\"exemplos\":[\"Plaut. Rud. 1, 4, 10\",\"Cic. Fam. 9, 7, 1\",\"Cic. Verr. 2, 5, 2\"],\"notas\":\"Unificada com Lewis & Short e Lat→Deu; inclui comparativo e superlativo (propius, proxime).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22867:22867:0\",\"lemas\":[\"prope\",\"prŏpe\",\"propius\",\"proxime\"],\"lema_canonico\":\"prope\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"perto, junto; quase, por pouco; advérbio (também usado com sentido prep. + acc.: perto de)\",\"aliases\":[],\"exemplos\":[\"Plaut. Rud. 1, 4, 10\",\"Cic. Fam. 9, 7, 1\",\"Cic. Verr. 2, 5, 2\"],\"notas\":\"Unificada com Lewis & Short e Lat→Deu; inclui comparativo e superlativo (propius, proxime).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_22867-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_22867",
-    "page_num": 22867,
-    "lemmas": [
-      "proprius",
-      "proprius"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "próprio, particular; característico, próprio de; também: permanente, adequado, distintivo",
-    "exemplos": [],
-    "notas": "Formas masculina, feminina e neutra confirmadas em Whitaker e Lat→Deu. | [dedupe] redirect → chunk_22637:22637:2 | [dedupe] redirect → chunk_22637:22637:2",
-    "raw_text": "{\"id\":\"chunk_22867:22867:1\",\"lemas\":[\"proprius\",\"propria\",\"proprium\"],\"lema_canonico\":\"proprius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"próprio, particular; característico, próprio de; também: permanente, adequado, distintivo\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 14, 3, 1\",\"Cic. Tusc. 2, 43\",\"Cic. De Or. 3, 150\"],\"notas\":\"Formas masculina, feminina e neutra confirmadas em Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22867:22867:1\",\"lemas\":[\"proprius\",\"propria\",\"proprium\"],\"lema_canonico\":\"proprius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"próprio, particular; característico, próprio de; também: permanente, adequado, distintivo\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 14, 3, 1\",\"Cic. Tusc. 2, 43\",\"Cic. De Or. 3, 150\"],\"notas\":\"Formas masculina, feminina e neutra confirmadas em Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_22868-e1",
@@ -2376,28 +1738,6 @@
     "raw_json": "{\"id\":\"chunk_22876:22876:0\",\"lemas\":[\"propugno\",\"prōpūgnō\",\"propugnare\"],\"lema_canonico\":\"propugno\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"intr.\",\"tr.\"],\"definicao\":\"combater, bater-se; defender, lutar em defesa de; também: defender (algo ou alguém)\",\"aliases\":[],\"exemplos\":[\"Caes. B. Gall. 7, 86, 5\",\"Cic. Tusc. 5, 79\",\"Tac. Ann. 13, 31\"],\"notas\":\"Conjugação e transitividade confirmadas (1ª conj.); normalizados macrons conforme tradição lexicográfica.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_22877-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22877",
-    "page_num": 22877,
-    "lemmas": [
-      "propello",
-      "propello"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Impellere; conduzir para a frente, expelir, afastar, derrotar.",
-    "exemplos": [],
-    "notas": "[dedupe] redirect → chunk_22823:22823:0 | [dedupe] redirect → chunk_22823:22823:0",
-    "raw_text": "{\"id\":\"chunk_22877:22877:0\",\"lemas\":[\"propello\",\"propellere\",\"propuli\",\"propulsus\"],\"lema_canonico\":\"propello\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Impellere; conduzir para a frente, expelir, afastar, derrotar.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22877:22877:0\",\"lemas\":[\"propello\",\"propellere\",\"propuli\",\"propulsus\"],\"lema_canonico\":\"propello\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Impellere; conduzir para a frente, expelir, afastar, derrotar.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_22878-e1",
     "volume_id": "faria",
     "doc_name": "chunk_22878",
@@ -2484,28 +1824,6 @@
     "notas": "Definição e forma confirmadas em Lewis & Short e em Whitaker como particípio de prōpellere.",
     "raw_text": "{\"id\":\"chunk_22881:22881:0\",\"lemas\":[\"prōpulsus\",\"prōpulsa\",\"prōpulsum\"],\"lema_canonico\":\"prōpulsus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de prōpellō: impulsado, lançado para diante; (também substantivado) impulso, propulsão\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Definição e forma confirmadas em Lewis & Short e em Whitaker como particípio de prōpellere.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_22881:22881:0\",\"lemas\":[\"prōpulsus\",\"prōpulsa\",\"prōpulsum\"],\"lema_canonico\":\"prōpulsus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de prōpellō: impulsado, lançado para diante; (também substantivado) impulso, propulsão\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Definição e forma confirmadas em Lewis & Short e em Whitaker como particípio de prōpellere.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_22882-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22882",
-    "page_num": 22882,
-    "lemmas": [
-      "propello",
-      "propello"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Conduzir para a frente; impelir, expulsar, afastar; derrotar.",
-    "exemplos": [],
-    "notas": "Entrada alinhada com formas perf. propuli e sup. propulsus. | [dedupe] redirect → chunk_22823:22823:0 | [dedupe] redirect → chunk_22823:22823:0",
-    "raw_text": "{\"id\":\"chunk_22882:22882:0\",\"lemas\":[\"propello\",\"propellere\",\"propuli\",\"propulsus\"],\"lema_canonico\":\"propello\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Conduzir para a frente; impelir, expulsar, afastar; derrotar.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada alinhada com formas perf. propuli e sup. propulsus.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"src_ocr\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22882:22882:0\",\"lemas\":[\"propello\",\"propellere\",\"propuli\",\"propulsus\"],\"lema_canonico\":\"propello\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Conduzir para a frente; impelir, expulsar, afastar; derrotar.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada alinhada com formas perf. propuli e sup. propulsus.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"src_ocr\",\"conf:high\"]}"
   },
   {
     "id": "chunk_22882-e2",
@@ -2728,50 +2046,6 @@
     "raw_json": "{\"id\":\"chunk_22891:22891:0\",\"lemas\":[\"proripio\",\"proripere\"],\"lema_canonico\":\"proripio\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"arrancar, arrebatar; (intr.) precipitar-se, correr.\",\"aliases\":[],\"exemplos\":[\"Verg. En. 5, 741\",\"Cic. Verr. 5, 161\"],\"notas\":\"Lema normalizado a partir da forma OCR 'proprīpio'; verificação adicional recomendada contra LS/Whitaker para paradigmática completa.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_22892-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22892",
-    "page_num": 22892,
-    "lemmas": [
-      "prō-rĭpĭo",
-      "prō-rĭpĭo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "(forma incerta/possivelmente indicada como perfeito de proripio/proripere) verbo 'arrancar, arrebatar' — entrada original pouco clara; conservar como atestação morfológica.",
-    "exemplos": [],
-    "notas": "Entrada incerta no OCR ('proprīpi'); não confirmada em dicionários de referência. | [ocr_fix 2025-08-17T02:35:31Z] match direto em LS por lemma/lemma_norm | lemma_in='proripio' → 'prō-rĭpĭo' | [dedupe] redirect → chunk_22891:22891:0 | [dedupe] redirect → chunk_22891:22891:0",
-    "raw_text": "{\"id\":\"chunk_22892:22892:0\",\"lemas\":[\"proripio\",\"prōripere\"],\"lema_canonico\":\"proripio\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"(forma incerta/possivelmente indicada como perfeito de proripio/proripere) verbo 'arrancar, arrebatar' — entrada original pouco clara; conservar como atestação morfológica.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada incerta no OCR ('proprīpi'); não confirmada em dicionários de referência.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_22892:22892:0\",\"lemas\":[\"proripio\",\"prōripere\"],\"lema_canonico\":\"proripio\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"(forma incerta/possivelmente indicada como perfeito de proripio/proripere) verbo 'arrancar, arrebatar' — entrada original pouco clara; conservar como atestação morfológica.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada incerta no OCR ('proprīpi'); não confirmada em dicionários de referência.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_22893-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22893",
-    "page_num": 22893,
-    "lemmas": [
-      "prōrīs",
-      "prōrīs"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada variante/forma de prōra; redireciona para prōra conforme LS/Whitaker.",
-    "raw_text": "{\"id\":\"chunk_22893:22893:0\",\"lemas\":[\"prōrīs\"],\"lema_canonico\":\"prōrīs\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"prōra\"],\"exemplos\":[\"Ac. Tr. 575\"],\"notas\":\"Entrada variante/forma de prōra; redireciona para prōra conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_22893:22893:0\",\"lemas\":[\"prōrīs\"],\"lema_canonico\":\"prōrīs\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"prōra\"],\"exemplos\":[\"Ac. Tr. 575\"],\"notas\":\"Entrada variante/forma de prōra; redireciona para prōra conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"redirect_only\"]}"
-  },
-  {
     "id": "chunk_22894-e1",
     "volume_id": "faria",
     "doc_name": "chunk_22894",
@@ -2836,28 +2110,6 @@
     "notas": "Corroborado por Whitaker e Lat→Deu; macronização atendida.",
     "raw_text": "{\"id\":\"chunk_22896:22896:0\",\"lemas\":[\"prorogatus\",\"prōrōgātus\",\"prorogata\",\"prorogatum\"],\"lema_canonico\":\"prorogatus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de prōrogāre; 'adiado, prorrogado; que pode ser diferido'.\",\"aliases\":[],\"exemplos\":[\"Sen. Nat. 2, 47\"],\"notas\":\"Corroborado por Whitaker e Lat→Deu; macronização atendida.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_22896:22896:0\",\"lemas\":[\"prorogatus\",\"prōrōgātus\",\"prorogata\",\"prorogatum\"],\"lema_canonico\":\"prorogatus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de prōrogāre; 'adiado, prorrogado; que pode ser diferido'.\",\"aliases\":[],\"exemplos\":[\"Sen. Nat. 2, 47\"],\"notas\":\"Corroborado por Whitaker e Lat→Deu; macronização atendida.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_22897-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22897",
-    "page_num": 22897,
-    "lemmas": [
-      "prorogatus",
-      "prorogatus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Particípio perfeto/passivo de prōrogō, prōrogāre: prorrogado; que foi prolongado ou adiado.",
-    "exemplos": [],
-    "notas": "Normalizado a forma e marcada como particípio passivo-adjetival; corroborado por Whitaker e Lat→Deu. | [dedupe] redirect → chunk_22896:22896:0 | [dedupe] redirect → chunk_22896:22896:0",
-    "raw_text": "{\"id\":\"chunk_22897:22897:0\",\"lemas\":[\"prorogatus\",\"prorogata\",\"prorogatum\"],\"lema_canonico\":\"prorogatus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeto/passivo de prōrogō, prōrogāre: prorrogado; que foi prolongado ou adiado.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizado a forma e marcada como particípio passivo-adjetival; corroborado por Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22897:22897:0\",\"lemas\":[\"prorogatus\",\"prorogata\",\"prorogatum\"],\"lema_canonico\":\"prorogatus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeto/passivo de prōrogō, prōrogāre: prorrogado; que foi prolongado ou adiado.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizado a forma e marcada como particípio passivo-adjetival; corroborado por Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_22898-e1",
@@ -2992,28 +2244,6 @@
     "raw_json": "{\"id\":\"chunk_22903:22903:0\",\"lemas\":[\"prorumpere\",\"prorumpo\"],\"lema_canonico\":\"prorumpere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"romper para fora, irromper; lançar‑se, precipitar‑se; também tr.: impelir, desencadear\",\"aliases\":[],\"exemplos\":[\"Verg. En. 3, 572\",\"Verg. En. 1, 246\",\"Cic. Amer. 68\",\"Cic. Amer. 12\",\"Tac. An. 6, 51\"],\"notas\":\"Forma clássica prorumpo/prorumpere (prorumpo, prorumpo); entrada padronizada ao infinitivo conforme dicionários.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_22904-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22904",
-    "page_num": 22904,
-    "lemmas": [
-      "prō-rŭo",
-      "prō-rŭo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Avançar com ímpeto, precipitar-se para a frente; derrubar, arrasar, demolir; fig.: destruir, abater.",
-    "exemplos": [],
-    "notas": "Forma e flexão confirmadas; macron facultativo em fontes (prōruō). | [dedupe] redirect → chunk_22902:22902:0 | [dedupe] redirect → chunk_22902:22902:0 | [ocr_fix 2025-08-17T19:59:51Z] match direto em LS por lemma/lemma_norm | lemma_in='proruo' → 'prō-rŭo'",
-    "raw_text": "{\"id\":\"chunk_22904:22904:0\",\"lemas\":[\"proruo\",\"prōruō\"],\"lema_canonico\":\"proruo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\",\"intr.\"],\"definicao\":\"Avançar com ímpeto, precipitar-se para a frente; derrubar, arrasar, demolir; fig.: destruir, abater.\",\"aliases\":[],\"exemplos\":[\"Caes. B. Civ. 3, 69, 3\",\"Ter. Eun. 599\",\"T. Liv. 26, 13, 16\"],\"notas\":\"Forma e flexão confirmadas; macron facultativo em fontes (prōruō).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_22904:22904:0\",\"lemas\":[\"proruo\",\"prōruō\"],\"lema_canonico\":\"proruo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\",\"intr.\"],\"definicao\":\"Avançar com ímpeto, precipitar-se para a frente; derrubar, arrasar, demolir; fig.: destruir, abater.\",\"aliases\":[],\"exemplos\":[\"Caes. B. Civ. 3, 69, 3\",\"Ter. Eun. 599\",\"T. Liv. 26, 13, 16\"],\"notas\":\"Forma e flexão confirmadas; macron facultativo em fontes (prōruō).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_22905-e1",
     "volume_id": "faria",
     "doc_name": "chunk_22905",
@@ -3100,72 +2330,6 @@
     "notas": "Forma registrada em LS como prōsāpĭa; entrada normalizada. | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='prosapia' → 'prōsāpĭa'",
     "raw_text": "{\"id\":\"chunk_22908:22908:0\",\"lemas\":[\"prosapia\",\"prōsāpia\"],\"lema_canonico\":\"prosapia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Descendência, linhagem, família; termo arcaico.\",\"aliases\":[],\"exemplos\":[\"Plaut. Merc. 3, 23\",\"Cic. Tim. 39\"],\"notas\":\"Forma registrada em LS como prōsāpĭa; entrada normalizada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_22908:22908:0\",\"lemas\":[\"prosapia\",\"prōsāpia\"],\"lema_canonico\":\"prosapia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Descendência, linhagem, família; termo arcaico.\",\"aliases\":[],\"exemplos\":[\"Plaut. Merc. 3, 23\",\"Cic. Tim. 39\"],\"notas\":\"Forma registrada em LS como prōsāpĭa; entrada normalizada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_22909-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22909",
-    "page_num": 22909,
-    "lemmas": [
-      "prōpensus",
-      "prōpensus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "(Incerto) indicado como adj. ou particípio relacionado a proscēnium / proscenium; possível referência a parte do teatro (proscênio).",
-    "exemplos": [],
-    "notas": "Leitura incerta no OCR; forma não confirmada em LS/Lat→Deu. Requer verificação em fontes primárias.\n[ocr_pipeline 2025-08-16T23:17:04.252111Z] lemma_in='prosenus' → 'prōpensus' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:14:11Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='prōpensus' → 'prōpensus' | [dedupe] redirect → chunk_22828:22828:0 | [dedupe] redirect → chunk_22828:22828:0",
-    "raw_text": "{\"id\":\"chunk_22909:22909:0\",\"lemas\":[\"prosenus\"],\"lema_canonico\":\"prosenus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"(Incerto) indicado como adj. ou particípio relacionado a proscēnium / proscenium; possível referência a parte do teatro (proscênio).\",\"aliases\":[],\"exemplos\":[\"Verg. G. 2, 381\"],\"notas\":\"Leitura incerta no OCR; forma não confirmada em LS/Lat→Deu. Requer verificação em fontes primárias.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_22909:22909:0\",\"lemas\":[\"prosenus\"],\"lema_canonico\":\"prosenus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"(Incerto) indicado como adj. ou particípio relacionado a proscēnium / proscenium; possível referência a parte do teatro (proscênio).\",\"aliases\":[],\"exemplos\":[\"Verg. G. 2, 381\"],\"notas\":\"Leitura incerta no OCR; forma não confirmada em LS/Lat→Deu. Requer verificação em fontes primárias.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_22910-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22910",
-    "page_num": 22910,
-    "lemmas": [
-      "proscindere",
-      "proscindere"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Cortar, rachar, fender; arar, abrir sulco; também ofender com palavras, desonrar.",
-    "exemplos": [],
-    "notas": "Formas prōscīndere, prōscīdī, prōscissum / prōscissus atestadas; normalizada segundo Whitaker/Lat→Deu. | [dedupe] redirect → chunk_22930:22930:2 | [dedupe] redirect → chunk_22930:22930:2",
-    "raw_text": "{\"id\":\"chunk_22910:22910:0\",\"lemas\":[\"proscindere\",\"proscindo\"],\"lema_canonico\":\"proscindere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Cortar, rachar, fender; arar, abrir sulco; também ofender com palavras, desonrar.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Formas prōscīndere, prōscīdī, prōscissum / prōscissus atestadas; normalizada segundo Whitaker/Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_22910:22910:0\",\"lemas\":[\"proscindere\",\"proscindo\"],\"lema_canonico\":\"proscindere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Cortar, rachar, fender; arar, abrir sulco; também ofender com palavras, desonrar.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Formas prōscīndere, prōscīdī, prōscissum / prōscissus atestadas; normalizada segundo Whitaker/Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_22911-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22911",
-    "page_num": 22911,
-    "lemmas": [
-      "proscindere",
-      "proscindere"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "fender, rasgar, abrir; cortar, sulcar; figurado: difamar, atacar",
-    "exemplos": [],
-    "notas": "Normalizada com formas do Lewis & Short e Whitaker (prōscindere, prōscīdī, prōscissum). | [dedupe] redirect → chunk_22930:22930:2 | [dedupe] redirect → chunk_22930:22930:2",
-    "raw_text": "{\"id\":\"chunk_22911:22911:0\",\"lemas\":[\"proscindo\",\"proscindere\",\"proscidi\",\"proscissus\",\"prōscindō\",\"prōscindere\"],\"lema_canonico\":\"proscindere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"fender, rasgar, abrir; cortar, sulcar; figurado: difamar, atacar\",\"aliases\":[],\"exemplos\":[\"Verg. G. 1, 97\",\"Ov. P. 4, 16, 97\"],\"notas\":\"Normalizada com formas do Lewis & Short e Whitaker (prōscindere, prōscīdī, prōscissum).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22911:22911:0\",\"lemas\":[\"proscindo\",\"proscindere\",\"proscidi\",\"proscissus\",\"prōscindō\",\"prōscindere\"],\"lema_canonico\":\"proscindere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"fender, rasgar, abrir; cortar, sulcar; figurado: difamar, atacar\",\"aliases\":[],\"exemplos\":[\"Verg. G. 1, 97\",\"Ov. P. 4, 16, 97\"],\"notas\":\"Normalizada com formas do Lewis & Short e Whitaker (prōscindere, prōscīdī, prōscissum).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_22912-e1",
@@ -3276,116 +2440,6 @@
     "notas": "Forma rara/desiderativa atestada em Lewis & Short; tratamento como v. 4ª por terminação -īre.",
     "raw_text": "{\"id\":\"chunk_22913:22913:3\",\"lemas\":[\"proscripturio\",\"prōscriptūrĭo\"],\"lema_canonico\":\"proscripturio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"verbo desiderativo (sarcasticamente formado): desejar proscrever; ansiar por proscrição\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 9, 10, 6 (cit. Quint.)\"],\"notas\":\"Forma rara/desiderativa atestada em Lewis & Short; tratamento como v. 4ª por terminação -īre.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_22913:22913:3\",\"lemas\":[\"proscripturio\",\"prōscriptūrĭo\"],\"lema_canonico\":\"proscripturio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"verbo desiderativo (sarcasticamente formado): desejar proscrever; ansiar por proscrição\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 9, 10, 6 (cit. Quint.)\"],\"notas\":\"Forma rara/desiderativa atestada em Lewis & Short; tratamento como v. 4ª por terminação -īre.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_22914-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22914",
-    "page_num": 22914,
-    "lemmas": [
-      "proscriptus",
-      "proscriptus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Particípio perfeito passivo de prōscribō; proscrito; substantivado: pessoa banida ou declarada fora da lei.",
-    "exemplos": [],
-    "notas": "Entrada corresponde a prōscriptus (part. de proscribo) atestada em LS e Whitaker. | [dedupe] redirect → chunk_22913:22913:2 | [dedupe] redirect → chunk_22913:22913:2",
-    "raw_text": "{\"id\":\"chunk_22914:22914:0\",\"lemas\":[\"proscriptus\",\"prōscriptus\"],\"lema_canonico\":\"proscriptus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo de prōscribō; proscrito; substantivado: pessoa banida ou declarada fora da lei.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada corresponde a prōscriptus (part. de proscribo) atestada em LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22914:22914:0\",\"lemas\":[\"proscriptus\",\"prōscriptus\"],\"lema_canonico\":\"proscriptus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo de prōscribō; proscrito; substantivado: pessoa banida ou declarada fora da lei.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada corresponde a prōscriptus (part. de proscribo) atestada em LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_22915-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22915",
-    "page_num": 22915,
-    "lemmas": [
-      "proscriptio",
-      "proscriptio"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "aviso público; edital de venda; proscrição, ato de confisco ou declaração de proscrição.",
-    "exemplos": [],
-    "notas": "Normalizada a forma latina e genitivo. | [dedupe] redirect → chunk_22913:22913:1 | [dedupe] redirect → chunk_22913:22913:1",
-    "raw_text": "{\"id\":\"chunk_22915:22915:0\",\"lemas\":[\"proscriptio\"],\"lema_canonico\":\"proscriptio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"aviso público; edital de venda; proscrição, ato de confisco ou declaração de proscrição.\",\"aliases\":[],\"exemplos\":[\"Cic. Quint. 56\",\"Cic. Prov. 45\"],\"notas\":\"Normalizada a forma latina e genitivo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22915:22915:0\",\"lemas\":[\"proscriptio\"],\"lema_canonico\":\"proscriptio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"aviso público; edital de venda; proscrição, ato de confisco ou declaração de proscrição.\",\"aliases\":[],\"exemplos\":[\"Cic. Quint. 56\",\"Cic. Prov. 45\"],\"notas\":\"Normalizada a forma latina e genitivo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_22916-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22916",
-    "page_num": 22916,
-    "lemmas": [
-      "proscriptio",
-      "proscriptio"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "aviso público por escrito; anúncio de venda; proscrição, confiscação (publicação de nomes de proscritos)",
-    "exemplos": [],
-    "notas": "Normalizada a forma substantiva prōscriptiō, -ōnis f.; entradas verbais confusas do OCR não foram adotadas. | [dedupe] redirect → chunk_22913:22913:1 | [dedupe] redirect → chunk_22913:22913:1",
-    "raw_text": "{\"id\":\"chunk_22916:22916:0\",\"lemas\":[\"proscriptio\",\"prōscriptiō\"],\"lema_canonico\":\"proscriptio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"aviso público por escrito; anúncio de venda; proscrição, confiscação (publicação de nomes de proscritos)\",\"aliases\":[],\"exemplos\":[\"Cic. Quint. 18, 56\"],\"notas\":\"Normalizada a forma substantiva prōscriptiō, -ōnis f.; entradas verbais confusas do OCR não foram adotadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22916:22916:0\",\"lemas\":[\"proscriptio\",\"prōscriptiō\"],\"lema_canonico\":\"proscriptio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"aviso público por escrito; anúncio de venda; proscrição, confiscação (publicação de nomes de proscritos)\",\"aliases\":[],\"exemplos\":[\"Cic. Quint. 18, 56\"],\"notas\":\"Normalizada a forma substantiva prōscriptiō, -ōnis f.; entradas verbais confusas do OCR não foram adotadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_22917-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22917",
-    "page_num": 22917,
-    "lemmas": [
-      "proscriptus",
-      "proscriptus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "pessoa proscrita; proscrito; também particípio perfeito passivo de proscribere.",
-    "exemplos": [],
-    "notas": "Registro dupla função: substantivo (proscripto) e particípio. | [dedupe] redirect → chunk_22913:22913:2 | [dedupe] redirect → chunk_22913:22913:2",
-    "raw_text": "{\"id\":\"chunk_22917:22917:0\",\"lemas\":[\"proscriptus\"],\"lema_canonico\":\"proscriptus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"pessoa proscrita; proscrito; também particípio perfeito passivo de proscribere.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Registro dupla função: substantivo (proscripto) e particípio.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22917:22917:0\",\"lemas\":[\"proscriptus\"],\"lema_canonico\":\"proscriptus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"pessoa proscrita; proscrito; também particípio perfeito passivo de proscribere.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Registro dupla função: substantivo (proscripto) e particípio.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_22918-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22918",
-    "page_num": 22918,
-    "lemmas": [
-      "proscriptus",
-      "proscriptus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "proscrito; pessoa proscrita, outlaw",
-    "exemplos": [],
-    "notas": "[dedupe] redirect → chunk_22913:22913:2 | [dedupe] redirect → chunk_22913:22913:2",
-    "raw_text": "{\"id\":\"chunk_22918:22918:0\",\"lemas\":[\"proscriptus\",\"prōscrīptus\"],\"lema_canonico\":\"proscriptus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"proscrito; pessoa proscrita, outlaw\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 1, 123\"],\"notas\":\"\",\"flags\":[\"src_whitaker\",\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22918:22918:0\",\"lemas\":[\"proscriptus\",\"prōscrīptus\"],\"lema_canonico\":\"proscriptus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"proscrito; pessoa proscrita, outlaw\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 1, 123\"],\"notas\":\"\",\"flags\":[\"src_whitaker\",\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_22918-e2",
@@ -3522,50 +2576,6 @@
     "raw_json": "{\"id\":\"chunk_22922:22922:1\",\"lemas\":[\"prosecutus\",\"prōsĕcūtus\"],\"lema_canonico\":\"prosecutus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito de prosequor, usado adjectivalmente: 'tendo acompanhado', 'tendo honrado', etc.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Tratado como adjetivo (a, um) conforme Lewis & Short; marcado como particípio perfeito deponente.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_22922-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_22922",
-    "page_num": 22922,
-    "lemmas": [
-      "prosecutus",
-      "prosecutus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "formas flexionadas do particípio perfeito 'prosecutus' (ex.: prōsecūtī = gen. sg. / nom. pl. dependendo do contexto).",
-    "exemplos": [],
-    "notas": "Entrada registra variantes flexionadas encontradas no OCR; esclarecido o valor morfológico das formas. | [dedupe] redirect → chunk_22922:22922:1 | [dedupe] redirect → chunk_22922:22922:1",
-    "raw_text": "{\"id\":\"chunk_22922:22922:2\",\"lemas\":[\"prosecutus\"],\"lema_canonico\":\"prosecutus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\",\"form: gen. sg. masc.\",\"form: nom. pl. masc.\"],\"definicao\":\"formas flexionadas do particípio perfeito 'prosecutus' (ex.: prōsecūtī = gen. sg. / nom. pl. dependendo do contexto).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada registra variantes flexionadas encontradas no OCR; esclarecido o valor morfológico das formas.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"src_ocr\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22922:22922:2\",\"lemas\":[\"prosecutus\"],\"lema_canonico\":\"prosecutus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\",\"form: gen. sg. masc.\",\"form: nom. pl. masc.\"],\"definicao\":\"formas flexionadas do particípio perfeito 'prosecutus' (ex.: prōsecūtī = gen. sg. / nom. pl. dependendo do contexto).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada registra variantes flexionadas encontradas no OCR; esclarecido o valor morfológico das formas.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"src_ocr\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_22923-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22923",
-    "page_num": 22923,
-    "lemmas": [
-      "prostituo",
-      "prostituo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "colocar publicamente; expor à vergonha; prostituir, tornar público (também: prostituere → prostitutus, part. / adject. ‘público/exposto’)",
-    "exemplos": [],
-    "notas": "Entrada alinhada com Whitaker, LS e Lat→Deu; inclui particípio adjectival prōstitūtus e forma feminina prōstitūta atestada. | [dedupe] redirect → chunk_22958:22958:0 | [dedupe] redirect → chunk_22958:22958:0",
-    "raw_text": "{\"id\":\"chunk_22923:22923:0\",\"lemas\":[\"prostituo\",\"prōstituere\",\"prostitutus\",\"prōstitūtus\"],\"lema_canonico\":\"prostituo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"colocar publicamente; expor à vergonha; prostituir, tornar público (também: prostituere → prostitutus, part. / adject. ‘público/exposto’)\",\"aliases\":[],\"exemplos\":[\"Plaut. Poen. 266\"],\"notas\":\"Entrada alinhada com Whitaker, LS e Lat→Deu; inclui particípio adjectival prōstitūtus e forma feminina prōstitūta atestada.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22923:22923:0\",\"lemas\":[\"prostituo\",\"prōstituere\",\"prostitutus\",\"prōstitūtus\"],\"lema_canonico\":\"prostituo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"colocar publicamente; expor à vergonha; prostituir, tornar público (também: prostituere → prostitutus, part. / adject. ‘público/exposto’)\",\"aliases\":[],\"exemplos\":[\"Plaut. Poen. 266\"],\"notas\":\"Entrada alinhada com Whitaker, LS e Lat→Deu; inclui particípio adjectival prōstitūtus e forma feminina prōstitūta atestada.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_22923-e2",
     "volume_id": "faria",
     "doc_name": "chunk_22923",
@@ -3698,50 +2708,6 @@
     "raw_json": "{\"id\":\"chunk_22927:22927:0\",\"lemas\":[\"prosequi\",\"prosequor\"],\"lema_canonico\":\"prosequi\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"seguir, acompanhar; prosseguir, continuar; perseguir; acompanhar em escolta; honrar; narrar, expor\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 3, 10, 8\",\"Cic. Leg. 2, 62\",\"Cic. Clu. 201\",\"Verg. En. 2, 107\",\"Caes. B. Civ. 2, 8, 2\",\"Cic. Verr. 4, 77\",\"Cic. Tusc. 2, 61\",\"Verg. G. 3, 339\"],\"notas\":\"Verbo deponente; lemma apresentado no infinitivo conforme dicionários; formas pessoais mantidas em exemplos.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_22928-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22928",
-    "page_num": 22928,
-    "lemmas": [
-      "pro",
-      "pro"
-    ],
-    "morfologia": "prep. com abl.",
-    "morph_render": "prep. com abl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "em favor de; diante de, antes de; por, em lugar de; também usado como prefixo em compostos.",
-    "exemplos": [],
-    "notas": "Normalizado como preposição com ablativo; baseado em LS e Whitaker. | [dedupe] redirect → chunk_22545:22545:0 | [dedupe] redirect → chunk_22545:22545:0",
-    "raw_text": "{\"id\":\"chunk_22928:22928:0\",\"lemas\":[\"pro\"],\"lema_canonico\":\"pro\",\"morfologia\":\"prep. com abl.\",\"morph_extra\":[],\"definicao\":\"em favor de; diante de, antes de; por, em lugar de; também usado como prefixo em compostos.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizado como preposição com ablativo; baseado em LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22928:22928:0\",\"lemas\":[\"pro\"],\"lema_canonico\":\"pro\",\"morfologia\":\"prep. com abl.\",\"morph_extra\":[],\"definicao\":\"em favor de; diante de, antes de; por, em lugar de; também usado como prefixo em compostos.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizado como preposição com ablativo; baseado em LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_22928-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_22928",
-    "page_num": 22928,
-    "lemmas": [
-      "servus",
-      "servus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "escravo, servo, servente",
-    "exemplos": [],
-    "notas": "Grafia e declinação regularizadas para forma patrícia clássica. | [dedupe] redirect → chunk_25869:25869:0 | [dedupe] redirect → chunk_25869:25869:0",
-    "raw_text": "{\"id\":\"chunk_22928:22928:1\",\"lemas\":[\"servus\"],\"lema_canonico\":\"servus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"escravo, servo, servente\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Grafia e declinação regularizadas para forma patrícia clássica.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22928:22928:1\",\"lemas\":[\"servus\"],\"lema_canonico\":\"servus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"escravo, servo, servente\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Grafia e declinação regularizadas para forma patrícia clássica.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_22928-e3",
     "volume_id": "faria",
     "doc_name": "chunk_22928",
@@ -3808,28 +2774,6 @@
     "raw_json": "{\"id\":\"chunk_22930:22930:2\",\"lemas\":[\"proscindere\",\"prō-scindo\",\"pro-scindo\"],\"lema_canonico\":\"proscindere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"rasgar/abrir em frente; fender, cortar em pedaços; (agric.) revolver/arar a terra pela primeira lavoura\",\"aliases\":[],\"exemplos\":[\"Luc. 3, 434\"],\"notas\":\"Corresponde a prō-scindō (LS) e prōscindere (Lat→Deu); infinitivo usado como lema canônico.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_22930-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_22930",
-    "page_num": 22930,
-    "lemmas": [
-      "pro",
-      "pro"
-    ],
-    "morfologia": "prep. com abl.",
-    "morph_render": "prep. com abl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "em favor de, em frente a; por, em lugar de; segundo, conforme; como (uso preposicional com ablativo)",
-    "exemplos": [],
-    "notas": "Preposição clássica; acepções resumidas segundo LS e Whitaker. | [dedupe] redirect → chunk_22545:22545:0 | [dedupe] redirect → chunk_22545:22545:0",
-    "raw_text": "{\"id\":\"chunk_22930:22930:3\",\"lemas\":[\"pro\",\"prō\"],\"lema_canonico\":\"pro\",\"morfologia\":\"prep. com abl.\",\"morph_extra\":[],\"definicao\":\"em favor de, em frente a; por, em lugar de; segundo, conforme; como (uso preposicional com ablativo)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Preposição clássica; acepções resumidas segundo LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22930:22930:3\",\"lemas\":[\"pro\",\"prō\"],\"lema_canonico\":\"pro\",\"morfologia\":\"prep. com abl.\",\"morph_extra\":[],\"definicao\":\"em favor de, em frente a; por, em lugar de; segundo, conforme; como (uso preposicional com ablativo)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Preposição clássica; acepções resumidas segundo LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_22930-e3",
     "volume_id": "faria",
     "doc_name": "chunk_22930",
@@ -3874,72 +2818,6 @@
     "raw_json": "{\"id\":\"chunk_22930:22930:5\",\"lemas\":[\"proserpere\",\"proserpo\",\"prōserpere\"],\"lema_canonico\":\"proserpere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"mover‑se rastejando; sair rastejando, emergir devagar (intransitivo)\",\"aliases\":[],\"exemplos\":[\"Plaut. Poen. 1034\"],\"notas\":\"Lemata e sentido conforme Lat→Deu e Whitaker; part. perfeito ausente nas fontes clássicas.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_22930-e5",
-    "volume_id": "faria",
-    "doc_name": "chunk_22930",
-    "page_num": 22930,
-    "lemmas": [
-      "proscio",
-      "proscio"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:low",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada aparentemente erro/OCR indicando 'proscio = proscindo'; marcada como redirecionamento para proscindere.",
-    "raw_text": "{\"id\":\"chunk_22930:22930:6\",\"lemas\":[\"proscio\"],\"lema_canonico\":\"proscio\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"proscindere\"],\"exemplos\":[],\"notas\":\"Entrada aparentemente erro/OCR indicando 'proscio = proscindo'; marcada como redirecionamento para proscindere.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_22930:22930:6\",\"lemas\":[\"proscio\"],\"lema_canonico\":\"proscio\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"proscindere\"],\"exemplos\":[],\"notas\":\"Entrada aparentemente erro/OCR indicando 'proscio = proscindo'; marcada como redirecionamento para proscindere.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"redirect_only\"]}"
-  },
-  {
-    "id": "chunk_22930-e6",
-    "volume_id": "faria",
-    "doc_name": "chunk_22930",
-    "page_num": 22930,
-    "lemmas": [
-      "percio",
-      "percio"
-    ],
-    "morfologia": "v. 4ª (-īre)",
-    "morph_render": "v. 4ª (-īre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "percīre / percĭo: mover, excitar, pôr em movimento; forma listada como percīre/percĭo (Lat→Deu; LS referencia percĭo → percieo).",
-    "exemplos": [],
-    "notas": "Atestado em Lat→Deu e apontado por Lewis & Short (percĭo → percieo). Grafia normalizada para percio/percīo. | [dedupe] redirect → chunk_20182:20182:0 | [dedupe] redirect → chunk_20182:20182:0",
-    "raw_text": "{\"id\":\"chunk_22930:22930:0\",\"lemas\":[\"percio\",\"percīo\",\"percieo\"],\"lema_canonico\":\"percio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"percīre / percĭo: mover, excitar, pôr em movimento; forma listada como percīre/percĭo (Lat→Deu; LS referencia percĭo → percieo).\",\"aliases\":[\"percieo\"],\"exemplos\":[],\"notas\":\"Atestado em Lat→Deu e apontado por Lewis & Short (percĭo → percieo). Grafia normalizada para percio/percīo.\",\"flags\":[\"src_latdeu\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22930:22930:0\",\"lemas\":[\"percio\",\"percīo\",\"percieo\"],\"lema_canonico\":\"percio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"percīre / percĭo: mover, excitar, pôr em movimento; forma listada como percīre/percĭo (Lat→Deu; LS referencia percĭo → percieo).\",\"aliases\":[\"percieo\"],\"exemplos\":[],\"notas\":\"Atestado em Lat→Deu e apontado por Lewis & Short (percĭo → percieo). Grafia normalizada para percio/percīo.\",\"flags\":[\"src_latdeu\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_22930-e7",
-    "volume_id": "faria",
-    "doc_name": "chunk_22930",
-    "page_num": 22930,
-    "lemmas": [
-      "per-scindo",
-      "per-scindo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "per-scindo (scīdō, scīdī, scissum): rasgar, cortar em pedaços; dilacerar.",
-    "exemplos": [],
-    "notas": "Forma e flexão conforme Lewis & Short (per‑scindo, scīdi, scissum). | [dedupe] redirect → chunk_20640:20640:0 | [dedupe] redirect → chunk_20640:20640:0 | [ocr_fix 2025-08-17T19:59:51Z] match direto em LS por lemma/lemma_norm | lemma_in='perscindo' → 'per-scindo'",
-    "raw_text": "{\"id\":\"chunk_22930:22930:1\",\"lemas\":[\"perscindo\",\"per-scindo\"],\"lema_canonico\":\"perscindo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"per-scindo (scīdō, scīdī, scissum): rasgar, cortar em pedaços; dilacerar.\",\"aliases\":[\"per-scindo\"],\"exemplos\":[\"Lucr. 6, 138\",\"Liv. 21, 58\"],\"notas\":\"Forma e flexão conforme Lewis & Short (per‑scindo, scīdi, scissum).\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_22930:22930:1\",\"lemas\":[\"perscindo\",\"per-scindo\"],\"lema_canonico\":\"perscindo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"per-scindo (scīdō, scīdī, scissum): rasgar, cortar em pedaços; dilacerar.\",\"aliases\":[\"per-scindo\"],\"exemplos\":[\"Lucr. 6, 138\",\"Liv. 21, 58\"],\"notas\":\"Forma e flexão conforme Lewis & Short (per‑scindo, scīdi, scissum).\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_22931-e1",
     "volume_id": "faria",
     "doc_name": "chunk_22931",
@@ -3960,50 +2838,6 @@
     "notas": "Infinitivo e paradigma normalizados segundo Whitaker/Lat→Deu; variantes de perfeito atestadas (prosilui/ prosilivi).",
     "raw_text": "{\"id\":\"chunk_22931:22931:0\",\"lemas\":[\"prosilio\"],\"lema_canonico\":\"prosilio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"prōsilīre / prōsiliō: saltar para fora, saltar para cima/para diante; precipitar-se; lançar‑se; brotar, jorrar; avançar com ímpeto.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Infinitivo e paradigma normalizados segundo Whitaker/Lat→Deu; variantes de perfeito atestadas (prosilui/ prosilivi).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_22931:22931:0\",\"lemas\":[\"prosilio\"],\"lema_canonico\":\"prosilio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"prōsilīre / prōsiliō: saltar para fora, saltar para cima/para diante; precipitar-se; lançar‑se; brotar, jorrar; avançar com ímpeto.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Infinitivo e paradigma normalizados segundo Whitaker/Lat→Deu; variantes de perfeito atestadas (prosilui/ prosilivi).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_22932-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22932",
-    "page_num": 22932,
-    "lemmas": [
-      "prosilio",
-      "prosilio"
-    ],
-    "morfologia": "v. 4ª (-īre)",
-    "morph_render": "v. 4ª (-īre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "prōsilīre / prōsiliō: Saltar para diante; arremessar‑se; precipitar‑se; sair violentamente; brotar/jorrar; figuradamente: mover‑se rapidamente, apressar‑se.",
-    "exemplos": [],
-    "notas": "Paradigma e variantes de perfeito normalizados (prosilui, prosilivi) com base em testemunhos editados. | [dedupe] redirect → chunk_22931:22931:0 | [dedupe] redirect → chunk_22931:22931:0",
-    "raw_text": "{\"id\":\"chunk_22932:22932:0\",\"lemas\":[\"prosilio\"],\"lema_canonico\":\"prosilio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"prōsilīre / prōsiliō: Saltar para diante; arremessar‑se; precipitar‑se; sair violentamente; brotar/jorrar; figuradamente: mover‑se rapidamente, apressar‑se.\",\"aliases\":[],\"exemplos\":[\"Cic. Cel. 63\",\"Ov. Met. 6, 260\",\"Liv. 28, 14, 10\",\"Plin. H. Nat. 4, 8\",\"Sen. Clem. 1, 3, 3\",\"Sen. Ep. 115, 15\"],\"notas\":\"Paradigma e variantes de perfeito normalizados (prosilui, prosilivi) com base em testemunhos editados.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22932:22932:0\",\"lemas\":[\"prosilio\"],\"lema_canonico\":\"prosilio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"prōsilīre / prōsiliō: Saltar para diante; arremessar‑se; precipitar‑se; sair violentamente; brotar/jorrar; figuradamente: mover‑se rapidamente, apressar‑se.\",\"aliases\":[],\"exemplos\":[\"Cic. Cel. 63\",\"Ov. Met. 6, 260\",\"Liv. 28, 14, 10\",\"Plin. H. Nat. 4, 8\",\"Sen. Clem. 1, 3, 3\",\"Sen. Ep. 115, 15\"],\"notas\":\"Paradigma e variantes de perfeito normalizados (prosilui, prosilivi) com base em testemunhos editados.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_22933-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22933",
-    "page_num": 22933,
-    "lemmas": [
-      "prosilio",
-      "prosilio"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada trata-se de forma flexionada (3ª pl. pres. ind. de prōsiliō); marcada como redirecionamento para o lema.",
-    "raw_text": "{\"id\":\"chunk_22933:22933:0\",\"lemas\":[\"prosiliunt\"],\"lema_canonico\":\"prosilio\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"prosilio\"],\"exemplos\":[],\"notas\":\"Entrada trata-se de forma flexionada (3ª pl. pres. ind. de prōsiliō); marcada como redirecionamento para o lema.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_22933:22933:0\",\"lemas\":[\"prosiliunt\"],\"lema_canonico\":\"prosilio\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"prosilio\"],\"exemplos\":[],\"notas\":\"Entrada trata-se de forma flexionada (3ª pl. pres. ind. de prōsiliō); marcada como redirecionamento para o lema.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"redirect_only\"]}"
   },
   {
     "id": "chunk_22934-e1",
@@ -4070,28 +2904,6 @@
     "notas": "Grafia e classificação ajustadas conforme Lewis & Short e Whitaker. | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='prosopopoeia' → 'prŏsōpŏpoeĭa'",
     "raw_text": "{\"id\":\"chunk_22936:22936:0\",\"lemas\":[\"prosopopoeia\"],\"lema_canonico\":\"prosopopoeia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Prosopopeia: figura de retórica (personification, dramatization) — atribuir fala/ações a ausentes, mortos, animais ou coisas.\",\"aliases\":[],\"exemplos\":[\"Quint. 1, 5, 21\",\"Quint. 2, 1, 2\"],\"notas\":\"Grafia e classificação ajustadas conforme Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_22936:22936:0\",\"lemas\":[\"prosopopoeia\"],\"lema_canonico\":\"prosopopoeia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Prosopopeia: figura de retórica (personification, dramatization) — atribuir fala/ações a ausentes, mortos, animais ou coisas.\",\"aliases\":[],\"exemplos\":[\"Quint. 1, 5, 21\",\"Quint. 2, 1, 2\"],\"notas\":\"Grafia e classificação ajustadas conforme Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_22937-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22937",
-    "page_num": 22937,
-    "lemmas": [
-      "prō-spĭcĭo",
-      "prō-spĭcĭo"
-    ],
-    "morfologia": "v. 3ª -iō (-ere)",
-    "morph_render": "v. 3ª -iō (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "prōspicere: ver. tr. e intr. — olhar para a frente, ver ao longe; cuidar de, providenciar, prever.",
-    "exemplos": [],
-    "notas": "Normalizado para prōspiciō / prōspicere; paradigma ajustado conforme Lat→Deu. | [dedupe] redirect → chunk_22950:22950:0 | [dedupe] redirect → chunk_22950:22950:0 | [ocr_fix 2025-08-17T19:51:35Z] match direto em LS por lemma/lemma_norm | lemma_in='prospicio' → 'prō-spĭcĭo'",
-    "raw_text": "{\"id\":\"chunk_22937:22937:0\",\"lemas\":[\"prospicio\",\"prospicere\"],\"lema_canonico\":\"prospicio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[],\"definicao\":\"prōspicere: ver. tr. e intr. — olhar para a frente, ver ao longe; cuidar de, providenciar, prever.\",\"aliases\":[],\"exemplos\":[\"Cic. At. 9, 10, 2\",\"T. Liv. 24, 21, 8\",\"Tac. Hist. 5, 6\"],\"notas\":\"Normalizado para prōspiciō / prōspicere; paradigma ajustado conforme Lat→Deu.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_22937:22937:0\",\"lemas\":[\"prospicio\",\"prospicere\"],\"lema_canonico\":\"prospicio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[],\"definicao\":\"prōspicere: ver. tr. e intr. — olhar para a frente, ver ao longe; cuidar de, providenciar, prever.\",\"aliases\":[],\"exemplos\":[\"Cic. At. 9, 10, 2\",\"T. Liv. 24, 21, 8\",\"Tac. Hist. 5, 6\"],\"notas\":\"Normalizado para prōspiciō / prōspicere; paradigma ajustado conforme Lat→Deu.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
     "id": "chunk_22938-e1",
@@ -4600,28 +3412,6 @@
     "raw_json": "{\"id\":\"chunk_22960:22960:0\",\"lemas\":[\"prosa\",\"prosis\",\"prosus\"],\"lema_canonico\":\"prosa\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"prosa; estilo não ligado a verso; também atestado o adjetivo prosus/prosis 'prosaico, sem ornamento' (var.).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corretas as entradas relacionadas a prosa/prosus: Whitaker e Lat→Deu atestam prosis como variante e prosus como adj. A forma verbal apresentada no OCR é provavelmente distinta (ver flags).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_22960-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_22960",
-    "page_num": 22960,
-    "lemmas": [
-      "prōstrātus",
-      "prōstrātus"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "infinitivo perfeito sincopado de prosternō — equivalente a prostravisse / prostrāvisse; usado em poemas (ex.: Ov. Trist. 3, 5, 33).",
-    "exemplos": [],
-    "notas": "Registro de forma sincopada do inf. perf.; preservada a grafia antiga 'prostrāsse'.\n[ocr_pipeline 2025-08-16T23:27:22.318645Z] lemma_in='prostrāsse' → 'prōstrātus' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:28:04Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='prōstrātus' → 'prōstrātus' | [dedupe] redirect → chunk_22961:22961:0 | [dedupe] redirect → chunk_22961:22961:0",
-    "raw_text": "{\"id\":\"chunk_22960:22960:1\",\"lemas\":[\"prostrāsse\",\"prostravisse\",\"prosternō\"],\"lema_canonico\":\"prostrāsse\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"infinitivo perfeito sincopado de prosternō — equivalente a prostravisse / prostrāvisse; usado em poemas (ex.: Ov. Trist. 3, 5, 33).\",\"aliases\":[\"prostravisse\"],\"exemplos\":[\"Ov. Trist. 3, 5, 33\"],\"notas\":\"Registro de forma sincopada do inf. perf.; preservada a grafia antiga 'prostrāsse'.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}",
-    "raw_json": "{\"id\":\"chunk_22960:22960:1\",\"lemas\":[\"prostrāsse\",\"prostravisse\",\"prosternō\"],\"lema_canonico\":\"prostrāsse\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"infinitivo perfeito sincopado de prosternō — equivalente a prostravisse / prostrāvisse; usado em poemas (ex.: Ov. Trist. 3, 5, 33).\",\"aliases\":[\"prostravisse\"],\"exemplos\":[\"Ov. Trist. 3, 5, 33\"],\"notas\":\"Registro de forma sincopada do inf. perf.; preservada a grafia antiga 'prostrāsse'.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}"
-  },
-  {
     "id": "chunk_22961-e1",
     "volume_id": "faria",
     "doc_name": "chunk_22961",
@@ -4952,50 +3742,6 @@
     "raw_json": "{\"id\":\"chunk_22971:22971:1\",\"lemas\":[\"protinus\"],\"lema_canonico\":\"protinus\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"imediatamente; para a frente, sem pausa\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Restabelecido como advérbio (protinus) conforme fontes\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_22972-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22972",
-    "page_num": 22972,
-    "lemmas": [
-      "prō-tĕro",
-      "prō-tĕro"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "prōterō, prōterere/prōterō, prōtrīvī, prōtrītum: pisar, esmagar; figuradamente: arruinar, destruir, desprezar",
-    "exemplos": [],
-    "notas": "Normalizada a forma canónica prōterō; preservadas as acepções e exemplos. | [dedupe] redirect → chunk_22974:22974:0 | [dedupe] redirect → chunk_22974:22974:0 | [ocr_fix 2025-08-17T19:59:50Z] match direto em LS por lemma/lemma_norm | lemma_in='proterō' → 'prō-tĕro'",
-    "raw_text": "{\"id\":\"chunk_22972:22972:0\",\"lemas\":[\"protero\",\"proterō\",\"prōterō\"],\"lema_canonico\":\"proterō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"prōterō, prōterere/prōterō, prōtrīvī, prōtrītum: pisar, esmagar; figuradamente: arruinar, destruir, desprezar\",\"aliases\":[],\"exemplos\":[\"Cés. B. Civ. 2, 41, 5\",\"Verg. En. 12, 330\",\"Tác. Hist. 2, 26\"],\"notas\":\"Normalizada a forma canónica prōterō; preservadas as acepções e exemplos.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_22972:22972:0\",\"lemas\":[\"protero\",\"proterō\",\"prōterō\"],\"lema_canonico\":\"proterō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"prōterō, prōterere/prōterō, prōtrīvī, prōtrītum: pisar, esmagar; figuradamente: arruinar, destruir, desprezar\",\"aliases\":[],\"exemplos\":[\"Cés. B. Civ. 2, 41, 5\",\"Verg. En. 12, 330\",\"Tác. Hist. 2, 26\"],\"notas\":\"Normalizada a forma canónica prōterō; preservadas as acepções e exemplos.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_22973-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22973",
-    "page_num": 22973,
-    "lemmas": [
-      "prō-tĕro",
-      "prō-tĕro"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Verbo prōterō/prōterere: pôr em fuga pelo terror, expulsar; transitivo. 'proterio' citado no Faria parece ser forma substantival/derivada (abstrato) ou variante; leitura incerta.",
-    "exemplos": [],
-    "notas": "Entrada do Faria mistura verbo e forma substantival; Whitaker atesta 'proterio' como variante/forma derivada, mas documentação é incerta. | [dedupe] redirect → chunk_22974:22974:0 | [dedupe] redirect → chunk_22974:22974:0 | [ocr_fix 2025-08-17T19:53:22Z] match direto em LS por lemma/lemma_norm | lemma_in='prōterō' → 'prō-tĕro'",
-    "raw_text": "{\"id\":\"chunk_22973:22973:0\",\"lemas\":[\"prōterō\",\"proterio\"],\"lema_canonico\":\"prōterō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Verbo prōterō/prōterere: pôr em fuga pelo terror, expulsar; transitivo. 'proterio' citado no Faria parece ser forma substantival/derivada (abstrato) ou variante; leitura incerta.\",\"aliases\":[\"proterio\"],\"exemplos\":[\"Cic. Dom. 107\"],\"notas\":\"Entrada do Faria mistura verbo e forma substantival; Whitaker atesta 'proterio' como variante/forma derivada, mas documentação é incerta.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_22973:22973:0\",\"lemas\":[\"prōterō\",\"proterio\"],\"lema_canonico\":\"prōterō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Verbo prōterō/prōterere: pôr em fuga pelo terror, expulsar; transitivo. 'proterio' citado no Faria parece ser forma substantival/derivada (abstrato) ou variante; leitura incerta.\",\"aliases\":[\"proterio\"],\"exemplos\":[\"Cic. Dom. 107\"],\"notas\":\"Entrada do Faria mistura verbo e forma substantival; Whitaker atesta 'proterio' como variante/forma derivada, mas documentação é incerta.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\",\"needs_review\"]}"
-  },
-  {
     "id": "chunk_22974-e1",
     "volume_id": "faria",
     "doc_name": "chunk_22974",
@@ -5128,28 +3874,6 @@
     "raw_json": "{\"id\":\"chunk_22979:22979:0\",\"lemas\":[\"Protesilaus\",\"Protĕsĭlāus\",\"Protĕsĭlāēus\"],\"lema_canonico\":\"Protesilaus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Herói tessálio, filho de Iphiclus, príncipe de Phylace; primeiro grego morto na guerra de Troia. O adjetivo Protĕsĭlāēus, a, um significa 'protesilense' ou 'relativo a Protesilau'.\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 12, 68\",\"Prop. 1, 19, 7–9\",\"Hyg. Fab. 103 sqq.\"],\"notas\":\"Formas substantiva e adjetival confirmadas por Lewis & Short; grafias normalizadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_22980-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22980",
-    "page_num": 22980,
-    "lemmas": [
-      "Prōtē",
-      "Prōtē"
-    ],
-    "morfologia": "-",
-    "morph_render": "-",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Entradas separadas na fonte original parecem confluir: prōtē (topónimo/adj. em LS) e sīs (forma do subjuntivo de sum). A leitura como verbo deponente transitivo não pôde ser confirmada com as fontes fornecidas.",
-    "exemplos": [],
-    "notas": "Não foi possível retificar com segurança para um único lema verbal; mantive conteúdo da primeira passada e marquei para revisão.\n[ocr_pipeline 2025-08-16T23:21:18.887127Z] lemma_in='prōtē' → 'Prōtē' | motivo: match direto em LS por lemma/lemma_norm | [ocr_fix 2025-08-17T01:19:51Z] match direto em LS por lemma/lemma_norm | lemma_in='Prōtē' → 'Prōtē' | [dedupe] redirect → chunk_22968:22968:1 | [dedupe] redirect → chunk_22968:22968:1",
-    "raw_text": "{\"id\":\"chunk_22980:22980:0\",\"lemas\":[\"prōtē\",\"sīs\"],\"lema_canonico\":\"prōtē\",\"morfologia\":\"-\",\"morph_extra\":[],\"definicao\":\"Entradas separadas na fonte original parecem confluir: prōtē (topónimo/adj. em LS) e sīs (forma do subjuntivo de sum). A leitura como verbo deponente transitivo não pôde ser confirmada com as fontes fornecidas.\",\"aliases\":[],\"exemplos\":[\"Quint. Decl. 4, 21\"],\"notas\":\"Não foi possível retificar com segurança para um único lema verbal; mantive conteúdo da primeira passada e marquei para revisão.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_22980:22980:0\",\"lemas\":[\"prōtē\",\"sīs\"],\"lema_canonico\":\"prōtē\",\"morfologia\":\"-\",\"morph_extra\":[],\"definicao\":\"Entradas separadas na fonte original parecem confluir: prōtē (topónimo/adj. em LS) e sīs (forma do subjuntivo de sum). A leitura como verbo deponente transitivo não pôde ser confirmada com as fontes fornecidas.\",\"aliases\":[],\"exemplos\":[\"Quint. Decl. 4, 21\"],\"notas\":\"Não foi possível retificar com segurança para um único lema verbal; mantive conteúdo da primeira passada e marquei para revisão.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
     "id": "chunk_22981-e1",
     "volume_id": "faria",
     "doc_name": "chunk_22981",
@@ -5170,28 +3894,6 @@
     "notas": "Normalizada forma e referências conforme Lewis & Short; adicionei variantes de lema.",
     "raw_text": "{\"id\":\"chunk_22981:22981:0\",\"lemas\":[\"Prōteus\",\"Proteus\"],\"lema_canonico\":\"Prōteus\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Deus marinho que muda de forma; também, por extensão, pessoa volúvel ou mutável.\",\"aliases\":[],\"exemplos\":[\"Verg. G. 4, 388\",\"Ov. M. 8, 731\",\"Ov. A. A. 1, 761\",\"Hor. C. 1, 2, 7\",\"Ov. F. 1, 367\",\"Hor. Ep. 1, 1, 90\",\"Hor. S. 2, 3, 71\"],\"notas\":\"Normalizada forma e referências conforme Lewis & Short; adicionei variantes de lema.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_22981:22981:0\",\"lemas\":[\"Prōteus\",\"Proteus\"],\"lema_canonico\":\"Prōteus\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Deus marinho que muda de forma; também, por extensão, pessoa volúvel ou mutável.\",\"aliases\":[],\"exemplos\":[\"Verg. G. 4, 388\",\"Ov. M. 8, 731\",\"Ov. A. A. 1, 761\",\"Hor. C. 1, 2, 7\",\"Ov. F. 1, 367\",\"Hor. Ep. 1, 1, 90\",\"Hor. S. 2, 3, 71\"],\"notas\":\"Normalizada forma e referências conforme Lewis & Short; adicionei variantes de lema.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_22982-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22982",
-    "page_num": 22982,
-    "lemmas": [
-      "protego",
-      "protego"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "protegĕre: proteger, proteger-se; (perf.) prōtēxī",
-    "exemplos": [],
-    "notas": "Primeira passada tinha a forma perfeita 'protexi' — corrigido para o lema infinitivo 'protego' e indicado o perfeito prōtēxī. | [dedupe] redirect → chunk_22967:22967:0 | [dedupe] redirect → chunk_22967:22967:0",
-    "raw_text": "{\"id\":\"chunk_22982:22982:0\",\"lemas\":[\"protego\"],\"lema_canonico\":\"protego\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"protegĕre: proteger, proteger-se; (perf.) prōtēxī\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Primeira passada tinha a forma perfeita 'protexi' — corrigido para o lema infinitivo 'protego' e indicado o perfeito prōtēxī.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22982:22982:0\",\"lemas\":[\"protego\"],\"lema_canonico\":\"protego\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"protegĕre: proteger, proteger-se; (perf.) prōtēxī\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Primeira passada tinha a forma perfeita 'protexi' — corrigido para o lema infinitivo 'protego' e indicado o perfeito prōtēxī.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_22983-e1",
@@ -5236,50 +3938,6 @@
     "notas": "Lema e declinação ajustados conforme LS; exempla plauteos confirmados. | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='prothymia' → 'prŏthȳmĭa'",
     "raw_text": "{\"id\":\"chunk_22984:22984:0\",\"lemas\":[\"prothymia\"],\"lema_canonico\":\"prothymia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"boa vontade, prontidão, inclinação (greg. ξύμ. empréstimo; atestado em Plauto)\",\"aliases\":[],\"exemplos\":[\"Plaut. Stich. 1, 2, 20\",\"Plaut. Stich. 4, 2, 53\"],\"notas\":\"Lema e declinação ajustados conforme LS; exempla plauteos confirmados.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_22984:22984:0\",\"lemas\":[\"prothymia\"],\"lema_canonico\":\"prothymia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"boa vontade, prontidão, inclinação (greg. ξύμ. empréstimo; atestado em Plauto)\",\"aliases\":[],\"exemplos\":[\"Plaut. Stich. 1, 2, 20\",\"Plaut. Stich. 4, 2, 53\"],\"notas\":\"Lema e declinação ajustados conforme LS; exempla plauteos confirmados.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_22985-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22985",
-    "page_num": 22985,
-    "lemmas": [
-      "prŏpĕdĭem",
-      "prŏpĕdĭem"
-    ],
-    "morfologia": "adv.",
-    "morph_render": "adv.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "advérbio (provável empréstimo do grego) relativo a prothymus; forma atestada em Varr. L. Lat. 7, 107.",
-    "exemplos": [],
-    "notas": "Entrada pouco atestada em léxicos latinos modernos; provável empréstimo grego. Mantida leitura da primeira passada.\n[ocr_pipeline 2025-08-16T23:27:22.102877Z] lemma_in='prothymian' → 'prŏpĕdĭem' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:28:04Z] match direto em LS por lemma/lemma_norm | lemma_in='prŏpĕdĭem' → 'prŏpĕdĭem' | [dedupe] redirect → chunk_22822:22822:0 | [dedupe] redirect → chunk_22822:22822:0",
-    "raw_text": "{\"id\":\"chunk_22985:22985:0\",\"lemas\":[\"prothymian\",\"prothymus\"],\"lema_canonico\":\"prothymian\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"advérbio (provável empréstimo do grego) relativo a prothymus; forma atestada em Varr. L. Lat. 7, 107.\",\"aliases\":[\"prothýmian\"],\"exemplos\":[\"Varr. L. Lat. 7, 107\"],\"notas\":\"Entrada pouco atestada em léxicos latinos modernos; provável empréstimo grego. Mantida leitura da primeira passada.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_22985:22985:0\",\"lemas\":[\"prothymian\",\"prothymus\"],\"lema_canonico\":\"prothymian\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"advérbio (provável empréstimo do grego) relativo a prothymus; forma atestada em Varr. L. Lat. 7, 107.\",\"aliases\":[\"prothýmian\"],\"exemplos\":[\"Varr. L. Lat. 7, 107\"],\"notas\":\"Entrada pouco atestada em léxicos latinos modernos; provável empréstimo grego. Mantida leitura da primeira passada.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_22986-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22986",
-    "page_num": 22986,
-    "lemmas": [
-      "protinus",
-      "protinus"
-    ],
-    "morfologia": "adv.",
-    "morph_render": "adv.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "imediatamente; adiante, em linha reta, sem pausa",
-    "exemplos": [],
-    "notas": "Sentidos ordenados e exemplos padronizados. | [dedupe] redirect → chunk_22971:22971:1 | [dedupe] redirect → chunk_22971:22971:1",
-    "raw_text": "{\"id\":\"chunk_22986:22986:0\",\"lemas\":[\"protinus\"],\"lema_canonico\":\"protinus\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"imediatamente; adiante, em linha reta, sem pausa\",\"aliases\":[],\"exemplos\":[\"Verg. Buc. 1, 13\",\"Cic. Inv. 1, 20\",\"Verg. En. 7, 601\"],\"notas\":\"Sentidos ordenados e exemplos padronizados.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22986:22986:0\",\"lemas\":[\"protinus\"],\"lema_canonico\":\"protinus\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"imediatamente; adiante, em linha reta, sem pausa\",\"aliases\":[],\"exemplos\":[\"Verg. Buc. 1, 13\",\"Cic. Inv. 1, 20\",\"Verg. En. 7, 601\"],\"notas\":\"Sentidos ordenados e exemplos padronizados.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_22987-e1",
@@ -5414,28 +4072,6 @@
     "raw_json": "{\"id\":\"chunk_22991:22991:0\",\"lemas\":[\"protractus\",\"protracta\",\"protractum\"],\"lema_canonico\":\"protractus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"particípio perfeito passivo de protrahere; prolongado, estendido\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizado a forma e marcada origem de particípio passivo conforme LS/Whitaker\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_22992-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22992",
-    "page_num": 22992,
-    "lemmas": [
-      "protraho",
-      "protraho"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Puxar para diante, arrastar; prolongar, protelar; trazer à luz, revelar.",
-    "exemplos": [],
-    "notas": "Paradigma e acepções confirmadas por Whitaker e Lewis & Short. | [dedupe] redirect → chunk_22989:22989:0 | [dedupe] redirect → chunk_22989:22989:0",
-    "raw_text": "{\"id\":\"chunk_22992:22992:0\",\"lemas\":[\"protraho\",\"protrahere\",\"protraxi\",\"protractus\"],\"lema_canonico\":\"protraho\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Puxar para diante, arrastar; prolongar, protelar; trazer à luz, revelar.\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 4, 24\",\"Lucr. 5, 1031\",\"Plaut. Trin. 109\",\"Suet. Ner. 27\",\"Suet. Ner. 32\",\"T. Liv. 45, 5, 9\"],\"notas\":\"Paradigma e acepções confirmadas por Whitaker e Lewis & Short.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22992:22992:0\",\"lemas\":[\"protraho\",\"protrahere\",\"protraxi\",\"protractus\"],\"lema_canonico\":\"protraho\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Puxar para diante, arrastar; prolongar, protelar; trazer à luz, revelar.\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 4, 24\",\"Lucr. 5, 1031\",\"Plaut. Trin. 109\",\"Suet. Ner. 27\",\"Suet. Ner. 32\",\"T. Liv. 45, 5, 9\"],\"notas\":\"Paradigma e acepções confirmadas por Whitaker e Lewis & Short.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_22993-e1",
     "volume_id": "faria",
     "doc_name": "chunk_22993",
@@ -5456,28 +4092,6 @@
     "notas": "Entrada refere-se ao infinitivo perfeito (sincopado) de prōtrahō; morfologia ajustada ao vocabulário disponível.",
     "raw_text": "{\"id\":\"chunk_22993:22993:0\",\"lemas\":[\"protraxisse\",\"protrāxisse\"],\"lema_canonico\":\"protraxisse\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Infinitivo perfeito ativo de prōtrahō (forma sincopada prōtrāxisse attestada; significa: ter arrastado para diante, ter trazido à luz).\",\"aliases\":[],\"exemplos\":[\"Luc. 5, 1157\"],\"notas\":\"Entrada refere-se ao infinitivo perfeito (sincopado) de prōtrahō; morfologia ajustada ao vocabulário disponível.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_22993:22993:0\",\"lemas\":[\"protraxisse\",\"protrāxisse\"],\"lema_canonico\":\"protraxisse\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Infinitivo perfeito ativo de prōtrahō (forma sincopada prōtrāxisse attestada; significa: ter arrastado para diante, ter trazido à luz).\",\"aliases\":[],\"exemplos\":[\"Luc. 5, 1157\"],\"notas\":\"Entrada refere-se ao infinitivo perfeito (sincopado) de prōtrahō; morfologia ajustada ao vocabulário disponível.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_22994-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22994",
-    "page_num": 22994,
-    "lemmas": [
-      "protraho",
-      "protraho"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "verbo: prōtrahere; perfectum indicativi activi 1ª sg. protrāxī = 'arrastei para diante; prolonguei; revelei'",
-    "exemplos": [],
-    "notas": "Entradas de forma perfeita e particípio alinhadas com LS/Lat→Deu/Whitaker | [dedupe] redirect → chunk_22989:22989:0 | [dedupe] redirect → chunk_22989:22989:0",
-    "raw_text": "{\"id\":\"chunk_22994:22994:0\",\"lemas\":[\"protraho\",\"protrahere\",\"protraxi\",\"protractus\"],\"lema_canonico\":\"protraho\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"verbo: prōtrahere; perfectum indicativi activi 1ª sg. protrāxī = 'arrastei para diante; prolonguei; revelei'\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entradas de forma perfeita e particípio alinhadas com LS/Lat→Deu/Whitaker\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22994:22994:0\",\"lemas\":[\"protraho\",\"protrahere\",\"protraxi\",\"protractus\"],\"lema_canonico\":\"protraho\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"verbo: prōtrahere; perfectum indicativi activi 1ª sg. protrāxī = 'arrastei para diante; prolonguei; revelei'\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entradas de forma perfeita e particípio alinhadas com LS/Lat→Deu/Whitaker\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_22995-e1",
@@ -5546,28 +4160,6 @@
     "raw_json": "{\"id\":\"chunk_22997:22997:1\",\"lemas\":[\"proterere\",\"protero\",\"protrivi\",\"protritus\"],\"lema_canonico\":\"proterere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"pisar, esmagar, amassar; oprimir; (figur.) desprezar, maltratar; também: expulsar, fazer sair.\",\"aliases\":[\"protero\",\"prōtrīvī\",\"protritus\"],\"exemplos\":[],\"notas\":\"Lema normalizado para o infinitivo prōterere; inclui perfeito/próp participial conforme LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_22997-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_22997",
-    "page_num": 22997,
-    "lemmas": [
-      "proterere",
-      "proterere"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "perfectum indicativi activi 1ª sg. prōtrīvī de prōterere; 'pisei, desprezei; (figur.) tratei com desdém' (formas atestadas)",
-    "exemplos": [],
-    "notas": "Forma perfeita alinhada com Whitaker e Lat→Deu; lema infinitivo normalizado | [dedupe] redirect → chunk_22997:22997:1 | [dedupe] redirect → chunk_22997:22997:1",
-    "raw_text": "{\"id\":\"chunk_22997:22997:0\",\"lemas\":[\"proterere\",\"protrivi\"],\"lema_canonico\":\"proterere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"perfectum indicativi activi 1ª sg. prōtrīvī de prōterere; 'pisei, desprezei; (figur.) tratei com desdém' (formas atestadas)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma perfeita alinhada com Whitaker e Lat→Deu; lema infinitivo normalizado\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22997:22997:0\",\"lemas\":[\"proterere\",\"protrivi\"],\"lema_canonico\":\"proterere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"perfectum indicativi activi 1ª sg. prōtrīvī de prōterere; 'pisei, desprezei; (figur.) tratei com desdém' (formas atestadas)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma perfeita alinhada com Whitaker e Lat→Deu; lema infinitivo normalizado\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_22998-e1",
     "volume_id": "faria",
     "doc_name": "chunk_22998",
@@ -5610,27 +4202,5 @@
     "notas": "Entrada provavelmente indicativa de variante tipográfica; requer checagem contra edição crítica.",
     "raw_text": "{\"id\":\"chunk_22998:22998:1\",\"lemas\":[\"-pum\"],\"lema_canonico\":\"-pum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"elemento gráfico/variante indicada entre parênteses na fonte (possível sufixo ou leitura corrupta); não atestado como lema independente.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada provavelmente indicativa de variante tipográfica; requer checagem contra edição crítica.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_22998:22998:1\",\"lemas\":[\"-pum\"],\"lema_canonico\":\"-pum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"elemento gráfico/variante indicada entre parênteses na fonte (possível sufixo ou leitura corrupta); não atestado como lema independente.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada provavelmente indicativa de variante tipográfica; requer checagem contra edição crítica.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_22999-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22999",
-    "page_num": 22999,
-    "lemmas": [
-      "protrudo",
-      "protrudo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "impelir para a frente, empurrar; (fig.) adiar, postergar.",
-    "exemplos": [],
-    "notas": "Lema normalizado e transitividade confirmada; formas do supino/particípio revistas. | [dedupe] redirect → chunk_23000:23000:0 | [dedupe] redirect → chunk_23000:23000:0",
-    "raw_text": "{\"id\":\"chunk_22999:22999:0\",\"lemas\":[\"protrudo\",\"protrūdere\"],\"lema_canonico\":\"protrudo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"impelir para a frente, empurrar; (fig.) adiar, postergar.\",\"aliases\":[\"prōtrūdō\",\"prōtrūdere\"],\"exemplos\":[\"Cic. Fat. 43\",\"Cic. Fam. 10, 26, 3\"],\"notas\":\"Lema normalizado e transitividade confirmada; formas do supino/particípio revistas.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22999:22999:0\",\"lemas\":[\"protrudo\",\"protrūdere\"],\"lema_canonico\":\"protrudo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"impelir para a frente, empurrar; (fig.) adiar, postergar.\",\"aliases\":[\"prōtrūdō\",\"prōtrūdere\"],\"exemplos\":[\"Cic. Fat. 43\",\"Cic. Fam. 10, 26, 3\"],\"notas\":\"Lema normalizado e transitividade confirmada; formas do supino/particípio revistas.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   }
 ]

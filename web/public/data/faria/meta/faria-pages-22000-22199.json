@@ -88,50 +88,6 @@
     "raw_json": "{\"id\":\"chunk_22003:22003:0\",\"lemas\":[\"praedēlīscō\"],\"lema_canonico\":\"praedēlīscō\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"Abrandar, amolecer, enfraquecer (p.ex. a ira).\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 11, 730\"],\"notas\":\"Forma atestada no OCR/first_pass; não encontrada nas listas fornecidas externas.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_22003-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_22003",
-    "page_num": 22003,
-    "lemmas": [
-      "prae-damno",
-      "prae-damno"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Condenar de antemão; praedamnāre (ver: prae-damno).",
-    "exemplos": [],
-    "notas": "Lat→Deu registra praedamno (praedamnāre, praedamnō, praedamnāvī, praedamnātum); forma com ē acomodada do OCR. | [dedupe] redirect → chunk_21998:21998:0 | [dedupe] redirect → chunk_21998:21998:0 | [ocr_fix 2025-08-17T19:53:17Z] match direto em LS por lemma/lemma_norm | lemma_in='praedamnō' → 'prae-damno'",
-    "raw_text": "{\"id\":\"chunk_22003:22003:1\",\"lemas\":[\"praedēmānō\",\"praedamnō\"],\"lema_canonico\":\"praedamnō\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"Condenar de antemão; praedamnāre (ver: prae-damno).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Lat→Deu registra praedamno (praedamnāre, praedamnō, praedamnāvī, praedamnātum); forma com ē acomodada do OCR.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_22003:22003:1\",\"lemas\":[\"praedēmānō\",\"praedamnō\"],\"lema_canonico\":\"praedamnō\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"Condenar de antemão; praedamnāre (ver: prae-damno).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Lat→Deu registra praedamno (praedamnāre, praedamnō, praedamnāvī, praedamnātum); forma com ē acomodada do OCR.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_22004-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22004",
-    "page_num": 22004,
-    "lemmas": [
-      "praes",
-      "praes"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "fiador, garantidor; pessoa que oferece segurança/penhor",
-    "exemplos": [],
-    "notas": "Entrada ambígua no OCR ('praedes, v. praes.'). Whitaker atesta 'praes, praedis' como substantivo; 'praedes' também aparece como forma ambígua/possível variante. Revisar se meant 'praedo' ou forma verbal 'praedō'. | [dedupe] redirect → chunk_22020:22020:0 | [dedupe] redirect → chunk_22020:22020:0 | [ocr_fix 2025-08-17T19:51:25Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='praes' → 'praes'",
-    "raw_text": "{\"id\":\"chunk_22004:22004:0\",\"lemas\":[\"praes\",\"praedes\"],\"lema_canonico\":\"praes\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"fiador, garantidor; pessoa que oferece segurança/penhor\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada ambígua no OCR ('praedes, v. praes.'). Whitaker atesta 'praes, praedis' como substantivo; 'praedes' também aparece como forma ambígua/possível variante. Revisar se meant 'praedo' ou forma verbal 'praedō'.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_22004:22004:0\",\"lemas\":[\"praes\",\"praedes\"],\"lema_canonico\":\"praes\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"fiador, garantidor; pessoa que oferece segurança/penhor\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada ambígua no OCR ('praedes, v. praes.'). Whitaker atesta 'praes, praedis' como substantivo; 'praedes' também aparece como forma ambígua/possível variante. Revisar se meant 'praedo' ou forma verbal 'praedō'.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\",\"needs_review\"]}"
-  },
-  {
     "id": "chunk_22005-e1",
     "volume_id": "faria",
     "doc_name": "chunk_22005",
@@ -152,28 +108,6 @@
     "notas": "Forma e significado confirmados por Lat→Deu e primeiras passadas; verbo transitivo.",
     "raw_text": "{\"id\":\"chunk_22005:22005:0\",\"lemas\":[\"praedestino\",\"praedestinō\"],\"lema_canonico\":\"praedestino\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"Destinar ou reservar antecipadamente; predestinar\",\"aliases\":[],\"exemplos\":[\"T. Liv. 45, 40, 8\"],\"notas\":\"Forma e significado confirmados por Lat→Deu e primeiras passadas; verbo transitivo.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"src_firstpass\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_22005:22005:0\",\"lemas\":[\"praedestino\",\"praedestinō\"],\"lema_canonico\":\"praedestino\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"Destinar ou reservar antecipadamente; predestinar\",\"aliases\":[],\"exemplos\":[\"T. Liv. 45, 40, 8\"],\"notas\":\"Forma e significado confirmados por Lat→Deu e primeiras passadas; verbo transitivo.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"src_firstpass\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_22006-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22006",
-    "page_num": 22006,
-    "lemmas": [
-      "praedĭcātor",
-      "praedĭcātor"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "1) proclamador, arauto; 2) elogista; 3) em contexto eclesiástico, pregador (preacher)",
-    "exemplos": [],
-    "notas": "Sentidos múltiplos atestados (LS); lema normalizado com forma clássica. | [dedupe] redirect → chunk_22011:22011:0 | [dedupe] redirect → chunk_22011:22011:0 | [ocr_fix 2025-08-17T19:51:25Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='praedīcātor' → 'praedĭcātor'",
-    "raw_text": "{\"id\":\"chunk_22006:22006:0\",\"lemas\":[\"praedīcātor\",\"praedicator\"],\"lema_canonico\":\"praedīcātor\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"1) proclamador, arauto; 2) elogista; 3) em contexto eclesiástico, pregador (preacher)\",\"aliases\":[],\"exemplos\":[\"Cic. At. 12, 14, 2\"],\"notas\":\"Sentidos múltiplos atestados (LS); lema normalizado com forma clássica.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_22006:22006:0\",\"lemas\":[\"praedīcātor\",\"praedicator\"],\"lema_canonico\":\"praedīcātor\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"1) proclamador, arauto; 2) elogista; 3) em contexto eclesiástico, pregador (preacher)\",\"aliases\":[],\"exemplos\":[\"Cic. At. 12, 14, 2\"],\"notas\":\"Sentidos múltiplos atestados (LS); lema normalizado com forma clássica.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
     "id": "chunk_22007-e1",
@@ -418,28 +352,6 @@
     "raw_json": "{\"id\":\"chunk_22017:22017:0\",\"lemas\":[\"praedictus\"],\"lema_canonico\":\"praedictus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"dito anteriormente; mencionado antes; também: predicho, anunciado (particípio perfeito passivo de praedicō)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Whitaker e LS registram tanto o adjetivo quanto o particípio; marquei ambos usando morph_extra.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_22018-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22018",
-    "page_num": 22018,
-    "lemmas": [
-      "praedico",
-      "praedico"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "praedicō (praedīcō, praedīxī, praedictum): proclamar, anunciar, dizer anteriormente; entry refers to its perfect form praedīxī.",
-    "exemplos": [],
-    "notas": "First_pass gave an isolated perfect-form; normalized to lemma praedico and noted perfect praedīxī (LS/Lat→Deu). | [dedupe] redirect → chunk_22024:22024:0 | [dedupe] redirect → chunk_22024:22024:0",
-    "raw_text": "{\"id\":\"chunk_22018:22018:0\",\"lemas\":[\"praedico\"],\"lema_canonico\":\"praedico\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"praedicō (praedīcō, praedīxī, praedictum): proclamar, anunciar, dizer anteriormente; entry refers to its perfect form praedīxī.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"First_pass gave an isolated perfect-form; normalized to lemma praedico and noted perfect praedīxī (LS/Lat→Deu).\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22018:22018:0\",\"lemas\":[\"praedico\"],\"lema_canonico\":\"praedico\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"praedicō (praedīcō, praedīxī, praedictum): proclamar, anunciar, dizer anteriormente; entry refers to its perfect form praedīxī.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"First_pass gave an isolated perfect-form; normalized to lemma praedico and noted perfect praedīxī (LS/Lat→Deu).\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_22019-e1",
     "volume_id": "faria",
     "doc_name": "chunk_22019",
@@ -504,28 +416,6 @@
     "notas": "Entrada ambígua entre formas de 1ª e 3ª conj.; mantida forma e citação, mas requer verificação das fontes (var. grafias e conjugação).\n[ocr_pipeline 2025-08-16T23:27:09.182407Z] lemma_in='praedico' → 'prae-dĭco' | motivo: match direto em LS por lemma/lemma_norm | [ocr_fix 2025-08-17T01:27:46Z] match direto em LS por lemma/lemma_norm | lemma_in='prae-dĭco' → 'prae-dĭco'",
     "raw_text": "{\"id\":\"chunk_22021:22021:0\",\"lemas\":[\"praedico\"],\"lema_canonico\":\"praedico\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"(Registrado em algumas tradições como praedicere) Dizer antecipadamente; saber/aperceber-se de antemão. (cit.: Cic. De Or. 1, 47)\",\"aliases\":[\"praedīcō\"],\"exemplos\":[\"Cic. De Or. 1, 47\"],\"notas\":\"Entrada ambígua entre formas de 1ª e 3ª conj.; mantida forma e citação, mas requer verificação das fontes (var. grafias e conjugação).\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_22021:22021:0\",\"lemas\":[\"praedico\"],\"lema_canonico\":\"praedico\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"(Registrado em algumas tradições como praedicere) Dizer antecipadamente; saber/aperceber-se de antemão. (cit.: Cic. De Or. 1, 47)\",\"aliases\":[\"praedīcō\"],\"exemplos\":[\"Cic. De Or. 1, 47\"],\"notas\":\"Entrada ambígua entre formas de 1ª e 3ª conj.; mantida forma e citação, mas requer verificação das fontes (var. grafias e conjugação).\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_22022-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22022",
-    "page_num": 22022,
-    "lemmas": [
-      "praeditus",
-      "praeditus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "dotado, provido de; revestido, munido (construção comum com ablativo).",
-    "exemplos": [],
-    "notas": "Removidos diacríticos OCR; definido conforme Whitaker e Lat→Deu. | [dedupe] redirect → chunk_22008:22008:0 | [dedupe] redirect → chunk_22008:22008:0",
-    "raw_text": "{\"id\":\"chunk_22022:22022:0\",\"lemas\":[\"praeditus\",\"praedita\",\"praeditum\"],\"lema_canonico\":\"praeditus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"dotado, provido de; revestido, munido (construção comum com ablativo).\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 1, 8\",\"Plaut. Amph. 218\"],\"notas\":\"Removidos diacríticos OCR; definido conforme Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22022:22022:0\",\"lemas\":[\"praeditus\",\"praedita\",\"praeditum\"],\"lema_canonico\":\"praeditus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"dotado, provido de; revestido, munido (construção comum com ablativo).\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 1, 8\",\"Plaut. Amph. 218\"],\"notas\":\"Removidos diacríticos OCR; definido conforme Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_22023-e1",
@@ -726,28 +616,6 @@
     "raw_json": "{\"id\":\"chunk_22028:22028:2\",\"lemas\":[\"praedor\",\"praedārī\",\"praedātus\"],\"lema_canonico\":\"praedor\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"to make booty, plunder; (intr.) to engage in pillage; (tr.) to plunder, seize by pillage.\",\"aliases\":[],\"exemplos\":[\"Cic. Off. 3, 72\",\"Tac. Ann. 12, 49\",\"Hor. Ep. 2, 2, 55\"],\"notas\":\"Verb attested as deponent with passive morphology (praedārī) and participle praedātus.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_22028-e4",
-    "volume_id": "faria",
-    "doc_name": "chunk_22028",
-    "page_num": 22028,
-    "lemmas": [
-      "prae",
-      "prae"
-    ],
-    "morfologia": "prep. com abl.",
-    "morph_render": "prep. com abl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "before, in front of; also adverbially: before, forward; used in comparisons (prae ut/præquam).",
-    "exemplos": [],
-    "notas": "Entry treated primarily as preposition with ablative; adverbial use given in sources. | [dedupe] redirect → chunk_21903:21903:0 | [dedupe] redirect → chunk_21903:21903:0",
-    "raw_text": "{\"id\":\"chunk_22028:22028:3\",\"lemas\":[\"prae\"],\"lema_canonico\":\"prae\",\"morfologia\":\"prep. com abl.\",\"morph_extra\":[\"adv.\"],\"definicao\":\"before, in front of; also adverbially: before, forward; used in comparisons (prae ut/præquam).\",\"aliases\":[],\"exemplos\":[\"Plaut. Am. 1, 3, 45\",\"Ter. And. 1, 1, 144\"],\"notas\":\"Entry treated primarily as preposition with ablative; adverbial use given in sources.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22028:22028:3\",\"lemas\":[\"prae\"],\"lema_canonico\":\"prae\",\"morfologia\":\"prep. com abl.\",\"morph_extra\":[\"adv.\"],\"definicao\":\"before, in front of; also adverbially: before, forward; used in comparisons (prae ut/præquam).\",\"aliases\":[],\"exemplos\":[\"Plaut. Am. 1, 3, 45\",\"Ter. And. 1, 1, 144\"],\"notas\":\"Entry treated primarily as preposition with ablative; adverbial use given in sources.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_22028-e5",
     "volume_id": "faria",
     "doc_name": "chunk_22028",
@@ -790,28 +658,6 @@
     "notas": "Entry uncertain: 'domio' not securely attested as independent noun in primary lexica consulted; retained from first pass for review.",
     "raw_text": "{\"id\":\"chunk_22028:22028:5\",\"lemas\":[\"domio\"],\"lema_canonico\":\"domio\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"(uncertain) nominal/derivative formation related to domāre; attestation unclear — possibly OCR or morphological formation *-io.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entry uncertain: 'domio' not securely attested as independent noun in primary lexica consulted; retained from first pass for review.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_22028:22028:5\",\"lemas\":[\"domio\"],\"lema_canonico\":\"domio\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"(uncertain) nominal/derivative formation related to domāre; attestation unclear — possibly OCR or morphological formation *-io.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entry uncertain: 'domio' not securely attested as independent noun in primary lexica consulted; retained from first pass for review.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_22029-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22029",
-    "page_num": 22029,
-    "lemmas": [
-      "praeduco",
-      "praeduco"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Conduzir à frente; levar ou trazer adiante (tr.).",
-    "exemplos": [],
-    "notas": "Particípio/supino padrão normalizado para a conjugação da 3ª (praedūxī, praeductus). | [dedupe] redirect → chunk_22035:22035:0 | [dedupe] redirect → chunk_22035:22035:0",
-    "raw_text": "{\"id\":\"chunk_22029:22029:0\",\"lemas\":[\"praedūcō\",\"praeduco\"],\"lema_canonico\":\"praeduco\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Conduzir à frente; levar ou trazer adiante (tr.).\",\"aliases\":[],\"exemplos\":[\"Cés. B. Gal. 7, 46, 3\"],\"notas\":\"Particípio/supino padrão normalizado para a conjugação da 3ª (praedūxī, praeductus).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22029:22029:0\",\"lemas\":[\"praedūcō\",\"praeduco\"],\"lema_canonico\":\"praeduco\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Conduzir à frente; levar ou trazer adiante (tr.).\",\"aliases\":[],\"exemplos\":[\"Cés. B. Gal. 7, 46, 3\"],\"notas\":\"Particípio/supino padrão normalizado para a conjugação da 3ª (praedūxī, praeductus).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_22030-e1",
@@ -1034,28 +880,6 @@
     "raw_json": "{\"id\":\"chunk_22039:22039:0\",\"lemas\":[\"praefētīcis\"],\"lema_canonico\":\"praefētīcis\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"(entrada ambígua) apresentada como gen. sg. de particípio; forma possivelmente corrompida no impresso.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Texto de OCR confuso (‘praefētīcis’ não coincide com formas atestadas como praefantis); precisa revisão com fonte primária.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_22039-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_22039",
-    "page_num": 22039,
-    "lemmas": [
-      "praes",
-      "praes"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "praes: fiador, garante, pignoratarius; surety, bondsman.",
-    "exemplos": [],
-    "notas": "Interpretação de abreviatura ‘praes.’ como o substantivo praes (atest. em léxicos). | [dedupe] redirect → chunk_22020:22020:0 | [dedupe] redirect → chunk_22020:22020:0 | [ocr_fix 2025-08-17T19:51:22Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='praes' → 'praes'",
-    "raw_text": "{\"id\":\"chunk_22039:22039:1\",\"lemas\":[\"praes\"],\"lema_canonico\":\"praes\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"praes: fiador, garante, pignoratarius; surety, bondsman.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Interpretação de abreviatura ‘praes.’ como o substantivo praes (atest. em léxicos).\",\"flags\":[\"src_whitaker\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_22039:22039:1\",\"lemas\":[\"praes\"],\"lema_canonico\":\"praes\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"praes: fiador, garante, pignoratarius; surety, bondsman.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Interpretação de abreviatura ‘praes.’ como o substantivo praes (atest. em léxicos).\",\"flags\":[\"src_whitaker\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_22039-e3",
     "volume_id": "faria",
     "doc_name": "chunk_22039",
@@ -1098,28 +922,6 @@
     "notas": "Normalizado para o infinitivo deponente (praefari) com variante praefor.",
     "raw_text": "{\"id\":\"chunk_22040:22040:0\",\"lemas\":[\"praefari\",\"praefor\"],\"lema_canonico\":\"praefari\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"verbo deponente: dizer/pronunciar antecipadamente; recitar uma fórmula preliminar; avisar.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizado para o infinitivo deponente (praefari) com variante praefor.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_22040:22040:0\",\"lemas\":[\"praefari\",\"praefor\"],\"lema_canonico\":\"praefari\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"verbo deponente: dizer/pronunciar antecipadamente; recitar uma fórmula preliminar; avisar.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizado para o infinitivo deponente (praefari) com variante praefor.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_22041-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22041",
-    "page_num": 22041,
-    "lemmas": [
-      "praefari",
-      "praefari"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "praefor (praefari, praefatus sum): verbo deponente, ‘dizer a fórmula de entrada no sacrifício; pronunciar antes; apresentar/mandar à frente; prever, anunciar’.",
-    "exemplos": [],
-    "notas": "Normalizado infinitivo deponente; forma com macron incluida como variante. | [dedupe] redirect → chunk_22040:22040:0 | [dedupe] redirect → chunk_22040:22040:0",
-    "raw_text": "{\"id\":\"chunk_22041:22041:0\",\"lemas\":[\"praefari\",\"praefārī\"],\"lema_canonico\":\"praefari\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"praefor (praefari, praefatus sum): verbo deponente, ‘dizer a fórmula de entrada no sacrifício; pronunciar antes; apresentar/mandar à frente; prever, anunciar’.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizado infinitivo deponente; forma com macron incluida como variante.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22041:22041:0\",\"lemas\":[\"praefari\",\"praefārī\"],\"lema_canonico\":\"praefari\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"praefor (praefari, praefatus sum): verbo deponente, ‘dizer a fórmula de entrada no sacrifício; pronunciar antes; apresentar/mandar à frente; prever, anunciar’.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizado infinitivo deponente; forma com macron incluida como variante.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_22042-e1",
@@ -1186,72 +988,6 @@
     "notas": "Entrada conflui forma deponente (Whitaker) e uso substantivado pós‑cl. (LS).",
     "raw_text": "{\"id\":\"chunk_22044:22044:0\",\"lemas\":[\"praefatus\",\"praefātus\"],\"lema_canonico\":\"praefatus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito (deponente) de praefor; também usado como adjetivo 'pré‑dito, mencionado anteriormente'. Como substantivo pós‑clássico: praefātus, -ūs, 'dizer antecipadamente, previsão'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada conflui forma deponente (Whitaker) e uso substantivado pós‑cl. (LS).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_22044:22044:0\",\"lemas\":[\"praefatus\",\"praefātus\"],\"lema_canonico\":\"praefatus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito (deponente) de praefor; também usado como adjetivo 'pré‑dito, mencionado anteriormente'. Como substantivo pós‑clássico: praefātus, -ūs, 'dizer antecipadamente, previsão'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada conflui forma deponente (Whitaker) e uso substantivado pós‑cl. (LS).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_22045-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22045",
-    "page_num": 22045,
-    "lemmas": [
-      "praefatio",
-      "praefatio"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "prefácio, preâmbulo; fórmula preliminar ou palavras de introdução (em contextos religiosos, jurídicos e literários).",
-    "exemplos": [],
-    "notas": "Grafia e declinação ajustadas ao padrão (praefātiō, -ōnis, f.). | [dedupe] redirect → chunk_22043:22043:0 | [dedupe] redirect → chunk_22043:22043:0",
-    "raw_text": "{\"id\":\"chunk_22045:22045:0\",\"lemas\":[\"praefatio\"],\"lema_canonico\":\"praefatio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"prefácio, preâmbulo; fórmula preliminar ou palavras de introdução (em contextos religiosos, jurídicos e literários).\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 2, 3, 80\"],\"notas\":\"Grafia e declinação ajustadas ao padrão (praefātiō, -ōnis, f.).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22045:22045:0\",\"lemas\":[\"praefatio\"],\"lema_canonico\":\"praefatio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"prefácio, preâmbulo; fórmula preliminar ou palavras de introdução (em contextos religiosos, jurídicos e literários).\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 2, 3, 80\"],\"notas\":\"Grafia e declinação ajustadas ao padrão (praefātiō, -ōnis, f.).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_22045-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_22045",
-    "page_num": 22045,
-    "lemmas": [
-      "praefari",
-      "praefari"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "verbo deponente: dizer, pronunciar ou mencionar antecipadamente; recitar fórmulas introdutórias.",
-    "exemplos": [],
-    "notas": "Repetição do verbo deponente (mesma correção que chunk_22040). | [dedupe] redirect → chunk_22040:22040:0 | [dedupe] redirect → chunk_22040:22040:0",
-    "raw_text": "{\"id\":\"chunk_22045:22045:1\",\"lemas\":[\"praefari\",\"praefor\"],\"lema_canonico\":\"praefari\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"verbo deponente: dizer, pronunciar ou mencionar antecipadamente; recitar fórmulas introdutórias.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Repetição do verbo deponente (mesma correção que chunk_22040).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22045:22045:1\",\"lemas\":[\"praefari\",\"praefor\"],\"lema_canonico\":\"praefari\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"verbo deponente: dizer, pronunciar ou mencionar antecipadamente; recitar fórmulas introdutórias.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Repetição do verbo deponente (mesma correção que chunk_22040).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_22045-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_22045",
-    "page_num": 22045,
-    "lemmas": [
-      "praefatus",
-      "praefatus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "particípio perfeito do verbo deponente praefari; 'pronunciado/ mencionado anteriormente', usado adjetivalmente ou substantivado.",
-    "exemplos": [],
-    "notas": "Particípio passivo-formal de verbo deponente (forma e sentido confirmados nas fontes). | [dedupe] redirect → chunk_22044:22044:0 | [dedupe] redirect → chunk_22044:22044:0",
-    "raw_text": "{\"id\":\"chunk_22045:22045:2\",\"lemas\":[\"praefatus\"],\"lema_canonico\":\"praefatus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito do verbo deponente praefari; 'pronunciado/ mencionado anteriormente', usado adjetivalmente ou substantivado.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Particípio passivo-formal de verbo deponente (forma e sentido confirmados nas fontes).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22045:22045:2\",\"lemas\":[\"praefatus\"],\"lema_canonico\":\"praefatus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito do verbo deponente praefari; 'pronunciado/ mencionado anteriormente', usado adjetivalmente ou substantivado.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Particípio passivo-formal de verbo deponente (forma e sentido confirmados nas fontes).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_22046-e1",
@@ -1342,28 +1078,6 @@
     "raw_json": "{\"id\":\"chunk_22049:22049:0\",\"lemas\":[\"praefero\",\"praeferre\",\"praetuli\",\"praelatus\"],\"lema_canonico\":\"praeferre\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"levar à frente; pôr diante; preferir; mostrar, ostentar; adiantar; ser superior (irregular: praeferre, praetulī, praelātum)\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 4, 74\",\"Cic. Cat. 1, 13\",\"Cic. Lae. 63\",\"Cic. Amer. 87\",\"T. Liv. 39, 5, 12\",\"Cés. B. Gal. 5, 54, 5\"],\"notas\":\"Lema canonicalizado para o infinitivo 'praeferre'; incluídas formas de perfeito e supino; transitividade indicada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_22050-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22050",
-    "page_num": 22050,
-    "lemmas": [
-      "praeferre",
-      "praeferre"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Infinitivo presente passivo relacionado a praeferō: 'ser trazido/levado à frente; ser preferido; ser exibido'.",
-    "exemplos": [],
-    "notas": "Forma passiva registrada como 'praeferri' (Lat→Deu); lema normalizado para o infinitivo ativo 'praeferre'. | [dedupe] redirect → chunk_22049:22049:0 | [dedupe] redirect → chunk_22049:22049:0",
-    "raw_text": "{\"id\":\"chunk_22050:22050:1\",\"lemas\":[\"praeferre\",\"praeferri\"],\"lema_canonico\":\"praeferre\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"inf. pass.\"],\"definicao\":\"Infinitivo presente passivo relacionado a praeferō: 'ser trazido/levado à frente; ser preferido; ser exibido'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma passiva registrada como 'praeferri' (Lat→Deu); lema normalizado para o infinitivo ativo 'praeferre'.\",\"flags\":[\"src_latdeu\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_22050:22050:1\",\"lemas\":[\"praeferre\",\"praeferri\"],\"lema_canonico\":\"praeferre\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"inf. pass.\"],\"definicao\":\"Infinitivo presente passivo relacionado a praeferō: 'ser trazido/levado à frente; ser preferido; ser exibido'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma passiva registrada como 'praeferri' (Lat→Deu); lema normalizado para o infinitivo ativo 'praeferre'.\",\"flags\":[\"src_latdeu\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_22050-e2",
     "volume_id": "faria",
     "doc_name": "chunk_22050",
@@ -1428,28 +1142,6 @@
     "notas": "Corrigida a identificação: substantivo neutro de 3ª declinação (não sufixo); formas e citações confirmadas por LS e Whitaker.",
     "raw_text": "{\"id\":\"chunk_22052:22052:0\",\"lemas\":[\"tus\",\"tūrus\",\"thūs\"],\"lema_canonico\":\"tus\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"incenso, resina aromática (frankincense)\",\"aliases\":[],\"exemplos\":[\"Lucr. 3, 327\",\"Verg. A. 11, 481\"],\"notas\":\"Corrigida a identificação: substantivo neutro de 3ª declinação (não sufixo); formas e citações confirmadas por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_22052:22052:0\",\"lemas\":[\"tus\",\"tūrus\",\"thūs\"],\"lema_canonico\":\"tus\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"incenso, resina aromática (frankincense)\",\"aliases\":[],\"exemplos\":[\"Lucr. 3, 327\",\"Verg. A. 11, 481\"],\"notas\":\"Corrigida a identificação: substantivo neutro de 3ª declinação (não sufixo); formas e citações confirmadas por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_22052-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_22052",
-    "page_num": 22052,
-    "lemmas": [
-      "praeferre",
-      "praeferre"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "transportar para a dianteira; mostrar/ostentar; preferir, dar preferência a; (irreg.: praetulī, praelātum)",
-    "exemplos": [],
-    "notas": "Verbo irregular correspondendo a praeferō, praeferre; formas perfeitas praetulī, praelātum atestadas. | [dedupe] redirect → chunk_22049:22049:0 | [dedupe] redirect → chunk_22049:22049:0",
-    "raw_text": "{\"id\":\"chunk_22052:22052:1\",\"lemas\":[\"praeferre\",\"praefero\"],\"lema_canonico\":\"praeferre\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"transportar para a dianteira; mostrar/ostentar; preferir, dar preferência a; (irreg.: praetulī, praelātum)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Verbo irregular correspondendo a praeferō, praeferre; formas perfeitas praetulī, praelātum atestadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22052:22052:1\",\"lemas\":[\"praeferre\",\"praefero\"],\"lema_canonico\":\"praeferre\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"transportar para a dianteira; mostrar/ostentar; preferir, dar preferência a; (irreg.: praetulī, praelātum)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Verbo irregular correspondendo a praeferō, praeferre; formas perfeitas praetulī, praelātum atestadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_22052-e3",
@@ -1628,28 +1320,6 @@
     "raw_json": "{\"id\":\"chunk_22059:22059:0\",\"lemas\":[\"praefinio\"],\"lema_canonico\":\"praefinio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"determinar de antemão; prescrever, fixar previamente\",\"aliases\":[],\"exemplos\":[\"Cic. Prov. 36\"],\"notas\":\"Paradigma clássico praefiniō, praefīnīre, praefīnīvī, praefīnītum; entrada verificada em Lat→Deu e Whitaker.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_22060-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22060",
-    "page_num": 22060,
-    "lemmas": [
-      "praefinio",
-      "praefinio"
-    ],
-    "morfologia": "v. 4ª (-īre)",
-    "morph_render": "v. 4ª (-īre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "delimitar antecipadamente; fixar, determinar previamente",
-    "exemplos": [],
-    "notas": "Unificação das variantes ortográficas (praefīniō → praefinio); paradigma confirmado por fontes. | [dedupe] redirect → chunk_22059:22059:0 | [dedupe] redirect → chunk_22059:22059:0",
-    "raw_text": "{\"id\":\"chunk_22060:22060:0\",\"lemas\":[\"praefinio\"],\"lema_canonico\":\"praefinio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"delimitar antecipadamente; fixar, determinar previamente\",\"aliases\":[],\"exemplos\":[\"Cic. Prov. 36\"],\"notas\":\"Unificação das variantes ortográficas (praefīniō → praefinio); paradigma confirmado por fontes.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_firstpass\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22060:22060:0\",\"lemas\":[\"praefinio\"],\"lema_canonico\":\"praefinio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"delimitar antecipadamente; fixar, determinar previamente\",\"aliases\":[],\"exemplos\":[\"Cic. Prov. 36\"],\"notas\":\"Unificação das variantes ortográficas (praefīniō → praefinio); paradigma confirmado por fontes.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_firstpass\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_22061-e1",
     "volume_id": "faria",
     "doc_name": "chunk_22061",
@@ -1804,94 +1474,6 @@
     "raw_json": "{\"id\":\"chunk_22067:22067:0\",\"lemas\":[\"praefoco\",\"praefōcō\"],\"lema_canonico\":\"praefoco\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"Sufocar, asfixiar, obstruir (verbo transitivo, raro).\",\"aliases\":[],\"exemplos\":[\"Ov. Ib. 560\"],\"notas\":\"Forma e significado confirmados por Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_22068-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22068",
-    "page_num": 22068,
-    "lemmas": [
-      "praefodere",
-      "praefodere"
-    ],
-    "morfologia": "v. 3ª -iō (-ere)",
-    "morph_render": "v. 3ª -iō (-ere)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada registrada como redirecionamento: praefōdi = perfectum de praefodere.",
-    "raw_text": "{\"id\":\"chunk_22068:22068:0\",\"lemas\":[\"praefodere\",\"praefōdī\"],\"lema_canonico\":\"praefodere\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"praefōdi\"],\"exemplos\":[],\"notas\":\"Entrada registrada como redirecionamento: praefōdi = perfectum de praefodere.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_22068:22068:0\",\"lemas\":[\"praefodere\",\"praefōdī\"],\"lema_canonico\":\"praefodere\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"praefōdi\"],\"exemplos\":[],\"notas\":\"Entrada registrada como redirecionamento: praefōdi = perfectum de praefodere.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\",\"redirect_only\"]}"
-  },
-  {
-    "id": "chunk_22069-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22069",
-    "page_num": 22069,
-    "lemmas": [
-      "prurio",
-      "prurio"
-    ],
-    "morfologia": "v. 4ª (-īre)",
-    "morph_render": "v. 4ª (-īre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "to itch; figuratively, to long for or be eager (including sexual sense).",
-    "exemplos": [],
-    "notas": "Unifiquei forma e conjugação com Lewis & Short (prūrĭo, īre). | [dedupe] redirect → chunk_20851:20851:3 | [dedupe] redirect → chunk_20851:20851:3",
-    "raw_text": "{\"id\":\"chunk_22069:22069:3\",\"lemas\":[\"prurio\"],\"lema_canonico\":\"prurio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"to itch; figuratively, to long for or be eager (including sexual sense).\",\"aliases\":[],\"exemplos\":[\"Juv. 6, 578\",\"Plaut. Poen. 5, 5, 36\",\"Plaut. Am. 1, 1, 139\",\"Mart. 3, 58, 11\"],\"notas\":\"Unifiquei forma e conjugação com Lewis & Short (prūrĭo, īre).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22069:22069:3\",\"lemas\":[\"prurio\"],\"lema_canonico\":\"prurio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"to itch; figuratively, to long for or be eager (including sexual sense).\",\"aliases\":[],\"exemplos\":[\"Juv. 6, 578\",\"Plaut. Poen. 5, 5, 36\",\"Plaut. Am. 1, 1, 139\",\"Mart. 3, 58, 11\"],\"notas\":\"Unifiquei forma e conjugação com Lewis & Short (prūrĭo, īre).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_22069-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_22069",
-    "page_num": 22069,
-    "lemmas": [
-      "porphyrio",
-      "porphyrio"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "ave aquática (porphyrio porphyrio), a galinha‑sultana / purpúrea",
-    "exemplos": [],
-    "notas": "Grafia clássica confirmada (porphyrio); fontes: Whitaker e Lat→Deu. | [dedupe] redirect → chunk_22777:22777:0 | [dedupe] redirect → chunk_22777:22777:0",
-    "raw_text": "{\"id\":\"chunk_22069:22069:0\",\"lemas\":[\"porphyrio\"],\"lema_canonico\":\"porphyrio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"ave aquática (porphyrio porphyrio), a galinha‑sultana / purpúrea\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 10, 16, 63, §129\",\"Vulg. Lev. 11, 18\"],\"notas\":\"Grafia clássica confirmada (porphyrio); fontes: Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22069:22069:0\",\"lemas\":[\"porphyrio\"],\"lema_canonico\":\"porphyrio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"ave aquática (porphyrio porphyrio), a galinha‑sultana / purpúrea\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 10, 16, 63, §129\",\"Vulg. Lev. 11, 18\"],\"notas\":\"Grafia clássica confirmada (porphyrio); fontes: Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_22069-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_22069",
-    "page_num": 22069,
-    "lemmas": [
-      "proprius",
-      "proprius"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "(adj.) próprio, pessoal, característico; (v. proprĭo/proprio) apropriar, tornar próprio (uso ante- e pós-clássico)",
-    "exemplos": [],
-    "notas": "Entrada mista (adj. + verbo). Dados confirmados em LS, Whitaker e Lat→Deu; morfologia engloba o adjetivo como forma canónica. | [dedupe] redirect → chunk_22637:22637:2 | [dedupe] redirect → chunk_22637:22637:2",
-    "raw_text": "{\"id\":\"chunk_22069:22069:1\",\"lemas\":[\"proprius\",\"propria\",\"proprium\",\"proprio\"],\"lema_canonico\":\"proprius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"(adj.) próprio, pessoal, característico; (v. proprĭo/proprio) apropriar, tornar próprio (uso ante- e pós-clássico)\",\"aliases\":[],\"exemplos\":[\"Cic. (usos diversos, adj.)\",\"Cael. Aur. Tard. 5, 11 (proprĭo)\",\"Cael. Acut. 1, 15 fin. (proprĭo)\"],\"notas\":\"Entrada mista (adj. + verbo). Dados confirmados em LS, Whitaker e Lat→Deu; morfologia engloba o adjetivo como forma canónica.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_22069:22069:1\",\"lemas\":[\"proprius\",\"propria\",\"proprium\",\"proprio\"],\"lema_canonico\":\"proprius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"(adj.) próprio, pessoal, característico; (v. proprĭo/proprio) apropriar, tornar próprio (uso ante- e pós-clássico)\",\"aliases\":[],\"exemplos\":[\"Cic. (usos diversos, adj.)\",\"Cael. Aur. Tard. 5, 11 (proprĭo)\",\"Cael. Acut. 1, 15 fin. (proprĭo)\"],\"notas\":\"Entrada mista (adj. + verbo). Dados confirmados em LS, Whitaker e Lat→Deu; morfologia engloba o adjetivo como forma canónica.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"morph_out_of_vocab\"]}"
-  },
-  {
     "id": "chunk_22069-e4",
     "volume_id": "faria",
     "doc_name": "chunk_22069",
@@ -1912,28 +1494,6 @@
     "notas": "Paradigma e sentidos confirmados com Lat→Deu e harmonizados com a 1ª passada.",
     "raw_text": "{\"id\":\"chunk_22069:22069:2\",\"lemas\":[\"praefodio\",\"praefodere\"],\"lema_canonico\":\"praefodio\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"cavar diante de; abrir um fosso diante de; (também) sepultar, enterrar\",\"aliases\":[],\"exemplos\":[\"Verg. Aen. 12, 473\",\"Ov. Met. 13, 60\"],\"notas\":\"Paradigma e sentidos confirmados com Lat→Deu e harmonizados com a 1ª passada.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_22069:22069:2\",\"lemas\":[\"praefodio\",\"praefodere\"],\"lema_canonico\":\"praefodio\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"cavar diante de; abrir um fosso diante de; (também) sepultar, enterrar\",\"aliases\":[],\"exemplos\":[\"Verg. Aen. 12, 473\",\"Ov. Met. 13, 60\"],\"notas\":\"Paradigma e sentidos confirmados com Lat→Deu e harmonizados com a 1ª passada.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_22070-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22070",
-    "page_num": 22070,
-    "lemmas": [
-      "praefari",
-      "praefari"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:low",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "(v. dep.) dizer/recitar em primeiro lugar; invocar ou mencionar antes; citar como autoridade; anunciar no início",
-    "exemplos": [],
-    "notas": "Entrada deponente padronizada para o infinitivo praefari; confirmações bibliográficas originárias do first_pass/OCR. | [dedupe] redirect → chunk_22040:22040:0 | [dedupe] redirect → chunk_22040:22040:0",
-    "raw_text": "{\"id\":\"chunk_22070:22070:0\",\"lemas\":[\"praefari\",\"praefor\"],\"lema_canonico\":\"praefari\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"dep.\",\"tr.\"],\"definicao\":\"(v. dep.) dizer/recitar em primeiro lugar; invocar ou mencionar antes; citar como autoridade; anunciar no início\",\"aliases\":[],\"exemplos\":[\"Cat. Agr. 141, 2\",\"Cic. Tim. 37\",\"T. Liv. 21, 1, 1\"],\"notas\":\"Entrada deponente padronizada para o infinitivo praefari; confirmações bibliográficas originárias do first_pass/OCR.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_22070:22070:0\",\"lemas\":[\"praefari\",\"praefor\"],\"lema_canonico\":\"praefari\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"dep.\",\"tr.\"],\"definicao\":\"(v. dep.) dizer/recitar em primeiro lugar; invocar ou mencionar antes; citar como autoridade; anunciar no início\",\"aliases\":[],\"exemplos\":[\"Cat. Agr. 141, 2\",\"Cic. Tim. 37\",\"T. Liv. 21, 1, 1\"],\"notas\":\"Entrada deponente padronizada para o infinitivo praefari; confirmações bibliográficas originárias do first_pass/OCR.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
     "id": "chunk_22071-e1",
@@ -2112,28 +1672,6 @@
     "raw_json": "{\"id\":\"chunk_22078:22078:0\",\"lemas\":[\"praefrigidus\",\"praefrigida\",\"praefrigidum\"],\"lema_canonico\":\"praefrigidus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"muito frio, extremamente frio.\",\"aliases\":[\"praefrigidum\"],\"exemplos\":[\"Ov. F. 4, 12, 35\"],\"notas\":\"Grafia e declinação normalizadas; atestado por Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_22079-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22079",
-    "page_num": 22079,
-    "lemmas": [
-      "praefringo",
-      "praefringo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "quebrar de diante, romper/partir na extremidade; tr. (break off, break short)",
-    "exemplos": [],
-    "notas": "Lema e paradigma padronizados segundo Whitaker/Lat→Deu/LS; significado transitivo confirmado. | [dedupe] redirect → chunk_22077:22077:0 | [dedupe] redirect → chunk_22077:22077:0",
-    "raw_text": "{\"id\":\"chunk_22079:22079:0\",\"lemas\":[\"praefringo\",\"praefringere\"],\"lema_canonico\":\"praefringo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"quebrar de diante, romper/partir na extremidade; tr. (break off, break short)\",\"aliases\":[],\"exemplos\":[\"Cés. B. Civ. 2, 6\"],\"notas\":\"Lema e paradigma padronizados segundo Whitaker/Lat→Deu/LS; significado transitivo confirmado.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22079:22079:0\",\"lemas\":[\"praefringo\",\"praefringere\"],\"lema_canonico\":\"praefringo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"quebrar de diante, romper/partir na extremidade; tr. (break off, break short)\",\"aliases\":[],\"exemplos\":[\"Cés. B. Civ. 2, 6\"],\"notas\":\"Lema e paradigma padronizados segundo Whitaker/Lat→Deu/LS; significado transitivo confirmado.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_22080-e1",
     "volume_id": "faria",
     "doc_name": "chunk_22080",
@@ -2198,28 +1736,6 @@
     "notas": "Paradigma e forma alegada no OCR/first_pass; preferência por grafia praefulgō (Whitaker/first_pass).",
     "raw_text": "{\"id\":\"chunk_22082:22082:0\",\"lemas\":[\"praefulgo\",\"praefulgere\"],\"lema_canonico\":\"praefulgo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"brilhar, resplandecer.\",\"aliases\":[],\"exemplos\":[\"Verg. En. 8, 553\"],\"notas\":\"Paradigma e forma alegada no OCR/first_pass; preferência por grafia praefulgō (Whitaker/first_pass).\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_22082:22082:0\",\"lemas\":[\"praefulgo\",\"praefulgere\"],\"lema_canonico\":\"praefulgo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"brilhar, resplandecer.\",\"aliases\":[],\"exemplos\":[\"Verg. En. 8, 553\"],\"notas\":\"Paradigma e forma alegada no OCR/first_pass; preferência por grafia praefulgō (Whitaker/first_pass).\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_22083-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22083",
-    "page_num": 22083,
-    "lemmas": [
-      "prae-fulcĭo",
-      "prae-fulcĭo"
-    ],
-    "morfologia": "v. 4ª (-īre)",
-    "morph_render": "v. 4ª (-īre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "sustentar, apoiar; construir por diante; auxiliar (verbo de 4ª conjugação).",
-    "exemplos": [],
-    "notas": "Perfeito praefulsī atestado; entrada alinhada com Lat→Deu (praefulcīre). | [dedupe] redirect → chunk_22081:22081:0 | [dedupe] redirect → chunk_22081:22081:0 | [ocr_fix 2025-08-17T19:51:26Z] match direto em LS por lemma/lemma_norm | lemma_in='praefulcio' → 'prae-fulcĭo'",
-    "raw_text": "{\"id\":\"chunk_22083:22083:0\",\"lemas\":[\"praefulcio\",\"praefulcire\"],\"lema_canonico\":\"praefulcio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"sustentar, apoiar; construir por diante; auxiliar (verbo de 4ª conjugação).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Perfeito praefulsī atestado; entrada alinhada com Lat→Deu (praefulcīre).\",\"flags\":[\"src_latdeu\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_22083:22083:0\",\"lemas\":[\"praefulcio\",\"praefulcire\"],\"lema_canonico\":\"praefulcio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"sustentar, apoiar; construir por diante; auxiliar (verbo de 4ª conjugação).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Perfeito praefulsī atestado; entrada alinhada com Lat→Deu (praefulcīre).\",\"flags\":[\"src_latdeu\",\"conf:med\"]}"
   },
   {
     "id": "chunk_22084-e1",
@@ -2552,28 +2068,6 @@
     "raw_json": "{\"id\":\"chunk_22098:22098:0\",\"lemas\":[\"praegressus\"],\"lema_canonico\":\"praegressus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"1) part. perf. pass. de praegredior ‘ter ido adiante, preceder’; 2) (substantivo) avanço, ato de ir adiante, antecipação\",\"aliases\":[],\"exemplos\":[\"Amm. 21, 5, 13\"],\"notas\":\"Entrada cobre tanto o particípio perfeito passivo quanto o substantivo de 4ª declinação.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_22099-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22099",
-    "page_num": 22099,
-    "lemmas": [
-      "praegressus",
-      "praegressus"
-    ],
-    "morfologia": "s. masc. 4ª (-us)",
-    "morph_render": "s. masc. 4ª (-us)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Particípio perfeito de praegredior; ação de ir adiante, avanço, antecipação; também substantivado (o avanço).",
-    "exemplos": [],
-    "notas": "Entrada atestada como particípio adjectival ('a, um') e como substantivo em -ūs; reúne evidência LS/Whitaker/Lat→Deu. | [dedupe] redirect → chunk_22098:22098:0 | [dedupe] redirect → chunk_22098:22098:0",
-    "raw_text": "{\"id\":\"chunk_22099:22099:0\",\"lemas\":[\"praegressus\",\"praegressa\",\"praegressum\"],\"lema_canonico\":\"praegressus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito de praegredior; ação de ir adiante, avanço, antecipação; também substantivado (o avanço).\",\"aliases\":[],\"exemplos\":[\"Amm. 21, 5, 13\",\"Cic. Off. 1, 11\"],\"notas\":\"Entrada atestada como particípio adjectival ('a, um') e como substantivo em -ūs; reúne evidência LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22099:22099:0\",\"lemas\":[\"praegressus\",\"praegressa\",\"praegressum\"],\"lema_canonico\":\"praegressus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito de praegredior; ação de ir adiante, avanço, antecipação; também substantivado (o avanço).\",\"aliases\":[],\"exemplos\":[\"Amm. 21, 5, 13\",\"Cic. Off. 1, 11\"],\"notas\":\"Entrada atestada como particípio adjectival ('a, um') e como substantivo em -ūs; reúne evidência LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_22100-e1",
     "volume_id": "faria",
     "doc_name": "chunk_22100",
@@ -2706,28 +2200,6 @@
     "raw_json": "{\"id\":\"chunk_22105:22105:0\",\"lemas\":[\"praehibeo\",\"praehibeō\"],\"lema_canonico\":\"praehibeo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"apresentar, oferecer, conceder; mostrar, provar; fornecer\",\"aliases\":[],\"exemplos\":[\"Plaut. Pseud. 368\",\"Plaut. Rud. 138\"],\"notas\":\"Formas e significado confirmados em LS e Lat→Deu; paradigma regular da 2ª conjugação.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_22106-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22106",
-    "page_num": 22106,
-    "lemmas": [
-      "praehibeo",
-      "praehibeo"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "apresentar, exibir, oferecer; atribuir (sentir, opinião)",
-    "exemplos": [],
-    "notas": "Corrigida forma lemma e morfologia; perfeito esperado praehibuī (OCR 'praehībi' era incorreto). | [dedupe] redirect → chunk_22105:22105:0 | [dedupe] redirect → chunk_22105:22105:0",
-    "raw_text": "{\"id\":\"chunk_22106:22106:0\",\"lemas\":[\"praehibeo\"],\"lema_canonico\":\"praehibeo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"apresentar, exibir, oferecer; atribuir (sentir, opinião)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigida forma lemma e morfologia; perfeito esperado praehibuī (OCR 'praehībi' era incorreto).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22106:22106:0\",\"lemas\":[\"praehibeo\"],\"lema_canonico\":\"praehibeo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"apresentar, exibir, oferecer; atribuir (sentir, opinião)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigida forma lemma e morfologia; perfeito esperado praehibuī (OCR 'praehībi' era incorreto).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_22107-e1",
     "volume_id": "faria",
     "doc_name": "chunk_22107",
@@ -2748,28 +2220,6 @@
     "notas": "Forma de particípio de praeīre conforme Lat→Deu e Whitaker",
     "raw_text": "{\"id\":\"chunk_22107:22107:0\",\"lemas\":[\"praeiens\"],\"lema_canonico\":\"praeiens\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[\"part. pres.\"],\"definicao\":\"particípio presente de praeīre: 'que vai à frente, precede'\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma de particípio de praeīre conforme Lat→Deu e Whitaker\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_22107:22107:0\",\"lemas\":[\"praeiens\"],\"lema_canonico\":\"praeiens\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[\"part. pres.\"],\"definicao\":\"particípio presente de praeīre: 'que vai à frente, precede'\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma de particípio de praeīre conforme Lat→Deu e Whitaker\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_22108-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22108",
-    "page_num": 22108,
-    "lemmas": [
-      "praeō",
-      "praeō"
-    ],
-    "morfologia": "v. 4ª (-īre)",
-    "morph_render": "v. 4ª (-īre)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "verbo intransitivo irregular 'ir adiante, preceder'; praeī é a forma perfeita (perfeito)",
-    "exemplos": [],
-    "notas": "Entrada normalizada para o verbo; o item original registrava a forma perfeita praeī | [dedupe] redirect → chunk_22109:22109:0 | [dedupe] redirect → chunk_22109:22109:0",
-    "raw_text": "{\"id\":\"chunk_22108:22108:0\",\"lemas\":[\"praeō\"],\"lema_canonico\":\"praeō\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[\"perf.\"],\"definicao\":\"verbo intransitivo irregular 'ir adiante, preceder'; praeī é a forma perfeita (perfeito)\",\"aliases\":[\"praeī\"],\"exemplos\":[],\"notas\":\"Entrada normalizada para o verbo; o item original registrava a forma perfeita praeī\",\"flags\":[\"src_latdeu\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_22108:22108:0\",\"lemas\":[\"praeō\"],\"lema_canonico\":\"praeō\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[\"perf.\"],\"definicao\":\"verbo intransitivo irregular 'ir adiante, preceder'; praeī é a forma perfeita (perfeito)\",\"aliases\":[\"praeī\"],\"exemplos\":[],\"notas\":\"Entrada normalizada para o verbo; o item original registrava a forma perfeita praeī\",\"flags\":[\"src_latdeu\",\"conf:med\"]}"
   },
   {
     "id": "chunk_22108-e2",
@@ -2836,28 +2286,6 @@
     "notas": "Paradigma padronizado para praeiaciō (iaciō-type); transitividade atestada nas citações",
     "raw_text": "{\"id\":\"chunk_22110:22110:0\",\"lemas\":[\"praeiaciō\",\"praeiacio\"],\"lema_canonico\":\"praeiaciō\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[\"tr.\",\"intr.\"],\"definicao\":\"(de iaciō) verbo 'lançar à frente; estender-se diante; situar‑se diante' — transitivo ou intransitivo\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 3, 32\",\"Tac. An. 12, 36\"],\"notas\":\"Paradigma padronizado para praeiaciō (iaciō-type); transitividade atestada nas citações\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}",
     "raw_json": "{\"id\":\"chunk_22110:22110:0\",\"lemas\":[\"praeiaciō\",\"praeiacio\"],\"lema_canonico\":\"praeiaciō\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[\"tr.\",\"intr.\"],\"definicao\":\"(de iaciō) verbo 'lançar à frente; estender-se diante; situar‑se diante' — transitivo ou intransitivo\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 3, 32\",\"Tac. An. 12, 36\"],\"notas\":\"Paradigma padronizado para praeiaciō (iaciō-type); transitividade atestada nas citações\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}"
-  },
-  {
-    "id": "chunk_22111-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22111",
-    "page_num": 22111,
-    "lemmas": [
-      "praeiaciō",
-      "praeiaciō"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:low",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "dizer com arrogância, falar com presunção",
-    "exemplos": [],
-    "notas": "Mantida forma composta prae- + iaciō; paradigma ajustado para v. 1ª. | [dedupe] redirect → chunk_22110:22110:0 | [dedupe] redirect → chunk_22110:22110:0",
-    "raw_text": "{\"id\":\"chunk_22111:22111:0\",\"lemas\":[\"praeiaciō\",\"praeiaco\"],\"lema_canonico\":\"praeiaciō\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"dizer com arrogância, falar com presunção\",\"aliases\":[],\"exemplos\":[\"Cic. Plane. 24\"],\"notas\":\"Mantida forma composta prae- + iaciō; paradigma ajustado para v. 1ª.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_22111:22111:0\",\"lemas\":[\"praeiaciō\",\"praeiaco\"],\"lema_canonico\":\"praeiaciō\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"dizer com arrogância, falar com presunção\",\"aliases\":[],\"exemplos\":[\"Cic. Plane. 24\"],\"notas\":\"Mantida forma composta prae- + iaciō; paradigma ajustado para v. 1ª.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
     "id": "chunk_22112-e1",
@@ -3300,28 +2728,6 @@
     "raw_json": "{\"id\":\"chunk_22131:22131:0\",\"lemas\":[\"praeliō\"],\"lema_canonico\":\"praeliō\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"(Entrada contestada) forma apresentada como verbo transitivo 'liga(r), cobre(r), fechar' — leitura incerta, possivelmente resultado de OCR ou confusão com outro lema.\",\"aliases\":[],\"exemplos\":[\"T. Liv. 22, 26, 7\",\"Suet. Cés. 79\",\"Cic. Inv. 2, 149\",\"Plaut. Bac. 1361\"],\"notas\":\"Primeira passada sugere verbo; não confirmado em LS/Whitaker/Lat→Deu. Mantido para revisão.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_22131-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_22131",
-    "page_num": 22131,
-    "lemmas": [
-      "praelium",
-      "praelium"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "batalha; luta; combate; encontro armado; prova de força",
-    "exemplos": [],
-    "notas": "[dedupe] redirect → chunk_22130:22130:0 | [dedupe] redirect → chunk_22130:22130:0",
-    "raw_text": "{\"id\":\"chunk_22131:22131:1\",\"lemas\":[\"praelium\"],\"lema_canonico\":\"praelium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"batalha; luta; combate; encontro armado; prova de força\",\"aliases\":[],\"exemplos\":[],\"notas\":\"\",\"flags\":[\"src_whitaker\",\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22131:22131:1\",\"lemas\":[\"praelium\"],\"lema_canonico\":\"praelium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"batalha; luta; combate; encontro armado; prova de força\",\"aliases\":[],\"exemplos\":[],\"notas\":\"\",\"flags\":[\"src_whitaker\",\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_22132-e1",
     "volume_id": "faria",
     "doc_name": "chunk_22132",
@@ -3432,50 +2838,6 @@
     "raw_json": "{\"id\":\"chunk_22136:22136:0\",\"lemas\":[\"praeluceo\",\"praelucēre\"],\"lema_canonico\":\"praeluceo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"brilhar na frente; resplandecer; ultrapassar em brilho; também transit.: fazer brilhar; (to shine forth, outshine; light the way)\",\"aliases\":[],\"exemplos\":[\"Hor. Ep. 1, 3, 83\",\"Plin. H. Nat. 32, 141\",\"Cic. Lae. 23\"],\"notas\":\"Paradigma normalizado praeluceo, praelucēre, praeluxi; definições alinhadas com Lat→Deu.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_22137-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22137",
-    "page_num": 22137,
-    "lemmas": [
-      "prae",
-      "prae"
-    ],
-    "morfologia": "prep. com abl.",
-    "morph_render": "prep. com abl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "ante, antes de; diante de; (preposição com ablativo) em vista de, por causa de; também atestado como advérbio 'before, in front'.",
-    "exemplos": [],
-    "notas": "Registro como prep. com abl. (Whitaker) e adv. (LS); aqui tomada a forma preposicional com menção da leitura adverbial. | [dedupe] redirect → chunk_21903:21903:0 | [dedupe] redirect → chunk_21903:21903:0",
-    "raw_text": "{\"id\":\"chunk_22137:22137:0\",\"lemas\":[\"prae\"],\"lema_canonico\":\"prae\",\"morfologia\":\"prep. com abl.\",\"morph_extra\":[],\"definicao\":\"ante, antes de; diante de; (preposição com ablativo) em vista de, por causa de; também atestado como advérbio 'before, in front'.\",\"aliases\":[\"pre\"],\"exemplos\":[],\"notas\":\"Registro como prep. com abl. (Whitaker) e adv. (LS); aqui tomada a forma preposicional com menção da leitura adverbial.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22137:22137:0\",\"lemas\":[\"prae\"],\"lema_canonico\":\"prae\",\"morfologia\":\"prep. com abl.\",\"morph_extra\":[],\"definicao\":\"ante, antes de; diante de; (preposição com ablativo) em vista de, por causa de; também atestado como advérbio 'before, in front'.\",\"aliases\":[\"pre\"],\"exemplos\":[],\"notas\":\"Registro como prep. com abl. (Whitaker) e adv. (LS); aqui tomada a forma preposicional com menção da leitura adverbial.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_22137-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_22137",
-    "page_num": 22137,
-    "lemmas": [
-      "illudo",
-      "illudo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "fazer troça de; zombar, ridicularizar; também enganar, ludibriar (com dat.).",
-    "exemplos": [],
-    "notas": "Lema e sentidos conferidos com Lewis & Short e Lat→Deu; admite regência com dativo. | [dedupe] redirect → chunk_13155:13155:0 | [dedupe] redirect → chunk_13155:13155:0",
-    "raw_text": "{\"id\":\"chunk_22137:22137:1\",\"lemas\":[\"illudo\"],\"lema_canonico\":\"illudo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\",\"intr.\"],\"definicao\":\"fazer troça de; zombar, ridicularizar; também enganar, ludibriar (com dat.).\",\"aliases\":[],\"exemplos\":[\"Hor. S. 1, 4, 139\",\"Cic. Lael. 26, 99\"],\"notas\":\"Lema e sentidos conferidos com Lewis & Short e Lat→Deu; admite regência com dativo.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22137:22137:1\",\"lemas\":[\"illudo\"],\"lema_canonico\":\"illudo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\",\"intr.\"],\"definicao\":\"fazer troça de; zombar, ridicularizar; também enganar, ludibriar (com dat.).\",\"aliases\":[],\"exemplos\":[\"Hor. S. 1, 4, 139\",\"Cic. Lael. 26, 99\"],\"notas\":\"Lema e sentidos conferidos com Lewis & Short e Lat→Deu; admite regência com dativo.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_22137-e3",
     "volume_id": "faria",
     "doc_name": "chunk_22137",
@@ -3496,28 +2858,6 @@
     "notas": "Composto prae- + illudo; atestado apenas no OCR/first_pass (Plínio). Necessita verificação em dicionários canónicos.",
     "raw_text": "{\"id\":\"chunk_22137:22137:2\",\"lemas\":[\"praeilludo\"],\"lema_canonico\":\"praeilludo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"tocar ou produzir sons introdutórios; atuar como prelúdio (atestado em Plínio).\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 37, 19\"],\"notas\":\"Composto prae- + illudo; atestado apenas no OCR/first_pass (Plínio). Necessita verificação em dicionários canónicos.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_22137:22137:2\",\"lemas\":[\"praeilludo\"],\"lema_canonico\":\"praeilludo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"tocar ou produzir sons introdutórios; atuar como prelúdio (atestado em Plínio).\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 37, 19\"],\"notas\":\"Composto prae- + illudo; atestado apenas no OCR/first_pass (Plínio). Necessita verificação em dicionários canónicos.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_22138-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22138",
-    "page_num": 22138,
-    "lemmas": [
-      "praelum",
-      "praelum"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "prensa de vinho ou azeite (pressa)",
-    "exemplos": [],
-    "notas": "Corrigido grafia e morfologia conforme Lat→Deu/Whitaker; OCR indicou 'pehŭm'. | [dedupe] redirect → chunk_22132:22132:0 | [dedupe] redirect → chunk_22132:22132:0",
-    "raw_text": "{\"id\":\"chunk_22138:22138:0\",\"lemas\":[\"praelum\",\"prelum\"],\"lema_canonico\":\"praelum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"prensa de vinho ou azeite (pressa)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigido grafia e morfologia conforme Lat→Deu/Whitaker; OCR indicou 'pehŭm'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22138:22138:0\",\"lemas\":[\"praelum\",\"prelum\"],\"lema_canonico\":\"praelum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"prensa de vinho ou azeite (pressa)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigido grafia e morfologia conforme Lat→Deu/Whitaker; OCR indicou 'pehŭm'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_22139-e1",
@@ -3762,28 +3102,6 @@
     "raw_json": "{\"id\":\"chunk_22149:22149:0\",\"lemas\":[\"praemeditatus\",\"praemeditor\",\"praemeditari\"],\"lema_canonico\":\"praemeditor\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"praemeditor, praemeditārī, praemeditātus sum (deponent): pensar previamente, deliberar, planear; praemeditātus: premeditado, previamente pensado.\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 3, 32\"],\"notas\":\"Agrupadas formas do verbo deponente e seu particípio; confirmado por Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_22150-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22150",
-    "page_num": 22150,
-    "lemmas": [
-      "prae-mĕdĭtor",
-      "prae-mĕdĭtor"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "premeditar; exercitar-se previamente (trans.).",
-    "exemplos": [],
-    "notas": "Normalizado para praemeditor (praemeditārī, deponente) com suporte em Lat→Deu; removidos diacríticos OCR. | [dedupe] redirect → chunk_22149:22149:0 | [dedupe] redirect → chunk_22149:22149:0 | [ocr_fix 2025-08-17T19:51:24Z] match direto em LS por lemma/lemma_norm | lemma_in='praemeditor' → 'prae-mĕdĭtor'",
-    "raw_text": "{\"id\":\"chunk_22150:22150:0\",\"lemas\":[\"praemeditor\",\"praemeditor\"],\"lema_canonico\":\"praemeditor\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"premeditar; exercitar-se previamente (trans.).\",\"aliases\":[],\"exemplos\":[\"Tac. Ann. 14, 15\",\"Cic. Phil. 11, 17\"],\"notas\":\"Normalizado para praemeditor (praemeditārī, deponente) com suporte em Lat→Deu; removidos diacríticos OCR.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"src_ocr\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_22150:22150:0\",\"lemas\":[\"praemeditor\",\"praemeditor\"],\"lema_canonico\":\"praemeditor\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"premeditar; exercitar-se previamente (trans.).\",\"aliases\":[],\"exemplos\":[\"Tac. Ann. 14, 15\",\"Cic. Phil. 11, 17\"],\"notas\":\"Normalizado para praemeditor (praemeditārī, deponente) com suporte em Lat→Deu; removidos diacríticos OCR.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"src_ocr\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_22151-e1",
     "volume_id": "faria",
     "doc_name": "chunk_22151",
@@ -3916,28 +3234,6 @@
     "raw_json": "{\"id\":\"chunk_22155:22155:0\",\"lemas\":[\"praemior\"],\"lema_canonico\":\"praemior\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"to stipulate for a reward; to promise a reward, to reward (deponente, transitivo).\",\"aliases\":[],\"exemplos\":[\"Suet. Tit. 7\"],\"notas\":\"Entrada confirmada em Lewis & Short (praemĭor, āri).\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_22156-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22156",
-    "page_num": 22156,
-    "lemmas": [
-      "prae-mitto",
-      "prae-mitto"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "forma perfeita indicativa ativa 'enviei adiante, mandei à frente' (perfectum de praemitto).",
-    "exemplos": [],
-    "notas": "Entrada corrigida para o lema verbal praemitto; forma concreta indicada como perfeito 1ª sg. | [dedupe] redirect → chunk_22158:22158:0 | [dedupe] redirect → chunk_22158:22158:0 | [ocr_fix 2025-08-17T19:51:26Z] match direto em LS por lemma/lemma_norm | lemma_in='praemitto' → 'prae-mitto'",
-    "raw_text": "{\"id\":\"chunk_22156:22156:0\",\"lemas\":[\"praemitto\"],\"lema_canonico\":\"praemitto\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"perf. ind. act. 1sg\"],\"definicao\":\"forma perfeita indicativa ativa 'enviei adiante, mandei à frente' (perfectum de praemitto).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada corrigida para o lema verbal praemitto; forma concreta indicada como perfeito 1ª sg.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_22156:22156:0\",\"lemas\":[\"praemitto\"],\"lema_canonico\":\"praemitto\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"perf. ind. act. 1sg\"],\"definicao\":\"forma perfeita indicativa ativa 'enviei adiante, mandei à frente' (perfectum de praemitto).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada corrigida para o lema verbal praemitto; forma concreta indicada como perfeito 1ª sg.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_22157-e1",
     "volume_id": "faria",
     "doc_name": "chunk_22157",
@@ -4002,28 +3298,6 @@
     "notas": "Sentidos sintetizados a partir de Lewis & Short e Whitaker.",
     "raw_text": "{\"id\":\"chunk_22159:22159:0\",\"lemas\":[\"praemium\"],\"lema_canonico\":\"praemium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"1) despojos, presa; 2) vantagem, proveito; 3) recompensa, prêmio\",\"aliases\":[],\"exemplos\":[\"Verg. A. 11, 78\",\"Cic. Ac. 2, 1\",\"Cic. Brut. 281\"],\"notas\":\"Sentidos sintetizados a partir de Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_22159:22159:0\",\"lemas\":[\"praemium\"],\"lema_canonico\":\"praemium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"1) despojos, presa; 2) vantagem, proveito; 3) recompensa, prêmio\",\"aliases\":[],\"exemplos\":[\"Verg. A. 11, 78\",\"Cic. Ac. 2, 1\",\"Cic. Brut. 281\"],\"notas\":\"Sentidos sintetizados a partir de Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_22160-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22160",
-    "page_num": 22160,
-    "lemmas": [
-      "praemonēre",
-      "praemonēre"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "advertir, avisar de antemão; prenunciar",
-    "exemplos": [],
-    "notas": "Forma apresentada na fonte como 1ª sg. praemoneō; lema normalizado para o infinitivo praemonēre. | [dedupe] redirect → chunk_22171:22171:0 | [dedupe] redirect → chunk_22171:22171:0",
-    "raw_text": "{\"id\":\"chunk_22160:22160:1\",\"lemas\":[\"praemonēre\",\"praemoneō\"],\"lema_canonico\":\"praemonēre\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"advertir, avisar de antemão; prenunciar\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma apresentada na fonte como 1ª sg. praemoneō; lema normalizado para o infinitivo praemonēre.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_22160:22160:1\",\"lemas\":[\"praemonēre\",\"praemoneō\"],\"lema_canonico\":\"praemonēre\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"advertir, avisar de antemão; prenunciar\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma apresentada na fonte como 1ª sg. praemoneō; lema normalizado para o infinitivo praemonēre.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
     "id": "chunk_22160-e2",
@@ -4290,28 +3564,6 @@
     "raw_json": "{\"id\":\"chunk_22171:22171:0\",\"lemas\":[\"praemonēre\"],\"lema_canonico\":\"praemonēre\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"praemonēre, praemoneō, praemonuī, praemonitus — advertir com antecedência, avisar, prenunciar\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada expandida para incluir as formas principais conforme fontes lexicográficas.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_22172-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22172",
-    "page_num": 22172,
-    "lemmas": [
-      "praemordeo",
-      "praemordeo"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "morder na ponta; abater, cortar, diminuir (figur.)",
-    "exemplos": [],
-    "notas": "Normalizado para formas praemordeō, praemordēre conforme Lat→Deu/Whitaker. | [dedupe] redirect → chunk_22173:22173:0 | [dedupe] redirect → chunk_22173:22173:0",
-    "raw_text": "{\"id\":\"chunk_22172:22172:0\",\"lemas\":[\"praemordeo\",\"praemordere\"],\"lema_canonico\":\"praemordeo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"morder na ponta; abater, cortar, diminuir (figur.)\",\"aliases\":[],\"exemplos\":[\"Sen. Clem. 1, 5, 51\",\"Juv. 7, 217\"],\"notas\":\"Normalizado para formas praemordeō, praemordēre conforme Lat→Deu/Whitaker.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22172:22172:0\",\"lemas\":[\"praemordeo\",\"praemordere\"],\"lema_canonico\":\"praemordeo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"morder na ponta; abater, cortar, diminuir (figur.)\",\"aliases\":[],\"exemplos\":[\"Sen. Clem. 1, 5, 51\",\"Juv. 7, 217\"],\"notas\":\"Normalizado para formas praemordeō, praemordēre conforme Lat→Deu/Whitaker.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_22173-e1",
     "volume_id": "faria",
     "doc_name": "chunk_22173",
@@ -4356,28 +3608,6 @@
     "raw_json": "{\"id\":\"chunk_22174:22174:3\",\"lemas\":[\"praemori\",\"praemorior\",\"praemortuus\"],\"lema_canonico\":\"praemori\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[\"dep.\",\"intr.\"],\"definicao\":\"Morrer prematuramente; figuradamente, perder-se.\",\"aliases\":[],\"exemplos\":[\"Ov. Her. 8, 121\",\"Plin. H. Nat. 1, 65\"],\"notas\":\"Infinitivo como lema canônico; entrada deponente confirmada.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_22174-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_22174",
-    "page_num": 22174,
-    "lemmas": [
-      "perversus",
-      "perversus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "adj.: torto, avesso; perverso, mau, ruim (também como subst.)",
-    "exemplos": [],
-    "notas": "Formas reunidas e normalizadas; advérbio separado em entrada própria | [dedupe] redirect → chunk_20836:20836:1 | [dedupe] redirect → chunk_20836:20836:1",
-    "raw_text": "{\"id\":\"chunk_22174:22174:0\",\"lemas\":[\"perversus\",\"perversa\",\"perversum\"],\"lema_canonico\":\"perversus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"adj.: torto, avesso; perverso, mau, ruim (também como subst.)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Formas reunidas e normalizadas; advérbio separado em entrada própria\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22174:22174:0\",\"lemas\":[\"perversus\",\"perversa\",\"perversum\"],\"lema_canonico\":\"perversus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"adj.: torto, avesso; perverso, mau, ruim (também como subst.)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Formas reunidas e normalizadas; advérbio separado em entrada própria\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_22174-e3",
     "volume_id": "faria",
     "doc_name": "chunk_22174",
@@ -4420,28 +3650,6 @@
     "notas": "Variante pervorsē atestada em LS",
     "raw_text": "{\"id\":\"chunk_22174:22174:2\",\"lemas\":[\"perversē\",\"pervorsē\"],\"lema_canonico\":\"perversē\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"advérbio: de modo perverso, torto; perversamente\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Variante pervorsē atestada em LS\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_22174:22174:2\",\"lemas\":[\"perversē\",\"pervorsē\"],\"lema_canonico\":\"perversē\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"advérbio: de modo perverso, torto; perversamente\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Variante pervorsē atestada em LS\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_22175-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22175",
-    "page_num": 22175,
-    "lemmas": [
-      "praemortŭus",
-      "praemortŭus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "forma indicada como particípio/perfeito relacionada a praemorior (cf. praemori, praemortus); leitura incerta",
-    "exemplos": [],
-    "notas": "Leitura ambígua no OCR; provável relação com praemorior but sources conflict/uncertain. | [ocr_fix 2025-08-17T01:13:44Z] similaridade semântica FAISS (definição/gloss) + reranking por forma | lemma_in='praemortus' → 'praemortŭus' | [dedupe] redirect → chunk_22177:22177:0 | [dedupe] redirect → chunk_22177:22177:0",
-    "raw_text": "{\"id\":\"chunk_22175:22175:0\",\"lemas\":[\"praemortus\"],\"lema_canonico\":\"praemortus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"forma indicada como particípio/perfeito relacionada a praemorior (cf. praemori, praemortus); leitura incerta\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Leitura ambígua no OCR; provável relação com praemorior but sources conflict/uncertain.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_22175:22175:0\",\"lemas\":[\"praemortus\"],\"lema_canonico\":\"praemortus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"forma indicada como particípio/perfeito relacionada a praemorior (cf. praemori, praemortus); leitura incerta\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Leitura ambígua no OCR; provável relação com praemorior but sources conflict/uncertain.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:low\",\"needs_review\"]}"
   },
   {
     "id": "chunk_22176-e1",
@@ -4708,50 +3916,6 @@
     "raw_json": "{\"id\":\"chunk_22187:22187:0\",\"lemas\":[\"Praenestinus\",\"Praenestina\",\"Praenestinum\"],\"lema_canonico\":\"Praenestinus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo a Praeneste; prenestino (famosa por rosas).\",\"aliases\":[],\"exemplos\":[\"Cic. Agr. 2, 78\"],\"notas\":\"Variantes nominativas mascul./fem./neut. incluídas.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_22188-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22188",
-    "page_num": 22188,
-    "lemmas": [
-      "praenitēre",
-      "praenitēre"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "brilhar, resplandecer; às vezes construído com dativo",
-    "exemplos": [],
-    "notas": "Normalizado para o infinitivo praenitēre; atestado em Horácio. | [dedupe] redirect → chunk_22189:22189:1 | [dedupe] redirect → chunk_22189:22189:1",
-    "raw_text": "{\"id\":\"chunk_22188:22188:0\",\"lemas\":[\"praenitēre\",\"praeniteō\"],\"lema_canonico\":\"praenitēre\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"brilhar, resplandecer; às vezes construído com dativo\",\"aliases\":[],\"exemplos\":[\"Hor. O. 1, 33, 4\"],\"notas\":\"Normalizado para o infinitivo praenitēre; atestado em Horácio.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_22188:22188:0\",\"lemas\":[\"praenitēre\",\"praeniteō\"],\"lema_canonico\":\"praenitēre\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"brilhar, resplandecer; às vezes construído com dativo\",\"aliases\":[],\"exemplos\":[\"Hor. O. 1, 33, 4\"],\"notas\":\"Normalizado para o infinitivo praenitēre; atestado em Horácio.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_22189-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22189",
-    "page_num": 22189,
-    "lemmas": [
-      "praenitēre",
-      "praenitēre"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "perfeito de praenitēre (praenitūī): 'brilhou, resplandeceu'",
-    "exemplos": [],
-    "notas": "Registro da forma perfeita (praenitūī) apresentado como forma derivada; lemma normalizado. | [dedupe] redirect → chunk_22189:22189:1 | [dedupe] redirect → chunk_22189:22189:1",
-    "raw_text": "{\"id\":\"chunk_22189:22189:0\",\"lemas\":[\"praenitēre\"],\"lema_canonico\":\"praenitēre\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"perfeito de praenitēre (praenitūī): 'brilhou, resplandeceu'\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Registro da forma perfeita (praenitūī) apresentado como forma derivada; lemma normalizado.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_22189:22189:0\",\"lemas\":[\"praenitēre\"],\"lema_canonico\":\"praenitēre\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"perfeito de praenitēre (praenitūī): 'brilhou, resplandeceu'\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Registro da forma perfeita (praenitūī) apresentado como forma derivada; lemma normalizado.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_22189-e2",
     "volume_id": "faria",
     "doc_name": "chunk_22189",
@@ -4926,28 +4090,6 @@
     "notas": "Verbo da 1ª conjugação (praenūntiāre); formas e sentidos confirmados por Lat→Deu e Whitaker.",
     "raw_text": "{\"id\":\"chunk_22196:22196:0\",\"lemas\":[\"praenūntiō\",\"praenuntio\",\"praenuntiāre\",\"praenuntiare\"],\"lema_canonico\":\"praenūntiō\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"to foreannounce, proclaim beforehand; to be a harbinger\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 1, 12\",\"Plin. H. Nat. 16, 223\"],\"notas\":\"Verbo da 1ª conjugação (praenūntiāre); formas e sentidos confirmados por Lat→Deu e Whitaker.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_22196:22196:0\",\"lemas\":[\"praenūntiō\",\"praenuntio\",\"praenuntiāre\",\"praenuntiare\"],\"lema_canonico\":\"praenūntiō\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"to foreannounce, proclaim beforehand; to be a harbinger\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 1, 12\",\"Plin. H. Nat. 16, 223\"],\"notas\":\"Verbo da 1ª conjugação (praenūntiāre); formas e sentidos confirmados por Lat→Deu e Whitaker.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_22197-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_22197",
-    "page_num": 22197,
-    "lemmas": [
-      "praenuntius",
-      "praenuntius"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "que pressagia; atuando como arauto, anunciador.",
-    "exemplos": [],
-    "notas": "Unificadas as variantes de gênero conforme modelos lexicográficos; incorpora glosses de Whitaker. | [dedupe] redirect → chunk_22198:22198:0 | [dedupe] redirect → chunk_22198:22198:0",
-    "raw_text": "{\"id\":\"chunk_22197:22197:0\",\"lemas\":[\"praenuntius\",\"praenuntia\",\"praenuntium\"],\"lema_canonico\":\"praenuntius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"que pressagia; atuando como arauto, anunciador.\",\"aliases\":[],\"exemplos\":[\"Sen. Ir. 3, 10, 2\"],\"notas\":\"Unificadas as variantes de gênero conforme modelos lexicográficos; incorpora glosses de Whitaker.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_22197:22197:0\",\"lemas\":[\"praenuntius\",\"praenuntia\",\"praenuntium\"],\"lema_canonico\":\"praenuntius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"que pressagia; atuando como arauto, anunciador.\",\"aliases\":[],\"exemplos\":[\"Sen. Ir. 3, 10, 2\"],\"notas\":\"Unificadas as variantes de gênero conforme modelos lexicográficos; incorpora glosses de Whitaker.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
   },
   {
     "id": "chunk_22198-e1",

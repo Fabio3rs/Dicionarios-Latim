@@ -1,27 +1,5 @@
 [
   {
-    "id": "chunk_19600-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_19600",
-    "page_num": 19600,
-    "lemmas": [
-      "panis",
-      "panis"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "pão; pão, pedaço de pão (substantivo).",
-    "exemplos": [],
-    "notas": "Corrige leitura errônea como particípio de pango: 'pani' here is a case-form (dat./voc./etc.) of panis. | [dedupe] redirect → chunk_19571:19571:1 | [dedupe] redirect → chunk_19571:19571:1",
-    "raw_text": "{\"id\":\"chunk_19600:19600:0\",\"lemas\":[\"panis\",\"pani\"],\"lema_canonico\":\"panis\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"pão; pão, pedaço de pão (substantivo).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrige leitura errônea como particípio de pango: 'pani' here is a case-form (dat./voc./etc.) of panis.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_19600:19600:0\",\"lemas\":[\"panis\",\"pani\"],\"lema_canonico\":\"panis\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"pão; pão, pedaço de pão (substantivo).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrige leitura errônea como particípio de pango: 'pani' here is a case-form (dat./voc./etc.) of panis.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_19601-e1",
     "volume_id": "faria",
     "doc_name": "chunk_19601",
@@ -242,28 +220,6 @@
     "raw_json": "{\"id\":\"chunk_19610:19610:0\",\"lemas\":[\"Paphus\"],\"lema_canonico\":\"Paphus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"nome próprio masculino (Paphus), mitológico: filho de Pigmaleão; deu nome a Páfos.\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 10, 297\"],\"notas\":\"Reconstruído do contexto e referência oviana; forma e sentido preservados da primeira passada.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}"
   },
   {
-    "id": "chunk_19611-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_19611",
-    "page_num": 19611,
-    "lemmas": [
-      "Papias",
-      "Papias"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "OCR/first_pass sugere referência à lex Papia; tratado como redirecionamento para 'Papia'. Verificar se entry é nome próprio distinto.",
-    "raw_text": "{\"id\":\"chunk_19611:19611:0\",\"lemas\":[\"Papias\"],\"lema_canonico\":\"Papias\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Papia\"],\"exemplos\":[\"Cic. de Q. 3, 47\"],\"notas\":\"OCR/first_pass sugere referência à lex Papia; tratado como redirecionamento para 'Papia'. Verificar se entry é nome próprio distinto.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_19611:19611:0\",\"lemas\":[\"Papias\"],\"lema_canonico\":\"Papias\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Papia\"],\"exemplos\":[\"Cic. de Q. 3, 47\"],\"notas\":\"OCR/first_pass sugere referência à lex Papia; tratado como redirecionamento para 'Papia'. Verificar se entry é nome próprio distinto.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\",\"redirect_only\"]}"
-  },
-  {
     "id": "chunk_19612-e1",
     "volume_id": "faria",
     "doc_name": "chunk_19612",
@@ -328,28 +284,6 @@
     "notas": "Corrigido para papilla, forma feminina clássica; variantes e OCR ajustadas. | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='papilla' → 'păpilla'",
     "raw_text": "{\"id\":\"chunk_19614:19614:0\",\"lemas\":[\"papilla\"],\"lema_canonico\":\"papilla\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"mama, mamilo; mamela; bico (de animal), papila (anat.)\",\"aliases\":[],\"exemplos\":[\"Plaut. Rud. 2, 4, 10\",\"Cat. 66, 81\"],\"notas\":\"Corrigido para papilla, forma feminina clássica; variantes e OCR ajustadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_19614:19614:0\",\"lemas\":[\"papilla\"],\"lema_canonico\":\"papilla\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"mama, mamilo; mamela; bico (de animal), papila (anat.)\",\"aliases\":[],\"exemplos\":[\"Plaut. Rud. 2, 4, 10\",\"Cat. 66, 81\"],\"notas\":\"Corrigido para papilla, forma feminina clássica; variantes e OCR ajustadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_19614-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_19614",
-    "page_num": 19614,
-    "lemmas": [
-      "papa",
-      "papa"
-    ],
-    "morfologia": "s. masc. 1ª (-ae)",
-    "morph_render": "s. masc. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "pai; em escritores eclesiásticos, o bispo de Roma (papa)",
-    "exemplos": [],
-    "notas": "Unificada a entrada para pāpa (pai/pope); excluídas formas confusas/regionales sem confirmação. | [dedupe] redirect → chunk_19602:19602:0 | [dedupe] redirect → chunk_19602:19602:0",
-    "raw_text": "{\"id\":\"chunk_19614:19614:1\",\"lemas\":[\"papa\"],\"lema_canonico\":\"papa\",\"morfologia\":\"s. masc. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"pai; em escritores eclesiásticos, o bispo de Roma (papa)\",\"aliases\":[],\"exemplos\":[\"Prud. στεφ. 11, 127\",\"Tert. Pudic. 13\"],\"notas\":\"Unificada a entrada para pāpa (pai/pope); excluídas formas confusas/regionales sem confirmação.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_19614:19614:1\",\"lemas\":[\"papa\"],\"lema_canonico\":\"papa\",\"morfologia\":\"s. masc. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"pai; em escritores eclesiásticos, o bispo de Roma (papa)\",\"aliases\":[],\"exemplos\":[\"Prud. στεφ. 11, 127\",\"Tert. Pudic. 13\"],\"notas\":\"Unificada a entrada para pāpa (pai/pope); excluídas formas confusas/regionales sem confirmação.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_19615-e1",
@@ -440,50 +374,6 @@
     "raw_json": "{\"id\":\"chunk_19618:19618:0\",\"lemas\":[\"Papīrīānus\",\"Papirinus\"],\"lema_canonico\":\"Papīrīānus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Of or pertaining to the gens Papīrius; Papirian (gentilical adjective).\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 7, 20\"],\"notas\":\"Preferida a forma gentilícia Papīrīānus (Lewis & Short) em vez de leitura inconsistente 'Papirinus'.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_19619-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_19619",
-    "page_num": 19619,
-    "lemmas": [
-      "Păpīrĭus",
-      "Păpīrĭus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Name of a patrician and plebeian gens (the Papirii); gentilic name.",
-    "exemplos": [],
-    "notas": "Forma e status gentílico confirmados in Lewis & Short. | [dedupe] redirect → chunk_19617:19617:0 | [dedupe] redirect → chunk_19617:19617:0 | [ocr_fix 2025-08-17T19:50:44Z] match direto em LS por lemma/lemma_norm | lemma_in='Papīrius' → 'Păpīrĭus'",
-    "raw_text": "{\"id\":\"chunk_19619:19619:0\",\"lemas\":[\"Papīrius\",\"Papirius\"],\"lema_canonico\":\"Papīrius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Name of a patrician and plebeian gens (the Papirii); gentilic name.\",\"aliases\":[],\"exemplos\":[\"Liv. 8, 37\"],\"notas\":\"Forma e status gentílico confirmados in Lewis & Short.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_19619:19619:0\",\"lemas\":[\"Papīrius\",\"Papirius\"],\"lema_canonico\":\"Papīrius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Name of a patrician and plebeian gens (the Papirii); gentilic name.\",\"aliases\":[],\"exemplos\":[\"Liv. 8, 37\"],\"notas\":\"Forma e status gentílico confirmados in Lewis & Short.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_19620-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_19620",
-    "page_num": 19620,
-    "lemmas": [
-      "Păpīrĭus",
-      "Păpīrĭus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "nome de uma gens romana (Papirius); adjetivo derivado Papiriānus, relativo à gens",
-    "exemplos": [],
-    "notas": "Normalizada forma clássica Papīrius; mantidas formas adjetivais indicadas por LS. | [dedupe] redirect → chunk_19617:19617:0 | [dedupe] redirect → chunk_19617:19617:0 | [ocr_fix 2025-08-17T19:59:16Z] match direto em LS por lemma/lemma_norm | lemma_in='Papirius' → 'Păpīrĭus'",
-    "raw_text": "{\"id\":\"chunk_19620:19620:0\",\"lemas\":[\"Papirius\",\"Papiriānus\"],\"lema_canonico\":\"Papirius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"nome de uma gens romana (Papirius); adjetivo derivado Papiriānus, relativo à gens\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 9, 21, 2\",\"Liv. 8, 30\",\"Cic. Leg. 3, 16, 35\"],\"notas\":\"Normalizada forma clássica Papīrius; mantidas formas adjetivais indicadas por LS.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_19620:19620:0\",\"lemas\":[\"Papirius\",\"Papiriānus\"],\"lema_canonico\":\"Papirius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"nome de uma gens romana (Papirius); adjetivo derivado Papiriānus, relativo à gens\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 9, 21, 2\",\"Liv. 8, 30\",\"Cic. Leg. 3, 16, 35\"],\"notas\":\"Normalizada forma clássica Papīrius; mantidas formas adjetivais indicadas por LS.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_19621-e1",
     "volume_id": "faria",
     "doc_name": "chunk_19621",
@@ -504,28 +394,6 @@
     "notas": "Definição ampliada a partir de Lewis & Short (Pāpĭus). Unificada grafia do OCR. | [ocr_fix 2025-08-17T19:59:11Z] match direto em LS por lemma/lemma_norm | lemma_in='Papius' → 'Pāpĭus'",
     "raw_text": "{\"id\":\"chunk_19621:19621:0\",\"lemas\":[\"Papius\"],\"lema_canonico\":\"Papius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Nome de família (gens) romana Papia; indivíduos notáveis: C. Papius (tribuno), M. Papius Mutilus (cônsul). Também adjetivo gentilitício Papius, -a.\",\"aliases\":[],\"exemplos\":[\"Cic. Off. 3, 11, 47\",\"Tac. Ann. 2, 32; 3, 25\",\"Suet. Claud. 23\"],\"notas\":\"Definição ampliada a partir de Lewis & Short (Pāpĭus). Unificada grafia do OCR.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_19621:19621:0\",\"lemas\":[\"Papius\"],\"lema_canonico\":\"Papius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Nome de família (gens) romana Papia; indivíduos notáveis: C. Papius (tribuno), M. Papius Mutilus (cônsul). Também adjetivo gentilitício Papius, -a.\",\"aliases\":[],\"exemplos\":[\"Cic. Off. 3, 11, 47\",\"Tac. Ann. 2, 32; 3, 25\",\"Suet. Claud. 23\"],\"notas\":\"Definição ampliada a partir de Lewis & Short (Pāpĭus). Unificada grafia do OCR.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_19622-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_19622",
-    "page_num": 19622,
-    "lemmas": [
-      "Pāpĭus",
-      "Pāpĭus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "nome de uma gens romana; também adjetivo relativo à gens (Papius, a)",
-    "exemplos": [],
-    "notas": "Unifiquei a entrada como nomen gentilicium; a forma verbal coloquial atestada em fontes menores permanece passível de homonímia. | [dedupe] redirect → chunk_19621:19621:0 | [dedupe] redirect → chunk_19621:19621:0 | [ocr_fix 2025-08-17T19:59:15Z] match direto em LS por lemma/lemma_norm | lemma_in='Papius' → 'Pāpĭus'",
-    "raw_text": "{\"id\":\"chunk_19622:19622:0\",\"lemas\":[\"Papius\"],\"lema_canonico\":\"Papius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"nome de uma gens romana; também adjetivo relativo à gens (Papius, a)\",\"aliases\":[],\"exemplos\":[\"Cic. Off. 3, 11, 47\",\"Tac. Ann. 2, 32\"],\"notas\":\"Unifiquei a entrada como nomen gentilicium; a forma verbal coloquial atestada em fontes menores permanece passível de homonímia.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_19622:19622:0\",\"lemas\":[\"Papius\"],\"lema_canonico\":\"Papius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"nome de uma gens romana; também adjetivo relativo à gens (Papius, a)\",\"aliases\":[],\"exemplos\":[\"Cic. Off. 3, 11, 47\",\"Tac. Ann. 2, 32\"],\"notas\":\"Unifiquei a entrada como nomen gentilicium; a forma verbal coloquial atestada em fontes menores permanece passível de homonímia.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
     "id": "chunk_19623-e1",
@@ -1034,50 +902,6 @@
     "raw_json": "{\"id\":\"chunk_19644:19644:0\",\"lemas\":[\"parasitor\",\"parasītārī\"],\"lema_canonico\":\"parasitor\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"atuar como parasita; viver à custa dos outros (verbo deponente, Plauto)\",\"aliases\":[],\"exemplos\":[\"Plaut. Pers. 56\"],\"notas\":\"Infinitivo deponente registrado como parasītārī; mantida forma simples 'parasitor' como lema.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_19645-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_19645",
-    "page_num": 19645,
-    "lemmas": [
-      "parasita",
-      "parasita"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "parasite (female); in comedy a 'dinner‑hanger-on'; also guest/entertained person (contextual)",
-    "exemplos": [],
-    "notas": "Corrigido gênero para feminino (1ª decl.) conforme Lat→Deu/Whitaker; preservadas referências. | [dedupe] redirect → chunk_19640:19640:0 | [dedupe] redirect → chunk_19640:19640:0",
-    "raw_text": "{\"id\":\"chunk_19645:19645:0\",\"lemas\":[\"parasita\",\"parasitas\"],\"lema_canonico\":\"parasita\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"parasite (female); in comedy a 'dinner‑hanger-on'; also guest/entertained person (contextual)\",\"aliases\":[],\"exemplos\":[\"Cic. Lae. 98\",\"Apul. Met. 10, 16\"],\"notas\":\"Corrigido gênero para feminino (1ª decl.) conforme Lat→Deu/Whitaker; preservadas referências.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_19645:19645:0\",\"lemas\":[\"parasita\",\"parasitas\"],\"lema_canonico\":\"parasita\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"parasite (female); in comedy a 'dinner‑hanger-on'; also guest/entertained person (contextual)\",\"aliases\":[],\"exemplos\":[\"Cic. Lae. 98\",\"Apul. Met. 10, 16\"],\"notas\":\"Corrigido gênero para feminino (1ª decl.) conforme Lat→Deu/Whitaker; preservadas referências.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_19645-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_19645",
-    "page_num": 19645,
-    "lemmas": [
-      "parasita",
-      "parasita"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "fêmea parasita; mulher que participa de banquetes às custas de outrem (comedic usage)",
-    "exemplos": [],
-    "notas": "[dedupe] redirect → chunk_19640:19640:0 | [dedupe] redirect → chunk_19640:19640:0",
-    "raw_text": "{\"id\":\"chunk_19645:19645:1\",\"lemas\":[\"parasita\"],\"lema_canonico\":\"parasita\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"fêmea parasita; mulher que participa de banquetes às custas de outrem (comedic usage)\",\"aliases\":[],\"exemplos\":[\"Hor. S. 1, 2, 98\"],\"notas\":\"\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_19645:19645:1\",\"lemas\":[\"parasita\"],\"lema_canonico\":\"parasita\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"fêmea parasita; mulher que participa de banquetes às custas de outrem (comedic usage)\",\"aliases\":[],\"exemplos\":[\"Hor. S. 1, 2, 98\"],\"notas\":\"\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_19646-e1",
     "volume_id": "faria",
     "doc_name": "chunk_19646",
@@ -1210,28 +1034,6 @@
     "raw_json": "{\"id\":\"chunk_19650:19650:0\",\"lemas\":[\"Pariantis\"],\"lema_canonico\":\"Pariantis\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"(incerto) registrado como adjetivo relativo a 'Pario' ou a 'Páris' — leitura ambígua\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 13, 53, 2\"],\"notas\":\"Leitura/identificação incerta; não encontrada em fontes principais consultadas; manter revisão manual.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_19651-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_19651",
-    "page_num": 19651,
-    "lemmas": [
-      "pārĕo",
-      "pārĕo"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "aparecer; obedecer, ser sujeito a; (verbo intrans./trans. conforme contexto).",
-    "exemplos": [],
-    "notas": "Correcção de 'pareid' (OCR) para o verbo legítimo parēre / pareo. | [dedupe] redirect → chunk_20481:20481:0 | [dedupe] redirect → chunk_20481:20481:0 | [ocr_fix 2025-08-17T19:50:46Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='pareo' → 'pārĕo'",
-    "raw_text": "{\"id\":\"chunk_19651:19651:0\",\"lemas\":[\"pareo\",\"parēre\"],\"lema_canonico\":\"pareo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"aparecer; obedecer, ser sujeito a; (verbo intrans./trans. conforme contexto).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Correcção de 'pareid' (OCR) para o verbo legítimo parēre / pareo.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_19651:19651:0\",\"lemas\":[\"pareo\",\"parēre\"],\"lema_canonico\":\"pareo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"aparecer; obedecer, ser sujeito a; (verbo intrans./trans. conforme contexto).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Correcção de 'pareid' (OCR) para o verbo legítimo parēre / pareo.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_19652-e1",
     "volume_id": "faria",
     "doc_name": "chunk_19652",
@@ -1340,28 +1142,6 @@
     "notas": "Forma e significado confirmados por Lewis & Short e Whitaker; inclui variante neutra 'parile'.",
     "raw_text": "{\"id\":\"chunk_19656:19656:0\",\"lemas\":[\"parilis\",\"parile\"],\"lema_canonico\":\"parilis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"semelhante, igual, equivalente\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 8, 631\"],\"notas\":\"Forma e significado confirmados por Lewis & Short e Whitaker; inclui variante neutra 'parile'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_19656:19656:0\",\"lemas\":[\"parilis\",\"parile\"],\"lema_canonico\":\"parilis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"semelhante, igual, equivalente\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 8, 631\"],\"notas\":\"Forma e significado confirmados por Lewis & Short e Whitaker; inclui variante neutra 'parile'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_19657-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_19657",
-    "page_num": 19657,
-    "lemmas": [
-      "parilis",
-      "parilis"
-    ],
-    "morfologia": "adj. (3) 2T",
-    "morph_render": "adj. (3) 2T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "igual, semelhante; advérbio relacionado: pariliter, igualmente",
-    "exemplos": [],
-    "notas": "Confirmado em Lewis & Short e Whitaker; menção crítica sobre leitura 'paria' em Varrão mantida. | [dedupe] redirect → chunk_19656:19656:0 | [dedupe] redirect → chunk_19656:19656:0",
-    "raw_text": "{\"id\":\"chunk_19657:19657:0\",\"lemas\":[\"parilis\",\"pariliter\"],\"lema_canonico\":\"parilis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"igual, semelhante; advérbio relacionado: pariliter, igualmente\",\"aliases\":[],\"exemplos\":[\"Lucr. 1, 1067\",\"Ov. Met. 8, 631\",\"Ov. Tr. 1, 8, 26\",\"Nemes. Ecl. 4, 5\"],\"notas\":\"Confirmado em Lewis & Short e Whitaker; menção crítica sobre leitura 'paria' em Varrão mantida.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_19657:19657:0\",\"lemas\":[\"parilis\",\"pariliter\"],\"lema_canonico\":\"parilis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"igual, semelhante; advérbio relacionado: pariliter, igualmente\",\"aliases\":[],\"exemplos\":[\"Lucr. 1, 1067\",\"Ov. Met. 8, 631\",\"Ov. Tr. 1, 8, 26\",\"Nemes. Ecl. 4, 5\"],\"notas\":\"Confirmado em Lewis & Short e Whitaker; menção crítica sobre leitura 'paria' em Varrão mantida.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_19658-e1",
@@ -2022,28 +1802,6 @@
     "notas": "Unificação de leituras e variantes de identificação conforme Lewis & Short; referências corrigidas.",
     "raw_text": "{\"id\":\"chunk_19687:19687:0\",\"lemas\":[\"parra\"],\"lema_canonico\":\"parra\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"parra: ave de mau agouro; segundo autores, aplicada à coruja (barn-owl), ao pica-pau verde ou ao lapwing.\",\"aliases\":[],\"exemplos\":[\"Hor. C. 3, 27, 1\",\"Plaut. As. 2, 1, 12\",\"Varr. R.R. 3, 5\",\"Plin. 18, 29, 69, § 292\"],\"notas\":\"Unificação de leituras e variantes de identificação conforme Lewis & Short; referências corrigidas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_19687:19687:0\",\"lemas\":[\"parra\"],\"lema_canonico\":\"parra\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"parra: ave de mau agouro; segundo autores, aplicada à coruja (barn-owl), ao pica-pau verde ou ao lapwing.\",\"aliases\":[],\"exemplos\":[\"Hor. C. 3, 27, 1\",\"Plaut. As. 2, 1, 12\",\"Varr. R.R. 3, 5\",\"Plin. 18, 29, 69, § 292\"],\"notas\":\"Unificação de leituras e variantes de identificação conforme Lewis & Short; referências corrigidas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_19688-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_19688",
-    "page_num": 19688,
-    "lemmas": [
-      "Parrhăsĭus",
-      "Parrhăsĭus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "relativo a Parrhasia (região da Arcádia); como subst. f. (Parrhasis) = Calisto, a ursa arcádica",
-    "exemplos": [],
-    "notas": "Entrada alinhada com Lewis & Short: adj. e substantivo feminino cidadão/poético. | [dedupe] redirect → chunk_19689:19689:0 | [dedupe] redirect → chunk_19689:19689:0 | [ocr_fix 2025-08-17T19:54:16Z] match direto em LS por lemma/lemma_norm | lemma_in='Parrhasius' → 'Parrhăsĭus'",
-    "raw_text": "{\"id\":\"chunk_19688:19688:0\",\"lemas\":[\"Parrhasis\",\"Parrhasius\",\"Parrhasia\"],\"lema_canonico\":\"Parrhasius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo a Parrhasia (região da Arcádia); como subst. f. (Parrhasis) = Calisto, a ursa arcádica\",\"aliases\":[],\"exemplos\":[\"Ov. Her. 18, 152\",\"Ov. Trist. 1, 3, 48\",\"Ov. Met. 2, 460\"],\"notas\":\"Entrada alinhada com Lewis & Short: adj. e substantivo feminino cidadão/poético.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_19688:19688:0\",\"lemas\":[\"Parrhasis\",\"Parrhasius\",\"Parrhasia\"],\"lema_canonico\":\"Parrhasius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo a Parrhasia (região da Arcádia); como subst. f. (Parrhasis) = Calisto, a ursa arcádica\",\"aliases\":[],\"exemplos\":[\"Ov. Her. 18, 152\",\"Ov. Trist. 1, 3, 48\",\"Ov. Met. 2, 460\"],\"notas\":\"Entrada alinhada com Lewis & Short: adj. e substantivo feminino cidadão/poético.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
     "id": "chunk_19689-e1",
@@ -2728,28 +2486,6 @@
     "raw_json": "{\"id\":\"chunk_19718:19718:0\",\"lemas\":[\"participium\"],\"lema_canonico\":\"participium\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"particípio; aquilo que participa; forma verbal que tem funções de substantivo e adjetivo; também: participation, sharing (lit. and transf.).\",\"aliases\":[],\"exemplos\":[\"Quint. 1, 4, 19\"],\"notas\":\"Conferido com Lewis & Short e Whitaker; unifiquei sentido nominal e gramatical.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_19719-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_19719",
-    "page_num": 19719,
-    "lemmas": [
-      "participo",
-      "participo"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Fazer partícipe; dar uma parte; transmitir; (pass.) participar, tomar parte em algo.",
-    "exemplos": [],
-    "notas": "Lema normalizado para participo; formas flexionadas conforme LS/Lat→Deu. | [dedupe] redirect → chunk_19717:19717:0 | [dedupe] redirect → chunk_19717:19717:0",
-    "raw_text": "{\"id\":\"chunk_19719:19719:0\",\"lemas\":[\"participo\"],\"lema_canonico\":\"participo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"Fazer partícipe; dar uma parte; transmitir; (pass.) participar, tomar parte em algo.\",\"aliases\":[],\"exemplos\":[\"Plaut. Mil. 263\",\"Cic. Leg. 1, 23\"],\"notas\":\"Lema normalizado para participo; formas flexionadas conforme LS/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_19719:19719:0\",\"lemas\":[\"participo\"],\"lema_canonico\":\"participo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"Fazer partícipe; dar uma parte; transmitir; (pass.) participar, tomar parte em algo.\",\"aliases\":[],\"exemplos\":[\"Plaut. Mil. 263\",\"Cic. Leg. 1, 23\"],\"notas\":\"Lema normalizado para participo; formas flexionadas conforme LS/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_19720-e1",
     "volume_id": "faria",
     "doc_name": "chunk_19720",
@@ -2836,28 +2572,6 @@
     "notas": "Entrada confirmada em Whitaker e LS; etimologia relacionada a pars indicada nas fontes.",
     "raw_text": "{\"id\":\"chunk_19722:19722:1\",\"lemas\":[\"partim\"],\"lema_canonico\":\"partim\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"em parte; parcialmente. Em correlative uso (partim ... partim): 'uns ... outros'.\",\"aliases\":[],\"exemplos\":[\"Caes. B. Gall. 5, 6, 3\",\"Cic. Nat. 1, 103\"],\"notas\":\"Entrada confirmada em Whitaker e LS; etimologia relacionada a pars indicada nas fontes.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_19722:19722:1\",\"lemas\":[\"partim\"],\"lema_canonico\":\"partim\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"em parte; parcialmente. Em correlative uso (partim ... partim): 'uns ... outros'.\",\"aliases\":[],\"exemplos\":[\"Caes. B. Gall. 5, 6, 3\",\"Cic. Nat. 1, 103\"],\"notas\":\"Entrada confirmada em Whitaker e LS; etimologia relacionada a pars indicada nas fontes.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_19723-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_19723",
-    "page_num": 19723,
-    "lemmas": [
-      "pario",
-      "pario"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "parĕre, peperī, partum: gerar, dar à luz; produzir, trazer à existência; transit.: causar, dar, obter; também: satisfazer, pagar (sentidos clássicos variados).",
-    "exemplos": [],
-    "notas": "Unificado para o verbo principal pario (parere, peperi, partum). Flexões confirmadas em LS/Whitaker/Lat→Deu. | [dedupe] redirect → chunk_19658:19658:0 | [dedupe] redirect → chunk_19658:19658:0",
-    "raw_text": "{\"id\":\"chunk_19723:19723:0\",\"lemas\":[\"pario\"],\"lema_canonico\":\"pario\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"parĕre, peperī, partum: gerar, dar à luz; produzir, trazer à existência; transit.: causar, dar, obter; também: satisfazer, pagar (sentidos clássicos variados).\",\"aliases\":[],\"exemplos\":[\"Lucr. 5, 684\",\"Cic. Or. 188\",\"Caes. B. Gall. 6, 6, 1\"],\"notas\":\"Unificado para o verbo principal pario (parere, peperi, partum). Flexões confirmadas em LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_19723:19723:0\",\"lemas\":[\"pario\"],\"lema_canonico\":\"pario\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"parĕre, peperī, partum: gerar, dar à luz; produzir, trazer à existência; transit.: causar, dar, obter; também: satisfazer, pagar (sentidos clássicos variados).\",\"aliases\":[],\"exemplos\":[\"Lucr. 5, 684\",\"Cic. Or. 188\",\"Caes. B. Gall. 6, 6, 1\"],\"notas\":\"Unificado para o verbo principal pario (parere, peperi, partum). Flexões confirmadas em LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_19724-e1",
@@ -3058,28 +2772,6 @@
     "raw_json": "{\"id\":\"chunk_19732:19732:0\",\"lemas\":[\"partus\"],\"lema_canonico\":\"partus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"a ação de dar à luz; o parto; por extensão, a cria, o produto (também sentido figurado: obra, produção).\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 6, 18, 5\",\"T. Liv. 40, 4, 4\",\"Cic. Brut. 49\"],\"notas\":\"Unificada a acepção obstétrica e a figurada; confirmado por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_19733-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_19733",
-    "page_num": 19733,
-    "lemmas": [
-      "pārĕo",
-      "pārĕo"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "parui = perfeito indicativo ativo de pāreō: aparecer; mostrar‑se; obedecer, sujeitar‑se, atender a; servir.",
-    "exemplos": [],
-    "notas": "Entrada trata do perfeito 'parui' de pāreō; normalizei lema base para pareo e mantive a forma perfeita.\n[ocr_pipeline 2025-08-16T23:20:40.104998Z] lemma_in='pareo' → 'pārĕo' | motivo: match direto em LS por lemma/lemma_norm | [ocr_fix 2025-08-17T01:19:00Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='pārĕo' → 'pārĕo' | [dedupe] redirect → chunk_20481:20481:0 | [dedupe] redirect → chunk_20481:20481:0",
-    "raw_text": "{\"id\":\"chunk_19733:19733:0\",\"lemas\":[\"pareo\",\"parui\"],\"lema_canonico\":\"pareo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"parui = perfeito indicativo ativo de pāreō: aparecer; mostrar‑se; obedecer, sujeitar‑se, atender a; servir.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada trata do perfeito 'parui' de pāreō; normalizei lema base para pareo e mantive a forma perfeita.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:low\"]}",
-    "raw_json": "{\"id\":\"chunk_19733:19733:0\",\"lemas\":[\"pareo\",\"parui\"],\"lema_canonico\":\"pareo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"parui = perfeito indicativo ativo de pāreō: aparecer; mostrar‑se; obedecer, sujeitar‑se, atender a; servir.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada trata do perfeito 'parui' de pāreō; normalizei lema base para pareo e mantive a forma perfeita.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:low\"]}"
-  },
-  {
     "id": "chunk_19734-e1",
     "volume_id": "faria",
     "doc_name": "chunk_19734",
@@ -3122,50 +2814,6 @@
     "notas": "Forma e sentido confirmados por Lewis & Short e Whitaker; normalizei macron/brevê como variantes.",
     "raw_text": "{\"id\":\"chunk_19735:19735:0\",\"lemas\":[\"parumper\",\"parūmper\"],\"lema_canonico\":\"parumper\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"Por pouco tempo; por um momento; em breve; rapidamente.\",\"aliases\":[\"parūmper\"],\"exemplos\":[\"Plaut. Curc. 2, 3, 78\",\"Plaut. Bacch. 4, 6, 24\",\"Ter. And. 4, 2, 31\",\"Liv. 4, 32\",\"Cic. de Or. 3, 35, 143\",\"Cic. Div. 1, 23, 47\",\"Festus p. 221 Müll.\"],\"notas\":\"Forma e sentido confirmados por Lewis & Short e Whitaker; normalizei macron/brevê como variantes.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_19735:19735:0\",\"lemas\":[\"parumper\",\"parūmper\"],\"lema_canonico\":\"parumper\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"Por pouco tempo; por um momento; em breve; rapidamente.\",\"aliases\":[\"parūmper\"],\"exemplos\":[\"Plaut. Curc. 2, 3, 78\",\"Plaut. Bacch. 4, 6, 24\",\"Ter. And. 4, 2, 31\",\"Liv. 4, 32\",\"Cic. de Or. 3, 35, 143\",\"Cic. Div. 1, 23, 47\",\"Festus p. 221 Müll.\"],\"notas\":\"Forma e sentido confirmados por Lewis & Short e Whitaker; normalizei macron/brevê como variantes.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_19736-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_19736",
-    "page_num": 19736,
-    "lemmas": [
-      "parvus",
-      "parvus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "pequeno, pouco, insignificante; aqui nota-se 'parvi' como genitivo singular de parvus.",
-    "exemplos": [],
-    "notas": "Corrigido para a forma lema e marcada a forma genitiva como morph_extra. | [dedupe] redirect → chunk_19741:19741:0 | [dedupe] redirect → chunk_19741:19741:0",
-    "raw_text": "{\"id\":\"chunk_19736:19736:0\",\"lemas\":[\"parvus\"],\"lema_canonico\":\"parvus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"gen. sg.\"],\"definicao\":\"pequeno, pouco, insignificante; aqui nota-se 'parvi' como genitivo singular de parvus.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigido para a forma lema e marcada a forma genitiva como morph_extra.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_19736:19736:0\",\"lemas\":[\"parvus\"],\"lema_canonico\":\"parvus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"gen. sg.\"],\"definicao\":\"pequeno, pouco, insignificante; aqui nota-se 'parvi' como genitivo singular de parvus.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigido para a forma lema e marcada a forma genitiva como morph_extra.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_19737-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_19737",
-    "page_num": 19737,
-    "lemmas": [
-      "parvus",
-      "parvus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "parvus: pequeno; parvius e parvissimus atestados como variantes comparativa/superlativa (formas derivadas de parvus).",
-    "exemplos": [],
-    "notas": "Mantidas variantes; normalizadas grafias (parvissimus). | [dedupe] redirect → chunk_19741:19741:0 | [dedupe] redirect → chunk_19741:19741:0",
-    "raw_text": "{\"id\":\"chunk_19737:19737:0\",\"lemas\":[\"parvus\",\"parvius\",\"parvissimus\"],\"lema_canonico\":\"parvus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"comparative\",\"superlative\"],\"definicao\":\"parvus: pequeno; parvius e parvissimus atestados como variantes comparativa/superlativa (formas derivadas de parvus).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Mantidas variantes; normalizadas grafias (parvissimus).\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_19737:19737:0\",\"lemas\":[\"parvus\",\"parvius\",\"parvissimus\"],\"lema_canonico\":\"parvus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"comparative\",\"superlative\"],\"definicao\":\"parvus: pequeno; parvius e parvissimus atestados como variantes comparativa/superlativa (formas derivadas de parvus).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Mantidas variantes; normalizadas grafias (parvissimus).\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
   },
   {
     "id": "chunk_19738-e1",
@@ -3850,28 +3498,6 @@
     "raw_json": "{\"id\":\"chunk_19767:19767:0\",\"lemas\":[\"pastorius\",\"pastoricus\"],\"lema_canonico\":\"pastorius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo a pastor; pastoral, próprio do pastor\",\"aliases\":[],\"exemplos\":[\"Cic. Cel. 26\",\"Ov. Met. 2, 600\"],\"notas\":\"Incluídas variantes (pastoricus/pastorius); grafia e escala confirmadas em LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_19768-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_19768",
-    "page_num": 19768,
-    "lemmas": [
-      "pastorius",
-      "pastorius"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Relativo a pastor; ‘pastoral, do pastor’ (p. ex. referente a hábitos, vestes, cerimónias pastorais).",
-    "exemplos": [],
-    "notas": "Formas tripartidas regularizadas para o adjetivo de 1/2; aceitação confirmada por LS e Whitaker. | [dedupe] redirect → chunk_19767:19767:0 | [dedupe] redirect → chunk_19767:19767:0",
-    "raw_text": "{\"id\":\"chunk_19768:19768:0\",\"lemas\":[\"pastorius\",\"pastoria\",\"pastorium\"],\"lema_canonico\":\"pastorius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo a pastor; ‘pastoral, do pastor’ (p. ex. referente a hábitos, vestes, cerimónias pastorais).\",\"aliases\":[],\"exemplos\":[\"Ov. F. 1, 723\"],\"notas\":\"Formas tripartidas regularizadas para o adjetivo de 1/2; aceitação confirmada por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_19768:19768:0\",\"lemas\":[\"pastorius\",\"pastoria\",\"pastorium\"],\"lema_canonico\":\"pastorius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo a pastor; ‘pastoral, do pastor’ (p. ex. referente a hábitos, vestes, cerimónias pastorais).\",\"aliases\":[],\"exemplos\":[\"Ov. F. 1, 723\"],\"notas\":\"Formas tripartidas regularizadas para o adjetivo de 1/2; aceitação confirmada por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_19769-e1",
     "volume_id": "faria",
     "doc_name": "chunk_19769",
@@ -4158,28 +3784,6 @@
     "raw_json": "{\"id\":\"chunk_19780:19780:0\",\"lemas\":[\"patefactus\",\"patefacta\",\"patefactum\"],\"lema_canonico\":\"patefactus\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de patefacio: aberto, revelado, exposto.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Lemas e sentido confirmados em Lewis & Short, Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_19781-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_19781",
-    "page_num": 19781,
-    "lemmas": [
-      "patefacio",
-      "patefacio"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "tornar acessível, abrir, tornar manifesto; (pass.) patefio = abrir‑se, ser revelado",
-    "exemplos": [],
-    "notas": "Tratado como verbo principal patefacio; patefio registrado como forma passiva/variante (LS indica pătĕfīo → patefacio). | [dedupe] redirect → chunk_19778:19778:0 | [dedupe] redirect → chunk_19778:19778:0",
-    "raw_text": "{\"id\":\"chunk_19781:19781:0\",\"lemas\":[\"patefacio\",\"patefio\"],\"lema_canonico\":\"patefacio\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"tornar acessível, abrir, tornar manifesto; (pass.) patefio = abrir‑se, ser revelado\",\"aliases\":[],\"exemplos\":[\"Cés. B. Gall. 3, 1, 2\",\"Cic. Verr. 4, 8\"],\"notas\":\"Tratado como verbo principal patefacio; patefio registrado como forma passiva/variante (LS indica pătĕfīo → patefacio).\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_19781:19781:0\",\"lemas\":[\"patefacio\",\"patefio\"],\"lema_canonico\":\"patefacio\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"tornar acessível, abrir, tornar manifesto; (pass.) patefio = abrir‑se, ser revelado\",\"aliases\":[],\"exemplos\":[\"Cés. B. Gall. 3, 1, 2\",\"Cic. Verr. 4, 8\"],\"notas\":\"Tratado como verbo principal patefacio; patefio registrado como forma passiva/variante (LS indica pătĕfīo → patefacio).\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_19782-e1",
     "volume_id": "faria",
     "doc_name": "chunk_19782",
@@ -4442,50 +4046,6 @@
     "notas": "Incluída variante grafica 'Pathyssus'; escolha de forma canónica 'Pathissus'.",
     "raw_text": "{\"id\":\"chunk_19792:19792:0\",\"lemas\":[\"Pathissus\",\"Pathyssus\"],\"lema_canonico\":\"Pathissus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"nome próprio (rio): Pathissus, rio da Dácia (Plínio).\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 4, 80\"],\"notas\":\"Incluída variante grafica 'Pathyssus'; escolha de forma canónica 'Pathissus'.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_19792:19792:0\",\"lemas\":[\"Pathissus\",\"Pathyssus\"],\"lema_canonico\":\"Pathissus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"nome próprio (rio): Pathissus, rio da Dácia (Plínio).\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 4, 80\"],\"notas\":\"Incluída variante grafica 'Pathyssus'; escolha de forma canónica 'Pathissus'.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_19793-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_19793",
-    "page_num": 19793,
-    "lemmas": [
-      "Pathmos",
-      "Pathmos"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:low",
-    "needs_review": 1,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada apresentada como remissão; mantido como redirecionamento para 'Patnos'.",
-    "raw_text": "{\"id\":\"chunk_19793:19793:0\",\"lemas\":[\"Pathmos\"],\"lema_canonico\":\"Pathmos\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Patnos\"],\"exemplos\":[],\"notas\":\"Entrada apresentada como remissão; mantido como redirecionamento para 'Patnos'.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"redirect_only\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_19793:19793:0\",\"lemas\":[\"Pathmos\"],\"lema_canonico\":\"Pathmos\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Patnos\"],\"exemplos\":[],\"notas\":\"Entrada apresentada como remissão; mantido como redirecionamento para 'Patnos'.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"redirect_only\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_19794-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_19794",
-    "page_num": 19794,
-    "lemmas": [
-      "Pathissus",
-      "Pathissus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:low",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "forma variante/errática de nome próprio (provável variante de Pathissus/Patissus); ver Patissus/Pathissus.",
-    "exemplos": [],
-    "notas": "Grafia variável atestada; correlação com 'Pathýssus' do OCR/primeira passada. Necessita verificação em fontes primárias. | [dedupe] redirect → chunk_19792:19792:0 | [dedupe] redirect → chunk_19792:19792:0",
-    "raw_text": "{\"id\":\"chunk_19794:19794:0\",\"lemas\":[\"Pathyssus\",\"Pathissus\",\"Patissus\"],\"lema_canonico\":\"Pathissus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"forma variante/errática de nome próprio (provável variante de Pathissus/Patissus); ver Patissus/Pathissus.\",\"aliases\":[\"Patissus\"],\"exemplos\":[],\"notas\":\"Grafia variável atestada; correlação com 'Pathýssus' do OCR/primeira passada. Necessita verificação em fontes primárias.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_19794:19794:0\",\"lemas\":[\"Pathyssus\",\"Pathissus\",\"Patissus\"],\"lema_canonico\":\"Pathissus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"forma variante/errática de nome próprio (provável variante de Pathissus/Patissus); ver Patissus/Pathissus.\",\"aliases\":[\"Patissus\"],\"exemplos\":[],\"notas\":\"Grafia variável atestada; correlação com 'Pathýssus' do OCR/primeira passada. Necessita verificação em fontes primárias.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
     "id": "chunk_19795-e1",

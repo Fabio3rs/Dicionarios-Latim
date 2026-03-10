@@ -48,6 +48,9 @@ def flatten_record(rec: Dict, volume_id: str) -> Iterable[Dict]:
         needs_review = item.get("needs_review")
         redirect_only = item.get("redirect_only")
         morph_oov = item.get("morph_out_of_vocab")
+        # Pular remissivas/duplicatas
+        if redirect_only:
+            continue
         yield {
             "id": f"{doc_name}-e{i}",
             "volume_id": volume_id,

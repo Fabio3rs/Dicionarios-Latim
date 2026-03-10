@@ -1,71 +1,5 @@
 [
   {
-    "id": "chunk_5400-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5400",
-    "page_num": 5400,
-    "lemmas": [
-      "caenosus",
-      "caenosus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "muddy, filthy, slimy, marshy; impure (adjetivo).",
-    "exemplos": [],
-    "notas": "Forma variante coenosus atestada; normalizado para caenosus conforme Lewis & Short e Whitaker. | [dedupe] redirect → chunk_3912:3912:0 | [dedupe] redirect → chunk_3912:3912:0",
-    "raw_text": "{\"id\":\"chunk_5400:5400:0\",\"lemas\":[\"caenosus\",\"coenosus\"],\"lema_canonico\":\"caenosus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"muddy, filthy, slimy, marshy; impure (adjetivo).\",\"aliases\":[\"coenosus\"],\"exemplos\":[],\"notas\":\"Forma variante coenosus atestada; normalizado para caenosus conforme Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5400:5400:0\",\"lemas\":[\"caenosus\",\"coenosus\"],\"lema_canonico\":\"caenosus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"muddy, filthy, slimy, marshy; impure (adjetivo).\",\"aliases\":[\"coenosus\"],\"exemplos\":[],\"notas\":\"Forma variante coenosus atestada; normalizado para caenosus conforme Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_5401-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5401",
-    "page_num": 5401,
-    "lemmas": [
-      "caenum",
-      "caenum"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "caenum (coenum): mud, mire, filth, slime; figuratively, scum or filth of persons.",
-    "exemplos": [],
-    "notas": "Coenum é variante gráfica de caenum; atestado em LS e Whitaker. | [dedupe] redirect → chunk_3912:3912:1 | [dedupe] redirect → chunk_3912:3912:1",
-    "raw_text": "{\"id\":\"chunk_5401:5401:0\",\"lemas\":[\"coenum\",\"caenum\"],\"lema_canonico\":\"caenum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"caenum (coenum): mud, mire, filth, slime; figuratively, scum or filth of persons.\",\"aliases\":[\"coenum\"],\"exemplos\":[],\"notas\":\"Coenum é variante gráfica de caenum; atestado em LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5401:5401:0\",\"lemas\":[\"coenum\",\"caenum\"],\"lema_canonico\":\"caenum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"caenum (coenum): mud, mire, filth, slime; figuratively, scum or filth of persons.\",\"aliases\":[\"coenum\"],\"exemplos\":[],\"notas\":\"Coenum é variante gráfica de caenum; atestado em LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_5402-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5402",
-    "page_num": 5402,
-    "lemmas": [
-      "coeo",
-      "coeo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "(coīre) Reunir-se, juntar-se; encontrar-se; também unir-se (inclusive sexualmente); formar aliança/associação; às vezes encontro/choque hostil.",
-    "exemplos": [],
-    "notas": "Lemas e sentidos harmonizados com Whitaker e Lat→Deu; morfologia verbal irregular padronizada pela lista disponível (marcada morph_out_of_vocab se necessário). | [dedupe] redirect → chunk_5458:5458:0 | [dedupe] redirect → chunk_5458:5458:0",
-    "raw_text": "{\"id\":\"chunk_5402:5402:0\",\"lemas\":[\"coeo\",\"coīre\",\"coitum\"],\"lema_canonico\":\"coeo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"intr.\",\"tr.\"],\"definicao\":\"(coīre) Reunir-se, juntar-se; encontrar-se; também unir-se (inclusive sexualmente); formar aliança/associação; às vezes encontro/choque hostil.\",\"aliases\":[],\"exemplos\":[\"Cæs. B. G. 5, 62, 22\",\"Cato, R. R. 9, 1, 26\",\"Verg. A. 12, 709\",\"Cic. Phil. 2, 21\"],\"notas\":\"Lemas e sentidos harmonizados com Whitaker e Lat→Deu; morfologia verbal irregular padronizada pela lista disponível (marcada morph_out_of_vocab se necessário).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_firstpass\",\"conf:high\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_5402:5402:0\",\"lemas\":[\"coeo\",\"coīre\",\"coitum\"],\"lema_canonico\":\"coeo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"intr.\",\"tr.\"],\"definicao\":\"(coīre) Reunir-se, juntar-se; encontrar-se; também unir-se (inclusive sexualmente); formar aliança/associação; às vezes encontro/choque hostil.\",\"aliases\":[],\"exemplos\":[\"Cæs. B. G. 5, 62, 22\",\"Cato, R. R. 9, 1, 26\",\"Verg. A. 12, 709\",\"Cic. Phil. 2, 21\"],\"notas\":\"Lemas e sentidos harmonizados com Whitaker e Lat→Deu; morfologia verbal irregular padronizada pela lista disponível (marcada morph_out_of_vocab se necessário).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_firstpass\",\"conf:high\",\"morph_out_of_vocab\"]}"
-  },
-  {
     "id": "chunk_5403-e1",
     "volume_id": "faria",
     "doc_name": "chunk_5403",
@@ -86,28 +20,6 @@
     "notas": "Paradigma atendido a LS/Whitaker/Lat→Deu; marquei particip. perfeit. e transit./intrans.",
     "raw_text": "{\"id\":\"chunk_5403:5403:0\",\"lemas\":[\"coepio\",\"coepi\",\"coepisse\",\"coeptus\",\"coeptum\",\"coepto\"],\"lema_canonico\":\"coepio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[\"tr.\",\"intr.\",\"part. perf. pass.\"],\"definicao\":\"começar, principiar, empreender; verbo defectivo, usado sobretudo no perfeito; particípio coeptus/coeptum = 'começado, iniciado'\",\"aliases\":[],\"exemplos\":[\"Cic. Amer. 91\",\"Tác. An. 1, 65\",\"Sall. B. Jug. 85, 17\",\"Lucr. 4, 619\"],\"notas\":\"Paradigma atendido a LS/Whitaker/Lat→Deu; marquei particip. perfeit. e transit./intrans.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_5403:5403:0\",\"lemas\":[\"coepio\",\"coepi\",\"coepisse\",\"coeptus\",\"coeptum\",\"coepto\"],\"lema_canonico\":\"coepio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[\"tr.\",\"intr.\",\"part. perf. pass.\"],\"definicao\":\"começar, principiar, empreender; verbo defectivo, usado sobretudo no perfeito; particípio coeptus/coeptum = 'começado, iniciado'\",\"aliases\":[],\"exemplos\":[\"Cic. Amer. 91\",\"Tác. An. 1, 65\",\"Sall. B. Jug. 85, 17\",\"Lucr. 4, 619\"],\"notas\":\"Paradigma atendido a LS/Whitaker/Lat→Deu; marquei particip. perfeit. e transit./intrans.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_5404-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5404",
-    "page_num": 5404,
-    "lemmas": [
-      "coepio",
-      "coepio"
-    ],
-    "morfologia": "v. 3ª -iō (-ere)",
-    "morph_render": "v. 3ª -iō (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "começar, principiar; iniciar (defetivo em alguns tempos; perfeito coepī)",
-    "exemplos": [],
-    "notas": "Paradigma e natureza defectiva/arcaica reconhecidos; presente e perfeito atípicos (coepī). | [dedupe] redirect → chunk_5403:5403:0 | [dedupe] redirect → chunk_5403:5403:0",
-    "raw_text": "{\"id\":\"chunk_5404:5404:0\",\"lemas\":[\"coepio\",\"coepiō\"],\"lema_canonico\":\"coepio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[],\"definicao\":\"começar, principiar; iniciar (defetivo em alguns tempos; perfeito coepī)\",\"aliases\":[\"coepĭo\"],\"exemplos\":[\"Plaut. Men. 960\"],\"notas\":\"Paradigma e natureza defectiva/arcaica reconhecidos; presente e perfeito atípicos (coepī).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5404:5404:0\",\"lemas\":[\"coepio\",\"coepiō\"],\"lema_canonico\":\"coepio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[],\"definicao\":\"começar, principiar; iniciar (defetivo em alguns tempos; perfeito coepī)\",\"aliases\":[\"coepĭo\"],\"exemplos\":[\"Plaut. Men. 960\"],\"notas\":\"Paradigma e natureza defectiva/arcaica reconhecidos; presente e perfeito atípicos (coepī).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_5405-e1",
@@ -152,50 +64,6 @@
     "notas": "Substantivo derivado de coepio/coepi; acepções sing./pl. atestadas.",
     "raw_text": "{\"id\":\"chunk_5406:5406:0\",\"lemas\":[\"coeptum\"],\"lema_canonico\":\"coeptum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"obra iniciada; empreendimento, começo, projeto\",\"aliases\":[],\"exemplos\":[\"Verg. G. 1, 40\"],\"notas\":\"Substantivo derivado de coepio/coepi; acepções sing./pl. atestadas.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_5406:5406:0\",\"lemas\":[\"coeptum\"],\"lema_canonico\":\"coeptum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"obra iniciada; empreendimento, começo, projeto\",\"aliases\":[],\"exemplos\":[\"Verg. G. 1, 40\"],\"notas\":\"Substantivo derivado de coepio/coepi; acepções sing./pl. atestadas.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_5407-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5407",
-    "page_num": 5407,
-    "lemmas": [
-      "coeptus",
-      "coeptus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "particípio perfeito passivo de coepio — começado, iniciado; usado também como adjetivo",
-    "exemplos": [],
-    "notas": "Também atestado como substantivo (coeptus, -ūs) em LS; aqui tratado como particípio/adjetivo. | [dedupe] redirect → chunk_5405:5405:0 | [dedupe] redirect → chunk_5405:5405:0",
-    "raw_text": "{\"id\":\"chunk_5407:5407:0\",\"lemas\":[\"coeptus\"],\"lema_canonico\":\"coeptus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de coepio — começado, iniciado; usado também como adjetivo\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Também atestado como substantivo (coeptus, -ūs) em LS; aqui tratado como particípio/adjetivo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5407:5407:0\",\"lemas\":[\"coeptus\"],\"lema_canonico\":\"coeptus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de coepio — começado, iniciado; usado também como adjetivo\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Também atestado como substantivo (coeptus, -ūs) em LS; aqui tratado como particípio/adjetivo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_5408-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5408",
-    "page_num": 5408,
-    "lemmas": [
-      "coeptus",
-      "coeptus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "particípio perfeito passivo de coepio; 'começado, iniciado'; usado também como adjetivo.",
-    "exemplos": [],
-    "notas": "Forma confirmada por Lewis & Short e Whitaker como part. e adj. | [dedupe] redirect → chunk_5405:5405:0 | [dedupe] redirect → chunk_5405:5405:0",
-    "raw_text": "{\"id\":\"chunk_5408:5408:0\",\"lemas\":[\"coeptus\",\"coepta\",\"coeptum\"],\"lema_canonico\":\"coeptus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de coepio; 'começado, iniciado'; usado também como adjetivo.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma confirmada por Lewis & Short e Whitaker como part. e adj.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5408:5408:0\",\"lemas\":[\"coeptus\",\"coepta\",\"coeptum\"],\"lema_canonico\":\"coeptus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de coepio; 'começado, iniciado'; usado também como adjetivo.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma confirmada por Lewis & Short e Whitaker como part. e adj.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_5409-e1",
@@ -262,28 +130,6 @@
     "notas": "Forma atestada no OCR; não encontrada em bases consultadas — revisão necessária.",
     "raw_text": "{\"id\":\"chunk_5411:5411:0\",\"lemas\":[\"Coeranius\"],\"lema_canonico\":\"Coeranius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Nome próprio masculino (Cérano), filósofo grego mencionado em Tácito.\",\"aliases\":[],\"exemplos\":[\"Tác. An. 14, 59\"],\"notas\":\"Forma atestada no OCR; não encontrada em bases consultadas — revisão necessária.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_5411:5411:0\",\"lemas\":[\"Coeranius\"],\"lema_canonico\":\"Coeranius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Nome próprio masculino (Cérano), filósofo grego mencionado em Tácito.\",\"aliases\":[],\"exemplos\":[\"Tác. An. 14, 59\"],\"notas\":\"Forma atestada no OCR; não encontrada em bases consultadas — revisão necessária.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_5412-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5412",
-    "page_num": 5412,
-    "lemmas": [
-      "coerātor",
-      "coerātor"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada é referência para 'curator' (vide Lewis & Short). Definição deixada vazia por ser redirecionamento. | [ocr_fix 2025-08-17T19:46:23Z] match direto em LS por lemma/lemma_norm | lemma_in='coerātor' → 'coerātor'",
-    "raw_text": "{\"id\":\"chunk_5412:5412:0\",\"lemas\":[\"coerātor\"],\"lema_canonico\":\"coerātor\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"curator\"],\"exemplos\":[],\"notas\":\"Entrada é referência para 'curator' (vide Lewis & Short). Definição deixada vazia por ser redirecionamento.\",\"flags\":[\"src_ls\",\"conf:med\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_5412:5412:0\",\"lemas\":[\"coerātor\"],\"lema_canonico\":\"coerātor\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"curator\"],\"exemplos\":[],\"notas\":\"Entrada é referência para 'curator' (vide Lewis & Short). Definição deixada vazia por ser redirecionamento.\",\"flags\":[\"src_ls\",\"conf:med\",\"redirect_only\"]}"
   },
   {
     "id": "chunk_5413-e1",
@@ -372,28 +218,6 @@
     "notas": "Forma e sentido corroborados por Whitaker e Lewis & Short.",
     "raw_text": "{\"id\":\"chunk_5416:5416:0\",\"lemas\":[\"coercitus\",\"coercita\",\"coercitum\"],\"lema_canonico\":\"coercitus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de coerceo; 'contido, restringido, reprendido'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma e sentido corroborados por Whitaker e Lewis & Short.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_5416:5416:0\",\"lemas\":[\"coercitus\",\"coercita\",\"coercitum\"],\"lema_canonico\":\"coercitus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de coerceo; 'contido, restringido, reprendido'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma e sentido corroborados por Whitaker e Lewis & Short.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_5417-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5417",
-    "page_num": 5417,
-    "lemmas": [
-      "coerceo",
-      "coerceo"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "Verbo 'coerceō' (coercēre, coercuī, coercitum). Nota: 'coercuī' é a 1ª pessoa do singular do perfeito ativo (perf. indic. act.).",
-    "exemplos": [],
-    "notas": "Entrada original é forma perfeita 'coercui' — registrado aqui sob o lema; forma perfeita não está no esquema morfológico permitido. | [dedupe] redirect → chunk_5413:5413:0 | [dedupe] redirect → chunk_5413:5413:0",
-    "raw_text": "{\"id\":\"chunk_5417:5417:0\",\"lemas\":[\"coerceo\"],\"lema_canonico\":\"coerceo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"Verbo 'coerceō' (coercēre, coercuī, coercitum). Nota: 'coercuī' é a 1ª pessoa do singular do perfeito ativo (perf. indic. act.).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada original é forma perfeita 'coercui' — registrado aqui sob o lema; forma perfeita não está no esquema morfológico permitido.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_5417:5417:0\",\"lemas\":[\"coerceo\"],\"lema_canonico\":\"coerceo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"Verbo 'coerceō' (coercēre, coercuī, coercitum). Nota: 'coercuī' é a 1ª pessoa do singular do perfeito ativo (perf. indic. act.).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada original é forma perfeita 'coercui' — registrado aqui sob o lema; forma perfeita não está no esquema morfológico permitido.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\",\"morph_out_of_vocab\"]}"
   },
   {
     "id": "chunk_5418-e1",
@@ -792,28 +616,6 @@
     "raw_json": "{\"id\":\"chunk_5433:5433:0\",\"lemas\":[\"cognitura\",\"cognitūra\",\"cogniturae\"],\"lema_canonico\":\"cognitura\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"cognitura — ofício/encargo de agente fiscal; procuradoria do Estado (responsável por cobrar devedores)\",\"aliases\":[],\"exemplos\":[\"Suet. Vit. 2\",\"Gai. Inst. 4, §124\",\"Paul. Sent. 1, 2, §2\"],\"notas\":\"Formas variantes e macronas unificadas; sentidos confirmados por LS, Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_5434-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5434",
-    "page_num": 5434,
-    "lemmas": [
-      "cognitus",
-      "cognitus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Particípio perfeito passivo de cognōscō; como adjetivo: conhecido, reconhecido, provado, notório.",
-    "exemplos": [],
-    "notas": "Unido tratamento como particípio/adjetivo conforme LS e Whitaker. | [dedupe] redirect → chunk_5430:5430:0 | [dedupe] redirect → chunk_5430:5430:0",
-    "raw_text": "{\"id\":\"chunk_5434:5434:0\",\"lemas\":[\"cognitus\"],\"lema_canonico\":\"cognitus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo de cognōscō; como adjetivo: conhecido, reconhecido, provado, notório.\",\"aliases\":[],\"exemplos\":[\"Cic. Caec. 104\",\"Ov. Trist. 4, 6, 28\",\"Catul. 4, 14\"],\"notas\":\"Unido tratamento como particípio/adjetivo conforme LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5434:5434:0\",\"lemas\":[\"cognitus\"],\"lema_canonico\":\"cognitus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo de cognōscō; como adjetivo: conhecido, reconhecido, provado, notório.\",\"aliases\":[],\"exemplos\":[\"Cic. Caec. 104\",\"Ov. Trist. 4, 6, 28\",\"Catul. 4, 14\"],\"notas\":\"Unido tratamento como particípio/adjetivo conforme LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_5435-e1",
     "volume_id": "faria",
     "doc_name": "chunk_5435",
@@ -1012,28 +814,6 @@
     "raw_json": "{\"id\":\"chunk_5441:5441:0\",\"lemas\":[\"cōgō\",\"cōgere\"],\"lema_canonico\":\"cōgere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"reunir, congregar; forçar, obrigar; juntar ou comprimir; coletar\",\"aliases\":[],\"exemplos\":[\"Caes. B. G. 1, 4, 3\",\"Verg. Ecl. 3, 98\",\"Cic. Phil. 1, 12\"],\"notas\":\"Paradigma normalizado (coēgī, coāctum) e construções alinhadas com LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_5442-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5442",
-    "page_num": 5442,
-    "lemmas": [
-      "cohaereo",
-      "cohaereo"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Forma verbal (3. pl. pres. ind. de cohaerēre) de cohaerēre: aderir, estar unido, permanecer ligado; 'cohaerent' = they stick together/are joined.",
-    "exemplos": [],
-    "notas": "Entrada original tratava como advérbio; é forma finita do verbo cohaerēre (Whitaker). | [dedupe] redirect → chunk_5444:5444:0 | [dedupe] redirect → chunk_5444:5444:0",
-    "raw_text": "{\"id\":\"chunk_5442:5442:0\",\"lemas\":[\"cohaereo\",\"cohaerēre\"],\"lema_canonico\":\"cohaereo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"3. Pers. Pl. Pres. Ind. Akt.\"],\"definicao\":\"Forma verbal (3. pl. pres. ind. de cohaerēre) de cohaerēre: aderir, estar unido, permanecer ligado; 'cohaerent' = they stick together/are joined.\",\"aliases\":[],\"exemplos\":[\"Flor. 2, 17, 51\"],\"notas\":\"Entrada original tratava como advérbio; é forma finita do verbo cohaerēre (Whitaker).\",\"flags\":[\"src_whitaker\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_5442:5442:0\",\"lemas\":[\"cohaereo\",\"cohaerēre\"],\"lema_canonico\":\"cohaereo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"3. Pers. Pl. Pres. Ind. Akt.\"],\"definicao\":\"Forma verbal (3. pl. pres. ind. de cohaerēre) de cohaerēre: aderir, estar unido, permanecer ligado; 'cohaerent' = they stick together/are joined.\",\"aliases\":[],\"exemplos\":[\"Flor. 2, 17, 51\"],\"notas\":\"Entrada original tratava como advérbio; é forma finita do verbo cohaerēre (Whitaker).\",\"flags\":[\"src_whitaker\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_5443-e1",
     "volume_id": "faria",
     "doc_name": "chunk_5443",
@@ -1100,72 +880,6 @@
     "raw_json": "{\"id\":\"chunk_5444:5444:1\",\"lemas\":[\"cohaeres\",\"cohaeredis\"],\"lema_canonico\":\"cohaeres\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"cohaeres: co-herdeiro; herdeiro em comum, coheir, joint heir.\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 2, 1, 48\",\"Cic. Fam. 13, 46\",\"Hor. S. 2, 5, 107\"],\"notas\":\"Lema e genitivo -ēdis atestados no LS; entrada tratada como substantivo 3ª decl.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_5444-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_5444",
-    "page_num": 5444,
-    "lemmas": [
-      "Chaerĕas",
-      "Chaerĕas"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Nome próprio grego: autor sobre agricultura e escultor citado em autores clássicos (Varr., Colum., Plínio, Vitrúvio).",
-    "exemplos": [],
-    "notas": "Conservado conforme Lewis & Short; variantes gráficas incluídas. | [dedupe] redirect → chunk_4774:4774:0 | [dedupe] redirect → chunk_4774:4774:0 | [ocr_fix 2025-08-17T19:56:54Z] match direto em LS por lemma/lemma_norm | lemma_in='Chaerēas' → 'Chaerĕas'",
-    "raw_text": "{\"id\":\"chunk_5444:5444:2\",\"lemas\":[\"Chaerēas\",\"Chaerĕas\"],\"lema_canonico\":\"Chaerēas\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Nome próprio grego: autor sobre agricultura e escultor citado em autores clássicos (Varr., Colum., Plínio, Vitrúvio).\",\"aliases\":[],\"exemplos\":[\"Varr. R.R. 1, 1, 8\",\"Col. 1, 1, 8\",\"Plin. 20, 23, 99 §263\",\"Plin. 34, 8, 19\",\"Vitr. 10, 13, 3\"],\"notas\":\"Conservado conforme Lewis & Short; variantes gráficas incluídas.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_5444:5444:2\",\"lemas\":[\"Chaerēas\",\"Chaerĕas\"],\"lema_canonico\":\"Chaerēas\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Nome próprio grego: autor sobre agricultura e escultor citado em autores clássicos (Varr., Colum., Plínio, Vitrúvio).\",\"aliases\":[],\"exemplos\":[\"Varr. R.R. 1, 1, 8\",\"Col. 1, 1, 8\",\"Plin. 20, 23, 99 §263\",\"Plin. 34, 8, 19\",\"Vitr. 10, 13, 3\"],\"notas\":\"Conservado conforme Lewis & Short; variantes gráficas incluídas.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_5444-e4",
-    "volume_id": "faria",
-    "doc_name": "chunk_5444",
-    "page_num": 5444,
-    "lemmas": [
-      "chaos",
-      "chaos"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Chaos: o abismo, vazio primordial; fossa do inferno, mundo inferior; matéria informe/sem forma (do grego Χάος).",
-    "exemplos": [],
-    "notas": "Definição alinhada com LS e Lat→Deu; variantes grafadas segundo Whitaker/LS. | [dedupe] redirect → chunk_4798:4798:0 | [dedupe] redirect → chunk_4798:4798:0",
-    "raw_text": "{\"id\":\"chunk_5444:5444:3\",\"lemas\":[\"chaos\",\"Chaus\",\"Chai\"],\"lema_canonico\":\"chaos\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Chaos: o abismo, vazio primordial; fossa do inferno, mundo inferior; matéria informe/sem forma (do grego Χάος).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Definição alinhada com LS e Lat→Deu; variantes grafadas segundo Whitaker/LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5444:5444:3\",\"lemas\":[\"chaos\",\"Chaus\",\"Chai\"],\"lema_canonico\":\"chaos\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Chaos: o abismo, vazio primordial; fossa do inferno, mundo inferior; matéria informe/sem forma (do grego Χάος).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Definição alinhada com LS e Lat→Deu; variantes grafadas segundo Whitaker/LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_5444-e5",
-    "volume_id": "faria",
-    "doc_name": "chunk_5444",
-    "page_num": 5444,
-    "lemmas": [
-      "reus",
-      "reus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "reus/rea/reum: parte numa ação judicial; o acusado/parte culpada; adjetivo: culpado, responsável.",
-    "exemplos": [],
-    "notas": "Entradas e formas variantes atestadas em LS e Whitaker; optou-se pelo substantivo masculino como lema canónico. | [dedupe] redirect → chunk_24477:24477:0 | [dedupe] redirect → chunk_24477:24477:0",
-    "raw_text": "{\"id\":\"chunk_5444:5444:4\",\"lemas\":[\"reus\",\"rea\",\"reum\"],\"lema_canonico\":\"reus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[\"adj. (1/2)\"],\"definicao\":\"reus/rea/reum: parte numa ação judicial; o acusado/parte culpada; adjetivo: culpado, responsável.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entradas e formas variantes atestadas em LS e Whitaker; optou-se pelo substantivo masculino como lema canónico.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_5444:5444:4\",\"lemas\":[\"reus\",\"rea\",\"reum\"],\"lema_canonico\":\"reus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[\"adj. (1/2)\"],\"definicao\":\"reus/rea/reum: parte numa ação judicial; o acusado/parte culpada; adjetivo: culpado, responsável.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entradas e formas variantes atestadas em LS e Whitaker; optou-se pelo substantivo masculino como lema canónico.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}"
-  },
-  {
     "id": "chunk_5445-e1",
     "volume_id": "faria",
     "doc_name": "chunk_5445",
@@ -1230,28 +944,6 @@
     "notas": "Particípio/adjetivo atestado em LS e Whitaker.",
     "raw_text": "{\"id\":\"chunk_5447:5447:0\",\"lemas\":[\"cohaesus\",\"cohaesus\",\"cohaesus\"],\"lema_canonico\":\"cohaesus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de cohaereo: aderido, unido, coeso; (também usado como adjetivo)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Particípio/adjetivo atestado em LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_5447:5447:0\",\"lemas\":[\"cohaesus\",\"cohaesus\",\"cohaesus\"],\"lema_canonico\":\"cohaesus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de cohaereo: aderido, unido, coeso; (também usado como adjetivo)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Particípio/adjetivo atestado em LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_5447-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_5447",
-    "page_num": 5447,
-    "lemmas": [
-      "coerceo",
-      "coerceo"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "conter, reprimir, restringir; pôr em ordem/limites",
-    "exemplos": [],
-    "notas": "Entrada remissiva normalizada para coerceo; inclui variante com h. | [dedupe] redirect → chunk_5413:5413:0 | [dedupe] redirect → chunk_5413:5413:0",
-    "raw_text": "{\"id\":\"chunk_5447:5447:1\",\"lemas\":[\"coherceo\",\"coerceo\"],\"lema_canonico\":\"coerceo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"conter, reprimir, restringir; pôr em ordem/limites\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada remissiva normalizada para coerceo; inclui variante com h.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5447:5447:1\",\"lemas\":[\"coherceo\",\"coerceo\"],\"lema_canonico\":\"coerceo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"conter, reprimir, restringir; pôr em ordem/limites\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada remissiva normalizada para coerceo; inclui variante com h.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_5448-e1",
@@ -1406,28 +1098,6 @@
     "notas": "Lematização e formas principais normalizadas segundo LS/Whitaker.",
     "raw_text": "{\"id\":\"chunk_5451:5451:0\",\"lemas\":[\"cohorresco\"],\"lema_canonico\":\"cohorresco\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Tremere, estremecer; começar a tremer, tremer de medo ou de frio (intransitivo).\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 3, 61\"],\"notas\":\"Lematização e formas principais normalizadas segundo LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_5451:5451:0\",\"lemas\":[\"cohorresco\"],\"lema_canonico\":\"cohorresco\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Tremere, estremecer; começar a tremer, tremer de medo ou de frio (intransitivo).\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 3, 61\"],\"notas\":\"Lematização e formas principais normalizadas segundo LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_5452-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5452",
-    "page_num": 5452,
-    "lemmas": [
-      "cohorresco",
-      "cohorresco"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Tremere, estremecer; estremecer de medo, frio ou pavor. Cohorrui = perfeito 'I have shuddered/was seized with a shudder'.",
-    "exemplos": [],
-    "notas": "Registro do perfeito coerente com Whitaker/LS; entrada preserva perfeito como variante. | [dedupe] redirect → chunk_5451:5451:0 | [dedupe] redirect → chunk_5451:5451:0",
-    "raw_text": "{\"id\":\"chunk_5452:5452:0\",\"lemas\":[\"cohorresco\",\"cohorrui\"],\"lema_canonico\":\"cohorresco\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"perf. cohorrui\"],\"definicao\":\"Tremere, estremecer; estremecer de medo, frio ou pavor. Cohorrui = perfeito 'I have shuddered/was seized with a shudder'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Registro do perfeito coerente com Whitaker/LS; entrada preserva perfeito como variante.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5452:5452:0\",\"lemas\":[\"cohorresco\",\"cohorrui\"],\"lema_canonico\":\"cohorresco\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"perf. cohorrui\"],\"definicao\":\"Tremere, estremecer; estremecer de medo, frio ou pavor. Cohorrui = perfeito 'I have shuddered/was seized with a shudder'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Registro do perfeito coerente com Whitaker/LS; entrada preserva perfeito como variante.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_5453-e1",
@@ -1606,28 +1276,6 @@
     "raw_json": "{\"id\":\"chunk_5460:5460:0\",\"lemas\":[\"coinquinō\",\"coinquināre\"],\"lema_canonico\":\"coinquināre\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"manchar, poluir; contaminar, infectar\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 3, 68\",\"Col. 7, 5, 61\"],\"notas\":\"Formas e sentido confirmados por Whitaker e resumo Lat→Deu; macrons regularizados.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_5461-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5461",
-    "page_num": 5461,
-    "lemmas": [
-      "coitio",
-      "coitio"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Ajuntamento, encontro; encontro sexual, cópula (posto‑cláss.); coligação, conspiração, coalizão.",
-    "exemplos": [],
-    "notas": "Grafia normalizada para coitio; sentidos resumidos conforme LS/Whitaker. | [dedupe] redirect → chunk_5449:5449:3 | [dedupe] redirect → chunk_5449:5449:3",
-    "raw_text": "{\"id\":\"chunk_5461:5461:0\",\"lemas\":[\"coitio\",\"coītio\"],\"lema_canonico\":\"coitio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Ajuntamento, encontro; encontro sexual, cópula (posto‑cláss.); coligação, conspiração, coalizão.\",\"aliases\":[],\"exemplos\":[\"Ter. Phorm. 2, 2, 32\",\"Macr. Sat. 7, 16\",\"Cic. Q. Fr. 2, 14, 4\"],\"notas\":\"Grafia normalizada para coitio; sentidos resumidos conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5461:5461:0\",\"lemas\":[\"coitio\",\"coītio\"],\"lema_canonico\":\"coitio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Ajuntamento, encontro; encontro sexual, cópula (posto‑cláss.); coligação, conspiração, coalizão.\",\"aliases\":[],\"exemplos\":[\"Ter. Phorm. 2, 2, 32\",\"Macr. Sat. 7, 16\",\"Cic. Q. Fr. 2, 14, 4\"],\"notas\":\"Grafia normalizada para coitio; sentidos resumidos conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_5462-e1",
     "volume_id": "faria",
     "doc_name": "chunk_5462",
@@ -1670,28 +1318,6 @@
     "notas": "Dupla acepção (assembléia vs. coito) atestada; incluídas variantes morfológicas e sinonímicas.",
     "raw_text": "{\"id\":\"chunk_5463:5463:0\",\"lemas\":[\"coitus\",\"coetus\"],\"lema_canonico\":\"coitus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"1) Reunião, ajuntamento, assembléia. 2) União sexual, cópula. (Sentido retórico: contração.)\",\"aliases\":[\"coetus\"],\"exemplos\":[\"Plin. Nat. 2, 44\",\"Quint. 8, 6, 24\",\"Quint. 9, 4, 59\"],\"notas\":\"Dupla acepção (assembléia vs. coito) atestada; incluídas variantes morfológicas e sinonímicas.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_5463:5463:0\",\"lemas\":[\"coitus\",\"coetus\"],\"lema_canonico\":\"coitus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"1) Reunião, ajuntamento, assembléia. 2) União sexual, cópula. (Sentido retórico: contração.)\",\"aliases\":[\"coetus\"],\"exemplos\":[\"Plin. Nat. 2, 44\",\"Quint. 8, 6, 24\",\"Quint. 9, 4, 59\"],\"notas\":\"Dupla acepção (assembléia vs. coito) atestada; incluídas variantes morfológicas e sinonímicas.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_5464-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5464",
-    "page_num": 5464,
-    "lemmas": [
-      "coeo",
-      "coeo"
-    ],
-    "morfologia": "v. 4ª (-īre)",
-    "morph_render": "v. 4ª (-īre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Ir junto; reunir‑se, juntar‑se; comp. de co‑ + eo. (Perfeito: coēvī / coiī / coīvī.)",
-    "exemplos": [],
-    "notas": "Entrada retificada para o lema infinitivo; 'coevi' listado como variante/perfeito. | [dedupe] redirect → chunk_5458:5458:0 | [dedupe] redirect → chunk_5458:5458:0",
-    "raw_text": "{\"id\":\"chunk_5464:5464:0\",\"lemas\":[\"coeo\"],\"lema_canonico\":\"coeo\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"Ir junto; reunir‑se, juntar‑se; comp. de co‑ + eo. (Perfeito: coēvī / coiī / coīvī.)\",\"aliases\":[\"coevi\",\"coēvī\",\"coiī\",\"coīvī\"],\"exemplos\":[],\"notas\":\"Entrada retificada para o lema infinitivo; 'coevi' listado como variante/perfeito.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5464:5464:0\",\"lemas\":[\"coeo\"],\"lema_canonico\":\"coeo\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"Ir junto; reunir‑se, juntar‑se; comp. de co‑ + eo. (Perfeito: coēvī / coiī / coīvī.)\",\"aliases\":[\"coevi\",\"coēvī\",\"coiī\",\"coīvī\"],\"exemplos\":[],\"notas\":\"Entrada retificada para o lema infinitivo; 'coevi' listado como variante/perfeito.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_5465-e1",
@@ -1956,28 +1582,6 @@
     "notas": "Separadas a forma verbal (collabefactare) e o substantivo (collabefactio, f. -ōnis); ambas atestadas em Whitaker/Lat→Deu.",
     "raw_text": "{\"id\":\"chunk_5475:5475:0\",\"lemas\":[\"collabefactare\",\"collabefactio\"],\"lema_canonico\":\"collabefactare\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"Causar a queda, abalar, fazer vacilar (verbo transitivo).\",\"aliases\":[\"collabefactio\"],\"exemplos\":[\"Ov. F. 1, 566\"],\"notas\":\"Separadas a forma verbal (collabefactare) e o substantivo (collabefactio, f. -ōnis); ambas atestadas em Whitaker/Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_5475:5475:0\",\"lemas\":[\"collabefactare\",\"collabefactio\"],\"lema_canonico\":\"collabefactare\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"Causar a queda, abalar, fazer vacilar (verbo transitivo).\",\"aliases\":[\"collabefactio\"],\"exemplos\":[\"Ov. F. 1, 566\"],\"notas\":\"Separadas a forma verbal (collabefactare) e o substantivo (collabefactio, f. -ōnis); ambas atestadas em Whitaker/Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_5476-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5476",
-    "page_num": 5476,
-    "lemmas": [
-      "collabefactus",
-      "collabefactus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Particípio perfeito passivo/resultante do verbo semideponente collabefio — sentido: colapsado, derrubado, arruinado.",
-    "exemplos": [],
-    "notas": "Repetição de entrada relacionada; confirma-se forma e sentido em Whitaker e Lat→Deu. | [dedupe] redirect → chunk_5474:5474:0 | [dedupe] redirect → chunk_5474:5474:0",
-    "raw_text": "{\"id\":\"chunk_5476:5476:0\",\"lemas\":[\"collabefactus\"],\"lema_canonico\":\"collabefactus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo/resultante do verbo semideponente collabefio — sentido: colapsado, derrubado, arruinado.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Repetição de entrada relacionada; confirma-se forma e sentido em Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5476:5476:0\",\"lemas\":[\"collabefactus\"],\"lema_canonico\":\"collabefactus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo/resultante do verbo semideponente collabefio — sentido: colapsado, derrubado, arruinado.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Repetição de entrada relacionada; confirma-se forma e sentido em Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_5477-e1",
@@ -2332,72 +1936,6 @@
     "raw_json": "{\"id\":\"chunk_5491:5491:0\",\"lemas\":[\"collator\"],\"lema_canonico\":\"collator\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Aquele que contribui, subscritor; aquele que reúne/acomoda; também 'comparador'.\",\"aliases\":[],\"exemplos\":[\"Plaut. Curc. 4, 1, 13\"],\"notas\":\"Definições e exemplos alinhados com Lewis & Short; forma com macron (collātor) indicada internamente.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_5492-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5492",
-    "page_num": 5492,
-    "lemmas": [
-      "collatio",
-      "collatio"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "reunião, ajuntamento; coleção ou contribuição de dinheiro; comparação, analogia; discussão/colação (uso eclético)",
-    "exemplos": [],
-    "notas": "[dedupe] redirect → chunk_5489:5489:0 | [dedupe] redirect → chunk_5489:5489:0",
-    "raw_text": "{\"id\":\"chunk_5492:5492:2\",\"lemas\":[\"collatio\"],\"lema_canonico\":\"collatio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"reunião, ajuntamento; coleção ou contribuição de dinheiro; comparação, analogia; discussão/colação (uso eclético)\",\"aliases\":[],\"exemplos\":[\"Cic. Or. 1, 48\",\"Plin. Nat. 37, 9, 42\"],\"notas\":\"\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5492:5492:2\",\"lemas\":[\"collatio\"],\"lema_canonico\":\"collatio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"reunião, ajuntamento; coleção ou contribuição de dinheiro; comparação, analogia; discussão/colação (uso eclético)\",\"aliases\":[],\"exemplos\":[\"Cic. Or. 1, 48\",\"Plin. Nat. 37, 9, 42\"],\"notas\":\"\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_5492-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_5492",
-    "page_num": 5492,
-    "lemmas": [
-      "collatio",
-      "collatio"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "reunião, ajuntamento; contribuição/coleção; comparação; colação de textos",
-    "exemplos": [],
-    "notas": "Sentidos principais conforme Lewis & Short e Lat→Deu; padronizado como collatio. | [dedupe] redirect → chunk_5489:5489:0 | [dedupe] redirect → chunk_5489:5489:0",
-    "raw_text": "{\"id\":\"chunk_5492:5492:0\",\"lemas\":[\"collatio\",\"collātiō\"],\"lema_canonico\":\"collatio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"reunião, ajuntamento; contribuição/coleção; comparação; colação de textos\",\"aliases\":[],\"exemplos\":[\"Cic. Inv. 1, 30\",\"Plin. Nat. 37, 9\",\"Liv. 5, 25\"],\"notas\":\"Sentidos principais conforme Lewis & Short e Lat→Deu; padronizado como collatio.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5492:5492:0\",\"lemas\":[\"collatio\",\"collātiō\"],\"lema_canonico\":\"collatio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"reunião, ajuntamento; contribuição/coleção; comparação; colação de textos\",\"aliases\":[],\"exemplos\":[\"Cic. Inv. 1, 30\",\"Plin. Nat. 37, 9\",\"Liv. 5, 25\"],\"notas\":\"Sentidos principais conforme Lewis & Short e Lat→Deu; padronizado como collatio.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_5492-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_5492",
-    "page_num": 5492,
-    "lemmas": [
-      "collātĭo",
-      "collātĭo"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada variante/macronizada; tratada como redirecionamento para collatio (LS indica forma diacrítica/epigráfica). | [dedupe] redirect → chunk_5489:5489:0 | [dedupe] redirect → chunk_5489:5489:0 | [ocr_fix 2025-08-17T19:56:53Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='collatio' → 'collātĭo'",
-    "raw_text": "{\"id\":\"chunk_5492:5492:1\",\"lemas\":[\"collātĭo\",\"conl-\"],\"lema_canonico\":\"collatio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"collatio\"],\"exemplos\":[],\"notas\":\"Entrada variante/macronizada; tratada como redirecionamento para collatio (LS indica forma diacrítica/epigráfica).\",\"flags\":[\"src_ls\",\"conf:med\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_5492:5492:1\",\"lemas\":[\"collātĭo\",\"conl-\"],\"lema_canonico\":\"collatio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"collatio\"],\"exemplos\":[],\"notas\":\"Entrada variante/macronizada; tratada como redirecionamento para collatio (LS indica forma diacrítica/epigráfica).\",\"flags\":[\"src_ls\",\"conf:med\",\"redirect_only\"]}"
-  },
-  {
     "id": "chunk_5493-e1",
     "volume_id": "faria",
     "doc_name": "chunk_5493",
@@ -2484,28 +2022,6 @@
     "notas": "Particípio formado do verbo collaudare; rotulado com marcador participial em morph_extra.",
     "raw_text": "{\"id\":\"chunk_5495:5495:1\",\"lemas\":[\"collaudatus\"],\"lema_canonico\":\"collaudatus\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo de collaudo; 'louvo/elogiado', usado como adjetivo ou em tempos passivos.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Particípio formado do verbo collaudare; rotulado com marcador participial em morph_extra.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_5495:5495:1\",\"lemas\":[\"collaudatus\"],\"lema_canonico\":\"collaudatus\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo de collaudo; 'louvo/elogiado', usado como adjetivo ou em tempos passivos.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Particípio formado do verbo collaudare; rotulado com marcador participial em morph_extra.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_5496-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5496",
-    "page_num": 5496,
-    "lemmas": [
-      "collaudo",
-      "collaudo"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Louvantar intensamente; elogiar, enaltecer; exaltar em discurso (praise highly, eulogize).",
-    "exemplos": [],
-    "notas": "Verificada conjugação e sentido em Whitaker; forma confirmada como v. 1ª (-āre). | [dedupe] redirect → chunk_5495:5495:0 | [dedupe] redirect → chunk_5495:5495:0",
-    "raw_text": "{\"id\":\"chunk_5496:5496:0\",\"lemas\":[\"collaudo\",\"collaudo\",\"collaudare\"],\"lema_canonico\":\"collaudo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"Louvantar intensamente; elogiar, enaltecer; exaltar em discurso (praise highly, eulogize).\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 1, 30\"],\"notas\":\"Verificada conjugação e sentido em Whitaker; forma confirmada como v. 1ª (-āre).\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5496:5496:0\",\"lemas\":[\"collaudo\",\"collaudo\",\"collaudare\"],\"lema_canonico\":\"collaudo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"Louvantar intensamente; elogiar, enaltecer; exaltar em discurso (praise highly, eulogize).\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 1, 30\"],\"notas\":\"Verificada conjugação e sentido em Whitaker; forma confirmada como v. 1ª (-āre).\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
   },
   {
     "id": "chunk_5497-e1",
@@ -2638,28 +2154,6 @@
     "notas": "Adjetivo em 1ª/2ª declinação; acepções confirmadas por LS e Whitaker.",
     "raw_text": "{\"id\":\"chunk_5502:5502:0\",\"lemas\":[\"collectivus\",\"collectīvus\"],\"lema_canonico\":\"collectivus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Coletado, reunido; relativo a conjunto; em retórica/lógica: dedutivo, ratiocinativo; em gramática: relativo a substantivo coletivo.\",\"aliases\":[],\"exemplos\":[\"Sen. Q. N. 3, 7, 3\",\"Quint. 3, 6, 46\",\"Quint. 3, 6, 66\",\"Quint. 7, 1, 60\",\"Prisc. p. 581\"],\"notas\":\"Adjetivo em 1ª/2ª declinação; acepções confirmadas por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_5502:5502:0\",\"lemas\":[\"collectivus\",\"collectīvus\"],\"lema_canonico\":\"collectivus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Coletado, reunido; relativo a conjunto; em retórica/lógica: dedutivo, ratiocinativo; em gramática: relativo a substantivo coletivo.\",\"aliases\":[],\"exemplos\":[\"Sen. Q. N. 3, 7, 3\",\"Quint. 3, 6, 46\",\"Quint. 3, 6, 66\",\"Quint. 7, 1, 60\",\"Prisc. p. 581\"],\"notas\":\"Adjetivo em 1ª/2ª declinação; acepções confirmadas por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_5503-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5503",
-    "page_num": 5503,
-    "lemmas": [
-      "collectivus",
-      "collectivus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "recolhido, reunido; figurado: relativo a raciocínio/silogística, conclusivo (em retórica/gramática)",
-    "exemplos": [],
-    "notas": "Sentidos e referências alinhados com Lewis & Short e Whitaker. | [dedupe] redirect → chunk_5502:5502:0 | [dedupe] redirect → chunk_5502:5502:0",
-    "raw_text": "{\"id\":\"chunk_5503:5503:0\",\"lemas\":[\"collectivus\",\"collectiva\",\"collectivum\"],\"lema_canonico\":\"collectivus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"recolhido, reunido; figurado: relativo a raciocínio/silogística, conclusivo (em retórica/gramática)\",\"aliases\":[],\"exemplos\":[\"Sen. Q. N. 3, 7, 3\",\"Quint. 3, 6, 46\",\"Quint. 3, 6, 66\",\"Quint. 7, 1, 60\",\"Prisc. p. 581 P.\"],\"notas\":\"Sentidos e referências alinhados com Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5503:5503:0\",\"lemas\":[\"collectivus\",\"collectiva\",\"collectivum\"],\"lema_canonico\":\"collectivus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"recolhido, reunido; figurado: relativo a raciocínio/silogística, conclusivo (em retórica/gramática)\",\"aliases\":[],\"exemplos\":[\"Sen. Q. N. 3, 7, 3\",\"Quint. 3, 6, 46\",\"Quint. 3, 6, 66\",\"Quint. 7, 1, 60\",\"Prisc. p. 581 P.\"],\"notas\":\"Sentidos e referências alinhados com Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_5504-e1",
@@ -3036,50 +2530,6 @@
     "raw_json": "{\"id\":\"chunk_5517:5517:0\",\"lemas\":[\"colliquefactus\"],\"lema_canonico\":\"colliquefactus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"tornado líquido; liquefeito, dissolvido (adj./part.).\",\"aliases\":[],\"exemplos\":[\"Varr. R. Rust. 2, 4, 6\",\"Cic. Clu. 173\"],\"notas\":\"Forma adjectival/particípio confirmada; atestado como particípio/adjectivo em Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_5518-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5518",
-    "page_num": 5518,
-    "lemmas": [
-      "collis",
-      "collis"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "colina, monte pequeno; terreno elevado (podendo ter uso poético para montanha).",
-    "exemplos": [],
-    "notas": "Declinação e significados validados por Lewis & Short e Whitaker; variantes semíticas (ex.: collis neut.) registradas em Whitaker mas forma canónica aqui é masculina 3ª decl. | [dedupe] redirect → chunk_5472:5472:0 | [dedupe] redirect → chunk_5472:5472:0",
-    "raw_text": "{\"id\":\"chunk_5518:5518:0\",\"lemas\":[\"collis\"],\"lema_canonico\":\"collis\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"colina, monte pequeno; terreno elevado (podendo ter uso poético para montanha).\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 3, 47\",\"Sil. Ital. 3, 420\"],\"notas\":\"Declinação e significados validados por Lewis & Short e Whitaker; variantes semíticas (ex.: collis neut.) registradas em Whitaker mas forma canónica aqui é masculina 3ª decl.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5518:5518:0\",\"lemas\":[\"collis\"],\"lema_canonico\":\"collis\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"colina, monte pequeno; terreno elevado (podendo ter uso poético para montanha).\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 3, 47\",\"Sil. Ital. 3, 420\"],\"notas\":\"Declinação e significados validados por Lewis & Short e Whitaker; variantes semíticas (ex.: collis neut.) registradas em Whitaker mas forma canónica aqui é masculina 3ª decl.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_5519-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5519",
-    "page_num": 5519,
-    "lemmas": [
-      "collīdō",
-      "collīdō"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "colidir, chocar; esmagar, amassar; pôr em conflito (perfectum: collīsī; part. perf.: collisus)",
-    "exemplos": [],
-    "notas": "Registro como perfeito collīsī e particípio collisus conforme Whitaker/Lat→Deu. | [dedupe] redirect → chunk_5511:5511:1 | [dedupe] redirect → chunk_5511:5511:1",
-    "raw_text": "{\"id\":\"chunk_5519:5519:0\",\"lemas\":[\"collīdō\",\"collisi\",\"collisus\"],\"lema_canonico\":\"collīdō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"colidir, chocar; esmagar, amassar; pôr em conflito (perfectum: collīsī; part. perf.: collisus)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Registro como perfeito collīsī e particípio collisus conforme Whitaker/Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5519:5519:0\",\"lemas\":[\"collīdō\",\"collisi\",\"collisus\"],\"lema_canonico\":\"collīdō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"colidir, chocar; esmagar, amassar; pôr em conflito (perfectum: collīsī; part. perf.: collisus)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Registro como perfeito collīsī e particípio collisus conforme Whitaker/Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_5520-e1",
     "volume_id": "faria",
     "doc_name": "chunk_5520",
@@ -3256,28 +2706,6 @@
     "raw_json": "{\"id\":\"chunk_5526:5526:0\",\"lemas\":[\"colloquium\"],\"lema_canonico\":\"colloquium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"conversation, conference, discourse; a formal or informal meeting for talk\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 12, 2, 1\"],\"notas\":\"Normalizado a partir de LS/Whitaker; gen. -i (2nd decl.) preferido sobre leituras corrompidas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_5527-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5527",
-    "page_num": 5527,
-    "lemmas": [
-      "colloquium",
-      "colloquium"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "conferência, encontro para falar; conversa, colóquio",
-    "exemplos": [],
-    "notas": "Grafia e declinação alinhadas com LS/Whitaker; inclui variante conl-. | [dedupe] redirect → chunk_5526:5526:0 | [dedupe] redirect → chunk_5526:5526:0",
-    "raw_text": "{\"id\":\"chunk_5527:5527:0\",\"lemas\":[\"colloquium\",\"conl-\"],\"lema_canonico\":\"colloquium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"conferência, encontro para falar; conversa, colóquio\",\"aliases\":[],\"exemplos\":[\"Caes. B. G. 1, 35\",\"Cic. Phil. 2, 71\"],\"notas\":\"Grafia e declinação alinhadas com LS/Whitaker; inclui variante conl-.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5527:5527:0\",\"lemas\":[\"colloquium\",\"conl-\"],\"lema_canonico\":\"colloquium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"conferência, encontro para falar; conversa, colóquio\",\"aliases\":[],\"exemplos\":[\"Caes. B. G. 1, 35\",\"Cic. Phil. 2, 71\"],\"notas\":\"Grafia e declinação alinhadas com LS/Whitaker; inclui variante conl-.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_5527-e2",
     "volume_id": "faria",
     "doc_name": "chunk_5527",
@@ -3388,28 +2816,6 @@
     "raw_json": "{\"id\":\"chunk_5529:5529:0\",\"lemas\":[\"collūdō\",\"colludo\"],\"lema_canonico\":\"collūdō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"brincar, jogar junto; formar conluio, estar em secreto acordo (intrans.)\",\"aliases\":[],\"exemplos\":[\"Hor. Ars Poet. 159\",\"Cic. Verr. 2, 58\"],\"notas\":\"Forma e paradigma ajustados conforme Whitaker/LS; verbo atestado tanto no sentido literal quanto figurado.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_5530-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5530",
-    "page_num": 5530,
-    "lemmas": [
-      "colludō",
-      "colludō"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Forma perfeita (collūsī) do verbo colludō, collūdere: 'brincar/jogar junto; zombar; agir em conluio'.",
-    "exemplos": [],
-    "notas": "Registro do perfeito collūsī (collusi) como forma de colludō; marcado como verbo de 3ª. | [dedupe] redirect → chunk_5529:5529:0 | [dedupe] redirect → chunk_5529:5529:0",
-    "raw_text": "{\"id\":\"chunk_5530:5530:0\",\"lemas\":[\"colludō\"],\"lema_canonico\":\"colludō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"perf. indic. 1sg\"],\"definicao\":\"Forma perfeita (collūsī) do verbo colludō, collūdere: 'brincar/jogar junto; zombar; agir em conluio'.\",\"aliases\":[\"collūsī\"],\"exemplos\":[],\"notas\":\"Registro do perfeito collūsī (collusi) como forma de colludō; marcado como verbo de 3ª.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5530:5530:0\",\"lemas\":[\"colludō\"],\"lema_canonico\":\"colludō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"perf. indic. 1sg\"],\"definicao\":\"Forma perfeita (collūsī) do verbo colludō, collūdere: 'brincar/jogar junto; zombar; agir em conluio'.\",\"aliases\":[\"collūsī\"],\"exemplos\":[],\"notas\":\"Registro do perfeito collūsī (collusi) como forma de colludō; marcado como verbo de 3ª.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_5531-e1",
     "volume_id": "faria",
     "doc_name": "chunk_5531",
@@ -3452,28 +2858,6 @@
     "notas": "Inclui variante conluo attestada; paradigma clássico normalizado (collō, colluere...). | [ocr_fix 2025-08-20T01:03:57Z] Correção automática de lema via Gaffiot | lemma_in='colluo' → 'collŭo'",
     "raw_text": "{\"id\":\"chunk_5532:5532:0\",\"lemas\":[\"colluo\",\"conluo\"],\"lema_canonico\":\"colluo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"molhar, umedecer; lavar, enxaguar; bespuliar/banhar (uso literal e figurado)\",\"aliases\":[\"conluo\"],\"exemplos\":[\"Cat. Apr. 100\",\"Plin. Nat. 23, 77\",\"Ov. Met. 5, 447\"],\"notas\":\"Inclui variante conluo attestada; paradigma clássico normalizado (collō, colluere...).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_5532:5532:0\",\"lemas\":[\"colluo\",\"conluo\"],\"lema_canonico\":\"colluo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"molhar, umedecer; lavar, enxaguar; bespuliar/banhar (uso literal e figurado)\",\"aliases\":[\"conluo\"],\"exemplos\":[\"Cat. Apr. 100\",\"Plin. Nat. 23, 77\",\"Ov. Met. 5, 447\"],\"notas\":\"Inclui variante conluo attestada; paradigma clássico normalizado (collō, colluere...).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_5533-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5533",
-    "page_num": 5533,
-    "lemmas": [
-      "colludō",
-      "colludō"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "colludō, colludere, collūsī, collūsus: brincar, jogar junto; fazer troça; agir em conluio (com).",
-    "exemplos": [],
-    "notas": "Corrigidas principais formas (infinitivo e particípios); classificado como verbo intransitivo conforme Whitaker/Lat→Deu. | [dedupe] redirect → chunk_5529:5529:0 | [dedupe] redirect → chunk_5529:5529:0",
-    "raw_text": "{\"id\":\"chunk_5533:5533:0\",\"lemas\":[\"colludō\",\"colludere\"],\"lema_canonico\":\"colludō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"colludō, colludere, collūsī, collūsus: brincar, jogar junto; fazer troça; agir em conluio (com).\",\"aliases\":[\"collūsus\",\"collūsī\"],\"exemplos\":[],\"notas\":\"Corrigidas principais formas (infinitivo e particípios); classificado como verbo intransitivo conforme Whitaker/Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5533:5533:0\",\"lemas\":[\"colludō\",\"colludere\"],\"lema_canonico\":\"colludō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"colludō, colludere, collūsī, collūsus: brincar, jogar junto; fazer troça; agir em conluio (com).\",\"aliases\":[\"collūsus\",\"collūsī\"],\"exemplos\":[],\"notas\":\"Corrigidas principais formas (infinitivo e particípios); classificado como verbo intransitivo conforme Whitaker/Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_5534-e1",
@@ -3806,28 +3190,6 @@
     "raw_json": "{\"id\":\"chunk_5548:5548:0\",\"lemas\":[\"colonus\"],\"lema_canonico\":\"colonus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"agricultor, lavrador; arrendatário/colono; habitante de colônia, colonist\",\"aliases\":[],\"exemplos\":[\"Cato, R. R. prooem. §2\",\"Varr. R. R. 2, prooem. §5\",\"Cic. de Or. 2, 71\",\"Hor. C. 1, 35, 6\",\"Verg. G. 1, 125\",\"Ov. M. 1, 272\"],\"notas\":\"Normalizado para substantivo masculino (LS, Whitaker); removida leitura adjetival do OCR que parecia errônea.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_5549-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5549",
-    "page_num": 5549,
-    "lemmas": [
-      "colonia",
-      "colonia"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "1) herdade, propriedade rural; 2) cidade colonial, colónia; 3) povo enviado para fundar uma colónia",
-    "exemplos": [],
-    "notas": "Unificado com base em Lewis & Short e Lat→Deu; grafia latimizada normalizada. | [dedupe] redirect → chunk_19814:19814:0 | [dedupe] redirect → chunk_19814:19814:0",
-    "raw_text": "{\"id\":\"chunk_5549:5549:0\",\"lemas\":[\"colonia\",\"colōnia\"],\"lema_canonico\":\"colonia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"1) herdade, propriedade rural; 2) cidade colonial, colónia; 3) povo enviado para fundar uma colónia\",\"aliases\":[],\"exemplos\":[\"Col. 11, 1, 23\",\"Cic. Agr. 2, 73\",\"Cic. Div. 1, 3\"],\"notas\":\"Unificado com base em Lewis & Short e Lat→Deu; grafia latimizada normalizada.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5549:5549:0\",\"lemas\":[\"colonia\",\"colōnia\"],\"lema_canonico\":\"colonia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"1) herdade, propriedade rural; 2) cidade colonial, colónia; 3) povo enviado para fundar uma colónia\",\"aliases\":[],\"exemplos\":[\"Col. 11, 1, 23\",\"Cic. Agr. 2, 73\",\"Cic. Div. 1, 3\"],\"notas\":\"Unificado com base em Lewis & Short e Lat→Deu; grafia latimizada normalizada.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_5550-e1",
     "volume_id": "faria",
     "doc_name": "chunk_5550",
@@ -3848,28 +3210,6 @@
     "notas": "Baseado em Lewis & Short e Whitaker; formas e sentido agrícola/colonial confirmados.",
     "raw_text": "{\"id\":\"chunk_5550:5550:0\",\"lemas\":[\"colonicus\",\"colonica\",\"colonicum\"],\"lema_canonico\":\"colonicus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo a colónia ou a fazendas/agricultura; subst. fem. (colonica) = casa de fazenda, cabana rústica\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 8, 47, 72\",\"Caes. B. Civ. 1, 39, 1\",\"Aus. Ep. 4, 7\"],\"notas\":\"Baseado em Lewis & Short e Whitaker; formas e sentido agrícola/colonial confirmados.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_5550:5550:0\",\"lemas\":[\"colonicus\",\"colonica\",\"colonicum\"],\"lema_canonico\":\"colonicus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo a colónia ou a fazendas/agricultura; subst. fem. (colonica) = casa de fazenda, cabana rústica\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 8, 47, 72\",\"Caes. B. Civ. 1, 39, 1\",\"Aus. Ep. 4, 7\"],\"notas\":\"Baseado em Lewis & Short e Whitaker; formas e sentido agrícola/colonial confirmados.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_5551-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5551",
-    "page_num": 5551,
-    "lemmas": [
-      "colonus",
-      "colonus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "fazendeiro, lavrador; agricultor; colono, habitante de uma colónia; uso poético: habitante",
-    "exemplos": [],
-    "notas": "Normalizado a partir da primeira passada; forma e sentidos confirmados por LS e Whitaker. | [dedupe] redirect → chunk_5548:5548:0 | [dedupe] redirect → chunk_5548:5548:0",
-    "raw_text": "{\"id\":\"chunk_5551:5551:0\",\"lemas\":[\"colonus\"],\"lema_canonico\":\"colonus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"fazendeiro, lavrador; agricultor; colono, habitante de uma colónia; uso poético: habitante\",\"aliases\":[],\"exemplos\":[\"Cic. Caec. 94\",\"Cic. Or. 2, 287\",\"Cic. Nat. 3, 48\",\"Verg. En. 7, 63\"],\"notas\":\"Normalizado a partir da primeira passada; forma e sentidos confirmados por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5551:5551:0\",\"lemas\":[\"colonus\"],\"lema_canonico\":\"colonus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"fazendeiro, lavrador; agricultor; colono, habitante de uma colónia; uso poético: habitante\",\"aliases\":[],\"exemplos\":[\"Cic. Caec. 94\",\"Cic. Or. 2, 287\",\"Cic. Nat. 3, 48\",\"Verg. En. 7, 63\"],\"notas\":\"Normalizado a partir da primeira passada; forma e sentidos confirmados por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_5552-e1",
@@ -4026,28 +3366,6 @@
     "raw_json": "{\"id\":\"chunk_5558:5558:0\",\"lemas\":[\"colorō\",\"colōrō\",\"colorare\"],\"lema_canonico\":\"colorare\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"dar cor a; tingir, corar; figur.: encobrir, disfarçar\",\"aliases\":[\"colōrō\"],\"exemplos\":[\"Cic. de Or. 2, 60\",\"Val. Max. 8, 2, 2\"],\"notas\":\"Verbo normalizado como colorare (v. 1ª); transitivo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_5558-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_5558",
-    "page_num": 5558,
-    "lemmas": [
-      "color",
-      "color"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "variante arcaica/epigráfica de color: cor, matiz; ocasionalmente usado como forma alternativa",
-    "exemplos": [],
-    "notas": "Tratada como variante gráfica de color (atenção a ocorrências arcaicas/epigráficas). | [dedupe] redirect → chunk_5556:5556:0 | [dedupe] redirect → chunk_5556:5556:0",
-    "raw_text": "{\"id\":\"chunk_5558:5558:1\",\"lemas\":[\"colos\",\"cŏlos\"],\"lema_canonico\":\"color\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"variante arcaica/epigráfica de color: cor, matiz; ocasionalmente usado como forma alternativa\",\"aliases\":[\"cŏlor\"],\"exemplos\":[\"Sal. C. Cat. 15, 5\"],\"notas\":\"Tratada como variante gráfica de color (atenção a ocorrências arcaicas/epigráficas).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5558:5558:1\",\"lemas\":[\"colos\",\"cŏlos\"],\"lema_canonico\":\"color\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"variante arcaica/epigráfica de color: cor, matiz; ocasionalmente usado como forma alternativa\",\"aliases\":[\"cŏlor\"],\"exemplos\":[\"Sal. C. Cat. 15, 5\"],\"notas\":\"Tratada como variante gráfica de color (atenção a ocorrências arcaicas/epigráficas).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_5559-e1",
     "volume_id": "faria",
     "doc_name": "chunk_5559",
@@ -4158,28 +3476,6 @@
     "raw_json": "{\"id\":\"chunk_5563:5563:0\",\"lemas\":[\"coluber\"],\"lema_canonico\":\"coluber\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"snake; serpent (often poetic; also used attributively of hair of mythical monsters).\",\"aliases\":[],\"exemplos\":[\"Verg. G. 2, 320\",\"Ov. Met. 4, 620\"],\"notas\":\"Normalizado para genitivo colubrī e morfologia 2ª declinação conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_5564-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5564",
-    "page_num": 5564,
-    "lemmas": [
-      "Cabīra",
-      "Cabīra"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Cidade na Pôntia, residência de Mitrídates (Eutr. 6, 8).",
-    "exemplos": [],
-    "notas": "Grafia e definição conforme Lewis & Short. | [dedupe] redirect → chunk_3841:3841:0 | [dedupe] redirect → chunk_3841:3841:0 | [ocr_fix 2025-08-17T19:56:52Z] match direto em LS por lemma/lemma_norm | lemma_in='Cabīra' → 'Cabīra'",
-    "raw_text": "{\"id\":\"chunk_5564:5564:0\",\"lemas\":[\"Cabīra\",\"cabira\"],\"lema_canonico\":\"Cabīra\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Cidade na Pôntia, residência de Mitrídates (Eutr. 6, 8).\",\"aliases\":[],\"exemplos\":[\"Eutr. 6, 8\"],\"notas\":\"Grafia e definição conforme Lewis & Short.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_5564:5564:0\",\"lemas\":[\"Cabīra\",\"cabira\"],\"lema_canonico\":\"Cabīra\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Cidade na Pôntia, residência de Mitrídates (Eutr. 6, 8).\",\"aliases\":[],\"exemplos\":[\"Eutr. 6, 8\"],\"notas\":\"Grafia e definição conforme Lewis & Short.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_5564-e2",
     "volume_id": "faria",
     "doc_name": "chunk_5564",
@@ -4222,28 +3518,6 @@
     "notas": "Normalizado segundo Lewis & Short e Whitaker; formas variantes preservadas em lemas.",
     "raw_text": "{\"id\":\"chunk_5564:5564:2\",\"lemas\":[\"cēlĭa\",\"caelia\",\"caela\",\"celia\"],\"lema_canonico\":\"cēlĭa\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"tipo de bebida (cerveja) produzida na Hispânia; atestado em Plínio, Florêncio, Orosius e Isidoro.\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 22, 25, 82 § 164\",\"Flor. 2, 18, 12\",\"Oros. 5, 7\",\"Isid. Orig. 20, 3, 18\"],\"notas\":\"Normalizado segundo Lewis & Short e Whitaker; formas variantes preservadas em lemas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_5564:5564:2\",\"lemas\":[\"cēlĭa\",\"caelia\",\"caela\",\"celia\"],\"lema_canonico\":\"cēlĭa\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"tipo de bebida (cerveja) produzida na Hispânia; atestado em Plínio, Florêncio, Orosius e Isidoro.\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 22, 25, 82 § 164\",\"Flor. 2, 18, 12\",\"Oros. 5, 7\",\"Isid. Orig. 20, 3, 18\"],\"notas\":\"Normalizado segundo Lewis & Short e Whitaker; formas variantes preservadas em lemas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_5564-e4",
-    "volume_id": "faria",
-    "doc_name": "chunk_5564",
-    "page_num": 5564,
-    "lemmas": [
-      "caelus",
-      "caelus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "(m.) céu, firmamento, as potências celestes; (n., caelum) também: buril, formão; sentido estendido: clima, universo; em contexto eclesiástico, Deus/Jehovah.",
-    "exemplos": [],
-    "notas": "Entrada unificada das formas masculinas e neutras; indicado uso polissêmico (instrumento e céu). | [dedupe] redirect → chunk_3910:3910:0 | [dedupe] redirect → chunk_3910:3910:0",
-    "raw_text": "{\"id\":\"chunk_5564:5564:3\",\"lemas\":[\"caelus\",\"caelum\",\"coelum\"],\"lema_canonico\":\"caelus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[\"also: neut. caelum (n.)\"],\"definicao\":\"(m.) céu, firmamento, as potências celestes; (n., caelum) também: buril, formão; sentido estendido: clima, universo; em contexto eclesiástico, Deus/Jehovah.\",\"aliases\":[\"caelum\",\"coelum\"],\"exemplos\":[\"uso clássico e eclesiástico, cf. regnum caelorum\"],\"notas\":\"Entrada unificada das formas masculinas e neutras; indicado uso polissêmico (instrumento e céu).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_5564:5564:3\",\"lemas\":[\"caelus\",\"caelum\",\"coelum\"],\"lema_canonico\":\"caelus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[\"also: neut. caelum (n.)\"],\"definicao\":\"(m.) céu, firmamento, as potências celestes; (n., caelum) também: buril, formão; sentido estendido: clima, universo; em contexto eclesiástico, Deus/Jehovah.\",\"aliases\":[\"caelum\",\"coelum\"],\"exemplos\":[\"uso clássico e eclesiástico, cf. regnum caelorum\"],\"notas\":\"Entrada unificada das formas masculinas e neutras; indicado uso polissêmico (instrumento e céu).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}"
   },
   {
     "id": "chunk_5564-e5",
@@ -4290,28 +3564,6 @@
     "raw_json": "{\"id\":\"chunk_5565:5565:0\",\"lemas\":[\"colubrifer\",\"colubrifera\",\"colubriferum\"],\"lema_canonico\":\"colubrifer\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Que traz serpentes; ‘snake‑haired’, epíteto (p. ex. de Medusa).\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 5, 241\"],\"notas\":\"Forma e sentido confirmados em LS e Whitaker; pluralidade de gêneros registrada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_5566-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5566",
-    "page_num": 5566,
-    "lemmas": [
-      "colo",
-      "colo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "forma perfeita (1ª sing. indic.): de colō, colere — lavrar, cultivar, habitar, proteger, honrar, cuidar, adornar.",
-    "exemplos": [],
-    "notas": "Entrada de forma perfeita: lemma canónico fornecido como 'colo' (infinitivo). Sentidos sintetizados de LS/Whitaker/Lat→Deu. | [dedupe] redirect → chunk_5543:5543:0 | [dedupe] redirect → chunk_5543:5543:0",
-    "raw_text": "{\"id\":\"chunk_5566:5566:0\",\"lemas\":[\"colui\",\"colo\"],\"lema_canonico\":\"colo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"perf. ind. 1s.\"],\"definicao\":\"forma perfeita (1ª sing. indic.): de colō, colere — lavrar, cultivar, habitar, proteger, honrar, cuidar, adornar.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada de forma perfeita: lemma canónico fornecido como 'colo' (infinitivo). Sentidos sintetizados de LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5566:5566:0\",\"lemas\":[\"colui\",\"colo\"],\"lema_canonico\":\"colo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"perf. ind. 1s.\"],\"definicao\":\"forma perfeita (1ª sing. indic.): de colō, colere — lavrar, cultivar, habitar, proteger, honrar, cuidar, adornar.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada de forma perfeita: lemma canónico fornecido como 'colo' (infinitivo). Sentidos sintetizados de LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_5567-e1",
     "volume_id": "faria",
     "doc_name": "chunk_5567",
@@ -4332,28 +3584,6 @@
     "notas": "Sentido e citações verificados em Lewis & Short e Lat→Deu.",
     "raw_text": "{\"id\":\"chunk_5567:5567:0\",\"lemas\":[\"colum\"],\"lema_canonico\":\"colum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"recipiente para coar/filtrar; coador, filtro (p. ex. para vinho); vessel for straining/strainer.\",\"aliases\":[],\"exemplos\":[\"Verg. G. 2, 242\",\"Mart. 14, 103\"],\"notas\":\"Sentido e citações verificados em Lewis & Short e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_5567:5567:0\",\"lemas\":[\"colum\"],\"lema_canonico\":\"colum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"recipiente para coar/filtrar; coador, filtro (p. ex. para vinho); vessel for straining/strainer.\",\"aliases\":[],\"exemplos\":[\"Verg. G. 2, 242\",\"Mart. 14, 103\"],\"notas\":\"Sentido e citações verificados em Lewis & Short e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_5568-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5568",
-    "page_num": 5568,
-    "lemmas": [
-      "columba",
-      "columba"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "pomba, rola; termo de carinho; ave associada a Vénus",
-    "exemplos": [],
-    "notas": "Corroborado por Lewis & Short e Whitaker; definições condensadas e exemplos verificados. | [dedupe] redirect → chunk_5562:5562:0 | [dedupe] redirect → chunk_5562:5562:0",
-    "raw_text": "{\"id\":\"chunk_5568:5568:0\",\"lemas\":[\"columba\"],\"lema_canonico\":\"columba\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"pomba, rola; termo de carinho; ave associada a Vénus\",\"aliases\":[],\"exemplos\":[\"Plaut. As. 3, 3, 103\",\"Hor. Ep. 16, 32\"],\"notas\":\"Corroborado por Lewis & Short e Whitaker; definições condensadas e exemplos verificados.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5568:5568:0\",\"lemas\":[\"columba\"],\"lema_canonico\":\"columba\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"pomba, rola; termo de carinho; ave associada a Vénus\",\"aliases\":[],\"exemplos\":[\"Plaut. As. 3, 3, 103\",\"Hor. Ep. 16, 32\"],\"notas\":\"Corroborado por Lewis & Short e Whitaker; definições condensadas e exemplos verificados.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_5569-e1",
@@ -4576,50 +3806,6 @@
     "raw_json": "{\"id\":\"chunk_5578:5578:0\",\"lemas\":[\"colyphe\",\"colyphē\"],\"lema_canonico\":\"colyphe\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"colífio, alimento dos atletas — bolas de carne (atestado em Juvenal)\",\"aliases\":[],\"exemplos\":[\"Juv. 2, 53\"],\"notas\":\"Forma de origem grega; informação principalmente do primeiro rascunho/OCR; morfologia incerta (plur./gen.) — revisão necessária.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_5579-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5579",
-    "page_num": 5579,
-    "lemmas": [
-      "Cabīra",
-      "Cabīra"
-    ],
-    "morfologia": "ōrum",
-    "morph_render": "ōrum",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "town in Pontus, residence of Mithridates",
-    "exemplos": [],
-    "notas": "Entrada baseada em Lewis & Short (Cabīra). Grafia e forma retidas da primeira passada; atenção à forma flexional (LS registra forma com ōrum). | [dedupe] redirect → chunk_3841:3841:0 | [dedupe] redirect → chunk_3841:3841:0 | [ocr_fix 2025-08-17T19:56:53Z] match direto em LS por lemma/lemma_norm | lemma_in='cabira' → 'Cabīra'",
-    "raw_text": "{\"id\":\"chunk_5579:5579:0\",\"lemas\":[\"cabira\"],\"lema_canonico\":\"cabira\",\"morfologia\":\"ōrum\",\"morph_extra\":[],\"definicao\":\"town in Pontus, residence of Mithridates\",\"aliases\":[],\"exemplos\":[\"Eutr. 6, 8\"],\"notas\":\"Entrada baseada em Lewis & Short (Cabīra). Grafia e forma retidas da primeira passada; atenção à forma flexional (LS registra forma com ōrum).\",\"flags\":[\"src_ls\",\"conf:med\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_5579:5579:0\",\"lemas\":[\"cabira\"],\"lema_canonico\":\"cabira\",\"morfologia\":\"ōrum\",\"morph_extra\":[],\"definicao\":\"town in Pontus, residence of Mithridates\",\"aliases\":[],\"exemplos\":[\"Eutr. 6, 8\"],\"notas\":\"Entrada baseada em Lewis & Short (Cabīra). Grafia e forma retidas da primeira passada; atenção à forma flexional (LS registra forma com ōrum).\",\"flags\":[\"src_ls\",\"conf:med\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_5579-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_5579",
-    "page_num": 5579,
-    "lemmas": [
-      "Caelīna",
-      "caelina"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "town in Venetia (as cited by Pliny); (Whitaker also records caelina as a kind of beer)",
-    "exemplos": [],
-    "notas": "Lema normalizado segundo Lewis & Short; variant orthography included. | [dedupe] redirect → chunk_5564:5564:1 | [dedupe] redirect → chunk_5564:5564:1 | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='caelina' → 'Caelīna'",
-    "raw_text": "{\"id\":\"chunk_5579:5579:1\",\"lemas\":[\"caelina\",\"caelīna\"],\"lema_canonico\":\"caelina\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"town in Venetia (as cited by Pliny); (Whitaker also records caelina as a kind of beer)\",\"aliases\":[],\"exemplos\":[\"Plin. 3, 19, 23, §131\"],\"notas\":\"Lema normalizado segundo Lewis & Short; variant orthography included.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_5579:5579:1\",\"lemas\":[\"caelina\",\"caelīna\"],\"lema_canonico\":\"caelina\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"town in Venetia (as cited by Pliny); (Whitaker also records caelina as a kind of beer)\",\"aliases\":[],\"exemplos\":[\"Plin. 3, 19, 23, §131\"],\"notas\":\"Lema normalizado segundo Lewis & Short; variant orthography included.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_5579-e3",
     "volume_id": "faria",
     "doc_name": "chunk_5579",
@@ -4728,28 +3914,6 @@
     "notas": "Apoiado por Lewis & Short, Whitaker e Lat→Deu; normalizada a forma e a referência. | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='comarchus' → 'cōmarchus'",
     "raw_text": "{\"id\":\"chunk_5580:5580:0\",\"lemas\":[\"comarchus\"],\"lema_canonico\":\"comarchus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"a chief or governor of a village; burgomaster\",\"aliases\":[],\"exemplos\":[\"Plaut. Curc. 2, 3, 7\"],\"notas\":\"Apoiado por Lewis & Short, Whitaker e Lat→Deu; normalizada a forma e a referência.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_5580:5580:0\",\"lemas\":[\"comarchus\"],\"lema_canonico\":\"comarchus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"a chief or governor of a village; burgomaster\",\"aliases\":[],\"exemplos\":[\"Plaut. Curc. 2, 3, 7\"],\"notas\":\"Apoiado por Lewis & Short, Whitaker e Lat→Deu; normalizada a forma e a referência.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_5581-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5581",
-    "page_num": 5581,
-    "lemmas": [
-      "Combē",
-      "Combē"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "mother of the Curetes (Ov. Met. 7, 383)",
-    "exemplos": [],
-    "notas": "Correção segundo Lewis & Short; primeira passada divergia (filha de Asopo). | [dedupe] redirect → chunk_6679:6679:2 | [dedupe] redirect → chunk_6679:6679:2 | [ocr_fix 2025-08-17T19:46:22Z] match direto em LS por lemma/lemma_norm | lemma_in='Combē' → 'Combē'",
-    "raw_text": "{\"id\":\"chunk_5581:5581:0\",\"lemas\":[\"Combē\",\"Combe\"],\"lema_canonico\":\"Combē\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"mother of the Curetes (Ov. Met. 7, 383)\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 7, 383\"],\"notas\":\"Correção segundo Lewis & Short; primeira passada divergia (filha de Asopo).\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_5581:5581:0\",\"lemas\":[\"Combē\",\"Combe\"],\"lema_canonico\":\"Combē\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"mother of the Curetes (Ov. Met. 7, 383)\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 7, 383\"],\"notas\":\"Correção segundo Lewis & Short; primeira passada divergia (filha de Asopo).\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
     "id": "chunk_5582-e1",
@@ -5038,28 +4202,6 @@
     "raw_json": "{\"id\":\"chunk_5591:5591:0\",\"lemas\":[\"Cōmensis\"],\"lema_canonico\":\"Cōmensis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"relativo a Comum (Como)\",\"aliases\":[],\"exemplos\":[\"T. Liv. 33, 36, 9\"],\"notas\":\"Correção de OCR e normalização conforme Lewis & Short.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_5592-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5592",
-    "page_num": 5592,
-    "lemmas": [
-      "cŏmĕdo",
-      "cŏmĕdo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "forma: 2.ª pessoa do singular do presente do indicativo de comēdō 'comer, devorar'.",
-    "exemplos": [],
-    "notas": "Entrada da primeira-passa indicava forma verbal; normalizado para o infinitivo lema. | [dedupe] redirect → chunk_5589:5589:2 | [dedupe] redirect → chunk_5589:5589:2 | [ocr_fix 2025-08-17T19:46:23Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='comēdō' → 'cŏmĕdo'",
-    "raw_text": "{\"id\":\"chunk_5592:5592:0\",\"lemas\":[\"comēdō\"],\"lema_canonico\":\"comēdō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"forma: 2.ª pessoa do singular do presente do indicativo de comēdō 'comer, devorar'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada da primeira-passa indicava forma verbal; normalizado para o infinitivo lema.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_5592:5592:0\",\"lemas\":[\"comēdō\"],\"lema_canonico\":\"comēdō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"forma: 2.ª pessoa do singular do presente do indicativo de comēdō 'comer, devorar'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada da primeira-passa indicava forma verbal; normalizado para o infinitivo lema.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_5593-e1",
     "volume_id": "faria",
     "doc_name": "chunk_5593",
@@ -5080,28 +4222,6 @@
     "notas": "Forma nominal clássica com genitivo comitis; adjetivalmente comis (cf. Whitaker).",
     "raw_text": "{\"id\":\"chunk_5593:5593:0\",\"lemas\":[\"comes\",\"comis\"],\"lema_canonico\":\"comes\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"1) companheiro, acompanhante, parceiro; 2) preceptor, membro da comitiva; (também título: conde/Graf em latim medieval).\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 13, 71\",\"Cic. Fam. 1, 9, 22\",\"Suet. Cl. 35, 2\",\"Hor. Ep. 1, 8, 2\"],\"notas\":\"Forma nominal clássica com genitivo comitis; adjetivalmente comis (cf. Whitaker).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_5593:5593:0\",\"lemas\":[\"comes\",\"comis\"],\"lema_canonico\":\"comes\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"1) companheiro, acompanhante, parceiro; 2) preceptor, membro da comitiva; (também título: conde/Graf em latim medieval).\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 13, 71\",\"Cic. Fam. 1, 9, 22\",\"Suet. Cl. 35, 2\",\"Hor. Ep. 1, 8, 2\"],\"notas\":\"Forma nominal clássica com genitivo comitis; adjetivalmente comis (cf. Whitaker).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_5594-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_5594",
-    "page_num": 5594,
-    "lemmas": [
-      "comesiatico",
-      "comesiatico"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:low",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada é remissão/redirect para 'comesático'; forma possivelmente apenas variante ortográfica.",
-    "raw_text": "{\"id\":\"chunk_5594:5594:0\",\"lemas\":[\"comesiatico\"],\"lema_canonico\":\"comesiatico\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"comesático\"],\"exemplos\":[],\"notas\":\"Entrada é remissão/redirect para 'comesático'; forma possivelmente apenas variante ortográfica.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_5594:5594:0\",\"lemas\":[\"comesiatico\"],\"lema_canonico\":\"comesiatico\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"comesático\"],\"exemplos\":[],\"notas\":\"Entrada é remissão/redirect para 'comesático'; forma possivelmente apenas variante ortográfica.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"redirect_only\"]}"
   },
   {
     "id": "chunk_5595-e1",

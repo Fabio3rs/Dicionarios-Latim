@@ -44,28 +44,6 @@
     "raw_json": "{\"id\":\"chunk_9001:9001:0\",\"lemas\":[\"dorsum\",\"dorsus\"],\"lema_canonico\":\"dorsum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"o dorso, costas; por extensão, encosta, crista, topo de monte; forma masculina dorsus atestada em Plauto\",\"aliases\":[],\"exemplos\":[\"Verg. G. 3, 116\",\"Caes. B. G. 7, 44\",\"Plaut. Mil. 937\"],\"notas\":\"Lema e sentidos verificados e harmonizados com LS e Whitaker; incluída forma variante 'dorsus'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_9002-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_9002",
-    "page_num": 9002,
-    "lemmas": [
-      "dorsum",
-      "dorsum"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "o dorso, parte posterior; crista, saliência (também dorsus, forma masc. e variante lexical)",
-    "exemplos": [],
-    "notas": "Inclui variante dorsus (masc. -ūs) atestada; escolha de morphologia principal como dorsum (-ī) | [dedupe] redirect → chunk_9001:9001:0 | [dedupe] redirect → chunk_9001:9001:0",
-    "raw_text": "{\"id\":\"chunk_9002:9002:0\",\"lemas\":[\"dorsum\",\"dorsus\"],\"lema_canonico\":\"dorsum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"o dorso, parte posterior; crista, saliência (também dorsus, forma masc. e variante lexical)\",\"aliases\":[],\"exemplos\":[\"Plaut. Mil. 2, 4, 44\",\"Verg. G. 3, 116\"],\"notas\":\"Inclui variante dorsus (masc. -ūs) atestada; escolha de morphologia principal como dorsum (-ī)\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_9002:9002:0\",\"lemas\":[\"dorsum\",\"dorsus\"],\"lema_canonico\":\"dorsum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"o dorso, parte posterior; crista, saliência (também dorsus, forma masc. e variante lexical)\",\"aliases\":[],\"exemplos\":[\"Plaut. Mil. 2, 4, 44\",\"Verg. G. 3, 116\"],\"notas\":\"Inclui variante dorsus (masc. -ūs) atestada; escolha de morphologia principal como dorsum (-ī)\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}"
-  },
-  {
     "id": "chunk_9003-e1",
     "volume_id": "faria",
     "doc_name": "chunk_9003",
@@ -196,28 +174,6 @@
     "notas": "Grafia corrigida de OCR; genitivo -ī atestado",
     "raw_text": "{\"id\":\"chunk_9007:9007:0\",\"lemas\":[\"doryphoros\"],\"lema_canonico\":\"doryphoros\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"portador de lança; doryforo, soldado armado de lança (empréstimo grego)\",\"aliases\":[],\"exemplos\":[\"Cic. Br. 256\"],\"notas\":\"Grafia corrigida de OCR; genitivo -ī atestado\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_9007:9007:0\",\"lemas\":[\"doryphoros\"],\"lema_canonico\":\"doryphoros\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"portador de lança; doryforo, soldado armado de lança (empréstimo grego)\",\"aliases\":[],\"exemplos\":[\"Cic. Br. 256\"],\"notas\":\"Grafia corrigida de OCR; genitivo -ī atestado\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_9008-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_9008",
-    "page_num": 9008,
-    "lemmas": [
-      "dos",
-      "dos"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "dōs, dōtis: dote; no pl.: dotes, presentes, qualidades, talentos",
-    "exemplos": [],
-    "notas": "Normalizado lema e genitivo; sentido singular e plural separadas. | [dedupe] redirect → chunk_3340:3340:0 | [dedupe] redirect → chunk_3340:3340:0",
-    "raw_text": "{\"id\":\"chunk_9008:9008:0\",\"lemas\":[\"dos\",\"dotis\"],\"lema_canonico\":\"dos\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"dōs, dōtis: dote; no pl.: dotes, presentes, qualidades, talentos\",\"aliases\":[],\"exemplos\":[\"Cic. Flac. 86\",\"Ov. Met. 9, 717\"],\"notas\":\"Normalizado lema e genitivo; sentido singular e plural separadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_9008:9008:0\",\"lemas\":[\"dos\",\"dotis\"],\"lema_canonico\":\"dos\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"dōs, dōtis: dote; no pl.: dotes, presentes, qualidades, talentos\",\"aliases\":[],\"exemplos\":[\"Cic. Flac. 86\",\"Ov. Met. 9, 717\"],\"notas\":\"Normalizado lema e genitivo; sentido singular e plural separadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_9009-e1",
@@ -462,28 +418,6 @@
     "raw_json": "{\"id\":\"chunk_9019:9019:0\",\"lemas\":[\"Drances\"],\"lema_canonico\":\"Drances\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"nome próprio masculino; um dos conselheiros do rei Lati no e inimigo de Turno.\",\"aliases\":[],\"exemplos\":[\"Verg. En. 11, 296\"],\"notas\":\"Correlacionado com Virgilio (Aeneis).\",\"flags\":[\"src_whitaker\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_9019-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_9019",
-    "page_num": 9019,
-    "lemmas": [
-      "Drangae",
-      "Drangae"
-    ],
-    "morfologia": null,
-    "morph_render": null,
-    "morph_extra": [],
-    "conf": "conf:low",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "\\u0000",
-    "exemplos": [],
-    "notas": "Cabeçalho isolado no trecho; verbete truncado no OCR. | [dedupe] redirect → chunk_9020:9020:0 | [dedupe] redirect → chunk_9020:9020:0",
-    "raw_text": "{\"id\":\"chunk_9019:9019:1\",\"lemas\":[\"Drangae\"],\"lema_canonico\":\"Drangae\",\"morfologia\":\"\",\"morph_extra\":[],\"definicao\":\"\\\\u0000\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Cabeçalho isolado no trecho; verbete truncado no OCR.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_9019:9019:1\",\"lemas\":[\"Drangae\"],\"lema_canonico\":\"Drangae\",\"morfologia\":\"\",\"morph_extra\":[],\"definicao\":\"\\\\u0000\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Cabeçalho isolado no trecho; verbete truncado no OCR.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
     "id": "chunk_9020-e1",
     "volume_id": "faria",
     "doc_name": "chunk_9020",
@@ -616,28 +550,6 @@
     "raw_json": "{\"id\":\"chunk_9025:9025:0\",\"lemas\":[\"Drepanitanus\",\"Drēpanītānus\"],\"lema_canonico\":\"Drepanitanus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo a Drépano (Drepanum).\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 2, 140\"],\"notas\":\"Forma com macrons incluida como variante; adjectivo 1/2 declinação.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_9026-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_9026",
-    "page_num": 9026,
-    "lemmas": [
-      "Drĕpănum",
-      "Drĕpănum"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Ancient town on the western coast of Sicily (modern Trapani); also the plural form Drepana for the place/region.",
-    "exemplos": [],
-    "notas": "Retificado lema canônico para Drepanum; mantida forma plural Drepana. | [dedupe] redirect → chunk_9024:9024:0 | [dedupe] redirect → chunk_9024:9024:0 | [ocr_fix 2025-08-17T19:47:41Z] match direto em Gaffiot por lemma/lemma_norm | lemma_in='Drepanum' → 'Drĕpănum'",
-    "raw_text": "{\"id\":\"chunk_9026:9026:0\",\"lemas\":[\"Drepanum\",\"Drepana\"],\"lema_canonico\":\"Drepanum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Ancient town on the western coast of Sicily (modern Trapani); also the plural form Drepana for the place/region.\",\"aliases\":[],\"exemplos\":[\"Verg. A. 3, 707\",\"Plin. H. N. 3, 8, 90\"],\"notas\":\"Retificado lema canônico para Drepanum; mantida forma plural Drepana.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_9026:9026:0\",\"lemas\":[\"Drepanum\",\"Drepana\"],\"lema_canonico\":\"Drepanum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Ancient town on the western coast of Sicily (modern Trapani); also the plural form Drepana for the place/region.\",\"aliases\":[],\"exemplos\":[\"Verg. A. 3, 707\",\"Plin. H. N. 3, 8, 90\"],\"notas\":\"Retificado lema canônico para Drepanum; mantida forma plural Drepana.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_9027-e1",
     "volume_id": "faria",
     "doc_name": "chunk_9027",
@@ -658,28 +570,6 @@
     "notas": "Forma e significado confirmados em Lewis & Short e Whitaker; variante dromedarius citada como sinônimo.",
     "raw_text": "{\"id\":\"chunk_9027:9027:0\",\"lemas\":[\"dromas\",\"drŏmas\",\"dromedarius\"],\"lema_canonico\":\"dromas\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"dromedário (animal); também dromedarius como equivalente\",\"aliases\":[],\"exemplos\":[\"Liv. 37, 40\",\"Curt. 5, 2, 5\"],\"notas\":\"Forma e significado confirmados em Lewis & Short e Whitaker; variante dromedarius citada como sinônimo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_9027:9027:0\",\"lemas\":[\"dromas\",\"drŏmas\",\"dromedarius\"],\"lema_canonico\":\"dromas\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"dromedário (animal); também dromedarius como equivalente\",\"aliases\":[],\"exemplos\":[\"Liv. 37, 40\",\"Curt. 5, 2, 5\"],\"notas\":\"Forma e significado confirmados em Lewis & Short e Whitaker; variante dromedarius citada como sinônimo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_9028-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_9028",
-    "page_num": 9028,
-    "lemmas": [
-      "dromas",
-      "dromas"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "A dromedary (dromedarius); also the name of one of Actaeon's hounds in Ovid.",
-    "exemplos": [],
-    "notas": "Inclui ambos os sentidos atestados (animal and mythic hound). | [dedupe] redirect → chunk_9027:9027:0 | [dedupe] redirect → chunk_9027:9027:0",
-    "raw_text": "{\"id\":\"chunk_9028:9028:0\",\"lemas\":[\"dromas\"],\"lema_canonico\":\"dromas\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"A dromedary (dromedarius); also the name of one of Actaeon's hounds in Ovid.\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 3, 217\"],\"notas\":\"Inclui ambos os sentidos atestados (animal and mythic hound).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_9028:9028:0\",\"lemas\":[\"dromas\"],\"lema_canonico\":\"dromas\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"A dromedary (dromedarius); also the name of one of Actaeon's hounds in Ovid.\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 3, 217\"],\"notas\":\"Inclui ambos os sentidos atestados (animal and mythic hound).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_9029-e1",
@@ -856,50 +746,6 @@
     "notas": "Grafia e flexão incertas na fonte OCR; forma revista a partir da primeira passada, mas requer verificação adicional contra edições primárias. | [ocr_fix 2025-08-17T18:29:49Z] match direto em Gaffiot por lemma/lemma_norm | lemma_in='Dryantides' → 'Dry̆antīdēs' | [ocr_fix 2025-08-17T19:53:33Z] match direto em Gaffiot por lemma/lemma_norm | lemma_in='Dry̆antīdēs' → 'Dry̆antīdēs'",
     "raw_text": "{\"id\":\"chunk_9036:9036:0\",\"lemas\":[\"Dryantides\",\"Dryantĭdēs\"],\"lema_canonico\":\"Dryantides\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"filho(a)/descendente de Dríante (nome próprio derivado); atestado em fontes clássicas\",\"aliases\":[],\"exemplos\":[\"Ov. Ibis 347\"],\"notas\":\"Grafia e flexão incertas na fonte OCR; forma revista a partir da primeira passada, mas requer verificação adicional contra edições primárias.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_9036:9036:0\",\"lemas\":[\"Dryantides\",\"Dryantĭdēs\"],\"lema_canonico\":\"Dryantides\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"filho(a)/descendente de Dríante (nome próprio derivado); atestado em fontes clássicas\",\"aliases\":[],\"exemplos\":[\"Ov. Ibis 347\"],\"notas\":\"Grafia e flexão incertas na fonte OCR; forma revista a partir da primeira passada, mas requer verificação adicional contra edições primárias.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_9037-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_9037",
-    "page_num": 9037,
-    "lemmas": [
-      "dryas",
-      "dryas"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Dríade, ninfa das florestas (nome de nymphae ligadas a árvores).",
-    "exemplos": [],
-    "notas": "Forma e gênero confirmados por Whitaker e Lat→Deu (dryas, dryadis, f.). | [dedupe] redirect → chunk_9035:9035:0 | [dedupe] redirect → chunk_9035:9035:0",
-    "raw_text": "{\"id\":\"chunk_9037:9037:0\",\"lemas\":[\"dryas\",\"Dryas\",\"dryadis\"],\"lema_canonico\":\"dryas\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Dríade, ninfa das florestas (nome de nymphae ligadas a árvores).\",\"aliases\":[],\"exemplos\":[\"Marc. 9, 62\"],\"notas\":\"Forma e gênero confirmados por Whitaker e Lat→Deu (dryas, dryadis, f.).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_9037:9037:0\",\"lemas\":[\"dryas\",\"Dryas\",\"dryadis\"],\"lema_canonico\":\"dryas\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Dríade, ninfa das florestas (nome de nymphae ligadas a árvores).\",\"aliases\":[],\"exemplos\":[\"Marc. 9, 62\"],\"notas\":\"Forma e gênero confirmados por Whitaker e Lat→Deu (dryas, dryadis, f.).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_9038-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_9038",
-    "page_num": 9038,
-    "lemmas": [
-      "dryas",
-      "dryas"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "dryas: ninfa arbórea, uma dríade; nome mitológico aplicado a várias personagens.",
-    "exemplos": [],
-    "notas": "Unificada a entrada como substantivo feminino de 3ª declinação; atende LS e Whitaker. | [dedupe] redirect → chunk_9035:9035:0 | [dedupe] redirect → chunk_9035:9035:0",
-    "raw_text": "{\"id\":\"chunk_9038:9038:0\",\"lemas\":[\"dryas\"],\"lema_canonico\":\"dryas\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"dryas: ninfa arbórea, uma dríade; nome mitológico aplicado a várias personagens.\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 12, 290\",\"Hyg. Fab. 132\",\"Ov. Met. 8, 307\"],\"notas\":\"Unificada a entrada como substantivo feminino de 3ª declinação; atende LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_9038:9038:0\",\"lemas\":[\"dryas\"],\"lema_canonico\":\"dryas\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"dryas: ninfa arbórea, uma dríade; nome mitológico aplicado a várias personagens.\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 12, 290\",\"Hyg. Fab. 132\",\"Ov. Met. 8, 307\"],\"notas\":\"Unificada a entrada como substantivo feminino de 3ª declinação; atende LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_9039-e1",
@@ -1122,28 +968,6 @@
     "raw_json": "{\"id\":\"chunk_9048:9048:0\",\"lemas\":[\"dubitanter\"],\"lema_canonico\":\"dubitanter\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"com dúvida; hesitante, dubitativamente\",\"aliases\":[],\"exemplos\":[\"Cic. Br. 87\"],\"notas\":\"Grafia confirmada (LS: dŭbĭtanter; Whitaker: dubitanter).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_9049-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_9049",
-    "page_num": 9049,
-    "lemmas": [
-      "dubitatio",
-      "dubitatio"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "dubitatio: dúvida, incerteza; hesitação, irresolução.",
-    "exemplos": [],
-    "notas": "Definição e exemplos sincronizados com Lewis & Short e Whitaker. | [dedupe] redirect → chunk_491:491:1 | [dedupe] redirect → chunk_491:491:1",
-    "raw_text": "{\"id\":\"chunk_9049:9049:0\",\"lemas\":[\"dubitatio\"],\"lema_canonico\":\"dubitatio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"dubitatio: dúvida, incerteza; hesitação, irresolução.\",\"aliases\":[],\"exemplos\":[\"Cic. Fin. 5, 1\",\"Cic. Cluent. 7, 20\",\"Cic. Fam. 9, 17\"],\"notas\":\"Definição e exemplos sincronizados com Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_9049:9049:0\",\"lemas\":[\"dubitatio\"],\"lema_canonico\":\"dubitatio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"dubitatio: dúvida, incerteza; hesitação, irresolução.\",\"aliases\":[],\"exemplos\":[\"Cic. Fin. 5, 1\",\"Cic. Cluent. 7, 20\",\"Cic. Fam. 9, 17\"],\"notas\":\"Definição e exemplos sincronizados com Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_9050-e1",
     "volume_id": "faria",
     "doc_name": "chunk_9050",
@@ -1276,28 +1100,6 @@
     "raw_json": "{\"id\":\"chunk_9054:9054:0\",\"lemas\":[\"ducatus\"],\"lema_canonico\":\"ducatus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"Comando, liderança ou ofício de líder/chefe; autoridade/mandato militar (ex.: Suet. Tib. 19).\",\"aliases\":[],\"exemplos\":[\"Suet. Tib. 19\"],\"notas\":\"Lema e sentido confirmados por Lewis & Short e Whitaker; normalizada ortografia.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_9054-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_9054",
-    "page_num": 9054,
-    "lemmas": [
-      "dūco",
-      "dūco"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "duco: conduzir, guiar, liderar; aqui atestado a forma imperativa arcaica 'duce' (Plaut. Rud. 386).",
-    "exemplos": [],
-    "notas": "Entrada originalmente como forma imperativa 'duce'; registrei o lema canônico (duco) e marquei 'imp.' em morph_extra. A morfologia da forma (imperat.) não cabe no vocabulário nominal de etiquetas — marca 'morph_out_of_vocab' adicionada às flags. | [dedupe] redirect → chunk_9059:9059:0 | [dedupe] redirect → chunk_9059:9059:0 | [ocr_fix 2025-08-17T19:53:31Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='duco' → 'dūco'",
-    "raw_text": "{\"id\":\"chunk_9054:9054:1\",\"lemas\":[\"duco\"],\"lema_canonico\":\"duco\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"imp.\"],\"definicao\":\"duco: conduzir, guiar, liderar; aqui atestado a forma imperativa arcaica 'duce' (Plaut. Rud. 386).\",\"aliases\":[\"duce\"],\"exemplos\":[\"Plaut. Rud. 386\"],\"notas\":\"Entrada originalmente como forma imperativa 'duce'; registrei o lema canônico (duco) e marquei 'imp.' em morph_extra. A morfologia da forma (imperat.) não cabe no vocabulário nominal de etiquetas — marca 'morph_out_of_vocab' adicionada às flags.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:med\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_9054:9054:1\",\"lemas\":[\"duco\"],\"lema_canonico\":\"duco\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"imp.\"],\"definicao\":\"duco: conduzir, guiar, liderar; aqui atestado a forma imperativa arcaica 'duce' (Plaut. Rud. 386).\",\"aliases\":[\"duce\"],\"exemplos\":[\"Plaut. Rud. 386\"],\"notas\":\"Entrada originalmente como forma imperativa 'duce'; registrei o lema canônico (duco) e marquei 'imp.' em morph_extra. A morfologia da forma (imperat.) não cabe no vocabulário nominal de etiquetas — marca 'morph_out_of_vocab' adicionada às flags.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:med\",\"morph_out_of_vocab\"]}"
-  },
-  {
     "id": "chunk_9055-e1",
     "volume_id": "faria",
     "doc_name": "chunk_9055",
@@ -1318,28 +1120,6 @@
     "notas": "Lema e acepções alinhadas com Lewis & Short, Whitaker e Lat→Deu; variante com macron incluída.",
     "raw_text": "{\"id\":\"chunk_9055:9055:0\",\"lemas\":[\"ducenarius\",\"ducēnārius\"],\"lema_canonico\":\"ducenarius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Que contém ou se relaciona com duzentos; relativo a duzentos (p.ex. salário/quantia de 200 sestércios ou 200 unit.).\",\"aliases\":[],\"exemplos\":[\"Suet. Claud. 24\"],\"notas\":\"Lema e acepções alinhadas com Lewis & Short, Whitaker e Lat→Deu; variante com macron incluída.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_9055:9055:0\",\"lemas\":[\"ducenarius\",\"ducēnārius\"],\"lema_canonico\":\"ducenarius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Que contém ou se relaciona com duzentos; relativo a duzentos (p.ex. salário/quantia de 200 sestércios ou 200 unit.).\",\"aliases\":[],\"exemplos\":[\"Suet. Claud. 24\"],\"notas\":\"Lema e acepções alinhadas com Lewis & Short, Whitaker e Lat→Deu; variante com macron incluída.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_9056-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_9056",
-    "page_num": 9056,
-    "lemmas": [
-      "ducenti",
-      "ducenti"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "Numeral distributivo ‘duzentos cada um; por duzentos’ (uso distributivo).",
-    "exemplos": [],
-    "notas": "Forma ducēnī (variant) atestada; rotulada como numerale (morphologia fora do vocabulário especializado). | [dedupe] redirect → chunk_9057:9057:1 | [dedupe] redirect → chunk_9057:9057:1",
-    "raw_text": "{\"id\":\"chunk_9056:9056:0\",\"lemas\":[\"duceni\",\"ducenti\"],\"lema_canonico\":\"ducenti\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Numeral distributivo ‘duzentos cada um; por duzentos’ (uso distributivo).\",\"aliases\":[],\"exemplos\":[\"Liv. 9, 19, 2\"],\"notas\":\"Forma ducēnī (variant) atestada; rotulada como numerale (morphologia fora do vocabulário especializado).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_9056:9056:0\",\"lemas\":[\"duceni\",\"ducenti\"],\"lema_canonico\":\"ducenti\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Numeral distributivo ‘duzentos cada um; por duzentos’ (uso distributivo).\",\"aliases\":[],\"exemplos\":[\"Liv. 9, 19, 2\"],\"notas\":\"Forma ducēnī (variant) atestada; rotulada como numerale (morphologia fora do vocabulário especializado).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"morph_out_of_vocab\"]}"
   },
   {
     "id": "chunk_9057-e1",
@@ -1562,28 +1342,6 @@
     "raw_json": "{\"id\":\"chunk_9064:9064:0\",\"lemas\":[\"ductus\"],\"lema_canonico\":\"ductus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"1) particípio perfeito passivo de ducō ('conduzido'); 2) substantivo m. (ductus, -ūs): condução, direção, liderança; linha, traçado, forma; comando, generalato.\",\"aliases\":[],\"exemplos\":[\"Cic. Off. 2, 4, 14\",\"Cic. Leg. 2, 1, 2\",\"Lucr. 4, 426\",\"Quint. 1, 1, 25\",\"Plin. 8, 3, 3\",\"Cic. Rep. 2, 6, 11\",\"Cic. de Imp. Pomp. 21\"],\"notas\":\"Mantida dupla natureza (particípio substantivado e substantivo de 4ª decl.). Baseada em LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_9065-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_9065",
-    "page_num": 9065,
-    "lemmas": [
-      "ductus",
-      "ductus"
-    ],
-    "morfologia": "s. masc. 4ª (-us)",
-    "morph_render": "s. masc. 4ª (-us)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "ação de conduzir; condução, liderança, direção; também traçado, forma, estilo; em sentido técnico: comando militar, governo, administração.",
-    "exemplos": [],
-    "notas": "Sentidos e exemplos harmonizados com Lewis & Short, Whitaker e Lat→Deu. | [dedupe] redirect → chunk_9064:9064:0 | [dedupe] redirect → chunk_9064:9064:0",
-    "raw_text": "{\"id\":\"chunk_9065:9065:0\",\"lemas\":[\"ductus\"],\"lema_canonico\":\"ductus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"ação de conduzir; condução, liderança, direção; também traçado, forma, estilo; em sentido técnico: comando militar, governo, administração.\",\"aliases\":[],\"exemplos\":[\"Frontin. De aquaeductibus (ductus aquarum)\",\"Cic. Off. 2, 14\",\"Cic. Rep. 2, 11\",\"Cic. Fin. 5, 17, 47\"],\"notas\":\"Sentidos e exemplos harmonizados com Lewis & Short, Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_9065:9065:0\",\"lemas\":[\"ductus\"],\"lema_canonico\":\"ductus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"ação de conduzir; condução, liderança, direção; também traçado, forma, estilo; em sentido técnico: comando militar, governo, administração.\",\"aliases\":[],\"exemplos\":[\"Frontin. De aquaeductibus (ductus aquarum)\",\"Cic. Off. 2, 14\",\"Cic. Rep. 2, 11\",\"Cic. Fin. 5, 17, 47\"],\"notas\":\"Sentidos e exemplos harmonizados com Lewis & Short, Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_9065-e2",
     "volume_id": "faria",
     "doc_name": "chunk_9065",
@@ -1648,28 +1406,6 @@
     "notas": "Equivalente registrado a bellum; forma atestada em fontes clássicas.",
     "raw_text": "{\"id\":\"chunk_9067:9067:0\",\"lemas\":[\"duellum\"],\"lema_canonico\":\"duellum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"guerra; combate; duelo (equivalente arcaico de bellum).\",\"aliases\":[],\"exemplos\":[\"Hor. O. 3, 5, 38\"],\"notas\":\"Equivalente registrado a bellum; forma atestada em fontes clássicas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_9067:9067:0\",\"lemas\":[\"duellum\"],\"lema_canonico\":\"duellum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"guerra; combate; duelo (equivalente arcaico de bellum).\",\"aliases\":[],\"exemplos\":[\"Hor. O. 3, 5, 38\"],\"notas\":\"Equivalente registrado a bellum; forma atestada em fontes clássicas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_9067-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_9067",
-    "page_num": 9067,
-    "lemmas": [
-      "Duillius",
-      "Duillius"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:low",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "Duílio, nome próprio masculino (cônsul romano, etc.).",
-    "exemplos": [],
-    "notas": "Variante Duillus attestada; escolha de lema canônico como Duillius. Morfologia de nome próprio fora do vocabulário padronizado. | [dedupe] redirect → chunk_9065:9065:1 | [dedupe] redirect → chunk_9065:9065:1",
-    "raw_text": "{\"id\":\"chunk_9067:9067:1\",\"lemas\":[\"Duillus\",\"Duillius\"],\"lema_canonico\":\"Duillius\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Duílio, nome próprio masculino (cônsul romano, etc.).\",\"aliases\":[],\"exemplos\":[\"Cic. Rep. 1, 21\",\"T. Liv. 1, 25\"],\"notas\":\"Variante Duillus attestada; escolha de lema canônico como Duillius. Morfologia de nome próprio fora do vocabulário padronizado.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"morph_out_of_vocab\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_9067:9067:1\",\"lemas\":[\"Duillus\",\"Duillius\"],\"lema_canonico\":\"Duillius\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Duílio, nome próprio masculino (cônsul romano, etc.).\",\"aliases\":[],\"exemplos\":[\"Cic. Rep. 1, 21\",\"T. Liv. 1, 25\"],\"notas\":\"Variante Duillus attestada; escolha de lema canônico como Duillius. Morfologia de nome próprio fora do vocabulário padronizado.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"morph_out_of_vocab\",\"needs_review\"]}"
   },
   {
     "id": "chunk_9067-e3",
@@ -2068,50 +1804,6 @@
     "raw_json": "{\"id\":\"chunk_9082:9082:0\",\"lemas\":[\"dumus\",\"dusmus\"],\"lema_canonico\":\"dumus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"espinheiro, sarça, moita; briar/thorn-bush\",\"aliases\":[],\"exemplos\":[\"Verg. G. 3, 315\",\"Cic. Tusc. 5, 23, 65\"],\"notas\":\"Variantia 'dusmus' atestada em LS; lema normalizado para dumus.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_ocr\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_9083-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_9083",
-    "page_num": 9083,
-    "lemmas": [
-      "dўnămis",
-      "dy̆nămis"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "(do gr. δύναμις) força, poder, potência; capacidade, influência; em contexto cristão, poder milagroso",
-    "exemplos": [],
-    "notas": "Entrada de origem grega confirmada em Lat→Deu como dynamis. | [dedupe] redirect → chunk_9139:9139:0 | [dedupe] redirect → chunk_9139:9139:0 | [ocr_fix 2025-08-17T19:47:43Z] match direto em Gaffiot por lemma/lemma_norm | lemma_in='dynamis' → 'dy̆nămis' | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='dy̆nămis' → 'dўnămis'",
-    "raw_text": "{\"id\":\"chunk_9083:9083:0\",\"lemas\":[\"dynamis\"],\"lema_canonico\":\"dynamis\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"(do gr. δύναμις) força, poder, potência; capacidade, influência; em contexto cristão, poder milagroso\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada de origem grega confirmada em Lat→Deu como dynamis.\",\"flags\":[\"src_latdeu\",\"src_ocr\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_9083:9083:0\",\"lemas\":[\"dynamis\"],\"lema_canonico\":\"dynamis\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"(do gr. δύναμις) força, poder, potência; capacidade, influência; em contexto cristão, poder milagroso\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada de origem grega confirmada em Lat→Deu como dynamis.\",\"flags\":[\"src_latdeu\",\"src_ocr\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_9084-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_9084",
-    "page_num": 9084,
-    "lemmas": [
-      "duo",
-      "duo"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "numeral cardinal 'dois' (formas: duo, duae; gen. arcaico duum).",
-    "exemplos": [],
-    "notas": "Classifiquei como 's. indecl.' por falta de etiqueta 'num.' no vocabulário; marquei morph_out_of_vocab. | [dedupe] redirect → chunk_7016:7016:5 | [dedupe] redirect → chunk_7016:7016:5",
-    "raw_text": "{\"id\":\"chunk_9084:9084:0\",\"lemas\":[\"duo\",\"duae\"],\"lema_canonico\":\"duo\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"numeral cardinal 'dois' (formas: duo, duae; gen. arcaico duum).\",\"aliases\":[],\"exemplos\":[\"Cic. Rep. 1, 15\"],\"notas\":\"Classifiquei como 's. indecl.' por falta de etiqueta 'num.' no vocabulário; marquei morph_out_of_vocab.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_9084:9084:0\",\"lemas\":[\"duo\",\"duae\"],\"lema_canonico\":\"duo\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"numeral cardinal 'dois' (formas: duo, duae; gen. arcaico duum).\",\"aliases\":[],\"exemplos\":[\"Cic. Rep. 1, 15\"],\"notas\":\"Classifiquei como 's. indecl.' por falta de etiqueta 'num.' no vocabulário; marquei morph_out_of_vocab.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}"
-  },
-  {
     "id": "chunk_9085-e1",
     "volume_id": "faria",
     "doc_name": "chunk_9085",
@@ -2198,28 +1890,6 @@
     "notas": "Entrada tratada como numeral distributivo; morfologia numeral fora do vocabulário alvo. | [ocr_fix 2025-08-17T19:57:37Z] match direto em Gaffiot por lemma/lemma_norm | lemma_in='duodēni' → 'dŭŏdēni'",
     "raw_text": "{\"id\":\"chunk_9088:9088:0\",\"lemas\":[\"duodēni\",\"duodeni\"],\"lema_canonico\":\"duodēni\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Numeral distributivo: 'doze cada/para cada; por dúzias'.\",\"aliases\":[],\"exemplos\":[\"Cic. Agr. 2, 85\",\"Apul. M. 3, 19\",\"Verg. G. 1, 233\",\"Plin. H. Nat. 3, 118\"],\"notas\":\"Entrada tratada como numeral distributivo; morfologia numeral fora do vocabulário alvo.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:med\",\"morph_out_of_vocab\"]}",
     "raw_json": "{\"id\":\"chunk_9088:9088:0\",\"lemas\":[\"duodēni\",\"duodeni\"],\"lema_canonico\":\"duodēni\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Numeral distributivo: 'doze cada/para cada; por dúzias'.\",\"aliases\":[],\"exemplos\":[\"Cic. Agr. 2, 85\",\"Apul. M. 3, 19\",\"Verg. G. 1, 233\",\"Plin. H. Nat. 3, 118\"],\"notas\":\"Entrada tratada como numeral distributivo; morfologia numeral fora do vocabulário alvo.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:med\",\"morph_out_of_vocab\"]}"
-  },
-  {
-    "id": "chunk_9088-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_9088",
-    "page_num": 9088,
-    "lemmas": [
-      "duodecim",
-      "duodecim"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "duodecim: numeral cardinal 'doze'. duodecimus: ordinal 'décimo segundo'. duodeni: distributivo 'doze cada/para cada'.",
-    "exemplos": [],
-    "notas": "Agrupamento normalizado a partir de Whitaker e LS; formas numerais marcadas como fora do vocabulário morfológico padrão. | [dedupe] redirect → chunk_9086:9086:0 | [dedupe] redirect → chunk_9086:9086:0",
-    "raw_text": "{\"id\":\"chunk_9088:9088:1\",\"lemas\":[\"duodecim\",\"duodecimus\",\"duodeni\"],\"lema_canonico\":\"duodecim\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"duodecim: numeral cardinal 'doze'. duodecimus: ordinal 'décimo segundo'. duodeni: distributivo 'doze cada/para cada'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Agrupamento normalizado a partir de Whitaker e LS; formas numerais marcadas como fora do vocabulário morfológico padrão.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_9088:9088:1\",\"lemas\":[\"duodecim\",\"duodecimus\",\"duodeni\"],\"lema_canonico\":\"duodecim\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"duodecim: numeral cardinal 'doze'. duodecimus: ordinal 'décimo segundo'. duodeni: distributivo 'doze cada/para cada'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Agrupamento normalizado a partir de Whitaker e LS; formas numerais marcadas como fora do vocabulário morfológico padrão.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\",\"morph_out_of_vocab\"]}"
   },
   {
     "id": "chunk_9089-e1",
@@ -2354,28 +2024,6 @@
     "raw_json": "{\"id\":\"chunk_9093:9093:2\",\"lemas\":[\"duodetricenis\",\"duodetrigenis\",\"duodetrigena\"],\"lema_canonico\":\"duodetricenis\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"‘vinte e oito vezes’, advérbio distributivo/múltiplo; usado com valor ‘por 28, em grupos de 28’ (Cic. Verr. 3, 163).\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 3, 163\"],\"notas\":\"Normalizado para forma sem macrons; admitidas variantes distributivas; alinhado com Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_9093-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_9093",
-    "page_num": 9093,
-    "lemmas": [
-      "duodetricenis",
-      "duodetricenis"
-    ],
-    "morfologia": "adv.",
-    "morph_render": "adv.",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "twenty-eight times; by twenty-eights, twenty-eightfold (distributive/adverbial)",
-    "exemplos": [],
-    "notas": "Forma advérbial attestada em fontes; padronizado desde var. OCR. | [dedupe] redirect → chunk_9093:9093:2 | [dedupe] redirect → chunk_9093:9093:2",
-    "raw_text": "{\"id\":\"chunk_9093:9093:0\",\"lemas\":[\"duodetricenis\"],\"lema_canonico\":\"duodetricenis\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"twenty-eight times; by twenty-eights, twenty-eightfold (distributive/adverbial)\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 3, 163\"],\"notas\":\"Forma advérbial attestada em fontes; padronizado desde var. OCR.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_9093:9093:0\",\"lemas\":[\"duodetricenis\"],\"lema_canonico\":\"duodetricenis\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"twenty-eight times; by twenty-eights, twenty-eightfold (distributive/adverbial)\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 3, 163\"],\"notas\":\"Forma advérbial attestada em fontes; padronizado desde var. OCR.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_9093-e3",
     "volume_id": "faria",
     "doc_name": "chunk_9093",
@@ -2396,28 +2044,6 @@
     "notas": "Agrupadas conforme Whitaker; formas são variantes raras/postclássicas. | [ocr_fix 2025-08-17T19:53:33Z] match direto em Gaffiot por lemma/lemma_norm | lemma_in='duodetriginta' → 'dŭŏdētrīgintā'",
     "raw_text": "{\"id\":\"chunk_9093:9093:1\",\"lemas\":[\"duodetriginta\",\"duodetricesimus\",\"duodetriceni\",\"duodetricie\"],\"lema_canonico\":\"duodetriginta\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"group of related forms expressing 28 (cardinal duodetriginta), 28th (duodetricesimus), and rarer distributive/partitive forms (duodetriceni, duodetricie)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Agrupadas conforme Whitaker; formas são variantes raras/postclássicas.\",\"flags\":[\"src_whitaker\",\"conf:med\",\"morph_out_of_vocab\"]}",
     "raw_json": "{\"id\":\"chunk_9093:9093:1\",\"lemas\":[\"duodetriginta\",\"duodetricesimus\",\"duodetriceni\",\"duodetricie\"],\"lema_canonico\":\"duodetriginta\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"group of related forms expressing 28 (cardinal duodetriginta), 28th (duodetricesimus), and rarer distributive/partitive forms (duodetriceni, duodetricie)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Agrupadas conforme Whitaker; formas são variantes raras/postclássicas.\",\"flags\":[\"src_whitaker\",\"conf:med\",\"morph_out_of_vocab\"]}"
-  },
-  {
-    "id": "chunk_9094-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_9094",
-    "page_num": 9094,
-    "lemmas": [
-      "dŭŏdētrīgintā",
-      "dŭŏdētrīgintā"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "vinte e oito",
-    "exemplos": [],
-    "notas": "Normalizada grafia sem macrons; Whitaker registra a forma e variantes ordinais/coletivas. | [dedupe] redirect → chunk_9093:9093:1 | [dedupe] redirect → chunk_9093:9093:1 | [ocr_fix 2025-08-17T19:47:41Z] match direto em Gaffiot por lemma/lemma_norm | lemma_in='duodetriginta' → 'dŭŏdētrīgintā'",
-    "raw_text": "{\"id\":\"chunk_9094:9094:0\",\"lemas\":[\"duodetriginta\",\"duodētrīgintā\"],\"lema_canonico\":\"duodetriginta\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"vinte e oito\",\"aliases\":[],\"exemplos\":[\"T. Liv. 33, 34, 10\"],\"notas\":\"Normalizada grafia sem macrons; Whitaker registra a forma e variantes ordinais/coletivas.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_9094:9094:0\",\"lemas\":[\"duodetriginta\",\"duodētrīgintā\"],\"lema_canonico\":\"duodetriginta\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"vinte e oito\",\"aliases\":[],\"exemplos\":[\"T. Liv. 33, 34, 10\"],\"notas\":\"Normalizada grafia sem macrons; Whitaker registra a forma e variantes ordinais/coletivas.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}"
   },
   {
     "id": "chunk_9095-e1",
@@ -2682,28 +2308,6 @@
     "notas": "",
     "raw_text": "{\"id\":\"chunk_9106:9106:0\",\"lemas\":[\"duplum\"],\"lema_canonico\":\"duplum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"o dobro; o duplo\",\"aliases\":[],\"exemplos\":[\"Cic. Or. 3, 65\"],\"notas\":\"\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_9106:9106:0\",\"lemas\":[\"duplum\"],\"lema_canonico\":\"duplum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"o dobro; o duplo\",\"aliases\":[],\"exemplos\":[\"Cic. Or. 3, 65\"],\"notas\":\"\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_9107-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_9107",
-    "page_num": 9107,
-    "lemmas": [
-      "duplus",
-      "duplus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "duplo, dobrado; duas vezes tanto",
-    "exemplos": [],
-    "notas": "Formas nominativas masc./fem./neut. incluídas; significado confirmado por Whitaker e Lat→Deu. | [dedupe] redirect → chunk_9099:9099:0 | [dedupe] redirect → chunk_9099:9099:0",
-    "raw_text": "{\"id\":\"chunk_9107:9107:0\",\"lemas\":[\"duplus\",\"dupla\",\"duplum\"],\"lema_canonico\":\"duplus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"duplo, dobrado; duas vezes tanto\",\"aliases\":[],\"exemplos\":[\"T. Liv. 29, 19\"],\"notas\":\"Formas nominativas masc./fem./neut. incluídas; significado confirmado por Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_9107:9107:0\",\"lemas\":[\"duplus\",\"dupla\",\"duplum\"],\"lema_canonico\":\"duplus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"duplo, dobrado; duas vezes tanto\",\"aliases\":[],\"exemplos\":[\"T. Liv. 29, 19\"],\"notas\":\"Formas nominativas masc./fem./neut. incluídas; significado confirmado por Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_9108-e1",
@@ -3124,28 +2728,6 @@
     "raw_json": "{\"id\":\"chunk_9126:9126:0\",\"lemas\":[\"Duronius\"],\"lema_canonico\":\"Duronius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"nome próprio romano (masculino)\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 2, 274\"],\"notas\":\"Atestado em Lewis & Short; forma estabilizada para lema.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_9127-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_9127",
-    "page_num": 9127,
-    "lemmas": [
-      "dūrrăchi",
-      "dūrrăchi"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:low",
-    "needs_review": 1,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada funciona como remissiva (vide Dyrrach-); conservar como redirect.",
-    "raw_text": "{\"id\":\"chunk_9127:9127:0\",\"lemas\":[\"dūrrăchi\"],\"lema_canonico\":\"dūrrăchi\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Dyrrach-\"],\"exemplos\":[],\"notas\":\"Entrada funciona como remissiva (vide Dyrrach-); conservar como redirect.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"redirect_only\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_9127:9127:0\",\"lemas\":[\"dūrrăchi\"],\"lema_canonico\":\"dūrrăchi\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Dyrrach-\"],\"exemplos\":[],\"notas\":\"Entrada funciona como remissiva (vide Dyrrach-); conservar como redirect.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"redirect_only\",\"needs_review\"]}"
-  },
-  {
     "id": "chunk_9128-e1",
     "volume_id": "faria",
     "doc_name": "chunk_9128",
@@ -3168,28 +2750,6 @@
     "raw_json": "{\"id\":\"chunk_9128:9128:0\",\"lemas\":[\"durus\",\"dūrus\"],\"lema_canonico\":\"durus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Duro; em sentido literal (rígido, áspero) e figurado (severo, insensível, difícil).\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 1, 28\",\"Verg. G. 4, 102\",\"Cic. Arch. 17\",\"Cic. Quint. 77\",\"Quint. 8, 6, 62\",\"Cic. Tusc. 1, 102\",\"Cic. Rep. 1, 68\"],\"notas\":\"Corrigi OCR e normalizei grafia conforme LS/Whitaker; mantive exemplos clássicos.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_9129-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_9129",
-    "page_num": 9129,
-    "lemmas": [
-      "duo",
-      "duo"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "Numeral 'dois'; 'duum' forma variante/contraída atestada como genitivo plural ou forma numeral arch. Veja 'duo'.",
-    "exemplos": [],
-    "notas": "Mantida relação com 'duo'; forma 'duum' confirmada em Whitaker/Lat→Deu como variante. | [dedupe] redirect → chunk_7016:7016:5 | [dedupe] redirect → chunk_7016:7016:5",
-    "raw_text": "{\"id\":\"chunk_9129:9129:0\",\"lemas\":[\"duo\",\"duum\"],\"lema_canonico\":\"duo\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Numeral 'dois'; 'duum' forma variante/contraída atestada como genitivo plural ou forma numeral arch. Veja 'duo'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Mantida relação com 'duo'; forma 'duum' confirmada em Whitaker/Lat→Deu como variante.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_9129:9129:0\",\"lemas\":[\"duo\",\"duum\"],\"lema_canonico\":\"duo\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Numeral 'dois'; 'duum' forma variante/contraída atestada como genitivo plural ou forma numeral arch. Veja 'duo'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Mantida relação com 'duo'; forma 'duum' confirmada em Whitaker/Lat→Deu como variante.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"morph_out_of_vocab\"]}"
-  },
-  {
     "id": "chunk_9130-e1",
     "volume_id": "faria",
     "doc_name": "chunk_9130",
@@ -3210,50 +2770,6 @@
     "notas": "Grafia normalizada a partir do OCR; suportado por Whitaker e Lewis & Short.",
     "raw_text": "{\"id\":\"chunk_9130:9130:0\",\"lemas\":[\"duumvir\",\"duumviri\"],\"lema_canonico\":\"duumvir\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"magistrado membro de um colegiado de dois (frequentemente usado no plural para o colégio); comissão de dois para tarefas públicas.\",\"aliases\":[],\"exemplos\":[\"Cic. Pis. 25\"],\"notas\":\"Grafia normalizada a partir do OCR; suportado por Whitaker e Lewis & Short.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_9130:9130:0\",\"lemas\":[\"duumvir\",\"duumviri\"],\"lema_canonico\":\"duumvir\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"magistrado membro de um colegiado de dois (frequentemente usado no plural para o colégio); comissão de dois para tarefas públicas.\",\"aliases\":[],\"exemplos\":[\"Cic. Pis. 25\"],\"notas\":\"Grafia normalizada a partir do OCR; suportado por Whitaker e Lewis & Short.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_9131-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_9131",
-    "page_num": 9131,
-    "lemmas": [
-      "Dorso",
-      "Dorso"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "nomen gentile romano; sobrenome (Duvius).",
-    "exemplos": [],
-    "notas": "Entrada de nome próprio confirmada pela passagem citada; mantida forma clássica.\n[ocr_pipeline 2025-08-16T23:11:51.259641Z] lemma_in='Duvius' → 'Dorso' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:07:12Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='Dorso' → 'Dorso' | [dedupe] redirect → chunk_9000:9000:0 | [dedupe] redirect → chunk_9000:9000:0",
-    "raw_text": "{\"id\":\"chunk_9131:9131:0\",\"lemas\":[\"Duvius\"],\"lema_canonico\":\"Duvius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"nomen gentile romano; sobrenome (Duvius).\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 34, 47\"],\"notas\":\"Entrada de nome próprio confirmada pela passagem citada; mantida forma clássica.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}",
-    "raw_json": "{\"id\":\"chunk_9131:9131:0\",\"lemas\":[\"Duvius\"],\"lema_canonico\":\"Duvius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"nomen gentile romano; sobrenome (Duvius).\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 34, 47\"],\"notas\":\"Entrada de nome próprio confirmada pela passagem citada; mantida forma clássica.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}"
-  },
-  {
-    "id": "chunk_9132-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_9132",
-    "page_num": 9132,
-    "lemmas": [
-      "dux",
-      "dux"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Guia, condutor; chefe, general; por extensão, inspirador, autor, conselheiro.",
-    "exemplos": [],
-    "notas": "Forma e acepções confirmadas por Lewis & Short e Whitaker; gênero m/f preservado no sentido contextual. | [dedupe] redirect → chunk_16564:16564:1 | [dedupe] redirect → chunk_16564:16564:1",
-    "raw_text": "{\"id\":\"chunk_9132:9132:0\",\"lemas\":[\"dux\"],\"lema_canonico\":\"dux\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Guia, condutor; chefe, general; por extensão, inspirador, autor, conselheiro.\",\"aliases\":[],\"exemplos\":[\"Cic. Off. 1, 23\",\"Cic. Gal. 1, 13, 2\",\"Tib. 1, 10, 10\",\"Cic. Mil. 39\"],\"notas\":\"Forma e acepções confirmadas por Lewis & Short e Whitaker; gênero m/f preservado no sentido contextual.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_9132:9132:0\",\"lemas\":[\"dux\"],\"lema_canonico\":\"dux\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Guia, condutor; chefe, general; por extensão, inspirador, autor, conselheiro.\",\"aliases\":[],\"exemplos\":[\"Cic. Off. 1, 23\",\"Cic. Gal. 1, 13, 2\",\"Tib. 1, 10, 10\",\"Cic. Mil. 39\"],\"notas\":\"Forma e acepções confirmadas por Lewis & Short e Whitaker; gênero m/f preservado no sentido contextual.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_9133-e1",
@@ -3564,28 +3080,6 @@
     "raw_json": "{\"id\":\"chunk_9144:9144:0\",\"lemas\":[\"Dyrrachini\"],\"lema_canonico\":\"Dyrrachini\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"habitantes de Dyrrachium (Dyrráquio).\",\"aliases\":[],\"exemplos\":[\"Cic. Prov. 5\"],\"notas\":\"Forma plural gentilícia retida da primeira passada; lemmatisation singular não confirmada em dicionários padrão.\",\"flags\":[\"src_firstpass\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_9145-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_9145",
-    "page_num": 9145,
-    "lemmas": [
-      "dispar",
-      "dispar"
-    ],
-    "morfologia": "adj. (3) 1T",
-    "morph_render": "adj. (3) 1T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Desigual, diverso, não igual; disparate, unlike.",
-    "exemplos": [],
-    "notas": "Inclui variantes atestadas (disparis gen.; disparide adv./var.). | [dedupe] redirect → chunk_8706:8706:0 | [dedupe] redirect → chunk_8706:8706:0",
-    "raw_text": "{\"id\":\"chunk_9145:9145:0\",\"lemas\":[\"dispar\",\"disparis\",\"disparide\"],\"lema_canonico\":\"dispar\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[],\"definicao\":\"Desigual, diverso, não igual; disparate, unlike.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Inclui variantes atestadas (disparis gen.; disparide adv./var.).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_9145:9145:0\",\"lemas\":[\"dispar\",\"disparis\",\"disparide\"],\"lema_canonico\":\"dispar\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[],\"definicao\":\"Desigual, diverso, não igual; disparate, unlike.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Inclui variantes atestadas (disparis gen.; disparide adv./var.).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_9146-e1",
     "volume_id": "faria",
     "doc_name": "chunk_9146",
@@ -3606,28 +3100,6 @@
     "notas": "Entrada preservada; definida com base em Lewis & Short e no material do primeiro processamento. | [ocr_fix 2025-08-17T19:57:34Z] match direto em LS por lemma/lemma_norm | lemma_in='e' → 'E'",
     "raw_text": "{\"id\":\"chunk_9146:9146:0\",\"lemas\":[\"e\"],\"lema_canonico\":\"e\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Nome da vogal e do caráter 'e' no latim clássico; corresponde às vogais gregas ε/η; variações fonéticas e uso abreviativo em manuscritos.\",\"aliases\":[],\"exemplos\":[\"Ter. Maur. p. 2386 P.\",\"Aus. Idyll. de Litter. Monos. 3\",\"Mart. Cap. 3, § 235\"],\"notas\":\"Entrada preservada; definida com base em Lewis & Short e no material do primeiro processamento.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"src_ocr\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_9146:9146:0\",\"lemas\":[\"e\"],\"lema_canonico\":\"e\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Nome da vogal e do caráter 'e' no latim clássico; corresponde às vogais gregas ε/η; variações fonéticas e uso abreviativo em manuscritos.\",\"aliases\":[],\"exemplos\":[\"Ter. Maur. p. 2386 P.\",\"Aus. Idyll. de Litter. Monos. 3\",\"Mart. Cap. 3, § 235\"],\"notas\":\"Entrada preservada; definida com base em Lewis & Short e no material do primeiro processamento.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"src_ocr\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_9147-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_9147",
-    "page_num": 9147,
-    "lemmas": [
-      "E",
-      "E"
-    ],
-    "morfologia": "prep. com abl.",
-    "morph_render": "prep. com abl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Preposição regendo o ablativo: de, fora de, a partir de, por causa de, segundo; variante de ex antes de consoante.",
-    "exemplos": [],
-    "notas": "Confirmação como prep. com Whitaker; forma também aparece como letra em LS. | [dedupe] redirect → chunk_17879:17879:0 | [dedupe] redirect → chunk_17879:17879:0 | [ocr_fix 2025-08-17T19:47:44Z] match direto em LS por lemma/lemma_norm | lemma_in='e' → 'E'",
-    "raw_text": "{\"id\":\"chunk_9147:9147:0\",\"lemas\":[\"e\"],\"lema_canonico\":\"e\",\"morfologia\":\"prep. com abl.\",\"morph_extra\":[],\"definicao\":\"Preposição regendo o ablativo: de, fora de, a partir de, por causa de, segundo; variante de ex antes de consoante.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Confirmação como prep. com Whitaker; forma também aparece como letra em LS.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_9147:9147:0\",\"lemas\":[\"e\"],\"lema_canonico\":\"e\",\"morfologia\":\"prep. com abl.\",\"morph_extra\":[],\"definicao\":\"Preposição regendo o ablativo: de, fora de, a partir de, por causa de, segundo; variante de ex antes de consoante.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Confirmação como prep. com Whitaker; forma também aparece como letra em LS.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
     "id": "chunk_9148-e1",
@@ -3694,28 +3166,6 @@
     "notas": "Atestado como adv. e como forma pronominal; documentação em LS e Whitaker.",
     "raw_text": "{\"id\":\"chunk_9150:9150:0\",\"lemas\":[\"eādem\"],\"lema_canonico\":\"eādem\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"pelo mesmo caminho; do mesmo modo; ao mesmo tempo; também usado em locuções repetitivas (eadem... eadem = ora... ora...).\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 1, 123\",\"Plaut. Poen. 677\",\"Plaut. Capt. 293\",\"Plaut. Bac. 49\"],\"notas\":\"Atestado como adv. e como forma pronominal; documentação em LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_9150:9150:0\",\"lemas\":[\"eādem\"],\"lema_canonico\":\"eādem\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"pelo mesmo caminho; do mesmo modo; ao mesmo tempo; também usado em locuções repetitivas (eadem... eadem = ora... ora...).\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 1, 123\",\"Plaut. Poen. 677\",\"Plaut. Capt. 293\",\"Plaut. Bac. 49\"],\"notas\":\"Atestado como adv. e como forma pronominal; documentação em LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_9151-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_9151",
-    "page_num": 9151,
-    "lemmas": [
-      "eadem",
-      "eadem"
-    ],
-    "morfologia": "adv.",
-    "morph_render": "adv.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "Pron./adv.: 'a mesma' (f. s. n.), 'o mesmo'/'os mesmos' (neutro pl.), também 'da mesma maneira', 'ao mesmo tempo'.",
-    "exemplos": [],
-    "notas": "Forma eādem tratada como pronome e advérbio; entradas confirmadas em Lewis & Short e Whitaker. | [dedupe] redirect → chunk_9150:9150:0 | [dedupe] redirect → chunk_9150:9150:0",
-    "raw_text": "{\"id\":\"chunk_9151:9151:0\",\"lemas\":[\"eadem\"],\"lema_canonico\":\"eadem\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"Pron./adv.: 'a mesma' (f. s. n.), 'o mesmo'/'os mesmos' (neutro pl.), também 'da mesma maneira', 'ao mesmo tempo'.\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 1, 54, 123\",\"Liv. 5, 46, 3\",\"Plaut. Trin. 2, 4, 180\"],\"notas\":\"Forma eādem tratada como pronome e advérbio; entradas confirmadas em Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_9151:9151:0\",\"lemas\":[\"eadem\"],\"lema_canonico\":\"eadem\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"Pron./adv.: 'a mesma' (f. s. n.), 'o mesmo'/'os mesmos' (neutro pl.), também 'da mesma maneira', 'ao mesmo tempo'.\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 1, 54, 123\",\"Liv. 5, 46, 3\",\"Plaut. Trin. 2, 4, 180\"],\"notas\":\"Forma eādem tratada como pronome e advérbio; entradas confirmadas em Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}"
   },
   {
     "id": "chunk_9152-e1",
@@ -3826,28 +3276,6 @@
     "notas": "Unificadas formas com e sem marca de longa; grafia preferida sem diacríticos. | [ocr_fix 2025-08-17T19:53:32Z] match direto em Gaffiot por lemma/lemma_norm | lemma_in='eatenus' → 'ĕātĕnus'",
     "raw_text": "{\"id\":\"chunk_9155:9155:0\",\"lemas\":[\"eatenus\",\"eātenus\"],\"lema_canonico\":\"eatenus\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"até aí, até aquele ponto; até tanto tempo; até tal grau\",\"aliases\":[],\"exemplos\":[\"Cic. Leg. 1, 140\"],\"notas\":\"Unificadas formas com e sem marca de longa; grafia preferida sem diacríticos.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_9155:9155:0\",\"lemas\":[\"eatenus\",\"eātenus\"],\"lema_canonico\":\"eatenus\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"até aí, até aquele ponto; até tanto tempo; até tal grau\",\"aliases\":[],\"exemplos\":[\"Cic. Leg. 1, 140\"],\"notas\":\"Unificadas formas com e sem marca de longa; grafia preferida sem diacríticos.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_9156-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_9156",
-    "page_num": 9156,
-    "lemmas": [
-      "ĕbĕnus",
-      "ĕbĕnus"
-    ],
-    "morfologia": "s. 3ª (-is)",
-    "morph_render": "s. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "madeira de ébano; (por extensão) árvore do ébano.",
-    "exemplos": [],
-    "notas": "Formas e gênero variam entre fontes (Whitaker registra ebenum n.; Lat→Deu e LS trazem variantes); marcado para revisão.\n[ocr_pipeline 2025-08-16T23:11:50.831943Z] lemma_in='ebenus' → 'ĕbĕnus' | motivo: match direto em LS por lemma/lemma_norm | [ocr_fix 2025-08-17T01:07:11Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='ĕbĕnus' → 'ĕbĕnus' | [dedupe] redirect → chunk_9157:9157:0 | [dedupe] redirect → chunk_9157:9157:0",
-    "raw_text": "{\"id\":\"chunk_9156:9156:0\",\"lemas\":[\"ebenus\",\"ebenum\"],\"lema_canonico\":\"ebenus\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"madeira de ébano; (por extensão) árvore do ébano.\",\"aliases\":[],\"exemplos\":[\"Verg. G. 2, 117\"],\"notas\":\"Formas e gênero variam entre fontes (Whitaker registra ebenum n.; Lat→Deu e LS trazem variantes); marcado para revisão.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"src_latdeu\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_9156:9156:0\",\"lemas\":[\"ebenus\",\"ebenum\"],\"lema_canonico\":\"ebenus\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"madeira de ébano; (por extensão) árvore do ébano.\",\"aliases\":[],\"exemplos\":[\"Verg. G. 2, 117\"],\"notas\":\"Formas e gênero variam entre fontes (Whitaker registra ebenum n.; Lat→Deu e LS trazem variantes); marcado para revisão.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"src_latdeu\",\"conf:low\",\"needs_review\"]}"
   },
   {
     "id": "chunk_9157-e1",
@@ -4004,28 +3432,6 @@
     "raw_json": "{\"id\":\"chunk_9163:9163:0\",\"lemas\":[\"Eboracum\",\"Eborācum\",\"Eboraco\"],\"lema_canonico\":\"Eboracum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Capital dos Brigantes na Bretanha; a cidade romana Eboracum = York (Inglaterra).\",\"aliases\":[],\"exemplos\":[\"Eutr. 8, 19\"],\"notas\":\"Normalizei lema e declinação segundo LS/Whitaker; mantido macron como variante.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_9164-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_9164",
-    "page_num": 9164,
-    "lemmas": [
-      "Ebŭsĭa",
-      "Ebŭsĭa"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 1,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada é redirecionamento (v. Ebusia) conforme OCR; Whitaker marca 'Ebosia' como desconhecido. | [ocr_fix 2025-08-17T18:24:58Z] match direto em Gaffiot por lemma/lemma_norm | lemma_in='Ebusia' → 'Ebŭsĭa' | [ocr_fix 2025-08-17T19:47:45Z] match direto em Gaffiot por lemma/lemma_norm | lemma_in='Ebŭsĭa' → 'Ebŭsĭa'",
-    "raw_text": "{\"id\":\"chunk_9164:9164:0\",\"lemas\":[\"Ebusia\",\"Ebosia\"],\"lema_canonico\":\"Ebusia\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Ebusia\"],\"exemplos\":[],\"notas\":\"Entrada é redirecionamento (v. Ebusia) conforme OCR; Whitaker marca 'Ebosia' como desconhecido.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"redirect_only\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_9164:9164:0\",\"lemas\":[\"Ebusia\",\"Ebosia\"],\"lema_canonico\":\"Ebusia\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Ebusia\"],\"exemplos\":[],\"notas\":\"Entrada é redirecionamento (v. Ebusia) conforme OCR; Whitaker marca 'Ebosia' como desconhecido.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"redirect_only\",\"needs_review\"]}"
-  },
-  {
     "id": "chunk_9165-e1",
     "volume_id": "faria",
     "doc_name": "chunk_9165",
@@ -4090,28 +3496,6 @@
     "notas": "Forma e sentidos confirmados em Lewis & Short e Whitaker; substantivo atestado em LS.",
     "raw_text": "{\"id\":\"chunk_9167:9167:0\",\"lemas\":[\"ēbriōsus\",\"ebriosus\",\"ebriŏsus\"],\"lema_canonico\":\"ebriosus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"dado ao vinho; entregue à embriaguez; também ‘sucooso, suculento’ no uso figurado. Substantivo: ēbriōsus, -ī, m., um bêbado.\",\"aliases\":[],\"exemplos\":[\"Cic. Fat. 5, 10\",\"Catul. 27, 4\",\"Cic. Ac. 2, 17, 53\",\"Plin. Nat. 30, 15, §145\"],\"notas\":\"Forma e sentidos confirmados em Lewis & Short e Whitaker; substantivo atestado em LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_9167:9167:0\",\"lemas\":[\"ēbriōsus\",\"ebriosus\",\"ebriŏsus\"],\"lema_canonico\":\"ebriosus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"dado ao vinho; entregue à embriaguez; também ‘sucooso, suculento’ no uso figurado. Substantivo: ēbriōsus, -ī, m., um bêbado.\",\"aliases\":[],\"exemplos\":[\"Cic. Fat. 5, 10\",\"Catul. 27, 4\",\"Cic. Ac. 2, 17, 53\",\"Plin. Nat. 30, 15, §145\"],\"notas\":\"Forma e sentidos confirmados em Lewis & Short e Whitaker; substantivo atestado em LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_9168-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_9168",
-    "page_num": 9168,
-    "lemmas": [
-      "ebriosus",
-      "ebriosus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "given to drinking; addicted to drunkenness; also used substantively for a drunkard",
-    "exemplos": [],
-    "notas": "substantivized sense attested (ēbrĭōsus, -ī, m.) | [dedupe] redirect → chunk_9167:9167:0 | [dedupe] redirect → chunk_9167:9167:0",
-    "raw_text": "{\"id\":\"chunk_9168:9168:0\",\"lemas\":[\"ebriosus\",\"ēbrĭōsus\"],\"lema_canonico\":\"ebriosus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"given to drinking; addicted to drunkenness; also used substantively for a drunkard\",\"aliases\":[],\"exemplos\":[\"Cic. Ac. 2, 17, 53\"],\"notas\":\"substantivized sense attested (ēbrĭōsus, -ī, m.)\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_9168:9168:0\",\"lemas\":[\"ebriosus\",\"ēbrĭōsus\"],\"lema_canonico\":\"ebriosus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"given to drinking; addicted to drunkenness; also used substantively for a drunkard\",\"aliases\":[],\"exemplos\":[\"Cic. Ac. 2, 17, 53\"],\"notas\":\"substantivized sense attested (ēbrĭōsus, -ī, m.)\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_9169-e1",
@@ -4246,50 +3630,6 @@
     "raw_json": "{\"id\":\"chunk_9174:9174:0\",\"lemas\":[\"eburneus\",\"ĕburnĕus\",\"eburne-us\"],\"lema_canonico\":\"eburneus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo ao marfim; de cor de marfim; branco como marfim.\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 3, 225\",\"Ov. Met. 4, 354\"],\"notas\":\"Formas e sentidos atestados em Lewis & Short e Whitaker; variantes gráficas (ebur-nus etc.) observadas em autores poéticos.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_9175-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_9175",
-    "page_num": 9175,
-    "lemmas": [
-      "eburneus",
-      "eburneus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "of ivory; ivory-colored; (by synecdoche) relating to elephants/ivory material",
-    "exemplos": [],
-    "notas": "[dedupe] redirect → chunk_9174:9174:0 | [dedupe] redirect → chunk_9174:9174:0",
-    "raw_text": "{\"id\":\"chunk_9175:9175:0\",\"lemas\":[\"eburneus\",\"eburnus\"],\"lema_canonico\":\"eburneus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"of ivory; ivory-colored; (by synecdoche) relating to elephants/ivory material\",\"aliases\":[],\"exemplos\":[\"Verg. En. 11, 111\",\"Liv. 37, 59, 3\",\"Ov. Am. 3, 7, 7\"],\"notas\":\"\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_9175:9175:0\",\"lemas\":[\"eburneus\",\"eburnus\"],\"lema_canonico\":\"eburneus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"of ivory; ivory-colored; (by synecdoche) relating to elephants/ivory material\",\"aliases\":[],\"exemplos\":[\"Verg. En. 11, 111\",\"Liv. 37, 59, 3\",\"Ov. Am. 3, 7, 7\"],\"notas\":\"\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_9176-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_9176",
-    "page_num": 9176,
-    "lemmas": [
-      "Eburōnes",
-      "Eburones"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "a people of Gallia Belgica (Eburones), dwelling between the Meuse and the Rhine, attested in Caesar and other authors",
-    "exemplos": [],
-    "notas": "Grafia com macron registrada em LS; plural and ethnonym normalized. | [dedupe] redirect → chunk_9177:9177:0 | [dedupe] redirect → chunk_9177:9177:0 | [ocr_fix 2025-08-20T01:03:57Z] Correção automática de lema via LS | lemma_in='Eburones' → 'Eburōnes'",
-    "raw_text": "{\"id\":\"chunk_9176:9176:0\",\"lemas\":[\"Eburones\",\"Eburōnes\"],\"lema_canonico\":\"Eburones\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"a people of Gallia Belgica (Eburones), dwelling between the Meuse and the Rhine, attested in Caesar and other authors\",\"aliases\":[],\"exemplos\":[\"Caes. B. G. 2, 4\",\"Caes. B. G. 4, 6\",\"Caes. B. G. 5, 24\",\"Caes. B. G. 6, 31\",\"Oros. 6, 7\"],\"notas\":\"Grafia com macron registrada em LS; plural and ethnonym normalized.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_9176:9176:0\",\"lemas\":[\"Eburones\",\"Eburōnes\"],\"lema_canonico\":\"Eburones\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"a people of Gallia Belgica (Eburones), dwelling between the Meuse and the Rhine, attested in Caesar and other authors\",\"aliases\":[],\"exemplos\":[\"Caes. B. G. 2, 4\",\"Caes. B. G. 4, 6\",\"Caes. B. G. 5, 24\",\"Caes. B. G. 6, 31\",\"Oros. 6, 7\"],\"notas\":\"Grafia com macron registrada em LS; plural and ethnonym normalized.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_9177-e1",
     "volume_id": "faria",
     "doc_name": "chunk_9177",
@@ -4312,28 +3652,6 @@
     "raw_json": "{\"id\":\"chunk_9177:9177:0\",\"lemas\":[\"Eburōnes\",\"Eburones\"],\"lema_canonico\":\"Eburōnes\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"tribo/gentilidade da Gália Bélgica (plur.), mencionada por César\",\"aliases\":[],\"exemplos\":[\"Cæs. B. G. 2, 4\",\"Cæs. B. G. 4, 6\",\"Cæs. B. G. 5, 24\",\"Cæs. B. G. 6, 31\",\"Oros. 6, 7\"],\"notas\":\"Grafia com macron conforme Lewis & Short; forma preservada como plural tribal.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_firstpass\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_9178-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_9178",
-    "page_num": 9178,
-    "lemmas": [
-      "Ebŭsus",
-      "Ebŭsus"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "island (Ebusus / Ebusa) — modern Ibiza (attested as island name)",
-    "exemplos": [],
-    "notas": "Forma Ebusus attested in sources; morphology uncertain in provided data — entry retained from first pass pending verification.\n[ocr_pipeline 2025-08-16T23:24:44.700707Z] lemma_in='Ebusus' → 'Ebŭsus' | motivo: match direto em LS por lemma/lemma_norm | [ocr_fix 2025-08-17T01:24:29Z] match direto em LS por lemma/lemma_norm | lemma_in='Ebŭsus' → 'Ebŭsus' | [dedupe] redirect → chunk_9179:9179:0 | [dedupe] redirect → chunk_9179:9179:0",
-    "raw_text": "{\"id\":\"chunk_9178:9178:0\",\"lemas\":[\"Ebusa\",\"Ebusus\"],\"lema_canonico\":\"Ebusus\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"island (Ebusus / Ebusa) — modern Ibiza (attested as island name)\",\"aliases\":[],\"exemplos\":[\"Súttie. S. 1, 6, 15\"],\"notas\":\"Forma Ebusus attested in sources; morphology uncertain in provided data — entry retained from first pass pending verification.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_9178:9178:0\",\"lemas\":[\"Ebusa\",\"Ebusus\"],\"lema_canonico\":\"Ebusus\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"island (Ebusus / Ebusa) — modern Ibiza (attested as island name)\",\"aliases\":[],\"exemplos\":[\"Súttie. S. 1, 6, 15\"],\"notas\":\"Forma Ebusus attested in sources; morphology uncertain in provided data — entry retained from first pass pending verification.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
     "id": "chunk_9179-e1",
     "volume_id": "faria",
     "doc_name": "chunk_9179",
@@ -4354,28 +3672,6 @@
     "notas": "Lemas e variantes alinhados com Lewis & Short; morfologia escolhida conforme genitivo -i atestado no LS. | [ocr_fix 2025-08-17T19:57:35Z] match direto em LS por lemma/lemma_norm | lemma_in='Ebusus' → 'Ebŭsus'",
     "raw_text": "{\"id\":\"chunk_9179:9179:0\",\"lemas\":[\"Ebusus\",\"Ebosia\",\"Ebusitanus\"],\"lema_canonico\":\"Ebusus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"ilha no Mediterrâneo junto à costa da Hispânia (a atual Ibiza)\",\"aliases\":[],\"exemplos\":[\"T. Liv. 22, 20, 7\",\"Sil. Ital. 3, 363\",\"Avien. Perieg. 621\",\"Mela 2, 7, 21\",\"Plin. Nat. 3, 5, 11 §28\"],\"notas\":\"Lemas e variantes alinhados com Lewis & Short; morfologia escolhida conforme genitivo -i atestado no LS.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_9179:9179:0\",\"lemas\":[\"Ebusus\",\"Ebosia\",\"Ebusitanus\"],\"lema_canonico\":\"Ebusus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"ilha no Mediterrâneo junto à costa da Hispânia (a atual Ibiza)\",\"aliases\":[],\"exemplos\":[\"T. Liv. 22, 20, 7\",\"Sil. Ital. 3, 363\",\"Avien. Perieg. 621\",\"Mela 2, 7, 21\",\"Plin. Nat. 3, 5, 11 §28\"],\"notas\":\"Lemas e variantes alinhados com Lewis & Short; morfologia escolhida conforme genitivo -i atestado no LS.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_9180-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_9180",
-    "page_num": 9180,
-    "lemmas": [
-      "Ebŭsus",
-      "Ebŭsus"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Ilha no Mediterrâneo (Eivissa/Ibiza); também atestado como nome próprio em Virgílio",
-    "exemplos": [],
-    "notas": "Lewis & Short atesta Ebusus/Ebōsia; forma usada como anthroponímico em Virgílio. Declinação precisa ambígua nos dados OCR/first pass. | [dedupe] redirect → chunk_9179:9179:0 | [dedupe] redirect → chunk_9179:9179:0 | [ocr_fix 2025-08-17T19:57:33Z] match direto em LS por lemma/lemma_norm | lemma_in='Ebusus' → 'Ebŭsus'",
-    "raw_text": "{\"id\":\"chunk_9180:9180:0\",\"lemas\":[\"Ebusus\",\"Ebōsia\"],\"lema_canonico\":\"Ebusus\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Ilha no Mediterrâneo (Eivissa/Ibiza); também atestado como nome próprio em Virgílio\",\"aliases\":[\"Ebōsia\"],\"exemplos\":[\"Liv. 22, 20, 7\",\"Sil. 3, 363\",\"Plin. 3, 5, 11\",\"Verg. En. 12, 299\"],\"notas\":\"Lewis & Short atesta Ebusus/Ebōsia; forma usada como anthroponímico em Virgílio. Declinação precisa ambígua nos dados OCR/first pass.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"src_ocr\",\"conf:med\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_9180:9180:0\",\"lemas\":[\"Ebusus\",\"Ebōsia\"],\"lema_canonico\":\"Ebusus\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Ilha no Mediterrâneo (Eivissa/Ibiza); também atestado como nome próprio em Virgílio\",\"aliases\":[\"Ebōsia\"],\"exemplos\":[\"Liv. 22, 20, 7\",\"Sil. 3, 363\",\"Plin. 3, 5, 11\",\"Verg. En. 12, 299\"],\"notas\":\"Lewis & Short atesta Ebusus/Ebōsia; forma usada como anthroponímico em Virgílio. Declinação precisa ambígua nos dados OCR/first pass.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"src_ocr\",\"conf:med\",\"needs_review\"]}"
   },
   {
     "id": "chunk_9180-e2",
@@ -4684,28 +3980,6 @@
     "notas": "Forma, definição e referências confirmadas por Lewis & Short e Whitaker.",
     "raw_text": "{\"id\":\"chunk_9191:9191:0\",\"lemas\":[\"echidna\",\"ĕchidna\"],\"lema_canonico\":\"echidna\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"víbora, serpente; na mitologia, monstro metade mulher metade serpente, mãe de Cérbero; adj. derivado: Echidnēus, -a, -um\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 10, 313\",\"Ov. Met. 4, 501\"],\"notas\":\"Forma, definição e referências confirmadas por Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_9191:9191:0\",\"lemas\":[\"echidna\",\"ĕchidna\"],\"lema_canonico\":\"echidna\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"víbora, serpente; na mitologia, monstro metade mulher metade serpente, mãe de Cérbero; adj. derivado: Echidnēus, -a, -um\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 10, 313\",\"Ov. Met. 4, 501\"],\"notas\":\"Forma, definição e referências confirmadas por Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_9192-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_9192",
-    "page_num": 9192,
-    "lemmas": [
-      "echidna",
-      "echidna"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Monstro mitológico, metade mulher e metade serpente; mãe de Cérbero; Lernaea (a Hidra) em alguns textos.",
-    "exemplos": [],
-    "notas": "Grafia normalizada a partir do OCR; confirma LS e Whitaker. | [dedupe] redirect → chunk_9191:9191:0 | [dedupe] redirect → chunk_9191:9191:0",
-    "raw_text": "{\"id\":\"chunk_9192:9192:0\",\"lemas\":[\"echidna\"],\"lema_canonico\":\"echidna\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Monstro mitológico, metade mulher e metade serpente; mãe de Cérbero; Lernaea (a Hidra) em alguns textos.\",\"aliases\":[\"Echidnēus (adj.)\"],\"exemplos\":[\"Ov. Met. 4, 501\"],\"notas\":\"Grafia normalizada a partir do OCR; confirma LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_9192:9192:0\",\"lemas\":[\"echidna\"],\"lema_canonico\":\"echidna\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Monstro mitológico, metade mulher e metade serpente; mãe de Cérbero; Lernaea (a Hidra) em alguns textos.\",\"aliases\":[\"Echidnēus (adj.)\"],\"exemplos\":[\"Ov. Met. 4, 501\"],\"notas\":\"Grafia normalizada a partir do OCR; confirma LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_9193-e1",

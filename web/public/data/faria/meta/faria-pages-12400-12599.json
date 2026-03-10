@@ -616,28 +616,6 @@
     "raw_json": "{\"id\":\"chunk_12421:12421:2\",\"lemas\":[\"hendecasyllabus\",\"hendecasyllaba\",\"hendecasyllabum\"],\"lema_canonico\":\"hendecasyllabus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Adjetivo: relativo a versos de onze sílabas (hendecassílabo).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada adjetival em Whitaker; mantive as três flexões canônicas (masc./fem./neut.).\",\"flags\":[\"src_whitaker\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_12421-e4",
-    "volume_id": "faria",
-    "doc_name": "chunk_12421",
-    "page_num": 12421,
-    "lemmas": [
-      "hendecasyllabus",
-      "hendecasyllabus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Substantivo: hendecassílabo — verso de onze sílabas, atestado em Catulo e autores posteriores.",
-    "exemplos": [],
-    "notas": "Normalizei a forma do genitivo/declinação; atestado por Whitaker e Lewis & Short. | [dedupe] redirect → chunk_12421:12421:1 | [dedupe] redirect → chunk_12421:12421:1",
-    "raw_text": "{\"id\":\"chunk_12421:12421:3\",\"lemas\":[\"hendecasyllabus\",\"hendecasyllabi\"],\"lema_canonico\":\"hendecasyllabus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Substantivo: hendecassílabo — verso de onze sílabas, atestado em Catulo e autores posteriores.\",\"aliases\":[],\"exemplos\":[\"Cat. 12, 10\"],\"notas\":\"Normalizei a forma do genitivo/declinação; atestado por Whitaker e Lewis & Short.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_12421:12421:3\",\"lemas\":[\"hendecasyllabus\",\"hendecasyllabi\"],\"lema_canonico\":\"hendecasyllabus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Substantivo: hendecassílabo — verso de onze sílabas, atestado em Catulo e autores posteriores.\",\"aliases\":[],\"exemplos\":[\"Cat. 12, 10\"],\"notas\":\"Normalizei a forma do genitivo/declinação; atestado por Whitaker e Lewis & Short.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_12422-e1",
     "volume_id": "faria",
     "doc_name": "chunk_12422",
@@ -702,28 +680,6 @@
     "notas": "Lewis & Short registra Hēnĭŏchus a, um; inclui sentido etnónimo e astronómico. | [ocr_fix 2025-08-17T19:48:42Z] match direto em LS por lemma/lemma_norm | lemma_in='heniochus' → 'Hēnĭŏchus'",
     "raw_text": "{\"id\":\"chunk_12424:12424:0\",\"lemas\":[\"heniochus\",\"heniocha\",\"heniochum\"],\"lema_canonico\":\"heniochus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo aos Heniochi (povo sármata); também nome latino da constelação Auriga (Heniochus).\",\"aliases\":[],\"exemplos\":[\"Ov. P. 4, 10, 26\"],\"notas\":\"Lewis & Short registra Hēnĭŏchus a, um; inclui sentido etnónimo e astronómico.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_12424:12424:0\",\"lemas\":[\"heniochus\",\"heniocha\",\"heniochum\"],\"lema_canonico\":\"heniochus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo aos Heniochi (povo sármata); também nome latino da constelação Auriga (Heniochus).\",\"aliases\":[],\"exemplos\":[\"Ov. P. 4, 10, 26\"],\"notas\":\"Lewis & Short registra Hēnĭŏchus a, um; inclui sentido etnónimo e astronómico.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_12425-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_12425",
-    "page_num": 12425,
-    "lemmas": [
-      "Herbessus",
-      "Herbessus"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Hena, cidade da Sicília (atestado em Cicerão).",
-    "exemplos": [],
-    "notas": "Entrada retida do primeiro passe; verificação externa não encontrada nas pistas fornecidas.\n[ocr_pipeline 2025-08-16T23:19:35.775588Z] lemma_in='Hena' → 'Herbessus' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:17:33Z] match direto em LS por lemma/lemma_norm | lemma_in='Herbessus' → 'Herbessus' | [dedupe] redirect → chunk_12453:12453:0 | [dedupe] redirect → chunk_12453:12453:0",
-    "raw_text": "{\"id\":\"chunk_12425:12425:0\",\"lemas\":[\"Hena\"],\"lema_canonico\":\"Hena\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Hena, cidade da Sicília (atestado em Cicerão).\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 4, 107\"],\"notas\":\"Entrada retida do primeiro passe; verificação externa não encontrada nas pistas fornecidas.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_12425:12425:0\",\"lemas\":[\"Hena\"],\"lema_canonico\":\"Hena\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Hena, cidade da Sicília (atestado em Cicerão).\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 4, 107\"],\"notas\":\"Entrada retida do primeiro passe; verificação externa não encontrada nas pistas fornecidas.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
     "id": "chunk_12426-e1",
@@ -1144,28 +1100,6 @@
     "raw_json": "{\"id\":\"chunk_12444:12444:0\",\"lemas\":[\"Hēraclīdes\",\"Heraclides\"],\"lema_canonico\":\"Hēraclīdes\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"1) Descendente de Hércules. 2) Heraclides do Ponto, filósofo grego (pupilo de Platão e outros), atestado em autores latinos.\",\"aliases\":[],\"exemplos\":[\"Cic. Tus. 5, 5\"],\"notas\":\"Unificada a grafia segundo Lewis & Short; variante 'Heraclides' mantida.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_12445-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_12445",
-    "page_num": 12445,
-    "lemmas": [
-      "Heracliēnsis",
-      "Heracliēnsis"
-    ],
-    "morfologia": "adj. (3) 3T",
-    "morph_render": "adj. (3) 3T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Relativo a Heracleia; gentilício adjetival.",
-    "exemplos": [],
-    "notas": "Registro como variante/redirecionamento para 'Heracleensis' — normalizada segundo Lewis & Short. | [dedupe] redirect → chunk_12438:12438:0 | [dedupe] redirect → chunk_12438:12438:0",
-    "raw_text": "{\"id\":\"chunk_12445:12445:0\",\"lemas\":[\"Heracliēnsis\",\"Heracleensis\"],\"lema_canonico\":\"Heracliēnsis\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"Relativo a Heracleia; gentilício adjetival.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Registro como variante/redirecionamento para 'Heracleensis' — normalizada segundo Lewis & Short.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_12445:12445:0\",\"lemas\":[\"Heracliēnsis\",\"Heracleensis\"],\"lema_canonico\":\"Heracliēnsis\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"Relativo a Heracleia; gentilício adjetival.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Registro como variante/redirecionamento para 'Heracleensis' — normalizada segundo Lewis & Short.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_12446-e1",
     "volume_id": "faria",
     "doc_name": "chunk_12446",
@@ -1452,28 +1386,6 @@
     "raw_json": "{\"id\":\"chunk_12458:12458:0\",\"lemas\":[\"Herbitenses\"],\"lema_canonico\":\"Herbitenses\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Habitantes de Hérbita.\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 156\"],\"notas\":\"Entrada plural de gentílico; morfologia original (-ium, m. pl.) não cabe no vocabulário singular permitido, por isso uso morfologia próxima.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"morph_out_of_vocab\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_12459-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_12459",
-    "page_num": 12459,
-    "lemmas": [
-      "Herbĭta",
-      "Herbĭta"
-    ],
-    "morfologia": "adj. (3) 2T",
-    "morph_render": "adj. (3) 2T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Relativo a Herbíta; herbitense (gentilício/adjetivo de lugar).",
-    "exemplos": [],
-    "notas": "Entrada baseada na primeira passada; forma atestada em OCR como 'Herbiénsis'.\n[ocr_pipeline 2025-08-16T23:20:12.129754Z] lemma_in='herbiensis' → 'Herbĭta' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:18:23Z] match direto em LS por lemma/lemma_norm | lemma_in='Herbĭta' → 'Herbĭta' | [dedupe] redirect → chunk_12457:12457:0 | [dedupe] redirect → chunk_12457:12457:0",
-    "raw_text": "{\"id\":\"chunk_12459:12459:0\",\"lemas\":[\"Herbiensis\",\"herbiensis\"],\"lema_canonico\":\"herbiensis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"Relativo a Herbíta; herbitense (gentilício/adjetivo de lugar).\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 3, 47\"],\"notas\":\"Entrada baseada na primeira passada; forma atestada em OCR como 'Herbiénsis'.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_12459:12459:0\",\"lemas\":[\"Herbiensis\",\"herbiensis\"],\"lema_canonico\":\"herbiensis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"Relativo a Herbíta; herbitense (gentilício/adjetivo de lugar).\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 3, 47\"],\"notas\":\"Entrada baseada na primeira passada; forma atestada em OCR como 'Herbiénsis'.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
     "id": "chunk_12460-e1",
     "volume_id": "faria",
     "doc_name": "chunk_12460",
@@ -1628,28 +1540,6 @@
     "raw_json": "{\"id\":\"chunk_12465:12465:0\",\"lemas\":[\"certum\",\"certus\"],\"lema_canonico\":\"certus\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Substantivo neutro: aquilo que é fixo, a coisa certa, o facto certo, algo estabelecido; Adjetivo (ver também): fixo, estabelecido, certo, seguro, decidido.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada unificada: substantivo neutro (certum) e adj. relacionado (certus). Bases: Whitaker + Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_12465-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_12465",
-    "page_num": 12465,
-    "lemmas": [
-      "Hercules",
-      "Hercules"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Hércules, herói mítico grego (filho de Iuppiter e Alcmena), depois divinizado.",
-    "exemplos": [],
-    "notas": "Grafia normalizada conforme Lewis & Short e Whitaker. | [dedupe] redirect → chunk_12473:12473:0 | [dedupe] redirect → chunk_12473:12473:0",
-    "raw_text": "{\"id\":\"chunk_12465:12465:1\",\"lemas\":[\"Hercules\"],\"lema_canonico\":\"Hercules\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Hércules, herói mítico grego (filho de Iuppiter e Alcmena), depois divinizado.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Grafia normalizada conforme Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_12465:12465:1\",\"lemas\":[\"Hercules\"],\"lema_canonico\":\"Hercules\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Hércules, herói mítico grego (filho de Iuppiter e Alcmena), depois divinizado.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Grafia normalizada conforme Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_12465-e3",
     "volume_id": "faria",
     "doc_name": "chunk_12465",
@@ -1782,50 +1672,6 @@
     "raw_json": "{\"id\":\"chunk_12470:12470:0\",\"lemas\":[\"Herculaneum\",\"Herculānum\"],\"lema_canonico\":\"Herculānum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Herculaneum, cidade (nome próprio)\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 3, 62\"],\"notas\":\"Grafia normalizada para Herculānum; Whitaker atesta 'Herculanium' variante.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_12471-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_12471",
-    "page_num": 12471,
-    "lemmas": [
-      "Herculānus",
-      "Herculānus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada remissiva: ver Herculaneus (forma tratada como variante/adjectival redirect).",
-    "raw_text": "{\"id\":\"chunk_12471:12471:0\",\"lemas\":[\"Herculānus\"],\"lema_canonico\":\"Herculānus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Herculaneus\"],\"exemplos\":[],\"notas\":\"Entrada remissiva: ver Herculaneus (forma tratada como variante/adjectival redirect).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_12471:12471:0\",\"lemas\":[\"Herculānus\"],\"lema_canonico\":\"Herculānus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Herculaneus\"],\"exemplos\":[],\"notas\":\"Entrada remissiva: ver Herculaneus (forma tratada como variante/adjectival redirect).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"redirect_only\"]}"
-  },
-  {
-    "id": "chunk_12472-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_12472",
-    "page_num": 12472,
-    "lemmas": [
-      "hercule",
-      "hercule"
-    ],
-    "morfologia": "interj.",
-    "morph_render": "interj.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "interjeição (por Hércules), também usada como advérbio em usos colaterais",
-    "exemplos": [],
-    "notas": "Forma e emprego atestados em Whitaker e em Lewis & Short; mantida referência citada. | [dedupe] redirect → chunk_12464:12464:1 | [dedupe] redirect → chunk_12464:12464:1",
-    "raw_text": "{\"id\":\"chunk_12472:12472:0\",\"lemas\":[\"hercule\"],\"lema_canonico\":\"hercule\",\"morfologia\":\"interj.\",\"morph_extra\":[],\"definicao\":\"interjeição (por Hércules), também usada como advérbio em usos colaterais\",\"aliases\":[],\"exemplos\":[\"Cic. Rep. 1, 37\"],\"notas\":\"Forma e emprego atestados em Whitaker e em Lewis & Short; mantida referência citada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_12472:12472:0\",\"lemas\":[\"hercule\"],\"lema_canonico\":\"hercule\",\"morfologia\":\"interj.\",\"morph_extra\":[],\"definicao\":\"interjeição (por Hércules), também usada como advérbio em usos colaterais\",\"aliases\":[],\"exemplos\":[\"Cic. Rep. 1, 37\"],\"notas\":\"Forma e emprego atestados em Whitaker e em Lewis & Short; mantida referência citada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_12473-e1",
     "volume_id": "faria",
     "doc_name": "chunk_12473",
@@ -1912,28 +1758,6 @@
     "notas": "Normalizada a grafia Hercynia; forma composta 'Hercynia Silva' mantida como variante de uso.\n[ocr_pipeline 2025-08-16T23:25:26.268157Z] lemma_in='Hercynia' → 'Hercўnĭa silva' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:25:24Z] match direto em LS por lemma/lemma_norm | lemma_in='Hercўnĭa silva' → 'Hercўnĭa silva'",
     "raw_text": "{\"id\":\"chunk_12476:12476:0\",\"lemas\":[\"Hercynia\",\"Hercynia Silva\"],\"lema_canonico\":\"Hercynia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Floresta Hercínia na Germânia (a Floresta Negra).\",\"aliases\":[],\"exemplos\":[\"Caes. B. Gal. 6, 24, 2\"],\"notas\":\"Normalizada a grafia Hercynia; forma composta 'Hercynia Silva' mantida como variante de uso.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}",
     "raw_json": "{\"id\":\"chunk_12476:12476:0\",\"lemas\":[\"Hercynia\",\"Hercynia Silva\"],\"lema_canonico\":\"Hercynia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Floresta Hercínia na Germânia (a Floresta Negra).\",\"aliases\":[],\"exemplos\":[\"Caes. B. Gal. 6, 24, 2\"],\"notas\":\"Normalizada a grafia Hercynia; forma composta 'Hercynia Silva' mantida como variante de uso.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}"
-  },
-  {
-    "id": "chunk_12476-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_12476",
-    "page_num": 12476,
-    "lemmas": [
-      "Hercўnĭa silva",
-      "Hercўnĭa silva"
-    ],
-    "morfologia": "s. masc. 4ª (-us)",
-    "morph_render": "s. masc. 4ª (-us)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Trecho/vale/desfiladeiro da floresta Hercínia (saltus associado a Hercynia).",
-    "exemplos": [],
-    "notas": "Tratado como locução toponímica; 'saltus' classificado como substantivo da 4ª declinação.\n[ocr_pipeline 2025-08-16T23:25:26.483820Z] lemma_in='Hercynia saltus' → 'Hercўnĭa silva' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:25:25Z] match direto em LS por lemma/lemma_norm | lemma_in='Hercўnĭa silva' → 'Hercўnĭa silva' | [dedupe] redirect → chunk_12476:12476:0 | [dedupe] redirect → chunk_12476:12476:0",
-    "raw_text": "{\"id\":\"chunk_12476:12476:1\",\"lemas\":[\"Hercynia saltus\"],\"lema_canonico\":\"Hercynia saltus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"Trecho/vale/desfiladeiro da floresta Hercínia (saltus associado a Hercynia).\",\"aliases\":[],\"exemplos\":[\"Tac. An. 2, 46\"],\"notas\":\"Tratado como locução toponímica; 'saltus' classificado como substantivo da 4ª declinação.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}",
-    "raw_json": "{\"id\":\"chunk_12476:12476:1\",\"lemas\":[\"Hercynia saltus\"],\"lema_canonico\":\"Hercynia saltus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"Trecho/vale/desfiladeiro da floresta Hercínia (saltus associado a Hercynia).\",\"aliases\":[],\"exemplos\":[\"Tac. An. 2, 46\"],\"notas\":\"Tratado como locução toponímica; 'saltus' classificado como substantivo da 4ª declinação.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}"
   },
   {
     "id": "chunk_12477-e1",
@@ -2200,28 +2024,6 @@
     "raw_json": "{\"id\":\"chunk_12488:12488:0\",\"lemas\":[\"hēres\",\"heres\"],\"lema_canonico\":\"hēres\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"s. m./f. herdeiro, herdeira; por extensão, proprietário, sucessor.\",\"aliases\":[],\"exemplos\":[\"Quint. 6, 1, 20\",\"Plaut. Men. 477\",\"Cic. Brut. 97, 332\"],\"notas\":\"Formas e gênero conforme Lewis & Short e Whitaker; mantida grafia com macron.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_12489-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_12489",
-    "page_num": 12489,
-    "lemmas": [
-      "hēres",
-      "hēres"
-    ],
-    "morfologia": "s. 3ª (-is)",
-    "morph_render": "s. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "herdeiro, herdeira; sucessor, possuidor (substantivo de 3.ª declinação, masc. ou fem.).",
-    "exemplos": [],
-    "notas": "Formas e referências alinhadas a Lewis & Short; ēres atestada como variante. | [dedupe] redirect → chunk_12488:12488:0 | [dedupe] redirect → chunk_12488:12488:0",
-    "raw_text": "{\"id\":\"chunk_12489:12489:0\",\"lemas\":[\"hēres\",\"ēres\"],\"lema_canonico\":\"hēres\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"herdeiro, herdeira; sucessor, possuidor (substantivo de 3.ª declinação, masc. ou fem.).\",\"aliases\":[],\"exemplos\":[\"Cic. Caecin. 6, 17\",\"Cic. Phil. 2, 16, 41\",\"Cic. Verr. 2, 1, 43\"],\"notas\":\"Formas e referências alinhadas a Lewis & Short; ēres atestada como variante.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_12489:12489:0\",\"lemas\":[\"hēres\",\"ēres\"],\"lema_canonico\":\"hēres\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"herdeiro, herdeira; sucessor, possuidor (substantivo de 3.ª declinação, masc. ou fem.).\",\"aliases\":[],\"exemplos\":[\"Cic. Caecin. 6, 17\",\"Cic. Phil. 2, 16, 41\",\"Cic. Verr. 2, 1, 43\"],\"notas\":\"Formas e referências alinhadas a Lewis & Short; ēres atestada como variante.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_12490-e1",
     "volume_id": "faria",
     "doc_name": "chunk_12490",
@@ -2266,28 +2068,6 @@
     "raw_json": "{\"id\":\"chunk_12491:12491:0\",\"lemas\":[\"hērēs\",\"chērchus\"],\"lema_canonico\":\"hērēs\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"(Entrada ambígua no manuscrito): 1) Ouríça (animal) e 2) ouríça, arma de guerra (var. apud Non.). Nota: não corresponde ao senso 'herdeiro' do latim clássico; possível corrupção/termo técnico medieval.\",\"aliases\":[],\"exemplos\":[\"Non. 49, 10\",\"Caes. B. Civ. 3, 67, 5\"],\"notas\":\"Sentidos conflituosos entre o léxico consultado e o manuscrito; forma alternativa corrompida preservada. Revisão necessária.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_12492-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_12492",
-    "page_num": 12492,
-    "lemmas": [
-      "heri",
-      "heri"
-    ],
-    "morfologia": "adv.",
-    "morph_render": "adv.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "ontem (yesterday).",
-    "exemplos": [],
-    "notas": "Advérbio atestado em Lewis & Short e Whitaker. | [dedupe] redirect → chunk_12490:12490:0 | [dedupe] redirect → chunk_12490:12490:0",
-    "raw_text": "{\"id\":\"chunk_12492:12492:0\",\"lemas\":[\"heri\"],\"lema_canonico\":\"heri\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"ontem (yesterday).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Advérbio atestado em Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_12492:12492:0\",\"lemas\":[\"heri\"],\"lema_canonico\":\"heri\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"ontem (yesterday).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Advérbio atestado em Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_12492-e2",
     "volume_id": "faria",
     "doc_name": "chunk_12492",
@@ -2308,28 +2088,6 @@
     "notas": "Genitivo antigo/medieval attestado como heri; ver Whitaker e LS (herus, heri).",
     "raw_text": "{\"id\":\"chunk_12492:12492:1\",\"lemas\":[\"herus\"],\"lema_canonico\":\"herus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"senhor, mestre; dono, proprietário.\",\"aliases\":[\"heri\"],\"exemplos\":[],\"notas\":\"Genitivo antigo/medieval attestado como heri; ver Whitaker e LS (herus, heri).\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_12492:12492:1\",\"lemas\":[\"herus\"],\"lema_canonico\":\"herus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"senhor, mestre; dono, proprietário.\",\"aliases\":[\"heri\"],\"exemplos\":[],\"notas\":\"Genitivo antigo/medieval attestado como heri; ver Whitaker e LS (herus, heri).\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_12492-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_12492",
-    "page_num": 12492,
-    "lemmas": [
-      "ligare",
-      "ligare"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "(1) ligar, atar, prender, amarrar, bandage (verbo). (2) como substantivo raro/medieval: liga — aliança, confederação.",
-    "exemplos": [],
-    "notas": "Entrada consolidada a partir de Lewis & Short e Whitaker; inclui tanto o verbo (ligare) quanto formas e o substantivo raro liga/ligon. Morfologia primária dada ao verbo; há múltiplas classes (verb./subst.). | [dedupe] redirect → chunk_15879:15879:0 | [dedupe] redirect → chunk_15879:15879:0",
-    "raw_text": "{\"id\":\"chunk_12492:12492:2\",\"lemas\":[\"ligare\",\"ligatus\",\"ligavi\",\"ligo\",\"liga\"],\"lema_canonico\":\"ligare\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"(1) ligar, atar, prender, amarrar, bandage (verbo). (2) como substantivo raro/medieval: liga — aliança, confederação.\",\"aliases\":[\"ligo (subst.)\"],\"exemplos\":[],\"notas\":\"Entrada consolidada a partir de Lewis & Short e Whitaker; inclui tanto o verbo (ligare) quanto formas e o substantivo raro liga/ligon. Morfologia primária dada ao verbo; há múltiplas classes (verb./subst.).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_12492:12492:2\",\"lemas\":[\"ligare\",\"ligatus\",\"ligavi\",\"ligo\",\"liga\"],\"lema_canonico\":\"ligare\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"(1) ligar, atar, prender, amarrar, bandage (verbo). (2) como substantivo raro/medieval: liga — aliança, confederação.\",\"aliases\":[\"ligo (subst.)\"],\"exemplos\":[],\"notas\":\"Entrada consolidada a partir de Lewis & Short e Whitaker; inclui tanto o verbo (ligare) quanto formas e o substantivo raro liga/ligon. Morfologia primária dada ao verbo; há múltiplas classes (verb./subst.).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"morph_out_of_vocab\"]}"
   },
   {
     "id": "chunk_12492-e4",
@@ -2376,28 +2134,6 @@
     "raw_json": "{\"id\":\"chunk_12493:12493:0\",\"lemas\":[\"herilis\",\"hĕrīlis\"],\"lema_canonico\":\"herilis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"Relativo ao senhor da casa (paterfamilias); pertencente ao chefe de família, do dono/senhor da casa.\",\"aliases\":[],\"exemplos\":[\"Ter. And. 602\"],\"notas\":\"Normalizada conforme Lewis & Short (v. erilis) e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_12494-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_12494",
-    "page_num": 12494,
-    "lemmas": [
-      "Hēïus",
-      "Hēïus"
-    ],
-    "morfologia": "s. masc. 1ª (-ae)",
-    "morph_render": "s. masc. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "(Registro incerto) Nome próprio plural atestado como Herilos, discípulos de Herilo, em Cicero.",
-    "exemplos": [],
-    "notas": "Entrada baseada no OCR/primeira passada; forma e análise prosódica incertas — requer verificação em obras críticas.\n[ocr_pipeline 2025-08-16T23:25:26.049705Z] lemma_in='Herīllĭ' → 'Hēïus' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:25:24Z] match direto em LS por lemma/lemma_norm | lemma_in='Hēïus' → 'Hēïus' | [dedupe] redirect → chunk_12506:12506:0 | [dedupe] redirect → chunk_12506:12506:0",
-    "raw_text": "{\"id\":\"chunk_12494:12494:0\",\"lemas\":[\"Herīllĭ\",\"Herilli\"],\"lema_canonico\":\"Herīllĭ\",\"morfologia\":\"s. masc. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"(Registro incerto) Nome próprio plural atestado como Herilos, discípulos de Herilo, em Cicero.\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 3, 62\"],\"notas\":\"Entrada baseada no OCR/primeira passada; forma e análise prosódica incertas — requer verificação em obras críticas.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_12494:12494:0\",\"lemas\":[\"Herīllĭ\",\"Herilli\"],\"lema_canonico\":\"Herīllĭ\",\"morfologia\":\"s. masc. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"(Registro incerto) Nome próprio plural atestado como Herilos, discípulos de Herilo, em Cicero.\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 3, 62\"],\"notas\":\"Entrada baseada no OCR/primeira passada; forma e análise prosódica incertas — requer verificação em obras críticas.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
     "id": "chunk_12495-e1",
     "volume_id": "faria",
     "doc_name": "chunk_12495",
@@ -2442,50 +2178,6 @@
     "raw_json": "{\"id\":\"chunk_12496:12496:0\",\"lemas\":[\"Herius\"],\"lema_canonico\":\"Herius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"nome próprio masculino (Hérilo), rei de Preneste — leitura tradicional em textos métricos\",\"aliases\":[],\"exemplos\":[\"Verg. En. 8, 563\"],\"notas\":\"Preservada leitura do first_pass/OCR; falta confirmação em dicionários fornecidos.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_12497-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_12497",
-    "page_num": 12497,
-    "lemmas": [
-      "Hērillus",
-      "Hērillus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "nome próprio masculino (Hério)",
-    "exemplos": [],
-    "notas": "Entrada preservada do primeiro passado; forma e referência confirmadas apenas pelo OCR/first_pass.\n[ocr_pipeline 2025-08-16T23:13:11.772997Z] lemma_in='Herius' → 'Hērillus' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:08:59Z] match direto em LS por lemma/lemma_norm | lemma_in='Hērillus' → 'Hērillus' | [dedupe] redirect → chunk_12363:12363:0 | [dedupe] redirect → chunk_12363:12363:0",
-    "raw_text": "{\"id\":\"chunk_12497:12497:0\",\"lemas\":[\"Herius\"],\"lema_canonico\":\"Herius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"nome próprio masculino (Hério)\",\"aliases\":[],\"exemplos\":[\"T. Liv. 23, 43\"],\"notas\":\"Entrada preservada do primeiro passado; forma e referência confirmadas apenas pelo OCR/first_pass.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_12497:12497:0\",\"lemas\":[\"Herius\"],\"lema_canonico\":\"Herius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"nome próprio masculino (Hério)\",\"aliases\":[],\"exemplos\":[\"T. Liv. 23, 43\"],\"notas\":\"Entrada preservada do primeiro passado; forma e referência confirmadas apenas pelo OCR/first_pass.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_12498-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_12498",
-    "page_num": 12498,
-    "lemmas": [
-      "herma",
-      "herma"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "herma: pilar quadrangular com busto de Hermes; também, Hermes (Deus grego, equivalente a Mercúrio).",
-    "exemplos": [],
-    "notas": "Unido sentido de pilar (herm) e divindade; normalizado a partir de Whitaker e LS. | [dedupe] redirect → chunk_12499:12499:0 | [dedupe] redirect → chunk_12499:12499:0",
-    "raw_text": "{\"id\":\"chunk_12498:12498:0\",\"lemas\":[\"herma\"],\"lema_canonico\":\"herma\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"herma: pilar quadrangular com busto de Hermes; também, Hermes (Deus grego, equivalente a Mercúrio).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Unido sentido de pilar (herm) e divindade; normalizado a partir de Whitaker e LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_12498:12498:0\",\"lemas\":[\"herma\"],\"lema_canonico\":\"herma\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"herma: pilar quadrangular com busto de Hermes; também, Hermes (Deus grego, equivalente a Mercúrio).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Unido sentido de pilar (herm) e divindade; normalizado a partir de Whitaker e LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_12499-e1",
     "volume_id": "faria",
     "doc_name": "chunk_12499",
@@ -2528,28 +2220,6 @@
     "notas": "Conferido com Lewis & Short; forma neutra e declinação em -um/-i confirmadas. | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='hermaeum' → 'Hermaeum'",
     "raw_text": "{\"id\":\"chunk_12500:12500:0\",\"lemas\":[\"Hermaeum\",\"hermaeum\"],\"lema_canonico\":\"hermaeum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"hermaeum: aposento/quarta decorada com imagens ou bustos de Hermes.\",\"aliases\":[],\"exemplos\":[\"Suet. Claud. 10\"],\"notas\":\"Conferido com Lewis & Short; forma neutra e declinação em -um/-i confirmadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_12500:12500:0\",\"lemas\":[\"Hermaeum\",\"hermaeum\"],\"lema_canonico\":\"hermaeum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"hermaeum: aposento/quarta decorada com imagens ou bustos de Hermes.\",\"aliases\":[],\"exemplos\":[\"Suet. Claud. 10\"],\"notas\":\"Conferido com Lewis & Short; forma neutra e declinação em -um/-i confirmadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_12501-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_12501",
-    "page_num": 12501,
-    "lemmas": [
-      "Hermaeum",
-      "Hermaeum"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Hermaeum; local associado a Hermes (herme), topónimo/monumento ligado a Hermes.",
-    "exemplos": [],
-    "notas": "Grafia e declinação alinhadas com Lewis & Short (Hermaeum, -i). | [dedupe] redirect → chunk_12500:12500:0 | [dedupe] redirect → chunk_12500:12500:0 | [ocr_fix 2025-08-17T19:53:10Z] match direto em LS por lemma/lemma_norm | lemma_in='Hermaeum' → 'Hermaeum'",
-    "raw_text": "{\"id\":\"chunk_12501:12501:0\",\"lemas\":[\"Hermaeum\"],\"lema_canonico\":\"Hermaeum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Hermaeum; local associado a Hermes (herme), topónimo/monumento ligado a Hermes.\",\"aliases\":[],\"exemplos\":[\"T. Liv. 35, 50, 9\"],\"notas\":\"Grafia e declinação alinhadas com Lewis & Short (Hermaeum, -i).\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_12501:12501:0\",\"lemas\":[\"Hermaeum\"],\"lema_canonico\":\"Hermaeum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Hermaeum; local associado a Hermes (herme), topónimo/monumento ligado a Hermes.\",\"aliases\":[],\"exemplos\":[\"T. Liv. 35, 50, 9\"],\"notas\":\"Grafia e declinação alinhadas com Lewis & Short (Hermaeum, -i).\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
     "id": "chunk_12502-e1",
@@ -3146,28 +2816,6 @@
     "raw_json": "{\"id\":\"chunk_12528:12528:0\",\"lemas\":[\"hēros\",\"hêrōs\"],\"lema_canonico\":\"hēros\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Herói, semideus; figuradamente, homem célebre.\",\"aliases\":[],\"exemplos\":[\"Verg. Buc. 4, 16\",\"Cic. Att. 1, 17, 9\"],\"notas\":\"Morfologia e sentido confirmados em LS e Whitaker; normalizadas citações.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_12529-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_12529",
-    "page_num": 12529,
-    "lemmas": [
-      "hēros",
-      "hēros"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Forma relacionada a hēros; heroum é atestado como gen. pl. de hēros ou como forma adjetival (heroicus) segundo fontes.",
-    "exemplos": [],
-    "notas": "Entrada original (túmulo de um herói) parece resultar de OCR/lematização incorreta; preferida leitura lexical (heroum = gen. pl. de hēros). | [dedupe] redirect → chunk_12528:12528:0 | [dedupe] redirect → chunk_12528:12528:0",
-    "raw_text": "{\"id\":\"chunk_12529:12529:0\",\"lemas\":[\"hēros\"],\"lema_canonico\":\"hēros\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Forma relacionada a hēros; heroum é atestado como gen. pl. de hēros ou como forma adjetival (heroicus) segundo fontes.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada original (túmulo de um herói) parece resultar de OCR/lematização incorreta; preferida leitura lexical (heroum = gen. pl. de hēros).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_12529:12529:0\",\"lemas\":[\"hēros\"],\"lema_canonico\":\"hēros\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Forma relacionada a hēros; heroum é atestado como gen. pl. de hēros ou como forma adjetival (heroicus) segundo fontes.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada original (túmulo de um herói) parece resultar de OCR/lematização incorreta; preferida leitura lexical (heroum = gen. pl. de hēros).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_12530-e1",
     "volume_id": "faria",
     "doc_name": "chunk_12530",
@@ -3190,28 +2838,6 @@
     "raw_json": "{\"id\":\"chunk_12530:12530:0\",\"lemas\":[\"hērōus\"],\"lema_canonico\":\"hērōus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"heróico, épico; relativo a herói; também subst. m. ‘verso épico/hexâmetro’\",\"aliases\":[],\"exemplos\":[\"Prop. 3, 3, 16\"],\"notas\":\"Padronizada a forma adjetival conforme LS/Whitaker; preservado exemplo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_12531-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_12531",
-    "page_num": 12531,
-    "lemmas": [
-      "heres",
-      "heres"
-    ],
-    "morfologia": "s. 3ª (-is)",
-    "morph_render": "s. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Heir, heiress; pessoa que recebe herança (m./f.).",
-    "exemplos": [],
-    "notas": "Preferida leitura comum do léxico (hērēs, hērēdis); entrada da primeira passada (nome próprio) parece incorreta para a entrada lexical comum. | [dedupe] redirect → chunk_12488:12488:0 | [dedupe] redirect → chunk_12488:12488:0",
-    "raw_text": "{\"id\":\"chunk_12531:12531:0\",\"lemas\":[\"hēres\",\"heres\"],\"lema_canonico\":\"heres\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Heir, heiress; pessoa que recebe herança (m./f.).\",\"aliases\":[],\"exemplos\":[\"Cic. Phil. 2, 16 (ex.)\"],\"notas\":\"Preferida leitura comum do léxico (hērēs, hērēdis); entrada da primeira passada (nome próprio) parece incorreta para a entrada lexical comum.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_12531:12531:0\",\"lemas\":[\"hēres\",\"heres\"],\"lema_canonico\":\"heres\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Heir, heiress; pessoa que recebe herança (m./f.).\",\"aliases\":[],\"exemplos\":[\"Cic. Phil. 2, 16 (ex.)\"],\"notas\":\"Preferida leitura comum do léxico (hērēs, hērēdis); entrada da primeira passada (nome próprio) parece incorreta para a entrada lexical comum.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_12532-e1",
     "volume_id": "faria",
     "doc_name": "chunk_12532",
@@ -3232,28 +2858,6 @@
     "notas": "Grafia clássica e declinação ajustadas conforme Lewis & Short. | [ocr_fix 2025-08-17T19:58:08Z] match direto em LS por lemma/lemma_norm | lemma_in='Hersilia' → 'Hersĭlĭa'",
     "raw_text": "{\"id\":\"chunk_12532:12532:0\",\"lemas\":[\"Hersilia\"],\"lema_canonico\":\"Hersilia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Hersília, esposa de Rômulo (personagem mítica)\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 14, 830\",\"Liv. 1, 11, 2\",\"Macr. S. 1, 6\"],\"notas\":\"Grafia clássica e declinação ajustadas conforme Lewis & Short.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_12532:12532:0\",\"lemas\":[\"Hersilia\"],\"lema_canonico\":\"Hersilia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Hersília, esposa de Rômulo (personagem mítica)\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 14, 830\",\"Liv. 1, 11, 2\",\"Macr. S. 1, 6\"],\"notas\":\"Grafia clássica e declinação ajustadas conforme Lewis & Short.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_12533-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_12533",
-    "page_num": 12533,
-    "lemmas": [
-      "herus",
-      "herus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "senhor de casa, mestre, proprietário; por extensão, esposo ou soberano.",
-    "exemplos": [],
-    "notas": "Lemas e acepções harmonizados com Lewis & Short e Whitaker; escolhida forma canônica 'herus'. | [dedupe] redirect → chunk_12492:12492:1 | [dedupe] redirect → chunk_12492:12492:1",
-    "raw_text": "{\"id\":\"chunk_12533:12533:0\",\"lemas\":[\"herus\",\"erus\",\"hĕrus\"],\"lema_canonico\":\"herus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"senhor de casa, mestre, proprietário; por extensão, esposo ou soberano.\",\"aliases\":[],\"exemplos\":[\"Cic. Q. 2, 24\",\"Hor. Sát. 2, 2, 129\",\"Catul. 61, 116\",\"Catul. 68, 76\"],\"notas\":\"Lemas e acepções harmonizados com Lewis & Short e Whitaker; escolhida forma canônica 'herus'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_12533:12533:0\",\"lemas\":[\"herus\",\"erus\",\"hĕrus\"],\"lema_canonico\":\"herus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"senhor de casa, mestre, proprietário; por extensão, esposo ou soberano.\",\"aliases\":[],\"exemplos\":[\"Cic. Q. 2, 24\",\"Hor. Sát. 2, 2, 129\",\"Catul. 61, 116\",\"Catul. 68, 76\"],\"notas\":\"Lemas e acepções harmonizados com Lewis & Short e Whitaker; escolhida forma canônica 'herus'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_12534-e1",
@@ -3498,28 +3102,6 @@
     "raw_json": "{\"id\":\"chunk_12544:12544:0\",\"lemas\":[\"hesternus\"],\"lema_canonico\":\"hesternus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"de ontem; relativo ao dia anterior (of yesterday, yesterday's).\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 3, 81\"],\"notas\":\"Forma e sentido confirmados em Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_12545-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_12545",
-    "page_num": 12545,
-    "lemmas": [
-      "Hesus",
-      "Hesus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Variante de Esus; entrada redireciona para Esus.",
-    "raw_text": "{\"id\":\"chunk_12545:12545:0\",\"lemas\":[\"Hesus\"],\"lema_canonico\":\"Hesus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Esus\"],\"exemplos\":[],\"notas\":\"Variante de Esus; entrada redireciona para Esus.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_12545:12545:0\",\"lemas\":[\"Hesus\"],\"lema_canonico\":\"Hesus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Esus\"],\"exemplos\":[],\"notas\":\"Variante de Esus; entrada redireciona para Esus.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"redirect_only\"]}"
-  },
-  {
     "id": "chunk_12546-e1",
     "volume_id": "faria",
     "doc_name": "chunk_12546",
@@ -3606,28 +3188,6 @@
     "notas": "OCR 'Hettura' retificado para Hetruria/Etruria; forma latina comum Hetrūria. | [ocr_fix 2025-08-17T19:48:48Z] match direto em LS por lemma/lemma_norm | lemma_in='Hetruria' → 'Hetrūria'",
     "raw_text": "{\"id\":\"chunk_12549:12549:0\",\"lemas\":[\"Hetruria\",\"Etruria\",\"Hetrūria\"],\"lema_canonico\":\"Hetruria\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Hetrūria (Etruria), região da Itália habitada pelos etruscos; nome próprio feminino.\",\"aliases\":[\"Etruria\"],\"exemplos\":[],\"notas\":\"OCR 'Hettura' retificado para Hetruria/Etruria; forma latina comum Hetrūria.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_12549:12549:0\",\"lemas\":[\"Hetruria\",\"Etruria\",\"Hetrūria\"],\"lema_canonico\":\"Hetruria\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Hetrūria (Etruria), região da Itália habitada pelos etruscos; nome próprio feminino.\",\"aliases\":[\"Etruria\"],\"exemplos\":[],\"notas\":\"OCR 'Hettura' retificado para Hetruria/Etruria; forma latina comum Hetrūria.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_12550-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_12550",
-    "page_num": 12550,
-    "lemmas": [
-      "hei",
-      "hei"
-    ],
-    "morfologia": "interj.",
-    "morph_render": "interj.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Interjeição de dor ou queixa: “ah!, ai!, woe!”",
-    "exemplos": [],
-    "notas": "Corroborado por Lewis & Short e Whitaker; mantida leitura 'hei'. | [dedupe] redirect → chunk_12369:12369:0 | [dedupe] redirect → chunk_12369:12369:0",
-    "raw_text": "{\"id\":\"chunk_12550:12550:0\",\"lemas\":[\"hei\"],\"lema_canonico\":\"hei\",\"morfologia\":\"interj.\",\"morph_extra\":[],\"definicao\":\"Interjeição de dor ou queixa: “ah!, ai!, woe!”\",\"aliases\":[],\"exemplos\":[\"Plaut. Aul. 2, 8, 21\",\"Plaut. Am. 2, 2, 36\",\"Cic. Phil. 7, 14\"],\"notas\":\"Corroborado por Lewis & Short e Whitaker; mantida leitura 'hei'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_12550:12550:0\",\"lemas\":[\"hei\"],\"lema_canonico\":\"hei\",\"morfologia\":\"interj.\",\"morph_extra\":[],\"definicao\":\"Interjeição de dor ou queixa: “ah!, ai!, woe!”\",\"aliases\":[],\"exemplos\":[\"Plaut. Aul. 2, 8, 21\",\"Plaut. Am. 2, 2, 36\",\"Cic. Phil. 7, 14\"],\"notas\":\"Corroborado por Lewis & Short e Whitaker; mantida leitura 'hei'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_12550-e2",
@@ -3806,28 +3366,6 @@
     "raw_json": "{\"id\":\"chunk_12557:12557:0\",\"lemas\":[\"hi\",\"hic\"],\"lema_canonico\":\"hi\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Forma nominativa plural (masculina) do pronome demonstrativo hic: “estes”.\",\"aliases\":[\"hic\"],\"exemplos\":[],\"notas\":\"Entrada de pronome; 'hi' = nom. pl. de hic. Morfologia fora do vocabulário restrito (usado s. indecl.).\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:med\",\"morph_out_of_vocab\"]}"
   },
   {
-    "id": "chunk_12558-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_12558",
-    "page_num": 12558,
-    "lemmas": [
-      "hio",
-      "hio"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "Particípio presente de hio ‘abrir a boca, estar aberto’; ‘abrir‑se, estar escancarado, boquiaberto, gaping’.",
-    "exemplos": [],
-    "notas": "Particípio presente de hio/hiare (1ª conj.). Corroborado por Whitaker e Lat→Deu. | [dedupe] redirect → chunk_12622:12622:0 | [dedupe] redirect → chunk_12622:12622:0",
-    "raw_text": "{\"id\":\"chunk_12558:12558:0\",\"lemas\":[\"hians\",\"hio\",\"hiare\"],\"lema_canonico\":\"hio\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"part. pres.\"],\"definicao\":\"Particípio presente de hio ‘abrir a boca, estar aberto’; ‘abrir‑se, estar escancarado, boquiaberto, gaping’.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Particípio presente de hio/hiare (1ª conj.). Corroborado por Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_12558:12558:0\",\"lemas\":[\"hians\",\"hio\",\"hiare\"],\"lema_canonico\":\"hio\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"part. pres.\"],\"definicao\":\"Particípio presente de hio ‘abrir a boca, estar aberto’; ‘abrir‑se, estar escancarado, boquiaberto, gaping’.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Particípio presente de hio/hiare (1ª conj.). Corroborado por Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"morph_out_of_vocab\"]}"
-  },
-  {
     "id": "chunk_12559-e1",
     "volume_id": "faria",
     "doc_name": "chunk_12559",
@@ -3848,28 +3386,6 @@
     "notas": "Original do primeiro passe indica remissão (‘Hiantĕus, v. Hyanteus’). Sem confirmação externa nas pistas; manter para revisão.",
     "raw_text": "{\"id\":\"chunk_12559:12559:0\",\"lemas\":[\"hianteus\",\"hyanteus\"],\"lema_canonico\":\"hianteus\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Remissão/variante gráfica possivelmente de Hyanteus (nome próprio); entrada incerta.\",\"aliases\":[\"Hyanteus\"],\"exemplos\":[],\"notas\":\"Original do primeiro passe indica remissão (‘Hiantĕus, v. Hyanteus’). Sem confirmação externa nas pistas; manter para revisão.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_12559:12559:0\",\"lemas\":[\"hianteus\",\"hyanteus\"],\"lema_canonico\":\"hianteus\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Remissão/variante gráfica possivelmente de Hyanteus (nome próprio); entrada incerta.\",\"aliases\":[\"Hyanteus\"],\"exemplos\":[],\"notas\":\"Original do primeiro passe indica remissão (‘Hiantĕus, v. Hyanteus’). Sem confirmação externa nas pistas; manter para revisão.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_12560-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_12560",
-    "page_num": 12560,
-    "lemmas": [
-      "Iarbas",
-      "Iarbas"
-    ],
-    "morfologia": "s. masc. 1ª (-ae)",
-    "morph_render": "s. masc. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:low",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "nome próprio masculino (rei númida da Eneida); variante ortográfica Hiarbas registrada por OCR/trasmissão",
-    "exemplos": [],
-    "notas": "Mantida a hipótese da 1ª declinação (-ae) conforme tradição onomástica; forma Hiarbas atestada no OCR. | [dedupe] redirect → chunk_12951:12951:0 | [dedupe] redirect → chunk_12951:12951:0",
-    "raw_text": "{\"id\":\"chunk_12560:12560:0\",\"lemas\":[\"Iarbas\",\"Hiarbas\"],\"lema_canonico\":\"Iarbas\",\"morfologia\":\"s. masc. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"nome próprio masculino (rei númida da Eneida); variante ortográfica Hiarbas registrada por OCR/trasmissão\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Mantida a hipótese da 1ª declinação (-ae) conforme tradição onomástica; forma Hiarbas atestada no OCR.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_12560:12560:0\",\"lemas\":[\"Iarbas\",\"Hiarbas\"],\"lema_canonico\":\"Iarbas\",\"morfologia\":\"s. masc. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"nome próprio masculino (rei númida da Eneida); variante ortográfica Hiarbas registrada por OCR/trasmissão\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Mantida a hipótese da 1ª declinação (-ae) conforme tradição onomástica; forma Hiarbas atestada no OCR.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
     "id": "chunk_12561-e1",
@@ -4114,50 +3630,6 @@
     "raw_json": "{\"id\":\"chunk_12571:12571:0\",\"lemas\":[\"hīc\"],\"lema_canonico\":\"hīc\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"aqui, neste lugar; neste ponto, nesta ocasião\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 6, 20, 3\",\"Cic. Arch. 8, 3\",\"Cic. Cat. 1, 56\"],\"notas\":\"Advérbio derivado do demonstrativo hic; mantido macron para vogal longa.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_12572-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_12572",
-    "page_num": 12572,
-    "lemmas": [
-      "hic",
-      "hic"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "Pronome demonstrativo: este, esta, isto; usado também para indicar o seguinte, o presente, ou em exclamações e resumos (cf. usos neutro e arcaicos).",
-    "exemplos": [],
-    "notas": "Normalizada a lista de formas; mantidos comentários sobre formas arcaicas e usos especiais. | [dedupe] redirect → chunk_12244:12244:1 | [dedupe] redirect → chunk_12244:12244:1",
-    "raw_text": "{\"id\":\"chunk_12572:12572:0\",\"lemas\":[\"hic\",\"haec\",\"hoc\"],\"lema_canonico\":\"hic\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Pronome demonstrativo: este, esta, isto; usado também para indicar o seguinte, o presente, ou em exclamações e resumos (cf. usos neutro e arcaicos).\",\"aliases\":[],\"exemplos\":[\"Cic. Rep. 1, 1\",\"Cic. Verr. 5, 62\",\"T. Liv. 24, 3, 17\",\"Cic. Tusc. 5, 103\",\"Cic. Ac. 1, 22\",\"Cic. Off. 2, 50\",\"Plaut. Ps. 822\",\"Plaut. Bac. 1142\",\"Plaut. Curc. 506\"],\"notas\":\"Normalizada a lista de formas; mantidos comentários sobre formas arcaicas e usos especiais.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_12572:12572:0\",\"lemas\":[\"hic\",\"haec\",\"hoc\"],\"lema_canonico\":\"hic\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Pronome demonstrativo: este, esta, isto; usado também para indicar o seguinte, o presente, ou em exclamações e resumos (cf. usos neutro e arcaicos).\",\"aliases\":[],\"exemplos\":[\"Cic. Rep. 1, 1\",\"Cic. Verr. 5, 62\",\"T. Liv. 24, 3, 17\",\"Cic. Tusc. 5, 103\",\"Cic. Ac. 1, 22\",\"Cic. Off. 2, 50\",\"Plaut. Ps. 822\",\"Plaut. Bac. 1142\",\"Plaut. Curc. 506\"],\"notas\":\"Normalizada a lista de formas; mantidos comentários sobre formas arcaicas e usos especiais.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}"
-  },
-  {
-    "id": "chunk_12573-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_12573",
-    "page_num": 12573,
-    "lemmas": [
-      "hic",
-      "hic"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "Pronome demonstrativo reforçado de hic: este, esta, isto; usado para enfatizar ou anexar explicação particular.",
-    "exemplos": [],
-    "notas": "Forma reforçada e variantes normalizadas; 'pron.' não cabe no vocabulário-morfológico fornecido, por isso morfologia próxima escolhida e flag adicionada. | [dedupe] redirect → chunk_12244:12244:1 | [dedupe] redirect → chunk_12244:12244:1",
-    "raw_text": "{\"id\":\"chunk_12573:12573:0\",\"lemas\":[\"hic\",\"haec\",\"hoc\",\"hice\",\"haece\",\"hoce\"],\"lema_canonico\":\"hic\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Pronome demonstrativo reforçado de hic: este, esta, isto; usado para enfatizar ou anexar explicação particular.\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 1, 224\"],\"notas\":\"Forma reforçada e variantes normalizadas; 'pron.' não cabe no vocabulário-morfológico fornecido, por isso morfologia próxima escolhida e flag adicionada.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_12573:12573:0\",\"lemas\":[\"hic\",\"haec\",\"hoc\",\"hice\",\"haece\",\"hoce\"],\"lema_canonico\":\"hic\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Pronome demonstrativo reforçado de hic: este, esta, isto; usado para enfatizar ou anexar explicação particular.\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 1, 224\"],\"notas\":\"Forma reforçada e variantes normalizadas; 'pron.' não cabe no vocabulário-morfológico fornecido, por isso morfologia próxima escolhida e flag adicionada.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}"
-  },
-  {
     "id": "chunk_12574-e1",
     "volume_id": "faria",
     "doc_name": "chunk_12574",
@@ -4376,28 +3848,6 @@
     "notas": "Forma confirmada como 3ª decl. pelo LS; variantes gráficas registradas.",
     "raw_text": "{\"id\":\"chunk_12582:12582:0\",\"lemas\":[\"Hiempsal\",\"Hempsal\",\"Hiémsal\"],\"lema_canonico\":\"Hiempsal\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Rei próprio: Hiemsāl (Hempsal), rei da Mauritânia; também nomeado como filho de Micipsa e rei da Numídia em fontes clássicas.\",\"aliases\":[],\"exemplos\":[\"Sall. Jug. 5, 7\",\"Sall. Jug. 11, 3\",\"Sall. Jug. 17\",\"Florus 3, 8, 4\",\"Suet. Caes. 71\",\"Cic. Vatin. 5, 12\"],\"notas\":\"Forma confirmada como 3ª decl. pelo LS; variantes gráficas registradas.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_12582:12582:0\",\"lemas\":[\"Hiempsal\",\"Hempsal\",\"Hiémsal\"],\"lema_canonico\":\"Hiempsal\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Rei próprio: Hiemsāl (Hempsal), rei da Mauritânia; também nomeado como filho de Micipsa e rei da Numídia em fontes clássicas.\",\"aliases\":[],\"exemplos\":[\"Sall. Jug. 5, 7\",\"Sall. Jug. 11, 3\",\"Sall. Jug. 17\",\"Florus 3, 8, 4\",\"Suet. Caes. 71\",\"Cic. Vatin. 5, 12\"],\"notas\":\"Forma confirmada como 3ª decl. pelo LS; variantes gráficas registradas.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_12583-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_12583",
-    "page_num": 12583,
-    "lemmas": [
-      "hiems",
-      "hiems"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "1) Inverno, estação fria. 2) Mau tempo, tempestade. 3) Por extensão, ano (poético). 4) Sentido figurado: frio, calafrio.",
-    "exemplos": [],
-    "notas": "Formas variantes (hiemps) incluídas; morfologia ajustada para 3ª declinação feminina conforme LS/Whitaker. | [dedupe] redirect → chunk_12581:12581:0 | [dedupe] redirect → chunk_12581:12581:0",
-    "raw_text": "{\"id\":\"chunk_12583:12583:0\",\"lemas\":[\"hiems\",\"hiemis\",\"hiemps\"],\"lema_canonico\":\"hiems\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"1) Inverno, estação fria. 2) Mau tempo, tempestade. 3) Por extensão, ano (poético). 4) Sentido figurado: frio, calafrio.\",\"aliases\":[],\"exemplos\":[\"Cæs. B. G. 3, 1\",\"Verg. Georg. 1, 321\",\"Hor. O. 1, 15, 35\",\"Ov. Met. 2, 827\"],\"notas\":\"Formas variantes (hiemps) incluídas; morfologia ajustada para 3ª declinação feminina conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_12583:12583:0\",\"lemas\":[\"hiems\",\"hiemis\",\"hiemps\"],\"lema_canonico\":\"hiems\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"1) Inverno, estação fria. 2) Mau tempo, tempestade. 3) Por extensão, ano (poético). 4) Sentido figurado: frio, calafrio.\",\"aliases\":[],\"exemplos\":[\"Cæs. B. G. 3, 1\",\"Verg. Georg. 1, 321\",\"Hor. O. 1, 15, 35\",\"Ov. Met. 2, 827\"],\"notas\":\"Formas variantes (hiemps) incluídas; morfologia ajustada para 3ª declinação feminina conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_12584-e1",

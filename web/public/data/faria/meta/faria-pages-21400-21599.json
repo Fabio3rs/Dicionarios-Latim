@@ -1,27 +1,5 @@
 [
   {
-    "id": "chunk_21400-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21400",
-    "page_num": 21400,
-    "lemmas": [
-      "placeo",
-      "placeo"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "to please, to be pleasing or agreeable; to satisfy (takes dative)",
-    "exemplos": [],
-    "notas": "Verbo legítimo com regência típica com dativo; marcado como intransitivo. | [dedupe] redirect → chunk_21395:21395:0 | [dedupe] redirect → chunk_21395:21395:0",
-    "raw_text": "{\"id\":\"chunk_21400:21400:0\",\"lemas\":[\"placeo\"],\"lema_canonico\":\"placeo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"to please, to be pleasing or agreeable; to satisfy (takes dative)\",\"aliases\":[],\"exemplos\":[\"Plaut. Bac. 1018\"],\"notas\":\"Verbo legítimo com regência típica com dativo; marcado como intransitivo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21400:21400:0\",\"lemas\":[\"placeo\"],\"lema_canonico\":\"placeo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"to please, to be pleasing or agreeable; to satisfy (takes dative)\",\"aliases\":[],\"exemplos\":[\"Plaut. Bac. 1018\"],\"notas\":\"Verbo legítimo com regência típica com dativo; marcado como intransitivo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_21401-e1",
     "volume_id": "faria",
     "doc_name": "chunk_21401",
@@ -108,28 +86,6 @@
     "notas": "Lema e morfologia padronizados conforme LS e Lat→Deu (plācō, plācāre).",
     "raw_text": "{\"id\":\"chunk_21403:21403:1\",\"lemas\":[\"plāco\",\"plācāre\"],\"lema_canonico\":\"plāco\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"Aplacar, apaziguar, reconciliar; tornar propício (causativo de placeo).\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 4, 9\",\"Ov. Met. 11, 432\",\"Cic. Ph. 3, 151\"],\"notas\":\"Lema e morfologia padronizados conforme LS e Lat→Deu (plācō, plācāre).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_21403:21403:1\",\"lemas\":[\"plāco\",\"plācāre\"],\"lema_canonico\":\"plāco\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"Aplacar, apaziguar, reconciliar; tornar propício (causativo de placeo).\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 4, 9\",\"Ov. Met. 11, 432\",\"Cic. Ph. 3, 151\"],\"notas\":\"Lema e morfologia padronizados conforme LS e Lat→Deu (plācō, plācāre).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_21403-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_21403",
-    "page_num": 21403,
-    "lemmas": [
-      "placitus",
-      "placitus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Particípio/adjetivo de placeo (variante ortográfica placītus); agradando, aprovado.",
-    "exemplos": [],
-    "notas": "Ortografia normalizada a 'placitus' (LS registra plăcĭtus). | [dedupe] redirect → chunk_21403:21403:0 | [dedupe] redirect → chunk_21403:21403:0",
-    "raw_text": "{\"id\":\"chunk_21403:21403:2\",\"lemas\":[\"placitus\"],\"lema_canonico\":\"placitus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio/adjetivo de placeo (variante ortográfica placītus); agradando, aprovado.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Ortografia normalizada a 'placitus' (LS registra plăcĭtus).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21403:21403:2\",\"lemas\":[\"placitus\"],\"lema_canonico\":\"placitus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio/adjetivo de placeo (variante ortográfica placītus); agradando, aprovado.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Ortografia normalizada a 'placitus' (LS registra plăcĭtus).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_21404-e1",
@@ -484,28 +440,6 @@
     "raw_json": "{\"id\":\"chunk_21418:21418:0\",\"lemas\":[\"Plancius\",\"Plancĭus\"],\"lema_canonico\":\"Plancius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"name of a Roman gens (Plancius); e.g. Cn. Plancius, patron/friend of Cicero.\",\"aliases\":[],\"exemplos\":[\"Cic. Red. in Sen. 14, 35\",\"Cic. Att. 1, 12, 2\"],\"notas\":\"Normalizada forma e referências segundo Lewis & Short; entrada é nome próprio.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_21419-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21419",
-    "page_num": 21419,
-    "lemmas": [
-      "pater",
-      "pater"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "pai; chefe de família (pater familias); título honorífico (p. ex. pater patriae); fundador, progenitor",
-    "exemplos": [],
-    "notas": "[dedupe] redirect → chunk_19787:19787:0 | [dedupe] redirect → chunk_19787:19787:0",
-    "raw_text": "{\"id\":\"chunk_21419:21419:0\",\"lemas\":[\"pater\"],\"lema_canonico\":\"pater\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"pai; chefe de família (pater familias); título honorífico (p. ex. pater patriae); fundador, progenitor\",\"aliases\":[],\"exemplos\":[\"Cic. Mil. 16\",\"Plin. Nat. 37, 2\",\"Varr. R.R. 1, 7\"],\"notas\":\"\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21419:21419:0\",\"lemas\":[\"pater\"],\"lema_canonico\":\"pater\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"pai; chefe de família (pater familias); título honorífico (p. ex. pater patriae); fundador, progenitor\",\"aliases\":[],\"exemplos\":[\"Cic. Mil. 16\",\"Plin. Nat. 37, 2\",\"Varr. R.R. 1, 7\"],\"notas\":\"\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_21419-e2",
     "volume_id": "faria",
     "doc_name": "chunk_21419",
@@ -660,94 +594,6 @@
     "raw_json": "{\"id\":\"chunk_21425:21425:0\",\"lemas\":[\"planiculus\"],\"lema_canonico\":\"planiculus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"pequeno plano; diminutivo de planum, usado para pequeno desenho ou placa (Neo-Lat./téc.)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Lema e declinação corrigidos segundo Whitaker; uso atestado sobretudo em forma derivada/neo-latina.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_21426-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21426",
-    "page_num": 21426,
-    "lemmas": [
-      "pantomima",
-      "pantomima"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "pantomima, atriz ou dançarina de pantomima; female mime performer (ballet-dancer)",
-    "exemplos": [],
-    "notas": "Forma confirmada em Lewis & Short e Whitaker; autoria grega indicada em Lat→Deu. | [dedupe] redirect → chunk_19596:19596:0 | [dedupe] redirect → chunk_19596:19596:0",
-    "raw_text": "{\"id\":\"chunk_21426:21426:0\",\"lemas\":[\"pantomima\"],\"lema_canonico\":\"pantomima\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"pantomima, atriz ou dançarina de pantomima; female mime performer (ballet-dancer)\",\"aliases\":[],\"exemplos\":[\"Sen. Cons. ad Helv. 12, 6\"],\"notas\":\"Forma confirmada em Lewis & Short e Whitaker; autoria grega indicada em Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21426:21426:0\",\"lemas\":[\"pantomima\"],\"lema_canonico\":\"pantomima\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"pantomima, atriz ou dançarina de pantomima; female mime performer (ballet-dancer)\",\"aliases\":[],\"exemplos\":[\"Sen. Cons. ad Helv. 12, 6\"],\"notas\":\"Forma confirmada em Lewis & Short e Whitaker; autoria grega indicada em Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_21426-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_21426",
-    "page_num": 21426,
-    "lemmas": [
-      "pantomimicus",
-      "pantomimicus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "relativo à pantomima; pantomímico, pertencente às pantomimas",
-    "exemplos": [],
-    "notas": "Adjetivo atestado em Lewis & Short e Whitaker; variantes de género e número incluídas. | [dedupe] redirect → chunk_19597:19597:0 | [dedupe] redirect → chunk_19597:19597:0",
-    "raw_text": "{\"id\":\"chunk_21426:21426:1\",\"lemas\":[\"pantomimicus\",\"pantomimica\",\"pantomimicum\"],\"lema_canonico\":\"pantomimicus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo à pantomima; pantomímico, pertencente às pantomimas\",\"aliases\":[],\"exemplos\":[\"Sen. Ep. 29, 12\"],\"notas\":\"Adjetivo atestado em Lewis & Short e Whitaker; variantes de género e número incluídas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21426:21426:1\",\"lemas\":[\"pantomimicus\",\"pantomimica\",\"pantomimicum\"],\"lema_canonico\":\"pantomimicus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo à pantomima; pantomímico, pertencente às pantomimas\",\"aliases\":[],\"exemplos\":[\"Sen. Ep. 29, 12\"],\"notas\":\"Adjetivo atestado em Lewis & Short e Whitaker; variantes de género e número incluídas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_21426-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_21426",
-    "page_num": 21426,
-    "lemmas": [
-      "pantomimus",
-      "pantomimus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "pantomimus, ator ou dançarino pantomímico; mímico em pantomimas",
-    "exemplos": [],
-    "notas": "Forma confirmada por Lewis & Short, Whitaker e Lat→Deu. | [dedupe] redirect → chunk_19598:19598:0 | [dedupe] redirect → chunk_19598:19598:0",
-    "raw_text": "{\"id\":\"chunk_21426:21426:2\",\"lemas\":[\"pantomimus\"],\"lema_canonico\":\"pantomimus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"pantomimus, ator ou dançarino pantomímico; mímico em pantomimas\",\"aliases\":[],\"exemplos\":[\"Suet. Aug. 45\",\"Suet. Calig. 36\",\"Macr. S. 2, 7\",\"Sen. Ep. 95, 56\",\"Sen. Q. N. 7, 32, 3\"],\"notas\":\"Forma confirmada por Lewis & Short, Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21426:21426:2\",\"lemas\":[\"pantomimus\"],\"lema_canonico\":\"pantomimus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"pantomimus, ator ou dançarino pantomímico; mímico em pantomimas\",\"aliases\":[],\"exemplos\":[\"Suet. Aug. 45\",\"Suet. Calig. 36\",\"Macr. S. 2, 7\",\"Sen. Ep. 95, 56\",\"Sen. Q. N. 7, 32, 3\"],\"notas\":\"Forma confirmada por Lewis & Short, Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_21426-e4",
-    "volume_id": "faria",
-    "doc_name": "chunk_21426",
-    "page_num": 21426,
-    "lemmas": [
-      "-icus",
-      "-icus"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:low",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "sufixo formador de adjetivos (indica relação ou pertença: -ico)",
-    "exemplos": [],
-    "notas": "Entrada de sufixo herdada da primeira passada; classificação morfológica fora do vocabulário nominal padrão. | [dedupe] redirect → chunk_15977:15977:0 | [dedupe] redirect → chunk_15977:15977:0",
-    "raw_text": "{\"id\":\"chunk_21426:21426:3\",\"lemas\":[\"-icus\"],\"lema_canonico\":\"-icus\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"sufixo formador de adjetivos (indica relação ou pertença: -ico)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada de sufixo herdada da primeira passada; classificação morfológica fora do vocabulário nominal padrão.\",\"flags\":[\"src_firstpass\",\"src_whitaker\",\"conf:low\",\"needs_review\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_21426:21426:3\",\"lemas\":[\"-icus\"],\"lema_canonico\":\"-icus\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"sufixo formador de adjetivos (indica relação ou pertença: -ico)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada de sufixo herdada da primeira passada; classificação morfológica fora do vocabulário nominal padrão.\",\"flags\":[\"src_firstpass\",\"src_whitaker\",\"conf:low\",\"needs_review\",\"morph_out_of_vocab\"]}"
-  },
-  {
     "id": "chunk_21426-e5",
     "volume_id": "faria",
     "doc_name": "chunk_21426",
@@ -792,50 +638,6 @@
     "raw_json": "{\"id\":\"chunk_21427:21427:0\",\"lemas\":[\"planitas\",\"plānĭtas\"],\"lema_canonico\":\"planitas\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"(Em retórica) simplicidade, clareza, nitidez de expressão; distinctness/perspicuity.\",\"aliases\":[],\"exemplos\":[\"Tac. Or. 23 fin.\"],\"notas\":\"Lema e genitiva padronizados conforme LS; termo retórico atestado em Tácito.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_21428-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21428",
-    "page_num": 21428,
-    "lemmas": [
-      "planities",
-      "planities"
-    ],
-    "morfologia": "s. fem. 5ª (-ei)",
-    "morph_render": "s. fem. 5ª (-ei)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "planície, planura; superfície plana",
-    "exemplos": [],
-    "notas": "Grafia e macronização uniformizadas; atestado em autores clássicos. | [dedupe] redirect → chunk_21424:21424:0 | [dedupe] redirect → chunk_21424:21424:0",
-    "raw_text": "{\"id\":\"chunk_21428:21428:0\",\"lemas\":[\"planities\"],\"lema_canonico\":\"planities\",\"morfologia\":\"s. fem. 5ª (-ei)\",\"morph_extra\":[],\"definicao\":\"planície, planura; superfície plana\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 1, 2\"],\"notas\":\"Grafia e macronização uniformizadas; atestado em autores clássicos.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21428:21428:0\",\"lemas\":[\"planities\"],\"lema_canonico\":\"planities\",\"morfologia\":\"s. fem. 5ª (-ei)\",\"morph_extra\":[],\"definicao\":\"planície, planura; superfície plana\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 1, 2\"],\"notas\":\"Grafia e macronização uniformizadas; atestado em autores clássicos.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_21429-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21429",
-    "page_num": 21429,
-    "lemmas": [
-      "planities",
-      "planities"
-    ],
-    "morfologia": "s. fem. 5ª (-ei)",
-    "morph_render": "s. fem. 5ª (-ei)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Superfície plana; planície, planura, área nivelada.",
-    "exemplos": [],
-    "notas": "Inclui variante planitia (1ª decl.); sentido confirmado por LS e Whitaker. | [dedupe] redirect → chunk_21424:21424:0 | [dedupe] redirect → chunk_21424:21424:0",
-    "raw_text": "{\"id\":\"chunk_21429:21429:0\",\"lemas\":[\"planities\",\"planitia\"],\"lema_canonico\":\"planities\",\"morfologia\":\"s. fem. 5ª (-ei)\",\"morph_extra\":[],\"definicao\":\"Superfície plana; planície, planura, área nivelada.\",\"aliases\":[\"planitia\"],\"exemplos\":[\"Cic. Verr. 4, 107\"],\"notas\":\"Inclui variante planitia (1ª decl.); sentido confirmado por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21429:21429:0\",\"lemas\":[\"planities\",\"planitia\"],\"lema_canonico\":\"planities\",\"morfologia\":\"s. fem. 5ª (-ei)\",\"morph_extra\":[],\"definicao\":\"Superfície plana; planície, planura, área nivelada.\",\"aliases\":[\"planitia\"],\"exemplos\":[\"Cic. Verr. 4, 107\"],\"notas\":\"Inclui variante planitia (1ª decl.); sentido confirmado por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_21430-e1",
     "volume_id": "faria",
     "doc_name": "chunk_21430",
@@ -856,50 +658,6 @@
     "notas": "Polissemia e exemplos confirmados por Lewis & Short, Whitaker e Lat→Deu.",
     "raw_text": "{\"id\":\"chunk_21430:21430:0\",\"lemas\":[\"planta\"],\"lema_canonico\":\"planta\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"planta: broto, rebento, ramo ou estaca para propagação; também jovem árvore/arbusto; sola do pé (sentido secundário).\",\"aliases\":[],\"exemplos\":[\"Varr. R.R. 1, 55\",\"Verg. G. 2, 23\"],\"notas\":\"Polissemia e exemplos confirmados por Lewis & Short, Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_21430:21430:0\",\"lemas\":[\"planta\"],\"lema_canonico\":\"planta\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"planta: broto, rebento, ramo ou estaca para propagação; também jovem árvore/arbusto; sola do pé (sentido secundário).\",\"aliases\":[],\"exemplos\":[\"Varr. R.R. 1, 55\",\"Verg. G. 2, 23\"],\"notas\":\"Polissemia e exemplos confirmados por Lewis & Short, Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_21431-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21431",
-    "page_num": 21431,
-    "lemmas": [
-      "planta",
-      "planta"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "1) Haste, rebento ou muda destinada à propagação (cutting, young plant). 2) Sola do pé (foot, sole).",
-    "exemplos": [],
-    "notas": "Unificadas acepções botânica e anatômica conforme Lewis & Short e Lat→Deu. | [dedupe] redirect → chunk_21430:21430:0 | [dedupe] redirect → chunk_21430:21430:0",
-    "raw_text": "{\"id\":\"chunk_21431:21431:0\",\"lemas\":[\"planta\"],\"lema_canonico\":\"planta\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"1) Haste, rebento ou muda destinada à propagação (cutting, young plant). 2) Sola do pé (foot, sole).\",\"aliases\":[],\"exemplos\":[\"Cic. CM. 52\"],\"notas\":\"Unificadas acepções botânica e anatômica conforme Lewis & Short e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21431:21431:0\",\"lemas\":[\"planta\"],\"lema_canonico\":\"planta\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"1) Haste, rebento ou muda destinada à propagação (cutting, young plant). 2) Sola do pé (foot, sole).\",\"aliases\":[],\"exemplos\":[\"Cic. CM. 52\"],\"notas\":\"Unificadas acepções botânica e anatômica conforme Lewis & Short e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_21432-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21432",
-    "page_num": 21432,
-    "lemmas": [
-      "paro",
-      "paro"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "(verb) to make ready, prepare, furnish, provide; to arrange or bring to agreement. Also attested as a distinct noun parō, -ōnis (m.) 'a small light ship' in some classical usages.",
-    "exemplos": [],
-    "notas": "Entrada original aparentava OCR/segmentação errada (planta). Corrigido para parō (verb) e mencionado substantivo homónimo conforme LS/Lat→Deu. | [dedupe] redirect → chunk_19680:19680:0 | [dedupe] redirect → chunk_19680:19680:0",
-    "raw_text": "{\"id\":\"chunk_21432:21432:0\",\"lemas\":[\"paro\",\"parō\"],\"lema_canonico\":\"paro\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"(verb) to make ready, prepare, furnish, provide; to arrange or bring to agreement. Also attested as a distinct noun parō, -ōnis (m.) 'a small light ship' in some classical usages.\",\"aliases\":[],\"exemplos\":[\"Plaut. Men. 2, 3, 14\",\"Caes. B. G. 5, 42\"],\"notas\":\"Entrada original aparentava OCR/segmentação errada (planta). Corrigido para parō (verb) e mencionado substantivo homónimo conforme LS/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21432:21432:0\",\"lemas\":[\"paro\",\"parō\"],\"lema_canonico\":\"paro\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"(verb) to make ready, prepare, furnish, provide; to arrange or bring to agreement. Also attested as a distinct noun parō, -ōnis (m.) 'a small light ship' in some classical usages.\",\"aliases\":[],\"exemplos\":[\"Plaut. Men. 2, 3, 14\",\"Caes. B. G. 5, 42\"],\"notas\":\"Entrada original aparentava OCR/segmentação errada (planta). Corrigido para parō (verb) e mencionado substantivo homónimo conforme LS/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_21433-e1",
@@ -1100,28 +858,6 @@
     "raw_json": "{\"id\":\"chunk_21440:21440:1\",\"lemas\":[\"planum\",\"plānum\"],\"lema_canonico\":\"planum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"planície, terreno plano; superfície nivelada; uso técnico para lugar plano.\",\"aliases\":[],\"exemplos\":[\"Sall. J. 49, 6\",\"Ov. A. A. 2, 243\",\"Sen. Tranq. 10, 6\",\"Dig. 13, 6, 5\",\"Suet. Tib. 33\"],\"notas\":\"Substantivo neutro confirmado em LS, Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_21440-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_21440",
-    "page_num": 21440,
-    "lemmas": [
-      "plane",
-      "plane"
-    ],
-    "morfologia": "adv.",
-    "morph_render": "adv.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "claramente, nitidamente; completamente, inteiramente.",
-    "exemplos": [],
-    "notas": "Advérbio atestado em LS e Whitaker; significado alinhado com 'de modo plano' → 'claramente'. | [dedupe] redirect → chunk_21420:21420:0 | [dedupe] redirect → chunk_21420:21420:0",
-    "raw_text": "{\"id\":\"chunk_21440:21440:2\",\"lemas\":[\"plane\",\"plānē\"],\"lema_canonico\":\"plane\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"claramente, nitidamente; completamente, inteiramente.\",\"aliases\":[],\"exemplos\":[\"Plaut. Trin. 4, 3, 64\",\"Cic. Or. 1, 32\",\"Lucr. 1, 411\",\"Cic. Att. 2, 24, 5\"],\"notas\":\"Advérbio atestado em LS e Whitaker; significado alinhado com 'de modo plano' → 'claramente'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21440:21440:2\",\"lemas\":[\"plane\",\"plānē\"],\"lema_canonico\":\"plane\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"claramente, nitidamente; completamente, inteiramente.\",\"aliases\":[],\"exemplos\":[\"Plaut. Trin. 4, 3, 64\",\"Cic. Or. 1, 32\",\"Lucr. 1, 411\",\"Cic. Att. 2, 24, 5\"],\"notas\":\"Advérbio atestado em LS e Whitaker; significado alinhado com 'de modo plano' → 'claramente'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_21440-e4",
     "volume_id": "faria",
     "doc_name": "chunk_21440",
@@ -1142,28 +878,6 @@
     "notas": "Acepção substantival atestada por Lewis & Short e registrada também em sumários Lat→Deu; distinguida do adjetivo 'planus'.",
     "raw_text": "{\"id\":\"chunk_21440:21440:3\",\"lemas\":[\"planus\"],\"lema_canonico\":\"planus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"(arcaico/class.) burlador, charlatão, impostor; substantivo ocasional distinto do adjetivo.\",\"aliases\":[],\"exemplos\":[\"Cic. Clu. 26, 72\",\"Hor. Ep. 1, 17, 59\"],\"notas\":\"Acepção substantival atestada por Lewis & Short e registrada também em sumários Lat→Deu; distinguida do adjetivo 'planus'.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_21440:21440:3\",\"lemas\":[\"planus\"],\"lema_canonico\":\"planus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"(arcaico/class.) burlador, charlatão, impostor; substantivo ocasional distinto do adjetivo.\",\"aliases\":[],\"exemplos\":[\"Cic. Clu. 26, 72\",\"Hor. Ep. 1, 17, 59\"],\"notas\":\"Acepção substantival atestada por Lewis & Short e registrada também em sumários Lat→Deu; distinguida do adjetivo 'planus'.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_21441-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21441",
-    "page_num": 21441,
-    "lemmas": [
-      "planus",
-      "planus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Um charlatão, impostor, ou vagabundo (substantivo); atestado em autores clássicos.",
-    "exemplos": [],
-    "notas": "Entrada substantival (juggler/impostor) alinhada com Lewis & Short e Whitaker; forma distinta do adjetivo 'plānus'. | [dedupe] redirect → chunk_21440:21440:3 | [dedupe] redirect → chunk_21440:21440:3",
-    "raw_text": "{\"id\":\"chunk_21441:21441:0\",\"lemas\":[\"planus\"],\"lema_canonico\":\"planus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Um charlatão, impostor, ou vagabundo (substantivo); atestado em autores clássicos.\",\"aliases\":[],\"exemplos\":[\"Hor. Ep. 1, 17, 59\",\"Petr. 82\"],\"notas\":\"Entrada substantival (juggler/impostor) alinhada com Lewis & Short e Whitaker; forma distinta do adjetivo 'plānus'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21441:21441:0\",\"lemas\":[\"planus\"],\"lema_canonico\":\"planus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Um charlatão, impostor, ou vagabundo (substantivo); atestado em autores clássicos.\",\"aliases\":[],\"exemplos\":[\"Hor. Ep. 1, 17, 59\",\"Petr. 82\"],\"notas\":\"Entrada substantival (juggler/impostor) alinhada com Lewis & Short e Whitaker; forma distinta do adjetivo 'plānus'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_21442-e1",
@@ -1452,28 +1166,6 @@
     "raw_json": "{\"id\":\"chunk_21453:21453:1\",\"lemas\":[\"platonici\"],\"lema_canonico\":\"platonici\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"os platônicos; seguidores das ideias de Platão\",\"aliases\":[],\"exemplos\":[\"Cic. Off. 1, 2\"],\"notas\":\"Substantivo plural derivado do adjetivo platonicus; entrada atestada em fontes.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_21454-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21454",
-    "page_num": 21454,
-    "lemmas": [
-      "platonicus",
-      "platonicus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Relativo a Platão; platônico.",
-    "exemplos": [],
-    "notas": "Normalizada a forma clássica 'platonicus, -a, -um'; suportado por Whitaker e Lewis & Short. | [dedupe] redirect → chunk_21453:21453:0 | [dedupe] redirect → chunk_21453:21453:0",
-    "raw_text": "{\"id\":\"chunk_21454:21454:0\",\"lemas\":[\"platonicus\",\"platonica\",\"platonicum\"],\"lema_canonico\":\"platonicus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo a Platão; platônico.\",\"aliases\":[],\"exemplos\":[\"Sên. Ep. 58, 26\"],\"notas\":\"Normalizada a forma clássica 'platonicus, -a, -um'; suportado por Whitaker e Lewis & Short.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21454:21454:0\",\"lemas\":[\"platonicus\",\"platonica\",\"platonicum\"],\"lema_canonico\":\"platonicus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo a Platão; platônico.\",\"aliases\":[],\"exemplos\":[\"Sên. Ep. 58, 26\"],\"notas\":\"Normalizada a forma clássica 'platonicus, -a, -um'; suportado por Whitaker e Lewis & Short.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_21455-e1",
     "volume_id": "faria",
     "doc_name": "chunk_21455",
@@ -1516,28 +1208,6 @@
     "notas": "Entrada baseada em variantes atestadas no Whitaker; uso restrito com prefixos numéricos indicado.",
     "raw_text": "{\"id\":\"chunk_21455:21455:1\",\"lemas\":[\"plo\",\"plare\",\"plavi\",\"platus\"],\"lema_canonico\":\"plo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"Verbo 1ª conjugação, ‘multiplicar por X; tornar X-vezes’ (usado apenas com prefixo numeral).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada baseada em variantes atestadas no Whitaker; uso restrito com prefixos numéricos indicado.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_21455:21455:1\",\"lemas\":[\"plo\",\"plare\",\"plavi\",\"platus\"],\"lema_canonico\":\"plo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"Verbo 1ª conjugação, ‘multiplicar por X; tornar X-vezes’ (usado apenas com prefixo numeral).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada baseada em variantes atestadas no Whitaker; uso restrito com prefixos numéricos indicado.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_21456-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21456",
-    "page_num": 21456,
-    "lemmas": [
-      "plaudo",
-      "plaudo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "bater; aplaudir; também fig. aprovar.",
-    "exemplos": [],
-    "notas": "Unificado para 'plaudo' com variantes atestadas (plodo, plōdo); formas e exemplos confirmados em LS/Whitaker/Lat→Deu. | [dedupe] redirect → chunk_21457:21457:0 | [dedupe] redirect → chunk_21457:21457:0",
-    "raw_text": "{\"id\":\"chunk_21456:21456:0\",\"lemas\":[\"plaudo\",\"plodo\",\"plōdo\"],\"lema_canonico\":\"plaudo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"bater; aplaudir; também fig. aprovar.\",\"aliases\":[],\"exemplos\":[\"Verg. A. 5, 515\",\"Ov. Met. 2, 866\",\"Verg. A. 6, 644\",\"Cic. Att. 16, 2, 31\",\"Cic. Q Fr. 2, 4, 14\",\"Quint. 6, 1, 52\"],\"notas\":\"Unificado para 'plaudo' com variantes atestadas (plodo, plōdo); formas e exemplos confirmados em LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21456:21456:0\",\"lemas\":[\"plaudo\",\"plodo\",\"plōdo\"],\"lema_canonico\":\"plaudo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"bater; aplaudir; também fig. aprovar.\",\"aliases\":[],\"exemplos\":[\"Verg. A. 5, 515\",\"Ov. Met. 2, 866\",\"Verg. A. 6, 644\",\"Cic. Att. 16, 2, 31\",\"Cic. Q Fr. 2, 4, 14\",\"Quint. 6, 1, 52\"],\"notas\":\"Unificado para 'plaudo' com variantes atestadas (plodo, plōdo); formas e exemplos confirmados em LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_21457-e1",
@@ -1892,28 +1562,6 @@
     "raw_json": "{\"id\":\"chunk_21472:21472:0\",\"lemas\":[\"plebicola\",\"plēbĭcŏla\"],\"lema_canonico\":\"plebicola\",\"morfologia\":\"s. masc. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"aquele que corteja o povo; amigo do povo, demagogo.\",\"aliases\":[],\"exemplos\":[\"Cic. Agr. 2, 31\",\"Liv. 3, 33\"],\"notas\":\"Gênero masculino e forma declinacional confirmados em LS e Whitaker; exemplos ajustados para leituras canônicas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_21472-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_21472",
-    "page_num": 21472,
-    "lemmas": [
-      "plebs",
-      "plebs"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "a plebe; o povo comum, os plebeus (oposto aos patrícios).",
-    "exemplos": [],
-    "notas": "Forma e genitivo (plebis) confirmados em LS/Whitaker/Lat→Deu; exemplo canônico fornecido por LS. | [dedupe] redirect → chunk_21471:21471:0 | [dedupe] redirect → chunk_21471:21471:0",
-    "raw_text": "{\"id\":\"chunk_21472:21472:1\",\"lemas\":[\"plebs\",\"plēbes\"],\"lema_canonico\":\"plebs\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"a plebe; o povo comum, os plebeus (oposto aos patrícios).\",\"aliases\":[],\"exemplos\":[\"Cic. Leg. 3, 3, 10\"],\"notas\":\"Forma e genitivo (plebis) confirmados em LS/Whitaker/Lat→Deu; exemplo canônico fornecido por LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21472:21472:1\",\"lemas\":[\"plebs\",\"plēbes\"],\"lema_canonico\":\"plebs\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"a plebe; o povo comum, os plebeus (oposto aos patrícios).\",\"aliases\":[],\"exemplos\":[\"Cic. Leg. 3, 3, 10\"],\"notas\":\"Forma e genitivo (plebis) confirmados em LS/Whitaker/Lat→Deu; exemplo canônico fornecido por LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_21473-e1",
     "volume_id": "faria",
     "doc_name": "chunk_21473",
@@ -1934,28 +1582,6 @@
     "notas": "Normalizado para plēbiscītum -ī, n.; forma e sentido corroborados por LS e Lat→Deu.",
     "raw_text": "{\"id\":\"chunk_21473:21473:0\",\"lemas\":[\"plēbiscītum\"],\"lema_canonico\":\"plēbiscītum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Decreto ou resolução do povo (plebiscito).\",\"aliases\":[],\"exemplos\":[\"Cic. Dom. 17, 44\"],\"notas\":\"Normalizado para plēbiscītum -ī, n.; forma e sentido corroborados por LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_21473:21473:0\",\"lemas\":[\"plēbiscītum\"],\"lema_canonico\":\"plēbiscītum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Decreto ou resolução do povo (plebiscito).\",\"aliases\":[],\"exemplos\":[\"Cic. Dom. 17, 44\"],\"notas\":\"Normalizado para plēbiscītum -ī, n.; forma e sentido corroborados por LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_21473-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_21473",
-    "page_num": 21473,
-    "lemmas": [
-      "plebs",
-      "plebs"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "A plebe; o povo comum, os plebeus; por extensão, multidão, massas, classes inferiores.",
-    "exemplos": [],
-    "notas": "Grafias variantes (plebs, plēps) mantidas; entradas e sentidos alinhados com LS e Whitaker. | [dedupe] redirect → chunk_21471:21471:0 | [dedupe] redirect → chunk_21471:21471:0",
-    "raw_text": "{\"id\":\"chunk_21473:21473:1\",\"lemas\":[\"plebs\",\"plēps\"],\"lema_canonico\":\"plebs\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"A plebe; o povo comum, os plebeus; por extensão, multidão, massas, classes inferiores.\",\"aliases\":[],\"exemplos\":[\"Cic. Leg. 3, 10\",\"Cic. Mil. 95\",\"Juv. 81\"],\"notas\":\"Grafias variantes (plebs, plēps) mantidas; entradas e sentidos alinhados com LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21473:21473:1\",\"lemas\":[\"plebs\",\"plēps\"],\"lema_canonico\":\"plebs\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"A plebe; o povo comum, os plebeus; por extensão, multidão, massas, classes inferiores.\",\"aliases\":[],\"exemplos\":[\"Cic. Leg. 3, 10\",\"Cic. Mil. 95\",\"Juv. 81\"],\"notas\":\"Grafias variantes (plebs, plēps) mantidas; entradas e sentidos alinhados com LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_21474-e1",
@@ -2420,28 +2046,6 @@
     "raw_json": "{\"id\":\"chunk_21493:21493:0\",\"lemas\":[\"pleuronius\"],\"lema_canonico\":\"pleuronius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo a Pleúron (topónimo etólico).\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 14, 494\"],\"notas\":\"Baseado na primeira passada; forma gentilícia/adjetival de Pleúron.\",\"flags\":[\"src_firstpass\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_21494-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21494",
-    "page_num": 21494,
-    "lemmas": [
-      "plecto",
-      "plecto"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "trançar, entrelaçar, plait; também (em passiva) sofrer castigo/punição em autores posteriores (duas entradas homônimas em LS).",
-    "exemplos": [],
-    "notas": "Concilia sentidos atestados por LS/Whitaker: ação de entrelaçar (plexus) e uso passivo relacionado a punição; preservado lema simples. | [dedupe] redirect → chunk_21476:21476:0 | [dedupe] redirect → chunk_21476:21476:0",
-    "raw_text": "{\"id\":\"chunk_21494:21494:0\",\"lemas\":[\"plecto\"],\"lema_canonico\":\"plecto\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"trançar, entrelaçar, plait; também (em passiva) sofrer castigo/punição em autores posteriores (duas entradas homônimas em LS).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Concilia sentidos atestados por LS/Whitaker: ação de entrelaçar (plexus) e uso passivo relacionado a punição; preservado lema simples.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21494:21494:0\",\"lemas\":[\"plecto\"],\"lema_canonico\":\"plecto\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"trançar, entrelaçar, plait; também (em passiva) sofrer castigo/punição em autores posteriores (duas entradas homônimas em LS).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Concilia sentidos atestados por LS/Whitaker: ação de entrelaçar (plexus) e uso passivo relacionado a punição; preservado lema simples.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_21494-e2",
     "volume_id": "faria",
     "doc_name": "chunk_21494",
@@ -2640,28 +2244,6 @@
     "raw_json": "{\"id\":\"chunk_21502:21502:0\",\"lemas\":[\"Plistica\"],\"lema_canonico\":\"Plistica\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Topônimo: cidade do Sâmnio (citado em Liv. Tr. 9, 21, 6).\",\"aliases\":[],\"exemplos\":[\"Tr. Liv. 9, 21, 6\"],\"notas\":\"Somente atestado na 1ª passada/OCR; não confirmado em LS/Whitaker. Trata-se de topônimo; morfologia ajustada.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_21503-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21503",
-    "page_num": 21503,
-    "lemmas": [
-      "plaudo",
-      "plaudo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "bater palmas; aplaudir; ancheo poet.: golpear, bater",
-    "exemplos": [],
-    "notas": "Unificado para plaudo (forma canônica); corrigido de variante OCR 'plōdĕo' para plaudo. | [dedupe] redirect → chunk_21457:21457:0 | [dedupe] redirect → chunk_21457:21457:0",
-    "raw_text": "{\"id\":\"chunk_21503:21503:1\",\"lemas\":[\"plaudo\"],\"lema_canonico\":\"plaudo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"bater palmas; aplaudir; ancheo poet.: golpear, bater\",\"aliases\":[],\"exemplos\":[\"Verg. A. 6, 644\",\"Ov. M. 2, 866\"],\"notas\":\"Unificado para plaudo (forma canônica); corrigido de variante OCR 'plōdĕo' para plaudo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21503:21503:1\",\"lemas\":[\"plaudo\"],\"lema_canonico\":\"plaudo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"bater palmas; aplaudir; ancheo poet.: golpear, bater\",\"aliases\":[],\"exemplos\":[\"Verg. A. 6, 644\",\"Ov. M. 2, 866\"],\"notas\":\"Unificado para plaudo (forma canônica); corrigido de variante OCR 'plōdĕo' para plaudo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_21503-e2",
     "volume_id": "faria",
     "doc_name": "chunk_21503",
@@ -2836,28 +2418,6 @@
     "notas": "Entradas substantivo (4ª) e particípio harmonizadas; macron preservado conforme LS.",
     "raw_text": "{\"id\":\"chunk_21509:21509:0\",\"lemas\":[\"ploratus\",\"plōrātus\"],\"lema_canonico\":\"ploratus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"lamento, pranto, queixa; também particípio perf. pass. de plōrō (lamentado, chorado).\",\"aliases\":[],\"exemplos\":[\"Cic. Poët. Tusc. 2, 9, 21\",\"Plin. Nat. 36, 5, 4, §29\",\"Vulg. Matt. 2, 18\",\"Liv. 29, 17\",\"Plin. 12, 25, 54, §116\"],\"notas\":\"Entradas substantivo (4ª) e particípio harmonizadas; macron preservado conforme LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_21509:21509:0\",\"lemas\":[\"ploratus\",\"plōrātus\"],\"lema_canonico\":\"ploratus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"lamento, pranto, queixa; também particípio perf. pass. de plōrō (lamentado, chorado).\",\"aliases\":[],\"exemplos\":[\"Cic. Poët. Tusc. 2, 9, 21\",\"Plin. Nat. 36, 5, 4, §29\",\"Vulg. Matt. 2, 18\",\"Liv. 29, 17\",\"Plin. 12, 25, 54, §116\"],\"notas\":\"Entradas substantivo (4ª) e particípio harmonizadas; macron preservado conforme LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_21510-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21510",
-    "page_num": 21510,
-    "lemmas": [
-      "ploratus",
-      "ploratus"
-    ],
-    "morfologia": "s. masc. 4ª (-us)",
-    "morph_render": "s. masc. 4ª (-us)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "lamentação, pranto, lamento",
-    "exemplos": [],
-    "notas": "Substantivo de 4ª declinação confirmado; mantida forma com macron opcional em fontes. | [dedupe] redirect → chunk_21509:21509:0 | [dedupe] redirect → chunk_21509:21509:0",
-    "raw_text": "{\"id\":\"chunk_21510:21510:0\",\"lemas\":[\"ploratus\"],\"lema_canonico\":\"ploratus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"lamentação, pranto, lamento\",\"aliases\":[],\"exemplos\":[\"Cic. At. 5, 16, 2\",\"Plin. 36, 5, 4\"],\"notas\":\"Substantivo de 4ª declinação confirmado; mantida forma com macron opcional em fontes.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21510:21510:0\",\"lemas\":[\"ploratus\"],\"lema_canonico\":\"ploratus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"lamentação, pranto, lamento\",\"aliases\":[],\"exemplos\":[\"Cic. At. 5, 16, 2\",\"Plin. 36, 5, 4\"],\"notas\":\"Substantivo de 4ª declinação confirmado; mantida forma com macron opcional em fontes.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_21511-e1",
@@ -3100,28 +2660,6 @@
     "notas": "Substantivo plumbĕum (plumbeum) atestado em LS e Lat→Deu; distinto do adjetivo.",
     "raw_text": "{\"id\":\"chunk_21520:21520:1\",\"lemas\":[\"plumbeum\"],\"lema_canonico\":\"plumbeum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"substantivo neutro: vaso ou objeto de chumbo (leaden vessel).\",\"aliases\":[],\"exemplos\":[\"Mart. 6, 55, 3\",\"Cato, R. R. 105\"],\"notas\":\"Substantivo plumbĕum (plumbeum) atestado em LS e Lat→Deu; distinto do adjetivo.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_21520:21520:1\",\"lemas\":[\"plumbeum\"],\"lema_canonico\":\"plumbeum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"substantivo neutro: vaso ou objeto de chumbo (leaden vessel).\",\"aliases\":[],\"exemplos\":[\"Mart. 6, 55, 3\",\"Cato, R. R. 105\"],\"notas\":\"Substantivo plumbĕum (plumbeum) atestado em LS e Lat→Deu; distinto do adjetivo.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_21521-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21521",
-    "page_num": 21521,
-    "lemmas": [
-      "plumbeus",
-      "plumbeus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "de chumbo; feito de chumbo; figur.: ruim, pesado; estúpido.",
-    "exemplos": [],
-    "notas": "Corrige referências e unifica sentidos literais e figurados com base em LS. | [dedupe] redirect → chunk_21520:21520:0 | [dedupe] redirect → chunk_21520:21520:0",
-    "raw_text": "{\"id\":\"chunk_21521:21521:0\",\"lemas\":[\"plumbeus\",\"plumbea\",\"plumbeum\"],\"lema_canonico\":\"plumbeus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"de chumbo; feito de chumbo; figur.: ruim, pesado; estúpido.\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 1, 16, 2\",\"Cic. Tusc. 1, 29, 71\",\"Mart. 10, 49, 5\"],\"notas\":\"Corrige referências e unifica sentidos literais e figurados com base em LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21521:21521:0\",\"lemas\":[\"plumbeus\",\"plumbea\",\"plumbeum\"],\"lema_canonico\":\"plumbeus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"de chumbo; feito de chumbo; figur.: ruim, pesado; estúpido.\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 1, 16, 2\",\"Cic. Tusc. 1, 29, 71\",\"Mart. 10, 49, 5\"],\"notas\":\"Corrige referências e unifica sentidos literais e figurados com base em LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_21522-e1",
@@ -3388,28 +2926,6 @@
     "raw_json": "{\"id\":\"chunk_21532:21532:1\",\"lemas\":[\"plus\",\"pluris\"],\"lema_canonico\":\"plus\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"mais; quantidade maior; mais do que (com numeral); preço/valor maior (gen. pluris).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Unificação de formas (nom. plus; gen. pluris) conforme LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_21532-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_21532",
-    "page_num": 21532,
-    "lemmas": [
-      "plure",
-      "plure"
-    ],
-    "morfologia": "adv.",
-    "morph_render": "adv.",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "mais; comparativo adverbial de multum/plus (adv.).",
-    "exemplos": [],
-    "notas": "Corrigido: não é verbo. Mantém-se forma plure como adv., corrigindo classificação errada da primeira passada. | [dedupe] redirect → chunk_21532:21532:0 | [dedupe] redirect → chunk_21532:21532:0",
-    "raw_text": "{\"id\":\"chunk_21532:21532:2\",\"lemas\":[\"plure\"],\"lema_canonico\":\"plure\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"mais; comparativo adverbial de multum/plus (adv.).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigido: não é verbo. Mantém-se forma plure como adv., corrigindo classificação errada da primeira passada.\",\"flags\":[\"src_whitaker\",\"conf:med\",\"src_firstpass\"]}",
-    "raw_json": "{\"id\":\"chunk_21532:21532:2\",\"lemas\":[\"plure\"],\"lema_canonico\":\"plure\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"mais; comparativo adverbial de multum/plus (adv.).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigido: não é verbo. Mantém-se forma plure como adv., corrigindo classificação errada da primeira passada.\",\"flags\":[\"src_whitaker\",\"conf:med\",\"src_firstpass\"]}"
-  },
-  {
     "id": "chunk_21533-e1",
     "volume_id": "faria",
     "doc_name": "chunk_21533",
@@ -3518,94 +3034,6 @@
     "notas": "Interpretação conforme entradas de Whitaker e Lat→Deu; correlacionado ao uso com sentido de preço/estima.",
     "raw_text": "{\"id\":\"chunk_21535:21535:2\",\"lemas\":[\"plurimum\"],\"lema_canonico\":\"plurimum\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"superlativo adverbial de multum: muito, muitíssimo; também forma neutra singular superlativa (o mais) e uso concreto indicando grande valor/preço.\",\"aliases\":[],\"exemplos\":[\"Cic. Par. 48 — plurimi esse\",\"C. Nep. Eum 2, 2 — plurimi facere\"],\"notas\":\"Interpretação conforme entradas de Whitaker e Lat→Deu; correlacionado ao uso com sentido de preço/estima.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_21535:21535:2\",\"lemas\":[\"plurimum\"],\"lema_canonico\":\"plurimum\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"superlativo adverbial de multum: muito, muitíssimo; também forma neutra singular superlativa (o mais) e uso concreto indicando grande valor/preço.\",\"aliases\":[],\"exemplos\":[\"Cic. Par. 48 — plurimi esse\",\"C. Nep. Eum 2, 2 — plurimi facere\"],\"notas\":\"Interpretação conforme entradas de Whitaker e Lat→Deu; correlacionado ao uso com sentido de preço/estima.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_21536-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21536",
-    "page_num": 21536,
-    "lemmas": [
-      "plurimum",
-      "plurimum"
-    ],
-    "morfologia": "adv.",
-    "morph_render": "adv.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "muito; em grau máximo; o mais (adv. superlativo de multum/plūs).",
-    "exemplos": [],
-    "notas": "Usado principalmente como adv.; entrada anterior tratava-o como substantivo, mas LS/Whitaker confirmam uso adverbial. | [dedupe] redirect → chunk_21535:21535:2 | [dedupe] redirect → chunk_21535:21535:2",
-    "raw_text": "{\"id\":\"chunk_21536:21536:0\",\"lemas\":[\"plurimum\"],\"lema_canonico\":\"plurimum\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"muito; em grau máximo; o mais (adv. superlativo de multum/plūs).\",\"aliases\":[],\"exemplos\":[\"Cic. Inv. 1, 25\"],\"notas\":\"Usado principalmente como adv.; entrada anterior tratava-o como substantivo, mas LS/Whitaker confirmam uso adverbial.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21536:21536:0\",\"lemas\":[\"plurimum\"],\"lema_canonico\":\"plurimum\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"muito; em grau máximo; o mais (adv. superlativo de multum/plūs).\",\"aliases\":[],\"exemplos\":[\"Cic. Inv. 1, 25\"],\"notas\":\"Usado principalmente como adv.; entrada anterior tratava-o como substantivo, mas LS/Whitaker confirmam uso adverbial.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_21537-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21537",
-    "page_num": 21537,
-    "lemmas": [
-      "plurimus",
-      "plurimus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "o mais; muito numeroso, muito abundante; superlativo de multus (muito, maior quantidade).",
-    "exemplos": [],
-    "notas": "Grafia clássica preservada; sentidos e exemplos confirmados por LS e Whitaker. | [dedupe] redirect → chunk_21535:21535:0 | [dedupe] redirect → chunk_21535:21535:0",
-    "raw_text": "{\"id\":\"chunk_21537:21537:0\",\"lemas\":[\"plurimus\",\"plurima\",\"plurimum\"],\"lema_canonico\":\"plurimus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"o mais; muito numeroso, muito abundante; superlativo de multus (muito, maior quantidade).\",\"aliases\":[],\"exemplos\":[\"Verg. G. 3, 52\",\"Verg. G. 2, 182\",\"Cic. Agr. 2, 16\"],\"notas\":\"Grafia clássica preservada; sentidos e exemplos confirmados por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21537:21537:0\",\"lemas\":[\"plurimus\",\"plurima\",\"plurimum\"],\"lema_canonico\":\"plurimus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"o mais; muito numeroso, muito abundante; superlativo de multus (muito, maior quantidade).\",\"aliases\":[],\"exemplos\":[\"Verg. G. 3, 52\",\"Verg. G. 2, 182\",\"Cic. Agr. 2, 16\"],\"notas\":\"Grafia clássica preservada; sentidos e exemplos confirmados por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_21538-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21538",
-    "page_num": 21538,
-    "lemmas": [
-      "plus",
-      "plus"
-    ],
-    "morfologia": "s. neut. 3ª (-is)",
-    "morph_render": "s. neut. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "more, too much; more than (used with genitive); higher price or value (compare multus).",
-    "exemplos": [],
-    "notas": "Entrada normalizada: plūris = gen. de plus. Atendido por LS e Whitaker. | [dedupe] redirect → chunk_21532:21532:1 | [dedupe] redirect → chunk_21532:21532:1",
-    "raw_text": "{\"id\":\"chunk_21538:21538:0\",\"lemas\":[\"plus\",\"plūs\",\"pluris\"],\"lema_canonico\":\"plus\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"more, too much; more than (used with genitive); higher price or value (compare multus).\",\"aliases\":[\"plūs\"],\"exemplos\":[\"Cic. Comm. 33\",\"Cic. Phil. 6, 10\"],\"notas\":\"Entrada normalizada: plūris = gen. de plus. Atendido por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21538:21538:0\",\"lemas\":[\"plus\",\"plūs\",\"pluris\"],\"lema_canonico\":\"plus\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"more, too much; more than (used with genitive); higher price or value (compare multus).\",\"aliases\":[\"plūs\"],\"exemplos\":[\"Cic. Comm. 33\",\"Cic. Phil. 6, 10\"],\"notas\":\"Entrada normalizada: plūris = gen. de plus. Atendido por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_21539-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21539",
-    "page_num": 21539,
-    "lemmas": [
-      "plus",
-      "plus"
-    ],
-    "morfologia": "s. neut. 3ª (-is)",
-    "morph_render": "s. neut. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "substantivo indeclinável/neutro comparativo de multus: maior quantidade; mais, mais grande",
-    "exemplos": [],
-    "notas": "[dedupe] redirect → chunk_21532:21532:1 | [dedupe] redirect → chunk_21532:21532:1",
-    "raw_text": "{\"id\":\"chunk_21539:21539:0\",\"lemas\":[\"plus\",\"plūs\"],\"lema_canonico\":\"plus\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"substantivo indeclinável/neutro comparativo de multus: maior quantidade; mais, mais grande\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 4, 141\"],\"notas\":\"\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21539:21539:0\",\"lemas\":[\"plus\",\"plūs\"],\"lema_canonico\":\"plus\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"substantivo indeclinável/neutro comparativo de multus: maior quantidade; mais, mais grande\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 4, 141\"],\"notas\":\"\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_21539-e2",
@@ -4004,28 +3432,6 @@
     "raw_json": "{\"id\":\"chunk_21555:21555:0\",\"lemas\":[\"poculum\",\"pōculum\"],\"lema_canonico\":\"poculum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"cálice, copo, taça; por extensão, bebida, trago; também uso plur. para encontros/banquetes de bebida\",\"aliases\":[],\"exemplos\":[\"Verg. Ecl. 3, 44\",\"Plaut. Curc. 2, 3, 89\",\"Plaut. Rud. 2, 3, 32\",\"Cic. Clu. 11, 31\",\"Hor. C. 1, 17, 21\",\"Juv. 1, 76\"],\"notas\":\"Normalizado a forma clássica 'poculum' (LS/Whitaker). Mantida referência exemplar.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_21556-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21556",
-    "page_num": 21556,
-    "lemmas": [
-      "poculum",
-      "poculum"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "copo, taça; 2) bebida, trago; por extensão, bebida envenenada ou filtro (contextos literários)",
-    "exemplos": [],
-    "notas": "Unificado lema e morfologia segundo LS/Whitaker/Lat→Deu; variantes ortográficas incluídas. | [dedupe] redirect → chunk_21555:21555:0 | [dedupe] redirect → chunk_21555:21555:0",
-    "raw_text": "{\"id\":\"chunk_21556:21556:0\",\"lemas\":[\"poculum\",\"poclum\",\"pōcŭlum\"],\"lema_canonico\":\"poculum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"copo, taça; 2) bebida, trago; por extensão, bebida envenenada ou filtro (contextos literários)\",\"aliases\":[],\"exemplos\":[\"Cic. Clu. 31\",\"Hor. Epod. 5, 83\",\"Cic. Clu. 30\"],\"notas\":\"Unificado lema e morfologia segundo LS/Whitaker/Lat→Deu; variantes ortográficas incluídas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21556:21556:0\",\"lemas\":[\"poculum\",\"poclum\",\"pōcŭlum\"],\"lema_canonico\":\"poculum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"copo, taça; 2) bebida, trago; por extensão, bebida envenenada ou filtro (contextos literários)\",\"aliases\":[],\"exemplos\":[\"Cic. Clu. 31\",\"Hor. Epod. 5, 83\",\"Cic. Clu. 30\"],\"notas\":\"Unificado lema e morfologia segundo LS/Whitaker/Lat→Deu; variantes ortográficas incluídas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_21557-e1",
     "volume_id": "faria",
     "doc_name": "chunk_21557",
@@ -4268,28 +3674,6 @@
     "raw_json": "{\"id\":\"chunk_21567:21567:0\",\"lemas\":[\"poematium\",\"pŏēmătĭum\",\"poematinum\"],\"lema_canonico\":\"poematium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"pequeno poema, composição breve em verso (diminutivo, uso post‑august.)\",\"aliases\":[],\"exemplos\":[\"Plin. Ep. 4, 14\",\"Plin. Ep. 4, 27\",\"Aus. Idyll. 7\"],\"notas\":\"Preferida a declinação em -ī (2ª) conforme LS e Lat→Deu; variantes normalizadas.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_21568-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21568",
-    "page_num": 21568,
-    "lemmas": [
-      "poena",
-      "poena"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "penalidade, punição; indenização, expiação; sofrimento, dor",
-    "exemplos": [],
-    "notas": "Sentidos agrupados conforme Lewis & Short: indemnificação/compensação; punição; expiação; sofrimento. | [dedupe] redirect → chunk_19407:19407:0 | [dedupe] redirect → chunk_19407:19407:0",
-    "raw_text": "{\"id\":\"chunk_21568:21568:0\",\"lemas\":[\"poena\"],\"lema_canonico\":\"poena\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"penalidade, punição; indenização, expiação; sofrimento, dor\",\"aliases\":[],\"exemplos\":[\"Cic. B. Gal. 5, 19\",\"Cic. Pis. 43\",\"Cic. Phil. 2, 11\",\"Plin. H. Nat. 7, 139\"],\"notas\":\"Sentidos agrupados conforme Lewis & Short: indemnificação/compensação; punição; expiação; sofrimento.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21568:21568:0\",\"lemas\":[\"poena\"],\"lema_canonico\":\"poena\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"penalidade, punição; indenização, expiação; sofrimento, dor\",\"aliases\":[],\"exemplos\":[\"Cic. B. Gal. 5, 19\",\"Cic. Pis. 43\",\"Cic. Phil. 2, 11\",\"Plin. H. Nat. 7, 139\"],\"notas\":\"Sentidos agrupados conforme Lewis & Short: indemnificação/compensação; punição; expiação; sofrimento.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_21569-e1",
     "volume_id": "faria",
     "doc_name": "chunk_21569",
@@ -4464,28 +3848,6 @@
     "notas": "Atestado em fontes tardias; leitura incerta quanto ao sentido preciso. | [ocr_fix 2025-08-17T19:59:40Z] match direto em LS por lemma/lemma_norm | lemma_in='poenio' → 'poenĭo'",
     "raw_text": "{\"id\":\"chunk_21573:21573:3\",\"lemas\":[\"poenio\",\"poenĭo\"],\"lema_canonico\":\"poenio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"Verbo raro; atestado como poenĭo. Possível variante gráfica/etimológica ligada a poenitēō 'arrepender-se' (uso incerto).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Atestado em fontes tardias; leitura incerta quanto ao sentido preciso.\",\"flags\":[\"src_ls\",\"src_ocr\",\"src_firstpass\",\"conf:med\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_21573:21573:3\",\"lemas\":[\"poenio\",\"poenĭo\"],\"lema_canonico\":\"poenio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"Verbo raro; atestado como poenĭo. Possível variante gráfica/etimológica ligada a poenitēō 'arrepender-se' (uso incerto).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Atestado em fontes tardias; leitura incerta quanto ao sentido preciso.\",\"flags\":[\"src_ls\",\"src_ocr\",\"src_firstpass\",\"conf:med\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_21573-e5",
-    "volume_id": "faria",
-    "doc_name": "chunk_21573",
-    "page_num": 21573,
-    "lemmas": [
-      "paeniteo",
-      "paeniteo"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Arrepender-se; causar arrependimento; usado também impessoalmente (paenitet).",
-    "exemplos": [],
-    "notas": "[dedupe] redirect → chunk_19421:19421:0 | [dedupe] redirect → chunk_19421:19421:0",
-    "raw_text": "{\"id\":\"chunk_21573:21573:4\",\"lemas\":[\"paenitēō\",\"poenitēō\",\"paeniteo\",\"poeniteo\"],\"lema_canonico\":\"paeniteo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"Arrepender-se; causar arrependimento; usado também impessoalmente (paenitet).\",\"aliases\":[],\"exemplos\":[\"Plaut. Stich. 1, 1, 50\"],\"notas\":\"\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21573:21573:4\",\"lemas\":[\"paenitēō\",\"poenitēō\",\"paeniteo\",\"poeniteo\"],\"lema_canonico\":\"paeniteo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"Arrepender-se; causar arrependimento; usado também impessoalmente (paenitet).\",\"aliases\":[],\"exemplos\":[\"Plaut. Stich. 1, 1, 50\"],\"notas\":\"\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_21574-e1",
@@ -4728,28 +4090,6 @@
     "notas": "Forma confirmada como advérbio derivado de poëticus segundo LS e Whitaker.",
     "raw_text": "{\"id\":\"chunk_21583:21583:0\",\"lemas\":[\"poetice\",\"poētĭcē\"],\"lema_canonico\":\"poetice\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"poeticamente, de modo próprio do poeta\",\"aliases\":[],\"exemplos\":[\"Cic. Fin. 5, 9\"],\"notas\":\"Forma confirmada como advérbio derivado de poëticus segundo LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_21583:21583:0\",\"lemas\":[\"poetice\",\"poētĭcē\"],\"lema_canonico\":\"poetice\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"poeticamente, de modo próprio do poeta\",\"aliases\":[],\"exemplos\":[\"Cic. Fin. 5, 9\"],\"notas\":\"Forma confirmada como advérbio derivado de poëticus segundo LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_21584-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21584",
-    "page_num": 21584,
-    "lemmas": [
-      "poeticus",
-      "poeticus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Relativo à poesia ou aos poetas; poético.",
-    "exemplos": [],
-    "notas": "Corresponde a pŏētĭcus (LS) e às entradas em Whitaker; advérbio correspondente: poëticē/plānē etc. (não incluído aqui). | [dedupe] redirect → chunk_21582:21582:1 | [dedupe] redirect → chunk_21582:21582:1",
-    "raw_text": "{\"id\":\"chunk_21584:21584:0\",\"lemas\":[\"poeticus\",\"poetica\",\"poeticum\"],\"lema_canonico\":\"poeticus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo à poesia ou aos poetas; poético.\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 3, 77\"],\"notas\":\"Corresponde a pŏētĭcus (LS) e às entradas em Whitaker; advérbio correspondente: poëticē/plānē etc. (não incluído aqui).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21584:21584:0\",\"lemas\":[\"poeticus\",\"poetica\",\"poeticum\"],\"lema_canonico\":\"poeticus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo à poesia ou aos poetas; poético.\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 3, 77\"],\"notas\":\"Corresponde a pŏētĭcus (LS) e às entradas em Whitaker; advérbio correspondente: poëticē/plānē etc. (não incluído aqui).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_21585-e1",
@@ -5014,28 +4354,6 @@
     "notas": "Conferido com Lewis & Short (pŏlentārĭus) e Whitaker; formas femin./neutras incluídas.",
     "raw_text": "{\"id\":\"chunk_21595:21595:0\",\"lemas\":[\"polentarius\",\"polentaria\",\"polentarium\"],\"lema_canonico\":\"polentarius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo à polenta; pertencente à cevada perlada/gerstengraupen (ex.: Plaut.)\",\"aliases\":[],\"exemplos\":[\"Plaut. Curc. 2, 3, 16\",\"Plaut. Curc. 295\",\"Appian. Mith. 6\"],\"notas\":\"Conferido com Lewis & Short (pŏlentārĭus) e Whitaker; formas femin./neutras incluídas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_21595:21595:0\",\"lemas\":[\"polentarius\",\"polentaria\",\"polentarium\"],\"lema_canonico\":\"polentarius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo à polenta; pertencente à cevada perlada/gerstengraupen (ex.: Plaut.)\",\"aliases\":[],\"exemplos\":[\"Plaut. Curc. 2, 3, 16\",\"Plaut. Curc. 295\",\"Appian. Mith. 6\"],\"notas\":\"Conferido com Lewis & Short (pŏlentārĭus) e Whitaker; formas femin./neutras incluídas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_21596-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21596",
-    "page_num": 21596,
-    "lemmas": [
-      "polenta",
-      "polenta"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "polenta: farinha de cevada; papas ou grãos de cevada descascados/pearl‑barley (barley‑meal)",
-    "exemplos": [],
-    "notas": "Duplicata da entrada 'polenta' normalizada com LS/Whitaker; mantidas citações fornecidas. | [dedupe] redirect → chunk_21594:21594:0 | [dedupe] redirect → chunk_21594:21594:0",
-    "raw_text": "{\"id\":\"chunk_21596:21596:0\",\"lemas\":[\"polenta\"],\"lema_canonico\":\"polenta\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"polenta: farinha de cevada; papas ou grãos de cevada descascados/pearl‑barley (barley‑meal)\",\"aliases\":[],\"exemplos\":[\"Plaut. As. 1, 1, 17\",\"Cato R.R. 168\",\"Col. 6, 17–18\",\"Plin. Nat. 18, 7, 14 §72\",\"Plin. Nat. 24, 1, 1 §3\",\"Plin. Nat. 27, 8, 37 §59\",\"Ov. Met. 5, 450\",\"Pers. 3, 55\",\"Vulg. Lev. 23, 14\"],\"notas\":\"Duplicata da entrada 'polenta' normalizada com LS/Whitaker; mantidas citações fornecidas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21596:21596:0\",\"lemas\":[\"polenta\"],\"lema_canonico\":\"polenta\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"polenta: farinha de cevada; papas ou grãos de cevada descascados/pearl‑barley (barley‑meal)\",\"aliases\":[],\"exemplos\":[\"Plaut. As. 1, 1, 17\",\"Cato R.R. 168\",\"Col. 6, 17–18\",\"Plin. Nat. 18, 7, 14 §72\",\"Plin. Nat. 24, 1, 1 §3\",\"Plin. Nat. 27, 8, 37 §59\",\"Ov. Met. 5, 450\",\"Pers. 3, 55\",\"Vulg. Lev. 23, 14\"],\"notas\":\"Duplicata da entrada 'polenta' normalizada com LS/Whitaker; mantidas citações fornecidas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_21597-e1",

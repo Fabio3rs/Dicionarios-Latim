@@ -44,28 +44,6 @@
     "raw_json": "{\"id\":\"chunk_16401:16401:0\",\"lemas\":[\"maena\",\"mēna\"],\"lema_canonico\":\"maena\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Pequeno peixe do mar; comido salgado pelos pobres; usado também como termo de reprovação.\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 32, 11, §149\",\"Ov. Hal. 120\",\"Mart. 11, 31, 14\",\"Mart. 12, 32, 15\",\"Pers. 3, 76\",\"Cic. Fin. 2, 28, 91\",\"Plaut. Poen. 5, 5, 33\"],\"notas\":\"Concorda com Lewis & Short e Whitaker; variante métricamente longa mēna atestada em LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_16402-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16402",
-    "page_num": 16402,
-    "lemmas": [
-      "maena",
-      "maena"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Pequeno peixe-marinho; comido salgado pelos pobres; usado também em sentido pejorativo (ex.: deglupta maena).",
-    "exemplos": [],
-    "notas": "Normalizado a partir da primeira passada; inclui citações principais de LS. | [dedupe] redirect → chunk_16401:16401:0 | [dedupe] redirect → chunk_16401:16401:0",
-    "raw_text": "{\"id\":\"chunk_16402:16402:0\",\"lemas\":[\"maena\",\"mēna\"],\"lema_canonico\":\"maena\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Pequeno peixe-marinho; comido salgado pelos pobres; usado também em sentido pejorativo (ex.: deglupta maena).\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 32, 11, §149\",\"Ov. Hal. 120\",\"Mart. 11, 31, 14\",\"Mart. 12, 32, 15\",\"Pers. 3, 76\",\"Cic. Fin. 2, 28, 91\",\"Plaut. Poen. 5, 5, 33\"],\"notas\":\"Normalizado a partir da primeira passada; inclui citações principais de LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_16402:16402:0\",\"lemas\":[\"maena\",\"mēna\"],\"lema_canonico\":\"maena\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Pequeno peixe-marinho; comido salgado pelos pobres; usado também em sentido pejorativo (ex.: deglupta maena).\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 32, 11, §149\",\"Ov. Hal. 120\",\"Mart. 11, 31, 14\",\"Mart. 12, 32, 15\",\"Pers. 3, 76\",\"Cic. Fin. 2, 28, 91\",\"Plaut. Poen. 5, 5, 33\"],\"notas\":\"Normalizado a partir da primeira passada; inclui citações principais de LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_16402-e2",
     "volume_id": "faria",
     "doc_name": "chunk_16402",
@@ -328,28 +306,6 @@
     "notas": "OCR indica Maeonĭă, -ŏrum (pl.). Morfologia plural não cabe no vocabulário; indicado em morph_extra.\n[ocr_pipeline 2025-08-16T23:14:23.467903Z] lemma_in='Maeonia' → 'Maeon' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:10:36Z] match direto em LS por lemma/lemma_norm | lemma_in='Maeon' → 'Maeon'",
     "raw_text": "{\"id\":\"chunk_16410:16410:0\",\"lemas\":[\"Maeonia\"],\"lema_canonico\":\"Maeonia\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[\"pl. -orum\"],\"definicao\":\"os Maeônios (povo/luogo da Lídia) — Maeonia (pl.) como gentílico/topônimo\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 5, 111\"],\"notas\":\"OCR indica Maeonĭă, -ŏrum (pl.). Morfologia plural não cabe no vocabulário; indicado em morph_extra.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"morph_out_of_vocab\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_16410:16410:0\",\"lemas\":[\"Maeonia\"],\"lema_canonico\":\"Maeonia\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[\"pl. -orum\"],\"definicao\":\"os Maeônios (povo/luogo da Lídia) — Maeonia (pl.) como gentílico/topônimo\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 5, 111\"],\"notas\":\"OCR indica Maeonĭă, -ŏrum (pl.). Morfologia plural não cabe no vocabulário; indicado em morph_extra.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"morph_out_of_vocab\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_16411-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16411",
-    "page_num": 16411,
-    "lemmas": [
-      "Maeonides",
-      "Maeonides"
-    ],
-    "morfologia": "s. 3ª (-is)",
-    "morph_render": "s. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:low",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "Designação plural/collectiva relativa a habitantes ou mulheres da Maeônia; atestado em autores (formas e âmbito precisam de verificação).",
-    "exemplos": [],
-    "notas": "Leitura e morfologia incertas (OCR e variantes); preservada interpretação plural/feminina do first_pass, mas recomenda-se verificação em LS/ed. crítica. | [dedupe] redirect → chunk_16409:16409:0 | [dedupe] redirect → chunk_16409:16409:0",
-    "raw_text": "{\"id\":\"chunk_16411:16411:0\",\"lemas\":[\"Maeonides\",\"Maeonius\"],\"lema_canonico\":\"Maeonides\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Designação plural/collectiva relativa a habitantes ou mulheres da Maeônia; atestado em autores (formas e âmbito precisam de verificação).\",\"aliases\":[],\"exemplos\":[\"Ov. Am. 2, 5, 40\",\"Ov. Met. 6, 103\",\"Ov. Fast. 2, 310\"],\"notas\":\"Leitura e morfologia incertas (OCR e variantes); preservada interpretação plural/feminina do first_pass, mas recomenda-se verificação em LS/ed. crítica.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_16411:16411:0\",\"lemas\":[\"Maeonides\",\"Maeonius\"],\"lema_canonico\":\"Maeonides\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Designação plural/collectiva relativa a habitantes ou mulheres da Maeônia; atestado em autores (formas e âmbito precisam de verificação).\",\"aliases\":[],\"exemplos\":[\"Ov. Am. 2, 5, 40\",\"Ov. Met. 6, 103\",\"Ov. Fast. 2, 310\"],\"notas\":\"Leitura e morfologia incertas (OCR e variantes); preservada interpretação plural/feminina do first_pass, mas recomenda-se verificação em LS/ed. crítica.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\",\"morph_out_of_vocab\"]}"
   },
   {
     "id": "chunk_16412-e1",
@@ -1034,28 +990,6 @@
     "raw_json": "{\"id\":\"chunk_16441:16441:0\",\"lemas\":[\"Magnessa\",\"Magnēssa\"],\"lema_canonico\":\"Magnessa\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Feminino referente a Magnésia; designa mulher natural de Magnésia.\",\"aliases\":[],\"exemplos\":[\"Hor. O. 3, 7, 38\"],\"notas\":\"Forma atestada no OCR como Magnēssa; ausência de entradas em dicionários principais requer confirmação.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_16442-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16442",
-    "page_num": 16442,
-    "lemmas": [
-      "Mastaurenses",
-      "Mastaurenses"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "Magnetarca; magistrado ou chefe entre os habitantes de Magnesia (atestado em T. Liv.).",
-    "exemplos": [],
-    "notas": "Vocábulo não atestado nas fontes principais; morfologia original incoerente (-ae, m.). Precisa de revisão por especialista.\n[ocr_pipeline 2025-08-16T23:14:27.317195Z] lemma_in='magnetarches' → 'Mastaurenses' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:10:41Z] match direto em LS por lemma/lemma_norm | lemma_in='Mastaurenses' → 'Mastaurenses' | [dedupe] redirect → chunk_16658:16658:0 | [dedupe] redirect → chunk_16658:16658:0",
-    "raw_text": "{\"id\":\"chunk_16442:16442:0\",\"lemas\":[\"magnetarches\",\"magnetarchēs\"],\"lema_canonico\":\"magnetarches\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[\"original_morph:-ae, m.\"],\"definicao\":\"Magnetarca; magistrado ou chefe entre os habitantes de Magnesia (atestado em T. Liv.).\",\"aliases\":[],\"exemplos\":[\"T. Liv. 35, 31, 11\"],\"notas\":\"Vocábulo não atestado nas fontes principais; morfologia original incoerente (-ae, m.). Precisa de revisão por especialista.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_16442:16442:0\",\"lemas\":[\"magnetarches\",\"magnetarchēs\"],\"lema_canonico\":\"magnetarches\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[\"original_morph:-ae, m.\"],\"definicao\":\"Magnetarca; magistrado ou chefe entre os habitantes de Magnesia (atestado em T. Liv.).\",\"aliases\":[],\"exemplos\":[\"T. Liv. 35, 31, 11\"],\"notas\":\"Vocábulo não atestado nas fontes principais; morfologia original incoerente (-ae, m.). Precisa de revisão por especialista.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\",\"morph_out_of_vocab\"]}"
-  },
-  {
     "id": "chunk_16443-e1",
     "volume_id": "faria",
     "doc_name": "chunk_16443",
@@ -1232,28 +1166,6 @@
     "raw_json": "{\"id\":\"chunk_16450:16450:0\",\"lemas\":[\"magnificus\"],\"lema_canonico\":\"magnificus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"magnífico, esplêndido, sumptuoso; nobre, eminente; por extensão pejor.: orgulhoso, vaidoso, pomposo. (comp. magnificentior; sup. magnificentissimus)\",\"aliases\":[],\"exemplos\":[\"Liv. 1, 10\",\"Sall. C. 51\",\"Cic. Off. 1, 23\",\"Plaut. Bacch. 4, 9, 42\",\"Plin. Pan. 51, 3\"],\"notas\":\"Corrigido para adjetivo (1/2) conforme Lewis & Short e Whitaker; removidas leituras verbais errôneas do OCR.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_16451-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16451",
-    "page_num": 16451,
-    "lemmas": [
-      "magnificus",
-      "magnificus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "suntuoso, esplêndido; também grandioso, nobre, generoso; por vezes vanglorioso/jactancioso (sentido pejorativo)",
-    "exemplos": [],
-    "notas": "Formas e acepções reconciliadas com LS/Whitaker/Lat→Deu; lema canônico como magnificus. | [dedupe] redirect → chunk_16450:16450:0 | [dedupe] redirect → chunk_16450:16450:0",
-    "raw_text": "{\"id\":\"chunk_16451:16451:0\",\"lemas\":[\"magnificus\",\"magnifica\",\"magnificum\"],\"lema_canonico\":\"magnificus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"suntuoso, esplêndido; também grandioso, nobre, generoso; por vezes vanglorioso/jactancioso (sentido pejorativo)\",\"aliases\":[],\"exemplos\":[\"Cic. Leg. 2, 23, 21\",\"Liv. 7, 12, 11\",\"Liv. 26, 4, 13\",\"Cic. Brut. 32, 123\",\"Nep. Att. 13, 5\",\"Liv. 1, 10, 5\",\"Cic. Off. 1, 79\"],\"notas\":\"Formas e acepções reconciliadas com LS/Whitaker/Lat→Deu; lema canônico como magnificus.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_16451:16451:0\",\"lemas\":[\"magnificus\",\"magnifica\",\"magnificum\"],\"lema_canonico\":\"magnificus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"suntuoso, esplêndido; também grandioso, nobre, generoso; por vezes vanglorioso/jactancioso (sentido pejorativo)\",\"aliases\":[],\"exemplos\":[\"Cic. Leg. 2, 23, 21\",\"Liv. 7, 12, 11\",\"Liv. 26, 4, 13\",\"Cic. Brut. 32, 123\",\"Nep. Att. 13, 5\",\"Liv. 1, 10, 5\",\"Cic. Off. 1, 79\"],\"notas\":\"Formas e acepções reconciliadas com LS/Whitaker/Lat→Deu; lema canônico como magnificus.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_16452-e1",
     "volume_id": "faria",
     "doc_name": "chunk_16452",
@@ -1298,28 +1210,6 @@
     "raw_json": "{\"id\":\"chunk_16453:16453:0\",\"lemas\":[\"magniloquentia\"],\"lema_canonico\":\"magniloquentia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"linguagem elevada, estilo sublime; por extensão, linguagem pomposa, jactância\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 13, 15, 2\",\"T. Liv. 44, 15, 2\"],\"notas\":\"Sentidos confirmado por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_16454-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16454",
-    "page_num": 16454,
-    "lemmas": [
-      "magniloquus",
-      "magniloquus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "que fala em estilo elevado, sublime; grandiloquente; em sentido pejorativo: pomposo, jactancioso, vaidoso",
-    "exemplos": [],
-    "notas": "Harmonizado com Lewis & Short e Whitaker; lemas em três gêneros incluídos. | [dedupe] redirect → chunk_16452:16452:0 | [dedupe] redirect → chunk_16452:16452:0",
-    "raw_text": "{\"id\":\"chunk_16454:16454:0\",\"lemas\":[\"magniloquus\",\"magniloqua\",\"magniloquum\"],\"lema_canonico\":\"magniloquus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"que fala em estilo elevado, sublime; grandiloquente; em sentido pejorativo: pomposo, jactancioso, vaidoso\",\"aliases\":[],\"exemplos\":[\"Stat. S. 5, 3, 62\",\"Tac. Agr. 27\",\"Ov. M. 8, 396\",\"Mart. 2, 43, 2\",\"Vulg. Psa. 12, 4\",\"Stat. Th. 3, 192\"],\"notas\":\"Harmonizado com Lewis & Short e Whitaker; lemas em três gêneros incluídos.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_16454:16454:0\",\"lemas\":[\"magniloquus\",\"magniloqua\",\"magniloquum\"],\"lema_canonico\":\"magniloquus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"que fala em estilo elevado, sublime; grandiloquente; em sentido pejorativo: pomposo, jactancioso, vaidoso\",\"aliases\":[],\"exemplos\":[\"Stat. S. 5, 3, 62\",\"Tac. Agr. 27\",\"Ov. M. 8, 396\",\"Mart. 2, 43, 2\",\"Vulg. Psa. 12, 4\",\"Stat. Th. 3, 192\"],\"notas\":\"Harmonizado com Lewis & Short e Whitaker; lemas em três gêneros incluídos.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_16455-e1",
     "volume_id": "faria",
     "doc_name": "chunk_16455",
@@ -1362,28 +1252,6 @@
     "notas": "Normalizada grafia e incluídas variantes LS (magnŏpĕrē, magnō opere).",
     "raw_text": "{\"id\":\"chunk_16456:16456:0\",\"lemas\":[\"magnopere\",\"magnō opere\",\"magnŏpĕrē\"],\"lema_canonico\":\"magnopere\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"com grande esforço; muito, em alto grau, com insistência\",\"aliases\":[],\"exemplos\":[\"Cic. Off. 2, 56\",\"Cic. Att. 1, 8, 1\",\"Cic. Amer. 124\",\"Cic. Fam. 3, 2, 1\"],\"notas\":\"Normalizada grafia e incluídas variantes LS (magnŏpĕrē, magnō opere).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_16456:16456:0\",\"lemas\":[\"magnopere\",\"magnō opere\",\"magnŏpĕrē\"],\"lema_canonico\":\"magnopere\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"com grande esforço; muito, em alto grau, com insistência\",\"aliases\":[],\"exemplos\":[\"Cic. Off. 2, 56\",\"Cic. Att. 1, 8, 1\",\"Cic. Amer. 124\",\"Cic. Fam. 3, 2, 1\"],\"notas\":\"Normalizada grafia e incluídas variantes LS (magnŏpĕrē, magnō opere).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_16457-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16457",
-    "page_num": 16457,
-    "lemmas": [
-      "magnus",
-      "magnus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "grande; amplo, poderoso; também: de grande quantidade, importante, notável; comp. mājor, sup. maximus",
-    "exemplos": [],
-    "notas": "Acrescentados comparativo e superlativo conforme LS/Whitaker; corrigidos sinais OCR em citações. | [dedupe] redirect → chunk_16445:16445:0 | [dedupe] redirect → chunk_16445:16445:0",
-    "raw_text": "{\"id\":\"chunk_16457:16457:0\",\"lemas\":[\"magnus\",\"magna\",\"magnum\"],\"lema_canonico\":\"magnus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"grande; amplo, poderoso; também: de grande quantidade, importante, notável; comp. mājor, sup. maximus\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 2, 17\",\"Cic. Verr. 2, 176\",\"Cic. Caec. 92\",\"Cic. Tusc. 1, 3\",\"Hor. Od. 4, 6, 2\"],\"notas\":\"Acrescentados comparativo e superlativo conforme LS/Whitaker; corrigidos sinais OCR em citações.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_16457:16457:0\",\"lemas\":[\"magnus\",\"magna\",\"magnum\"],\"lema_canonico\":\"magnus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"grande; amplo, poderoso; também: de grande quantidade, importante, notável; comp. mājor, sup. maximus\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 2, 17\",\"Cic. Verr. 2, 176\",\"Cic. Caec. 92\",\"Cic. Tusc. 1, 3\",\"Hor. Od. 4, 6, 2\"],\"notas\":\"Acrescentados comparativo e superlativo conforme LS/Whitaker; corrigidos sinais OCR em citações.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_16458-e1",
@@ -1450,50 +1318,6 @@
     "notas": "Registro dupla natureza: substantivo (principal) e adjetivo poético; ambos atestados em LS/Whitaker.",
     "raw_text": "{\"id\":\"chunk_16460:16460:0\",\"lemas\":[\"magus\"],\"lema_canonico\":\"magus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"(s.) mago, persa figura sábia/feiticeiro; (poét.) como adj. = mágico\",\"aliases\":[],\"exemplos\":[\"Ov. Am. 1, 8, 55\"],\"notas\":\"Registro dupla natureza: substantivo (principal) e adjetivo poético; ambos atestados em LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_16460:16460:0\",\"lemas\":[\"magus\"],\"lema_canonico\":\"magus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"(s.) mago, persa figura sábia/feiticeiro; (poét.) como adj. = mágico\",\"aliases\":[],\"exemplos\":[\"Ov. Am. 1, 8, 55\"],\"notas\":\"Registro dupla natureza: substantivo (principal) e adjetivo poético; ambos atestados em LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_16461-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16461",
-    "page_num": 16461,
-    "lemmas": [
-      "magus",
-      "magus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Magus: 1) mago, feiticeiro; 2) sacerdote/membro da ordem mágica entre os Persas.",
-    "exemplos": [],
-    "notas": "Grafia confirmada (măgus). Sentidos verificados em LS, Whitaker e Lat→Deu. | [dedupe] redirect → chunk_16460:16460:0 | [dedupe] redirect → chunk_16460:16460:0",
-    "raw_text": "{\"id\":\"chunk_16461:16461:0\",\"lemas\":[\"magus\"],\"lema_canonico\":\"magus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Magus: 1) mago, feiticeiro; 2) sacerdote/membro da ordem mágica entre os Persas.\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 7, 195\",\"Cic. Div. 1, 46\"],\"notas\":\"Grafia confirmada (măgus). Sentidos verificados em LS, Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_16461:16461:0\",\"lemas\":[\"magus\"],\"lema_canonico\":\"magus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Magus: 1) mago, feiticeiro; 2) sacerdote/membro da ordem mágica entre os Persas.\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 7, 195\",\"Cic. Div. 1, 46\"],\"notas\":\"Grafia confirmada (măgus). Sentidos verificados em LS, Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_16462-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16462",
-    "page_num": 16462,
-    "lemmas": [
-      "magus",
-      "magus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "1) Homem sábio, mago, sacerdote persa; 2) (poét.) mágico, mágico (adj. como subst.).",
-    "exemplos": [],
-    "notas": "Entrada unificou substantivo e variantes adjetivais; formas feminina/neutra fornecidas como variantes. | [dedupe] redirect → chunk_16460:16460:0 | [dedupe] redirect → chunk_16460:16460:0",
-    "raw_text": "{\"id\":\"chunk_16462:16462:0\",\"lemas\":[\"magus\",\"maga\",\"magum\"],\"lema_canonico\":\"magus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"1) Homem sábio, mago, sacerdote persa; 2) (poét.) mágico, mágico (adj. como subst.).\",\"aliases\":[],\"exemplos\":[\"Verg. En. 10, 521\"],\"notas\":\"Entrada unificou substantivo e variantes adjetivais; formas feminina/neutra fornecidas como variantes.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_16462:16462:0\",\"lemas\":[\"magus\",\"maga\",\"magum\"],\"lema_canonico\":\"magus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"1) Homem sábio, mago, sacerdote persa; 2) (poét.) mágico, mágico (adj. como subst.).\",\"aliases\":[],\"exemplos\":[\"Verg. En. 10, 521\"],\"notas\":\"Entrada unificou substantivo e variantes adjetivais; formas feminina/neutra fornecidas como variantes.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_16463-e1",
@@ -1980,28 +1804,6 @@
     "raw_json": "{\"id\":\"chunk_16484:16484:0\",\"lemas\":[\"maledictio\"],\"lema_canonico\":\"maledictio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"slander, abuse; the act of reviling; a curse or malediction (classical and ecclesiastical).\",\"aliases\":[],\"exemplos\":[\"Cic. Ep. 6, 1\",\"Cic. Cael. 3, 6\",\"Vulg. 2 Reg. 16, 12\"],\"notas\":\"Unificação de variantes e normalização de diacríticos; entradas duplicadas reconciliadas com LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_16485-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16485",
-    "page_num": 16485,
-    "lemmas": [
-      "maledictio",
-      "maledictio"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "slander, abuse; the act of reviling; a curse or malediction (classical and frequent in ecclesiastical Latin).",
-    "exemplos": [],
-    "notas": "Genitivo -ōnis and macronization per LS; sentidos clássico e eclesiástico integrados. | [dedupe] redirect → chunk_16484:16484:0 | [dedupe] redirect → chunk_16484:16484:0",
-    "raw_text": "{\"id\":\"chunk_16485:16485:0\",\"lemas\":[\"maledictio\"],\"lema_canonico\":\"maledictio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"slander, abuse; the act of reviling; a curse or malediction (classical and frequent in ecclesiastical Latin).\",\"aliases\":[],\"exemplos\":[\"Plaut. Trin. 99\",\"Cic. Cael. 3, 6\",\"Vulg. Deut. 30, 19\"],\"notas\":\"Genitivo -ōnis and macronization per LS; sentidos clássico e eclesiástico integrados.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_16485:16485:0\",\"lemas\":[\"maledictio\"],\"lema_canonico\":\"maledictio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"slander, abuse; the act of reviling; a curse or malediction (classical and frequent in ecclesiastical Latin).\",\"aliases\":[],\"exemplos\":[\"Plaut. Trin. 99\",\"Cic. Cael. 3, 6\",\"Vulg. Deut. 30, 19\"],\"notas\":\"Genitivo -ōnis and macronization per LS; sentidos clássico e eclesiástico integrados.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_16486-e1",
     "volume_id": "faria",
     "doc_name": "chunk_16486",
@@ -2442,28 +2244,6 @@
     "raw_json": "{\"id\":\"chunk_16505:16505:0\",\"lemas\":[\"malifer\",\"malifera\",\"maliferum\"],\"lema_canonico\":\"malifer\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Que produz maçãs; apple-bearing (poét.).\",\"aliases\":[],\"exemplos\":[\"Verg. A. 7, 740\"],\"notas\":\"Formas e acentuação normalizadas; atestado por Lewis & Short, Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_16506-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16506",
-    "page_num": 16506,
-    "lemmas": [
-      "maleficus",
-      "maleficus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "adj. maldoso, criminoso; nocivo; relativo a magia negra; também subst. ‘feiticeiro, malfeitor’",
-    "exemplos": [],
-    "notas": "Normalizada grafia e incluída variante malificus como v.Â variante apontada por OCR | [dedupe] redirect → chunk_16494:16494:0 | [dedupe] redirect → chunk_16494:16494:0",
-    "raw_text": "{\"id\":\"chunk_16506:16506:0\",\"lemas\":[\"maleficus\",\"malificus\"],\"lema_canonico\":\"maleficus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"adj. maldoso, criminoso; nocivo; relativo a magia negra; também subst. ‘feiticeiro, malfeitor’\",\"aliases\":[],\"exemplos\":[\"Plaut. Trin. 2, 4, 150\",\"Cic. Verr. 2, 5, 55\"],\"notas\":\"Normalizada grafia e incluída variante malificus como v.Â variante apontada por OCR\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_16506:16506:0\",\"lemas\":[\"maleficus\",\"malificus\"],\"lema_canonico\":\"maleficus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"adj. maldoso, criminoso; nocivo; relativo a magia negra; também subst. ‘feiticeiro, malfeitor’\",\"aliases\":[],\"exemplos\":[\"Plaut. Trin. 2, 4, 150\",\"Cic. Verr. 2, 5, 55\"],\"notas\":\"Normalizada grafia e incluída variante malificus como v.Â variante apontada por OCR\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_16507-e1",
     "volume_id": "faria",
     "doc_name": "chunk_16507",
@@ -2660,28 +2440,6 @@
     "notas": "Forma superlativa atestada em repertórios (Whitaker, Lat→Deu); citação adaptada do apontamento editoral.",
     "raw_text": "{\"id\":\"chunk_16512:16512:2\",\"lemas\":[\"malitiosissime\"],\"lema_canonico\":\"malitiosissime\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"superlativo de malitiose: de modo extremamente malicioso\",\"aliases\":[],\"exemplos\":[\"Cic. Amer. 1, 11\"],\"notas\":\"Forma superlativa atestada em repertórios (Whitaker, Lat→Deu); citação adaptada do apontamento editoral.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_16512:16512:2\",\"lemas\":[\"malitiosissime\"],\"lema_canonico\":\"malitiosissime\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"superlativo de malitiose: de modo extremamente malicioso\",\"aliases\":[],\"exemplos\":[\"Cic. Amer. 1, 11\"],\"notas\":\"Forma superlativa atestada em repertórios (Whitaker, Lat→Deu); citação adaptada do apontamento editoral.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_16513-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16513",
-    "page_num": 16513,
-    "lemmas": [
-      "malitiosus",
-      "malitiosus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Malandro, cheio de malícia; perverso, astucioso, enganador.",
-    "exemplos": [],
-    "notas": "Apoiado por Lewis & Short e Whitaker; padronizada a forma e acentuação. | [dedupe] redirect → chunk_16512:16512:1 | [dedupe] redirect → chunk_16512:16512:1",
-    "raw_text": "{\"id\":\"chunk_16513:16513:0\",\"lemas\":[\"malitiosus\"],\"lema_canonico\":\"malitiosus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Malandro, cheio de malícia; perverso, astucioso, enganador.\",\"aliases\":[],\"exemplos\":[\"Cic. Off. 3, 57\"],\"notas\":\"Apoiado por Lewis & Short e Whitaker; padronizada a forma e acentuação.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_16513:16513:0\",\"lemas\":[\"malitiosus\"],\"lema_canonico\":\"malitiosus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Malandro, cheio de malícia; perverso, astucioso, enganador.\",\"aliases\":[],\"exemplos\":[\"Cic. Off. 3, 57\"],\"notas\":\"Apoiado por Lewis & Short e Whitaker; padronizada a forma e acentuação.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_16514-e1",
@@ -3278,28 +3036,6 @@
     "raw_json": "{\"id\":\"chunk_16539:16539:0\",\"lemas\":[\"mamma\"],\"lema_canonico\":\"mamma\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"breast, teat; also a term of endearment for mother/child\",\"aliases\":[],\"exemplos\":[\"Juv. 6, 600\",\"Plaut. Ps. 180\"],\"notas\":\"Unificado formato léxico conforme LS/Whitaker; sentido afetivo mantido.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_16540-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16540",
-    "page_num": 16540,
-    "lemmas": [
-      "mamma",
-      "mamma"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "breast, teat; also used in childish/affectionate sense 'mother, mama'",
-    "exemplos": [],
-    "notas": "Concordância com Lewis & Short; sentido infantil registrado (Macr.). | [dedupe] redirect → chunk_16539:16539:0 | [dedupe] redirect → chunk_16539:16539:0",
-    "raw_text": "{\"id\":\"chunk_16540:16540:0\",\"lemas\":[\"mamma\"],\"lema_canonico\":\"mamma\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"breast, teat; also used in childish/affectionate sense 'mother, mama'\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 2, 58, 21\",\"Macr. Sat. 1, 101, 1\"],\"notas\":\"Concordância com Lewis & Short; sentido infantil registrado (Macr.).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_16540:16540:0\",\"lemas\":[\"mamma\"],\"lema_canonico\":\"mamma\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"breast, teat; also used in childish/affectionate sense 'mother, mama'\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 2, 58, 21\",\"Macr. Sat. 1, 101, 1\"],\"notas\":\"Concordância com Lewis & Short; sentido infantil registrado (Macr.).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_16541-e1",
     "volume_id": "faria",
     "doc_name": "chunk_16541",
@@ -3850,50 +3586,6 @@
     "raw_json": "{\"id\":\"chunk_16562:16562:0\",\"lemas\":[\"Mandubii\",\"Mandūbii\",\"Mandŭbii\"],\"lema_canonico\":\"Mandubii\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Mandúbios, povo da Gália Celta, cujo principal centro foi Alesia (tribo referida por César).\",\"aliases\":[],\"exemplos\":[\"Caes. B. G. 7, 68\",\"Caes. B. G. 7, 78\"],\"notas\":\"Normalizada grafia e forma genitiva plural (ōrum) conforme Lewis & Short.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_16563-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16563",
-    "page_num": 16563,
-    "lemmas": [
-      "manduco",
-      "manduco"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Mastigar; comer, devorar; também atestado como substantivo 'glutão' em post‑class.",
-    "exemplos": [],
-    "notas": "Unificada a forma verbal (1ª conjug.) e reconhecida a entrada substantiva registrada no LS. | [dedupe] redirect → chunk_16558:16558:0 | [dedupe] redirect → chunk_16558:16558:0",
-    "raw_text": "{\"id\":\"chunk_16563:16563:0\",\"lemas\":[\"manduco\",\"mandūcō\"],\"lema_canonico\":\"manduco\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"Mastigar; comer, devorar; também atestado como substantivo 'glutão' em post‑class.\",\"aliases\":[],\"exemplos\":[\"Varr. R.R. 3, 7, 2\",\"Suet. Aug. 76\"],\"notas\":\"Unificada a forma verbal (1ª conjug.) e reconhecida a entrada substantiva registrada no LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_16563:16563:0\",\"lemas\":[\"manduco\",\"mandūcō\"],\"lema_canonico\":\"manduco\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"Mastigar; comer, devorar; também atestado como substantivo 'glutão' em post‑class.\",\"aliases\":[],\"exemplos\":[\"Varr. R.R. 3, 7, 2\",\"Suet. Aug. 76\"],\"notas\":\"Unificada a forma verbal (1ª conjug.) e reconhecida a entrada substantiva registrada no LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_16564-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16564",
-    "page_num": 16564,
-    "lemmas": [
-      "duco",
-      "duco"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "conduzir, levar; guiar, comandar; também: pensar, considerar; estender/arrastar",
-    "exemplos": [],
-    "notas": "Lema e formas confirmadas em Lewis & Short e Lat→Deu; entrada normalizada para dūcō, dūcere. | [dedupe] redirect → chunk_9059:9059:0 | [dedupe] redirect → chunk_9059:9059:0",
-    "raw_text": "{\"id\":\"chunk_16564:16564:0\",\"lemas\":[\"duco\"],\"lema_canonico\":\"duco\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"conduzir, levar; guiar, comandar; também: pensar, considerar; estender/arrastar\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Lema e formas confirmadas em Lewis & Short e Lat→Deu; entrada normalizada para dūcō, dūcere.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_16564:16564:0\",\"lemas\":[\"duco\"],\"lema_canonico\":\"duco\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"conduzir, levar; guiar, comandar; também: pensar, considerar; estender/arrastar\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Lema e formas confirmadas em Lewis & Short e Lat→Deu; entrada normalizada para dūcō, dūcere.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_16564-e2",
     "volume_id": "faria",
     "doc_name": "chunk_16564",
@@ -4048,28 +3740,6 @@
     "raw_json": "{\"id\":\"chunk_16568:16568:0\",\"lemas\":[\"māne\"],\"lema_canonico\":\"māne\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"manhã, alvorecer; usado poeticamente e na prosa pós‑augusta para 'manhã/primeira luz'.\",\"aliases\":[],\"exemplos\":[\"Verg. G. 3, 325\",\"Hor. S. 1, 3, 18\"],\"notas\":\"Substantivo indeclinável; acepções corroboradas por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_16568-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_16568",
-    "page_num": 16568,
-    "lemmas": [
-      "maneō",
-      "maneō"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "permanecer, ficar, deter‑se; também: durar, esperar, reservar‑se.",
-    "exemplos": [],
-    "notas": "Entrada first_pass registrava a forma imperativa 'māne' — aqui normalizada ao lema verbal 'maneō' (2ª conj.). | [dedupe] redirect → chunk_16570:16570:0 | [dedupe] redirect → chunk_16570:16570:0",
-    "raw_text": "{\"id\":\"chunk_16568:16568:1\",\"lemas\":[\"maneō\",\"maneo\"],\"lema_canonico\":\"maneō\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"permanecer, ficar, deter‑se; também: durar, esperar, reservar‑se.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada first_pass registrava a forma imperativa 'māne' — aqui normalizada ao lema verbal 'maneō' (2ª conj.).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_16568:16568:1\",\"lemas\":[\"maneō\",\"maneo\"],\"lema_canonico\":\"maneō\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"permanecer, ficar, deter‑se; também: durar, esperar, reservar‑se.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada first_pass registrava a forma imperativa 'māne' — aqui normalizada ao lema verbal 'maneō' (2ª conj.).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_16569-e1",
     "volume_id": "faria",
     "doc_name": "chunk_16569",
@@ -4156,28 +3826,6 @@
     "notas": "Genitivo attested as -ōnis; grafia normalizada 'mango'",
     "raw_text": "{\"id\":\"chunk_16572:16572:0\",\"lemas\":[\"mango\"],\"lema_canonico\":\"mango\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"mango: mercador, especialmente vendedor que embeleza mercadorias; também negociante de escravos\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 37, 200\",\"Mart. 1, 58, 1\"],\"notas\":\"Genitivo attested as -ōnis; grafia normalizada 'mango'\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_16572:16572:0\",\"lemas\":[\"mango\"],\"lema_canonico\":\"mango\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"mango: mercador, especialmente vendedor que embeleza mercadorias; também negociante de escravos\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 37, 200\",\"Mart. 1, 58, 1\"],\"notas\":\"Genitivo attested as -ōnis; grafia normalizada 'mango'\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_16573-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16573",
-    "page_num": 16573,
-    "lemmas": [
-      "manubia",
-      "manubia"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "parte do despojo (prémio) destinada ao general; dinheiros/resultados provenientes da venda de despojos.",
-    "exemplos": [],
-    "notas": "Entrada atestada no plural (manubiae); lema normalizado como manubia. | [dedupe] redirect → chunk_16618:16618:0 | [dedupe] redirect → chunk_16618:16618:0",
-    "raw_text": "{\"id\":\"chunk_16573:16573:0\",\"lemas\":[\"manubia\",\"manubiae\"],\"lema_canonico\":\"manubia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"parte do despojo (prémio) destinada ao general; dinheiros/resultados provenientes da venda de despojos.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada atestada no plural (manubiae); lema normalizado como manubia.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_16573:16573:0\",\"lemas\":[\"manubia\",\"manubiae\"],\"lema_canonico\":\"manubia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"parte do despojo (prémio) destinada ao general; dinheiros/resultados provenientes da venda de despojos.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada atestada no plural (manubiae); lema normalizado como manubia.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_16574-e1",
@@ -4312,28 +3960,6 @@
     "raw_json": "{\"id\":\"chunk_16579:16579:0\",\"lemas\":[\"manifestē\"],\"lema_canonico\":\"manifestē\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"manifestamente; claramente, evidentemente\",\"aliases\":[],\"exemplos\":[\"Verg. En. 8, 16\"],\"notas\":\"Deriva do adjetivo manifestus; comparação manifestius mencionada em manuscritos\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_16580-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16580",
-    "page_num": 16580,
-    "lemmas": [
-      "manifestē",
-      "manifestē"
-    ],
-    "morfologia": "adv.",
-    "morph_render": "adv.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "manifestē / manifestō: evidentemente, claramente, manifestamente",
-    "exemplos": [],
-    "notas": "Inclui variante adverbial manifesto attestada em dicionários; escolha de lema canônico 'manifestē' | [dedupe] redirect → chunk_16579:16579:0 | [dedupe] redirect → chunk_16579:16579:0",
-    "raw_text": "{\"id\":\"chunk_16580:16580:0\",\"lemas\":[\"manifestē\",\"manifestō\"],\"lema_canonico\":\"manifestē\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"manifestē / manifestō: evidentemente, claramente, manifestamente\",\"aliases\":[],\"exemplos\":[\"Cic. Br. 277\"],\"notas\":\"Inclui variante adverbial manifesto attestada em dicionários; escolha de lema canônico 'manifestē'\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_16580:16580:0\",\"lemas\":[\"manifestē\",\"manifestō\"],\"lema_canonico\":\"manifestē\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"manifestē / manifestō: evidentemente, claramente, manifestamente\",\"aliases\":[],\"exemplos\":[\"Cic. Br. 277\"],\"notas\":\"Inclui variante adverbial manifesto attestada em dicionários; escolha de lema canônico 'manifestē'\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_16581-e1",
     "volume_id": "faria",
     "doc_name": "chunk_16581",
@@ -4398,28 +4024,6 @@
     "notas": "Tratado como nome próprio conforme o testemunho textual (Juv. 6,242); fonte primária Whitaker.",
     "raw_text": "{\"id\":\"chunk_16583:16583:0\",\"lemas\":[\"manilla\"],\"lema_canonico\":\"manilla\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Manilla: nome próprio feminino (Manília), atestado em Juvenal\",\"aliases\":[],\"exemplos\":[\"Juv. 6, 242\"],\"notas\":\"Tratado como nome próprio conforme o testemunho textual (Juv. 6,242); fonte primária Whitaker.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_16583:16583:0\",\"lemas\":[\"manilla\"],\"lema_canonico\":\"manilla\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Manilla: nome próprio feminino (Manília), atestado em Juvenal\",\"aliases\":[],\"exemplos\":[\"Juv. 6, 242\"],\"notas\":\"Tratado como nome próprio conforme o testemunho textual (Juv. 6,242); fonte primária Whitaker.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_16584-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16584",
-    "page_num": 16584,
-    "lemmas": [
-      "Manilianus",
-      "Manilianus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Relativo a Manilius (derivado do gentílico Manilius).",
-    "exemplos": [],
-    "notas": "Entrada confirmada como adjetivo derivado de um nome próprio; formato adaptado ao padrão do dicionário. | [dedupe] redirect → chunk_16593:16593:0 | [dedupe] redirect → chunk_16593:16593:0",
-    "raw_text": "{\"id\":\"chunk_16584:16584:0\",\"lemas\":[\"Manilianus\"],\"lema_canonico\":\"Manilianus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo a Manilius (derivado do gentílico Manilius).\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 1, 246\"],\"notas\":\"Entrada confirmada como adjetivo derivado de um nome próprio; formato adaptado ao padrão do dicionário.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_16584:16584:0\",\"lemas\":[\"Manilianus\"],\"lema_canonico\":\"Manilianus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo a Manilius (derivado do gentílico Manilius).\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 1, 246\"],\"notas\":\"Entrada confirmada como adjetivo derivado de um nome próprio; formato adaptado ao padrão do dicionário.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
     "id": "chunk_16585-e1",
@@ -4488,28 +4092,6 @@
     "raw_json": "{\"id\":\"chunk_16586:16586:0\",\"lemas\":[\"manipularis\",\"maniplaris\",\"maniplus\",\"maniplāris\"],\"lema_canonico\":\"manipularis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"relativo ao manípulo; (como subst.) soldado de um manípulo, soldado raso; pertencente às fileiras/manípulos.\",\"aliases\":[],\"exemplos\":[\"Cic. Phil. 1, 8, 20\",\"Ov. F. 3, 117\"],\"notas\":\"Incluídas variantes atestadas (maniplaris, maniplus). Entrada alinhada com LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_16587-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16587",
-    "page_num": 16587,
-    "lemmas": [
-      "manipularis",
-      "manipularis"
-    ],
-    "morfologia": "adj. (3) 2T",
-    "morph_render": "adj. (3) 2T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "manipularis: adjetivo 'do manípulo, pertencente ao manípulo, relativo às fileiras' (também substantivo masc. 'manipularis, is' = soldado raso, membro de um manípulo)",
-    "exemplos": [],
-    "notas": "Entrada unificada: conserva uso adjetival e substantival (subst. atestado em LS); morfologia adjetival escolhida conforme Whitaker (3ª decl., 2 temas). | [dedupe] redirect → chunk_16586:16586:0 | [dedupe] redirect → chunk_16586:16586:0",
-    "raw_text": "{\"id\":\"chunk_16587:16587:0\",\"lemas\":[\"manipularis\"],\"lema_canonico\":\"manipularis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"manipularis: adjetivo 'do manípulo, pertencente ao manípulo, relativo às fileiras' (também substantivo masc. 'manipularis, is' = soldado raso, membro de um manípulo)\",\"aliases\":[],\"exemplos\":[\"Ov. F. 3, 117\",\"Cic. Att. 9, 10, 1\"],\"notas\":\"Entrada unificada: conserva uso adjetival e substantival (subst. atestado em LS); morfologia adjetival escolhida conforme Whitaker (3ª decl., 2 temas).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_16587:16587:0\",\"lemas\":[\"manipularis\"],\"lema_canonico\":\"manipularis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"manipularis: adjetivo 'do manípulo, pertencente ao manípulo, relativo às fileiras' (também substantivo masc. 'manipularis, is' = soldado raso, membro de um manípulo)\",\"aliases\":[],\"exemplos\":[\"Ov. F. 3, 117\",\"Cic. Att. 9, 10, 1\"],\"notas\":\"Entrada unificada: conserva uso adjetival e substantival (subst. atestado em LS); morfologia adjetival escolhida conforme Whitaker (3ª decl., 2 temas).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_16588-e1",
     "volume_id": "faria",
     "doc_name": "chunk_16588",
@@ -4574,28 +4156,6 @@
     "notas": "Grafia e variantes harmonizadas com Lewis & Short e Whitaker (manĭpŭlus / manīplus). | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='manipulus' → 'mănĭpŭlus'",
     "raw_text": "{\"id\":\"chunk_16590:16590:0\",\"lemas\":[\"manipulus\",\"maniplus\"],\"lema_canonico\":\"manipulus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"manípulo: feixe, punhado; por extensão, unidade militar (parte da legião), agrupamento\",\"aliases\":[],\"exemplos\":[\"Verg. G. 3, 297\",\"Ov. F. 3, 117\",\"Cæs. B. G. 2, 25\",\"Ter. Eun. 776\"],\"notas\":\"Grafia e variantes harmonizadas com Lewis & Short e Whitaker (manĭpŭlus / manīplus).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_16590:16590:0\",\"lemas\":[\"manipulus\",\"maniplus\"],\"lema_canonico\":\"manipulus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"manípulo: feixe, punhado; por extensão, unidade militar (parte da legião), agrupamento\",\"aliases\":[],\"exemplos\":[\"Verg. G. 3, 297\",\"Ov. F. 3, 117\",\"Cæs. B. G. 2, 25\",\"Ter. Eun. 776\"],\"notas\":\"Grafia e variantes harmonizadas com Lewis & Short e Whitaker (manĭpŭlus / manīplus).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_16591-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16591",
-    "page_num": 16591,
-    "lemmas": [
-      "manes",
-      "manes"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "os Manes: as almas/sombras dos mortos; divindades infernais/espíritos dos mortos; também restos/cadáveres; por extensão, o mundo inferior.",
-    "exemplos": [],
-    "notas": "Normalizado para o plural 'manes' (manium). 'manis' mantido como variante/ortográfica; correlação confirmada por LS e Whitaker. | [dedupe] redirect → chunk_16571:16571:0 | [dedupe] redirect → chunk_16571:16571:0",
-    "raw_text": "{\"id\":\"chunk_16591:16591:0\",\"lemas\":[\"manes\",\"manis\"],\"lema_canonico\":\"manes\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"os Manes: as almas/sombras dos mortos; divindades infernais/espíritos dos mortos; também restos/cadáveres; por extensão, o mundo inferior.\",\"aliases\":[],\"exemplos\":[\"Cic. Leg. 2, 9, 22\",\"Lucr. 6, 759\"],\"notas\":\"Normalizado para o plural 'manes' (manium). 'manis' mantido como variante/ortográfica; correlação confirmada por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_16591:16591:0\",\"lemas\":[\"manes\",\"manis\"],\"lema_canonico\":\"manes\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"os Manes: as almas/sombras dos mortos; divindades infernais/espíritos dos mortos; também restos/cadáveres; por extensão, o mundo inferior.\",\"aliases\":[],\"exemplos\":[\"Cic. Leg. 2, 9, 22\",\"Lucr. 6, 759\"],\"notas\":\"Normalizado para o plural 'manes' (manium). 'manis' mantido como variante/ortográfica; correlação confirmada por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_16592-e1",
@@ -4750,27 +4310,5 @@
     "notas": "Lema normalizado com macron; acepções confirmadas por LS, Whitaker e Lat→Deu.",
     "raw_text": "{\"id\":\"chunk_16598:16598:0\",\"lemas\":[\"māno\",\"mano\"],\"lema_canonico\":\"māno\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"correr em gotas; gotejar, escorrer lentamente; derramar‑se, manar; fig.: emanar, proceder de; às vezes transitivo no sentido destilar/verter.\",\"aliases\":[],\"exemplos\":[\"Verg. A. 3, 157\",\"Lucr. 6, 927\",\"Cic. Cat. 4, 6\",\"Cic. Par. 3, 1, 22\",\"Plin. H. Nat. 37, 170\",\"Ov. Met. 6, 312\"],\"notas\":\"Lema normalizado com macron; acepções confirmadas por LS, Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_16598:16598:0\",\"lemas\":[\"māno\",\"mano\"],\"lema_canonico\":\"māno\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"correr em gotas; gotejar, escorrer lentamente; derramar‑se, manar; fig.: emanar, proceder de; às vezes transitivo no sentido destilar/verter.\",\"aliases\":[],\"exemplos\":[\"Verg. A. 3, 157\",\"Lucr. 6, 927\",\"Cic. Cat. 4, 6\",\"Cic. Par. 3, 1, 22\",\"Plin. H. Nat. 37, 170\",\"Ov. Met. 6, 312\"],\"notas\":\"Lema normalizado com macron; acepções confirmadas por LS, Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_16599-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16599",
-    "page_num": 16599,
-    "lemmas": [
-      "maneō",
-      "maneō"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "perfectum de maneō, manēre: permanecer, ficar, esperar, continuar, durar; também 'passar a noite' em certos contextos.",
-    "exemplos": [],
-    "notas": "Forma perfeita editorialmente ligada ao infinitivo maneō; sentidos confirmados por Lat→Deu e Whitaker. | [dedupe] redirect → chunk_16570:16570:0 | [dedupe] redirect → chunk_16570:16570:0",
-    "raw_text": "{\"id\":\"chunk_16599:16599:0\",\"lemas\":[\"mansi\"],\"lema_canonico\":\"maneō\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"perfectum de maneō, manēre: permanecer, ficar, esperar, continuar, durar; também 'passar a noite' em certos contextos.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma perfeita editorialmente ligada ao infinitivo maneō; sentidos confirmados por Lat→Deu e Whitaker.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_16599:16599:0\",\"lemas\":[\"mansi\"],\"lema_canonico\":\"maneō\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"perfectum de maneō, manēre: permanecer, ficar, esperar, continuar, durar; também 'passar a noite' em certos contextos.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma perfeita editorialmente ligada ao infinitivo maneō; sentidos confirmados por Lat→Deu e Whitaker.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   }
 ]

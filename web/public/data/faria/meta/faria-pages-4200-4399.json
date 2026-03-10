@@ -308,28 +308,6 @@
     "raw_json": "{\"id\":\"chunk_4212:4212:0\",\"lemas\":[\"caperarius\"],\"lema_canonico\":\"caperarius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo (supostamente) a Caprea (Capri); leitura incerta, necessita verificação\",\"aliases\":[],\"exemplos\":[\"Ov. Trist. 5, 7, 36\"],\"notas\":\"Entrada baseada na primeira passada; forma e origem incertas (OCR ambíguo 'Cafáreu'→Caprea).\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_4213-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_4213",
-    "page_num": 4213,
-    "lemmas": [
-      "Caprāthē",
-      "Caprāthē"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:low",
-    "needs_review": 1,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada ambígua no impresso: texto diz apenas \"o mesmo que o precedente\" sem indicar lema-alvo; falta confirmação em LS/Whitaker. Mantida forma gráfica tal como no OCR.",
-    "raw_text": "{\"id\":\"chunk_4213:4213:0\",\"lemas\":[\"Caprāthē\",\"Caprathe\"],\"lema_canonico\":\"Caprāthē\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"precedente\"],\"exemplos\":[\"Prop. 3, 7, 39\"],\"notas\":\"Entrada ambígua no impresso: texto diz apenas \\\"o mesmo que o precedente\\\" sem indicar lema-alvo; falta confirmação em LS/Whitaker. Mantida forma gráfica tal como no OCR.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_4213:4213:0\",\"lemas\":[\"Caprāthē\",\"Caprathe\"],\"lema_canonico\":\"Caprāthē\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"precedente\"],\"exemplos\":[\"Prop. 3, 7, 39\"],\"notas\":\"Entrada ambígua no impresso: texto diz apenas \\\"o mesmo que o precedente\\\" sem indicar lema-alvo; falta confirmação em LS/Whitaker. Mantida forma gráfica tal como no OCR.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\",\"redirect_only\"]}"
-  },
-  {
     "id": "chunk_4214-e1",
     "volume_id": "faria",
     "doc_name": "chunk_4214",
@@ -550,28 +528,6 @@
     "raw_json": "{\"id\":\"chunk_4221:4221:0\",\"lemas\":[\"capistrum\"],\"lema_canonico\":\"capistrum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Halter/maçacote para animais; tira ou mordaça; figuradamente, o 'cabresto' conjugal (maritale capistrum); também faixa para videiras/prensas.\",\"aliases\":[],\"exemplos\":[\"Verg. G. 3, 188\",\"Ov. A. A. 603\",\"Colum. 4, 20, 3\"],\"notas\":\"Sentidos e exemplos verificados em Lewis & Short e Lat→Deu; declinação segundo fontes.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_4222-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_4222",
-    "page_num": 4222,
-    "lemmas": [
-      "capitālis",
-      "capitālis"
-    ],
-    "morfologia": "adj. (3) 2T",
-    "morph_render": "adj. (3) 2T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "1) Relativo à cabeça; 2) (jur.) que põe em risco a vida, capital (crime, pena); como subst.: capitale = objeto/casuística ligado a pena capital ou peça de indumentária sacerdotal.",
-    "exemplos": [],
-    "notas": "Unifica uso adjetival e o substantivado capitale; sentido jurídico e litúrgico atestado por LS/Whitaker. | [dedupe] redirect → chunk_4223:4223:0 | [dedupe] redirect → chunk_4223:4223:0",
-    "raw_text": "{\"id\":\"chunk_4222:4222:0\",\"lemas\":[\"capitālis\",\"capitale\"],\"lema_canonico\":\"capitālis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"1) Relativo à cabeça; 2) (jur.) que põe em risco a vida, capital (crime, pena); como subst.: capitale = objeto/casuística ligado a pena capital ou peça de indumentária sacerdotal.\",\"aliases\":[],\"exemplos\":[\"Varr. L. Lat. 5, 130\",\"Cic. Leg. 3, 19, 39\",\"Liv. 24, 37, 9\"],\"notas\":\"Unifica uso adjetival e o substantivado capitale; sentido jurídico e litúrgico atestado por LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_4222:4222:0\",\"lemas\":[\"capitālis\",\"capitale\"],\"lema_canonico\":\"capitālis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"1) Relativo à cabeça; 2) (jur.) que põe em risco a vida, capital (crime, pena); como subst.: capitale = objeto/casuística ligado a pena capital ou peça de indumentária sacerdotal.\",\"aliases\":[],\"exemplos\":[\"Varr. L. Lat. 5, 130\",\"Cic. Leg. 3, 19, 39\",\"Liv. 24, 37, 9\"],\"notas\":\"Unifica uso adjetival e o substantivado capitale; sentido jurídico e litúrgico atestado por LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_4223-e1",
     "volume_id": "faria",
     "doc_name": "chunk_4223",
@@ -660,28 +616,6 @@
     "raw_json": "{\"id\":\"chunk_4226:4226:0\",\"lemas\":[\"capitium\",\"Capitium\"],\"lema_canonico\":\"capitium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"1. Tunic opening/covering for the head; undervest or head-covering; 2. Toponym: the town Capitium in Sicily.\",\"aliases\":[],\"exemplos\":[\"Varr. L. L. 5\",\"Dig. 34, 2, 24\",\"Cic. Verr. 3, 103\"],\"notas\":\"Acentuações e acepções confirmadas por LS, Whitaker e Lat→Deu (vestis e topônimo).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_4227-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_4227",
-    "page_num": 4227,
-    "lemmas": [
-      "capio",
-      "capio"
-    ],
-    "morfologia": "v. 3ª -iō (-ere)",
-    "morph_render": "v. 3ª -iō (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Tomar, apanhar, agarrar; também: receber, obter, compreender, escolher; (verbo irregular em -iō, com perf. cēpī, sup. captum).",
-    "exemplos": [],
-    "notas": "Separado do substantivo homógrafo (capio, -ōnis, f. = 'a taking/usucapio'); aqui priorizado o verbo conforme LS e Lat→Deu. | [dedupe] redirect → chunk_4218:4218:0 | [dedupe] redirect → chunk_4218:4218:0",
-    "raw_text": "{\"id\":\"chunk_4227:4227:0\",\"lemas\":[\"capio\"],\"lema_canonico\":\"capio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[],\"definicao\":\"Tomar, apanhar, agarrar; também: receber, obter, compreender, escolher; (verbo irregular em -iō, com perf. cēpī, sup. captum).\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 1, 80\",\"Plaut. Pers. 60\"],\"notas\":\"Separado do substantivo homógrafo (capio, -ōnis, f. = 'a taking/usucapio'); aqui priorizado o verbo conforme LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_4227:4227:0\",\"lemas\":[\"capio\"],\"lema_canonico\":\"capio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[],\"definicao\":\"Tomar, apanhar, agarrar; também: receber, obter, compreender, escolher; (verbo irregular em -iō, com perf. cēpī, sup. captum).\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 1, 80\",\"Plaut. Pers. 60\"],\"notas\":\"Separado do substantivo homógrafo (capio, -ōnis, f. = 'a taking/usucapio'); aqui priorizado o verbo conforme LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_4228-e1",
     "volume_id": "faria",
     "doc_name": "chunk_4228",
@@ -746,28 +680,6 @@
     "notas": "",
     "raw_text": "{\"id\":\"chunk_4230:4230:0\",\"lemas\":[\"capitolium\"],\"lema_canonico\":\"capitolium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"o Capitólio; templo de Júpiter e a elevação (mons) em Roma\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 4, 66\",\"T. Liv. 5, 50, 4\"],\"notas\":\"\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_4230:4230:0\",\"lemas\":[\"capitolium\"],\"lema_canonico\":\"capitolium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"o Capitólio; templo de Júpiter e a elevação (mons) em Roma\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 4, 66\",\"T. Liv. 5, 50, 4\"],\"notas\":\"\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_4231-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_4231",
-    "page_num": 4231,
-    "lemmas": [
-      "Capitolinus",
-      "Capitolinus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "referente ao Capitólio; também usado como cognome (p.ex. M. Manlius Capitolinus)",
-    "exemplos": [],
-    "notas": "Inclui formas feminina e neutra como variantes lexicais. | [dedupe] redirect → chunk_4229:4229:0 | [dedupe] redirect → chunk_4229:4229:0",
-    "raw_text": "{\"id\":\"chunk_4231:4231:0\",\"lemas\":[\"Capitolinus\",\"Capitolina\",\"Capitolinum\"],\"lema_canonico\":\"Capitolinus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"referente ao Capitólio; também usado como cognome (p.ex. M. Manlius Capitolinus)\",\"aliases\":[],\"exemplos\":[\"T. Liv. 3, 12, 2\"],\"notas\":\"Inclui formas feminina e neutra como variantes lexicais.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_4231:4231:0\",\"lemas\":[\"Capitolinus\",\"Capitolina\",\"Capitolinum\"],\"lema_canonico\":\"Capitolinus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"referente ao Capitólio; também usado como cognome (p.ex. M. Manlius Capitolinus)\",\"aliases\":[],\"exemplos\":[\"T. Liv. 3, 12, 2\"],\"notas\":\"Inclui formas feminina e neutra como variantes lexicais.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_4232-e1",
@@ -900,28 +812,6 @@
     "notas": "Entrada pouco clara no OCR e na primeira passada; não foi possível retificar com segurança para 'Cappadocia' sem risco de alterar a leitura original.\n[ocr_pipeline 2025-08-16T23:10:10.985625Z] lemma_in='Capadocy' → 'Cappădox' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:04:59Z] match direto em LS por lemma/lemma_norm | lemma_in='Cappădox' → 'Cappădox'",
     "raw_text": "{\"id\":\"chunk_4235:4235:0\",\"lemas\":[\"Capadocy\"],\"lema_canonico\":\"Capadocy\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"(entrada incerta) forma atestada na primeira passada; possivelmente referente a Cappadocia/Capadócia ou ao rio citado por Plínio\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 5, 9\"],\"notas\":\"Entrada pouco clara no OCR e na primeira passada; não foi possível retificar com segurança para 'Cappadocia' sem risco de alterar a leitura original.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_4235:4235:0\",\"lemas\":[\"Capadocy\"],\"lema_canonico\":\"Capadocy\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"(entrada incerta) forma atestada na primeira passada; possivelmente referente a Cappadocia/Capadócia ou ao rio citado por Plínio\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 5, 9\"],\"notas\":\"Entrada pouco clara no OCR e na primeira passada; não foi possível retificar com segurança para 'Cappadocia' sem risco de alterar a leitura original.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_4236-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_4236",
-    "page_num": 4236,
-    "lemmas": [
-      "Cappadocia",
-      "Cappadocia"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "região da Capadócia (província da Ásia Menor)",
-    "exemplos": [],
-    "notas": "Entrada duplicada na fonte OCR; normalizada para a forma clássica 'Cappadocia'. | [dedupe] redirect → chunk_4234:4234:0 | [dedupe] redirect → chunk_4234:4234:0",
-    "raw_text": "{\"id\":\"chunk_4236:4236:0\",\"lemas\":[\"Cappadocia\"],\"lema_canonico\":\"Cappadocia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"região da Capadócia (província da Ásia Menor)\",\"aliases\":[],\"exemplos\":[\"Cic. Sen. 14\"],\"notas\":\"Entrada duplicada na fonte OCR; normalizada para a forma clássica 'Cappadocia'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_4236:4236:0\",\"lemas\":[\"Cappadocia\"],\"lema_canonico\":\"Cappadocia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"região da Capadócia (província da Ásia Menor)\",\"aliases\":[],\"exemplos\":[\"Cic. Sen. 14\"],\"notas\":\"Entrada duplicada na fonte OCR; normalizada para a forma clássica 'Cappadocia'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_4236-e2",
@@ -1254,94 +1144,6 @@
     "raw_json": "{\"id\":\"chunk_4247:4247:0\",\"lemas\":[\"capsarius\",\"capsārius\"],\"lema_canonico\":\"capsarius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"escravo encarregado de levar a capsa/satchel (p.ex. dos meninos); também 'attendant at baths' e 'satchel-maker' em fontes variantes\",\"aliases\":[],\"exemplos\":[\"Suet. Ner. 36\"],\"notas\":\"Forma e sentidos confirmados por LS e Whitaker; normalizada grafia sem macron.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_4248-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_4248",
-    "page_num": 4248,
-    "lemmas": [
-      "capsa",
-      "capsa"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "Habitantes de Capsa (Capsenses), coletivo/denominação local.",
-    "exemplos": [],
-    "notas": "Entrada reconstruída de OCR; plural/cole­tivo atestado em Salústio. Morfologia plural não cabe estritamente no vocabulário permit., escolha próxima.\n[ocr_pipeline 2025-08-16T23:23:51.226398Z] lemma_in='Capsensis' → 'Capsa' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:23:15Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='Capsa' → 'capsa' | [dedupe] redirect → chunk_4246:4246:0 | [dedupe] redirect → chunk_4246:4246:0",
-    "raw_text": "{\"id\":\"chunk_4248:4248:0\",\"lemas\":[\"Capsensis\",\"Capsentes\"],\"lema_canonico\":\"Capsensis\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Habitantes de Capsa (Capsenses), coletivo/denominação local.\",\"aliases\":[],\"exemplos\":[\"Sal. Bell. Jug. 89, 6\"],\"notas\":\"Entrada reconstruída de OCR; plural/cole­tivo atestado em Salústio. Morfologia plural não cabe estritamente no vocabulário permit., escolha próxima.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_4248:4248:0\",\"lemas\":[\"Capsensis\",\"Capsentes\"],\"lema_canonico\":\"Capsensis\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Habitantes de Capsa (Capsenses), coletivo/denominação local.\",\"aliases\":[],\"exemplos\":[\"Sal. Bell. Jug. 89, 6\"],\"notas\":\"Entrada reconstruída de OCR; plural/cole­tivo atestado em Salústio. Morfologia plural não cabe estritamente no vocabulário permit., escolha próxima.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\",\"morph_out_of_vocab\"]}"
-  },
-  {
-    "id": "chunk_4249-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_4249",
-    "page_num": 4249,
-    "lemmas": [
-      "capio",
-      "capio"
-    ],
-    "morfologia": "v. 3ª -iō (-ere)",
-    "morph_render": "v. 3ª -iō (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "ceperim: forma do perfeito do subjuntivo ativo de capio (1.ª pessoa do singular) — 'que eu tenha tomado/capturado/entendido'.",
-    "exemplos": [],
-    "notas": "'capsim' é leitura OCR/variante gráfica; forma canónica é ceperim. Lema normalizado para 'capio'. | [dedupe] redirect → chunk_4218:4218:0 | [dedupe] redirect → chunk_4218:4218:0",
-    "raw_text": "{\"id\":\"chunk_4249:4249:0\",\"lemas\":[\"capio\"],\"lema_canonico\":\"capio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[\"perf. subj. act. 1 sg.\"],\"definicao\":\"ceperim: forma do perfeito do subjuntivo ativo de capio (1.ª pessoa do singular) — 'que eu tenha tomado/capturado/entendido'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"'capsim' é leitura OCR/variante gráfica; forma canónica é ceperim. Lema normalizado para 'capio'.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_4249:4249:0\",\"lemas\":[\"capio\"],\"lema_canonico\":\"capio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[\"perf. subj. act. 1 sg.\"],\"definicao\":\"ceperim: forma do perfeito do subjuntivo ativo de capio (1.ª pessoa do singular) — 'que eu tenha tomado/capturado/entendido'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"'capsim' é leitura OCR/variante gráfica; forma canónica é ceperim. Lema normalizado para 'capio'.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_4250-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_4250",
-    "page_num": 4250,
-    "lemmas": [
-      "capio",
-      "capio"
-    ],
-    "morfologia": "v. 3ª -iō (-ere)",
-    "morph_render": "v. 3ª -iō (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Formas atestadas variantes arcaicas grafadas capseris / capsis correspondem a ceperis / ceperit (futuro perfeito de capio) — 'terás tomado', 'terá tomado'.",
-    "exemplos": [],
-    "notas": "Normalizado a partir de leitura coral de variantes; inclui forma clássica ceperis. | [dedupe] redirect → chunk_4218:4218:0 | [dedupe] redirect → chunk_4218:4218:0",
-    "raw_text": "{\"id\":\"chunk_4250:4250:0\",\"lemas\":[\"capio\"],\"lema_canonico\":\"capio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[\"fut. perf. 2 sg./3 sg.\"],\"definicao\":\"Formas atestadas variantes arcaicas grafadas capseris / capsis correspondem a ceperis / ceperit (futuro perfeito de capio) — 'terás tomado', 'terá tomado'.\",\"aliases\":[],\"exemplos\":[\"Plaut. Ps. 1022\"],\"notas\":\"Normalizado a partir de leitura coral de variantes; inclui forma clássica ceperis.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_4250:4250:0\",\"lemas\":[\"capio\"],\"lema_canonico\":\"capio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[\"fut. perf. 2 sg./3 sg.\"],\"definicao\":\"Formas atestadas variantes arcaicas grafadas capseris / capsis correspondem a ceperis / ceperit (futuro perfeito de capio) — 'terás tomado', 'terá tomado'.\",\"aliases\":[],\"exemplos\":[\"Plaut. Ps. 1022\"],\"notas\":\"Normalizado a partir de leitura coral de variantes; inclui forma clássica ceperis.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_4251-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_4251",
-    "page_num": 4251,
-    "lemmas": [
-      "capio",
-      "capio"
-    ],
-    "morfologia": "v. 3ª -iō (-ere)",
-    "morph_render": "v. 3ª -iō (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "capsō (orthogr. variante) = cēperō (futuro perfeito do indicativo, 1.ª pessoa do singular) — 'terei tomado'.",
-    "exemplos": [],
-    "notas": "Registro de variante ortográfica (capso / capsō) atestada em léxicos; lemas normalizados para o infinitivo. | [dedupe] redirect → chunk_4218:4218:0 | [dedupe] redirect → chunk_4218:4218:0",
-    "raw_text": "{\"id\":\"chunk_4251:4251:0\",\"lemas\":[\"capio\"],\"lema_canonico\":\"capio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[\"fut. perf. ind. 1 sg.\"],\"definicao\":\"capsō (orthogr. variante) = cēperō (futuro perfeito do indicativo, 1.ª pessoa do singular) — 'terei tomado'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Registro de variante ortográfica (capso / capsō) atestada em léxicos; lemas normalizados para o infinitivo.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_4251:4251:0\",\"lemas\":[\"capio\"],\"lema_canonico\":\"capio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[\"fut. perf. ind. 1 sg.\"],\"definicao\":\"capsō (orthogr. variante) = cēperō (futuro perfeito do indicativo, 1.ª pessoa do singular) — 'terei tomado'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Registro de variante ortográfica (capso / capsō) atestada em léxicos; lemas normalizados para o infinitivo.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_4252-e1",
     "volume_id": "faria",
     "doc_name": "chunk_4252",
@@ -1538,28 +1340,6 @@
     "notas": "Forma e significado confirmados por LS e Whitaker; sufixo -ātis indica 3ª declinação.",
     "raw_text": "{\"id\":\"chunk_4259:4259:1\",\"lemas\":[\"captiositas\",\"captĭōsitās\"],\"lema_canonico\":\"captiositas\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Captiosidade; sofisma(s), carácter de ser capcioso; substantivo abstrato derivado de captiosus.\",\"aliases\":[],\"exemplos\":[\"Cic. Fin. 1, 22\"],\"notas\":\"Forma e significado confirmados por LS e Whitaker; sufixo -ātis indica 3ª declinação.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_4259:4259:1\",\"lemas\":[\"captiositas\",\"captĭōsitās\"],\"lema_canonico\":\"captiositas\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Captiosidade; sofisma(s), carácter de ser capcioso; substantivo abstrato derivado de captiosus.\",\"aliases\":[],\"exemplos\":[\"Cic. Fin. 1, 22\"],\"notas\":\"Forma e significado confirmados por LS e Whitaker; sufixo -ātis indica 3ª declinação.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_4260-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_4260",
-    "page_num": 4260,
-    "lemmas": [
-      "captiositas",
-      "captiositas"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "captiositas: sutileza enganosa, sofisma, artifício retórico; captiousness, tendency to entrap in argument",
-    "exemplos": [],
-    "notas": "Forma é substantivo em -tas (3ª decl.), não 1ª decl.; corrigido a partir de pistas e Whitaker. | [dedupe] redirect → chunk_4259:4259:1 | [dedupe] redirect → chunk_4259:4259:1",
-    "raw_text": "{\"id\":\"chunk_4260:4260:0\",\"lemas\":[\"captiositas\"],\"lema_canonico\":\"captiositas\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"captiositas: sutileza enganosa, sofisma, artifício retórico; captiousness, tendency to entrap in argument\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 15, 7\"],\"notas\":\"Forma é substantivo em -tas (3ª decl.), não 1ª decl.; corrigido a partir de pistas e Whitaker.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_4260:4260:0\",\"lemas\":[\"captiositas\"],\"lema_canonico\":\"captiositas\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"captiositas: sutileza enganosa, sofisma, artifício retórico; captiousness, tendency to entrap in argument\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 15, 7\"],\"notas\":\"Forma é substantivo em -tas (3ª decl.), não 1ª decl.; corrigido a partir de pistas e Whitaker.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
     "id": "chunk_4261-e1",
@@ -1802,50 +1582,6 @@
     "notas": "Lemas masculino e neutro relacionados; ambas formas atestadas (-us / -um). | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='capulus' → 'căpŭlus'",
     "raw_text": "{\"id\":\"chunk_4271:4271:0\",\"lemas\":[\"capulus\",\"capulum\"],\"lema_canonico\":\"capulus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"1) cabo, punho (de arma); 2) pega/asa de instrumentos; 3) leito funerário, caixão, sarcófago; 4) laço/haltere (uso rural)\",\"aliases\":[],\"exemplos\":[\"Verg. En. 6, 253\",\"Ov. F. 2, 233\"],\"notas\":\"Lemas masculino e neutro relacionados; ambas formas atestadas (-us / -um).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"morph_out_of_vocab\"]}",
     "raw_json": "{\"id\":\"chunk_4271:4271:0\",\"lemas\":[\"capulus\",\"capulum\"],\"lema_canonico\":\"capulus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"1) cabo, punho (de arma); 2) pega/asa de instrumentos; 3) leito funerário, caixão, sarcófago; 4) laço/haltere (uso rural)\",\"aliases\":[],\"exemplos\":[\"Verg. En. 6, 253\",\"Ov. F. 2, 233\"],\"notas\":\"Lemas masculino e neutro relacionados; ambas formas atestadas (-us / -um).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"morph_out_of_vocab\"]}"
-  },
-  {
-    "id": "chunk_4272-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_4272",
-    "page_num": 4272,
-    "lemmas": [
-      "caput",
-      "caput"
-    ],
-    "morfologia": "s. neut. 3ª (-is)",
-    "morph_render": "s. neut. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Cabeça; também: pessoa, vida; topo/ponta; fonte/origem; chefe, principal; o essencial; capital (cidade).",
-    "exemplos": [],
-    "notas": "Genitivo regular -itis; abl. capite. Sentidos condensados a partir de LS/Whitaker. | [dedupe] redirect → chunk_15194:15194:0 | [dedupe] redirect → chunk_15194:15194:0",
-    "raw_text": "{\"id\":\"chunk_4272:4272:0\",\"lemas\":[\"caput\"],\"lema_canonico\":\"caput\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Cabeça; também: pessoa, vida; topo/ponta; fonte/origem; chefe, principal; o essencial; capital (cidade).\",\"aliases\":[],\"exemplos\":[\"Verg. En. 7, 668\",\"Cic. Off. 3, 107\",\"Hor. Ep. 1, 1, 76\"],\"notas\":\"Genitivo regular -itis; abl. capite. Sentidos condensados a partir de LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_4272:4272:0\",\"lemas\":[\"caput\"],\"lema_canonico\":\"caput\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Cabeça; também: pessoa, vida; topo/ponta; fonte/origem; chefe, principal; o essencial; capital (cidade).\",\"aliases\":[],\"exemplos\":[\"Verg. En. 7, 668\",\"Cic. Off. 3, 107\",\"Hor. Ep. 1, 1, 76\"],\"notas\":\"Genitivo regular -itis; abl. capite. Sentidos condensados a partir de LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_4273-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_4273",
-    "page_num": 4273,
-    "lemmas": [
-      "caput",
-      "caput"
-    ],
-    "morfologia": "s. neut. 3ª (-is)",
-    "morph_render": "s. neut. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "cabeça; topo, extremidade superior; chefe, principal; origem, começo",
-    "exemplos": [],
-    "notas": "Normalizado para caput, capitis; forma e sentidos confirmados em LS e Whitaker. | [dedupe] redirect → chunk_15194:15194:0 | [dedupe] redirect → chunk_15194:15194:0",
-    "raw_text": "{\"id\":\"chunk_4273:4273:0\",\"lemas\":[\"caput\"],\"lema_canonico\":\"caput\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"cabeça; topo, extremidade superior; chefe, principal; origem, começo\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizado para caput, capitis; forma e sentidos confirmados em LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_4273:4273:0\",\"lemas\":[\"caput\"],\"lema_canonico\":\"caput\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"cabeça; topo, extremidade superior; chefe, principal; origem, começo\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizado para caput, capitis; forma e sentidos confirmados em LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_4274-e1",
@@ -2486,28 +2222,6 @@
     "raw_json": "{\"id\":\"chunk_4301:4301:0\",\"lemas\":[\"carduetum\",\"cardūetum\",\"cardŭētum\"],\"lema_canonico\":\"carduetum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"matagal de cardos; terreno cheio de cardos\",\"aliases\":[],\"exemplos\":[\"Verg. Buc. 3, 20\",\"Pall. Mart. 9, 4\"],\"notas\":\"Normalizado para substantivo -etum (neutro, 2ª decl.); variante caroetum atestada em algumas tradições OCR.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"src_firstpass\"]}"
   },
   {
-    "id": "chunk_4302-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_4302",
-    "page_num": 4302,
-    "lemmas": [
-      "cardo",
-      "cardo"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Hinge, tenon/mortise; pivot; axis, pole; chief point or turning point; limit; in astronomy/geom.: cardinal point or axis.",
-    "exemplos": [],
-    "notas": "Consolidação e condensação de sentidos a partir de LS, Whitaker e Lat→Deu. | [dedupe] redirect → chunk_4297:4297:0 | [dedupe] redirect → chunk_4297:4297:0",
-    "raw_text": "{\"id\":\"chunk_4302:4302:0\",\"lemas\":[\"cardo\"],\"lema_canonico\":\"cardo\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Hinge, tenon/mortise; pivot; axis, pole; chief point or turning point; limit; in astronomy/geom.: cardinal point or axis.\",\"aliases\":[],\"exemplos\":[\"Enn. Trag. 119 (cit. Vahl.)\",\"Plaut. Am. 4, 2, 6\",\"Verg. A. 2, 480\",\"Juv. 4, 63\"],\"notas\":\"Consolidação e condensação de sentidos a partir de LS, Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_4302:4302:0\",\"lemas\":[\"cardo\"],\"lema_canonico\":\"cardo\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Hinge, tenon/mortise; pivot; axis, pole; chief point or turning point; limit; in astronomy/geom.: cardinal point or axis.\",\"aliases\":[],\"exemplos\":[\"Enn. Trag. 119 (cit. Vahl.)\",\"Plaut. Am. 4, 2, 6\",\"Verg. A. 2, 480\",\"Juv. 4, 63\"],\"notas\":\"Consolidação e condensação de sentidos a partir de LS, Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_4302-e2",
     "volume_id": "faria",
     "doc_name": "chunk_4302",
@@ -2770,28 +2484,6 @@
     "notas": "Corresponde ao Lemma LS 'cărīno' (carīnāvī, carīnātus) e ao verbo carinare do Whitaker; transitivo.",
     "raw_text": "{\"id\":\"chunk_4313:4313:0\",\"lemas\":[\"carino\"],\"lema_canonico\":\"carino\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"fornecer/compor com concha; tornar em forma de quilha (to supply with a shell; make keel-shaped)\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 9, 103\"],\"notas\":\"Corresponde ao Lemma LS 'cărīno' (carīnāvī, carīnātus) e ao verbo carinare do Whitaker; transitivo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_4313:4313:0\",\"lemas\":[\"carino\"],\"lema_canonico\":\"carino\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"fornecer/compor com concha; tornar em forma de quilha (to supply with a shell; make keel-shaped)\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 9, 103\"],\"notas\":\"Corresponde ao Lemma LS 'cărīno' (carīnāvī, carīnātus) e ao verbo carinare do Whitaker; transitivo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_4314-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_4314",
-    "page_num": 4314,
-    "lemmas": [
-      "cariosus",
-      "cariosus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "podre, apodrecido; friável, degradado (aplicável a madeira, dentes, etc.).",
-    "exemplos": [],
-    "notas": "Unificadas variantes ortográficas; sentido confirmado por Whitaker e Lewis & Short. | [dedupe] redirect → chunk_4308:4308:0 | [dedupe] redirect → chunk_4308:4308:0",
-    "raw_text": "{\"id\":\"chunk_4314:4314:0\",\"lemas\":[\"cariosus\",\"cariostus\",\"carióstus\"],\"lema_canonico\":\"cariosus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"podre, apodrecido; friável, degradado (aplicável a madeira, dentes, etc.).\",\"aliases\":[],\"exemplos\":[\"Cat. Agr. 5, 6\",\"Ov. Am. 1, 12, 29\"],\"notas\":\"Unificadas variantes ortográficas; sentido confirmado por Whitaker e Lewis & Short.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_4314:4314:0\",\"lemas\":[\"cariosus\",\"cariostus\",\"carióstus\"],\"lema_canonico\":\"cariosus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"podre, apodrecido; friável, degradado (aplicável a madeira, dentes, etc.).\",\"aliases\":[],\"exemplos\":[\"Cat. Agr. 5, 6\",\"Ov. Am. 1, 12, 29\"],\"notas\":\"Unificadas variantes ortográficas; sentido confirmado por Whitaker e Lewis & Short.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
   },
   {
     "id": "chunk_4315-e1",
@@ -3190,28 +2882,6 @@
     "raw_json": "{\"id\":\"chunk_4332:4332:0\",\"lemas\":[\"carnificina\",\"carnuficina\"],\"lema_canonico\":\"carnificina\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"ofício ou lugar da execução; execução, tortura, suplício (por metonímia)\",\"aliases\":[],\"exemplos\":[\"T. Liv. 2, 23\",\"Plaut. Capt. 1, 2, 23\",\"Cic. Tusc. 5, 27, 78\"],\"notas\":\"Normalizada para 'carnificina'; variante 'carnuficina' preservada; sentidos corroborados por LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_4333-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_4333",
-    "page_num": 4333,
-    "lemmas": [
-      "as",
-      "as"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "as (moeda de bronze); unidade inteira; peça redonda (disco, lâmina)",
-    "exemplos": [],
-    "notas": "Forma clássica com genitivo 'assis' confirmada (Whitaker, LS). | [dedupe] redirect → chunk_21098:21098:1 | [dedupe] redirect → chunk_21098:21098:1",
-    "raw_text": "{\"id\":\"chunk_4333:4333:0\",\"lemas\":[\"as\"],\"lema_canonico\":\"as\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"as (moeda de bronze); unidade inteira; peça redonda (disco, lâmina)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma clássica com genitivo 'assis' confirmada (Whitaker, LS).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_4333:4333:0\",\"lemas\":[\"as\"],\"lema_canonico\":\"as\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"as (moeda de bronze); unidade inteira; peça redonda (disco, lâmina)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma clássica com genitivo 'assis' confirmada (Whitaker, LS).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_4333-e2",
     "volume_id": "faria",
     "doc_name": "chunk_4333",
@@ -3298,28 +2968,6 @@
     "notas": "Entrada incerta no corpus; forma e declinação não confirmadas por dicionários principais — mantida como na primeira passada para revisão.",
     "raw_text": "{\"id\":\"chunk_4335:4335:0\",\"lemas\":[\"Carmŭtes\",\"Carmŭti\",\"Carmutes\"],\"lema_canonico\":\"Carmŭtes\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Povo chamado Camutos (possível etnônimo galorromano); identificação incerta.\",\"aliases\":[],\"exemplos\":[\"Caes. B. Gall. 2, 35, 2\",\"Plin. H. N. 4, 107\"],\"notas\":\"Entrada incerta no corpus; forma e declinação não confirmadas por dicionários principais — mantida como na primeira passada para revisão.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\",\"morph_out_of_vocab\"]}",
     "raw_json": "{\"id\":\"chunk_4335:4335:0\",\"lemas\":[\"Carmŭtes\",\"Carmŭti\",\"Carmutes\"],\"lema_canonico\":\"Carmŭtes\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Povo chamado Camutos (possível etnônimo galorromano); identificação incerta.\",\"aliases\":[],\"exemplos\":[\"Caes. B. Gall. 2, 35, 2\",\"Plin. H. N. 4, 107\"],\"notas\":\"Entrada incerta no corpus; forma e declinação não confirmadas por dicionários principais — mantida como na primeira passada para revisão.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\",\"morph_out_of_vocab\"]}"
-  },
-  {
-    "id": "chunk_4336-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_4336",
-    "page_num": 4336,
-    "lemmas": [
-      "caro",
-      "caro"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "carne; pedaço de carne; polpa (de fruto); o corpo em oposição ao espírito",
-    "exemplos": [],
-    "notas": "[dedupe] redirect → chunk_4334:4334:0 | [dedupe] redirect → chunk_4334:4334:0",
-    "raw_text": "{\"id\":\"chunk_4336:4336:0\",\"lemas\":[\"caro\"],\"lema_canonico\":\"caro\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"carne; pedaço de carne; polpa (de fruto); o corpo em oposição ao espírito\",\"aliases\":[],\"exemplos\":[\"Cæs. B. Gal. 6, 22, 1\",\"Plin. H. Nat. 15, 96\",\"Sen. Ep. 65, 22\"],\"notas\":\"\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_4336:4336:0\",\"lemas\":[\"caro\"],\"lema_canonico\":\"caro\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"carne; pedaço de carne; polpa (de fruto); o corpo em oposição ao espírito\",\"aliases\":[],\"exemplos\":[\"Cæs. B. Gal. 6, 22, 1\",\"Plin. H. Nat. 15, 96\",\"Sen. Ep. 65, 22\"],\"notas\":\"\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_4337-e1",
@@ -3586,28 +3234,6 @@
     "raw_json": "{\"id\":\"chunk_4347:4347:3\",\"lemas\":[\"Carinas\"],\"lema_canonico\":\"Carinas\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Roman family name; a Roman surname (proper name).\",\"aliases\":[],\"exemplos\":[\"Juv. 7, 205\"],\"notas\":\"Atestado por Lewis & Short as 'Cărīnas, -ātis' (proper name). Normalizada a grafia.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_4347-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_4347",
-    "page_num": 4347,
-    "lemmas": [
-      "carina",
-      "carina"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Quilha de navio; por extensão, casco/fundo do navio; embarcação, bote; metade da casca de noz (metonímico).",
-    "exemplos": [],
-    "notas": "Sentidos confirmados em Whitaker e Lewis & Short. | [dedupe] redirect → chunk_4310:4310:0 | [dedupe] redirect → chunk_4310:4310:0",
-    "raw_text": "{\"id\":\"chunk_4347:4347:0\",\"lemas\":[\"carina\"],\"lema_canonico\":\"carina\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Quilha de navio; por extensão, casco/fundo do navio; embarcação, bote; metade da casca de noz (metonímico).\",\"aliases\":[],\"exemplos\":[\"Plaut. Mil. 3, 3, 42\",\"Caes. B. G. 3, 13\",\"Ov. M. 14, 552\"],\"notas\":\"Sentidos confirmados em Whitaker e Lewis & Short.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_4347:4347:0\",\"lemas\":[\"carina\"],\"lema_canonico\":\"carina\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Quilha de navio; por extensão, casco/fundo do navio; embarcação, bote; metade da casca de noz (metonímico).\",\"aliases\":[],\"exemplos\":[\"Plaut. Mil. 3, 3, 42\",\"Caes. B. G. 3, 13\",\"Ov. M. 14, 552\"],\"notas\":\"Sentidos confirmados em Whitaker e Lewis & Short.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_4347-e3",
     "volume_id": "faria",
     "doc_name": "chunk_4347",
@@ -3784,28 +3410,6 @@
     "raw_json": "{\"id\":\"chunk_4353:4353:0\",\"lemas\":[\"charta\",\"carta\"],\"lema_canonico\":\"charta\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"folha de papiro; documento, carta; obra escrita; também forma posterior carta\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada normalizada para a forma clássica charta; carta atestada como variante posterior.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_4354-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_4354",
-    "page_num": 4354,
-    "lemmas": [
-      "Carthago",
-      "Carthago"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada é remissão para Carthago; confirmado por Whitaker e Lewis & Short. | [dedupe] redirect → chunk_15195:15195:0 | [dedupe] redirect → chunk_15195:15195:0",
-    "raw_text": "{\"id\":\"chunk_4354:4354:0\",\"lemas\":[\"Cartago\",\"Carthago\"],\"lema_canonico\":\"Carthago\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Carthago\"],\"exemplos\":[],\"notas\":\"Entrada é remissão para Carthago; confirmado por Whitaker e Lewis & Short.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_4354:4354:0\",\"lemas\":[\"Cartago\",\"Carthago\"],\"lema_canonico\":\"Carthago\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Carthago\"],\"exemplos\":[],\"notas\":\"Entrada é remissão para Carthago; confirmado por Whitaker e Lewis & Short.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\",\"redirect_only\"]}"
-  },
-  {
     "id": "chunk_4355-e1",
     "volume_id": "faria",
     "doc_name": "chunk_4355",
@@ -3894,28 +3498,6 @@
     "raw_json": "{\"id\":\"chunk_4358:4358:0\",\"lemas\":[\"Carthaginiensis\",\"Carthaginienses\"],\"lema_canonico\":\"Carthaginiensis\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"Relativo a Cartago; também substantivo: habitante de Cartago (por extensão, ocasionalmente de Nova Cartago na Hispânia).\",\"aliases\":[],\"exemplos\":[\"Cic. Agr. 1, 2, 5\"],\"notas\":\"Unificado lema adjetival/nominal; removeu-se 'loc.' por provável OCR.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_4359-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_4359",
-    "page_num": 4359,
-    "lemmas": [
-      "Carthāgĭnĭensis",
-      "Carthāgĭnĭensis"
-    ],
-    "morfologia": "adj. (3) 2T",
-    "morph_render": "adj. (3) 2T",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "relativo a Cartago; cartaginês",
-    "exemplos": [],
-    "notas": "Corresponde à entrada carthaginiensis (Whitaker); forma também atestada como substantivo habitual. | [dedupe] redirect → chunk_4358:4358:0 | [dedupe] redirect → chunk_4358:4358:0 | [ocr_fix 2025-08-17T19:45:52Z] match direto em Gaffiot por lemma/lemma_norm | lemma_in='carthaginiensis' → 'Carthāgĭnĭensis'",
-    "raw_text": "{\"id\":\"chunk_4359:4359:0\",\"lemas\":[\"carthaginiensis\"],\"lema_canonico\":\"carthaginiensis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"relativo a Cartago; cartaginês\",\"aliases\":[],\"exemplos\":[\"T. Liv. 24, 48\"],\"notas\":\"Corresponde à entrada carthaginiensis (Whitaker); forma também atestada como substantivo habitual.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_4359:4359:0\",\"lemas\":[\"carthaginiensis\"],\"lema_canonico\":\"carthaginiensis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"relativo a Cartago; cartaginês\",\"aliases\":[],\"exemplos\":[\"T. Liv. 24, 48\"],\"notas\":\"Corresponde à entrada carthaginiensis (Whitaker); forma também atestada como substantivo habitual.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_4360-e1",
     "volume_id": "faria",
     "doc_name": "chunk_4360",
@@ -3980,28 +3562,6 @@
     "notas": "Normalizada forma latina; mantidas variantes atestadas. | [ocr_fix 2025-08-17T19:45:53Z] match direto em LS por lemma/lemma_norm | lemma_in='Cartismandua' → 'Cartismandŭa'",
     "raw_text": "{\"id\":\"chunk_4362:4362:0\",\"lemas\":[\"Cartismandua\",\"Cartimandua\"],\"lema_canonico\":\"Cartismandua\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Cartismandua, rainha dos Brigantes (Britannia).\",\"aliases\":[],\"exemplos\":[\"Tac. Ann. 12, 36\",\"Tac. Ann. 12, 40\",\"Tac. Hist. 3, 45\"],\"notas\":\"Normalizada forma latina; mantidas variantes atestadas.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_4362:4362:0\",\"lemas\":[\"Cartismandua\",\"Cartimandua\"],\"lema_canonico\":\"Cartismandua\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Cartismandua, rainha dos Brigantes (Britannia).\",\"aliases\":[],\"exemplos\":[\"Tac. Ann. 12, 36\",\"Tac. Ann. 12, 40\",\"Tac. Hist. 3, 45\"],\"notas\":\"Normalizada forma latina; mantidas variantes atestadas.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_4363-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_4363",
-    "page_num": 4363,
-    "lemmas": [
-      "carica",
-      "carica"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Figo da região da Caria; em alguns dicionários aparece como remissivo a 'Caria'.",
-    "exemplos": [],
-    "notas": "Corrige remissivo presente no OCR; confirma-se substantivo feminino em LS/Whitaker/Lat→Deu. | [dedupe] redirect → chunk_4307:4307:0 | [dedupe] redirect → chunk_4307:4307:0",
-    "raw_text": "{\"id\":\"chunk_4363:4363:0\",\"lemas\":[\"carica\"],\"lema_canonico\":\"carica\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Figo da região da Caria; em alguns dicionários aparece como remissivo a 'Caria'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrige remissivo presente no OCR; confirma-se substantivo feminino em LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_4363:4363:0\",\"lemas\":[\"carica\"],\"lema_canonico\":\"carica\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Figo da região da Caria; em alguns dicionários aparece como remissivo a 'Caria'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrige remissivo presente no OCR; confirma-se substantivo feminino em LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_4364-e1",
@@ -4092,28 +3652,6 @@
     "raw_json": "{\"id\":\"chunk_4366:4366:0\",\"lemas\":[\"Carius\"],\"lema_canonico\":\"Carius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Nome próprio masculino (Carius), atestado como anthroponimo; ex.: poeta da época de Augusto; também sobrenome.\",\"aliases\":[],\"exemplos\":[\"Ov. Pont. 4, 16, 9\"],\"notas\":\"Nome em -ius com genitivo -ii; primeira-passa e OCR confirmam; ver distinção de carius (adj./adv.).\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_4367-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_4367",
-    "page_num": 4367,
-    "lemmas": [
-      "arx",
-      "arx"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "a citadel, stronghold, fortress; in Rome, the Capitoline; hilltop, refuge, bulwark; used also poetically",
-    "exemplos": [],
-    "notas": "Normalizado conforme LS/Whitaker; genitivo arcis reflected in morphology | [dedupe] redirect → chunk_2618:2618:0 | [dedupe] redirect → chunk_2618:2618:0",
-    "raw_text": "{\"id\":\"chunk_4367:4367:0\",\"lemas\":[\"arx\"],\"lema_canonico\":\"arx\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"a citadel, stronghold, fortress; in Rome, the Capitoline; hilltop, refuge, bulwark; used also poetically\",\"aliases\":[],\"exemplos\":[\"Enn. ap. Cic. Tusc. 3, 19, 44\",\"Plaut. Bacch. 4, 8, 59\",\"Lucr. 5, 1107\"],\"notas\":\"Normalizado conforme LS/Whitaker; genitivo arcis reflected in morphology\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_4367:4367:0\",\"lemas\":[\"arx\"],\"lema_canonico\":\"arx\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"a citadel, stronghold, fortress; in Rome, the Capitoline; hilltop, refuge, bulwark; used also poetically\",\"aliases\":[],\"exemplos\":[\"Enn. ap. Cic. Tusc. 3, 19, 44\",\"Plaut. Bacch. 4, 8, 59\",\"Lucr. 5, 1107\"],\"notas\":\"Normalizado conforme LS/Whitaker; genitivo arcis reflected in morphology\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_4367-e2",
     "volume_id": "faria",
     "doc_name": "chunk_4367",
@@ -4202,50 +3740,6 @@
     "raw_json": "{\"id\":\"chunk_4370:4370:0\",\"lemas\":[\"Caryatides\"],\"lema_canonico\":\"Caryatides\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"(Plural coletivo) sacerdotisas de Cárias; também estátuas femininas usadas como colunas na arquitectura.\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 36, 38\",\"Vitr. 1, 1, 5\"],\"notas\":\"Normalizada a forma latina 'Caryatides' a partir do OCR; a declinação precisa (origem grega/plural) merece revisão mais detalhada.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_4371-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_4371",
-    "page_num": 4371,
-    "lemmas": [
-      "Carybdys",
-      "Carybdys"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:low",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada redireciona à forma padrão Charybdis (grego). Normalizada como redirecionamento.",
-    "raw_text": "{\"id\":\"chunk_4371:4371:0\",\"lemas\":[\"Carybdys\"],\"lema_canonico\":\"Carybdys\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Charybdis\"],\"exemplos\":[],\"notas\":\"Entrada redireciona à forma padrão Charybdis (grego). Normalizada como redirecionamento.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_4371:4371:0\",\"lemas\":[\"Carybdys\"],\"lema_canonico\":\"Carybdys\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Charybdis\"],\"exemplos\":[],\"notas\":\"Entrada redireciona à forma padrão Charybdis (grego). Normalizada como redirecionamento.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"redirect_only\"]}"
-  },
-  {
-    "id": "chunk_4372-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_4372",
-    "page_num": 4372,
-    "lemmas": [
-      "caryota",
-      "caryota"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Tâmara menor, em forma de noz (nut-shaped date); também atestada como dádiva em Saturnália.",
-    "exemplos": [],
-    "notas": "Mantidas variantes caryotis/caryota; sentido confirmado por Whitaker e Lat→Deu (Lewis & Short citado). | [dedupe] redirect → chunk_4315:4315:0 | [dedupe] redirect → chunk_4315:4315:0",
-    "raw_text": "{\"id\":\"chunk_4372:4372:0\",\"lemas\":[\"caryota\",\"caryotis\"],\"lema_canonico\":\"caryota\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Tâmara menor, em forma de noz (nut-shaped date); também atestada como dádiva em Saturnália.\",\"aliases\":[],\"exemplos\":[\"Mart. 11, 31, 10\"],\"notas\":\"Mantidas variantes caryotis/caryota; sentido confirmado por Whitaker e Lat→Deu (Lewis & Short citado).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_4372:4372:0\",\"lemas\":[\"caryota\",\"caryotis\"],\"lema_canonico\":\"caryota\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Tâmara menor, em forma de noz (nut-shaped date); também atestada como dádiva em Saturnália.\",\"aliases\":[],\"exemplos\":[\"Mart. 11, 31, 10\"],\"notas\":\"Mantidas variantes caryotis/caryota; sentido confirmado por Whitaker e Lat→Deu (Lewis & Short citado).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_4373-e1",
     "volume_id": "faria",
     "doc_name": "chunk_4373",
@@ -4310,28 +3804,6 @@
     "notas": "Grafia corrigida a partir do OCR; atestado em Tito Lívio; variante Carysto registrada.\n[ocr_pipeline 2025-08-16T23:10:15.600148Z] lemma_in='Carystus' → 'Cărystŏs' | motivo: match direto em LS por lemma/lemma_norm | [ocr_fix 2025-08-17T01:05:05Z] match direto em LS por lemma/lemma_norm | lemma_in='Cărystŏs' → 'Cărystŏs'",
     "raw_text": "{\"id\":\"chunk_4374:4374:0\",\"lemas\":[\"Carystus\"],\"lema_canonico\":\"Carystus\",\"morfologia\":\"s. fem. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Carystus, cidade (nome próprio): 1) na Eubéia; 2) na Ligúria.\",\"aliases\":[\"Carysto\"],\"exemplos\":[\"T. Liv. 32, 16\",\"T. Liv. 42, 7, 3\"],\"notas\":\"Grafia corrigida a partir do OCR; atestado em Tito Lívio; variante Carysto registrada.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_4374:4374:0\",\"lemas\":[\"Carystus\"],\"lema_canonico\":\"Carystus\",\"morfologia\":\"s. fem. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Carystus, cidade (nome próprio): 1) na Eubéia; 2) na Ligúria.\",\"aliases\":[\"Carysto\"],\"exemplos\":[\"T. Liv. 32, 16\",\"T. Liv. 42, 7, 3\"],\"notas\":\"Grafia corrigida a partir do OCR; atestado em Tito Lívio; variante Carysto registrada.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_4375-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_4375",
-    "page_num": 4375,
-    "lemmas": [
-      "casa",
-      "casa"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Pequena casa, cabana; também 'habitação humilde', e em latim tardio, 'fazenda' ou pequeno latifúndio.",
-    "exemplos": [],
-    "notas": "Conferido com Lewis & Short e Whitaker; padronizada a declinação e sentidos. | [dedupe] redirect → chunk_15196:15196:0 | [dedupe] redirect → chunk_15196:15196:0",
-    "raw_text": "{\"id\":\"chunk_4375:4375:0\",\"lemas\":[\"casa\"],\"lema_canonico\":\"casa\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Pequena casa, cabana; também 'habitação humilde', e em latim tardio, 'fazenda' ou pequeno latifúndio.\",\"aliases\":[],\"exemplos\":[\"Verg. Buc. 2, 29\",\"Cæs. B. G. 3, 41\"],\"notas\":\"Conferido com Lewis & Short e Whitaker; padronizada a declinação e sentidos.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_4375:4375:0\",\"lemas\":[\"casa\"],\"lema_canonico\":\"casa\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Pequena casa, cabana; também 'habitação humilde', e em latim tardio, 'fazenda' ou pequeno latifúndio.\",\"aliases\":[],\"exemplos\":[\"Verg. Buc. 2, 29\",\"Cæs. B. G. 3, 41\"],\"notas\":\"Conferido com Lewis & Short e Whitaker; padronizada a declinação e sentidos.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_4376-e1",
@@ -4752,28 +4224,6 @@
     "raw_json": "{\"id\":\"chunk_4391:4391:1\",\"lemas\":[\"cassare\"],\"lema_canonico\":\"cassare\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"tr.\",\"intr.\"],\"definicao\":\"(1) transitivo: anular, declarar nulo; (2) intransitivo (raro/post-cláss.): oscilar, tremer, vacilar.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Verbos atestados em LS e Lat→Deu; admite uso jurídico (anular) e uso intransitivo/vário em poesia/tardia.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_4391-e4",
-    "volume_id": "faria",
-    "doc_name": "chunk_4391",
-    "page_num": 4391,
-    "lemmas": [
-      "cassis",
-      "cassis"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "capacete (metal); por extensão, o que pertence à guerra/serviço militar.",
-    "exemplos": [],
-    "notas": "Escolhida forma clássica 'cassis' (LS) em vez da variante medieval 'cassida'. | [dedupe] redirect → chunk_4395:4395:0 | [dedupe] redirect → chunk_4395:4395:0",
-    "raw_text": "{\"id\":\"chunk_4391:4391:2\",\"lemas\":[\"cassis\"],\"lema_canonico\":\"cassis\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"capacete (metal); por extensão, o que pertence à guerra/serviço militar.\",\"aliases\":[],\"exemplos\":[\"Verg. En. 11, 774\"],\"notas\":\"Escolhida forma clássica 'cassis' (LS) em vez da variante medieval 'cassida'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_4391:4391:2\",\"lemas\":[\"cassis\"],\"lema_canonico\":\"cassis\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"capacete (metal); por extensão, o que pertence à guerra/serviço militar.\",\"aliases\":[],\"exemplos\":[\"Verg. En. 11, 774\"],\"notas\":\"Escolhida forma clássica 'cassis' (LS) em vez da variante medieval 'cassida'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_4391-e5",
     "volume_id": "faria",
     "doc_name": "chunk_4391",
@@ -4928,72 +4378,6 @@
     "raw_json": "{\"id\":\"chunk_4396:4396:1\",\"lemas\":[\"cassus\",\"cassa\",\"cassum\"],\"lema_canonico\":\"cassus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"oco, vazio; destituído de, desprovido de; inútil, vão (loc. in cassum = em vão).\",\"aliases\":[],\"exemplos\":[\"Hor. S. 2, 5, 36\",\"Ov. F. 6, 406\"],\"notas\":\"Normalizada para o adjetivo clássico cassus, -a, -um; restabelecida a tripla forma.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_4396-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_4396",
-    "page_num": 4396,
-    "lemmas": [
-      "cassis",
-      "cassis"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "substantivo: rede/armadilha (para caça ou pesca); teia de aranha; figuradamente, ciladas.",
-    "exemplos": [],
-    "notas": "Entrada substantiva consolidada a partir do bloco e do LS; exemplos do OCR confirmados e filtrados. | [dedupe] redirect → chunk_4396:4396:0 | [dedupe] redirect → chunk_4396:4396:0",
-    "raw_text": "{\"id\":\"chunk_4396:4396:2\",\"lemas\":[\"cassis\"],\"lema_canonico\":\"cassis\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"substantivo: rede/armadilha (para caça ou pesca); teia de aranha; figuradamente, ciladas.\",\"aliases\":[],\"exemplos\":[\"Marc. 3, 58, 28\",\"Verg. G. 4, 24\",\"Tib. 1, 6, 5\",\"Ov. Am. 3, 5, 554\"],\"notas\":\"Entrada substantiva consolidada a partir do bloco e do LS; exemplos do OCR confirmados e filtrados.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_4396:4396:2\",\"lemas\":[\"cassis\"],\"lema_canonico\":\"cassis\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"substantivo: rede/armadilha (para caça ou pesca); teia de aranha; figuradamente, ciladas.\",\"aliases\":[],\"exemplos\":[\"Marc. 3, 58, 28\",\"Verg. G. 4, 24\",\"Tib. 1, 6, 5\",\"Ov. Am. 3, 5, 554\"],\"notas\":\"Entrada substantiva consolidada a partir do bloco e do LS; exemplos do OCR confirmados e filtrados.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_4396-e4",
-    "volume_id": "faria",
-    "doc_name": "chunk_4396",
-    "page_num": 4396,
-    "lemmas": [
-      "cassis",
-      "cassis"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "capacete (geralmente metálico); por metonímia, serviço de guerra, atividade bélica.",
-    "exemplos": [],
-    "notas": "LS registra forma feminina (cassis / cassĭda) distinta semântica de cassis 'rede'; Whitaker dá outras declinações — há conflito entre fontes.\n[ocr_pipeline 2025-08-16T23:23:55.042560Z] lemma_in='cassis' → 'cassis' | motivo: match direto em LS por lemma/lemma_norm | [ocr_fix 2025-08-17T01:23:21Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='cassis' → 'cassis' | [dedupe] redirect → chunk_4395:4395:0 | [dedupe] redirect → chunk_4395:4395:0",
-    "raw_text": "{\"id\":\"chunk_4396:4396:3\",\"lemas\":[\"cassis\"],\"lema_canonico\":\"cassis\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"capacete (geralmente metálico); por metonímia, serviço de guerra, atividade bélica.\",\"aliases\":[],\"exemplos\":[\"Plaut. Trin. 3,2,100\",\"Caes. B. G. 7,45\",\"Ov. Met. 12,89\",\"Juv. 10,134\"],\"notas\":\"LS registra forma feminina (cassis / cassĭda) distinta semântica de cassis 'rede'; Whitaker dá outras declinações — há conflito entre fontes.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:low\"]}",
-    "raw_json": "{\"id\":\"chunk_4396:4396:3\",\"lemas\":[\"cassis\"],\"lema_canonico\":\"cassis\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"capacete (geralmente metálico); por metonímia, serviço de guerra, atividade bélica.\",\"aliases\":[],\"exemplos\":[\"Plaut. Trin. 3,2,100\",\"Caes. B. G. 7,45\",\"Ov. Met. 12,89\",\"Juv. 10,134\"],\"notas\":\"LS registra forma feminina (cassis / cassĭda) distinta semântica de cassis 'rede'; Whitaker dá outras declinações — há conflito entre fontes.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:low\"]}"
-  },
-  {
-    "id": "chunk_4397-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_4397",
-    "page_num": 4397,
-    "lemmas": [
-      "Cassius",
-      "Cassius"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Nome da gens romana Cassius; notórios membros incluem C. Cassius Longinus, conspirador contra César.",
-    "exemplos": [],
-    "notas": "Forma e referências confirmadas por Lewis & Short e Whitaker. | [dedupe] redirect → chunk_4391:4391:3 | [dedupe] redirect → chunk_4391:4391:3",
-    "raw_text": "{\"id\":\"chunk_4397:4397:0\",\"lemas\":[\"Cassius\",\"Cassius\"],\"lema_canonico\":\"Cassius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Nome da gens romana Cassius; notórios membros incluem C. Cassius Longinus, conspirador contra César.\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 5, 21, 2\",\"Hor. Ep. 1, 4, 3\"],\"notas\":\"Forma e referências confirmadas por Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_4397:4397:0\",\"lemas\":[\"Cassius\",\"Cassius\"],\"lema_canonico\":\"Cassius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Nome da gens romana Cassius; notórios membros incluem C. Cassius Longinus, conspirador contra César.\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 5, 21, 2\",\"Hor. Ep. 1, 4, 3\"],\"notas\":\"Forma e referências confirmadas por Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_4398-e1",
     "volume_id": "faria",
     "doc_name": "chunk_4398",
@@ -5036,27 +4420,5 @@
     "notas": "Forma atestada tanto como verbo (Lewis & Short; Lat→Deu) quanto como adjetivo; aqui tomada primariamente como verbo, com menção do uso adjetival.",
     "raw_text": "{\"id\":\"chunk_4398:4398:1\",\"lemas\":[\"casso\"],\"lema_canonico\":\"casso\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"trans. (jur.): tornar nulo, anular; intr./freq./fig.: agitar, sacudir; também adj. 'casso' att. = vazio/vaíno (ver cassus).\",\"aliases\":[],\"exemplos\":[\"Sid. Ep. 1 fin.\",\"Plaut. Mil. 3, 2, 41\"],\"notas\":\"Forma atestada tanto como verbo (Lewis & Short; Lat→Deu) quanto como adjetivo; aqui tomada primariamente como verbo, com menção do uso adjetival.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_4398:4398:1\",\"lemas\":[\"casso\"],\"lema_canonico\":\"casso\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"trans. (jur.): tornar nulo, anular; intr./freq./fig.: agitar, sacudir; também adj. 'casso' att. = vazio/vaíno (ver cassus).\",\"aliases\":[],\"exemplos\":[\"Sid. Ep. 1 fin.\",\"Plaut. Mil. 3, 2, 41\"],\"notas\":\"Forma atestada tanto como verbo (Lewis & Short; Lat→Deu) quanto como adjetivo; aqui tomada primariamente como verbo, com menção do uso adjetival.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_4399-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_4399",
-    "page_num": 4399,
-    "lemmas": [
-      "casso",
-      "casso"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "1) tremer, vacilar, oscilar (ex.: Plauto); 2) (jur.) tornar nulo, anular, tornar sem efeito.",
-    "exemplos": [],
-    "notas": "Ambos os sentidos (intransitivo de Plauto e jurídico transitivo) atestados em LS; Whitaker também registra adjetivo/partes relacionadas. | [dedupe] redirect → chunk_4398:4398:1 | [dedupe] redirect → chunk_4398:4398:1",
-    "raw_text": "{\"id\":\"chunk_4399:4399:0\",\"lemas\":[\"casso\",\"cassare\"],\"lema_canonico\":\"casso\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"1) tremer, vacilar, oscilar (ex.: Plauto); 2) (jur.) tornar nulo, anular, tornar sem efeito.\",\"aliases\":[],\"exemplos\":[\"Plaut. Mil. 3, 2, 41\",\"Plaut. Mil. 3, 2, 956\",\"Cod. Th. 11, 1, 3\"],\"notas\":\"Ambos os sentidos (intransitivo de Plauto e jurídico transitivo) atestados em LS; Whitaker também registra adjetivo/partes relacionadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_4399:4399:0\",\"lemas\":[\"casso\",\"cassare\"],\"lema_canonico\":\"casso\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"1) tremer, vacilar, oscilar (ex.: Plauto); 2) (jur.) tornar nulo, anular, tornar sem efeito.\",\"aliases\":[],\"exemplos\":[\"Plaut. Mil. 3, 2, 41\",\"Plaut. Mil. 3, 2, 956\",\"Cod. Th. 11, 1, 3\"],\"notas\":\"Ambos os sentidos (intransitivo de Plauto e jurídico transitivo) atestados em LS; Whitaker também registra adjetivo/partes relacionadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   }
 ]

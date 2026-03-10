@@ -44,160 +44,6 @@
     "raw_json": "{\"id\":\"chunk_2:2:0\",\"lemas\":[\"ā\",\"ah\",\"a\"],\"lema_canonico\":\"ā\",\"morfologia\":\"interj.\",\"morph_extra\":[],\"definicao\":\"interjeição que exprime dor, espanto, compaixão, apelo ou surpresa (forma longa ā ≈ ah).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Distingue-se da preposição/abreviatura 'a' e da letra 'A'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_3-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_3",
-    "page_num": 3,
-    "lemmas": [
-      "auceps",
-      "auceps"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "auceps, aucupis — caçador de aves; vendedor de aves (poulterer); por extensão: espião, bisbilhoteiro.",
-    "exemplos": [],
-    "notas": "Unificado com Lewis & Short e Whitaker; preservada dupla forma auc(e)ps / aucupis. | [dedupe] redirect → chunk_2973:2973:1 | [dedupe] redirect → chunk_2973:2973:1",
-    "raw_text": "{\"id\":\"chunk_3:3:6\",\"lemas\":[\"auceps\",\"aucupis\"],\"lema_canonico\":\"auceps\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"auceps, aucupis — caçador de aves; vendedor de aves (poulterer); por extensão: espião, bisbilhoteiro.\",\"aliases\":[],\"exemplos\":[\"Plaut. Trin. 2, 4, 7\",\"Hor. A. P. 458\",\"Ov. A. A. 3, 669\"],\"notas\":\"Unificado com Lewis & Short e Whitaker; preservada dupla forma auc(e)ps / aucupis.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_3:3:6\",\"lemas\":[\"auceps\",\"aucupis\"],\"lema_canonico\":\"auceps\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"auceps, aucupis — caçador de aves; vendedor de aves (poulterer); por extensão: espião, bisbilhoteiro.\",\"aliases\":[],\"exemplos\":[\"Plaut. Trin. 2, 4, 7\",\"Hor. A. P. 458\",\"Ov. A. A. 3, 669\"],\"notas\":\"Unificado com Lewis & Short e Whitaker; preservada dupla forma auc(e)ps / aucupis.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_3-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_3",
-    "page_num": 3,
-    "lemmas": [
-      "a",
-      "a"
-    ],
-    "morfologia": "prep. com abl.",
-    "morph_render": "prep. com abl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Preposição com ablativo: de/desde, a partir de; afastamento, procedência; agente em passiva; sentido temporal 'desde/apos'; também forma composicional ab-/abs-.",
-    "exemplos": [],
-    "notas": "Formas variantes (ab, abs) indicadas; definição condensada a partir de LS e Whitaker. | [dedupe] redirect → chunk_1211:1211:0 | [dedupe] redirect → chunk_1211:1211:0",
-    "raw_text": "{\"id\":\"chunk_3:3:0\",\"lemas\":[\"a\",\"ab\",\"abs\"],\"lema_canonico\":\"a\",\"morfologia\":\"prep. com abl.\",\"morph_extra\":[],\"definicao\":\"Preposição com ablativo: de/desde, a partir de; afastamento, procedência; agente em passiva; sentido temporal 'desde/apos'; também forma composicional ab-/abs-.\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 1, 154\",\"Cés. B. Gall. 8, 30, 7\",\"Cés. B. Gall. 6, 37, 1\",\"Cés. B. Gall. 1, 37, 1\",\"Cic. Tusc. 1, 21\",\"Cic. Clu. 93\",\"Cic. Att. 8, 14, 1\",\"Cés. B. Gall. 1, 19, 1\",\"Cic. Att. 1, 5, 4\"],\"notas\":\"Formas variantes (ab, abs) indicadas; definição condensada a partir de LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_3:3:0\",\"lemas\":[\"a\",\"ab\",\"abs\"],\"lema_canonico\":\"a\",\"morfologia\":\"prep. com abl.\",\"morph_extra\":[],\"definicao\":\"Preposição com ablativo: de/desde, a partir de; afastamento, procedência; agente em passiva; sentido temporal 'desde/apos'; também forma composicional ab-/abs-.\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 1, 154\",\"Cés. B. Gall. 8, 30, 7\",\"Cés. B. Gall. 6, 37, 1\",\"Cés. B. Gall. 1, 37, 1\",\"Cic. Tusc. 1, 21\",\"Cic. Clu. 93\",\"Cic. Att. 8, 14, 1\",\"Cés. B. Gall. 1, 19, 1\",\"Cic. Att. 1, 5, 4\"],\"notas\":\"Formas variantes (ab, abs) indicadas; definição condensada a partir de LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_3-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_3",
-    "page_num": 3,
-    "lemmas": [
-      "A",
-      "A"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "A, a — a primeira letra do alfabeto latino (littera); grafema 'A'.",
-    "exemplos": [],
-    "notas": "Unificada entrada de letra com suporte de Lewis & Short e Whitaker. | [dedupe] redirect → chunk_1:1:0 | [dedupe] redirect → chunk_1:1:0",
-    "raw_text": "{\"id\":\"chunk_3:3:1\",\"lemas\":[\"A\",\"a\"],\"lema_canonico\":\"A\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"A, a — a primeira letra do alfabeto latino (littera); grafema 'A'.\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 1, 13, 23\"],\"notas\":\"Unificada entrada de letra com suporte de Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_3:3:1\",\"lemas\":[\"A\",\"a\"],\"lema_canonico\":\"A\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"A, a — a primeira letra do alfabeto latino (littera); grafema 'A'.\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 1, 13, 23\"],\"notas\":\"Unificada entrada de letra com suporte de Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_3-e4",
-    "volume_id": "faria",
-    "doc_name": "chunk_3",
-    "page_num": 3,
-    "lemmas": [
-      "ā",
-      "ā"
-    ],
-    "morfologia": "interj.",
-    "morph_render": "interj.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "ā — interjeição 'Ah!' expressando dor, pesar, surpresa, apelo, etc.",
-    "exemplos": [],
-    "notas": "Confirmado como interjeição distinta da letra 'A' (LS). | [dedupe] redirect → chunk_2:2:0 | [dedupe] redirect → chunk_2:2:0",
-    "raw_text": "{\"id\":\"chunk_3:3:2\",\"lemas\":[\"ā\"],\"lema_canonico\":\"ā\",\"morfologia\":\"interj.\",\"morph_extra\":[],\"definicao\":\"ā — interjeição 'Ah!' expressando dor, pesar, surpresa, apelo, etc.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Confirmado como interjeição distinta da letra 'A' (LS).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_3:3:2\",\"lemas\":[\"ā\"],\"lema_canonico\":\"ā\",\"morfologia\":\"interj.\",\"morph_extra\":[],\"definicao\":\"ā — interjeição 'Ah!' expressando dor, pesar, surpresa, apelo, etc.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Confirmado como interjeição distinta da letra 'A' (LS).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_3-e5",
-    "volume_id": "faria",
-    "doc_name": "chunk_3",
-    "page_num": 3,
-    "lemmas": [
-      "amentum",
-      "amentum"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "amentum — correia, tira ou alça (especialmente a corda presa à hasta para lançar com maior força); também correia de calçado (raro).",
-    "exemplos": [],
-    "notas": "Lema e sentido conforme Lewis & Short e Whitaker; inclui forma alternativa āmentum. | [dedupe] redirect → chunk_1579:1579:1 | [dedupe] redirect → chunk_1579:1579:1",
-    "raw_text": "{\"id\":\"chunk_3:3:3\",\"lemas\":[\"amentum\",\"āmentum\"],\"lema_canonico\":\"amentum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"amentum — correia, tira ou alça (especialmente a corda presa à hasta para lançar com maior força); também correia de calçado (raro).\",\"aliases\":[],\"exemplos\":[\"Cic. Brut. 78, 271\",\"Ov. Met. 12, 321\",\"Verg. A. 9, 665\"],\"notas\":\"Lema e sentido conforme Lewis & Short e Whitaker; inclui forma alternativa āmentum.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_3:3:3\",\"lemas\":[\"amentum\",\"āmentum\"],\"lema_canonico\":\"amentum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"amentum — correia, tira ou alça (especialmente a corda presa à hasta para lançar com maior força); também correia de calçado (raro).\",\"aliases\":[],\"exemplos\":[\"Cic. Brut. 78, 271\",\"Ov. Met. 12, 321\",\"Verg. A. 9, 665\"],\"notas\":\"Lema e sentido conforme Lewis & Short e Whitaker; inclui forma alternativa āmentum.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_3-e6",
-    "volume_id": "faria",
-    "doc_name": "chunk_3",
-    "page_num": 3,
-    "lemmas": [
-      "ante",
-      "ante"
-    ],
-    "morfologia": "prep. com acc.",
-    "morph_render": "prep. com acc.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "ante — prep. com acusativo: antes de, em frente a (espaço/tempo/grau); adv.: antes, anteriormente; conj./locução (antequam): antes que.",
-    "exemplos": [],
-    "notas": "Entrada reconciliada com LS (antĕ) e Whitaker; múltiplas categorias indicadas em morph_extra. | [dedupe] redirect → chunk_1938:1938:0 | [dedupe] redirect → chunk_1938:1938:0",
-    "raw_text": "{\"id\":\"chunk_3:3:4\",\"lemas\":[\"ante\",\"antĕ\"],\"lema_canonico\":\"ante\",\"morfologia\":\"prep. com acc.\",\"morph_extra\":[\"adv.\",\"conj.\"],\"definicao\":\"ante — prep. com acusativo: antes de, em frente a (espaço/tempo/grau); adv.: antes, anteriormente; conj./locução (antequam): antes que.\",\"aliases\":[],\"exemplos\":[\"Plaut. Am. 1, 1, 136\",\"Ter. And. 3, 1, 16\"],\"notas\":\"Entrada reconciliada com LS (antĕ) e Whitaker; múltiplas categorias indicadas em morph_extra.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_3:3:4\",\"lemas\":[\"ante\",\"antĕ\"],\"lema_canonico\":\"ante\",\"morfologia\":\"prep. com acc.\",\"morph_extra\":[\"adv.\",\"conj.\"],\"definicao\":\"ante — prep. com acusativo: antes de, em frente a (espaço/tempo/grau); adv.: antes, anteriormente; conj./locução (antequam): antes que.\",\"aliases\":[],\"exemplos\":[\"Plaut. Am. 1, 1, 136\",\"Ter. And. 3, 1, 16\"],\"notas\":\"Entrada reconciliada com LS (antĕ) e Whitaker; múltiplas categorias indicadas em morph_extra.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_3-e7",
-    "volume_id": "faria",
-    "doc_name": "chunk_3",
-    "page_num": 3,
-    "lemmas": [
-      "antes",
-      "antes"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "antes (antis) — fileiras, filas; por exemplo, fileiras de videiras ou plantas; também fileiras de soldados (ranks, files).",
-    "exemplos": [],
-    "notas": "Forma plural/collectiva confirmada por LS e Whitaker (antis/antes). | [dedupe] redirect → chunk_1889:1889:0 | [dedupe] redirect → chunk_1889:1889:0",
-    "raw_text": "{\"id\":\"chunk_3:3:5\",\"lemas\":[\"antes\",\"antis\"],\"lema_canonico\":\"antes\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"antes (antis) — fileiras, filas; por exemplo, fileiras de videiras ou plantas; também fileiras de soldados (ranks, files).\",\"aliases\":[],\"exemplos\":[\"Verg. G. 2, 417\",\"Col. 10, 376\"],\"notas\":\"Forma plural/collectiva confirmada por LS e Whitaker (antis/antes).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_3:3:5\",\"lemas\":[\"antes\",\"antis\"],\"lema_canonico\":\"antes\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"antes (antis) — fileiras, filas; por exemplo, fileiras de videiras ou plantas; também fileiras de soldados (ranks, files).\",\"aliases\":[],\"exemplos\":[\"Verg. G. 2, 417\",\"Col. 10, 376\"],\"notas\":\"Forma plural/collectiva confirmada por LS e Whitaker (antis/antes).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_4-e1",
     "volume_id": "faria",
     "doc_name": "chunk_4",
@@ -418,28 +264,6 @@
     "raw_json": "{\"id\":\"chunk_13:13:0\",\"lemas\":[\"abavus\"],\"lema_canonico\":\"abavus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"trisavô; antepassado (geralmente em plural)\",\"aliases\":[],\"exemplos\":[\"Cic. Br. 213, 2\",\"Cic. Har. 38\"],\"notas\":\"Forma confirmada por Lat→Deu e Whitaker; normalizada de abāvus.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_14-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_14",
-    "page_num": 14,
-    "lemmas": [
-      "Abazea",
-      "Abazea"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 1,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada remissiva a Sabazia; fonte primária é a 1ª passada/OCR; requer verificação externa. | [ocr_fix 2025-08-17T18:22:42Z] match direto em Gaffiot por lemma/lemma_norm | lemma_in='Abazea' → 'Abazea' | [ocr_fix 2025-08-17T19:43:41Z] match direto em Gaffiot por lemma/lemma_norm | lemma_in='Abazea' → 'Abazea'",
-    "raw_text": "{\"id\":\"chunk_14:14:0\",\"lemas\":[\"Abazea\"],\"lema_canonico\":\"Abazea\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Sabazia\"],\"exemplos\":[],\"notas\":\"Entrada remissiva a Sabazia; fonte primária é a 1ª passada/OCR; requer verificação externa.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"redirect_only\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_14:14:0\",\"lemas\":[\"Abazea\"],\"lema_canonico\":\"Abazea\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Sabazia\"],\"exemplos\":[],\"notas\":\"Entrada remissiva a Sabazia; fonte primária é a 1ª passada/OCR; requer verificação externa.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"redirect_only\",\"needs_review\"]}"
-  },
-  {
     "id": "chunk_15-e1",
     "volume_id": "faria",
     "doc_name": "chunk_15",
@@ -482,28 +306,6 @@
     "notas": "Lema e acepções confirmadas por Lewis & Short; macron opcional na forma. | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='Abdera' → 'Abdēra'",
     "raw_text": "{\"id\":\"chunk_16:16:0\",\"lemas\":[\"Abdera\",\"Abdēra\"],\"lema_canonico\":\"Abdera\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Abdera, cidade da Trácia; por extensão metonímica, tolice ou estupidez\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 4, 17, 3\"],\"notas\":\"Lema e acepções confirmadas por Lewis & Short; macron opcional na forma.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_16:16:0\",\"lemas\":[\"Abdera\",\"Abdēra\"],\"lema_canonico\":\"Abdera\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Abdera, cidade da Trácia; por extensão metonímica, tolice ou estupidez\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 4, 17, 3\"],\"notas\":\"Lema e acepções confirmadas por Lewis & Short; macron opcional na forma.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_17-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_17",
-    "page_num": 17,
-    "lemmas": [
-      "Abdēra",
-      "Abdēra"
-    ],
-    "morfologia": "s. 3ª (-is)",
-    "morph_render": "s. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "forma plural do topónimo Abdera (mesmo referente do precedente)",
-    "exemplos": [],
-    "notas": "Reconhecida por Lewis & Short como forma plurale tantum; morfologia exata (neut. pl.) carece de encaixe perfeito no vocabulário permitido — marcar revisão. | [dedupe] redirect → chunk_16:16:0 | [dedupe] redirect → chunk_16:16:0 | [ocr_fix 2025-08-17T19:43:43Z] match direto em LS por lemma/lemma_norm | lemma_in='Abdera' → 'Abdēra'",
-    "raw_text": "{\"id\":\"chunk_17:17:0\",\"lemas\":[\"Abdera\",\"Abdēra\"],\"lema_canonico\":\"Abdera\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"forma plural do topónimo Abdera (mesmo referente do precedente)\",\"aliases\":[],\"exemplos\":[\"T. Liv. 45, 29, 6\"],\"notas\":\"Reconhecida por Lewis & Short como forma plurale tantum; morfologia exata (neut. pl.) carece de encaixe perfeito no vocabulário permitido — marcar revisão.\",\"flags\":[\"src_ls\",\"conf:med\",\"morph_out_of_vocab\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_17:17:0\",\"lemas\":[\"Abdera\",\"Abdēra\"],\"lema_canonico\":\"Abdera\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"forma plural do topónimo Abdera (mesmo referente do precedente)\",\"aliases\":[],\"exemplos\":[\"T. Liv. 45, 29, 6\"],\"notas\":\"Reconhecida por Lewis & Short como forma plurale tantum; morfologia exata (neut. pl.) carece de encaixe perfeito no vocabulário permitido — marcar revisão.\",\"flags\":[\"src_ls\",\"conf:med\",\"morph_out_of_vocab\",\"needs_review\"]}"
   },
   {
     "id": "chunk_18-e1",
@@ -704,50 +506,6 @@
     "raw_json": "{\"id\":\"chunk_23:23:4\",\"lemas\":[\"abdico\",\"abdicare\"],\"lema_canonico\":\"abdico\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"negar, recusar-se a reconhecer; renunciar, abdicar (trans. e refl. intrans. no sentido de demitir‑se)\",\"aliases\":[],\"exemplos\":[\"T. Liv. 40, 11, 2\",\"Cic. Cat. 3, 15\",\"Cic. Nat. Deor. 2, 1\"],\"notas\":\"Paradigma da 1ª conjugação (abdico, abdicare, abdicavi, abdicatus) confirmado por Lat→Deu e outras fontes; exemplos clássicos preservados.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_23-e5",
-    "volume_id": "faria",
-    "doc_name": "chunk_23",
-    "page_num": 23,
-    "lemmas": [
-      "ab-dĭco",
-      "ab-dĭco"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "(raro) recusar, privar; uso raro ou arcaico distinto do verbo de 1ª conj.",
-    "exemplos": [],
-    "notas": "Entrada distinta atestada no Lewis & Short como rara; mantida separada por segurança. | [dedupe] redirect → chunk_24:24:0 | [dedupe] redirect → chunk_24:24:0 | [ocr_fix 2025-08-17T19:55:30Z] match direto em LS por lemma/lemma_norm | lemma_in='abdico' → 'ab-dĭco'",
-    "raw_text": "{\"id\":\"chunk_23:23:5\",\"lemas\":[\"abdico\",\"abdicere\"],\"lema_canonico\":\"abdico\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"(raro) recusar, privar; uso raro ou arcaico distinto do verbo de 1ª conj.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada distinta atestada no Lewis & Short como rara; mantida separada por segurança.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_23:23:5\",\"lemas\":[\"abdico\",\"abdicere\"],\"lema_canonico\":\"abdico\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"(raro) recusar, privar; uso raro ou arcaico distinto do verbo de 1ª conj.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada distinta atestada no Lewis & Short como rara; mantida separada por segurança.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_23-e6",
-    "volume_id": "faria",
-    "doc_name": "chunk_23",
-    "page_num": 23,
-    "lemmas": [
-      "abdicatio",
-      "abdicatio"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "renúncia; demissão/abdicação (de cargo); renúncia ou desonra (disinheritance) em contextos jurídicos e políticos.",
-    "exemplos": [],
-    "notas": "Normalizada a declinação (-ōnis) e consolidadas acepções jurídicas e políticas segundo LS/Whitaker. | [dedupe] redirect → chunk_21:21:0 | [dedupe] redirect → chunk_21:21:0",
-    "raw_text": "{\"id\":\"chunk_23:23:0\",\"lemas\":[\"abdicatio\"],\"lema_canonico\":\"abdicatio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"renúncia; demissão/abdicação (de cargo); renúncia ou desonra (disinheritance) em contextos jurídicos e políticos.\",\"aliases\":[],\"exemplos\":[\"Liv. 6, 16 fin.\",\"Quint. 7, 4, 27\",\"Plin. 7, 45, 46, §150\",\"Cod. Just. 6, 31, 6\"],\"notas\":\"Normalizada a declinação (-ōnis) e consolidadas acepções jurídicas e políticas segundo LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_23:23:0\",\"lemas\":[\"abdicatio\"],\"lema_canonico\":\"abdicatio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"renúncia; demissão/abdicação (de cargo); renúncia ou desonra (disinheritance) em contextos jurídicos e políticos.\",\"aliases\":[],\"exemplos\":[\"Liv. 6, 16 fin.\",\"Quint. 7, 4, 27\",\"Plin. 7, 45, 46, §150\",\"Cod. Just. 6, 31, 6\"],\"notas\":\"Normalizada a declinação (-ōnis) e consolidadas acepções jurídicas e políticas segundo LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_24-e1",
     "volume_id": "faria",
     "doc_name": "chunk_24",
@@ -946,50 +704,6 @@
     "raw_json": "{\"id\":\"chunk_32:32:0\",\"lemas\":[\"abductus\",\"abducta\",\"abductum\"],\"lema_canonico\":\"abductus\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de abduco (abducō, abducere, abduxī, abductum): levado para longe; entornado, seduzido ou retirado.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Confirmado por Lewis & Short e Whitaker; variantes de gênero incluídas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_32-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_32",
-    "page_num": 32,
-    "lemmas": [
-      "abdomen",
-      "abdomen"
-    ],
-    "morfologia": "s. neut. 3ª (-is)",
-    "morph_render": "s. neut. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "o ventre inferior, a pança; meton. gula ou sensualidade.",
-    "exemplos": [],
-    "notas": "Forma e sentido confirmados por Lewis & Short e Whitaker. | [dedupe] redirect → chunk_30:30:0 | [dedupe] redirect → chunk_30:30:0",
-    "raw_text": "{\"id\":\"chunk_32:32:1\",\"lemas\":[\"abdomen\"],\"lema_canonico\":\"abdomen\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"o ventre inferior, a pança; meton. gula ou sensualidade.\",\"aliases\":[],\"exemplos\":[\"Juv. 4, 107\"],\"notas\":\"Forma e sentido confirmados por Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_32:32:1\",\"lemas\":[\"abdomen\"],\"lema_canonico\":\"abdomen\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"o ventre inferior, a pança; meton. gula ou sensualidade.\",\"aliases\":[],\"exemplos\":[\"Juv. 4, 107\"],\"notas\":\"Forma e sentido confirmados por Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_33-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_33",
-    "page_num": 33,
-    "lemmas": [
-      "abigō",
-      "abigō"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "perfectum indicativi activi 1ª sg. (abēgī), forma perfeita do verbo abigō, abigere: drive/expel/put to flight.",
-    "exemplos": [],
-    "notas": "Confirmado como perfeito de abigō; normalizei grafia para abēgī/abegi. | [dedupe] redirect → chunk_56:56:0 | [dedupe] redirect → chunk_56:56:0",
-    "raw_text": "{\"id\":\"chunk_33:33:0\",\"lemas\":[\"abigō\",\"abigere\"],\"lema_canonico\":\"abigō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"perfectum indicativi activi 1ª sg. (abēgī), forma perfeita do verbo abigō, abigere: drive/expel/put to flight.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Confirmado como perfeito de abigō; normalizei grafia para abēgī/abegi.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_33:33:0\",\"lemas\":[\"abigō\",\"abigere\"],\"lema_canonico\":\"abigō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"perfectum indicativi activi 1ª sg. (abēgī), forma perfeita do verbo abigō, abigere: drive/expel/put to flight.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Confirmado como perfeito de abigō; normalizei grafia para abēgī/abegi.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_34-e1",
     "volume_id": "faria",
     "doc_name": "chunk_34",
@@ -1032,50 +746,6 @@
     "notas": "Inclui referência a Abellīnātes (habitantes) conforme Lewis & Short.",
     "raw_text": "{\"id\":\"chunk_35:35:0\",\"lemas\":[\"Abellīnum\",\"Abellīnātes\"],\"lema_canonico\":\"Abellīnum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Abellīnum, cidade dos Hirpini na Campânia (Itália).\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 3, 63\"],\"notas\":\"Inclui referência a Abellīnātes (habitantes) conforme Lewis & Short.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_35:35:0\",\"lemas\":[\"Abellīnum\",\"Abellīnātes\"],\"lema_canonico\":\"Abellīnum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Abellīnum, cidade dos Hirpini na Campânia (Itália).\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 3, 63\"],\"notas\":\"Inclui referência a Abellīnātes (habitantes) conforme Lewis & Short.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_36-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_36",
-    "page_num": 36,
-    "lemmas": [
-      "hăbēna",
-      "habēna"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "uma correia/folga: rein, thong, strap; também: whip, reins; direção, governo.",
-    "exemplos": [],
-    "notas": "Corrigida perda do h inicial no OCR ('abēna' → 'habēna'). | [dedupe] redirect → chunk_12217:12217:0 | [dedupe] redirect → chunk_12217:12217:0 | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='habēna' → 'hăbēna'",
-    "raw_text": "{\"id\":\"chunk_36:36:0\",\"lemas\":[\"habēna\",\"habena\"],\"lema_canonico\":\"habēna\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"uma correia/folga: rein, thong, strap; também: whip, reins; direção, governo.\",\"aliases\":[],\"exemplos\":[\"Verg. A. 7, 380\"],\"notas\":\"Corrigida perda do h inicial no OCR ('abēna' → 'habēna').\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_36:36:0\",\"lemas\":[\"habēna\",\"habena\"],\"lema_canonico\":\"habēna\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"uma correia/folga: rein, thong, strap; também: whip, reins; direção, governo.\",\"aliases\":[],\"exemplos\":[\"Verg. A. 7, 380\"],\"notas\":\"Corrigida perda do h inicial no OCR ('abēna' → 'habēna').\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_36-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_36",
-    "page_num": 36,
-    "lemmas": [
-      "Aventinus",
-      "Aventinus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada funciona como redirecionamento variante para Aventinus (Aventino). | [dedupe] redirect → chunk_3135:3135:0 | [dedupe] redirect → chunk_3135:3135:0",
-    "raw_text": "{\"id\":\"chunk_36:36:1\",\"lemas\":[\"Abentinus\",\"Aventinus\"],\"lema_canonico\":\"Aventinus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Aventinus\"],\"exemplos\":[],\"notas\":\"Entrada funciona como redirecionamento variante para Aventinus (Aventino).\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_36:36:1\",\"lemas\":[\"Abentinus\",\"Aventinus\"],\"lema_canonico\":\"Aventinus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Aventinus\"],\"exemplos\":[],\"notas\":\"Entrada funciona como redirecionamento variante para Aventinus (Aventino).\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\",\"redirect_only\"]}"
   },
   {
     "id": "chunk_37-e1",
@@ -1455,28 +1125,6 @@
     "raw_json": "{\"id\":\"chunk_51:51:1\",\"lemas\":[\"abī\"],\"lema_canonico\":\"abī\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[\"imp.\"],\"definicao\":\"imperativo singular de abeō / abīre: «vai embora, parte».\",\"aliases\":[\"abeō\"],\"exemplos\":[],\"notas\":\"Forma de lema não infinitiva; marquei como imperativo de abeō/abīre. Morfologia aproximada dada a lista de formatos permitidos.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\",\"morph_out_of_vocab\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_52-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_52",
-    "page_num": 52,
-    "lemmas": [
-      "ăb-ĕo",
-      "ăb-ĕo"
-    ],
-    "morfologia": "v. 4ª (-īre)",
-    "morph_render": "v. 4ª (-īre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "perfeito indicativo ativo 1ª pessoa singular do verbo abeo ‘ir, afastar‑se, partir’ (forma: abīī/abii/abivī att.)",
-    "exemplos": [],
-    "notas": "Entrada corresponde ao perfeito de abeo; variante abivī/abivi atestada; normalizada para lema 'abeo'. | [dedupe] redirect → chunk_37:37:0 | [dedupe] redirect → chunk_37:37:0 | [ocr_fix 2025-08-17T19:43:47Z] match direto em LS por lemma/lemma_norm | lemma_in='abeo' → 'ăb-ĕo'",
-    "raw_text": "{\"id\":\"chunk_52:52:0\",\"lemas\":[\"abeo\",\"abire\"],\"lema_canonico\":\"abeo\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"perfeito indicativo ativo 1ª pessoa singular do verbo abeo ‘ir, afastar‑se, partir’ (forma: abīī/abii/abivī att.)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada corresponde ao perfeito de abeo; variante abivī/abivi atestada; normalizada para lema 'abeo'.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_52:52:0\",\"lemas\":[\"abeo\",\"abire\"],\"lema_canonico\":\"abeo\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"perfeito indicativo ativo 1ª pessoa singular do verbo abeo ‘ir, afastar‑se, partir’ (forma: abīī/abii/abivī att.)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada corresponde ao perfeito de abeo; variante abivī/abivi atestada; normalizada para lema 'abeo'.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_53-e1",
     "volume_id": "faria",
     "doc_name": "chunk_53",
@@ -1631,28 +1279,6 @@
     "raw_json": "{\"id\":\"chunk_56:56:0\",\"lemas\":[\"abigō\",\"abigere\"],\"lema_canonico\":\"abigō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"v. tr. afastar violentamente, expulsar; também: roubar gado, dissipar; em sentido figurado, causar desaparecimento.\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 2, 247\",\"Cic. Verr. 1, 28, 1\",\"Verg. En. 8, 407\"],\"notas\":\"Unificada forma canónica 'abigō' (abigere, abēgī, abāctum) e normalizada morfologia para 3ª conjugação transitiva.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_57-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_57",
-    "page_num": 57,
-    "lemmas": [
-      "ăb-ĕo",
-      "ăb-ĕo"
-    ],
-    "morfologia": "v. 4ª (-īre)",
-    "morph_render": "v. 4ª (-īre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "perfeito indicativo ativo 1ª pessoa singular do verbo abeo ‘ir, partir, afastar‑se’ (formas variantes: abīvī ~ abīi/abii ~ abivi)",
-    "exemplos": [],
-    "notas": "Mantida a identificação do perfeito; registros Whitaker/Lat→Deu atestam alternância abīvī ~ abivi ~ abii. | [dedupe] redirect → chunk_37:37:0 | [dedupe] redirect → chunk_37:37:0 | [ocr_fix 2025-08-17T19:43:47Z] match direto em LS por lemma/lemma_norm | lemma_in='abeo' → 'ăb-ĕo'",
-    "raw_text": "{\"id\":\"chunk_57:57:0\",\"lemas\":[\"abeo\",\"abire\"],\"lema_canonico\":\"abeo\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"perfeito indicativo ativo 1ª pessoa singular do verbo abeo ‘ir, partir, afastar‑se’ (formas variantes: abīvī ~ abīi/abii ~ abivi)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Mantida a identificação do perfeito; registros Whitaker/Lat→Deu atestam alternância abīvī ~ abivi ~ abii.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_57:57:0\",\"lemas\":[\"abeo\",\"abire\"],\"lema_canonico\":\"abeo\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"perfeito indicativo ativo 1ª pessoa singular do verbo abeo ‘ir, partir, afastar‑se’ (formas variantes: abīvī ~ abīi/abii ~ abivi)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Mantida a identificação do perfeito; registros Whitaker/Lat→Deu atestam alternância abīvī ~ abivi ~ abii.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_58-e1",
     "volume_id": "faria",
     "doc_name": "chunk_58",
@@ -1741,50 +1367,6 @@
     "raw_json": "{\"id\":\"chunk_59:59:1\",\"lemas\":[\"abitus\"],\"lema_canonico\":\"abitus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"1) partida, afastamento; 2) passagem, saída; também 'lugar/via de saída' (sentido concreto)\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 3, 125\",\"Verg. A. 9, 380\"],\"notas\":\"Entrada corresponde a LS abĭtus (-ūs); 4ª declinação confirmada. Não confundir com ambitus.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_60-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_60",
-    "page_num": 60,
-    "lemmas": [
-      "ăb-ĕo",
-      "ăb-ĕo"
-    ],
-    "morfologia": "v. 4ª (-īre)",
-    "morph_render": "v. 4ª (-īre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "perfeito indicativo ativo 1ª pessoa singular do verbo abeo ‘ir, partir, afastar‑se’ (formas: abīvī ~ abivi ~ abii)",
-    "exemplos": [],
-    "notas": "Normalizada a forma perfeita para o lema abeo; variantes com macron/sem macron registradas. | [dedupe] redirect → chunk_37:37:0 | [dedupe] redirect → chunk_37:37:0 | [ocr_fix 2025-08-17T19:43:47Z] match direto em LS por lemma/lemma_norm | lemma_in='abeo' → 'ăb-ĕo'",
-    "raw_text": "{\"id\":\"chunk_60:60:0\",\"lemas\":[\"abeo\",\"abire\"],\"lema_canonico\":\"abeo\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"perfeito indicativo ativo 1ª pessoa singular do verbo abeo ‘ir, partir, afastar‑se’ (formas: abīvī ~ abivi ~ abii)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizada a forma perfeita para o lema abeo; variantes com macron/sem macron registradas.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_60:60:0\",\"lemas\":[\"abeo\",\"abire\"],\"lema_canonico\":\"abeo\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"perfeito indicativo ativo 1ª pessoa singular do verbo abeo ‘ir, partir, afastar‑se’ (formas: abīvī ~ abivi ~ abii)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizada a forma perfeita para o lema abeo; variantes com macron/sem macron registradas.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_61-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_61",
-    "page_num": 61,
-    "lemmas": [
-      "abicio",
-      "abicio"
-    ],
-    "morfologia": "v. 3ª -iō (-ere)",
-    "morph_render": "v. 3ª -iō (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "lançar fora/abaixo; atirar; abandonar, desprezar; humilhar, rebaixar",
-    "exemplos": [],
-    "notas": "Paradigma e formas relacionadas (abjectus, abjectē) reconciliadas com Lewis & Short. | [dedupe] redirect → chunk_53:53:1 | [dedupe] redirect → chunk_53:53:1",
-    "raw_text": "{\"id\":\"chunk_61:61:0\",\"lemas\":[\"abicio\",\"abjectus\",\"abjecte\"],\"lema_canonico\":\"abicio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[],\"definicao\":\"lançar fora/abaixo; atirar; abandonar, desprezar; humilhar, rebaixar\",\"aliases\":[],\"exemplos\":[\"Ov. P. 2, 3, 37\",\"Juv. 15, 17\"],\"notas\":\"Paradigma e formas relacionadas (abjectus, abjectē) reconciliadas com Lewis & Short.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_61:61:0\",\"lemas\":[\"abicio\",\"abjectus\",\"abjecte\"],\"lema_canonico\":\"abicio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[],\"definicao\":\"lançar fora/abaixo; atirar; abandonar, desprezar; humilhar, rebaixar\",\"aliases\":[],\"exemplos\":[\"Ov. P. 2, 3, 37\",\"Juv. 15, 17\"],\"notas\":\"Paradigma e formas relacionadas (abjectus, abjectē) reconciliadas com Lewis & Short.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_62-e1",
     "volume_id": "faria",
     "doc_name": "chunk_62",
@@ -1849,28 +1431,6 @@
     "notas": "Incluídas variantes gráficas com j; marcado como adjetivo com uso como particípio.",
     "raw_text": "{\"id\":\"chunk_64:64:0\",\"lemas\":[\"abiectus\",\"abiecta\",\"abiectum\",\"abjectus\",\"abjecta\",\"abjectum\"],\"lema_canonico\":\"abiectus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de abicio; (como adjetivo) baixo, abjeto; abatido, desanimado; vil, desprezível\",\"aliases\":[],\"exemplos\":[\"Cic. Mil. 47\",\"Cic. Lae. 59\"],\"notas\":\"Incluídas variantes gráficas com j; marcado como adjetivo com uso como particípio.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_64:64:0\",\"lemas\":[\"abiectus\",\"abiecta\",\"abiectum\",\"abjectus\",\"abjecta\",\"abjectum\"],\"lema_canonico\":\"abiectus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de abicio; (como adjetivo) baixo, abjeto; abatido, desanimado; vil, desprezível\",\"aliases\":[],\"exemplos\":[\"Cic. Mil. 47\",\"Cic. Lae. 59\"],\"notas\":\"Incluídas variantes gráficas com j; marcado como adjetivo com uso como particípio.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_65-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_65",
-    "page_num": 65,
-    "lemmas": [
-      "abicio",
-      "abicio"
-    ],
-    "morfologia": "v. 3ª -iō (-ere)",
-    "morph_render": "v. 3ª -iō (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "lançar, atirar para longe; lançar para baixo, rejeitar, abandonar; reflex.: precipitar‑se, lançar‑se (também em sentido figurado: renunciar a, livrar‑se de).",
-    "exemplos": [],
-    "notas": "Grafia variante abjicio registrada; escolha de abicio como lema canônico conforme LS/Whitaker. | [dedupe] redirect → chunk_53:53:1 | [dedupe] redirect → chunk_53:53:1",
-    "raw_text": "{\"id\":\"chunk_65:65:0\",\"lemas\":[\"abicio\",\"abjicio\"],\"lema_canonico\":\"abicio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"lançar, atirar para longe; lançar para baixo, rejeitar, abandonar; reflex.: precipitar‑se, lançar‑se (também em sentido figurado: renunciar a, livrar‑se de).\",\"aliases\":[],\"exemplos\":[\"T. Liv. 2,46,3\",\"Cic. Off. 1,72\",\"Cic. De Or. 1,28\",\"Cic. Cat. 2,14\"],\"notas\":\"Grafia variante abjicio registrada; escolha de abicio como lema canônico conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_65:65:0\",\"lemas\":[\"abicio\",\"abjicio\"],\"lema_canonico\":\"abicio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"lançar, atirar para longe; lançar para baixo, rejeitar, abandonar; reflex.: precipitar‑se, lançar‑se (também em sentido figurado: renunciar a, livrar‑se de).\",\"aliases\":[],\"exemplos\":[\"T. Liv. 2,46,3\",\"Cic. Off. 1,72\",\"Cic. De Or. 1,28\",\"Cic. Cat. 2,14\"],\"notas\":\"Grafia variante abjicio registrada; escolha de abicio como lema canônico conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_66-e1",
@@ -2137,50 +1697,6 @@
     "raw_json": "{\"id\":\"chunk_75:75:0\",\"lemas\":[\"abluo\",\"abluere\"],\"lema_canonico\":\"abluo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"lavar, enxaguar; limpar, purificar; figuradamente: dissipar, extinguir.\",\"aliases\":[],\"exemplos\":[\"Arn. Nat. 7, 3\",\"Ter. Eun. 235\"],\"notas\":\"Unificadas formas do paradigma (abluo, abluere, ablui, ablūtum).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_76-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_76",
-    "page_num": 76,
-    "lemmas": [
-      "abluo",
-      "abluo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "lavar, enxaguar, purificar; também: apagar, remover (fig.).",
-    "exemplos": [],
-    "notas": "Normalizado forma infinitiva e acento macrônico; morfologia alinhada com LS/Whitaker. | [dedupe] redirect → chunk_75:75:0 | [dedupe] redirect → chunk_75:75:0",
-    "raw_text": "{\"id\":\"chunk_76:76:0\",\"lemas\":[\"abluo\",\"abluō\"],\"lema_canonico\":\"abluo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"lavar, enxaguar, purificar; também: apagar, remover (fig.).\",\"aliases\":[],\"exemplos\":[\"Suet. Vit. 7\"],\"notas\":\"Normalizado forma infinitiva e acento macrônico; morfologia alinhada com LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_76:76:0\",\"lemas\":[\"abluo\",\"abluō\"],\"lema_canonico\":\"abluo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"lavar, enxaguar, purificar; também: apagar, remover (fig.).\",\"aliases\":[],\"exemplos\":[\"Suet. Vit. 7\"],\"notas\":\"Normalizado forma infinitiva e acento macrônico; morfologia alinhada com LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_77-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_77",
-    "page_num": 77,
-    "lemmas": [
-      "abluo",
-      "abluo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "1) lavar, enxaguar, limpar, purificar; 2) fig.: apagar, dissipar, afastar.",
-    "exemplos": [],
-    "notas": "Concatenei acepções próprias e figuradas; mantida citação horaciana. Formas corroboradas por Whitaker/LS. | [dedupe] redirect → chunk_75:75:0 | [dedupe] redirect → chunk_75:75:0",
-    "raw_text": "{\"id\":\"chunk_77:77:0\",\"lemas\":[\"abluo\",\"abluō\"],\"lema_canonico\":\"abluo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"1) lavar, enxaguar, limpar, purificar; 2) fig.: apagar, dissipar, afastar.\",\"aliases\":[],\"exemplos\":[\"Hor. Sat. 2, 3, 320\"],\"notas\":\"Concatenei acepções próprias e figuradas; mantida citação horaciana. Formas corroboradas por Whitaker/LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_77:77:0\",\"lemas\":[\"abluo\",\"abluō\"],\"lema_canonico\":\"abluo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"1) lavar, enxaguar, limpar, purificar; 2) fig.: apagar, dissipar, afastar.\",\"aliases\":[],\"exemplos\":[\"Hor. Sat. 2, 3, 320\"],\"notas\":\"Concatenei acepções próprias e figuradas; mantida citação horaciana. Formas corroboradas por Whitaker/LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_78-e1",
     "volume_id": "faria",
     "doc_name": "chunk_78",
@@ -2201,50 +1717,6 @@
     "notas": "Entrada tratada como forma perfeita; morfologia principal mantida como da conjugação do infinitivo (v. 3ª) e marcado detalhe de forma perfeita.",
     "raw_text": "{\"id\":\"chunk_78:78:0\",\"lemas\":[\"ablui\",\"abluo\"],\"lema_canonico\":\"ablui\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"perf. ind. akt. (forma perfeita)\"],\"definicao\":\"perfeito de abluo (ablui) — 'lavei, enxaguei' (forma perfeita ativa do verbo).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada tratada como forma perfeita; morfologia principal mantida como da conjugação do infinitivo (v. 3ª) e marcado detalhe de forma perfeita.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"morph_out_of_vocab\"]}",
     "raw_json": "{\"id\":\"chunk_78:78:0\",\"lemas\":[\"ablui\",\"abluo\"],\"lema_canonico\":\"ablui\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"perf. ind. akt. (forma perfeita)\"],\"definicao\":\"perfeito de abluo (ablui) — 'lavei, enxaguei' (forma perfeita ativa do verbo).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada tratada como forma perfeita; morfologia principal mantida como da conjugação do infinitivo (v. 3ª) e marcado detalhe de forma perfeita.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"morph_out_of_vocab\"]}"
-  },
-  {
-    "id": "chunk_79-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_79",
-    "page_num": 79,
-    "lemmas": [
-      "abluo",
-      "abluo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "lavar, tirar lavando; limpar, especialmente para remover sangue ou suor.",
-    "exemplos": [],
-    "notas": "Entrada específica com exemplo vergiliano; paradigma compatível com Whitaker/Lat→Deu. | [dedupe] redirect → chunk_75:75:0 | [dedupe] redirect → chunk_75:75:0",
-    "raw_text": "{\"id\":\"chunk_79:79:0\",\"lemas\":[\"abluo\"],\"lema_canonico\":\"abluo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"lavar, tirar lavando; limpar, especialmente para remover sangue ou suor.\",\"aliases\":[],\"exemplos\":[\"Verg. En. 2, 719–720\"],\"notas\":\"Entrada específica com exemplo vergiliano; paradigma compatível com Whitaker/Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_79:79:0\",\"lemas\":[\"abluo\"],\"lema_canonico\":\"abluo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"lavar, tirar lavando; limpar, especialmente para remover sangue ou suor.\",\"aliases\":[],\"exemplos\":[\"Verg. En. 2, 719–720\"],\"notas\":\"Entrada específica com exemplo vergiliano; paradigma compatível com Whitaker/Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_79-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_79",
-    "page_num": 79,
-    "lemmas": [
-      "abluo",
-      "abluo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "lavar, limpar; lavar fora/embater; purgar, expurgar; (torrar) taufen (em uso tardio)",
-    "exemplos": [],
-    "notas": "Paradigma conforme Lat→Deu e Whitaker (abluere, ablui, ablūtum). | [dedupe] redirect → chunk_75:75:0 | [dedupe] redirect → chunk_75:75:0",
-    "raw_text": "{\"id\":\"chunk_79:79:1\",\"lemas\":[\"abluo\"],\"lema_canonico\":\"abluo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"lavar, limpar; lavar fora/embater; purgar, expurgar; (torrar) taufen (em uso tardio)\",\"aliases\":[],\"exemplos\":[\"Verg. A. 2, 719\"],\"notas\":\"Paradigma conforme Lat→Deu e Whitaker (abluere, ablui, ablūtum).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_79:79:1\",\"lemas\":[\"abluo\"],\"lema_canonico\":\"abluo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"lavar, limpar; lavar fora/embater; purgar, expurgar; (torrar) taufen (em uso tardio)\",\"aliases\":[],\"exemplos\":[\"Verg. A. 2, 719\"],\"notas\":\"Paradigma conforme Lat→Deu e Whitaker (abluere, ablui, ablūtum).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"conf:high\"]}"
   },
   {
     "id": "chunk_79-e3",
@@ -2289,28 +1761,6 @@
     "notas": "Normalizada grafia da obra (Hist. Nat.) e acentuação segundo LS; sentido e uso eclesiástico confirmados por Whitaker.",
     "raw_text": "{\"id\":\"chunk_80:80:0\",\"lemas\":[\"ablutio\",\"ablūtĭo\"],\"lema_canonico\":\"ablutio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"abluição; lavagem, limpeza; uso litúrgico: lavagem/derramamento (p.ex. mistura de água e vinho).\",\"aliases\":[],\"exemplos\":[\"Plin. Hist. Nat. 17, 74\"],\"notas\":\"Normalizada grafia da obra (Hist. Nat.) e acentuação segundo LS; sentido e uso eclesiástico confirmados por Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_80:80:0\",\"lemas\":[\"ablutio\",\"ablūtĭo\"],\"lema_canonico\":\"ablutio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"abluição; lavagem, limpeza; uso litúrgico: lavagem/derramamento (p.ex. mistura de água e vinho).\",\"aliases\":[],\"exemplos\":[\"Plin. Hist. Nat. 17, 74\"],\"notas\":\"Normalizada grafia da obra (Hist. Nat.) e acentuação segundo LS; sentido e uso eclesiástico confirmados por Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_81-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_81",
-    "page_num": 81,
-    "lemmas": [
-      "ablutus",
-      "ablutus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "particípio perfeito passivo de abluo; 'lavado, purificado'.",
-    "exemplos": [],
-    "notas": "Tratado como adjetivo (1/2) com marca de particípio perfeito passivo, conforme LS/Whitaker. | [dedupe] redirect → chunk_71:71:0 | [dedupe] redirect → chunk_71:71:0",
-    "raw_text": "{\"id\":\"chunk_81:81:0\",\"lemas\":[\"ablutus\",\"ablūtus\"],\"lema_canonico\":\"ablutus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de abluo; 'lavado, purificado'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Tratado como adjetivo (1/2) com marca de particípio perfeito passivo, conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_81:81:0\",\"lemas\":[\"ablutus\",\"ablūtus\"],\"lema_canonico\":\"ablutus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de abluo; 'lavado, purificado'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Tratado como adjetivo (1/2) com marca de particípio perfeito passivo, conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_82-e1",
@@ -2687,28 +2137,6 @@
     "raw_json": "{\"id\":\"chunk_97:97:0\",\"lemas\":[\"abolitus\"],\"lema_canonico\":\"abolitus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo de aboleō: 'abolido, removido, destruído'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Particípio indicado em Whitaker e Lat→Deu (aboleō ... abolitus).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_98-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_98",
-    "page_num": 98,
-    "lemmas": [
-      "abolla",
-      "abolla"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "manto espesso de lã (cloak) usado por soldados, camponeses e filósofos",
-    "exemplos": [],
-    "notas": "Forma confirmada por Lewis & Short e dicionário Lat→Deu; incluída grafia com breve (ăbolla). | [dedupe] redirect → chunk_154:154:0 | [dedupe] redirect → chunk_154:154:0",
-    "raw_text": "{\"id\":\"chunk_98:98:0\",\"lemas\":[\"abolla\",\"ăbolla\"],\"lema_canonico\":\"abolla\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"manto espesso de lã (cloak) usado por soldados, camponeses e filósofos\",\"aliases\":[],\"exemplos\":[\"Verg. A. 5, 421\",\"Varr. ap. Non. 538, 16\",\"Suet. Calig. 35\",\"Mart. 4, 53\",\"Mart. 8, 48\",\"Juv. 4, 76\",\"Juv. 3, 115\"],\"notas\":\"Forma confirmada por Lewis & Short e dicionário Lat→Deu; incluída grafia com breve (ăbolla).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_98:98:0\",\"lemas\":[\"abolla\",\"ăbolla\"],\"lema_canonico\":\"abolla\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"manto espesso de lã (cloak) usado por soldados, camponeses e filósofos\",\"aliases\":[],\"exemplos\":[\"Verg. A. 5, 421\",\"Varr. ap. Non. 538, 16\",\"Suet. Calig. 35\",\"Mart. 4, 53\",\"Mart. 8, 48\",\"Juv. 4, 76\",\"Juv. 3, 115\"],\"notas\":\"Forma confirmada por Lewis & Short e dicionário Lat→Deu; incluída grafia com breve (ăbolla).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_98-e2",
     "volume_id": "faria",
     "doc_name": "chunk_98",
@@ -2729,28 +2157,6 @@
     "notas": "Plural atestado 'amnenses'; entradas confirmadas por Whitaker e Lewis & Short.",
     "raw_text": "{\"id\":\"chunk_98:98:1\",\"lemas\":[\"amnensis\",\"amnenses\"],\"lema_canonico\":\"amnensis\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"cidade ou povoação junto a um rio; cidade ribeirinha (pl.)\",\"aliases\":[],\"exemplos\":[\"Paul. ex Fest. p. 17 Müll.\"],\"notas\":\"Plural atestado 'amnenses'; entradas confirmadas por Whitaker e Lewis & Short.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_98:98:1\",\"lemas\":[\"amnensis\",\"amnenses\"],\"lema_canonico\":\"amnensis\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"cidade ou povoação junto a um rio; cidade ribeirinha (pl.)\",\"aliases\":[],\"exemplos\":[\"Paul. ex Fest. p. 17 Müll.\"],\"notas\":\"Plural atestado 'amnenses'; entradas confirmadas por Whitaker e Lewis & Short.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_99-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_99",
-    "page_num": 99,
-    "lemmas": [
-      "aboleo",
-      "aboleo"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "abolēre: abolir, extinguir, destruir; perfeito: abolūī.",
-    "exemplos": [],
-    "notas": "Corrigido lemma da forma perfeita 'aboluī' para o infinitivo lemma 'aboleo'. | [dedupe] redirect → chunk_93:93:0 | [dedupe] redirect → chunk_93:93:0",
-    "raw_text": "{\"id\":\"chunk_99:99:0\",\"lemas\":[\"aboleo\"],\"lema_canonico\":\"aboleo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"abolēre: abolir, extinguir, destruir; perfeito: abolūī.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigido lemma da forma perfeita 'aboluī' para o infinitivo lemma 'aboleo'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_99:99:0\",\"lemas\":[\"aboleo\"],\"lema_canonico\":\"aboleo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"abolēre: abolir, extinguir, destruir; perfeito: abolūī.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigido lemma da forma perfeita 'aboluī' para o infinitivo lemma 'aboleo'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_100-e1",
@@ -2883,28 +2289,6 @@
     "notas": "Forma deponente confirmada; paradigma ajustado conforme LS/Whitaker.",
     "raw_text": "{\"id\":\"chunk_104:104:0\",\"lemas\":[\"aborior\",\"aborīrī\"],\"lema_canonico\":\"aborior\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[\"dep.\",\"intr.\"],\"definicao\":\"vergehen, verschwinden, sterben; depon. intr.; (auch) fehlgehen, abortiv werden\",\"aliases\":[],\"exemplos\":[\"Lucr. 3, 155\"],\"notas\":\"Forma deponente confirmada; paradigma ajustado conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_104:104:0\",\"lemas\":[\"aborior\",\"aborīrī\"],\"lema_canonico\":\"aborior\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[\"dep.\",\"intr.\"],\"definicao\":\"vergehen, verschwinden, sterben; depon. intr.; (auch) fehlgehen, abortiv werden\",\"aliases\":[],\"exemplos\":[\"Lucr. 3, 155\"],\"notas\":\"Forma deponente confirmada; paradigma ajustado conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_105-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_105",
-    "page_num": 105,
-    "lemmas": [
-      "aborior",
-      "aborior"
-    ],
-    "morfologia": "v. 4ª (-īre)",
-    "morph_render": "v. 4ª (-īre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "aborior, aborīrī, abortus sum — verbo deponente: 'desaparecer, perecer, passar' (pass away).",
-    "exemplos": [],
-    "notas": "Normalizado como deponente 4ª conjug.; corrigido OCR e grafia. | [dedupe] redirect → chunk_104:104:0 | [dedupe] redirect → chunk_104:104:0",
-    "raw_text": "{\"id\":\"chunk_105:105:0\",\"lemas\":[\"aborior\",\"aborīor\"],\"lema_canonico\":\"aborior\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[\"dep.\",\"intr.\"],\"definicao\":\"aborior, aborīrī, abortus sum — verbo deponente: 'desaparecer, perecer, passar' (pass away).\",\"aliases\":[],\"exemplos\":[\"Lucr. 5, 733\"],\"notas\":\"Normalizado como deponente 4ª conjug.; corrigido OCR e grafia.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_105:105:0\",\"lemas\":[\"aborior\",\"aborīor\"],\"lema_canonico\":\"aborior\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[\"dep.\",\"intr.\"],\"definicao\":\"aborior, aborīrī, abortus sum — verbo deponente: 'desaparecer, perecer, passar' (pass away).\",\"aliases\":[],\"exemplos\":[\"Lucr. 5, 733\"],\"notas\":\"Normalizado como deponente 4ª conjug.; corrigido OCR e grafia.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_106-e1",
@@ -3413,28 +2797,6 @@
     "raw_json": "{\"id\":\"chunk_126:126:0\",\"lemas\":[\"abscēdō\",\"abscedo\",\"abscedere\"],\"lema_canonico\":\"abscēdō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"Ir embora, afastar-se; retirar-se, desaparecer; também: abandonar, afastar.\",\"aliases\":[],\"exemplos\":[\"Plaut. Aul. 55\",\"Ov. F. 3, 307\",\"T. Liv. 37, 25, 2\"],\"notas\":\"Grafia normalizada para abscēdō; variações orthográficas (abscedo/abscess- etc.) atestadas em Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_127-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_127",
-    "page_num": 127,
-    "lemmas": [
-      "abscēdo",
-      "abscedo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Perfecto indicativo ativo de abscedō, abscedere: 'parti, afastar-se, retirar-se, desistir, recuar'.",
-    "exemplos": [],
-    "notas": "Forma apresentada no original (abscēssī) normalizada para abscessi/abscessī; aceitação baseada em Lat→Deu e Whitaker. | [dedupe] redirect → chunk_126:126:0 | [dedupe] redirect → chunk_126:126:0 | [ocr_fix 2025-08-20T01:03:57Z] Correção automática de lema via Gaffiot | lemma_in='abscedo' → 'abscēdo'",
-    "raw_text": "{\"id\":\"chunk_127:127:0\",\"lemas\":[\"abscedo\"],\"lema_canonico\":\"abscedo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"perf. 1sg\"],\"definicao\":\"Perfecto indicativo ativo de abscedō, abscedere: 'parti, afastar-se, retirar-se, desistir, recuar'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma apresentada no original (abscēssī) normalizada para abscessi/abscessī; aceitação baseada em Lat→Deu e Whitaker.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_127:127:0\",\"lemas\":[\"abscedo\"],\"lema_canonico\":\"abscedo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"perf. 1sg\"],\"definicao\":\"Perfecto indicativo ativo de abscedō, abscedere: 'parti, afastar-se, retirar-se, desistir, recuar'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma apresentada no original (abscēssī) normalizada para abscessi/abscessī; aceitação baseada em Lat→Deu e Whitaker.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_128-e1",
     "volume_id": "faria",
     "doc_name": "chunk_128",
@@ -3477,28 +2839,6 @@
     "notas": "Corrige leitura ‘part. fut.’ para part. perf. pass./supino; integra tanto o substantivo quanto a forma verbal (Lat→Deu, Whitaker).",
     "raw_text": "{\"id\":\"chunk_129:129:0\",\"lemas\":[\"abscessus\",\"abscedo\"],\"lema_canonico\":\"abscessus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[\"sup.\",\"part. perf. pass.\"],\"definicao\":\"1) Substantivo abscessus, -ūs, m.: afastamento, retirada, ausência; abscisão, distância. 2) Forma supina/particípio perfeito passivo (abscessum) do verbo abscedō: 'tendo partido, retirado, ausente'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrige leitura ‘part. fut.’ para part. perf. pass./supino; integra tanto o substantivo quanto a forma verbal (Lat→Deu, Whitaker).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_129:129:0\",\"lemas\":[\"abscessus\",\"abscedo\"],\"lema_canonico\":\"abscessus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[\"sup.\",\"part. perf. pass.\"],\"definicao\":\"1) Substantivo abscessus, -ūs, m.: afastamento, retirada, ausência; abscisão, distância. 2) Forma supina/particípio perfeito passivo (abscessum) do verbo abscedō: 'tendo partido, retirado, ausente'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrige leitura ‘part. fut.’ para part. perf. pass./supino; integra tanto o substantivo quanto a forma verbal (Lat→Deu, Whitaker).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_130-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_130",
-    "page_num": 130,
-    "lemmas": [
-      "abscessus",
-      "abscessus"
-    ],
-    "morfologia": "s. masc. 4ª (-us)",
-    "morph_render": "s. masc. 4ª (-us)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "1) ação de afastar(-se), partida, afastamento; 2) ausência, retirada; (também: abscesso médico).",
-    "exemplos": [],
-    "notas": "Lema normalizado para 'abscessus' e assinalada dupla natureza (substantivo e particípio perf. pass.). | [dedupe] redirect → chunk_129:129:0 | [dedupe] redirect → chunk_129:129:0",
-    "raw_text": "{\"id\":\"chunk_130:130:0\",\"lemas\":[\"abscessus\"],\"lema_canonico\":\"abscessus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"1) ação de afastar(-se), partida, afastamento; 2) ausência, retirada; (também: abscesso médico).\",\"aliases\":[],\"exemplos\":[\"Verg. En. 10, 444\",\"Tac. An. 4, 57\",\"Tac. An. 12, 33\"],\"notas\":\"Lema normalizado para 'abscessus' e assinalada dupla natureza (substantivo e particípio perf. pass.).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"src_latdeu\"]}",
-    "raw_json": "{\"id\":\"chunk_130:130:0\",\"lemas\":[\"abscessus\"],\"lema_canonico\":\"abscessus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"1) ação de afastar(-se), partida, afastamento; 2) ausência, retirada; (também: abscesso médico).\",\"aliases\":[],\"exemplos\":[\"Verg. En. 10, 444\",\"Tac. An. 4, 57\",\"Tac. An. 12, 33\"],\"notas\":\"Lema normalizado para 'abscessus' e assinalada dupla natureza (substantivo e particípio perf. pass.).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"src_latdeu\"]}"
   },
   {
     "id": "chunk_131-e1",
@@ -3633,28 +2973,6 @@
     "raw_json": "{\"id\":\"chunk_135:135:0\",\"lemas\":[\"abscisus\",\"abscīsus\"],\"lema_canonico\":\"abscisus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"1) Particípio perfeito passivo de abscīdō: 'cortado, separado'. 2) Adjetivo: abrupto, íngreme; severo, áspero, intratável (ex.: Liv., Sen.).\",\"aliases\":[],\"exemplos\":[\"Liv. 3, 2, 5, 12\",\"Sen. Clem. 1, 2, 2\"],\"notas\":\"Forma com macron (abscīsus) reconhecida por Lewis & Short; exemplos normalizados.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_136-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_136",
-    "page_num": 136,
-    "lemmas": [
-      "abscondo",
-      "abscondo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Lema do verbo 'abscondo' — esconder, ocultar. Entrada relativa às formas perfeitas atestadas: 'abscondī' (postclass.) e 'abscondidī'/'abscondīdī' (clássico: abscondidī); a forma 'absconditī' pode aparecer como variante de perfeito/particípio em alguns textos.",
-    "exemplos": [],
-    "notas": "Item representa formas do perfeito (abscondī, absconditī) regularizadas para o lema 'abscondo'. OCR corrigido. | [dedupe] redirect → chunk_133:133:1 | [dedupe] redirect → chunk_133:133:1",
-    "raw_text": "{\"id\":\"chunk_136:136:0\",\"lemas\":[\"abscondo\"],\"lema_canonico\":\"abscondo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Lema do verbo 'abscondo' — esconder, ocultar. Entrada relativa às formas perfeitas atestadas: 'abscondī' (postclass.) e 'abscondidī'/'abscondīdī' (clássico: abscondidī); a forma 'absconditī' pode aparecer como variante de perfeito/particípio em alguns textos.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Item representa formas do perfeito (abscondī, absconditī) regularizadas para o lema 'abscondo'. OCR corrigido.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_136:136:0\",\"lemas\":[\"abscondo\"],\"lema_canonico\":\"abscondo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Lema do verbo 'abscondo' — esconder, ocultar. Entrada relativa às formas perfeitas atestadas: 'abscondī' (postclass.) e 'abscondidī'/'abscondīdī' (clássico: abscondidī); a forma 'absconditī' pode aparecer como variante de perfeito/particípio em alguns textos.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Item representa formas do perfeito (abscondī, absconditī) regularizadas para o lema 'abscondo'. OCR corrigido.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_137-e1",
     "volume_id": "faria",
     "doc_name": "chunk_137",
@@ -3699,28 +3017,6 @@
     "raw_json": "{\"id\":\"chunk_138:138:0\",\"lemas\":[\"absconditus\",\"abscondita\",\"absconditum\"],\"lema_canonico\":\"absconditus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo de abscondo; como adjetivo: escondido, oculto, secreto, misterioso.\",\"aliases\":[],\"exemplos\":[\"Cic. Phil. 2,108\",\"Cic. Cat. 3,3\"],\"notas\":\"Grafia regularizada para 'absconditus'; marcado como particípio/adjetivo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_138-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_138",
-    "page_num": 138,
-    "lemmas": [
-      "abscondo",
-      "abscondo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Esconder, ocultar; figuradamente, dissimular, fazer desaparecer da vista (usado também de astros em passiva).",
-    "exemplos": [],
-    "notas": "Inclui observação sobre variantes do perfeito: abscondidī (clássico) e abscondī (posterior, p.ex. Sêneca). | [dedupe] redirect → chunk_133:133:1 | [dedupe] redirect → chunk_133:133:1",
-    "raw_text": "{\"id\":\"chunk_138:138:1\",\"lemas\":[\"abscondo\"],\"lema_canonico\":\"abscondo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Esconder, ocultar; figuradamente, dissimular, fazer desaparecer da vista (usado também de astros em passiva).\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 2,66\",\"Verg. En. 2,291\",\"Cic. Ment. 121\",\"Verg. G. 1,221\"],\"notas\":\"Inclui observação sobre variantes do perfeito: abscondidī (clássico) e abscondī (posterior, p.ex. Sêneca).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_138:138:1\",\"lemas\":[\"abscondo\"],\"lema_canonico\":\"abscondo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Esconder, ocultar; figuradamente, dissimular, fazer desaparecer da vista (usado também de astros em passiva).\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 2,66\",\"Verg. En. 2,291\",\"Cic. Ment. 121\",\"Verg. G. 1,221\"],\"notas\":\"Inclui observação sobre variantes do perfeito: abscondidī (clássico) e abscondī (posterior, p.ex. Sêneca).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_139-e1",
     "volume_id": "faria",
     "doc_name": "chunk_139",
@@ -3763,28 +3059,6 @@
     "notas": "Forma atestada por Lewis & Short e Whitaker. | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='absentia' → 'absentĭa'",
     "raw_text": "{\"id\":\"chunk_140:140:0\",\"lemas\":[\"absentia\"],\"lema_canonico\":\"absentia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Ausência; falta, afastamento.\",\"aliases\":[],\"exemplos\":[\"Cic. Pis. 37\"],\"notas\":\"Forma atestada por Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_140:140:0\",\"lemas\":[\"absentia\"],\"lema_canonico\":\"absentia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Ausência; falta, afastamento.\",\"aliases\":[],\"exemplos\":[\"Cic. Pis. 37\"],\"notas\":\"Forma atestada por Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_141-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_141",
-    "page_num": 141,
-    "lemmas": [
-      "absens",
-      "absens"
-    ],
-    "morfologia": "adj. (3) 1T",
-    "morph_render": "adj. (3) 1T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Relativo a 'absens' — ausente; 'absentium' = gen. pl. (de absens).",
-    "exemplos": [],
-    "notas": "'Absentium' tratado como forma gen. pl. do adj. absens; confirmado por Whitaker e Lat→Deu. | [dedupe] redirect → chunk_139:139:0 | [dedupe] redirect → chunk_139:139:0",
-    "raw_text": "{\"id\":\"chunk_141:141:0\",\"lemas\":[\"absens\",\"absentium\"],\"lema_canonico\":\"absens\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[],\"definicao\":\"Relativo a 'absens' — ausente; 'absentium' = gen. pl. (de absens).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"'Absentium' tratado como forma gen. pl. do adj. absens; confirmado por Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_141:141:0\",\"lemas\":[\"absens\",\"absentium\"],\"lema_canonico\":\"absens\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[],\"definicao\":\"Relativo a 'absens' — ausente; 'absentium' = gen. pl. (de absens).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"'Absentium' tratado como forma gen. pl. do adj. absens; confirmado por Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_142-e1",
@@ -3919,28 +3193,6 @@
     "raw_json": "{\"id\":\"chunk_147:147:0\",\"lemas\":[\"absisto\"],\"lema_canonico\":\"absisto\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"perf. ind. 3ª sg. (absistit)\"],\"definicao\":\"Verbo intr. 'absisto' — afastar‑se, ceder, cessar. 'Absistit' = perfeito indicativo, 3.ª sing.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_148-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_148",
-    "page_num": 148,
-    "lemmas": [
-      "ab-sisto",
-      "ab-sisto"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "afastar-se, retirar-se; cessar, deixar de; parar (intransitivo)",
-    "exemplos": [],
-    "notas": "Entrada tratada como verbo intransitivo conforme Lat→Deu e uso clássico; Whitaker lista forma adjetival conflituosa. | [dedupe] redirect → chunk_147:147:0 | [dedupe] redirect → chunk_147:147:0 | [ocr_fix 2025-08-17T19:55:30Z] match direto em LS por lemma/lemma_norm | lemma_in='absisto' → 'ab-sisto'",
-    "raw_text": "{\"id\":\"chunk_148:148:0\",\"lemas\":[\"absisto\",\"absistō\"],\"lema_canonico\":\"absisto\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"afastar-se, retirar-se; cessar, deixar de; parar (intransitivo)\",\"aliases\":[],\"exemplos\":[\"Cæs. B. Gal. 5, 17, 2\",\"Verg. En. 6, 399\",\"Verg. En. 1, 192\"],\"notas\":\"Entrada tratada como verbo intransitivo conforme Lat→Deu e uso clássico; Whitaker lista forma adjetival conflituosa.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_148:148:0\",\"lemas\":[\"absisto\",\"absistō\"],\"lema_canonico\":\"absisto\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"afastar-se, retirar-se; cessar, deixar de; parar (intransitivo)\",\"aliases\":[],\"exemplos\":[\"Cæs. B. Gal. 5, 17, 2\",\"Verg. En. 6, 399\",\"Verg. En. 1, 192\"],\"notas\":\"Entrada tratada como verbo intransitivo conforme Lat→Deu e uso clássico; Whitaker lista forma adjetival conflituosa.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_149-e1",
     "volume_id": "faria",
     "doc_name": "chunk_149",
@@ -3983,28 +3235,6 @@
     "notas": "Normalizado para forma lemmática e genitivo -ōnis; harmonizado com LS/Whitaker/Lat→Deu.",
     "raw_text": "{\"id\":\"chunk_150:150:0\",\"lemas\":[\"absolutio\"],\"lema_canonico\":\"absolutio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"absolutio: acquittal, release; completion, perfection, consummation; in rhetoric: finish or completeness of style\",\"aliases\":[],\"exemplos\":[\"Cic. Clu. 27\",\"Cic. Cat. 3, 4\",\"Cic. Fam. 3, 11\",\"Cic. Fin. 5, 14\",\"Cic. Inv. 1, 22, 32\",\"Suet. Vesp. 16\"],\"notas\":\"Normalizado para forma lemmática e genitivo -ōnis; harmonizado com LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_150:150:0\",\"lemas\":[\"absolutio\"],\"lema_canonico\":\"absolutio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"absolutio: acquittal, release; completion, perfection, consummation; in rhetoric: finish or completeness of style\",\"aliases\":[],\"exemplos\":[\"Cic. Clu. 27\",\"Cic. Cat. 3, 4\",\"Cic. Fam. 3, 11\",\"Cic. Fin. 5, 14\",\"Cic. Inv. 1, 22, 32\",\"Suet. Vesp. 16\"],\"notas\":\"Normalizado para forma lemmática e genitivo -ōnis; harmonizado com LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_151-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_151",
-    "page_num": 151,
-    "lemmas": [
-      "absolutio",
-      "absolutio"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Absolvição, acquittal; liberação; também conclusão, perfeição, consumação (uso retórico).",
-    "exemplos": [],
-    "notas": "Alinhado com Lewis & Short e Whitaker; forma declinal normalizada. | [dedupe] redirect → chunk_150:150:0 | [dedupe] redirect → chunk_150:150:0",
-    "raw_text": "{\"id\":\"chunk_151:151:0\",\"lemas\":[\"absolutio\"],\"lema_canonico\":\"absolutio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Absolvição, acquittal; liberação; também conclusão, perfeição, consumação (uso retórico).\",\"aliases\":[],\"exemplos\":[\"Cic. Clu. 27\",\"Cic. Cat. 3, 4\",\"Cic. Fam. 3, 11\",\"Suet. Vesp. 16\",\"Cic. Fin. 5, 14\"],\"notas\":\"Alinhado com Lewis & Short e Whitaker; forma declinal normalizada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_151:151:0\",\"lemas\":[\"absolutio\"],\"lema_canonico\":\"absolutio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Absolvição, acquittal; liberação; também conclusão, perfeição, consumação (uso retórico).\",\"aliases\":[],\"exemplos\":[\"Cic. Clu. 27\",\"Cic. Cat. 3, 4\",\"Cic. Fam. 3, 11\",\"Suet. Vesp. 16\",\"Cic. Fin. 5, 14\"],\"notas\":\"Alinhado com Lewis & Short e Whitaker; forma declinal normalizada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_151-e2",
@@ -4315,28 +3545,6 @@
     "raw_json": "{\"id\":\"chunk_163:163:0\",\"lemas\":[\"absterritus\"],\"lema_canonico\":\"absterritus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo de absterrēre: aterrorizado, amedrontado.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Particípio tratado como adjetivo 1/2; marcadores extras indicam função verbal.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_164-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_164",
-    "page_num": 164,
-    "lemmas": [
-      "abstinens",
-      "abstinens"
-    ],
-    "morfologia": "adj. (3) 1T",
-    "morph_render": "adj. (3) 1T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Particípio presente/adjetivo de abstineō: que se abstém; moderado, reservado, não cobiçoso.",
-    "exemplos": [],
-    "notas": "Morfologia e valor verbal confirmados por Lewis & Short e Whitaker; mantidas referências clássicas. | [dedupe] redirect → chunk_160:160:0 | [dedupe] redirect → chunk_160:160:0",
-    "raw_text": "{\"id\":\"chunk_164:164:0\",\"lemas\":[\"abstinens\"],\"lema_canonico\":\"abstinens\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[\"part. pres.\"],\"definicao\":\"Particípio presente/adjetivo de abstineō: que se abstém; moderado, reservado, não cobiçoso.\",\"aliases\":[],\"exemplos\":[\"Col. R. Rust. 11, 1, 13\",\"Cic. Q. Fr. 1, 1, 11\",\"Cic. Off. 2, 76\",\"Hor. O. 4, 9, 37\"],\"notas\":\"Morfologia e valor verbal confirmados por Lewis & Short e Whitaker; mantidas referências clássicas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_164:164:0\",\"lemas\":[\"abstinens\"],\"lema_canonico\":\"abstinens\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[\"part. pres.\"],\"definicao\":\"Particípio presente/adjetivo de abstineō: que se abstém; moderado, reservado, não cobiçoso.\",\"aliases\":[],\"exemplos\":[\"Col. R. Rust. 11, 1, 13\",\"Cic. Q. Fr. 1, 1, 11\",\"Cic. Off. 2, 76\",\"Hor. O. 4, 9, 37\"],\"notas\":\"Morfologia e valor verbal confirmados por Lewis & Short e Whitaker; mantidas referências clássicas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_165-e1",
     "volume_id": "faria",
     "doc_name": "chunk_165",
@@ -4401,28 +3609,6 @@
     "notas": "Normalizado para forma do infinitivo e conjugação conforme Lat→Deu/LS; flexões normalizadas.",
     "raw_text": "{\"id\":\"chunk_167:167:0\",\"lemas\":[\"abstineo\",\"abstinēo\"],\"lema_canonico\":\"abstineo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"abstineō, -ēre, abstinui, abstentum: reter-se; privar-se, abster-se; impedir, manter à distância.\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 1, 27, 8\",\"Cic. Verr. 1, 93\",\"Caes. B. G. 1, 22, 2\"],\"notas\":\"Normalizado para forma do infinitivo e conjugação conforme Lat→Deu/LS; flexões normalizadas.\",\"flags\":[\"src_latdeu\",\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_167:167:0\",\"lemas\":[\"abstineo\",\"abstinēo\"],\"lema_canonico\":\"abstineo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"abstineō, -ēre, abstinui, abstentum: reter-se; privar-se, abster-se; impedir, manter à distância.\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 1, 27, 8\",\"Cic. Verr. 1, 93\",\"Caes. B. G. 1, 22, 2\"],\"notas\":\"Normalizado para forma do infinitivo e conjugação conforme Lat→Deu/LS; flexões normalizadas.\",\"flags\":[\"src_latdeu\",\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_168-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_168",
-    "page_num": 168,
-    "lemmas": [
-      "abstinens",
-      "abstinens"
-    ],
-    "morfologia": "adj. (3) 1T",
-    "morph_render": "adj. (3) 1T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Particípio presente/adjetivo de abstineō: abstém, que se abstém; moderado, sobrio, contido.",
-    "exemplos": [],
-    "notas": "Alinhado com LS, Whitaker e Lat→Deu; mantida forma nominativa abstinens. | [dedupe] redirect → chunk_160:160:0 | [dedupe] redirect → chunk_160:160:0",
-    "raw_text": "{\"id\":\"chunk_168:168:0\",\"lemas\":[\"abstinens\"],\"lema_canonico\":\"abstinens\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[\"part. pres.\"],\"definicao\":\"Particípio presente/adjetivo de abstineō: abstém, que se abstém; moderado, sobrio, contido.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Alinhado com LS, Whitaker e Lat→Deu; mantida forma nominativa abstinens.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_168:168:0\",\"lemas\":[\"abstinens\"],\"lema_canonico\":\"abstinens\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[\"part. pres.\"],\"definicao\":\"Particípio presente/adjetivo de abstineō: abstém, que se abstém; moderado, sobrio, contido.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Alinhado com LS, Whitaker e Lat→Deu; mantida forma nominativa abstinens.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_169-e1",
@@ -4601,28 +3787,6 @@
     "raw_json": "{\"id\":\"chunk_175:175:1\",\"lemas\":[\"abstulere\",\"auferre\"],\"lema_canonico\":\"abstulere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Forma perfeita abstulī: retirar, levar embora (equivalente a auferō/auferre).\",\"aliases\":[\"abstuli\"],\"exemplos\":[],\"notas\":\"Corrigida identificação morfológica: abstulī = perf. ind. (1ª sg.) de abstulere/auferre.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_175-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_175",
-    "page_num": 175,
-    "lemmas": [
-      "abstulere",
-      "abstulere"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Tomar, levar embora, retirar; equivalent to auferre in many authors.",
-    "exemplos": [],
-    "notas": "Lema e sentido confirmados em Lewis & Short; incluída referência plautina. | [dedupe] redirect → chunk_175:175:1 | [dedupe] redirect → chunk_175:175:1",
-    "raw_text": "{\"id\":\"chunk_175:175:2\",\"lemas\":[\"abstulere\",\"auferre\"],\"lema_canonico\":\"abstulere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Tomar, levar embora, retirar; equivalent to auferre in many authors.\",\"aliases\":[\"abstulō\"],\"exemplos\":[\"Plaut. frg. apud Diom. p. 376 (aulas abstulas)\"],\"notas\":\"Lema e sentido confirmados em Lewis & Short; incluída referência plautina.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_175:175:2\",\"lemas\":[\"abstulere\",\"auferre\"],\"lema_canonico\":\"abstulere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Tomar, levar embora, retirar; equivalent to auferre in many authors.\",\"aliases\":[\"abstulō\"],\"exemplos\":[\"Plaut. frg. apud Diom. p. 376 (aulas abstulas)\"],\"notas\":\"Lema e sentido confirmados em Lewis & Short; incluída referência plautina.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_175-e4",
     "volume_id": "faria",
     "doc_name": "chunk_175",
@@ -4667,28 +3831,6 @@
     "raw_json": "{\"id\":\"chunk_175:175:4\",\"lemas\":[\"astula\"],\"lema_canonico\":\"astula\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Lasca, fragmento, aparas; também nome da planta asphodel (ex.: astula regia).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Grafia e sentido confirmados em LS/Whitaker (astŭla).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_176-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_176",
-    "page_num": 176,
-    "lemmas": [
-      "aufero",
-      "aufero"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "forma perfeita (abstuli) de auferō — levar embora, retirar, remover",
-    "exemplos": [],
-    "notas": "Abstuli é perfeito de aufero; confirmado por Whitaker e Lat→Deu. | [dedupe] redirect → chunk_3004:3004:0 | [dedupe] redirect → chunk_3004:3004:0",
-    "raw_text": "{\"id\":\"chunk_176:176:0\",\"lemas\":[\"aufero\"],\"lema_canonico\":\"aufero\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"perf. ind. act.\"],\"definicao\":\"forma perfeita (abstuli) de auferō — levar embora, retirar, remover\",\"aliases\":[\"abstuli\"],\"exemplos\":[],\"notas\":\"Abstuli é perfeito de aufero; confirmado por Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_176:176:0\",\"lemas\":[\"aufero\"],\"lema_canonico\":\"aufero\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"perf. ind. act.\"],\"definicao\":\"forma perfeita (abstuli) de auferō — levar embora, retirar, remover\",\"aliases\":[\"abstuli\"],\"exemplos\":[],\"notas\":\"Abstuli é perfeito de aufero; confirmado por Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_178-e1",
     "volume_id": "faria",
     "doc_name": "chunk_178",
@@ -4709,28 +3851,6 @@
     "notas": "Formas principais normalizadas segundo Whitaker; sentidos corroborados por Lat→Deu.",
     "raw_text": "{\"id\":\"chunk_178:178:0\",\"lemas\":[\"absumo\"],\"lema_canonico\":\"absumo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"consumir, esgotar; destruir, aniquilar; morrer, perecer; gastar/consumir (fig.)\",\"aliases\":[],\"exemplos\":[\"T. Liv. 23,12,4\",\"T. Liv. 24,47,16\",\"T. Liv. 5,73\",\"Cic. Quint. 34\"],\"notas\":\"Formas principais normalizadas segundo Whitaker; sentidos corroborados por Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_178:178:0\",\"lemas\":[\"absumo\"],\"lema_canonico\":\"absumo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"consumir, esgotar; destruir, aniquilar; morrer, perecer; gastar/consumir (fig.)\",\"aliases\":[],\"exemplos\":[\"T. Liv. 23,12,4\",\"T. Liv. 24,47,16\",\"T. Liv. 5,73\",\"Cic. Quint. 34\"],\"notas\":\"Formas principais normalizadas segundo Whitaker; sentidos corroborados por Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_179-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_179",
-    "page_num": 179,
-    "lemmas": [
-      "absumo",
-      "absumo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "forma perfeita (absumpsī) de absumō — gastar, consumir, desperdiçar; ocupar (tempo)",
-    "exemplos": [],
-    "notas": "Absumpsi normalizado sem macron; identificado como perfeito de absumo (Whitaker/Lat→Deu). | [dedupe] redirect → chunk_178:178:0 | [dedupe] redirect → chunk_178:178:0",
-    "raw_text": "{\"id\":\"chunk_179:179:0\",\"lemas\":[\"absumo\"],\"lema_canonico\":\"absumo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"perf. ind. act.\"],\"definicao\":\"forma perfeita (absumpsī) de absumō — gastar, consumir, desperdiçar; ocupar (tempo)\",\"aliases\":[\"absumpsi\",\"absumpsī\"],\"exemplos\":[],\"notas\":\"Absumpsi normalizado sem macron; identificado como perfeito de absumo (Whitaker/Lat→Deu).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_179:179:0\",\"lemas\":[\"absumo\"],\"lema_canonico\":\"absumo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"perf. ind. act.\"],\"definicao\":\"forma perfeita (absumpsī) de absumō — gastar, consumir, desperdiçar; ocupar (tempo)\",\"aliases\":[\"absumpsi\",\"absumpsī\"],\"exemplos\":[],\"notas\":\"Absumpsi normalizado sem macron; identificado como perfeito de absumo (Whitaker/Lat→Deu).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_180-e1",
@@ -4797,28 +3917,6 @@
     "notas": "Definição consolidada a partir de Lat→Deu, Whitaker e Lewis & Short.",
     "raw_text": "{\"id\":\"chunk_182:182:0\",\"lemas\":[\"absurdus\"],\"lema_canonico\":\"absurdus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Discordante, desafinado; chocante, incongruente; absurdo, sem senso.\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 3, 41\",\"Cic. De Or. 2, 85\",\"Cic. Phil. 8, 4\"],\"notas\":\"Definição consolidada a partir de Lat→Deu, Whitaker e Lewis & Short.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_182:182:0\",\"lemas\":[\"absurdus\"],\"lema_canonico\":\"absurdus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Discordante, desafinado; chocante, incongruente; absurdo, sem senso.\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 3, 41\",\"Cic. De Or. 2, 85\",\"Cic. Phil. 8, 4\"],\"notas\":\"Definição consolidada a partir de Lat→Deu, Whitaker e Lewis & Short.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_183-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_183",
-    "page_num": 183,
-    "lemmas": [
-      "absinthium",
-      "absinthium"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "artemísia-absinto; absinto; infusão ou tintura de absinto",
-    "exemplos": [],
-    "notas": "Grafia variantiva (y → i) tratada como sinônimo; confirmado por Whitaker. | [dedupe] redirect → chunk_146:146:0 | [dedupe] redirect → chunk_146:146:0",
-    "raw_text": "{\"id\":\"chunk_183:183:0\",\"lemas\":[\"absynthium\",\"absinthium\"],\"lema_canonico\":\"absinthium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"artemísia-absinto; absinto; infusão ou tintura de absinto\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Grafia variantiva (y → i) tratada como sinônimo; confirmado por Whitaker.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_183:183:0\",\"lemas\":[\"absynthium\",\"absinthium\"],\"lema_canonico\":\"absinthium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"artemísia-absinto; absinto; infusão ou tintura de absinto\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Grafia variantiva (y → i) tratada como sinônimo; confirmado por Whitaker.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_184-e1",
@@ -4909,28 +4007,6 @@
     "raw_json": "{\"id\":\"chunk_187:187:0\",\"lemas\":[\"abundo\",\"abundare\",\"abundavi\",\"abundatus\"],\"lema_canonico\":\"abundo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"abundō, -āre, abundāvī, abundātum: abundar, transbordar; haver em grande quantidade; ser rico, copioso.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Reconstruído a partir de Whitaker e Lat→Deu; formas supinas/participiais incluídas entre lemas.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_187-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_187",
-    "page_num": 187,
-    "lemmas": [
-      "abundans",
-      "abundans"
-    ],
-    "morfologia": "adj. (3) 1T",
-    "morph_render": "adj. (3) 1T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "abundāns, antis: que abunda; abundante, transbordante, copioso.",
-    "exemplos": [],
-    "notas": "Particípio presente/adjetivo conforme Whitaker e LS. | [dedupe] redirect → chunk_186:186:0 | [dedupe] redirect → chunk_186:186:0",
-    "raw_text": "{\"id\":\"chunk_187:187:1\",\"lemas\":[\"abundans\"],\"lema_canonico\":\"abundans\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[\"part. pres.\"],\"definicao\":\"abundāns, antis: que abunda; abundante, transbordante, copioso.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Particípio presente/adjetivo conforme Whitaker e LS.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_187:187:1\",\"lemas\":[\"abundans\"],\"lema_canonico\":\"abundans\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[\"part. pres.\"],\"definicao\":\"abundāns, antis: que abunda; abundante, transbordante, copioso.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Particípio presente/adjetivo conforme Whitaker e LS.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_187-e3",
     "volume_id": "faria",
     "doc_name": "chunk_187",
@@ -4975,28 +4051,6 @@
     "raw_json": "{\"id\":\"chunk_187:187:3\",\"lemas\":[\"abundant\",\"abundantĕ\"],\"lema_canonico\":\"abundant\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"abundantemente, copiosamente (adv.).\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 3, 53\",\"Cic. Top. 41\",\"Plin. Nat. 21, 5, 57\"],\"notas\":\"Forma advérbial atestada em OCR/first pass; necessidade de confirmação lexical (var. abunde/ăbun-danter).\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_188-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_188",
-    "page_num": 188,
-    "lemmas": [
-      "abundantia",
-      "abundantia"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "abundância, plenitude; riqueza, opulência; excesso, transbordamento",
-    "exemplos": [],
-    "notas": "Normalizado para forma de substantivo 1ª declinação; sentidos confirmados em LS e Lat→Deu. | [dedupe] redirect → chunk_187:187:2",
-    "raw_text": "{\"id\":\"chunk_188:188:0\",\"lemas\":[\"abundantia\"],\"lema_canonico\":\"abundantia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"abundância, plenitude; riqueza, opulência; excesso, transbordamento\",\"aliases\":[],\"exemplos\":[\"Cic. Acad. 1, 18\",\"Cic. Cat. 2, 10\"],\"notas\":\"Normalizado para forma de substantivo 1ª declinação; sentidos confirmados em LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_188:188:0\",\"lemas\":[\"abundantia\"],\"lema_canonico\":\"abundantia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"abundância, plenitude; riqueza, opulência; excesso, transbordamento\",\"aliases\":[],\"exemplos\":[\"Cic. Acad. 1, 18\",\"Cic. Cat. 2, 10\"],\"notas\":\"Normalizado para forma de substantivo 1ª declinação; sentidos confirmados em LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_189-e1",
     "volume_id": "faria",
     "doc_name": "chunk_189",
@@ -5017,28 +4071,6 @@
     "notas": "Forma advérbial atestada; corresponde ao LS 'ăbundē' e ao Whitaker.",
     "raw_text": "{\"id\":\"chunk_189:189:0\",\"lemas\":[\"abunde\"],\"lema_canonico\":\"abunde\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"com abundância; abundantemente, em grande profusão\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 10, 23, 6\"],\"notas\":\"Forma advérbial atestada; corresponde ao LS 'ăbundē' e ao Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_189:189:0\",\"lemas\":[\"abunde\"],\"lema_canonico\":\"abunde\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"com abundância; abundantemente, em grande profusão\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 10, 23, 6\"],\"notas\":\"Forma advérbial atestada; corresponde ao LS 'ăbundē' e ao Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_190-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_190",
-    "page_num": 190,
-    "lemmas": [
-      "abundō",
-      "abundō"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "transbordar, correr copiosamente; figur.: abundar, existir em grande quantidade; ser excessivo, redundar",
-    "exemplos": [],
-    "notas": "Lema normalizado para abundō (abundāre); marca intranzitividade conforme fontes. | [dedupe] redirect → chunk_187:187:0 | [dedupe] redirect → chunk_187:187:0",
-    "raw_text": "{\"id\":\"chunk_190:190:0\",\"lemas\":[\"abundō\",\"abundare\"],\"lema_canonico\":\"abundō\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"transbordar, correr copiosamente; figur.: abundar, existir em grande quantidade; ser excessivo, redundar\",\"aliases\":[],\"exemplos\":[\"Verg. G. 1, 115\",\"Cic. C. M. 56\",\"Cic. Balb. 17\"],\"notas\":\"Lema normalizado para abundō (abundāre); marca intranzitividade conforme fontes.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_190:190:0\",\"lemas\":[\"abundō\",\"abundare\"],\"lema_canonico\":\"abundō\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"transbordar, correr copiosamente; figur.: abundar, existir em grande quantidade; ser excessivo, redundar\",\"aliases\":[],\"exemplos\":[\"Verg. G. 1, 115\",\"Cic. C. M. 56\",\"Cic. Balb. 17\"],\"notas\":\"Lema normalizado para abundō (abundāre); marca intranzitividade conforme fontes.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_190-e2",
@@ -5129,28 +4161,6 @@
     "raw_json": "{\"id\":\"chunk_193:193:0\",\"lemas\":[\"abusus\"],\"lema_canonico\":\"abusus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"consumo, desperdício; abuso, uso indevido; desgaste (atestado em Cic., Dig., Quint.).\",\"aliases\":[],\"exemplos\":[\"Cic. Top. 3\",\"Dig. 7, 5, 5\",\"Quint. 8, 6, 35\"],\"notas\":\"Substantivo da 4ª declinação (-ūs). Unificação das ocorrências lexicográficas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_194-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_194",
-    "page_num": 194,
-    "lemmas": [
-      "ăb",
-      "ăb"
-    ],
-    "morfologia": "prep. com abl.",
-    "morph_render": "prep. com abl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Preposição que governa o abl.: 'de, desde'; em combinações pode aparecer com usque (p.ex. 'ab usque').",
-    "exemplos": [],
-    "notas": "Entrada normalizada para 'ab' com variantes registradas como aliases; combinação com 'usque' atestada em fontes. | [dedupe] redirect → chunk_249:249:0 | [dedupe] redirect → chunk_249:249:0 | [ocr_fix 2025-08-17T19:43:45Z] match direto em LS por lemma/lemma_norm | lemma_in='ab' → 'ăb'",
-    "raw_text": "{\"id\":\"chunk_194:194:0\",\"lemas\":[\"ab\"],\"lema_canonico\":\"ab\",\"morfologia\":\"prep. com abl.\",\"morph_extra\":[],\"definicao\":\"Preposição que governa o abl.: 'de, desde'; em combinações pode aparecer com usque (p.ex. 'ab usque').\",\"aliases\":[\"ab usque\",\"usque ab\"],\"exemplos\":[\"Verg. En. 7,289\"],\"notas\":\"Entrada normalizada para 'ab' com variantes registradas como aliases; combinação com 'usque' atestada em fontes.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_194:194:0\",\"lemas\":[\"ab\"],\"lema_canonico\":\"ab\",\"morfologia\":\"prep. com abl.\",\"morph_extra\":[],\"definicao\":\"Preposição que governa o abl.: 'de, desde'; em combinações pode aparecer com usque (p.ex. 'ab usque').\",\"aliases\":[\"ab usque\",\"usque ab\"],\"exemplos\":[\"Verg. En. 7,289\"],\"notas\":\"Entrada normalizada para 'ab' com variantes registradas como aliases; combinação com 'usque' atestada em fontes.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_195-e1",
     "volume_id": "faria",
     "doc_name": "chunk_195",
@@ -5171,28 +4181,6 @@
     "notas": "Tratado como particípio perfeito passivo; morfologia de part. não cabe no vocabulário padrão → morph_out_of_vocab implícito.",
     "raw_text": "{\"id\":\"chunk_195:195:0\",\"lemas\":[\"abusus\"],\"lema_canonico\":\"abusus\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de abūtor (depon.), com valor adjetival: ‘tendo usado/abusado’; também usado adverbialmente/nominalmente como ‘uso indevido, abuso’ (ver também substantivo).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Tratado como particípio perfeito passivo; morfologia de part. não cabe no vocabulário padrão → morph_out_of_vocab implícito.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\",\"morph_out_of_vocab\"]}",
     "raw_json": "{\"id\":\"chunk_195:195:0\",\"lemas\":[\"abusus\"],\"lema_canonico\":\"abusus\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de abūtor (depon.), com valor adjetival: ‘tendo usado/abusado’; também usado adverbialmente/nominalmente como ‘uso indevido, abuso’ (ver também substantivo).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Tratado como particípio perfeito passivo; morfologia de part. não cabe no vocabulário padrão → morph_out_of_vocab implícito.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\",\"morph_out_of_vocab\"]}"
-  },
-  {
-    "id": "chunk_196-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_196",
-    "page_num": 196,
-    "lemmas": [
-      "ăbūsus",
-      "abūsus"
-    ],
-    "morfologia": "s. masc. 4ª (-us)",
-    "morph_render": "s. masc. 4ª (-us)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Uso até o esgotamento; consumo; desperdício; também 'abuso' em sentido geral.",
-    "exemplos": [],
-    "notas": "Grafia e declinação confirmadas com LS/Whitaker; exemplo clássico em Cicero. | [dedupe] redirect → chunk_193:193:0 | [dedupe] redirect → chunk_193:193:0 | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='abūsus' → 'ăbūsus'",
-    "raw_text": "{\"id\":\"chunk_196:196:0\",\"lemas\":[\"abūsus\",\"abusus\"],\"lema_canonico\":\"abūsus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"Uso até o esgotamento; consumo; desperdício; também 'abuso' em sentido geral.\",\"aliases\":[],\"exemplos\":[\"Cic. Top. 3\"],\"notas\":\"Grafia e declinação confirmadas com LS/Whitaker; exemplo clássico em Cicero.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_196:196:0\",\"lemas\":[\"abūsus\",\"abusus\"],\"lema_canonico\":\"abūsus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"Uso até o esgotamento; consumo; desperdício; também 'abuso' em sentido geral.\",\"aliases\":[],\"exemplos\":[\"Cic. Top. 3\"],\"notas\":\"Grafia e declinação confirmadas com LS/Whitaker; exemplo clássico em Cicero.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_196-e2",

@@ -88,28 +88,6 @@
     "raw_json": "{\"id\":\"chunk_14003:14003:0\",\"lemas\":[\"infitiae\",\"inficiae\"],\"lema_canonico\":\"infitiae\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"negação; especialmente na expressão infitias ire 'negar, recusar' (frequente em autores antigos).\",\"aliases\":[],\"exemplos\":[\"Plaut. Cist. 661\",\"Plaut. Men. 2, 3, 45\"],\"notas\":\"Registrada variante inficiae (Lewis & Short); forma plural e construção com ire confirmadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_14004-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_14004",
-    "page_num": 14004,
-    "lemmas": [
-      "infitialis",
-      "infitialis"
-    ],
-    "morfologia": "adj. (3) 2T",
-    "morph_render": "adj. (3) 2T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "negative, negatory; consisting in denial",
-    "exemplos": [],
-    "notas": "Normalizado como adjetivo (Whitaker/LS). Primeiro-passo interpretou como substantivo; mantida citação. | [dedupe] redirect → chunk_14004:14004:0 | [dedupe] redirect → chunk_14004:14004:0",
-    "raw_text": "{\"id\":\"chunk_14004:14004:1\",\"lemas\":[\"infitialis\"],\"lema_canonico\":\"infitialis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"negative, negatory; consisting in denial\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 2, 105\"],\"notas\":\"Normalizado como adjetivo (Whitaker/LS). Primeiro-passo interpretou como substantivo; mantida citação.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_14004:14004:1\",\"lemas\":[\"infitialis\"],\"lema_canonico\":\"infitialis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"negative, negatory; consisting in denial\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 2, 105\"],\"notas\":\"Normalizado como adjetivo (Whitaker/LS). Primeiro-passo interpretou como substantivo; mantida citação.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_14004-e2",
     "volume_id": "faria",
     "doc_name": "chunk_14004",
@@ -308,28 +286,6 @@
     "raw_json": "{\"id\":\"chunk_14012:14012:0\",\"lemas\":[\"inflatio\",\"inflātio\"],\"lema_canonico\":\"inflatio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"a blowing up, swelling; (transf./med.) swelling of the body, flatulence, inflation; also pride/insolence\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 1, 30\",\"Suet. Aug. 81\"],\"notas\":\"Forma romana inflātĭo (gen. -ōnis) atestada; sentidos lit. e transf. conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_14013-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_14013",
-    "page_num": 14013,
-    "lemmas": [
-      "inflatus",
-      "inflatus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "puffed up; swollen; proud, bombastic, inflated",
-    "exemplos": [],
-    "notas": "Corrigida classificação de adv. → adjetivo/particípio, conforme Whitaker/LS. | [dedupe] redirect → chunk_14014:14014:0 | [dedupe] redirect → chunk_14014:14014:0",
-    "raw_text": "{\"id\":\"chunk_14013:14013:0\",\"lemas\":[\"inflatus\"],\"lema_canonico\":\"inflatus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"puffed up; swollen; proud, bombastic, inflated\",\"aliases\":[],\"exemplos\":[\"Caes. B. Gal. 2, 17, 30\"],\"notas\":\"Corrigida classificação de adv. → adjetivo/particípio, conforme Whitaker/LS.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_14013:14013:0\",\"lemas\":[\"inflatus\"],\"lema_canonico\":\"inflatus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"puffed up; swollen; proud, bombastic, inflated\",\"aliases\":[],\"exemplos\":[\"Caes. B. Gal. 2, 17, 30\"],\"notas\":\"Corrigida classificação de adv. → adjetivo/particípio, conforme Whitaker/LS.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_14014-e1",
     "volume_id": "faria",
     "doc_name": "chunk_14014",
@@ -416,28 +372,6 @@
     "notas": "Forma confirmada por Whitaker e Lat→Deu (inflētus/infletus); mantida a leitura do primeiro passo com normalização.",
     "raw_text": "{\"id\":\"chunk_14017:14017:0\",\"lemas\":[\"infletus\",\"infleta\",\"infletum\",\"inflētus\"],\"lema_canonico\":\"infletus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Não chorado, não pranteado; unmourned.\",\"aliases\":[],\"exemplos\":[\"Verg. En. 11, 172\"],\"notas\":\"Forma confirmada por Whitaker e Lat→Deu (inflētus/infletus); mantida a leitura do primeiro passo com normalização.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_14017:14017:0\",\"lemas\":[\"infletus\",\"infleta\",\"infletum\",\"inflētus\"],\"lema_canonico\":\"infletus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Não chorado, não pranteado; unmourned.\",\"aliases\":[],\"exemplos\":[\"Verg. En. 11, 172\"],\"notas\":\"Forma confirmada por Whitaker e Lat→Deu (inflētus/infletus); mantida a leitura do primeiro passo com normalização.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_14018-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_14018",
-    "page_num": 14018,
-    "lemmas": [
-      "inflecto",
-      "inflecto"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "Perfeito ativo indicativo (forma plena) do verbo inflectō: inclinar, curvar; figuradamente, influenciar, mudar.",
-    "exemplos": [],
-    "notas": "Forma perfeita 'inflexī' (inflexi) confirmada como perf. de inflectō. | [dedupe] redirect → chunk_14016:14016:0 | [dedupe] redirect → chunk_14016:14016:0",
-    "raw_text": "{\"id\":\"chunk_14018:14018:0\",\"lemas\":[\"inflecto\"],\"lema_canonico\":\"inflecto\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Perfeito ativo indicativo (forma plena) do verbo inflectō: inclinar, curvar; figuradamente, influenciar, mudar.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma perfeita 'inflexī' (inflexi) confirmada como perf. de inflectō.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_14018:14018:0\",\"lemas\":[\"inflecto\"],\"lema_canonico\":\"inflecto\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Perfeito ativo indicativo (forma plena) do verbo inflectō: inclinar, curvar; figuradamente, influenciar, mudar.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma perfeita 'inflexī' (inflexi) confirmada como perf. de inflectō.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"morph_out_of_vocab\"]}"
   },
   {
     "id": "chunk_14019-e1",
@@ -638,50 +572,6 @@
     "raw_json": "{\"id\":\"chunk_14027:14027:0\",\"lemas\":[\"influo\"],\"lema_canonico\":\"influo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"correr para dentro; fluir para dentro; figurado: entrar, insinuar‑se, penetrar\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 1, 94\",\"Cic. Prov. 32\",\"Cic. Or. 2, 31\"],\"notas\":\"Lema e significados confirmados em Lat→Deu e Whitaker\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_14028-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_14028",
-    "page_num": 14028,
-    "lemmas": [
-      "influo",
-      "influo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "Perfeito ativo indicativo (forma plena) do verbo influō: (trans./intr.) fluir para dentro, entrar por fluxo.",
-    "exemplos": [],
-    "notas": "Forma perfeita 'influxī' confirmada como perf. de influō (Whitaker, Lat→Deu). | [dedupe] redirect → chunk_14027:14027:0 | [dedupe] redirect → chunk_14027:14027:0",
-    "raw_text": "{\"id\":\"chunk_14028:14028:0\",\"lemas\":[\"influo\"],\"lema_canonico\":\"influo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Perfeito ativo indicativo (forma plena) do verbo influō: (trans./intr.) fluir para dentro, entrar por fluxo.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma perfeita 'influxī' confirmada como perf. de influō (Whitaker, Lat→Deu).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_14028:14028:0\",\"lemas\":[\"influo\"],\"lema_canonico\":\"influo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Perfeito ativo indicativo (forma plena) do verbo influō: (trans./intr.) fluir para dentro, entrar por fluxo.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma perfeita 'influxī' confirmada como perf. de influō (Whitaker, Lat→Deu).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"morph_out_of_vocab\"]}"
-  },
-  {
-    "id": "chunk_14029-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_14029",
-    "page_num": 14029,
-    "lemmas": [
-      "infodere",
-      "infodere"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "Perfeito ativo indicativo (forma plena) do verbo īnfodere/īnfodiō: enterrar, cavar; 'infōdī' é a 1ª pers. perf. attestada.",
-    "exemplos": [],
-    "notas": "Correto alinhamento com Lat→Deu: īnfodere, īnfodiō, īnfōdī, īnfossum; OCR inicial alterou letras. | [dedupe] redirect → chunk_14030:14030:0 | [dedupe] redirect → chunk_14030:14030:0",
-    "raw_text": "{\"id\":\"chunk_14029:14029:0\",\"lemas\":[\"infodere\"],\"lema_canonico\":\"infodere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Perfeito ativo indicativo (forma plena) do verbo īnfodere/īnfodiō: enterrar, cavar; 'infōdī' é a 1ª pers. perf. attestada.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Correto alinhamento com Lat→Deu: īnfodere, īnfodiō, īnfōdī, īnfossum; OCR inicial alterou letras.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_14029:14029:0\",\"lemas\":[\"infodere\"],\"lema_canonico\":\"infodere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Perfeito ativo indicativo (forma plena) do verbo īnfodere/īnfodiō: enterrar, cavar; 'infōdī' é a 1ª pers. perf. attestada.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Correto alinhamento com Lat→Deu: īnfodere, īnfodiō, īnfōdī, īnfossum; OCR inicial alterou letras.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}"
-  },
-  {
     "id": "chunk_14030-e1",
     "volume_id": "faria",
     "doc_name": "chunk_14030",
@@ -748,28 +638,6 @@
     "notas": "Entrada lexicalizada como particípio de informō (informāre); marcada como particípio em morph_extra",
     "raw_text": "{\"id\":\"chunk_14032:14032:0\",\"lemas\":[\"informatus\",\"informata\",\"informatum\"],\"lema_canonico\":\"informatus\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de informō: formado, moldado; informado, instruído\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada lexicalizada como particípio de informō (informāre); marcada como particípio em morph_extra\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"morph_out_of_vocab\"]}",
     "raw_json": "{\"id\":\"chunk_14032:14032:0\",\"lemas\":[\"informatus\",\"informata\",\"informatum\"],\"lema_canonico\":\"informatus\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de informō: formado, moldado; informado, instruído\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada lexicalizada como particípio de informō (informāre); marcada como particípio em morph_extra\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"morph_out_of_vocab\"]}"
-  },
-  {
-    "id": "chunk_14033-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_14033",
-    "page_num": 14033,
-    "lemmas": [
-      "infirmitas",
-      "infirmitas"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "fraqueza, debilidade; enfermidade, indisposição; figurado: fragilidade (de caráter ou coisa)",
-    "exemplos": [],
-    "notas": "Definição alinhada com Lewis & Short e Lat→Deu; formas gen./nom. dadas como variantes | [dedupe] redirect → chunk_13996:13996:0 | [dedupe] redirect → chunk_13996:13996:0",
-    "raw_text": "{\"id\":\"chunk_14033:14033:0\",\"lemas\":[\"infirmitas\",\"infirmitatis\"],\"lema_canonico\":\"infirmitas\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"fraqueza, debilidade; enfermidade, indisposição; figurado: fragilidade (de caráter ou coisa)\",\"aliases\":[],\"exemplos\":[\"Cic. de Sen. 10, 33\",\"Plin. Ep. 7, 21\",\"Hor. O. 2, 10, 15\"],\"notas\":\"Definição alinhada com Lewis & Short e Lat→Deu; formas gen./nom. dadas como variantes\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_14033:14033:0\",\"lemas\":[\"infirmitas\",\"infirmitatis\"],\"lema_canonico\":\"infirmitas\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"fraqueza, debilidade; enfermidade, indisposição; figurado: fragilidade (de caráter ou coisa)\",\"aliases\":[],\"exemplos\":[\"Cic. de Sen. 10, 33\",\"Plin. Ep. 7, 21\",\"Hor. O. 2, 10, 15\"],\"notas\":\"Definição alinhada com Lewis & Short e Lat→Deu; formas gen./nom. dadas como variantes\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_14034-e1",
@@ -882,28 +750,6 @@
     "raw_json": "{\"id\":\"chunk_14038:14038:0\",\"lemas\":[\"infra\"],\"lema_canonico\":\"infra\",\"morfologia\":\"adv.\",\"morph_extra\":[\"prep. com acc.\"],\"definicao\":\"below, underneath; further along; later (in time). As prep. with acc.: below, inferior to, later than.\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 8, 6, 2\",\"Cic. Rep. 6, 17\",\"Cels. 3, 23 fin.\",\"Cic. N. D. 2, 54\",\"Varr. R. R. 1, 41, 3\",\"Plin. 16, 30, § 123\",\"Tib. 1, 10, 35\"],\"notas\":\"Entrada verificada e ampliada com sentidos atestados por LS e Whitaker; marquei uso prép. com acusativo em morph_extra.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_14039-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_14039",
-    "page_num": 14039,
-    "lemmas": [
-      "infra",
-      "infra"
-    ],
-    "morfologia": "adv.",
-    "morph_render": "adv.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "abaixo, por baixo; mais abaixo, adiante; (como prep.) abaixo de, inferior a (usado com acc.)",
-    "exemplos": [],
-    "notas": "Entrada abrange advérbio e uso preposicional com acc. — definição inclui ambos os valores. | [dedupe] redirect → chunk_14038:14038:0 | [dedupe] redirect → chunk_14038:14038:0",
-    "raw_text": "{\"id\":\"chunk_14039:14039:0\",\"lemas\":[\"infra\"],\"lema_canonico\":\"infra\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"abaixo, por baixo; mais abaixo, adiante; (como prep.) abaixo de, inferior a (usado com acc.)\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 4, 51\",\"Cés. B. Gal. 6, 28, 1\"],\"notas\":\"Entrada abrange advérbio e uso preposicional com acc. — definição inclui ambos os valores.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_14039:14039:0\",\"lemas\":[\"infra\"],\"lema_canonico\":\"infra\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"abaixo, por baixo; mais abaixo, adiante; (como prep.) abaixo de, inferior a (usado com acc.)\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 4, 51\",\"Cés. B. Gal. 6, 28, 1\"],\"notas\":\"Entrada abrange advérbio e uso preposicional com acc. — definição inclui ambos os valores.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_14040-e1",
     "volume_id": "faria",
     "doc_name": "chunk_14040",
@@ -948,28 +794,6 @@
     "raw_json": "{\"id\":\"chunk_14041:14041:0\",\"lemas\":[\"infractus\",\"infracta\",\"infractum\"],\"lema_canonico\":\"infractus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"particípio passivo de infringō; quebrado, fraturado; humilhado, de tom humilde\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Confirmado por Lewis & Short e Whitaker; normalizado de formas variantes.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_14041-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_14041",
-    "page_num": 14041,
-    "lemmas": [
-      "infrane",
-      "infrane"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:low",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada indicada como equivalência (= infreno) no original; tratado como redirecionamento.",
-    "raw_text": "{\"id\":\"chunk_14041:14041:1\",\"lemas\":[\"infrane\"],\"lema_canonico\":\"infrane\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"infreno\"],\"exemplos\":[],\"notas\":\"Entrada indicada como equivalência (= infreno) no original; tratado como redirecionamento.\",\"flags\":[\"src_firstpass\",\"src_whitaker\",\"conf:low\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_14041:14041:1\",\"lemas\":[\"infrane\"],\"lema_canonico\":\"infrane\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"infreno\"],\"exemplos\":[],\"notas\":\"Entrada indicada como equivalência (= infreno) no original; tratado como redirecionamento.\",\"flags\":[\"src_firstpass\",\"src_whitaker\",\"conf:low\",\"redirect_only\"]}"
-  },
-  {
     "id": "chunk_14042-e1",
     "volume_id": "faria",
     "doc_name": "chunk_14042",
@@ -1012,28 +836,6 @@
     "notas": "Entrada original é forma perfeita (īnfrēgī/infregī) do verbo infringō; morfologia apresentada como 3ª conjug. por compatibilidade com inventário (verbo listado pela fonte).",
     "raw_text": "{\"id\":\"chunk_14043:14043:0\",\"lemas\":[\"īnfrēgī\",\"infregī\"],\"lema_canonico\":\"infringō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"(perfectum īnfrēgī) romper, quebrar; infringir, enfraquecer.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada original é forma perfeita (īnfrēgī/infregī) do verbo infringō; morfologia apresentada como 3ª conjug. por compatibilidade com inventário (verbo listado pela fonte).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_firstpass\",\"conf:high\",\"morph_out_of_vocab\"]}",
     "raw_json": "{\"id\":\"chunk_14043:14043:0\",\"lemas\":[\"īnfrēgī\",\"infregī\"],\"lema_canonico\":\"infringō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"(perfectum īnfrēgī) romper, quebrar; infringir, enfraquecer.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada original é forma perfeita (īnfrēgī/infregī) do verbo infringō; morfologia apresentada como 3ª conjug. por compatibilidade com inventário (verbo listado pela fonte).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_firstpass\",\"conf:high\",\"morph_out_of_vocab\"]}"
-  },
-  {
-    "id": "chunk_14044-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_14044",
-    "page_num": 14044,
-    "lemmas": [
-      "infremo",
-      "infremo"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "fazer ruído, bramir (intransitivo)",
-    "exemplos": [],
-    "notas": "Normalizado sem macrons; formas periféricas (infremui) são perfeitos atestados. | [dedupe] redirect → chunk_14045:14045:0 | [dedupe] redirect → chunk_14045:14045:0",
-    "raw_text": "{\"id\":\"chunk_14044:14044:0\",\"lemas\":[\"infremo\",\"infremere\"],\"lema_canonico\":\"infremo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"fazer ruído, bramir (intransitivo)\",\"aliases\":[],\"exemplos\":[\"Verg. En. 10, 711\"],\"notas\":\"Normalizado sem macrons; formas periféricas (infremui) são perfeitos atestados.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_14044:14044:0\",\"lemas\":[\"infremo\",\"infremere\"],\"lema_canonico\":\"infremo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"fazer ruído, bramir (intransitivo)\",\"aliases\":[],\"exemplos\":[\"Verg. En. 10, 711\"],\"notas\":\"Normalizado sem macrons; formas periféricas (infremui) são perfeitos atestados.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_14045-e1",
@@ -1168,28 +970,6 @@
     "raw_json": "{\"id\":\"chunk_14049:14049:0\",\"lemas\":[\"infreno\",\"īnfrēnō\"],\"lema_canonico\":\"infreno\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"Pôr em bridão/contenção (especialmente de cavalos); fig. conter, governar, refrear.\",\"aliases\":[],\"exemplos\":[\"Verg. En. 12, 887\",\"Cic. Pis. 44\"],\"notas\":\"Infinitivo e significados confirmados por Lat→Deu, LS e Whitaker; transitividade indicada.\",\"flags\":[\"src_latdeu\",\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_14050-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_14050",
-    "page_num": 14050,
-    "lemmas": [
-      "infrenis",
-      "infrenis"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Sem bridão, não rédeado; desprevenido, desinibido, não contido (poético e pós-cláss.).",
-    "exemplos": [],
-    "notas": "Entrada conflituosa no first_pass (infrānus); lemas reconciliados com LS/Whitaker. Verificar ocorrência de 'infranus'. | [dedupe] redirect → chunk_14048:14048:0 | [dedupe] redirect → chunk_14048:14048:0",
-    "raw_text": "{\"id\":\"chunk_14050:14050:0\",\"lemas\":[\"infrenis\",\"infrēnis\",\"infrenus\"],\"lema_canonico\":\"infrenis\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Sem bridão, não rédeado; desprevenido, desinibido, não contido (poético e pós-cláss.).\",\"aliases\":[],\"exemplos\":[\"Verg. A. 10, 750\"],\"notas\":\"Entrada conflituosa no first_pass (infrānus); lemas reconciliados com LS/Whitaker. Verificar ocorrência de 'infranus'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_14050:14050:0\",\"lemas\":[\"infrenis\",\"infrēnis\",\"infrenus\"],\"lema_canonico\":\"infrenis\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Sem bridão, não rédeado; desprevenido, desinibido, não contido (poético e pós-cláss.).\",\"aliases\":[],\"exemplos\":[\"Verg. A. 10, 750\"],\"notas\":\"Entrada conflituosa no first_pass (infrānus); lemas reconciliados com LS/Whitaker. Verificar ocorrência de 'infranus'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_14051-e1",
     "volume_id": "faria",
     "doc_name": "chunk_14051",
@@ -1232,50 +1012,6 @@
     "notas": "Baseado apenas na primeira passada e pistas OCR; não verificado em dicionários principais.",
     "raw_text": "{\"id\":\"chunk_14052:14052:0\",\"lemas\":[\"infraquentia\"],\"lema_canonico\":\"infraquentia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Infrequência; pequena frequência, escassez de número; por extensão: solidão, deserto.\",\"aliases\":[],\"exemplos\":[\"Cic. Q. Fr. 3, 2, 21\",\"Tac. Ann. 14, 27\"],\"notas\":\"Baseado apenas na primeira passada e pistas OCR; não verificado em dicionários principais.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_14052:14052:0\",\"lemas\":[\"infraquentia\"],\"lema_canonico\":\"infraquentia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Infrequência; pequena frequência, escassez de número; por extensão: solidão, deserto.\",\"aliases\":[],\"exemplos\":[\"Cic. Q. Fr. 3, 2, 21\",\"Tac. Ann. 14, 27\"],\"notas\":\"Baseado apenas na primeira passada e pistas OCR; não verificado em dicionários principais.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_14053-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_14053",
-    "page_num": 14053,
-    "lemmas": [
-      "infractus",
-      "infractus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Particípio perfeito/passivo de infringō: 'quebrado, partido'; figuradamente 'abatido, enfraquecido'.",
-    "exemplos": [],
-    "notas": "Forma e valor participial confirmados por LS e Whitaker; mantida vogal longa como variante. | [dedupe] redirect → chunk_14041:14041:0 | [dedupe] redirect → chunk_14041:14041:0",
-    "raw_text": "{\"id\":\"chunk_14053:14053:0\",\"lemas\":[\"infractus\",\"infrāctus\"],\"lema_canonico\":\"infractus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito/passivo de infringō: 'quebrado, partido'; figuradamente 'abatido, enfraquecido'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma e valor participial confirmados por LS e Whitaker; mantida vogal longa como variante.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_14053:14053:0\",\"lemas\":[\"infractus\",\"infrāctus\"],\"lema_canonico\":\"infractus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito/passivo de infringō: 'quebrado, partido'; figuradamente 'abatido, enfraquecido'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma e valor participial confirmados por LS e Whitaker; mantida vogal longa como variante.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_14054-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_14054",
-    "page_num": 14054,
-    "lemmas": [
-      "infringo",
-      "infringo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "quebrar, fraturar; fig.: enfraquecer, abater; interromper (frase)",
-    "exemplos": [],
-    "notas": "Forma regular 3ª conj.; grafia normalizada a partir do OCR. | [dedupe] redirect → chunk_14043:14043:0 | [dedupe] redirect → chunk_14043:14043:0",
-    "raw_text": "{\"id\":\"chunk_14054:14054:0\",\"lemas\":[\"infringo\"],\"lema_canonico\":\"infringo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"quebrar, fraturar; fig.: enfraquecer, abater; interromper (frase)\",\"aliases\":[],\"exemplos\":[\"Cic. de Z., 79\",\"Cés. B. Civ. 2, 21, 2\",\"Cic. Mil. 51\",\"T. Liv. 38, 34, 9\"],\"notas\":\"Forma regular 3ª conj.; grafia normalizada a partir do OCR.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_14054:14054:0\",\"lemas\":[\"infringo\"],\"lema_canonico\":\"infringo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"quebrar, fraturar; fig.: enfraquecer, abater; interromper (frase)\",\"aliases\":[],\"exemplos\":[\"Cic. de Z., 79\",\"Cés. B. Civ. 2, 21, 2\",\"Cic. Mil. 51\",\"T. Liv. 38, 34, 9\"],\"notas\":\"Forma regular 3ª conj.; grafia normalizada a partir do OCR.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_14055-e1",
@@ -1476,28 +1212,6 @@
     "raw_json": "{\"id\":\"chunk_14063:14063:0\",\"lemas\":[\"injicio\"],\"lema_canonico\":\"injicio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[],\"definicao\":\"injiciō, -icere: lançar para dentro, introduzir; espetar (sentido literal e figurado).\",\"aliases\":[],\"exemplos\":[\"Suet. Tib. 53\",\"Sen. Ben. 3, 28\"],\"notas\":\"Grafia e paradigmas verificadas com Whitaker e Lewis & Short (LS indica forma injĭcĭo como variante typo).\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_14064-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_14064",
-    "page_num": 14064,
-    "lemmas": [
-      "infundo",
-      "infundo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "infūdō (infundere): 1st pers. sing. perf. ind. act. infūdī — verter para dentro; derramar; fazer entrar, encher; também, no pass., escoar-se.",
-    "exemplos": [],
-    "notas": "Entrada representada pelo lema infundo; forma tratada é o perfeito infūdī. OCR confundiu d/l. | [dedupe] redirect → chunk_14059:14059:0 | [dedupe] redirect → chunk_14059:14059:0",
-    "raw_text": "{\"id\":\"chunk_14064:14064:0\",\"lemas\":[\"infundo\"],\"lema_canonico\":\"infundo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"perf. 1sg\"],\"definicao\":\"infūdō (infundere): 1st pers. sing. perf. ind. act. infūdī — verter para dentro; derramar; fazer entrar, encher; também, no pass., escoar-se.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada representada pelo lema infundo; forma tratada é o perfeito infūdī. OCR confundiu d/l.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_14064:14064:0\",\"lemas\":[\"infundo\"],\"lema_canonico\":\"infundo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"perf. 1sg\"],\"definicao\":\"infūdō (infundere): 1st pers. sing. perf. ind. act. infūdī — verter para dentro; derramar; fazer entrar, encher; também, no pass., escoar-se.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada representada pelo lema infundo; forma tratada é o perfeito infūdī. OCR confundiu d/l.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_14065-e1",
     "volume_id": "faria",
     "doc_name": "chunk_14065",
@@ -1518,50 +1232,6 @@
     "notas": "Registro como adjetivo 1/2; preservada variante infimus. Diacríticos reconciliados com LS/Whitaker.",
     "raw_text": "{\"id\":\"chunk_14065:14065:0\",\"lemas\":[\"infumus\",\"infimus\"],\"lema_canonico\":\"infumus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"infūmus/infīmus: situado por baixo; mais baixo; último; também ‘infernal, vil’ (variante de infimus).\",\"aliases\":[\"infimus\"],\"exemplos\":[],\"notas\":\"Registro como adjetivo 1/2; preservada variante infimus. Diacríticos reconciliados com LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_14065:14065:0\",\"lemas\":[\"infumus\",\"infimus\"],\"lema_canonico\":\"infumus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"infūmus/infīmus: situado por baixo; mais baixo; último; também ‘infernal, vil’ (variante de infimus).\",\"aliases\":[\"infimus\"],\"exemplos\":[],\"notas\":\"Registro como adjetivo 1/2; preservada variante infimus. Diacríticos reconciliados com LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_14066-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_14066",
-    "page_num": 14066,
-    "lemmas": [
-      "in-fundo",
-      "in-fundo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "to pour in or into; to shed, cause to flow; figuratively, to instill or infuse.",
-    "exemplos": [],
-    "notas": "Normalizada a forma do infinitivo e supina conforme Lat→Deu; indicado como v. tr. da 3ª conj. | [dedupe] redirect → chunk_14059:14059:0 | [dedupe] redirect → chunk_14059:14059:0 | [ocr_fix 2025-08-17T19:58:18Z] match direto em LS por lemma/lemma_norm | lemma_in='infundo' → 'in-fundo'",
-    "raw_text": "{\"id\":\"chunk_14066:14066:0\",\"lemas\":[\"infundo\",\"infundere\"],\"lema_canonico\":\"infundo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"to pour in or into; to shed, cause to flow; figuratively, to instill or infuse.\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. I, 61\",\"Cic. De Or. 2, 355\",\"Verg. En. 4, 122\"],\"notas\":\"Normalizada a forma do infinitivo e supina conforme Lat→Deu; indicado como v. tr. da 3ª conj.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_14066:14066:0\",\"lemas\":[\"infundo\",\"infundere\"],\"lema_canonico\":\"infundo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"to pour in or into; to shed, cause to flow; figuratively, to instill or infuse.\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. I, 61\",\"Cic. De Or. 2, 355\",\"Verg. En. 4, 122\"],\"notas\":\"Normalizada a forma do infinitivo e supina conforme Lat→Deu; indicado como v. tr. da 3ª conj.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_14067-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_14067",
-    "page_num": 14067,
-    "lemmas": [
-      "infusus",
-      "infusus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Particípio perfeito passivo de infundō (īnfundere): derramado, vertido; também atestado como substantivo (abl. sing.) em LS.",
-    "exemplos": [],
-    "notas": "Duplicata/variante de 'infusus' confirmada por LS/Whitaker; mantida como adjetivo participial. | [dedupe] redirect → chunk_14060:14060:0 | [dedupe] redirect → chunk_14060:14060:0",
-    "raw_text": "{\"id\":\"chunk_14067:14067:0\",\"lemas\":[\"infusus\",\"infusa\",\"infusum\"],\"lema_canonico\":\"infusus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo de infundō (īnfundere): derramado, vertido; também atestado como substantivo (abl. sing.) em LS.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Duplicata/variante de 'infusus' confirmada por LS/Whitaker; mantida como adjetivo participial.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_14067:14067:0\",\"lemas\":[\"infusus\",\"infusa\",\"infusum\"],\"lema_canonico\":\"infusus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo de infundō (īnfundere): derramado, vertido; também atestado como substantivo (abl. sing.) em LS.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Duplicata/variante de 'infusus' confirmada por LS/Whitaker; mantida como adjetivo participial.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_14068-e1",
@@ -1606,28 +1276,6 @@
     "notas": "Unificação das variantes e sentidos conforme LS, Whitaker e Lat→Deu; declinação 3ª feminina.",
     "raw_text": "{\"id\":\"chunk_14069:14069:0\",\"lemas\":[\"infusio\",\"infūsio\"],\"lema_canonico\":\"infusio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"a pouring in, infusion; a watering, injection, flow (medical and literal senses).\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 20, 228\",\"Plin. 20, 21, 84, § 228\",\"Plin. 27, 13, 113, § 140\",\"Pall. 3, 25\",\"Ambros. Apol. Dav. 3, 11\"],\"notas\":\"Unificação das variantes e sentidos conforme LS, Whitaker e Lat→Deu; declinação 3ª feminina.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_14069:14069:0\",\"lemas\":[\"infusio\",\"infūsio\"],\"lema_canonico\":\"infusio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"a pouring in, infusion; a watering, injection, flow (medical and literal senses).\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 20, 228\",\"Plin. 20, 21, 84, § 228\",\"Plin. 27, 13, 113, § 140\",\"Pall. 3, 25\",\"Ambros. Apol. Dav. 3, 11\"],\"notas\":\"Unificação das variantes e sentidos conforme LS, Whitaker e Lat→Deu; declinação 3ª feminina.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_14070-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_14070",
-    "page_num": 14070,
-    "lemmas": [
-      "infusus",
-      "infusus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "poured in; poured, infused (participle of infundo); also used substantively in a rare ablative sense in LS",
-    "exemplos": [],
-    "notas": "Marcada como particípio perfeito passivo; inclui variantes de gênero. | [dedupe] redirect → chunk_14060:14060:0 | [dedupe] redirect → chunk_14060:14060:0",
-    "raw_text": "{\"id\":\"chunk_14070:14070:0\",\"lemas\":[\"infusus\",\"infusa\",\"infusum\"],\"lema_canonico\":\"infusus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"poured in; poured, infused (participle of infundo); also used substantively in a rare ablative sense in LS\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Marcada como particípio perfeito passivo; inclui variantes de gênero.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_14070:14070:0\",\"lemas\":[\"infusus\",\"infusa\",\"infusum\"],\"lema_canonico\":\"infusus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"poured in; poured, infused (participle of infundo); also used substantively in a rare ablative sense in LS\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Marcada como particípio perfeito passivo; inclui variantes de gênero.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_14071-e1",
@@ -1848,28 +1496,6 @@
     "notas": "Lema normalizado ao infinitivo; formas e sentidos confirmados por fontes lexicográficas.",
     "raw_text": "{\"id\":\"chunk_14079:14079:0\",\"lemas\":[\"ingenerāre\",\"ingenerare\"],\"lema_canonico\":\"ingenerāre\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"engendrar, gerar, produzir; figurado: inspirar, infundir\",\"aliases\":[],\"exemplos\":[\"Cic. Leg. 1, 24\",\"Cic. Off. 1, 12\"],\"notas\":\"Lema normalizado ao infinitivo; formas e sentidos confirmados por fontes lexicográficas.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_14079:14079:0\",\"lemas\":[\"ingenerāre\",\"ingenerare\"],\"lema_canonico\":\"ingenerāre\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"engendrar, gerar, produzir; figurado: inspirar, infundir\",\"aliases\":[],\"exemplos\":[\"Cic. Leg. 1, 24\",\"Cic. Off. 1, 12\"],\"notas\":\"Lema normalizado ao infinitivo; formas e sentidos confirmados por fontes lexicográficas.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_14079-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_14079",
-    "page_num": 14079,
-    "lemmas": [
-      "ingĕnĭātus",
-      "ingĕnĭātus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "particípio perfeito passivo de ingenerāre; engendrado, produzido; também adjetivo 'dotado por natureza'",
-    "exemplos": [],
-    "notas": "Entrada admite leitura adjetival e funcional como particípio perfeito passivo. | [dedupe] redirect → chunk_14080:14080:0 | [dedupe] redirect → chunk_14080:14080:0 | [ocr_fix 2025-08-17T19:49:15Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='ingeniatus' → 'ingĕnĭātus'",
-    "raw_text": "{\"id\":\"chunk_14079:14079:1\",\"lemas\":[\"ingeniatus\"],\"lema_canonico\":\"ingeniatus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de ingenerāre; engendrado, produzido; também adjetivo 'dotado por natureza'\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada admite leitura adjetival e funcional como particípio perfeito passivo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_14079:14079:1\",\"lemas\":[\"ingeniatus\"],\"lema_canonico\":\"ingeniatus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de ingenerāre; engendrado, produzido; também adjetivo 'dotado por natureza'\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada admite leitura adjetival e funcional como particípio perfeito passivo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:med\"]}"
   },
   {
     "id": "chunk_14080-e1",
@@ -2114,28 +1740,6 @@
     "raw_json": "{\"id\":\"chunk_14088:14088:5\",\"lemas\":[\"ingere\"],\"lema_canonico\":\"ingere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Forma imperativa possivelmente de ingerō (ou variante); entrada incerta, precisa confirmação.\",\"aliases\":[],\"exemplos\":[\"Catul. 27, 2\"],\"notas\":\"Reconstrução a partir do OCR; forma original incerta entre ingerō/ingĕrō; ver fontes primárias.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_14088-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_14088",
-    "page_num": 14088,
-    "lemmas": [
-      "ingenuus",
-      "ingenuus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "nativo, indígena; nascido livre; nobre, sincero, franco; (poét.) delicado, fraco",
-    "exemplos": [],
-    "notas": "Unificadas formas conforme LS/Whitaker/Lat→Deu; lema canônico masculino 'ingenuus'. | [dedupe] redirect → chunk_14085:14085:0 | [dedupe] redirect → chunk_14085:14085:0",
-    "raw_text": "{\"id\":\"chunk_14088:14088:0\",\"lemas\":[\"ingenuus\",\"ingenua\",\"ingenuum\"],\"lema_canonico\":\"ingenuus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"nativo, indígena; nascido livre; nobre, sincero, franco; (poét.) delicado, fraco\",\"aliases\":[],\"exemplos\":[\"Plaut. Mil. 632\",\"Cic. Br. 261\",\"Cic. Fin. 5, 48\",\"Ov. Trist. 1, 5, 72\"],\"notas\":\"Unificadas formas conforme LS/Whitaker/Lat→Deu; lema canônico masculino 'ingenuus'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_14088:14088:0\",\"lemas\":[\"ingenuus\",\"ingenua\",\"ingenuum\"],\"lema_canonico\":\"ingenuus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"nativo, indígena; nascido livre; nobre, sincero, franco; (poét.) delicado, fraco\",\"aliases\":[],\"exemplos\":[\"Plaut. Mil. 632\",\"Cic. Br. 261\",\"Cic. Fin. 5, 48\",\"Ov. Trist. 1, 5, 72\"],\"notas\":\"Unificadas formas conforme LS/Whitaker/Lat→Deu; lema canônico masculino 'ingenuus'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_14088-e4",
     "volume_id": "faria",
     "doc_name": "chunk_14088",
@@ -2156,28 +1760,6 @@
     "notas": "Reconstruído a partir do fragmento OCR; formas plurais e adv. relacionadas indicadas em fontes.",
     "raw_text": "{\"id\":\"chunk_14088:14088:1\",\"lemas\":[\"ingratus\",\"ingrata\",\"ingratum\"],\"lema_canonico\":\"ingratus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"desagradável; ingrato; que não demonstra gratidão\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Reconstruído a partir do fragmento OCR; formas plurais e adv. relacionadas indicadas em fontes.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_14088:14088:1\",\"lemas\":[\"ingratus\",\"ingrata\",\"ingratum\"],\"lema_canonico\":\"ingratus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"desagradável; ingrato; que não demonstra gratidão\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Reconstruído a partir do fragmento OCR; formas plurais e adv. relacionadas indicadas em fontes.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_14088-e5",
-    "volume_id": "faria",
-    "doc_name": "chunk_14088",
-    "page_num": 14088,
-    "lemmas": [
-      "ingrate",
-      "ingrate"
-    ],
-    "morfologia": "adv.",
-    "morph_render": "adv.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "de modo desagradável; sem prazer ou gratidão; ingraciosamente, ingratamente",
-    "exemplos": [],
-    "notas": "Forma advérbial 'ingrātē' atestada em LS/Whitaker; grafia latina regularizada. | [dedupe] redirect → chunk_14096:14096:0 | [dedupe] redirect → chunk_14096:14096:0",
-    "raw_text": "{\"id\":\"chunk_14088:14088:2\",\"lemas\":[\"ingrate\",\"ingrātē\"],\"lema_canonico\":\"ingrate\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"de modo desagradável; sem prazer ou gratidão; ingraciosamente, ingratamente\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma advérbial 'ingrātē' atestada em LS/Whitaker; grafia latina regularizada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_14088:14088:2\",\"lemas\":[\"ingrate\",\"ingrātē\"],\"lema_canonico\":\"ingrate\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"de modo desagradável; sem prazer ou gratidão; ingraciosamente, ingratamente\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma advérbial 'ingrātē' atestada em LS/Whitaker; grafia latina regularizada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_14088-e6",
@@ -2422,28 +2004,6 @@
     "raw_json": "{\"id\":\"chunk_14097:14097:1\",\"lemas\":[\"ingratiis\",\"ingratis\"],\"lema_canonico\":\"ingratiis\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"ablativo plural usado adverbialmente: 'de má vontade; contra a vontade; não voluntariamente; sem gratidão'.\",\"aliases\":[],\"exemplos\":[\"Cic. Tull. 5\"],\"notas\":\"Formas attestadas: ingrātĭīs / ingrātīs; normalizado para variantes gráficas latinas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_14098-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_14098",
-    "page_num": 14098,
-    "lemmas": [
-      "ingratus",
-      "ingratus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "1) desagradável, não acolhido com reconhecimento; 2) ingrato, sem gratidão; 3) insaciável (poét.)",
-    "exemplos": [],
-    "notas": "Harmonizado com Whitaker e Lat→Deu; sentidos e construção sintática confirmados por dicionários. | [dedupe] redirect → chunk_14088:14088:1 | [dedupe] redirect → chunk_14088:14088:1",
-    "raw_text": "{\"id\":\"chunk_14098:14098:0\",\"lemas\":[\"ingratus\",\"ingrata\",\"ingratum\"],\"lema_canonico\":\"ingratus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"1) desagradável, não acolhido com reconhecimento; 2) ingrato, sem gratidão; 3) insaciável (poét.)\",\"aliases\":[],\"exemplos\":[\"Cic. B. Gal. 7, 30, 1\",\"Cic. Nat. 1, 93\",\"Hor. Sat. 1, 2, 8\"],\"notas\":\"Harmonizado com Whitaker e Lat→Deu; sentidos e construção sintática confirmados por dicionários.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_14098:14098:0\",\"lemas\":[\"ingratus\",\"ingrata\",\"ingratum\"],\"lema_canonico\":\"ingratus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"1) desagradável, não acolhido com reconhecimento; 2) ingrato, sem gratidão; 3) insaciável (poét.)\",\"aliases\":[],\"exemplos\":[\"Cic. B. Gal. 7, 30, 1\",\"Cic. Nat. 1, 93\",\"Hor. Sat. 1, 2, 8\"],\"notas\":\"Harmonizado com Whitaker e Lat→Deu; sentidos e construção sintática confirmados por dicionários.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_14099-e1",
     "volume_id": "faria",
     "doc_name": "chunk_14099",
@@ -2596,28 +2156,6 @@
     "notas": "Morfologia padronizada para 4ª declinação (-ūs, m.); citações mantidas e normalizadas (Tac. Ann.).",
     "raw_text": "{\"id\":\"chunk_14105:14105:0\",\"lemas\":[\"ingressus\"],\"lema_canonico\":\"ingressus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"entrada, ingresso; entrada hostil, investida; passo, andamento; começo, início\",\"aliases\":[],\"exemplos\":[\"Tac. Ann. 15, 3\",\"Quint. 9, 4, 72\",\"Cic. Or. 1, 131\",\"Cic. Nat. 1, 94\"],\"notas\":\"Morfologia padronizada para 4ª declinação (-ūs, m.); citações mantidas e normalizadas (Tac. Ann.).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_14105:14105:0\",\"lemas\":[\"ingressus\"],\"lema_canonico\":\"ingressus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"entrada, ingresso; entrada hostil, investida; passo, andamento; começo, início\",\"aliases\":[],\"exemplos\":[\"Tac. Ann. 15, 3\",\"Quint. 9, 4, 72\",\"Cic. Or. 1, 131\",\"Cic. Nat. 1, 94\"],\"notas\":\"Morfologia padronizada para 4ª declinação (-ūs, m.); citações mantidas e normalizadas (Tac. Ann.).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_14106-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_14106",
-    "page_num": 14106,
-    "lemmas": [
-      "ingrŭo",
-      "ingrŭo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "forma perfeita (perf.) de ingruo; perfeito: ingrūī — avançar com ímpeto, cair sobre",
-    "exemplos": [],
-    "notas": "Entrada inclui forma perfeita explicitada; forma e significado confirmados por Whitaker/LS (entrada de perf.). | [dedupe] redirect → chunk_14107:14107:0 | [dedupe] redirect → chunk_14107:14107:0 | [ocr_fix 2025-08-17T19:49:15Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='ingruo' → 'ingrŭo'",
-    "raw_text": "{\"id\":\"chunk_14106:14106:0\",\"lemas\":[\"ingrui\",\"ingruo\"],\"lema_canonico\":\"ingruo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"forma perfeita (perf.) de ingruo; perfeito: ingrūī — avançar com ímpeto, cair sobre\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada inclui forma perfeita explicitada; forma e significado confirmados por Whitaker/LS (entrada de perf.).\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_14106:14106:0\",\"lemas\":[\"ingrui\",\"ingruo\"],\"lema_canonico\":\"ingruo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"forma perfeita (perf.) de ingruo; perfeito: ingrūī — avançar com ímpeto, cair sobre\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada inclui forma perfeita explicitada; forma e significado confirmados por Whitaker/LS (entrada de perf.).\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\",\"needs_review\"]}"
   },
   {
     "id": "chunk_14107-e1",
@@ -2860,28 +2398,6 @@
     "notas": "Normalizada da OCR 'inhaerētĭo'; não encontrada nas principais fontes consultadas",
     "raw_text": "{\"id\":\"chunk_14117:14117:0\",\"lemas\":[\"inhaeretio\"],\"lema_canonico\":\"inhaeretio\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"(possível) verbo intr.: demorar em, permanecer em — forma atípica; necessita verificação\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizada da OCR 'inhaerētĭo'; não encontrada nas principais fontes consultadas\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_14117:14117:0\",\"lemas\":[\"inhaeretio\"],\"lema_canonico\":\"inhaeretio\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"(possível) verbo intr.: demorar em, permanecer em — forma atípica; necessita verificação\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizada da OCR 'inhaerētĭo'; não encontrada nas principais fontes consultadas\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_14118-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_14118",
-    "page_num": 14118,
-    "lemmas": [
-      "inhaesus",
-      "inhaesus"
-    ],
-    "morfologia": "adj. (3) 1T",
-    "morph_render": "adj. (3) 1T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Particípio perfeito passivo de inhaerēre: aderido, preso; figuradamente: que persegue ou habita.",
-    "exemplos": [],
-    "notas": "Particípio confirmado por Whitaker; ligado ao verbo inhaereo/inhaerēre. | [dedupe] redirect → chunk_14120:14120:0 | [dedupe] redirect → chunk_14120:14120:0",
-    "raw_text": "{\"id\":\"chunk_14118:14118:0\",\"lemas\":[\"inhaesus\",\"inhaesa\",\"inhaesum\"],\"lema_canonico\":\"inhaesus\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo de inhaerēre: aderido, preso; figuradamente: que persegue ou habita.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Particípio confirmado por Whitaker; ligado ao verbo inhaereo/inhaerēre.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_14118:14118:0\",\"lemas\":[\"inhaesus\",\"inhaesa\",\"inhaesum\"],\"lema_canonico\":\"inhaesus\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo de inhaerēre: aderido, preso; figuradamente: que persegue ou habita.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Particípio confirmado por Whitaker; ligado ao verbo inhaereo/inhaerēre.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
   },
   {
     "id": "chunk_14119-e1",
@@ -3192,28 +2708,6 @@
     "raw_json": "{\"id\":\"chunk_14132:14132:0\",\"lemas\":[\"inhonsus\"],\"lema_canonico\":\"inhonsus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Sem honra; não respeitado; feio, disforme (aplicações atestadas em clássicos).\",\"aliases\":[],\"exemplos\":[\"Tac. Hist. 4, 62\",\"S. It. 10, 391\"],\"notas\":\"Forma não confirmada em principais léxicos consultados; mantida conforme primeira passada.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_14133-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_14133",
-    "page_num": 14133,
-    "lemmas": [
-      "inhorresco",
-      "inhorresco"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "to bristle, to shudder; to tremble, to be rough",
-    "exemplos": [],
-    "notas": "Principal parts inhorresco, inhorrescere, inhorrui; intr. in classical usage. | [dedupe] redirect → chunk_14134:14134:0 | [dedupe] redirect → chunk_14134:14134:0",
-    "raw_text": "{\"id\":\"chunk_14133:14133:0\",\"lemas\":[\"inhorresco\"],\"lema_canonico\":\"inhorresco\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"to bristle, to shudder; to tremble, to be rough\",\"aliases\":[],\"exemplos\":[\"T. Liv. 8, 8, 10\"],\"notas\":\"Principal parts inhorresco, inhorrescere, inhorrui; intr. in classical usage.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_14133:14133:0\",\"lemas\":[\"inhorresco\"],\"lema_canonico\":\"inhorresco\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"to bristle, to shudder; to tremble, to be rough\",\"aliases\":[],\"exemplos\":[\"T. Liv. 8, 8, 10\"],\"notas\":\"Principal parts inhorresco, inhorrescere, inhorrui; intr. in classical usage.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_14134-e1",
     "volume_id": "faria",
     "doc_name": "chunk_14134",
@@ -3478,28 +2972,6 @@
     "raw_json": "{\"id\":\"chunk_14144:14144:1\",\"lemas\":[\"inicio\",\"injicio\",\"inicere\"],\"lema_canonico\":\"inicio\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"(inicĭō, inicere) arrojar, lançar, pôr em/sobre/dentro; causar, infundir; lançar‑se (inicere se); tomar posse; fig. insinuar.\",\"aliases\":[],\"exemplos\":[\"Cic. Pis. 11, 26\",\"Liv. 40, 31, 9\",\"Ov. Met. 11, 770\",\"Cic. Cat. 3, 3, 7\"],\"notas\":\"Forma e variantes (injicio) confirmadas por Lewis & Short e Lat→Deu; morfologia dada como v. 3ª (-ere).\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_14145-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_14145",
-    "page_num": 14145,
-    "lemmas": [
-      "inicĭo",
-      "inicĭo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "lançar, atirar, pôr em, sobre ou dentro; lançar sobre; também lançar‑se (inicere se); inspirar, infundir; usado literal e figuradamente.",
-    "exemplos": [],
-    "notas": "Corrige leitura OCR e unifica variantes inicere/injicere segundo LS. | [dedupe] redirect → chunk_14144:14144:1 | [dedupe] redirect → chunk_14144:14144:1",
-    "raw_text": "{\"id\":\"chunk_14145:14145:0\",\"lemas\":[\"inicĭo\",\"injĭcĭo\"],\"lema_canonico\":\"inicĭo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"lançar, atirar, pôr em, sobre ou dentro; lançar sobre; também lançar‑se (inicere se); inspirar, infundir; usado literal e figuradamente.\",\"aliases\":[],\"exemplos\":[\"Plaut. Pers. 1, 2, 18\",\"Cic. Pis. 11, 26\",\"Liv. 40, 31, 9\",\"Plin. 18, 18, 48\",\"Quint. 6 praef. 3\",\"Ov. Met. 3, 389\",\"Caes. B. C. 2, 10\",\"Verg. A. 2, 408\",\"Cic. Dom. 24, 64\",\"Ter. And. 1, 1, 113\"],\"notas\":\"Corrige leitura OCR e unifica variantes inicere/injicere segundo LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_14145:14145:0\",\"lemas\":[\"inicĭo\",\"injĭcĭo\"],\"lema_canonico\":\"inicĭo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"lançar, atirar, pôr em, sobre ou dentro; lançar sobre; também lançar‑se (inicere se); inspirar, infundir; usado literal e figuradamente.\",\"aliases\":[],\"exemplos\":[\"Plaut. Pers. 1, 2, 18\",\"Cic. Pis. 11, 26\",\"Liv. 40, 31, 9\",\"Plin. 18, 18, 48\",\"Quint. 6 praef. 3\",\"Ov. Met. 3, 389\",\"Caes. B. C. 2, 10\",\"Verg. A. 2, 408\",\"Cic. Dom. 24, 64\",\"Ter. And. 1, 1, 113\"],\"notas\":\"Corrige leitura OCR e unifica variantes inicere/injicere segundo LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_14146-e1",
     "volume_id": "faria",
     "doc_name": "chunk_14146",
@@ -3520,28 +2992,6 @@
     "notas": "Verbos apresentados a partir do infinitivo canônico; acolhe variante injicio/inicio (LS/Whitaker).",
     "raw_text": "{\"id\":\"chunk_14146:14146:0\",\"lemas\":[\"inicere\",\"injicere\"],\"lema_canonico\":\"inicere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Lançar, pôr dentro ou sobre; trans.: ocasionar, inspirar, incitar; reflex.: lançar-se, precipitar-se.\",\"aliases\":[],\"exemplos\":[\"Varr. R.R. 5, 2\",\"Sen. Ep. 103, 2\"],\"notas\":\"Verbos apresentados a partir do infinitivo canônico; acolhe variante injicio/inicio (LS/Whitaker).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_14146:14146:0\",\"lemas\":[\"inicere\",\"injicere\"],\"lema_canonico\":\"inicere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Lançar, pôr dentro ou sobre; trans.: ocasionar, inspirar, incitar; reflex.: lançar-se, precipitar-se.\",\"aliases\":[],\"exemplos\":[\"Varr. R.R. 5, 2\",\"Sen. Ep. 103, 2\"],\"notas\":\"Verbos apresentados a partir do infinitivo canônico; acolhe variante injicio/inicio (LS/Whitaker).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_14147-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_14147",
-    "page_num": 14147,
-    "lemmas": [
-      "inicere",
-      "inicere"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "lançar, arremessar para dentro/em cima; pôr sobre; instilar; também 'lançar-se' (inicere se).",
-    "exemplos": [],
-    "notas": "Lema e formas perfeitas (injēcī, iniectum/injectus) confirmadas em Lewis & Short; variante inicio/injicio registrada. | [dedupe] redirect → chunk_14146:14146:0 | [dedupe] redirect → chunk_14146:14146:0",
-    "raw_text": "{\"id\":\"chunk_14147:14147:0\",\"lemas\":[\"inicere\",\"inicio\",\"injicio\",\"injicere\"],\"lema_canonico\":\"inicere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"lançar, arremessar para dentro/em cima; pôr sobre; instilar; também 'lançar-se' (inicere se).\",\"aliases\":[],\"exemplos\":[\"Cic. Pis. 11, 26\",\"Liv. 40, 31, 9\"],\"notas\":\"Lema e formas perfeitas (injēcī, iniectum/injectus) confirmadas em Lewis & Short; variante inicio/injicio registrada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_14147:14147:0\",\"lemas\":[\"inicere\",\"inicio\",\"injicio\",\"injicere\"],\"lema_canonico\":\"inicere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"lançar, arremessar para dentro/em cima; pôr sobre; instilar; também 'lançar-se' (inicere se).\",\"aliases\":[],\"exemplos\":[\"Cic. Pis. 11, 26\",\"Liv. 40, 31, 9\"],\"notas\":\"Lema e formas perfeitas (injēcī, iniectum/injectus) confirmadas em Lewis & Short; variante inicio/injicio registrada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_14148-e1",
@@ -3808,28 +3258,6 @@
     "raw_json": "{\"id\":\"chunk_14159:14159:0\",\"lemas\":[\"initio\",\"initiō\"],\"lema_canonico\":\"initio\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"iniciare: iniciar, começar; também 'iniciar/introduzir em ritos secretos, consagrar', e figuradamente 'instruir, iniciar em estudos'\",\"aliases\":[],\"exemplos\":[\"Cic. Leg. 2, 37\",\"Quint. 1, 2, 20\"],\"notas\":\"Verbos e substantivo homógrafo; grafia normalizada sem macron para lema_canonico.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_14160-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_14160",
-    "page_num": 14160,
-    "lemmas": [
-      "initium",
-      "initium"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "início, começo; começo de ação/ocorrência; também: princípios, origem; cerimónia de iniciação, mistérios religiosos; auspícios.",
-    "exemplos": [],
-    "notas": "Harmonizado com Lewis & Short e Whitaker; plural como 'princípios' e sentidos cultuais mantidos. | [dedupe] redirect → chunk_14156:14156:0 | [dedupe] redirect → chunk_14156:14156:0",
-    "raw_text": "{\"id\":\"chunk_14160:14160:0\",\"lemas\":[\"initium\"],\"lema_canonico\":\"initium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"início, começo; começo de ação/ocorrência; também: princípios, origem; cerimónia de iniciação, mistérios religiosos; auspícios.\",\"aliases\":[],\"exemplos\":[\"Cés. B. Gal. 1, 43, 9\",\"Cic. Ac. 2, 36, 116\",\"Cic. Ac. 2, 29\",\"Curt. 5, 9, 4\",\"Cic. Leg. 2, 14, 36\"],\"notas\":\"Harmonizado com Lewis & Short e Whitaker; plural como 'princípios' e sentidos cultuais mantidos.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_14160:14160:0\",\"lemas\":[\"initium\"],\"lema_canonico\":\"initium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"início, começo; começo de ação/ocorrência; também: princípios, origem; cerimónia de iniciação, mistérios religiosos; auspícios.\",\"aliases\":[],\"exemplos\":[\"Cés. B. Gal. 1, 43, 9\",\"Cic. Ac. 2, 36, 116\",\"Cic. Ac. 2, 29\",\"Curt. 5, 9, 4\",\"Cic. Leg. 2, 14, 36\"],\"notas\":\"Harmonizado com Lewis & Short e Whitaker; plural como 'princípios' e sentidos cultuais mantidos.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_14161-e1",
     "volume_id": "faria",
     "doc_name": "chunk_14161",
@@ -3896,28 +3324,6 @@
     "raw_json": "{\"id\":\"chunk_14163:14163:0\",\"lemas\":[\"ineō\",\"inīre\",\"inīvī\",\"iniī\"],\"lema_canonico\":\"ineō\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"ir para dentro; entrar, começar, empreender; (perfectum) inīvī/iniī, formas do perfeito de inīre/ineō.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Perfeito atestado como inīvī com variante sincopada iniī; normalizado o infinitivo canônico inīre/ineō.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_14164-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_14164",
-    "page_num": 14164,
-    "lemmas": [
-      "injicio",
-      "injicio"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "injicere: lançar para dentro; infundir, introduzir; 'injēcī' = 1ª p. sg. perf. de injicio",
-    "exemplos": [],
-    "notas": "Entrada da primeira passada tratada como forma perfeita; lema apresentado em infinitivo. | [dedupe] redirect → chunk_14063:14063:0 | [dedupe] redirect → chunk_14063:14063:0",
-    "raw_text": "{\"id\":\"chunk_14164:14164:0\",\"lemas\":[\"injicio\"],\"lema_canonico\":\"injicio\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"injicere: lançar para dentro; infundir, introduzir; 'injēcī' = 1ª p. sg. perf. de injicio\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada da primeira passada tratada como forma perfeita; lema apresentado em infinitivo.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_14164:14164:0\",\"lemas\":[\"injicio\"],\"lema_canonico\":\"injicio\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"injicere: lançar para dentro; infundir, introduzir; 'injēcī' = 1ª p. sg. perf. de injicio\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada da primeira passada tratada como forma perfeita; lema apresentado em infinitivo.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_14165-e1",
     "volume_id": "faria",
     "doc_name": "chunk_14165",
@@ -3938,28 +3344,6 @@
     "notas": "Sintetizado a partir de LS e Whitaker; forma e declinação normalizadas.",
     "raw_text": "{\"id\":\"chunk_14165:14165:0\",\"lemas\":[\"injectio\",\"injectiō\"],\"lema_canonico\":\"injectio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Ação de lançar para dentro ou sobre; aplicação por lançamento (p.ex. enema, laying-on; manus injectio = posse); sentido transferido: sugestão, instigação.\",\"aliases\":[],\"exemplos\":[\"Quint. 7, 7, 9\",\"Dig. 2, 4, 10\",\"Cael. Aur. Tard. 5, 4, 69\"],\"notas\":\"Sintetizado a partir de LS e Whitaker; forma e declinação normalizadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_14165:14165:0\",\"lemas\":[\"injectio\",\"injectiō\"],\"lema_canonico\":\"injectio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Ação de lançar para dentro ou sobre; aplicação por lançamento (p.ex. enema, laying-on; manus injectio = posse); sentido transferido: sugestão, instigação.\",\"aliases\":[],\"exemplos\":[\"Quint. 7, 7, 9\",\"Dig. 2, 4, 10\",\"Cael. Aur. Tard. 5, 4, 69\"],\"notas\":\"Sintetizado a partir de LS e Whitaker; forma e declinação normalizadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_14166-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_14166",
-    "page_num": 14166,
-    "lemmas": [
-      "injicio",
-      "injicio"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "lançar para dentro, introduzir; lançar sobre; transferir sentido de infundir/inspirar; substantivo relacionado: injectio (lançamento, imposição da mão; injeção médica).",
-    "exemplos": [],
-    "notas": "Entrada dupla verbo/substantivo mantida; substantivo 'injectio' apontado em definição (LS/Whitaker). | [dedupe] redirect → chunk_14063:14063:0 | [dedupe] redirect → chunk_14063:14063:0",
-    "raw_text": "{\"id\":\"chunk_14166:14166:0\",\"lemas\":[\"injicio\",\"injectio\"],\"lema_canonico\":\"injicio\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"lançar para dentro, introduzir; lançar sobre; transferir sentido de infundir/inspirar; substantivo relacionado: injectio (lançamento, imposição da mão; injeção médica).\",\"aliases\":[],\"exemplos\":[\"Luc. 3, 611\"],\"notas\":\"Entrada dupla verbo/substantivo mantida; substantivo 'injectio' apontado em definição (LS/Whitaker).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_14166:14166:0\",\"lemas\":[\"injicio\",\"injectio\"],\"lema_canonico\":\"injicio\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"lançar para dentro, introduzir; lançar sobre; transferir sentido de infundir/inspirar; substantivo relacionado: injectio (lançamento, imposição da mão; injeção médica).\",\"aliases\":[],\"exemplos\":[\"Luc. 3, 611\"],\"notas\":\"Entrada dupla verbo/substantivo mantida; substantivo 'injectio' apontado em definição (LS/Whitaker).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_14167-e1",
@@ -4004,74 +3388,6 @@
     "notas": "Noun formed from injicio/inicio; gen. -ūs (4th decl.).",
     "raw_text": "{\"id\":\"chunk_14168:14168:0\",\"lemas\":[\"injectus\"],\"lema_canonico\":\"injectus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"a throwing on or over; a casting or putting on; the action of throwing upon\",\"aliases\":[],\"exemplos\":[\"Tac. Ann. 6, 50\"],\"notas\":\"Noun formed from injicio/inicio; gen. -ūs (4th decl.).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_14168:14168:0\",\"lemas\":[\"injectus\"],\"lema_canonico\":\"injectus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"a throwing on or over; a casting or putting on; the action of throwing upon\",\"aliases\":[],\"exemplos\":[\"Tac. Ann. 6, 50\"],\"notas\":\"Noun formed from injicio/inicio; gen. -ūs (4th decl.).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_14168-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_14168",
-    "page_num": 14168,
-    "lemmas": [
-      "injicio",
-      "injicio"
-    ],
-    "morfologia": "v. 3ª -iō (-ere)",
-    "morph_render": "v. 3ª -iō (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "to throw or cast in/on/into; to put on; to infuse or inspire; to cause",
-    "exemplos": [],
-    "notas": "Recorded variants (inicio/inicere) are orthographic/confusion; principal parts per Lewis & Short/Whitaker. | [dedupe] redirect → chunk_14063:14063:0 | [dedupe] redirect → chunk_14063:14063:0",
-    "raw_text": "{\"id\":\"chunk_14168:14168:1\",\"lemas\":[\"injicio\",\"injicere\",\"injeci\",\"injectus\"],\"lema_canonico\":\"injicio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"to throw or cast in/on/into; to put on; to infuse or inspire; to cause\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Recorded variants (inicio/inicere) are orthographic/confusion; principal parts per Lewis & Short/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_14168:14168:1\",\"lemas\":[\"injicio\",\"injicere\",\"injeci\",\"injectus\"],\"lema_canonico\":\"injicio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"to throw or cast in/on/into; to put on; to infuse or inspire; to cause\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Recorded variants (inicio/inicere) are orthographic/confusion; principal parts per Lewis & Short/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_14168-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_14168",
-    "page_num": 14168,
-    "lemmas": [
-      "injectus",
-      "injectus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "perfect passive participle of injicio: thrown in/on; used adjectivally",
-    "exemplos": [],
-    "notas": "Participle form attested; treated adjectivally in usage. | [dedupe] redirect → chunk_14167:14167:0 | [dedupe] redirect → chunk_14167:14167:0",
-    "raw_text": "{\"id\":\"chunk_14168:14168:2\",\"lemas\":[\"injectus\"],\"lema_canonico\":\"injectus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"perfect passive participle of injicio: thrown in/on; used adjectivally\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Participle form attested; treated adjectivally in usage.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_14168:14168:2\",\"lemas\":[\"injectus\"],\"lema_canonico\":\"injectus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"perfect passive participle of injicio: thrown in/on; used adjectivally\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Participle form attested; treated adjectivally in usage.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_14169-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_14169",
-    "page_num": 14169,
-    "lemmas": [
-      "injicio",
-      "injicio"
-    ],
-    "morfologia": "v. 3ª -iō (-ere), tr.",
-    "morph_render": "v. 3ª -iō (-ere), tr.",
-    "morph_extra": [
-      "tr."
-    ],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "lançar, meter em/ sobre; pôr, aplicar; figuradamente: incutir, causar, insinuar.",
-    "exemplos": [],
-    "notas": "Normalizada a forma deverbativa como injicio (variante inicio atestada). Supino: injectum. | [dedupe] redirect → chunk_14063:14063:0 | [dedupe] redirect → chunk_14063:14063:0",
-    "raw_text": "{\"id\":\"chunk_14169:14169:0\",\"lemas\":[\"injicio\",\"inicio\"],\"lema_canonico\":\"injicio\",\"morfologia\":\"v. 3ª -iō (-ere), tr.\",\"morph_extra\":[],\"definicao\":\"lançar, meter em/ sobre; pôr, aplicar; figuradamente: incutir, causar, insinuar.\",\"aliases\":[],\"exemplos\":[\"Cic. Dom. 60, 61\",\"Cic. Verr. 5, 106, 1\",\"Cic. Rep. 26\",\"Cic. Nat. 1, 54\"],\"notas\":\"Normalizada a forma deverbativa como injicio (variante inicio atestada). Supino: injectum.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_14169:14169:0\",\"lemas\":[\"injicio\",\"inicio\"],\"lema_canonico\":\"injicio\",\"morfologia\":\"v. 3ª -iō (-ere), tr.\",\"morph_extra\":[],\"definicao\":\"lançar, meter em/ sobre; pôr, aplicar; figuradamente: incutir, causar, insinuar.\",\"aliases\":[],\"exemplos\":[\"Cic. Dom. 60, 61\",\"Cic. Verr. 5, 106, 1\",\"Cic. Rep. 26\",\"Cic. Nat. 1, 54\"],\"notas\":\"Normalizada a forma deverbativa como injicio (variante inicio atestada). Supino: injectum.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_14170-e1",
@@ -4226,28 +3542,6 @@
     "notas": "Particípio/adjetivo atestado como 'injuratus' em fontes tardias; interpretação legalizada.",
     "raw_text": "{\"id\":\"chunk_14176:14176:0\",\"lemas\":[\"injuratus\",\"injurata\",\"injuratum\"],\"lema_canonico\":\"injuratus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"não jurado; sem juramento (também: ‘unsworn’ em contextos legais).\",\"aliases\":[],\"exemplos\":[\"Cic. Caes. 3\"],\"notas\":\"Particípio/adjetivo atestado como 'injuratus' em fontes tardias; interpretação legalizada.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_14176:14176:0\",\"lemas\":[\"injuratus\",\"injurata\",\"injuratum\"],\"lema_canonico\":\"injuratus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"não jurado; sem juramento (também: ‘unsworn’ em contextos legais).\",\"aliases\":[],\"exemplos\":[\"Cic. Caes. 3\"],\"notas\":\"Particípio/adjetivo atestado como 'injuratus' em fontes tardias; interpretação legalizada.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_14177-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_14177",
-    "page_num": 14177,
-    "lemmas": [
-      "injūrĭa",
-      "injūria"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "injustiça, dano ou ofensa; também insulto, abuso; ocasionalmente rigor ou severidade.",
-    "exemplos": [],
-    "notas": "Inclui variante grafada iniuria; abl. injuriā atestado com valor adverbial. | [dedupe] redirect → chunk_14178:14178:0 | [dedupe] redirect → chunk_14178:14178:0 | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='injūria' → 'injūrĭa'",
-    "raw_text": "{\"id\":\"chunk_14177:14177:0\",\"lemas\":[\"injūria\",\"iniuria\"],\"lema_canonico\":\"injūria\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"injustiça, dano ou ofensa; também insulto, abuso; ocasionalmente rigor ou severidade.\",\"aliases\":[],\"exemplos\":[\"Cic. Rep. 3, 23\",\"Cic. Caes. 35\",\"Plin. H. Nat. 13, 13\",\"Cic. Mil. 57\"],\"notas\":\"Inclui variante grafada iniuria; abl. injuriā atestado com valor adverbial.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_14177:14177:0\",\"lemas\":[\"injūria\",\"iniuria\"],\"lema_canonico\":\"injūria\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"injustiça, dano ou ofensa; também insulto, abuso; ocasionalmente rigor ou severidade.\",\"aliases\":[],\"exemplos\":[\"Cic. Rep. 3, 23\",\"Cic. Caes. 35\",\"Plin. H. Nat. 13, 13\",\"Cic. Mil. 57\"],\"notas\":\"Inclui variante grafada iniuria; abl. injuriā atestado com valor adverbial.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_14178-e1",
@@ -4448,50 +3742,6 @@
     "raw_json": "{\"id\":\"chunk_14185:14185:0\",\"lemas\":[\"injustus\",\"injusta\",\"injustum\"],\"lema_canonico\":\"injustus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"contrário ao direito e à justiça; também: excessivo, desmedido\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 5, 17, 11\",\"Cic. Or. 35\"],\"notas\":\"Forma e sentidos confirmados por Whitaker e Lewis & Short.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_14186-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_14186",
-    "page_num": 14186,
-    "lemmas": [
-      "ineo",
-      "ineo"
-    ],
-    "morfologia": "v. 4ª (-īre)",
-    "morph_render": "v. 4ª (-īre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "inīre/ineō: entrar, começar, iniciar, empreender; initus: particípio/perfectum passive e também substantivo ‘início’",
-    "exemplos": [],
-    "notas": "Padronizado com ineo/inire/initus; participial value marcado; avultam variantes iniī/inīvī — confirmado em Lat→Deu e Whitaker | [dedupe] redirect → chunk_14163:14163:0 | [dedupe] redirect → chunk_14163:14163:0",
-    "raw_text": "{\"id\":\"chunk_14186:14186:0\",\"lemas\":[\"ineo\",\"inire\",\"initus\"],\"lema_canonico\":\"ineo\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"inīre/ineō: entrar, começar, iniciar, empreender; initus: particípio/perfectum passive e também substantivo ‘início’\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Padronizado com ineo/inire/initus; participial value marcado; avultam variantes iniī/inīvī — confirmado em Lat→Deu e Whitaker\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_14186:14186:0\",\"lemas\":[\"ineo\",\"inire\",\"initus\"],\"lema_canonico\":\"ineo\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"inīre/ineō: entrar, começar, iniciar, empreender; initus: particípio/perfectum passive e também substantivo ‘início’\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Padronizado com ineo/inire/initus; participial value marcado; avultam variantes iniī/inīvī — confirmado em Lat→Deu e Whitaker\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_14186-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_14186",
-    "page_num": 14186,
-    "lemmas": [
-      "ineo",
-      "ineo"
-    ],
-    "morfologia": "v. 4ª (-īre)",
-    "morph_render": "v. 4ª (-īre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "ire prefixed verb 'ineō, inīre, iniī, initum': entrar, penetrar; começar, iniciar, empreender; contrair, celebrar (pactum), assumir (officium).",
-    "exemplos": [],
-    "notas": "Normalizado a partir de OCR truncado 'inī'; suporte em Lat→Deu e Whitaker. | [dedupe] redirect → chunk_14163:14163:0 | [dedupe] redirect → chunk_14163:14163:0",
-    "raw_text": "{\"id\":\"chunk_14186:14186:1\",\"lemas\":[\"ineo\",\"inire\"],\"lema_canonico\":\"ineo\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"ire prefixed verb 'ineō, inīre, iniī, initum': entrar, penetrar; começar, iniciar, empreender; contrair, celebrar (pactum), assumir (officium).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizado a partir de OCR truncado 'inī'; suporte em Lat→Deu e Whitaker.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_14186:14186:1\",\"lemas\":[\"ineo\",\"inire\"],\"lema_canonico\":\"ineo\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"ire prefixed verb 'ineō, inīre, iniī, initum': entrar, penetrar; começar, iniciar, empreender; contrair, celebrar (pactum), assumir (officium).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizado a partir de OCR truncado 'inī'; suporte em Lat→Deu e Whitaker.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_14187-e1",
     "volume_id": "faria",
     "doc_name": "chunk_14187",
@@ -4580,28 +3830,6 @@
     "raw_json": "{\"id\":\"chunk_14189:14189:0\",\"lemas\":[\"innato\"],\"lema_canonico\":\"innato\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"Nadar em, flutuar sobre; navegar, atravessar nadando.\",\"aliases\":[],\"exemplos\":[\"Verg. G. 2, 451\",\"Cic. Nat. 2, 123\"],\"notas\":\"Verificado como verbo (innāre) em Whitaker e Lat→Deu; também atesta uso adjetival, mas aqui tratado como verbo.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_14190-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_14190",
-    "page_num": 14190,
-    "lemmas": [
-      "innatus",
-      "innatus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Particípio perfeito passivo de innascor; nascido, inato, natural.",
-    "exemplos": [],
-    "notas": "Corrigido e confirmado com LS/Whitaker/Lat→Deu; entrada dupla (adj./PPP) consolidada. | [dedupe] redirect → chunk_14188:14188:1 | [dedupe] redirect → chunk_14188:14188:1",
-    "raw_text": "{\"id\":\"chunk_14190:14190:0\",\"lemas\":[\"innatus\",\"innata\",\"innatum\"],\"lema_canonico\":\"innatus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo de innascor; nascido, inato, natural.\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 3, 2\"],\"notas\":\"Corrigido e confirmado com LS/Whitaker/Lat→Deu; entrada dupla (adj./PPP) consolidada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_14190:14190:0\",\"lemas\":[\"innatus\",\"innata\",\"innatum\"],\"lema_canonico\":\"innatus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo de innascor; nascido, inato, natural.\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 3, 2\"],\"notas\":\"Corrigido e confirmado com LS/Whitaker/Lat→Deu; entrada dupla (adj./PPP) consolidada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_14191-e1",
     "volume_id": "faria",
     "doc_name": "chunk_14191",
@@ -4644,28 +3872,6 @@
     "notas": "Agrupadas forma verbal (innecto) e substantiva (innexio); verificados em Whitaker e evidências lexicais",
     "raw_text": "{\"id\":\"chunk_14192:14192:0\",\"lemas\":[\"innecto\",\"innexio\"],\"lema_canonico\":\"innecto\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"innecto (v.): ligar, enlaçar, amarrar; innexio (s.): ação ou resultado de innectere, atadura, ligação\",\"aliases\":[],\"exemplos\":[\"Ov. Trist. 5, 3, 3\",\"Tac. Ann. 3, 301\"],\"notas\":\"Agrupadas forma verbal (innecto) e substantiva (innexio); verificados em Whitaker e evidências lexicais\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_14192:14192:0\",\"lemas\":[\"innecto\",\"innexio\"],\"lema_canonico\":\"innecto\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"innecto (v.): ligar, enlaçar, amarrar; innexio (s.): ação ou resultado de innectere, atadura, ligação\",\"aliases\":[],\"exemplos\":[\"Ov. Trist. 5, 3, 3\",\"Tac. Ann. 3, 301\"],\"notas\":\"Agrupadas forma verbal (innecto) e substantiva (innexio); verificados em Whitaker e evidências lexicais\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_14193-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_14193",
-    "page_num": 14193,
-    "lemmas": [
-      "innecto",
-      "innecto"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Ligar, atar, entretecer; innecto, innectere, innexuī/innexi?, innexus.",
-    "exemplos": [],
-    "notas": "Lematizado como innecto (cf. Whitaker, Lat→Deu); perfeito atestado como innexuī (var. recensida como innexi em algumas fontes). | [dedupe] redirect → chunk_14192:14192:0 | [dedupe] redirect → chunk_14192:14192:0",
-    "raw_text": "{\"id\":\"chunk_14193:14193:0\",\"lemas\":[\"innecto\"],\"lema_canonico\":\"innecto\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"Ligar, atar, entretecer; innecto, innectere, innexuī/innexi?, innexus.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Lematizado como innecto (cf. Whitaker, Lat→Deu); perfeito atestado como innexuī (var. recensida como innexi em algumas fontes).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_14193:14193:0\",\"lemas\":[\"innecto\"],\"lema_canonico\":\"innecto\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"Ligar, atar, entretecer; innecto, innectere, innexuī/innexi?, innexus.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Lematizado como innecto (cf. Whitaker, Lat→Deu); perfeito atestado como innexuī (var. recensida como innexi em algumas fontes).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"conf:high\"]}"
   },
   {
     "id": "chunk_14194-e1",
@@ -4754,28 +3960,6 @@
     "notas": "Normalizado para o infinitivo clássico innāre; preservadas valências intr./tr. atestadas.",
     "raw_text": "{\"id\":\"chunk_14197:14197:0\",\"lemas\":[\"innāre\",\"inno\"],\"lema_canonico\":\"innāre\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"intr.\",\"tr.\"],\"definicao\":\"nadar em/por; flutuar; desaguar em; atravessar a nado (intr. e tr.)\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 2, 100\",\"Hor. O. 3, 17, 7\",\"Verg. En. 6, 134\"],\"notas\":\"Normalizado para o infinitivo clássico innāre; preservadas valências intr./tr. atestadas.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_14197:14197:0\",\"lemas\":[\"innāre\",\"inno\"],\"lema_canonico\":\"innāre\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"intr.\",\"tr.\"],\"definicao\":\"nadar em/por; flutuar; desaguar em; atravessar a nado (intr. e tr.)\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 2, 100\",\"Hor. O. 3, 17, 7\",\"Verg. En. 6, 134\"],\"notas\":\"Normalizado para o infinitivo clássico innāre; preservadas valências intr./tr. atestadas.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_14197-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_14197",
-    "page_num": 14197,
-    "lemmas": [
-      "innocēns",
-      "innocēns"
-    ],
-    "morfologia": "adj. (3) 1T",
-    "morph_render": "adj. (3) 1T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "inocente, inofensivo; íntegro, sem mácula",
-    "exemplos": [],
-    "notas": "Cabeçalho no OCR sem definição; entrada completada a partir de dicionários externos. | [dedupe] redirect → chunk_14198:14198:0 | [dedupe] redirect → chunk_14198:14198:0",
-    "raw_text": "{\"id\":\"chunk_14197:14197:1\",\"lemas\":[\"innocēns\",\"innocens\"],\"lema_canonico\":\"innocēns\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[],\"definicao\":\"inocente, inofensivo; íntegro, sem mácula\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Cabeçalho no OCR sem definição; entrada completada a partir de dicionários externos.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_14197:14197:1\",\"lemas\":[\"innocēns\",\"innocens\"],\"lema_canonico\":\"innocēns\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[],\"definicao\":\"inocente, inofensivo; íntegro, sem mácula\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Cabeçalho no OCR sem definição; entrada completada a partir de dicionários externos.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_14198-e1",

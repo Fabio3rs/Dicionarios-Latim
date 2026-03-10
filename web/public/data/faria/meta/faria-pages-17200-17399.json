@@ -22,28 +22,6 @@
     "raw_json": "{\"id\":\"chunk_17200:17200:0\",\"lemas\":[\"mirmillo\",\"murmillo\",\"myrmillo\"],\"lema_canonico\":\"mirmillo\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"tipo de gladiador que usava galea de modelo gálico com figura de peixe no capacete; frequentemente enfrentava retiarius ou thrēx\",\"aliases\":[],\"exemplos\":[\"Cic. Phil. 3, 12\",\"Cic. Phil. 3, 31\",\"Quint. 6, 3, 61\",\"Sen. Prov. 4, 4\",\"Suet. Ner. 30\"],\"notas\":\"Inclui variantes orthográficas atestadas (murmillo, myrmillo).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_17201-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_17201",
-    "page_num": 17201,
-    "lemmas": [
-      "mīror",
-      "mīror"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "to wonder, be amazed; (trans.) to admire, regard with wonder",
-    "exemplos": [],
-    "notas": "Entrada alinhada com Lewis & Short; marcada como deponente. | [dedupe] redirect → chunk_17195:17195:1 | [dedupe] redirect → chunk_17195:17195:1",
-    "raw_text": "{\"id\":\"chunk_17201:17201:0\",\"lemas\":[\"mīror\",\"mīrārī\"],\"lema_canonico\":\"mīror\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"to wonder, be amazed; (trans.) to admire, regard with wonder\",\"aliases\":[],\"exemplos\":[\"Cic. Fin. 4, 39\",\"Verg. Aen. 1, 126\",\"Cic. Inv. 2, 2\",\"Lucr. 2, 1029\"],\"notas\":\"Entrada alinhada com Lewis & Short; marcada como deponente.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_17201:17201:0\",\"lemas\":[\"mīror\",\"mīrārī\"],\"lema_canonico\":\"mīror\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"to wonder, be amazed; (trans.) to admire, regard with wonder\",\"aliases\":[],\"exemplos\":[\"Cic. Fin. 4, 39\",\"Verg. Aen. 1, 126\",\"Cic. Inv. 2, 2\",\"Lucr. 2, 1029\"],\"notas\":\"Entrada alinhada com Lewis & Short; marcada como deponente.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_17202-e1",
     "volume_id": "faria",
     "doc_name": "chunk_17202",
@@ -152,50 +130,6 @@
     "notas": "Corrigido de forma perifrástica (first_pass dava o perfeito miscui); lema normalizado para o infinitivo miscēre (misceō).",
     "raw_text": "{\"id\":\"chunk_17206:17206:0\",\"lemas\":[\"misceo\",\"miscere\"],\"lema_canonico\":\"miscere\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"misturar, juntar; (perfeito: miscui)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigido de forma perifrástica (first_pass dava o perfeito miscui); lema normalizado para o infinitivo miscēre (misceō).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_17206:17206:0\",\"lemas\":[\"misceo\",\"miscere\"],\"lema_canonico\":\"miscere\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"misturar, juntar; (perfeito: miscui)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigido de forma perifrástica (first_pass dava o perfeito miscui); lema normalizado para o infinitivo miscēre (misceō).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_17207-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_17207",
-    "page_num": 17207,
-    "lemmas": [
-      "misellus",
-      "misellus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "diminutivo de miser: pobre, miserável; usado também como substantivo: um coitado, pobre sujeito",
-    "exemplos": [],
-    "notas": "Normalizado forma adjetival e coletadas variantes; Plauto citado conforme LS (Rud. 2,6,65). | [dedupe] redirect → chunk_17204:17204:0 | [dedupe] redirect → chunk_17204:17204:0",
-    "raw_text": "{\"id\":\"chunk_17207:17207:0\",\"lemas\":[\"misellus\",\"misella\",\"misellum\"],\"lema_canonico\":\"misellus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"diminutivo de miser: pobre, miserável; usado também como substantivo: um coitado, pobre sujeito\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 3, 23, 6\",\"Plaut. Rud. 2, 6, 65\",\"Juv. 13, 213\"],\"notas\":\"Normalizado forma adjetival e coletadas variantes; Plauto citado conforme LS (Rud. 2,6,65).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_17207:17207:0\",\"lemas\":[\"misellus\",\"misella\",\"misellum\"],\"lema_canonico\":\"misellus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"diminutivo de miser: pobre, miserável; usado também como substantivo: um coitado, pobre sujeito\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 3, 23, 6\",\"Plaut. Rud. 2, 6, 65\",\"Juv. 13, 213\"],\"notas\":\"Normalizado forma adjetival e coletadas variantes; Plauto citado conforme LS (Rud. 2,6,65).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_17208-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_17208",
-    "page_num": 17208,
-    "lemmas": [
-      "Mīsēnum",
-      "Mīsēnum"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Promontório, cidade e porto em Campânia (Moderno Punta di Miseno); também forma relacionada Mīsēnus, personagem mitológico.",
-    "exemplos": [],
-    "notas": "Normalizado conforme Lewis & Short; incluídas variantes atestadas. | [dedupe] redirect → chunk_17209:17209:0 | [dedupe] redirect → chunk_17209:17209:0 | [ocr_fix 2025-08-17T19:58:48Z] match direto em LS por lemma/lemma_norm | lemma_in='Mīsēnum' → 'Mīsēnum'",
-    "raw_text": "{\"id\":\"chunk_17208:17208:0\",\"lemas\":[\"Mīsēnum\",\"Mīsēnus\",\"Mīsēna\"],\"lema_canonico\":\"Mīsēnum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Promontório, cidade e porto em Campânia (Moderno Punta di Miseno); também forma relacionada Mīsēnus, personagem mitológico.\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 2, 14, 60\",\"Verg. A. 6, 162\"],\"notas\":\"Normalizado conforme Lewis & Short; incluídas variantes atestadas.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_17208:17208:0\",\"lemas\":[\"Mīsēnum\",\"Mīsēnus\",\"Mīsēna\"],\"lema_canonico\":\"Mīsēnum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Promontório, cidade e porto em Campânia (Moderno Punta di Miseno); também forma relacionada Mīsēnus, personagem mitológico.\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 2, 14, 60\",\"Verg. A. 6, 162\"],\"notas\":\"Normalizado conforme Lewis & Short; incluídas variantes atestadas.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
     "id": "chunk_17209-e1",
@@ -440,28 +374,6 @@
     "raw_json": "{\"id\":\"chunk_17217:17217:1\",\"lemas\":[\"misereor\",\"miseror\",\"misĕro\"],\"lema_canonico\":\"misereor\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"Compadecer-se; lamentar, mostrar compaixão (verbo deponente). Variante colateral attested: mĭsĕro (act. collat.).\",\"aliases\":[],\"exemplos\":[\"Lucr. 3, 881\",\"Cic. Inv. 1, 48\"],\"notas\":\"Normalizado para misereor (deponente); incluiu variantes atestadas (miseror, mĭsĕro).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_17218-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_17218",
-    "page_num": 17218,
-    "lemmas": [
-      "misereor",
-      "misereor"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Depon. Ter pena, compadecer-se; sentir compaixão (constrói-se com genitivo ou uso absoluto).",
-    "exemplos": [],
-    "notas": "Forma deponente; infinitivo arcaico: misereri (registrado). | [dedupe] redirect → chunk_17217:17217:1 | [dedupe] redirect → chunk_17217:17217:1",
-    "raw_text": "{\"id\":\"chunk_17218:17218:0\",\"lemas\":[\"misereor\"],\"lema_canonico\":\"misereor\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"Depon. Ter pena, compadecer-se; sentir compaixão (constrói-se com genitivo ou uso absoluto).\",\"aliases\":[],\"exemplos\":[\"Cic. Mur. 63\",\"Lucr. 5, 1023\"],\"notas\":\"Forma deponente; infinitivo arcaico: misereri (registrado).\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_17218:17218:0\",\"lemas\":[\"misereor\"],\"lema_canonico\":\"misereor\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"Depon. Ter pena, compadecer-se; sentir compaixão (constrói-se com genitivo ou uso absoluto).\",\"aliases\":[],\"exemplos\":[\"Cic. Mur. 63\",\"Lucr. 5, 1023\"],\"notas\":\"Forma deponente; infinitivo arcaico: misereri (registrado).\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_17219-e1",
     "volume_id": "faria",
     "doc_name": "chunk_17219",
@@ -660,50 +572,6 @@
     "raw_json": "{\"id\":\"chunk_17227:17227:0\",\"lemas\":[\"miseritus\",\"misertus\"],\"lema_canonico\":\"miseritus\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito (passivo) de misereor: 'compadecido, tendo mostrado compaixão'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Grafia variante misertus atestada (tardia); confirmado por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_17228-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_17228",
-    "page_num": 17228,
-    "lemmas": [
-      "misereor",
-      "misereor"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Perfeito indicativo 1ª sg. (miseruī/miseruī) de misereor: ter compaixão, compadecer‑se.",
-    "exemplos": [],
-    "notas": "Entrada refere-se à forma perfeita; lemma ajustado para misereor conforme LS/Lat→Deu. | [dedupe] redirect → chunk_17217:17217:1 | [dedupe] redirect → chunk_17217:17217:1",
-    "raw_text": "{\"id\":\"chunk_17228:17228:0\",\"lemas\":[\"misereor\",\"miserui\"],\"lema_canonico\":\"misereor\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"Perfeito indicativo 1ª sg. (miseruī/miseruī) de misereor: ter compaixão, compadecer‑se.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada refere-se à forma perfeita; lemma ajustado para misereor conforme LS/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_17228:17228:0\",\"lemas\":[\"misereor\",\"miserui\"],\"lema_canonico\":\"misereor\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"Perfeito indicativo 1ª sg. (miseruī/miseruī) de misereor: ter compaixão, compadecer‑se.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada refere-se à forma perfeita; lemma ajustado para misereor conforme LS/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_17229-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_17229",
-    "page_num": 17229,
-    "lemmas": [
-      "mitto",
-      "mitto"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Perfeito indicativo 1ª sg. mīsī de mittō, mittere: 'enviei, lancei, despachei'.",
-    "exemplos": [],
-    "notas": "Forma perfeita misi relacionada a mitto; sentido múltiplo confirmado por Lat→Deu e Whitaker. | [dedupe] redirect → chunk_17255:17255:0 | [dedupe] redirect → chunk_17255:17255:0",
-    "raw_text": "{\"id\":\"chunk_17229:17229:0\",\"lemas\":[\"mitto\",\"misi\"],\"lema_canonico\":\"mitto\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Perfeito indicativo 1ª sg. mīsī de mittō, mittere: 'enviei, lancei, despachei'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma perfeita misi relacionada a mitto; sentido múltiplo confirmado por Lat→Deu e Whitaker.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_17229:17229:0\",\"lemas\":[\"mitto\",\"misi\"],\"lema_canonico\":\"mitto\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Perfeito indicativo 1ª sg. mīsī de mittō, mittere: 'enviei, lancei, despachei'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma perfeita misi relacionada a mitto; sentido múltiplo confirmado por Lat→Deu e Whitaker.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_17230-e1",
     "volume_id": "faria",
     "doc_name": "chunk_17230",
@@ -858,28 +726,6 @@
     "raw_json": "{\"id\":\"chunk_17236:17236:0\",\"lemas\":[\"missitus\"],\"lema_canonico\":\"missitus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"(eccl.) relativo à missa; (também adv. attest.)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma atestada em Whitaker como termo eclesiástico; origem incerta fora do léxico eclesiástico.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_17237-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_17237",
-    "page_num": 17237,
-    "lemmas": [
-      "missio",
-      "missio"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Envio, remessa; libertação, demissão; missão, despacho; também reprieve/indulto (sentidos específicos em autores).",
-    "exemplos": [],
-    "notas": "Corrigida: primeiro passo tratava como verbo frequentativo; aqui restaurado o substantivo missiō, -ōnis (LS/Whitaker). | [dedupe] redirect → chunk_17234:17234:0 | [dedupe] redirect → chunk_17234:17234:0",
-    "raw_text": "{\"id\":\"chunk_17237:17237:0\",\"lemas\":[\"missio\"],\"lema_canonico\":\"missio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Envio, remessa; libertação, demissão; missão, despacho; também reprieve/indulto (sentidos específicos em autores).\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 1, 5, 3\",\"Vitr. 2, 9, 16\"],\"notas\":\"Corrigida: primeiro passo tratava como verbo frequentativo; aqui restaurado o substantivo missiō, -ōnis (LS/Whitaker).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_17237:17237:0\",\"lemas\":[\"missio\"],\"lema_canonico\":\"missio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Envio, remessa; libertação, demissão; missão, despacho; também reprieve/indulto (sentidos específicos em autores).\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 1, 5, 3\",\"Vitr. 2, 9, 16\"],\"notas\":\"Corrigida: primeiro passo tratava como verbo frequentativo; aqui restaurado o substantivo missiō, -ōnis (LS/Whitaker).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_17238-e1",
     "volume_id": "faria",
     "doc_name": "chunk_17238",
@@ -922,50 +768,6 @@
     "notas": "Unifica uso como part. pass. e como substantivo (decl. -ūs); exemplos conservados.",
     "raw_text": "{\"id\":\"chunk_17239:17239:0\",\"lemas\":[\"missus\"],\"lema_canonico\":\"missus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo de mitto; também substantivado: envio, remessa, lançamento, arremesso; despacho, serviço.\",\"aliases\":[],\"exemplos\":[\"Caes. B. G. 5, 27\",\"Caes. B. G. 6, 7\",\"Verg. A. 7, 752\",\"Liv. 9, 19, 7\"],\"notas\":\"Unifica uso como part. pass. e como substantivo (decl. -ūs); exemplos conservados.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_17239:17239:0\",\"lemas\":[\"missus\"],\"lema_canonico\":\"missus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo de mitto; também substantivado: envio, remessa, lançamento, arremesso; despacho, serviço.\",\"aliases\":[],\"exemplos\":[\"Caes. B. G. 5, 27\",\"Caes. B. G. 6, 7\",\"Verg. A. 7, 752\",\"Liv. 9, 19, 7\"],\"notas\":\"Unifica uso como part. pass. e como substantivo (decl. -ūs); exemplos conservados.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_17240-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_17240",
-    "page_num": 17240,
-    "lemmas": [
-      "missus",
-      "missus"
-    ],
-    "morfologia": "s. masc. 4ª (-us)",
-    "morph_render": "s. masc. 4ª (-us)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "envio, despacho; lançamento/arrojo de misséis; entrada/lançamento (de veículos ou bestas) em espetáculos; ação de enviar",
-    "exemplos": [],
-    "notas": "Substantivo da 4.ª declinação atestado em LS e Whitaker; sentidos múltiplos listados. | [dedupe] redirect → chunk_17239:17239:0 | [dedupe] redirect → chunk_17239:17239:0",
-    "raw_text": "{\"id\":\"chunk_17240:17240:0\",\"lemas\":[\"missus\"],\"lema_canonico\":\"missus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"envio, despacho; lançamento/arrojo de misséis; entrada/lançamento (de veículos ou bestas) em espetáculos; ação de enviar\",\"aliases\":[],\"exemplos\":[\"Cic. B. Gal. 6, 7, 17\",\"T. Liv. 9, 19, 7\",\"Suet. Ner. 22\"],\"notas\":\"Substantivo da 4.ª declinação atestado em LS e Whitaker; sentidos múltiplos listados.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_17240:17240:0\",\"lemas\":[\"missus\"],\"lema_canonico\":\"missus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"envio, despacho; lançamento/arrojo de misséis; entrada/lançamento (de veículos ou bestas) em espetáculos; ação de enviar\",\"aliases\":[],\"exemplos\":[\"Cic. B. Gal. 6, 7, 17\",\"T. Liv. 9, 19, 7\",\"Suet. Ner. 22\"],\"notas\":\"Substantivo da 4.ª declinação atestado em LS e Whitaker; sentidos múltiplos listados.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_17241-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_17241",
-    "page_num": 17241,
-    "lemmas": [
-      "mitto",
-      "mitto"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "enviar, lançar, mandar; deixar ir, desprender",
-    "exemplos": [],
-    "notas": "Paradigma (mittere, mīsī, missum) confirmado em LS e Whitaker. | [dedupe] redirect → chunk_17255:17255:0 | [dedupe] redirect → chunk_17255:17255:0",
-    "raw_text": "{\"id\":\"chunk_17241:17241:0\",\"lemas\":[\"mitto\"],\"lema_canonico\":\"mitto\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"enviar, lançar, mandar; deixar ir, desprender\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 2, 1, 26\"],\"notas\":\"Paradigma (mittere, mīsī, missum) confirmado em LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_17241:17241:0\",\"lemas\":[\"mitto\"],\"lema_canonico\":\"mitto\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"enviar, lançar, mandar; deixar ir, desprender\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 2, 1, 26\"],\"notas\":\"Paradigma (mittere, mīsī, missum) confirmado em LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_17241-e2",
@@ -1032,28 +834,6 @@
     "notas": "Entrada preservada do primeiro levantamento; provável erro de transcrição do perfeito de mitto (misit/misīsit).",
     "raw_text": "{\"id\":\"chunk_17241:17241:3\",\"lemas\":[\"mĭtĭ\"],\"lema_canonico\":\"mĭtĭ\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Registro corrompido/obscuro referido como perfeit. incerto de mitto; forma não canônica.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada preservada do primeiro levantamento; provável erro de transcrição do perfeito de mitto (misit/misīsit).\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\",\"morph_out_of_vocab\"]}",
     "raw_json": "{\"id\":\"chunk_17241:17241:3\",\"lemas\":[\"mĭtĭ\"],\"lema_canonico\":\"mĭtĭ\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Registro corrompido/obscuro referido como perfeit. incerto de mitto; forma não canônica.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada preservada do primeiro levantamento; provável erro de transcrição do perfeito de mitto (misit/misīsit).\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\",\"morph_out_of_vocab\"]}"
-  },
-  {
-    "id": "chunk_17242-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_17242",
-    "page_num": 17242,
-    "lemmas": [
-      "mitis",
-      "mitis"
-    ],
-    "morfologia": "adj. (3) 2T",
-    "morph_render": "adj. (3) 2T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Suave, brando, manso; (adv.) suavemente, docemente.",
-    "exemplos": [],
-    "notas": "Entrada normalizada como adjetivo com menção da forma adverbial; inclui variantes canônicas. | [dedupe] redirect → chunk_17241:17241:2 | [dedupe] redirect → chunk_17241:17241:2",
-    "raw_text": "{\"id\":\"chunk_17242:17242:0\",\"lemas\":[\"mīte\",\"mitis\"],\"lema_canonico\":\"mitis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"Suave, brando, manso; (adv.) suavemente, docemente.\",\"aliases\":[],\"exemplos\":[\"Ov. P. 3, 7, 27\",\"Cæs. B. Gal. 7, 43, 4\"],\"notas\":\"Entrada normalizada como adjetivo com menção da forma adverbial; inclui variantes canônicas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_17242:17242:0\",\"lemas\":[\"mīte\",\"mitis\"],\"lema_canonico\":\"mitis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"Suave, brando, manso; (adv.) suavemente, docemente.\",\"aliases\":[],\"exemplos\":[\"Ov. P. 3, 7, 27\",\"Cæs. B. Gal. 7, 43, 4\"],\"notas\":\"Entrada normalizada como adjetivo com menção da forma adverbial; inclui variantes canônicas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_17243-e1",
@@ -1166,28 +946,6 @@
     "raw_json": "{\"id\":\"chunk_17246:17246:1\",\"lemas\":[\"mithridaticus\",\"mithridatica\",\"mithridaticum\"],\"lema_canonico\":\"mithridaticus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Adjetivo: relativo a Mithridates; pertencente ou referindo‑se a Mitrídates (p. ex. alusões políticas ou médicas: antidotum mithridaticum).\",\"aliases\":[],\"exemplos\":[\"Cic. pro Mur. 17\"],\"notas\":\"Grafia e flexões padronizadas; confirmada por Whitaker e LS.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_17246-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_17246",
-    "page_num": 17246,
-    "lemmas": [
-      "Mithridates",
-      "Mithridates"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Nome próprio: vários reis do Ponto, notavelmente Mithridates VI (o Grande), inimigo de Roma.",
-    "exemplos": [],
-    "notas": "Forma e genitivo ajustados segundo Whitaker e Lewis & Short. | [dedupe] redirect → chunk_17245:17245:0 | [dedupe] redirect → chunk_17245:17245:0",
-    "raw_text": "{\"id\":\"chunk_17246:17246:2\",\"lemas\":[\"Mithridates\",\"Mithridatis\"],\"lema_canonico\":\"Mithridates\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Nome próprio: vários reis do Ponto, notavelmente Mithridates VI (o Grande), inimigo de Roma.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma e genitivo ajustados segundo Whitaker e Lewis & Short.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_17246:17246:2\",\"lemas\":[\"Mithridates\",\"Mithridatis\"],\"lema_canonico\":\"Mithridates\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Nome próprio: vários reis do Ponto, notavelmente Mithridates VI (o Grande), inimigo de Roma.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma e genitivo ajustados segundo Whitaker e Lewis & Short.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_17247-e1",
     "volume_id": "faria",
     "doc_name": "chunk_17247",
@@ -1252,94 +1010,6 @@
     "notas": "Entrada confirmada em Lewis & Short e Lat→Deu; macronização conforme LS.",
     "raw_text": "{\"id\":\"chunk_17249:17249:0\",\"lemas\":[\"mitigatio\",\"mītigātiō\"],\"lema_canonico\":\"mitigatio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Ação de abrandar; mitigação, alívio (sentido literal e figurado).\",\"aliases\":[],\"exemplos\":[\"Cic. de Or. 3, 30, 118\",\"Auct. Her. 4, 37, 49\",\"Vulg. Sir. 36, 25\"],\"notas\":\"Entrada confirmada em Lewis & Short e Lat→Deu; macronização conforme LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_17249:17249:0\",\"lemas\":[\"mitigatio\",\"mītigātiō\"],\"lema_canonico\":\"mitigatio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Ação de abrandar; mitigação, alívio (sentido literal e figurado).\",\"aliases\":[],\"exemplos\":[\"Cic. de Or. 3, 30, 118\",\"Auct. Her. 4, 37, 49\",\"Vulg. Sir. 36, 25\"],\"notas\":\"Entrada confirmada em Lewis & Short e Lat→Deu; macronização conforme LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_17250-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_17250",
-    "page_num": 17250,
-    "lemmas": [
-      "mitigatus",
-      "mitigatus"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Particípio perfeito passivo de mitigō (mitigare): amansado, suavizado, aliviado.",
-    "exemplos": [],
-    "notas": "Normalizado formas de gênero; marcado como particípio do verbo mitigare. | [dedupe] redirect → chunk_17247:17247:0 | [dedupe] redirect → chunk_17247:17247:0",
-    "raw_text": "{\"id\":\"chunk_17250:17250:0\",\"lemas\":[\"mitigatus\",\"mitigata\",\"mitigatum\"],\"lema_canonico\":\"mitigatus\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo de mitigō (mitigare): amansado, suavizado, aliviado.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizado formas de gênero; marcado como particípio do verbo mitigare.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_17250:17250:0\",\"lemas\":[\"mitigatus\",\"mitigata\",\"mitigatum\"],\"lema_canonico\":\"mitigatus\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo de mitigō (mitigare): amansado, suavizado, aliviado.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizado formas de gênero; marcado como particípio do verbo mitigare.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_17251-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_17251",
-    "page_num": 17251,
-    "lemmas": [
-      "mitis",
-      "mitis"
-    ],
-    "morfologia": "adj. (3) 2T",
-    "morph_render": "adj. (3) 2T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Suave, brando, doce; clemente; maduro, suculento; figurado: ameno, placado.",
-    "exemplos": [],
-    "notas": "Separado do verbo mitigō; confirmado por LS e Whitaker. | [dedupe] redirect → chunk_17241:17241:2 | [dedupe] redirect → chunk_17241:17241:2",
-    "raw_text": "{\"id\":\"chunk_17251:17251:0\",\"lemas\":[\"mitis\",\"mite\"],\"lema_canonico\":\"mitis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"Suave, brando, doce; clemente; maduro, suculento; figurado: ameno, placado.\",\"aliases\":[],\"exemplos\":[\"Verg. E. 1, 81\",\"Verg. G. 1, 448\",\"Ov. M. 14, 690\",\"Hor. C. 1, 18, 2\",\"Cic. Att. 5, 1, 3\"],\"notas\":\"Separado do verbo mitigō; confirmado por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_17251:17251:0\",\"lemas\":[\"mitis\",\"mite\"],\"lema_canonico\":\"mitis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"Suave, brando, doce; clemente; maduro, suculento; figurado: ameno, placado.\",\"aliases\":[],\"exemplos\":[\"Verg. E. 1, 81\",\"Verg. G. 1, 448\",\"Ov. M. 14, 690\",\"Hor. C. 1, 18, 2\",\"Cic. Att. 5, 1, 3\"],\"notas\":\"Separado do verbo mitigō; confirmado por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_17251-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_17251",
-    "page_num": 17251,
-    "lemmas": [
-      "mitigō",
-      "mitigō"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Tornar suave ou brando; adoçar; mitigar, acalmar, aliviar, aplacar.",
-    "exemplos": [],
-    "notas": "Verbo de 1ª conjugação confirmado por LS, Whitaker e Lat→Deu. | [dedupe] redirect → chunk_17248:17248:0 | [dedupe] redirect → chunk_17248:17248:0",
-    "raw_text": "{\"id\":\"chunk_17251:17251:1\",\"lemas\":[\"mitigō\",\"mitigāre\",\"mitigāvī\",\"mitigātum\"],\"lema_canonico\":\"mitigō\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"Tornar suave ou brando; adoçar; mitigar, acalmar, aliviar, aplacar.\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 2, 151\",\"Cic. Nat. 2, 130\",\"Cic. Mur. 65\",\"Cic. Clu. 81\"],\"notas\":\"Verbo de 1ª conjugação confirmado por LS, Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_17251:17251:1\",\"lemas\":[\"mitigō\",\"mitigāre\",\"mitigāvī\",\"mitigātum\"],\"lema_canonico\":\"mitigō\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"Tornar suave ou brando; adoçar; mitigar, acalmar, aliviar, aplacar.\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 2, 151\",\"Cic. Nat. 2, 130\",\"Cic. Mur. 65\",\"Cic. Clu. 81\"],\"notas\":\"Verbo de 1ª conjugação confirmado por LS, Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_17252-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_17252",
-    "page_num": 17252,
-    "lemmas": [
-      "mitis",
-      "mitis"
-    ],
-    "morfologia": "adj. (3) 2T",
-    "morph_render": "adj. (3) 2T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Suave, brando, ameno; maduro, tenro; também amável, indulgente.",
-    "exemplos": [],
-    "notas": "Harmonizada com entradas LS e Whitaker; neutro mīte incluído. | [dedupe] redirect → chunk_17241:17241:2 | [dedupe] redirect → chunk_17241:17241:2",
-    "raw_text": "{\"id\":\"chunk_17252:17252:0\",\"lemas\":[\"mitis\",\"mīte\"],\"lema_canonico\":\"mitis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"Suave, brando, ameno; maduro, tenro; também amável, indulgente.\",\"aliases\":[],\"exemplos\":[\"Verg. Buc. 1,81\",\"Hor. C. 1,18,2\",\"Verg. G. 1,344\",\"Ov. P. 2,1,48\",\"Cic. Tusc. 5,53\"],\"notas\":\"Harmonizada com entradas LS e Whitaker; neutro mīte incluído.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_17252:17252:0\",\"lemas\":[\"mitis\",\"mīte\"],\"lema_canonico\":\"mitis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"Suave, brando, ameno; maduro, tenro; também amável, indulgente.\",\"aliases\":[],\"exemplos\":[\"Verg. Buc. 1,81\",\"Hor. C. 1,18,2\",\"Verg. G. 1,344\",\"Ov. P. 2,1,48\",\"Cic. Tusc. 5,53\"],\"notas\":\"Harmonizada com entradas LS e Whitaker; neutro mīte incluído.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_17253-e1",
@@ -1494,28 +1164,6 @@
     "notas": "Nome próprio de rio; declinação 3ª masculina conforme LS.",
     "raw_text": "{\"id\":\"chunk_17259:17259:0\",\"lemas\":[\"Mitys\"],\"lema_canonico\":\"Mitys\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Rio da Macedônia citado por Tito Lívio.\",\"aliases\":[],\"exemplos\":[\"Liv. 44, 7\",\"Liv. 44, 10\"],\"notas\":\"Nome próprio de rio; declinação 3ª masculina conforme LS.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_ocr\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_17259:17259:0\",\"lemas\":[\"Mitys\"],\"lema_canonico\":\"Mitys\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Rio da Macedônia citado por Tito Lívio.\",\"aliases\":[],\"exemplos\":[\"Liv. 44, 7\",\"Liv. 44, 10\"],\"notas\":\"Nome próprio de rio; declinação 3ª masculina conforme LS.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_ocr\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_17260-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_17260",
-    "page_num": 17260,
-    "lemmas": [
-      "mingo",
-      "mingo"
-    ],
-    "morfologia": "v. 3ª -iō (-ere)",
-    "morph_render": "v. 3ª -iō (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Perfeito mīnxit/mīnxī (mixi) de mingō, mingere: urinar; em contextos vulgares também 'ejacular'.",
-    "exemplos": [],
-    "notas": "First_pass registrou formas perfeitas (mixi, mīnxī); lemma normalizado para mingō/ mingere. | [dedupe] redirect → chunk_17184:17184:0 | [dedupe] redirect → chunk_17184:17184:0 | [ocr_fix 2025-08-17T19:50:10Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='mingō' → 'mingo'",
-    "raw_text": "{\"id\":\"chunk_17260:17260:0\",\"lemas\":[\"mingō\",\"mingere\"],\"lema_canonico\":\"mingō\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[],\"definicao\":\"Perfeito mīnxit/mīnxī (mixi) de mingō, mingere: urinar; em contextos vulgares também 'ejacular'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"First_pass registrou formas perfeitas (mixi, mīnxī); lemma normalizado para mingō/ mingere.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_17260:17260:0\",\"lemas\":[\"mingō\",\"mingere\"],\"lema_canonico\":\"mingō\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[],\"definicao\":\"Perfeito mīnxit/mīnxī (mixi) de mingō, mingere: urinar; em contextos vulgares também 'ejacular'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"First_pass registrou formas perfeitas (mixi, mīnxī); lemma normalizado para mingō/ mingere.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
     "id": "chunk_17261-e1",
@@ -2090,28 +1738,6 @@
     "raw_json": "{\"id\":\"chunk_17286:17286:0\",\"lemas\":[\"modestus\",\"modesta\",\"modestum\"],\"lema_canonico\":\"modestus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Moderado, que guarda a devida medida; discreto, comedido, modesto (no comportamento e nos sentimentos).\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 3, 13, 2\"],\"notas\":\"Entrada alinhada com Lewis & Short e Whitaker; advérbio correspondente: modestē (att.).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_17287-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_17287",
-    "page_num": 17287,
-    "lemmas": [
-      "modulatus",
-      "modulatus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "a) Pertaining to modulation or measured rhythm; melodious, rhythmic; b) passive participle of modulor in usage (having been modulated).",
-    "exemplos": [],
-    "notas": "Adjetivo atestado por LS; também forma PPP do verbo modulari/modulor. | [dedupe] redirect → chunk_17297:17297:0 | [dedupe] redirect → chunk_17297:17297:0",
-    "raw_text": "{\"id\":\"chunk_17287:17287:0\",\"lemas\":[\"modulatus\"],\"lema_canonico\":\"modulatus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"a) Pertaining to modulation or measured rhythm; melodious, rhythmic; b) passive participle of modulor in usage (having been modulated).\",\"aliases\":[],\"exemplos\":[\"Plaut. Capt. 916\"],\"notas\":\"Adjetivo atestado por LS; também forma PPP do verbo modulari/modulor.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_17287:17287:0\",\"lemas\":[\"modulatus\"],\"lema_canonico\":\"modulatus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"a) Pertaining to modulation or measured rhythm; melodious, rhythmic; b) passive participle of modulor in usage (having been modulated).\",\"aliases\":[],\"exemplos\":[\"Plaut. Capt. 916\"],\"notas\":\"Adjetivo atestado por LS; também forma PPP do verbo modulari/modulor.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_17288-e1",
     "volume_id": "faria",
     "doc_name": "chunk_17288",
@@ -2156,28 +1782,6 @@
     "raw_json": "{\"id\":\"chunk_17289:17289:0\",\"lemas\":[\"modicus\",\"modica\",\"modicum\"],\"lema_canonico\":\"modicus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"s. neut. 2ª (-i)\"],\"definicao\":\"1) (adj.) moderado, temperado, contido; pequeno, de tamanho mediano; 2) (subst. neut.) pequena quantidade, pouco\",\"aliases\":[],\"exemplos\":[\"Juv. 9, 9\"],\"notas\":\"Agrupei formas adjetivais e substantivas; substantivo marcado em morph_extra por limitação do esquema.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}"
   },
   {
-    "id": "chunk_17290-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_17290",
-    "page_num": 17290,
-    "lemmas": [
-      "modicus",
-      "modicus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "moderate, temperate, modest; small, ordinary, middling; restrained in behavior or size.",
-    "exemplos": [],
-    "notas": "Adjetivo atestado em LS e Whitaker; o substantivo modicum e o advérbio mŏdĭcē são formas relacionadas (não aqui como lema principal). | [dedupe] redirect → chunk_17289:17289:0 | [dedupe] redirect → chunk_17289:17289:0",
-    "raw_text": "{\"id\":\"chunk_17290:17290:0\",\"lemas\":[\"modicus\",\"modica\",\"modicum\"],\"lema_canonico\":\"modicus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"moderate, temperate, modest; small, ordinary, middling; restrained in behavior or size.\",\"aliases\":[],\"exemplos\":[\"Cic. C. M. 44\",\"Cic. Gr. 69\",\"Cic. Fin. 2, 62\"],\"notas\":\"Adjetivo atestado em LS e Whitaker; o substantivo modicum e o advérbio mŏdĭcē são formas relacionadas (não aqui como lema principal).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_17290:17290:0\",\"lemas\":[\"modicus\",\"modica\",\"modicum\"],\"lema_canonico\":\"modicus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"moderate, temperate, modest; small, ordinary, middling; restrained in behavior or size.\",\"aliases\":[],\"exemplos\":[\"Cic. C. M. 44\",\"Cic. Gr. 69\",\"Cic. Fin. 2, 62\"],\"notas\":\"Adjetivo atestado em LS e Whitaker; o substantivo modicum e o advérbio mŏdĭcē são formas relacionadas (não aqui como lema principal).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_17291-e1",
     "volume_id": "faria",
     "doc_name": "chunk_17291",
@@ -2220,28 +1824,6 @@
     "notas": "Normalizada para infinitivo e paradigma 1ª conj.; sentidos corroborados por LS e Lat→Deu.",
     "raw_text": "{\"id\":\"chunk_17292:17292:0\",\"lemas\":[\"modificare\",\"modifico\"],\"lema_canonico\":\"modificare\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"Regular, pôr limites; controlar, reger; (pass./reflex.) observar medida, ficar dentro dos limites\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 3, 188\",\"Front. Ep. ad M. Caes. 4, 3\",\"Aug. de Mus. 6, 17, 58\"],\"notas\":\"Normalizada para infinitivo e paradigma 1ª conj.; sentidos corroborados por LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_17292:17292:0\",\"lemas\":[\"modificare\",\"modifico\"],\"lema_canonico\":\"modificare\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"Regular, pôr limites; controlar, reger; (pass./reflex.) observar medida, ficar dentro dos limites\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 3, 188\",\"Front. Ep. ad M. Caes. 4, 3\",\"Aug. de Mus. 6, 17, 58\"],\"notas\":\"Normalizada para infinitivo e paradigma 1ª conj.; sentidos corroborados por LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_17293-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_17293",
-    "page_num": 17293,
-    "lemmas": [
-      "modus",
-      "modus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "1) measure, measureable quantity, size; 2) manner, way, mode; 3) rule, method; 4) rhythm, beat; 5) limit, bound; also temporal senses (now, shortly).",
-    "exemplos": [],
-    "notas": "Sintetizado a partir de LS e Whitaker; morfologia conforme -i, m. | [dedupe] redirect → chunk_13319:13319:1 | [dedupe] redirect → chunk_13319:13319:1",
-    "raw_text": "{\"id\":\"chunk_17293:17293:0\",\"lemas\":[\"modus\"],\"lema_canonico\":\"modus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"1) measure, measureable quantity, size; 2) manner, way, mode; 3) rule, method; 4) rhythm, beat; 5) limit, bound; also temporal senses (now, shortly).\",\"aliases\":[],\"exemplos\":[\"Cic. Lae. 67\",\"Cic. Att. 6, 1, 16\",\"Cic. Fam. 12, 5, 2\",\"Cic. Off. 2, 51, 30\",\"Plaut. Trin. 908\",\"Liv. 20, 15, 3\",\"Cic. Nat. 1, 47\"],\"notas\":\"Sintetizado a partir de LS e Whitaker; morfologia conforme -i, m.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_17293:17293:0\",\"lemas\":[\"modus\"],\"lema_canonico\":\"modus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"1) measure, measureable quantity, size; 2) manner, way, mode; 3) rule, method; 4) rhythm, beat; 5) limit, bound; also temporal senses (now, shortly).\",\"aliases\":[],\"exemplos\":[\"Cic. Lae. 67\",\"Cic. Att. 6, 1, 16\",\"Cic. Fam. 12, 5, 2\",\"Cic. Off. 2, 51, 30\",\"Plaut. Trin. 908\",\"Liv. 20, 15, 3\",\"Cic. Nat. 1, 47\"],\"notas\":\"Sintetizado a partir de LS e Whitaker; morfologia conforme -i, m.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_17294-e1",
@@ -2354,50 +1936,6 @@
     "raw_json": "{\"id\":\"chunk_17298:17298:0\",\"lemas\":[\"modulatus\",\"modulātus\"],\"lema_canonico\":\"modulatus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"1) Substantivo (poét.): canto, modulação (Sen.). 2) Particípio perfeito de modulor (v. modulārī, modulātus sum): cadenciado; ‘havendo modulado/medido’ (uso verbal, deponente/forma passiva em alguns contextos).\",\"aliases\":[],\"exemplos\":[\"Sen. Herc. 263\",\"Plin. H. Nat. 2, 142\",\"Cic. Or. 58\",\"Hor. Ep. 2, 2, 144\",\"Hor. O. 1, 32, 5\",\"Quint. 9, 2, 35\"],\"notas\":\"Entrada unificou substantivo poético e particípio perfeito do verbo modulor; marcado como particípio em morph_extra.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_17299-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_17299",
-    "page_num": 17299,
-    "lemmas": [
-      "modus",
-      "modus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "1) medida, dimensão; 2) modo, maneira; 3) ritmo, melodia; 4) limite, norma.",
-    "exemplos": [],
-    "notas": "Harmonizado com Lewis & Short e Whitaker; morfologia padronizada. | [dedupe] redirect → chunk_13319:13319:1 | [dedupe] redirect → chunk_13319:13319:1",
-    "raw_text": "{\"id\":\"chunk_17299:17299:0\",\"lemas\":[\"modus\"],\"lema_canonico\":\"modus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"1) medida, dimensão; 2) modo, maneira; 3) ritmo, melodia; 4) limite, norma.\",\"aliases\":[],\"exemplos\":[\"Hor. Ep. 1, 7, 98\",\"Hor. S. 1, 3, 78\"],\"notas\":\"Harmonizado com Lewis & Short e Whitaker; morfologia padronizada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_17299:17299:0\",\"lemas\":[\"modus\"],\"lema_canonico\":\"modus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"1) medida, dimensão; 2) modo, maneira; 3) ritmo, melodia; 4) limite, norma.\",\"aliases\":[],\"exemplos\":[\"Hor. Ep. 1, 7, 98\",\"Hor. S. 1, 3, 78\"],\"notas\":\"Harmonizado com Lewis & Short e Whitaker; morfologia padronizada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_17300-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_17300",
-    "page_num": 17300,
-    "lemmas": [
-      "modus",
-      "modus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Medida, medida de terreno; limite, termo; modo, maneira, método; ritmo, compasso (música/verso); regra, norma.",
-    "exemplos": [],
-    "notas": "Unificado lema para a forma clássica 'modus, -i'; sentidos agrupados conforme LS/Lat→Deu. | [dedupe] redirect → chunk_13319:13319:1 | [dedupe] redirect → chunk_13319:13319:1",
-    "raw_text": "{\"id\":\"chunk_17300:17300:0\",\"lemas\":[\"modus\"],\"lema_canonico\":\"modus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Medida, medida de terreno; limite, termo; modo, maneira, método; ritmo, compasso (música/verso); regra, norma.\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 13, 33, 2\",\"Cic. Off. 1, 5, 14\",\"Liv. 7, 2\",\"Cic. Div. 2, 3, 9\",\"Cic. Verr. 2, 2, 48\"],\"notas\":\"Unificado lema para a forma clássica 'modus, -i'; sentidos agrupados conforme LS/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_17300:17300:0\",\"lemas\":[\"modus\"],\"lema_canonico\":\"modus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Medida, medida de terreno; limite, termo; modo, maneira, método; ritmo, compasso (música/verso); regra, norma.\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 13, 33, 2\",\"Cic. Off. 1, 5, 14\",\"Liv. 7, 2\",\"Cic. Div. 2, 3, 9\",\"Cic. Verr. 2, 2, 48\"],\"notas\":\"Unificado lema para a forma clássica 'modus, -i'; sentidos agrupados conforme LS/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_17301-e1",
     "volume_id": "faria",
     "doc_name": "chunk_17301",
@@ -2508,28 +2046,6 @@
     "raw_json": "{\"id\":\"chunk_17304:17304:0\",\"lemas\":[\"moenia\"],\"lema_canonico\":\"moenia\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"muralhas; obras de fortificação de uma cidade; por extensão: circuito, cidade, edifício\",\"aliases\":[],\"exemplos\":[\"Verg. Aen. 2, 234\",\"Ov. Met. 11, 532\",\"Cic. Cat. 2, 1, 4\",\"Verg. Aen. 6, 541\"],\"notas\":\"Substantivo neutro plural, confirmado por Lewis & Short e Whitaker (gen. pl. moenium).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_17304-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_17304",
-    "page_num": 17304,
-    "lemmas": [
-      "moenĭa",
-      "moenĭa"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "(entrada duvidosa) alegada forma arcaica atribuída a minuĕre ‘diminuir’ — necessidade de verificação",
-    "exemplos": [],
-    "notas": "Entrada possivelmente resultado de OCR/edição incorreta; não confirmada em dicionários; mantida para revisão.\n[ocr_pipeline 2025-08-16T23:19:45.802491Z] lemma_in='moenĭa' → 'moenĭa' | motivo: match direto em LS por lemma/lemma_norm | [dedupe] redirect → chunk_17304:17304:0 | [ocr_fix 2025-08-17T18:29:38Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='moenĭa' → 'moenĭa' | [dedupe] redirect → chunk_17304:17304:0",
-    "raw_text": "{\"id\":\"chunk_17304:17304:1\",\"lemas\":[\"moenĭa\"],\"lema_canonico\":\"moenĭa\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"(entrada duvidosa) alegada forma arcaica atribuída a minuĕre ‘diminuir’ — necessidade de verificação\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada possivelmente resultado de OCR/edição incorreta; não confirmada em dicionários; mantida para revisão.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_17304:17304:1\",\"lemas\":[\"moenĭa\"],\"lema_canonico\":\"moenĭa\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"(entrada duvidosa) alegada forma arcaica atribuída a minuĕre ‘diminuir’ — necessidade de verificação\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada possivelmente resultado de OCR/edição incorreta; não confirmada em dicionários; mantida para revisão.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\",\"morph_out_of_vocab\"]}"
-  },
-  {
     "id": "chunk_17305-e1",
     "volume_id": "faria",
     "doc_name": "chunk_17305",
@@ -2572,28 +2088,6 @@
     "notas": "LS registra várias entradas homógrafas; aqui tomada a forma anthroponímica e o topónimo. | [ocr_fix 2025-08-17T19:50:11Z] match direto em LS por lemma/lemma_norm | lemma_in='Moeris' → 'Moeris'",
     "raw_text": "{\"id\":\"chunk_17306:17306:0\",\"lemas\":[\"Moeris\"],\"lema_canonico\":\"Moeris\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Nome próprio masculino (pastor) citado em poesia; também topónimo (Lacus Mœris).\",\"aliases\":[],\"exemplos\":[\"Verg. Buc. 8, 297\",\"Plin. 5, 9, §50\"],\"notas\":\"LS registra várias entradas homógrafas; aqui tomada a forma anthroponímica e o topónimo.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_17306:17306:0\",\"lemas\":[\"Moeris\"],\"lema_canonico\":\"Moeris\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Nome próprio masculino (pastor) citado em poesia; também topónimo (Lacus Mœris).\",\"aliases\":[],\"exemplos\":[\"Verg. Buc. 8, 297\",\"Plin. 5, 9, §50\"],\"notas\":\"LS registra várias entradas homógrafas; aqui tomada a forma anthroponímica e o topónimo.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_17307-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_17307",
-    "page_num": 17307,
-    "lemmas": [
-      "murus",
-      "murus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Forma arcaica/moerística de murus: 'muro, muralha'.",
-    "exemplos": [],
-    "notas": "LS registra moerus como forma de murus; normalizado lema canônico para murus. | [dedupe] redirect → chunk_17452:17452:0 | [dedupe] redirect → chunk_17452:17452:0",
-    "raw_text": "{\"id\":\"chunk_17307:17307:0\",\"lemas\":[\"moerus\",\"murus\"],\"lema_canonico\":\"murus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Forma arcaica/moerística de murus: 'muro, muralha'.\",\"aliases\":[\"murus\"],\"exemplos\":[\"Verg. En. 10, 247\"],\"notas\":\"LS registra moerus como forma de murus; normalizado lema canônico para murus.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_17307:17307:0\",\"lemas\":[\"moerus\",\"murus\"],\"lema_canonico\":\"murus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Forma arcaica/moerística de murus: 'muro, muralha'.\",\"aliases\":[\"murus\"],\"exemplos\":[\"Verg. En. 10, 247\"],\"notas\":\"LS registra moerus como forma de murus; normalizado lema canônico para murus.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_17308-e1",
@@ -2860,28 +2354,6 @@
     "raw_json": "{\"id\":\"chunk_17317:17317:2\",\"lemas\":[\"mordeō\",\"mordēre\",\"momordī\",\"morsum\"],\"lema_canonico\":\"mordeō\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"morder; corroer, ferir; figuradamente: atormentar, afligir; também: mastigar, consumir.\",\"aliases\":[],\"exemplos\":[\"Enn. ap. Gell. 7, 9, 3\",\"Cic. Rosc. Am. 20, 57\",\"Verg. A. 11, 418\",\"Juv. 6, 632\"],\"notas\":\"Concorda com LS (mordĕo) e Lat→Deu; forma perfeita momordī atestada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_17318-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_17318",
-    "page_num": 17318,
-    "lemmas": [
-      "massa",
-      "massa"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "massa, torrão/bloco; (fig.) grande quantidade; também sobrenome romano Massa.",
-    "exemplos": [],
-    "notas": "Substantivo e atestado também como cognomen; definição resumida de LS/Lat→Deu. | [dedupe] redirect → chunk_16696:16696:0 | [dedupe] redirect → chunk_16696:16696:0",
-    "raw_text": "{\"id\":\"chunk_17318:17318:0\",\"lemas\":[\"massa\"],\"lema_canonico\":\"massa\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"massa, torrão/bloco; (fig.) grande quantidade; também sobrenome romano Massa.\",\"aliases\":[],\"exemplos\":[\"Verg. G. 1, 275\",\"Plin. 31, 7, 39\",\"Ov. Met. 8, 666\",\"Plaut. Mil. 4, 2, 73\",\"Liv. 31, 50\"],\"notas\":\"Substantivo e atestado também como cognomen; definição resumida de LS/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_17318:17318:0\",\"lemas\":[\"massa\"],\"lema_canonico\":\"massa\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"massa, torrão/bloco; (fig.) grande quantidade; também sobrenome romano Massa.\",\"aliases\":[],\"exemplos\":[\"Verg. G. 1, 275\",\"Plin. 31, 7, 39\",\"Ov. Met. 8, 666\",\"Plaut. Mil. 4, 2, 73\",\"Liv. 31, 50\"],\"notas\":\"Substantivo e atestado também como cognomen; definição resumida de LS/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_17318-e2",
     "volume_id": "faria",
     "doc_name": "chunk_17318",
@@ -2946,28 +2418,6 @@
     "notas": "Mantive variantes manzer/mamzer conforme LS e Whitaker; apresentado como adj. e como substantivo.",
     "raw_text": "{\"id\":\"chunk_17320:17320:0\",\"lemas\":[\"manzer\",\"mamzer\"],\"lema_canonico\":\"manzer\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Adj. e subst.: bastardo, ilegítimo (termo de origem hebraica).\",\"aliases\":[\"mamzer\"],\"exemplos\":[\"Vulg. Deut. 23, 2\",\"Sedul. Carm. 5, 256\",\"Ven. Carm. 5, 5, 75\"],\"notas\":\"Mantive variantes manzer/mamzer conforme LS e Whitaker; apresentado como adj. e como substantivo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_17320:17320:0\",\"lemas\":[\"manzer\",\"mamzer\"],\"lema_canonico\":\"manzer\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Adj. e subst.: bastardo, ilegítimo (termo de origem hebraica).\",\"aliases\":[\"mamzer\"],\"exemplos\":[\"Vulg. Deut. 23, 2\",\"Sedul. Carm. 5, 256\",\"Ven. Carm. 5, 5, 75\"],\"notas\":\"Mantive variantes manzer/mamzer conforme LS e Whitaker; apresentado como adj. e como substantivo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_17320-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_17320",
-    "page_num": 17320,
-    "lemmas": [
-      "medeor",
-      "medeor"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Verbo deponente: curar, remediar, ser útil contra uma doença; exige geralmente dativo.",
-    "exemplos": [],
-    "notas": "Normalizado com base em LS/Lat→Deu; incluí particípio presente 'medens' como alias. | [dedupe] redirect → chunk_16787:16787:0 | [dedupe] redirect → chunk_16787:16787:0",
-    "raw_text": "{\"id\":\"chunk_17320:17320:1\",\"lemas\":[\"medeor\",\"medĕor\"],\"lema_canonico\":\"medeor\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"Verbo deponente: curar, remediar, ser útil contra uma doença; exige geralmente dativo.\",\"aliases\":[\"medens\"],\"exemplos\":[\"Cic. de Or. 2, 44\",\"Cic. Rosc. Am. 44\"],\"notas\":\"Normalizado com base em LS/Lat→Deu; incluí particípio presente 'medens' como alias.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_17320:17320:1\",\"lemas\":[\"medeor\",\"medĕor\"],\"lema_canonico\":\"medeor\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"Verbo deponente: curar, remediar, ser útil contra uma doença; exige geralmente dativo.\",\"aliases\":[\"medens\"],\"exemplos\":[\"Cic. de Or. 2, 44\",\"Cic. Rosc. Am. 44\"],\"notas\":\"Normalizado com base em LS/Lat→Deu; incluí particípio presente 'medens' como alias.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_17320-e3",
@@ -3322,28 +2772,6 @@
     "raw_json": "{\"id\":\"chunk_17332:17332:0\",\"lemas\":[\"mollis\"],\"lema_canonico\":\"mollis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"suave, macio; flexível, terno; figuradamente: brando, fraco, efeminado; agradável, propício.\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 3, 177\",\"Verg. Buc. 2, 72\",\"Ov. Her. 16, 44\",\"Cic. Cat. 1, 30\",\"Juv. 15, 131\",\"Verg. En. 4, 293\"],\"notas\":\"Unificado com apoio em Lewis & Short e Whitaker; selecionei exemplos representativos.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_17332-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_17332",
-    "page_num": 17332,
-    "lemmas": [
-      "mollis",
-      "mollis"
-    ],
-    "morfologia": "adj. (3) 2T",
-    "morph_render": "adj. (3) 2T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "adjetivo: mollis (masc./fem.), molle (neutro); comparativo mollior, superlativo mollissimus — ‘suave, macio, flexível, terno; brando; fraco, sensível; complacente’.",
-    "exemplos": [],
-    "notas": "Entrada ampliada e padronizada com formas e graus conforme LS/Whitaker. | [dedupe] redirect → chunk_17332:17332:0 | [dedupe] redirect → chunk_17332:17332:0",
-    "raw_text": "{\"id\":\"chunk_17332:17332:1\",\"lemas\":[\"mollis\",\"molle\",\"mollior\"],\"lema_canonico\":\"mollis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"adjetivo: mollis (masc./fem.), molle (neutro); comparativo mollior, superlativo mollissimus — ‘suave, macio, flexível, terno; brando; fraco, sensível; complacente’.\",\"aliases\":[],\"exemplos\":[\"Verg. E. 2, 72\",\"Ov. M. 10, 92\",\"Cic. N. D. 2, 60\",\"Cæs. B. G. 5, 9\"],\"notas\":\"Entrada ampliada e padronizada com formas e graus conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_17332:17332:1\",\"lemas\":[\"mollis\",\"molle\",\"mollior\"],\"lema_canonico\":\"mollis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"adjetivo: mollis (masc./fem.), molle (neutro); comparativo mollior, superlativo mollissimus — ‘suave, macio, flexível, terno; brando; fraco, sensível; complacente’.\",\"aliases\":[],\"exemplos\":[\"Verg. E. 2, 72\",\"Ov. M. 10, 92\",\"Cic. N. D. 2, 60\",\"Cæs. B. G. 5, 9\"],\"notas\":\"Entrada ampliada e padronizada com formas e graus conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_17332-e3",
     "volume_id": "faria",
     "doc_name": "chunk_17332",
@@ -3364,50 +2792,6 @@
     "notas": "Formas e sentidos confirmados em LS e Whitaker.",
     "raw_text": "{\"id\":\"chunk_17332:17332:2\",\"lemas\":[\"molliter\"],\"lema_canonico\":\"molliter\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"advérbio derivado de mollis: suavemente, docemente, gentilmente; calmamente, com brandura.\",\"aliases\":[],\"exemplos\":[\"Plaut. Ps. 5, 2, 7\",\"Cic. N. D. 2, 52\",\"Verg. A. 6, 847\",\"Plin. 15, 10, 9\"],\"notas\":\"Formas e sentidos confirmados em LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_17332:17332:2\",\"lemas\":[\"molliter\"],\"lema_canonico\":\"molliter\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"advérbio derivado de mollis: suavemente, docemente, gentilmente; calmamente, com brandura.\",\"aliases\":[],\"exemplos\":[\"Plaut. Ps. 5, 2, 7\",\"Cic. N. D. 2, 52\",\"Verg. A. 6, 847\",\"Plin. 15, 10, 9\"],\"notas\":\"Formas e sentidos confirmados em LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_17332-e4",
-    "volume_id": "faria",
-    "doc_name": "chunk_17332",
-    "page_num": 17332,
-    "lemmas": [
-      "mollio",
-      "mollio"
-    ],
-    "morfologia": "v. 4ª (-īre)",
-    "morph_render": "v. 4ª (-īre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "tornar macio; amolecer, suavizar; figuradamente: mitigar, domar, civilizar, tornar mais brando",
-    "exemplos": [],
-    "notas": "Paradigma e sentidos confirmados em Lewis & Short e Lat→Deu; restauração de macrons opcional. | [dedupe] redirect → chunk_17330:17330:0 | [dedupe] redirect → chunk_17330:17330:0",
-    "raw_text": "{\"id\":\"chunk_17332:17332:3\",\"lemas\":[\"mollio\",\"mollīo\"],\"lema_canonico\":\"mollio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"tornar macio; amolecer, suavizar; figuradamente: mitigar, domar, civilizar, tornar mais brando\",\"aliases\":[],\"exemplos\":[\"Cic. N. D. 2, 10, 26\",\"Hor. S. 1, 4, 20\",\"Ov. Met. 2, 411\"],\"notas\":\"Paradigma e sentidos confirmados em Lewis & Short e Lat→Deu; restauração de macrons opcional.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_17332:17332:3\",\"lemas\":[\"mollio\",\"mollīo\"],\"lema_canonico\":\"mollio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"tornar macio; amolecer, suavizar; figuradamente: mitigar, domar, civilizar, tornar mais brando\",\"aliases\":[],\"exemplos\":[\"Cic. N. D. 2, 10, 26\",\"Hor. S. 1, 4, 20\",\"Ov. Met. 2, 411\"],\"notas\":\"Paradigma e sentidos confirmados em Lewis & Short e Lat→Deu; restauração de macrons opcional.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_17333-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_17333",
-    "page_num": 17333,
-    "lemmas": [
-      "molliter",
-      "molliter"
-    ],
-    "morfologia": "adv.",
-    "morph_render": "adv.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Com suavidade; suavemente, brandamente; figuradamente: voluptuosamente, frouxamente, sem energia.",
-    "exemplos": [],
-    "notas": "Consolidado o lema e acepções segundo Whitaker e Lat→Deu; ajustada citação Vergiliana. | [dedupe] redirect → chunk_17332:17332:2 | [dedupe] redirect → chunk_17332:17332:2",
-    "raw_text": "{\"id\":\"chunk_17333:17333:0\",\"lemas\":[\"molliter\"],\"lema_canonico\":\"molliter\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"Com suavidade; suavemente, brandamente; figuradamente: voluptuosamente, frouxamente, sem energia.\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 2, 129\",\"Verg. En. 6, 847\",\"Cic. C. M. 5\",\"Cic. Off. 1, 105\"],\"notas\":\"Consolidado o lema e acepções segundo Whitaker e Lat→Deu; ajustada citação Vergiliana.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_17333:17333:0\",\"lemas\":[\"molliter\"],\"lema_canonico\":\"molliter\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"Com suavidade; suavemente, brandamente; figuradamente: voluptuosamente, frouxamente, sem energia.\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 2, 129\",\"Verg. En. 6, 847\",\"Cic. C. M. 5\",\"Cic. Off. 1, 105\"],\"notas\":\"Consolidado o lema e acepções segundo Whitaker e Lat→Deu; ajustada citação Vergiliana.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_17334-e1",
@@ -3652,28 +3036,6 @@
     "raw_json": "{\"id\":\"chunk_17343:17343:0\",\"lemas\":[\"Molossus\",\"Molōssus\",\"Molossūm\"],\"lema_canonico\":\"Molossus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[\"adj. (1/2)\"],\"definicao\":\"gentilício e adjetivo relativo aos Molossi; como substantivo: molossiano / cão molosso; em prosódia: pé métrico de três longas.\",\"aliases\":[],\"exemplos\":[\"Verg. G. 3, 405\",\"Hor. S. 2, 6, 114\",\"Lucr. 5, 1063\",\"Juv. 12, 108\"],\"notas\":\"Inclui usos substantivo, adjetivo e técnico (prosódia); fonte LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_17344-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_17344",
-    "page_num": 17344,
-    "lemmas": [
-      "Molossus",
-      "Molossus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Relativo aos Molossi; subst. masc.: cão molosso; também nome próprio (Filho de Pírro). Em prosódia: pé de três sílabas longas.",
-    "exemplos": [],
-    "notas": "Unifiquei as acepções (gentílico/adjetivo, substantivo e antropónimo) segundo LS e Whitaker. | [dedupe] redirect → chunk_17343:17343:0 | [dedupe] redirect → chunk_17343:17343:0",
-    "raw_text": "{\"id\":\"chunk_17344:17344:0\",\"lemas\":[\"Molossus\",\"Molossus\"],\"lema_canonico\":\"Molossus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Relativo aos Molossi; subst. masc.: cão molosso; também nome próprio (Filho de Pírro). Em prosódia: pé de três sílabas longas.\",\"aliases\":[],\"exemplos\":[\"Verg. G. 3, 405\",\"Ov. M. 1, 226\",\"Hor. S. 2, 6, 114\",\"Juv. 12, 108\",\"Juv. 14, 162\",\"Lucr. 5, 1063\",\"Quint. 9, 4, 82\",\"Serv. Verg. A. 3, 297\"],\"notas\":\"Unifiquei as acepções (gentílico/adjetivo, substantivo e antropónimo) segundo LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_17344:17344:0\",\"lemas\":[\"Molossus\",\"Molossus\"],\"lema_canonico\":\"Molossus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Relativo aos Molossi; subst. masc.: cão molosso; também nome próprio (Filho de Pírro). Em prosódia: pé de três sílabas longas.\",\"aliases\":[],\"exemplos\":[\"Verg. G. 3, 405\",\"Ov. M. 1, 226\",\"Hor. S. 2, 6, 114\",\"Juv. 12, 108\",\"Juv. 14, 162\",\"Lucr. 5, 1063\",\"Quint. 9, 4, 82\",\"Serv. Verg. A. 3, 297\"],\"notas\":\"Unifiquei as acepções (gentílico/adjetivo, substantivo e antropónimo) segundo LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_17345-e1",
     "volume_id": "faria",
     "doc_name": "chunk_17345",
@@ -3694,28 +3056,6 @@
     "notas": "Leitura incerta no OCR (Mŏleues). Whitaker não confirma forma pessoal; possível corruptela. Requer revisão.\n[ocr_pipeline 2025-08-16T23:14:43.755822Z] lemma_in='Moleus' → 'Micio' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:11:03Z] match direto em LS por lemma/lemma_norm | lemma_in='Micio' → 'Micio'",
     "raw_text": "{\"id\":\"chunk_17345:17345:0\",\"lemas\":[\"Moleus\",\"Molpeus\"],\"lema_canonico\":\"Moleus\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Nome próprio masculino; suposto guerreiro morto por Perseu (Ov. Met. 5,163).\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 5, 163\"],\"notas\":\"Leitura incerta no OCR (Mŏleues). Whitaker não confirma forma pessoal; possível corruptela. Requer revisão.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_17345:17345:0\",\"lemas\":[\"Moleus\",\"Molpeus\"],\"lema_canonico\":\"Moleus\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Nome próprio masculino; suposto guerreiro morto por Perseu (Ov. Met. 5,163).\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 5, 163\"],\"notas\":\"Leitura incerta no OCR (Mŏleues). Whitaker não confirma forma pessoal; possível corruptela. Requer revisão.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_17346-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_17346",
-    "page_num": 17346,
-    "lemmas": [
-      "molo",
-      "molo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "molo, molere: moer, triturar; reduzir a pó. Forma moluī = perf. ind. act. 1 sg.",
-    "exemplos": [],
-    "notas": "Primeira pessoa perfeita moluī (molui) atestada; entradas em Whitaker e Lat→Deu confirmam molo, molere. | [dedupe] redirect → chunk_17336:17336:0 | [dedupe] redirect → chunk_17336:17336:0",
-    "raw_text": "{\"id\":\"chunk_17346:17346:0\",\"lemas\":[\"molo\"],\"lema_canonico\":\"molo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"perf. act. ind. 1 s.\"],\"definicao\":\"molo, molere: moer, triturar; reduzir a pó. Forma moluī = perf. ind. act. 1 sg.\",\"aliases\":[\"molui\"],\"exemplos\":[],\"notas\":\"Primeira pessoa perfeita moluī (molui) atestada; entradas em Whitaker e Lat→Deu confirmam molo, molere.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_firstpass\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_17346:17346:0\",\"lemas\":[\"molo\"],\"lema_canonico\":\"molo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"perf. act. ind. 1 s.\"],\"definicao\":\"molo, molere: moer, triturar; reduzir a pó. Forma moluī = perf. ind. act. 1 sg.\",\"aliases\":[\"molui\"],\"exemplos\":[],\"notas\":\"Primeira pessoa perfeita moluī (molui) atestada; entradas em Whitaker e Lat→Deu confirmam molo, molere.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_firstpass\",\"conf:high\"]}"
   },
   {
     "id": "chunk_17347-e1",
@@ -3804,28 +3144,6 @@
     "notas": "Unificadas formas e sentidos com suporte em LS e Lat→Deu. | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='momentum' → 'mōmentum'",
     "raw_text": "{\"id\":\"chunk_17350:17350:0\",\"lemas\":[\"momentum\"],\"lema_canonico\":\"momentum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"momentum: impulso, movimento; influência, importância; peso; instante, momento.\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 2, 117\",\"Cic. Fin. 2, 38\",\"Ov. Met. 4, 180\"],\"notas\":\"Unificadas formas e sentidos com suporte em LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_17350:17350:0\",\"lemas\":[\"momentum\"],\"lema_canonico\":\"momentum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"momentum: impulso, movimento; influência, importância; peso; instante, momento.\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 2, 117\",\"Cic. Fin. 2, 38\",\"Ov. Met. 4, 180\"],\"notas\":\"Unificadas formas e sentidos com suporte em LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_17351-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_17351",
-    "page_num": 17351,
-    "lemmas": [
-      "mordeo",
-      "mordeo"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "mordēre: morder, roer, mastigar; ferir, fermentar; afligir, incomodar.",
-    "exemplos": [],
-    "notas": "Forma perfeita momordī; corrigido lema a partir de OCR e first_pass. | [dedupe] redirect → chunk_17317:17317:2 | [dedupe] redirect → chunk_17317:17317:2",
-    "raw_text": "{\"id\":\"chunk_17351:17351:0\",\"lemas\":[\"mordeo\"],\"lema_canonico\":\"mordeo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"mordēre: morder, roer, mastigar; ferir, fermentar; afligir, incomodar.\",\"aliases\":[\"momordi\"],\"exemplos\":[],\"notas\":\"Forma perfeita momordī; corrigido lema a partir de OCR e first_pass.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ocr\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_17351:17351:0\",\"lemas\":[\"mordeo\"],\"lema_canonico\":\"mordeo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"mordēre: morder, roer, mastigar; ferir, fermentar; afligir, incomodar.\",\"aliases\":[\"momordi\"],\"exemplos\":[],\"notas\":\"Forma perfeita momordī; corrigido lema a partir de OCR e first_pass.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ocr\",\"conf:high\"]}"
   },
   {
     "id": "chunk_17352-e1",
@@ -4466,28 +3784,6 @@
     "raw_json": "{\"id\":\"chunk_17379:17379:0\",\"lemas\":[\"monstrum\"],\"lema_canonico\":\"monstrum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"a divine omen, portent; an unnatural thing or event regarded as an omen; by extension, a monster.\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 1, 42, 93\"],\"notas\":\"Sentido religioso original emphasized (LS); forma e género corrigidos.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_17380-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_17380",
-    "page_num": 17380,
-    "lemmas": [
-      "monstrum",
-      "monstrum"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "a portent or prodigy regarded as an omen; by extension: monster, monstrous thing; a remarkable or marvellous thing",
-    "exemplos": [],
-    "notas": "Entrada alinhada com Lewis & Short and Whitaker; canonical citations retained. | [dedupe] redirect → chunk_17379:17379:0 | [dedupe] redirect → chunk_17379:17379:0",
-    "raw_text": "{\"id\":\"chunk_17380:17380:0\",\"lemas\":[\"monstrum\"],\"lema_canonico\":\"monstrum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"a portent or prodigy regarded as an omen; by extension: monster, monstrous thing; a remarkable or marvellous thing\",\"aliases\":[],\"exemplos\":[\"Verg. A. [En.] 3, 539\",\"Ter. Eun. 4, 4, 29\",\"Cic. Att. 4, 7, 1\"],\"notas\":\"Entrada alinhada com Lewis & Short and Whitaker; canonical citations retained.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_17380:17380:0\",\"lemas\":[\"monstrum\"],\"lema_canonico\":\"monstrum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"a portent or prodigy regarded as an omen; by extension: monster, monstrous thing; a remarkable or marvellous thing\",\"aliases\":[],\"exemplos\":[\"Verg. A. [En.] 3, 539\",\"Ter. Eun. 4, 4, 29\",\"Cic. Att. 4, 7, 1\"],\"notas\":\"Entrada alinhada com Lewis & Short and Whitaker; canonical citations retained.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_17381-e1",
     "volume_id": "faria",
     "doc_name": "chunk_17381",
@@ -4642,28 +3938,6 @@
     "raw_json": "{\"id\":\"chunk_17387:17387:0\",\"lemas\":[\"monticola\"],\"lema_canonico\":\"monticola\",\"morfologia\":\"s. masc. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"habitante das montanhas; montícola, alpinista (m./f.)\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 1, 193\"],\"notas\":\"Substantivo de gênero comum (m./f.); lema e sentido confirmados em Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_17388-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_17388",
-    "page_num": 17388,
-    "lemmas": [
-      "mons",
-      "mons"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "mons: a mountain; a huge rock or towering heap; also used figuratively.",
-    "exemplos": [],
-    "notas": "Lema canônico normalizado; genitivo montis incluído como variante. | [dedupe] redirect → chunk_17373:17373:0 | [dedupe] redirect → chunk_17373:17373:0",
-    "raw_text": "{\"id\":\"chunk_17388:17388:0\",\"lemas\":[\"mons\",\"montis\"],\"lema_canonico\":\"mons\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"mons: a mountain; a huge rock or towering heap; also used figuratively.\",\"aliases\":[],\"exemplos\":[\"Caes. B. G. 3, 1\",\"Ov. Met. 1, 44\"],\"notas\":\"Lema canônico normalizado; genitivo montis incluído como variante.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_17388:17388:0\",\"lemas\":[\"mons\",\"montis\"],\"lema_canonico\":\"mons\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"mons: a mountain; a huge rock or towering heap; also used figuratively.\",\"aliases\":[],\"exemplos\":[\"Caes. B. G. 3, 1\",\"Ov. Met. 1, 44\"],\"notas\":\"Lema canônico normalizado; genitivo montis incluído como variante.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_17389-e1",
     "volume_id": "faria",
     "doc_name": "chunk_17389",
@@ -4706,28 +3980,6 @@
     "notas": "Formas e referências alinhadas com Lewis & Short, Whitaker e Lat→Deu; preserve variantes grafadas.",
     "raw_text": "{\"id\":\"chunk_17390:17390:0\",\"lemas\":[\"montuosus\",\"montuosa\",\"montuosum\",\"montōsus\",\"montŭōsus\"],\"lema_canonico\":\"montuosus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"montanhoso, cheio de montes; também forma montosa; subst. pl. neut. montuōsa = regiões montanhosas\",\"aliases\":[],\"exemplos\":[\"Cic. Part. 10, 36\",\"Cic. Planc. 9, 22\",\"Cic. Lael. 19, 68\",\"Verg. A. 7, 744\",\"Plin. 11, 53, 116, § 280\",\"Plin. 12, 13, 28, § 48\",\"Vulg. Jer. 17, 26\"],\"notas\":\"Formas e referências alinhadas com Lewis & Short, Whitaker e Lat→Deu; preserve variantes grafadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_17390:17390:0\",\"lemas\":[\"montuosus\",\"montuosa\",\"montuosum\",\"montōsus\",\"montŭōsus\"],\"lema_canonico\":\"montuosus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"montanhoso, cheio de montes; também forma montosa; subst. pl. neut. montuōsa = regiões montanhosas\",\"aliases\":[],\"exemplos\":[\"Cic. Part. 10, 36\",\"Cic. Planc. 9, 22\",\"Cic. Lael. 19, 68\",\"Verg. A. 7, 744\",\"Plin. 11, 53, 116, § 280\",\"Plin. 12, 13, 28, § 48\",\"Vulg. Jer. 17, 26\"],\"notas\":\"Formas e referências alinhadas com Lewis & Short, Whitaker e Lat→Deu; preserve variantes grafadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_17391-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_17391",
-    "page_num": 17391,
-    "lemmas": [
-      "monumentum",
-      "monumentum"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "that which preserves the remembrance of anything; a memorial or monument (including tombs, statues), and by extension literary records or historical documents",
-    "exemplos": [],
-    "notas": "Redução de variantes tipográficas e consolidação das acepções conforme LS/Whitaker. | [dedupe] redirect → chunk_17362:17362:0 | [dedupe] redirect → chunk_17362:17362:0",
-    "raw_text": "{\"id\":\"chunk_17391:17391:0\",\"lemas\":[\"monumentum\"],\"lema_canonico\":\"monumentum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"that which preserves the remembrance of anything; a memorial or monument (including tombs, statues), and by extension literary records or historical documents\",\"aliases\":[],\"exemplos\":[\"Cic. Cat. 3, 26\",\"C. Nep. Dion. 10, 3\",\"Cic. Mil. 17\",\"Cic. Phil. 5, 17\"],\"notas\":\"Redução de variantes tipográficas e consolidação das acepções conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_17391:17391:0\",\"lemas\":[\"monumentum\"],\"lema_canonico\":\"monumentum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"that which preserves the remembrance of anything; a memorial or monument (including tombs, statues), and by extension literary records or historical documents\",\"aliases\":[],\"exemplos\":[\"Cic. Cat. 3, 26\",\"C. Nep. Dion. 10, 3\",\"Cic. Mil. 17\",\"Cic. Phil. 5, 17\"],\"notas\":\"Redução de variantes tipográficas e consolidação das acepções conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_17392-e1",

@@ -1,27 +1,5 @@
 [
   {
-    "id": "chunk_9800-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_9800",
-    "page_num": 9800,
-    "lemmas": [
-      "Ērĭgŏne",
-      "Ērĭgŏne"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Relativo a Erigone (p. ex. de Erigone, filha de Icárus).",
-    "exemplos": [],
-    "notas": "Adjectivo formado a partir do nome próprio Erigone; termo atestado em fontes poéticas (Ov.).\n[ocr_pipeline 2025-08-16T23:12:08.525194Z] lemma_in='Erigonius' → 'Ērĭgŏne' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:07:35Z] match direto em LS por lemma/lemma_norm | lemma_in='Ērĭgŏne' → 'Ērĭgŏne' | [dedupe] redirect → chunk_9799:9799:2 | [dedupe] redirect → chunk_9799:9799:2",
-    "raw_text": "{\"id\":\"chunk_9800:9800:0\",\"lemas\":[\"Erigonius\",\"Erigonia\",\"Erigonium\"],\"lema_canonico\":\"Erigonius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo a Erigone (p. ex. de Erigone, filha de Icárus).\",\"aliases\":[],\"exemplos\":[\"Ov. Fast. 5, 233\"],\"notas\":\"Adjectivo formado a partir do nome próprio Erigone; termo atestado em fontes poéticas (Ov.).\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}",
-    "raw_json": "{\"id\":\"chunk_9800:9800:0\",\"lemas\":[\"Erigonius\",\"Erigonia\",\"Erigonium\"],\"lema_canonico\":\"Erigonius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo a Erigone (p. ex. de Erigone, filha de Icárus).\",\"aliases\":[],\"exemplos\":[\"Ov. Fast. 5, 233\"],\"notas\":\"Adjectivo formado a partir do nome próprio Erigone; termo atestado em fontes poéticas (Ov.).\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}"
-  },
-  {
     "id": "chunk_9801-e1",
     "volume_id": "faria",
     "doc_name": "chunk_9801",
@@ -176,28 +154,6 @@
     "raw_json": "{\"id\":\"chunk_9807:9807:0\",\"lemas\":[\"Erinys\",\"Erinnys\",\"Erīnys\"],\"lema_canonico\":\"Erinys\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Erínis; uma das Fúrias (deusa da vingança); por extensão, fúria, flagelo, furor\",\"aliases\":[],\"exemplos\":[\"Verg. En. 7, 447\",\"Verg. En. 2, 573\",\"Prop. 2, 20, 29\"],\"notas\":\"Uniformizado lema e variantes conforme Lewis & Short; substantivo próprio grego usado em latim.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_9808-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_9808",
-    "page_num": 9808,
-    "lemmas": [
-      "Ĕrīnys",
-      "Ĕrīnys"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "the Fury (one of the Furies) of Greek myth; a personified avenging spirit or frenzy",
-    "exemplos": [],
-    "notas": "Entrada grega; aceite forma latina Erinys/Erinyes conforme Lewis & Short. | [dedupe] redirect → chunk_9807:9807:0 | [dedupe] redirect → chunk_9807:9807:0 | [ocr_fix 2025-08-17T19:48:00Z] match direto em LS por lemma/lemma_norm | lemma_in='Erinys' → 'Ĕrīnys'",
-    "raw_text": "{\"id\":\"chunk_9808:9808:0\",\"lemas\":[\"Erinys\",\"Erinnys\",\"Erinyes\"],\"lema_canonico\":\"Erinys\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"the Fury (one of the Furies) of Greek myth; a personified avenging spirit or frenzy\",\"aliases\":[],\"exemplos\":[\"Verg. A. 7, 447\",\"Ov. M. 1, 241\",\"Ov. M. 1, 725\"],\"notas\":\"Entrada grega; aceite forma latina Erinys/Erinyes conforme Lewis & Short.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_9808:9808:0\",\"lemas\":[\"Erinys\",\"Erinnys\",\"Erinyes\"],\"lema_canonico\":\"Erinys\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"the Fury (one of the Furies) of Greek myth; a personified avenging spirit or frenzy\",\"aliases\":[],\"exemplos\":[\"Verg. A. 7, 447\",\"Ov. M. 1, 241\",\"Ov. M. 1, 725\"],\"notas\":\"Entrada grega; aceite forma latina Erinys/Erinyes conforme Lewis & Short.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_9809-e1",
     "volume_id": "faria",
     "doc_name": "chunk_9809",
@@ -220,28 +176,6 @@
     "raw_json": "{\"id\":\"chunk_9809:9809:0\",\"lemas\":[\"Eriphyla\",\"Eriphyla\",\"Ēriphȳla\"],\"lema_canonico\":\"Eriphyla\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Eriphyla (Eriphyla), daughter of Talaüs, wife of Amphiaraus, who betrayed him; slain by her son Alcmaeon\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 2, 4, 18\",\"Prop. 2, 16, 29\"],\"notas\":\"Normalizada a forma com y (Eriphyla) e a declinação 1ª conforme Lewis & Short.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_9810-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_9810",
-    "page_num": 9810,
-    "lemmas": [
-      "eripio",
-      "eripio"
-    ],
-    "morfologia": "v. 3ª -iō (-ere)",
-    "morph_render": "v. 3ª -iō (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "1) arrancar, arrebatar; 2) livrar, libertar; 3) (fig.) fazer desaparecer, impedir; 4) (poét.) apressar",
-    "exemplos": [],
-    "notas": "Lema alinhado com LS e Lat→Deu (ēripere, ēripiō). | [dedupe] redirect → chunk_9811:9811:0 | [dedupe] redirect → chunk_9811:9811:0",
-    "raw_text": "{\"id\":\"chunk_9810:9810:0\",\"lemas\":[\"eripio\",\"eripere\"],\"lema_canonico\":\"eripio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[],\"definicao\":\"1) arrancar, arrebatar; 2) livrar, libertar; 3) (fig.) fazer desaparecer, impedir; 4) (poét.) apressar\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 5, 12\",\"Cic. Verr. 1, 142\",\"Cic. Br. 90\",\"Cic. Nat. 1, 6\",\"Verg. Aen. 2, 619\"],\"notas\":\"Lema alinhado com LS e Lat→Deu (ēripere, ēripiō).\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_9810:9810:0\",\"lemas\":[\"eripio\",\"eripere\"],\"lema_canonico\":\"eripio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[],\"definicao\":\"1) arrancar, arrebatar; 2) livrar, libertar; 3) (fig.) fazer desaparecer, impedir; 4) (poét.) apressar\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 5, 12\",\"Cic. Verr. 1, 142\",\"Cic. Br. 90\",\"Cic. Nat. 1, 6\",\"Verg. Aen. 2, 619\"],\"notas\":\"Lema alinhado com LS e Lat→Deu (ēripere, ēripiō).\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_9811-e1",
     "volume_id": "faria",
     "doc_name": "chunk_9811",
@@ -262,28 +196,6 @@
     "notas": "Corrigido para o lema infinitivo ēripiō; perf. ēripūī attested (Lat→Deu).",
     "raw_text": "{\"id\":\"chunk_9811:9811:0\",\"lemas\":[\"ēripiō\",\"ēripere\"],\"lema_canonico\":\"ēripiō\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[],\"definicao\":\"to snatch away, take away by force; to rescue, deliver; (perf.) ēripūī/ēripuī = I snatched away\",\"aliases\":[],\"exemplos\":[\"(see uses across Classical prose)\"],\"notas\":\"Corrigido para o lema infinitivo ēripiō; perf. ēripūī attested (Lat→Deu).\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_9811:9811:0\",\"lemas\":[\"ēripiō\",\"ēripere\"],\"lema_canonico\":\"ēripiō\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[],\"definicao\":\"to snatch away, take away by force; to rescue, deliver; (perf.) ēripūī/ēripuī = I snatched away\",\"aliases\":[],\"exemplos\":[\"(see uses across Classical prose)\"],\"notas\":\"Corrigido para o lema infinitivo ēripiō; perf. ēripūī attested (Lat→Deu).\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_9812-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_9812",
-    "page_num": 9812,
-    "lemmas": [
-      "Ĕrĭsichthon",
-      "Ĕrĭsichthon"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada redireciona para Erysichthon; preservei como redirect. | [ocr_fix 2025-08-17T19:48:00Z] match direto em LS por lemma/lemma_norm | lemma_in='Erisichthon' → 'Ĕrĭsichthon'",
-    "raw_text": "{\"id\":\"chunk_9812:9812:0\",\"lemas\":[\"Erisichthon\"],\"lema_canonico\":\"Erisichthon\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Erysichthon\"],\"exemplos\":[],\"notas\":\"Entrada redireciona para Erysichthon; preservei como redirect.\",\"flags\":[\"src_ls\",\"conf:med\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_9812:9812:0\",\"lemas\":[\"Erisichthon\"],\"lema_canonico\":\"Erisichthon\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Erysichthon\"],\"exemplos\":[],\"notas\":\"Entrada redireciona para Erysichthon; preservei como redirect.\",\"flags\":[\"src_ls\",\"conf:med\",\"redirect_only\"]}"
   },
   {
     "id": "chunk_9813-e1",
@@ -506,28 +418,6 @@
     "raw_json": "{\"id\":\"chunk_9822:9822:0\",\"lemas\":[\"eroticus\"],\"lema_canonico\":\"eroticus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo ao amor; erótico, amatorio (do gr. erotikos).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Whitaker registra 'eroticus' como adjetivo; leitura do primeiro passado ligando-o como particípio de erōdo parece equivocada — verificado e retificado.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_9823-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_9823",
-    "page_num": 9823,
-    "lemmas": [
-      "ĕrōtĭcus",
-      "ĕrōtĭcus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Relativo ao amor; amatorio, erótico.",
-    "exemplos": [],
-    "notas": "Corroborado por Whitaker; forma e significado padronizados. | [dedupe] redirect → chunk_9822:9822:0 | [dedupe] redirect → chunk_9822:9822:0 | [ocr_fix 2025-08-17T19:57:44Z] match direto em Gaffiot por lemma/lemma_norm | lemma_in='eroticus' → 'ĕrōtĭcus'",
-    "raw_text": "{\"id\":\"chunk_9823:9823:0\",\"lemas\":[\"eroticus\"],\"lema_canonico\":\"eroticus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo ao amor; amatorio, erótico.\",\"aliases\":[],\"exemplos\":[\"Ael. Gel. 19, 9, 4\"],\"notas\":\"Corroborado por Whitaker; forma e significado padronizados.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_9823:9823:0\",\"lemas\":[\"eroticus\"],\"lema_canonico\":\"eroticus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo ao amor; amatorio, erótico.\",\"aliases\":[],\"exemplos\":[\"Ael. Gel. 19, 9, 4\"],\"notas\":\"Corroborado por Whitaker; forma e significado padronizados.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_9824-e1",
     "volume_id": "faria",
     "doc_name": "chunk_9824",
@@ -592,28 +482,6 @@
     "notas": "Normalizei lema e condensiei sentidos conforme LS/Whitaker.",
     "raw_text": "{\"id\":\"chunk_9826:9826:0\",\"lemas\":[\"erraticus\",\"errātĭcus\"],\"lema_canonico\":\"erraticus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Errante, que vagueia para cá e para lá; aplicado a pessoas, corpos celestes e plantas (uso ante- e post-class.).\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 6, 333\",\"Gell. 3, 10, 2\",\"Sen. Q. N. 7, 23\",\"Plin. 20, 9, § 92\"],\"notas\":\"Normalizei lema e condensiei sentidos conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_9826:9826:0\",\"lemas\":[\"erraticus\",\"errātĭcus\"],\"lema_canonico\":\"erraticus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Errante, que vagueia para cá e para lá; aplicado a pessoas, corpos celestes e plantas (uso ante- e post-class.).\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 6, 333\",\"Gell. 3, 10, 2\",\"Sen. Q. N. 7, 23\",\"Plin. 20, 9, § 92\"],\"notas\":\"Normalizei lema e condensiei sentidos conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_9827-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_9827",
-    "page_num": 9827,
-    "lemmas": [
-      "erratio",
-      "erratio"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "errātiō, -ōnis f.: desvio, errância; afastamento, desvio de caminho; por extensão, erro/engano.",
-    "exemplos": [],
-    "notas": "Corresponde a errātiō (LS); ampliado com exemplos ls. | [dedupe] redirect → chunk_9831:9831:0 | [dedupe] redirect → chunk_9831:9831:0",
-    "raw_text": "{\"id\":\"chunk_9827:9827:0\",\"lemas\":[\"erratio\",\"errātiō\"],\"lema_canonico\":\"erratio\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"errātiō, -ōnis f.: desvio, errância; afastamento, desvio de caminho; por extensão, erro/engano.\",\"aliases\":[],\"exemplos\":[\"Ter. Ad. 4, 2, 41\",\"Plaut. Rud. 1, 2, 90\",\"Cic. Nat. 2, 56\"],\"notas\":\"Corresponde a errātiō (LS); ampliado com exemplos ls.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_9827:9827:0\",\"lemas\":[\"erratio\",\"errātiō\"],\"lema_canonico\":\"erratio\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"errātiō, -ōnis f.: desvio, errância; afastamento, desvio de caminho; por extensão, erro/engano.\",\"aliases\":[],\"exemplos\":[\"Ter. Ad. 4, 2, 41\",\"Plaut. Rud. 1, 2, 90\",\"Cic. Nat. 2, 56\"],\"notas\":\"Corresponde a errātiō (LS); ampliado com exemplos ls.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_9828-e1",
@@ -924,28 +792,6 @@
     "raw_json": "{\"id\":\"chunk_9839:9839:1\",\"lemas\":[\"erictio\"],\"lema_canonico\":\"erictio\",\"morfologia\":\"\",\"morph_extra\":[],\"definicao\":\"Entrada incompleta ou corrompida; forma não identificada nas fontes consultadas.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Possível erro de OCR ou quebra tipográfica; não encontrada correspondência em LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_9840-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_9840",
-    "page_num": 9840,
-    "lemmas": [
-      "ervum",
-      "ervum"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Uma leguminosa cultivada (erva/vetch), ervum ervilia; semente usada como alimento.",
-    "exemplos": [],
-    "notas": "Normalizado genitivo e gênero conforme LS e Whitaker. | [dedupe] redirect → chunk_12534:12534:0 | [dedupe] redirect → chunk_12534:12534:0",
-    "raw_text": "{\"id\":\"chunk_9840:9840:0\",\"lemas\":[\"ervum\"],\"lema_canonico\":\"ervum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Uma leguminosa cultivada (erva/vetch), ervum ervilia; semente usada como alimento.\",\"aliases\":[],\"exemplos\":[\"Hor. Sat. 2, 6, 117\",\"Verg. E. 3, 100\",\"Col. 2, 10, 34\"],\"notas\":\"Normalizado genitivo e gênero conforme LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_9840:9840:0\",\"lemas\":[\"ervum\"],\"lema_canonico\":\"ervum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Uma leguminosa cultivada (erva/vetch), ervum ervilia; semente usada como alimento.\",\"aliases\":[],\"exemplos\":[\"Hor. Sat. 2, 6, 117\",\"Verg. E. 3, 100\",\"Col. 2, 10, 34\"],\"notas\":\"Normalizado genitivo e gênero conforme LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_9841-e1",
     "volume_id": "faria",
     "doc_name": "chunk_9841",
@@ -1122,28 +968,6 @@
     "raw_json": "{\"id\":\"chunk_9848:9848:0\",\"lemas\":[\"Erythrae\"],\"lema_canonico\":\"Erythrae\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"topónimo; Erythrae (cidade/território) — conforme a passagem citada em Liv.\",\"aliases\":[],\"exemplos\":[\"T. Liv. 44, 28, 12\"],\"notas\":\"Entrada retida a partir da primeira passada; identificação topográfica conforme o indicativo em T. Liv.; revisão externa necessária.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_9849-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_9849",
-    "page_num": 9849,
-    "lemmas": [
-      "Ĕrўcīnus",
-      "Ĕrўcīnus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "gentílico/plural: habitantes de Erythrae (os erythraíos)",
-    "exemplos": [],
-    "notas": "Forma plural gentílica normalizada; revisão adicional recomendada para confirmação morfológica plural.\n[ocr_pipeline 2025-08-16T23:12:12.346264Z] lemma_in='Erythraei' → 'Ĕrўcīnus' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:07:40Z] match direto em LS por lemma/lemma_norm | lemma_in='Ĕrўcīnus' → 'Ĕrўcīnus' | [dedupe] redirect → chunk_9841:9841:0 | [dedupe] redirect → chunk_9841:9841:0",
-    "raw_text": "{\"id\":\"chunk_9849:9849:0\",\"lemas\":[\"Erythraei\"],\"lema_canonico\":\"Erythraei\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"gentílico/plural: habitantes de Erythrae (os erythraíos)\",\"aliases\":[\"Erythræi\"],\"exemplos\":[\"T. Liv. 38, 38, 10\"],\"notas\":\"Forma plural gentílica normalizada; revisão adicional recomendada para confirmação morfológica plural.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}",
-    "raw_json": "{\"id\":\"chunk_9849:9849:0\",\"lemas\":[\"Erythraei\"],\"lema_canonico\":\"Erythraei\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"gentílico/plural: habitantes de Erythrae (os erythraíos)\",\"aliases\":[\"Erythræi\"],\"exemplos\":[\"T. Liv. 38, 38, 10\"],\"notas\":\"Forma plural gentílica normalizada; revisão adicional recomendada para confirmação morfológica plural.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}"
-  },
-  {
     "id": "chunk_9850-e1",
     "volume_id": "faria",
     "doc_name": "chunk_9850",
@@ -1254,28 +1078,6 @@
     "raw_json": "{\"id\":\"chunk_9854:9854:0\",\"lemas\":[\"esse\"],\"lema_canonico\":\"esse\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"imp.\"],\"definicao\":\"verbo 'sum, esse' — ser, estar; es = 2.ª pessoa sing. do presente do indicativo; também atestado como imperativo singular.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma 'es' confirmada como 2ª sg. de sum e como imperativo em fontes léxicas.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_9854-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_9854",
-    "page_num": 9854,
-    "lemmas": [
-      "edo",
-      "edo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "edō, edere, ēdī, ēsum: comer, consumir; aqui a forma 2.ª pessoa do singular do indicativo presente (edis).",
-    "exemplos": [],
-    "notas": "Forma correta 'edis' como 2. sg. pres. ind. de edō; confirmado por LS e Lat→Deu. | [dedupe] redirect → chunk_15854:15854:2 | [dedupe] redirect → chunk_15854:15854:2",
-    "raw_text": "{\"id\":\"chunk_9854:9854:1\",\"lemas\":[\"edo\",\"edis\"],\"lema_canonico\":\"edo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"2. sg. pres. ind. act.\"],\"definicao\":\"edō, edere, ēdī, ēsum: comer, consumir; aqui a forma 2.ª pessoa do singular do indicativo presente (edis).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma correta 'edis' como 2. sg. pres. ind. de edō; confirmado por LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_9854:9854:1\",\"lemas\":[\"edo\",\"edis\"],\"lema_canonico\":\"edo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"2. sg. pres. ind. act.\"],\"definicao\":\"edō, edere, ēdī, ēsum: comer, consumir; aqui a forma 2.ª pessoa do singular do indicativo presente (edis).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma correta 'edis' como 2. sg. pres. ind. de edō; confirmado por LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_9855-e1",
     "volume_id": "faria",
     "doc_name": "chunk_9855",
@@ -1318,50 +1120,6 @@
     "notas": "Consolidado com base em Lewis & Short e Whitaker; fornecidas variantes de gênero/numero.",
     "raw_text": "{\"id\":\"chunk_9856:9856:0\",\"lemas\":[\"escarius\",\"escaria\",\"escarium\"],\"lema_canonico\":\"escarius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo à comida; próprio para refeições; figuradamente: próprio para isca (em Plauto)\",\"aliases\":[],\"exemplos\":[\"Varr. L. Lat. 5, §120\",\"Juv. 12, 46\",\"Plin. H. Nat. 14, 42\",\"Plau. Men. 1, 1, 18\"],\"notas\":\"Consolidado com base em Lewis & Short e Whitaker; fornecidas variantes de gênero/numero.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_9856:9856:0\",\"lemas\":[\"escarius\",\"escaria\",\"escarium\"],\"lema_canonico\":\"escarius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo à comida; próprio para refeições; figuradamente: próprio para isca (em Plauto)\",\"aliases\":[],\"exemplos\":[\"Varr. L. Lat. 5, §120\",\"Juv. 12, 46\",\"Plin. H. Nat. 14, 42\",\"Plau. Men. 1, 1, 18\"],\"notas\":\"Consolidado com base em Lewis & Short e Whitaker; fornecidas variantes de gênero/numero.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_9857-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_9857",
-    "page_num": 9857,
-    "lemmas": [
-      "esca",
-      "esca"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "ēsca, -ae, f.: alimento, comida; prato, mantimento; também isca (para animais/peixes).",
-    "exemplos": [],
-    "notas": "Definição combinada a partir de LS e Whitaker. | [dedupe] redirect → chunk_9855:9855:0 | [dedupe] redirect → chunk_9855:9855:0",
-    "raw_text": "{\"id\":\"chunk_9857:9857:0\",\"lemas\":[\"esca\"],\"lema_canonico\":\"esca\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"ēsca, -ae, f.: alimento, comida; prato, mantimento; também isca (para animais/peixes).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Definição combinada a partir de LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_9857:9857:0\",\"lemas\":[\"esca\"],\"lema_canonico\":\"esca\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"ēsca, -ae, f.: alimento, comida; prato, mantimento; também isca (para animais/peixes).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Definição combinada a partir de LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_9857-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_9857",
-    "page_num": 9857,
-    "lemmas": [
-      "esca",
-      "esca"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "'escas' é forma (acc. pl.)/variante de esca; entrada como redirecionamento para esca. | [dedupe] redirect → chunk_9855:9855:0 | [dedupe] redirect → chunk_9855:9855:0",
-    "raw_text": "{\"id\":\"chunk_9857:9857:1\",\"lemas\":[\"esca\",\"escas\"],\"lema_canonico\":\"esca\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"esca\"],\"exemplos\":[],\"notas\":\"'escas' é forma (acc. pl.)/variante de esca; entrada como redirecionamento para esca.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_9857:9857:1\",\"lemas\":[\"esca\",\"escas\"],\"lema_canonico\":\"esca\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"esca\"],\"exemplos\":[],\"notas\":\"'escas' é forma (acc. pl.)/variante de esca; entrada como redirecionamento para esca.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"redirect_only\"]}"
   },
   {
     "id": "chunk_9858-e1",
@@ -1430,28 +1188,6 @@
     "raw_json": "{\"id\":\"chunk_9860:9860:0\",\"lemas\":[\"descensio\",\"dēscēnsio\"],\"lema_canonico\":\"descensio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"a going down; descent, the action of going down (sailing down, bath); 'desembarque, descida'\",\"aliases\":[],\"exemplos\":[\"T. Liv. 8, 17, 9\"],\"notas\":\"Correto como dēscēnsio (-ōnis); alinhado com LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_9860-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_9860",
-    "page_num": 9860,
-    "lemmas": [
-      "descensus",
-      "descensus"
-    ],
-    "morfologia": "s. masc. 4ª (-us)",
-    "morph_render": "s. masc. 4ª (-us)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "descent; a going down, a descending way; also concretely a descent or slope",
-    "exemplos": [],
-    "notas": "Registrado como dēscēnsus -ūs, m. (LS, Whitaker). Preferido como substantivo 4ª decl. | [dedupe] redirect → chunk_8134:8134:0 | [dedupe] redirect → chunk_8134:8134:0",
-    "raw_text": "{\"id\":\"chunk_9860:9860:1\",\"lemas\":[\"descensus\",\"dēscēnsus\"],\"lema_canonico\":\"descensus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"descent; a going down, a descending way; also concretely a descent or slope\",\"aliases\":[],\"exemplos\":[\"Verg. A. 6, 126\"],\"notas\":\"Registrado como dēscēnsus -ūs, m. (LS, Whitaker). Preferido como substantivo 4ª decl.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_9860:9860:1\",\"lemas\":[\"descensus\",\"dēscēnsus\"],\"lema_canonico\":\"descensus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"descent; a going down, a descending way; also concretely a descent or slope\",\"aliases\":[],\"exemplos\":[\"Verg. A. 6, 126\"],\"notas\":\"Registrado como dēscēnsus -ūs, m. (LS, Whitaker). Preferido como substantivo 4ª decl.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_9861-e1",
     "volume_id": "faria",
     "doc_name": "chunk_9861",
@@ -1516,28 +1252,6 @@
     "notas": "Registro do adjetivo com uso substantivado (neut. pl.) atestado em fontes; forma -ōrum confirmada no OCR e em fontes lexicográficas.",
     "raw_text": "{\"id\":\"chunk_9863:9863:0\",\"lemas\":[\"esculentus\",\"esculenta\"],\"lema_canonico\":\"esculentus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"used as neut. pl. noun (esculenta, -ōrum)\"],\"definicao\":\"esculentus, -a, -um: comestível, próprio para alimento; como substantivo neutro plural (esculenta, -ōrum) refere-se a alimentos, manjares.\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 2, 141\"],\"notas\":\"Registro do adjetivo com uso substantivado (neut. pl.) atestado em fontes; forma -ōrum confirmada no OCR e em fontes lexicográficas.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_9863:9863:0\",\"lemas\":[\"esculentus\",\"esculenta\"],\"lema_canonico\":\"esculentus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"used as neut. pl. noun (esculenta, -ōrum)\"],\"definicao\":\"esculentus, -a, -um: comestível, próprio para alimento; como substantivo neutro plural (esculenta, -ōrum) refere-se a alimentos, manjares.\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 2, 141\"],\"notas\":\"Registro do adjetivo com uso substantivado (neut. pl.) atestado em fontes; forma -ōrum confirmada no OCR e em fontes lexicográficas.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_9864-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_9864",
-    "page_num": 9864,
-    "lemmas": [
-      "esculentus",
-      "esculentus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Comestível, próprio para alimentação; fit for eating, eatable.",
-    "exemplos": [],
-    "notas": "Grafia normalizada para a clássica; suporte em Lewis & Short, Whitaker e Lat→Deu. | [dedupe] redirect → chunk_9863:9863:0 | [dedupe] redirect → chunk_9863:9863:0",
-    "raw_text": "{\"id\":\"chunk_9864:9864:0\",\"lemas\":[\"esculentus\",\"esculenta\",\"esculentum\"],\"lema_canonico\":\"esculentus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Comestível, próprio para alimentação; fit for eating, eatable.\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 8, 219\",\"Cic. Phil. 2, 25\"],\"notas\":\"Grafia normalizada para a clássica; suporte em Lewis & Short, Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_9864:9864:0\",\"lemas\":[\"esculentus\",\"esculenta\",\"esculentum\"],\"lema_canonico\":\"esculentus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Comestível, próprio para alimentação; fit for eating, eatable.\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 8, 219\",\"Cic. Phil. 2, 25\"],\"notas\":\"Grafia normalizada para a clássica; suporte em Lewis & Short, Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_9865-e1",
@@ -1716,28 +1430,6 @@
     "raw_json": "{\"id\":\"chunk_9872:9872:0\",\"lemas\":[\"Esquilinus\"],\"lema_canonico\":\"Esquilinus\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Monte Esquilino, uma das sete colinas de Roma, situado a leste da cidade.\",\"aliases\":[],\"exemplos\":[\"Vetr. 1, 7\"],\"notas\":\"Entrada baseada apenas na primeira passada; confirmações lexicográficas externas não fornecidas aqui.\",\"flags\":[\"src_firstpass\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_9873-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_9873",
-    "page_num": 9873,
-    "lemmas": [
-      "Esquilinus",
-      "Esquilinus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "relativo ao monte Esquilino (ou à sua área); pertencente ao Esquilino.",
-    "exemplos": [],
-    "notas": "Adjetivo clássico; formas feminina e neutra incluídas em 'lemas' como variantes. Removidos restos de OCR irrelevantes. | [dedupe] redirect → chunk_9871:9871:0 | [dedupe] redirect → chunk_9871:9871:0",
-    "raw_text": "{\"id\":\"chunk_9873:9873:0\",\"lemas\":[\"Esquilinus\",\"Esquilina\",\"Esquilinum\"],\"lema_canonico\":\"Esquilinus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo ao monte Esquilino (ou à sua área); pertencente ao Esquilino.\",\"aliases\":[],\"exemplos\":[\"Cic. Pis. 55\"],\"notas\":\"Adjetivo clássico; formas feminina e neutra incluídas em 'lemas' como variantes. Removidos restos de OCR irrelevantes.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_9873:9873:0\",\"lemas\":[\"Esquilinus\",\"Esquilina\",\"Esquilinum\"],\"lema_canonico\":\"Esquilinus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo ao monte Esquilino (ou à sua área); pertencente ao Esquilino.\",\"aliases\":[],\"exemplos\":[\"Cic. Pis. 55\"],\"notas\":\"Adjetivo clássico; formas feminina e neutra incluídas em 'lemas' como variantes. Removidos restos de OCR irrelevantes.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_9873-e2",
     "volume_id": "faria",
     "doc_name": "chunk_9873",
@@ -1826,72 +1518,6 @@
     "raw_json": "{\"id\":\"chunk_9876:9876:0\",\"lemas\":[\"essedum\"],\"lema_canonico\":\"essedum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"essedum: carro (essedum/essēda) — carro de guerra ligero de duas rodas; também veículo de transporte\",\"aliases\":[\"esseda\"],\"exemplos\":[\"Caes. B. Gal. 5, 9, 3\",\"Cic. Phil. 2, 58\"],\"notas\":\"Lema neutro confirmado; esseda mantida como variante. Fontes concordam sobre sentido geral.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"src_firstpass\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_9877-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_9877",
-    "page_num": 9877,
-    "lemmas": [
-      "essentia",
-      "essentia"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "o ser, a essência ou natureza de uma coisa; transl. do gr. οὐσία.",
-    "exemplos": [],
-    "notas": "Padronizei morfologia para declinação 1ª; confirmado em LS e Whitaker. | [dedupe] redirect → chunk_15854:15854:0 | [dedupe] redirect → chunk_15854:15854:0",
-    "raw_text": "{\"id\":\"chunk_9877:9877:0\",\"lemas\":[\"essentia\",\"essentĭa\"],\"lema_canonico\":\"essentia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"o ser, a essência ou natureza de uma coisa; transl. do gr. οὐσία.\",\"aliases\":[],\"exemplos\":[\"Quint. 2, 14, 2\"],\"notas\":\"Padronizei morfologia para declinação 1ª; confirmado em LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_9877:9877:0\",\"lemas\":[\"essentia\",\"essentĭa\"],\"lema_canonico\":\"essentia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"o ser, a essência ou natureza de uma coisa; transl. do gr. οὐσία.\",\"aliases\":[],\"exemplos\":[\"Quint. 2, 14, 2\"],\"notas\":\"Padronizei morfologia para declinação 1ª; confirmado em LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_9877-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_9877",
-    "page_num": 9877,
-    "lemmas": [
-      "ēsĭto",
-      "ēsĭto"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "to be wont to eat; to eat — ter o hábito de comer, comer.",
-    "exemplos": [],
-    "notas": "Identifiquei ēsĭto (LS) e esito (Lat→Deu) como variantes gráficas; normalizei lema canônico. | [dedupe] redirect → chunk_9869:9869:0 | [dedupe] redirect → chunk_9869:9869:0",
-    "raw_text": "{\"id\":\"chunk_9877:9877:1\",\"lemas\":[\"ēsĭto\",\"esito\",\"essito\"],\"lema_canonico\":\"ēsĭto\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"to be wont to eat; to eat — ter o hábito de comer, comer.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Identifiquei ēsĭto (LS) e esito (Lat→Deu) como variantes gráficas; normalizei lema canônico.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_9877:9877:1\",\"lemas\":[\"ēsĭto\",\"esito\",\"essito\"],\"lema_canonico\":\"ēsĭto\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"to be wont to eat; to eat — ter o hábito de comer, comer.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Identifiquei ēsĭto (LS) e esito (Lat→Deu) como variantes gráficas; normalizei lema canônico.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_9877-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_9877",
-    "page_num": 9877,
-    "lemmas": [
-      "ēsus",
-      "ēsus"
-    ],
-    "morfologia": "s. masc. 4ª (-us)",
-    "morph_render": "s. masc. 4ª (-us)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "substantivo/forma supina relacionada a edo — o ato de comer; forma supina citada (Plaut. Ps. 824).",
-    "exemplos": [],
-    "notas": "Tratei como substantivo 4ª declinação (ēsus/esu) e marquei 'sup.' em morph_extra para indicar função supina. | [dedupe] redirect → chunk_9890:9890:0 | [dedupe] redirect → chunk_9890:9890:0",
-    "raw_text": "{\"id\":\"chunk_9877:9877:2\",\"lemas\":[\"ēsus\",\"esu\",\"essū\",\"esū\"],\"lema_canonico\":\"ēsus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[\"sup.\"],\"definicao\":\"substantivo/forma supina relacionada a edo — o ato de comer; forma supina citada (Plaut. Ps. 824).\",\"aliases\":[],\"exemplos\":[\"Plaut. Ps. 824\"],\"notas\":\"Tratei como substantivo 4ª declinação (ēsus/esu) e marquei 'sup.' em morph_extra para indicar função supina.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_9877:9877:2\",\"lemas\":[\"ēsus\",\"esu\",\"essū\",\"esū\"],\"lema_canonico\":\"ēsus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[\"sup.\"],\"definicao\":\"substantivo/forma supina relacionada a edo — o ato de comer; forma supina citada (Plaut. Ps. 824).\",\"aliases\":[],\"exemplos\":[\"Plaut. Ps. 824\"],\"notas\":\"Tratei como substantivo 4ª declinação (ēsus/esu) e marquei 'sup.' em morph_extra para indicar função supina.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_9878-e1",
     "volume_id": "faria",
     "doc_name": "chunk_9878",
@@ -1936,94 +1562,6 @@
     "raw_json": "{\"id\":\"chunk_9879:9879:0\",\"lemas\":[\"Essui\"],\"lema_canonico\":\"Essui\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"tribo gaulesa na Bélgica (prov. W. do Sequana); mencionada por Caesar (B. G. 5, 24, 2).\",\"aliases\":[],\"exemplos\":[\"Caes. B. G. 5, 24, 2\"],\"notas\":\"Forma plural reconhecida em Lewis & Short (Essŭi, ōrum); forma nominal tratada como nome de tribo. Marcar revisão por forma plural/declinação.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_9879-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_9879",
-    "page_num": 9879,
-    "lemmas": [
-      "ēsŭrĭo",
-      "ēsŭrĭo"
-    ],
-    "morfologia": "v. 4ª (-īre)",
-    "morph_render": "v. 4ª (-īre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "verbo: ter fome, desejar comer (ēsurīre). Entrada 'essurio' indicada como variante ortográfica de esurio.",
-    "exemplos": [],
-    "notas": "Registrada variante grafada com dupla s; lema canonizado como esurio (4ª). | [dedupe] redirect → chunk_9886:9886:0 | [dedupe] redirect → chunk_9886:9886:0 | [ocr_fix 2025-08-17T19:57:46Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='esurio' → 'ēsŭrĭo'",
-    "raw_text": "{\"id\":\"chunk_9879:9879:1\",\"lemas\":[\"esurio\",\"essurio\"],\"lema_canonico\":\"esurio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"verbo: ter fome, desejar comer (ēsurīre). Entrada 'essurio' indicada como variante ortográfica de esurio.\",\"aliases\":[\"esurio\"],\"exemplos\":[],\"notas\":\"Registrada variante grafada com dupla s; lema canonizado como esurio (4ª).\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_9879:9879:1\",\"lemas\":[\"esurio\",\"essurio\"],\"lema_canonico\":\"esurio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"verbo: ter fome, desejar comer (ēsurīre). Entrada 'essurio' indicada como variante ortográfica de esurio.\",\"aliases\":[\"esurio\"],\"exemplos\":[],\"notas\":\"Registrada variante grafada com dupla s; lema canonizado como esurio (4ª).\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_9880-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_9880",
-    "page_num": 9880,
-    "lemmas": [
-      "est",
-      "est"
-    ],
-    "morfologia": "3ª pess. sg. do ind. pres.",
-    "morph_render": "3ª pess. sg. do ind. pres.",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "forma verbal: 3. pessoa do singular do presente do indicativo de sum ('ser, estar').",
-    "exemplos": [],
-    "notas": "Forma atestada em LS; entrada é forma flexionada, fora do formato infinitivo exigido para verbos no vocabulário morfológico. | [dedupe] redirect → chunk_17879:17879:1 | [dedupe] redirect → chunk_17879:17879:1 | [ocr_fix 2025-08-17T19:48:06Z] match direto em Gaffiot por lemma/lemma_norm | lemma_in='est' → 'est'",
-    "raw_text": "{\"id\":\"chunk_9880:9880:0\",\"lemas\":[\"est\"],\"lema_canonico\":\"est\",\"morfologia\":\"3ª pess. sg. do ind. pres.\",\"morph_extra\":[],\"definicao\":\"forma verbal: 3. pessoa do singular do presente do indicativo de sum ('ser, estar').\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma atestada em LS; entrada é forma flexionada, fora do formato infinitivo exigido para verbos no vocabulário morfológico.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"src_ocr\",\"conf:med\",\"needs_review\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_9880:9880:0\",\"lemas\":[\"est\"],\"lema_canonico\":\"est\",\"morfologia\":\"3ª pess. sg. do ind. pres.\",\"morph_extra\":[],\"definicao\":\"forma verbal: 3. pessoa do singular do presente do indicativo de sum ('ser, estar').\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma atestada em LS; entrada é forma flexionada, fora do formato infinitivo exigido para verbos no vocabulário morfológico.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"src_ocr\",\"conf:med\",\"needs_review\",\"morph_out_of_vocab\"]}"
-  },
-  {
-    "id": "chunk_9881-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_9881",
-    "page_num": 9881,
-    "lemmas": [
-      "esse",
-      "esse"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "3.ª pessoa do singular do presente indicativo de sum; é a forma 'é' (ser, existir).",
-    "exemplos": [],
-    "notas": "Corrigido: não é imperativo futuro; é forma indicativa (pres. 3.sg.) de esse/sum. | [dedupe] redirect → chunk_9854:9854:0 | [dedupe] redirect → chunk_9854:9854:0",
-    "raw_text": "{\"id\":\"chunk_9881:9881:0\",\"lemas\":[\"est\",\"esse\"],\"lema_canonico\":\"esse\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"3.ª pessoa do singular do presente indicativo de sum; é a forma 'é' (ser, existir).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigido: não é imperativo futuro; é forma indicativa (pres. 3.sg.) de esse/sum.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_9881:9881:0\",\"lemas\":[\"est\",\"esse\"],\"lema_canonico\":\"esse\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"3.ª pessoa do singular do presente indicativo de sum; é a forma 'é' (ser, existir).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigido: não é imperativo futuro; é forma indicativa (pres. 3.sg.) de esse/sum.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_9882-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_9882",
-    "page_num": 9882,
-    "lemmas": [
-      "edo",
-      "edo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Forma ēstur (var. editur) = 3.ª pessoa singular do presente do indicativo, voz passiva, de edo/edere: 'é comido, é devorado'.",
-    "exemplos": [],
-    "notas": "ēstur atestado como forma por Lewis & Short (ʼfor editurʼ); Lat→Deu registra editur como v. 3. pers. sg. pres. pass. | [dedupe] redirect → chunk_15854:15854:2 | [dedupe] redirect → chunk_15854:15854:2",
-    "raw_text": "{\"id\":\"chunk_9882:9882:0\",\"lemas\":[\"edo\",\"edere\"],\"lema_canonico\":\"edo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"finite: pres. ind. 3 sg., pass.\"],\"definicao\":\"Forma ēstur (var. editur) = 3.ª pessoa singular do presente do indicativo, voz passiva, de edo/edere: 'é comido, é devorado'.\",\"aliases\":[\"ēstur\",\"editur\"],\"exemplos\":[],\"notas\":\"ēstur atestado como forma por Lewis & Short (ʼfor editurʼ); Lat→Deu registra editur como v. 3. pers. sg. pres. pass.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_9882:9882:0\",\"lemas\":[\"edo\",\"edere\"],\"lema_canonico\":\"edo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"finite: pres. ind. 3 sg., pass.\"],\"definicao\":\"Forma ēstur (var. editur) = 3.ª pessoa singular do presente do indicativo, voz passiva, de edo/edere: 'é comido, é devorado'.\",\"aliases\":[\"ēstur\",\"editur\"],\"exemplos\":[],\"notas\":\"ēstur atestado como forma por Lewis & Short (ʼfor editurʼ); Lat→Deu registra editur como v. 3. pers. sg. pres. pass.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_9883-e1",
     "volume_id": "faria",
     "doc_name": "chunk_9883",
@@ -2044,28 +1582,6 @@
     "notas": "Primeira passada derivada do léxico/ocr; não encontrei confirmação nas fontes fornecidas (Whitaker/LS/Lat→Deu) — requer verificação adicional. | [ocr_fix 2025-08-17T18:25:14Z] match direto em Gaffiot por lemma/lemma_norm | lemma_in='Esturi' → 'Esturi' | [ocr_fix 2025-08-17T19:48:09Z] match direto em Gaffiot por lemma/lemma_norm | lemma_in='Esturi' → 'Esturi'",
     "raw_text": "{\"id\":\"chunk_9883:9883:0\",\"lemas\":[\"Esturi\"],\"lema_canonico\":\"Esturi\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Nome de povo (Estúrios) citado por Plínio; forma atestada no plural (Estūrī).\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 3, 47\"],\"notas\":\"Primeira passada derivada do léxico/ocr; não encontrei confirmação nas fontes fornecidas (Whitaker/LS/Lat→Deu) — requer verificação adicional.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_9883:9883:0\",\"lemas\":[\"Esturi\"],\"lema_canonico\":\"Esturi\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Nome de povo (Estúrios) citado por Plínio; forma atestada no plural (Estūrī).\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 3, 47\"],\"notas\":\"Primeira passada derivada do léxico/ocr; não encontrei confirmação nas fontes fornecidas (Whitaker/LS/Lat→Deu) — requer verificação adicional.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_9883-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_9883",
-    "page_num": 9883,
-    "lemmas": [
-      "esus",
-      "esus"
-    ],
-    "morfologia": "s. masc. 4ª (-us)",
-    "morph_render": "s. masc. 4ª (-us)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "'Etenção/ato de comer; comida, refeição' (substantivo relacionado a esus/esu/esui).",
-    "exemplos": [],
-    "notas": "Whitaker registra esu/esui/esus como formas; Lat→Deu também atesta esu/ēsus como referente a 'o comer'. | [dedupe] redirect → chunk_9890:9890:0 | [dedupe] redirect → chunk_9890:9890:0",
-    "raw_text": "{\"id\":\"chunk_9883:9883:1\",\"lemas\":[\"esus\",\"esu\",\"esui\"],\"lema_canonico\":\"esus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"'Etenção/ato de comer; comida, refeição' (substantivo relacionado a esus/esu/esui).\",\"aliases\":[\"esu\",\"esui\"],\"exemplos\":[],\"notas\":\"Whitaker registra esu/esui/esus como formas; Lat→Deu também atesta esu/ēsus como referente a 'o comer'.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_9883:9883:1\",\"lemas\":[\"esus\",\"esu\",\"esui\"],\"lema_canonico\":\"esus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"'Etenção/ato de comer; comida, refeição' (substantivo relacionado a esus/esu/esui).\",\"aliases\":[\"esu\",\"esui\"],\"exemplos\":[],\"notas\":\"Whitaker registra esu/esui/esus como formas; Lat→Deu também atesta esu/ēsus como referente a 'o comer'.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_9884-e1",
@@ -2178,28 +1694,6 @@
     "raw_json": "{\"id\":\"chunk_9887:9887:0\",\"lemas\":[\"esurire\",\"esurio\"],\"lema_canonico\":\"esurire\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[\"intr.\",\"tr.\"],\"definicao\":\"Ter fome; desejar comer. Figuradamente: desejar, cobiçar.\",\"aliases\":[\"essurio\",\"ēsūrĭo\"],\"exemplos\":[\"Cic. Tusc. 5, 34\",\"Cic. Verr. 2, 5, 34\",\"Plin. H. Nat. 33, 134\"],\"notas\":\"Formas e sentido confirmados por Lewis & Short e Whitaker; Lat→Deu registra 1ª sg. pres. esurio/ēsūrīre.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_9888-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_9888",
-    "page_num": 9888,
-    "lemmas": [
-      "esuritio",
-      "esuritio"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Fome, estado de fome; hunger, hungering.",
-    "exemplos": [],
-    "notas": "Normalizado com base em Lewis & Short e Whitaker; genitivo -ōnis indica 3ª decl. | [dedupe] redirect → chunk_9889:9889:0 | [dedupe] redirect → chunk_9889:9889:0",
-    "raw_text": "{\"id\":\"chunk_9888:9888:0\",\"lemas\":[\"esuritio\",\"ēsūritio\"],\"lema_canonico\":\"esuritio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Fome, estado de fome; hunger, hungering.\",\"aliases\":[],\"exemplos\":[\"Cat. 23, 14\",\"Gell. 16, 3, 3\",\"Mart. 1, 100\"],\"notas\":\"Normalizado com base em Lewis & Short e Whitaker; genitivo -ōnis indica 3ª decl.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_9888:9888:0\",\"lemas\":[\"esuritio\",\"ēsūritio\"],\"lema_canonico\":\"esuritio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Fome, estado de fome; hunger, hungering.\",\"aliases\":[],\"exemplos\":[\"Cat. 23, 14\",\"Gell. 16, 3, 3\",\"Mart. 1, 100\"],\"notas\":\"Normalizado com base em Lewis & Short e Whitaker; genitivo -ōnis indica 3ª decl.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_9889-e1",
     "volume_id": "faria",
     "doc_name": "chunk_9889",
@@ -2286,28 +1780,6 @@
     "notas": "Unifiquei e corrigi referências citadas; confirmada por LS e fontes auxiliares.",
     "raw_text": "{\"id\":\"chunk_9892:9892:0\",\"lemas\":[\"et\"],\"lema_canonico\":\"et\",\"morfologia\":\"conj.\",\"morph_extra\":[],\"definicao\":\"conjunção aditiva/associativa: e, também, até; pode ter valor enfático ou partitivo (et ... et = tanto ... como).\",\"aliases\":[],\"exemplos\":[\"Cic. Off. 2, 57\",\"Cic. Verr. 5, 121\",\"Verg. A. 6, 498\"],\"notas\":\"Unifiquei e corrigi referências citadas; confirmada por LS e fontes auxiliares.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_9892:9892:0\",\"lemas\":[\"et\"],\"lema_canonico\":\"et\",\"morfologia\":\"conj.\",\"morph_extra\":[],\"definicao\":\"conjunção aditiva/associativa: e, também, até; pode ter valor enfático ou partitivo (et ... et = tanto ... como).\",\"aliases\":[],\"exemplos\":[\"Cic. Off. 2, 57\",\"Cic. Verr. 5, 121\",\"Verg. A. 6, 498\"],\"notas\":\"Unifiquei e corrigi referências citadas; confirmada por LS e fontes auxiliares.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_9893-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_9893",
-    "page_num": 9893,
-    "lemmas": [
-      "et",
-      "et"
-    ],
-    "morfologia": "conj.",
-    "morph_render": "conj.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Conjunção copulativa: e; também, até mesmo; pode ter uso enfático ou adverbial (“também”).",
-    "exemplos": [],
-    "notas": "Entrada harmonizada com Lewis & Short e Whitaker (ĕt/et). | [dedupe] redirect → chunk_9892:9892:0 | [dedupe] redirect → chunk_9892:9892:0",
-    "raw_text": "{\"id\":\"chunk_9893:9893:0\",\"lemas\":[\"et\",\"ĕt\"],\"lema_canonico\":\"et\",\"morfologia\":\"conj.\",\"morph_extra\":[],\"definicao\":\"Conjunção copulativa: e; também, até mesmo; pode ter uso enfático ou adverbial (“também”).\",\"aliases\":[],\"exemplos\":[\"et ... et = both ... and\",\"Cic. Tusc. 3, 20, 48\"],\"notas\":\"Entrada harmonizada com Lewis & Short e Whitaker (ĕt/et).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_9893:9893:0\",\"lemas\":[\"et\",\"ĕt\"],\"lema_canonico\":\"et\",\"morfologia\":\"conj.\",\"morph_extra\":[],\"definicao\":\"Conjunção copulativa: e; também, até mesmo; pode ter uso enfático ou adverbial (“também”).\",\"aliases\":[],\"exemplos\":[\"et ... et = both ... and\",\"Cic. Tusc. 3, 20, 48\"],\"notas\":\"Entrada harmonizada com Lewis & Short e Whitaker (ĕt/et).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_9894-e1",
@@ -2596,28 +2068,6 @@
     "raw_json": "{\"id\":\"chunk_9906:9906:0\",\"lemas\":[\"etiamnum\",\"etiam nunc\"],\"lema_canonico\":\"etiamnum\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"ainda agora; ainda (no sentido temporal)\",\"aliases\":[\"etiam nunc\"],\"exemplos\":[\"Cic. Or. 119\"],\"notas\":\"Forma registrada como etiamnum (Whitaker); variante composicional 'etiam nunc' indicada.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_9907-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_9907",
-    "page_num": 9907,
-    "lemmas": [
-      "etiam",
-      "etiam"
-    ],
-    "morfologia": "conj.",
-    "morph_render": "conj.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "etiam + si (locução/construção): 'even if', 'although' / combinação de duas conjunções separadas (etiam = 'também, ainda'; si = 'se').",
-    "exemplos": [],
-    "notas": "Entradas separadas (etiam; si) reconhecidas; apresentado como combinação atestada em citações citadas no first_pass. | [dedupe] redirect → chunk_9904:9904:0 | [dedupe] redirect → chunk_9904:9904:0",
-    "raw_text": "{\"id\":\"chunk_9907:9907:0\",\"lemas\":[\"etiam\",\"si\"],\"lema_canonico\":\"etiam\",\"morfologia\":\"conj.\",\"morph_extra\":[],\"definicao\":\"etiam + si (locução/construção): 'even if', 'although' / combinação de duas conjunções separadas (etiam = 'também, ainda'; si = 'se').\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 3, 141\",\"Cic. C. M. 29\"],\"notas\":\"Entradas separadas (etiam; si) reconhecidas; apresentado como combinação atestada em citações citadas no first_pass.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_9907:9907:0\",\"lemas\":[\"etiam\",\"si\"],\"lema_canonico\":\"etiam\",\"morfologia\":\"conj.\",\"morph_extra\":[],\"definicao\":\"etiam + si (locução/construção): 'even if', 'although' / combinação de duas conjunções separadas (etiam = 'também, ainda'; si = 'se').\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 3, 141\",\"Cic. C. M. 29\"],\"notas\":\"Entradas separadas (etiam; si) reconhecidas; apresentado como combinação atestada em citações citadas no first_pass.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_9908-e1",
     "volume_id": "faria",
     "doc_name": "chunk_9908",
@@ -2836,50 +2286,6 @@
     "notas": "Forma atípica/possível grafia corrompida (Evagros/Euagrus); não confirmada em Whitaker. | [ocr_fix 2025-08-17T18:25:14Z] match direto em Gaffiot por lemma/lemma_norm | lemma_in='Euagrus' → 'Euagrus' | [ocr_fix 2025-08-17T19:48:07Z] match direto em Gaffiot por lemma/lemma_norm | lemma_in='Euagrus' → 'Euagrus'",
     "raw_text": "{\"id\":\"chunk_9917:9917:0\",\"lemas\":[\"Euagrus\"],\"lema_canonico\":\"Euagrus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Evagro, um dos Lápitas (personagem mitológico)\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 12, 293\"],\"notas\":\"Forma atípica/possível grafia corrompida (Evagros/Euagrus); não confirmada em Whitaker.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_9917:9917:0\",\"lemas\":[\"Euagrus\"],\"lema_canonico\":\"Euagrus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Evagro, um dos Lápitas (personagem mitológico)\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 12, 293\"],\"notas\":\"Forma atípica/possível grafia corrompida (Evagros/Euagrus); não confirmada em Whitaker.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_9918-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_9918",
-    "page_num": 9918,
-    "lemmas": [
-      "Euan",
-      "Euan"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Registro atestado em Lewis & Short como variante encaminhando a 'Euhan' — marcado como redirecionamento. | [ocr_fix 2025-08-17T19:53:07Z] match direto em LS por lemma/lemma_norm | lemma_in='Euan' → 'Euan'",
-    "raw_text": "{\"id\":\"chunk_9918:9918:0\",\"lemas\":[\"Euan\"],\"lema_canonico\":\"Euan\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Euhan\"],\"exemplos\":[],\"notas\":\"Registro atestado em Lewis & Short como variante encaminhando a 'Euhan' — marcado como redirecionamento.\",\"flags\":[\"src_ls\",\"conf:med\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_9918:9918:0\",\"lemas\":[\"Euan\"],\"lema_canonico\":\"Euan\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Euhan\"],\"exemplos\":[],\"notas\":\"Registro atestado em Lewis & Short como variante encaminhando a 'Euhan' — marcado como redirecionamento.\",\"flags\":[\"src_ls\",\"conf:med\",\"redirect_only\"]}"
-  },
-  {
-    "id": "chunk_9919-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_9919",
-    "page_num": 9919,
-    "lemmas": [
-      "Euander",
-      "Euander"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Evandro; personagem mítico/legendário: rei de Pallanteum na Itália, filho de Carmenta; atestado em Virgílio e outros autores.",
-    "exemplos": [],
-    "notas": "Forma e variantes confirmadas em Lewis & Short; normalizado o lema e referências. | [dedupe] redirect → chunk_9999:9999:2 | [dedupe] redirect → chunk_9999:9999:2 | [ocr_fix 2025-08-17T19:48:07Z] match direto em LS por lemma/lemma_norm | lemma_in='Euander' → 'Euander'",
-    "raw_text": "{\"id\":\"chunk_9919:9919:0\",\"lemas\":[\"Euander\",\"Evander\",\"Euandrĭ-us\"],\"lema_canonico\":\"Euander\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Evandro; personagem mítico/legendário: rei de Pallanteum na Itália, filho de Carmenta; atestado em Virgílio e outros autores.\",\"aliases\":[],\"exemplos\":[\"Verg. A. 8, 52\",\"Verg. A. 10, 394\",\"Ov. F. 1, 471\"],\"notas\":\"Forma e variantes confirmadas em Lewis & Short; normalizado o lema e referências.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_9919:9919:0\",\"lemas\":[\"Euander\",\"Evander\",\"Euandrĭ-us\"],\"lema_canonico\":\"Euander\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Evandro; personagem mítico/legendário: rei de Pallanteum na Itália, filho de Carmenta; atestado em Virgílio e outros autores.\",\"aliases\":[],\"exemplos\":[\"Verg. A. 8, 52\",\"Verg. A. 10, 394\",\"Ov. F. 1, 471\"],\"notas\":\"Forma e variantes confirmadas em Lewis & Short; normalizado o lema e referências.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
     "id": "chunk_9920-e1",
@@ -3168,28 +2574,6 @@
     "raw_json": "{\"id\":\"chunk_9932:9932:0\",\"lemas\":[\"Eudoxus\"],\"lema_canonico\":\"Eudoxus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Eudoxo, astrónomo e matemático grego (Cnidos), citado por Cicerão.\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 2, 42, 87\",\"Cic. Rep. 1, 14\"],\"notas\":\"Grafia e declinação segundo Lewis & Short.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_9933-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_9933",
-    "page_num": 9933,
-    "lemmas": [
-      "Eōi",
-      "Eōi"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 1,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada aparenta ser redirecionamento/erro OCR para 'Euhemerus'; lemas originais preservados por insegurança. | [ocr_fix 2025-08-17T18:25:14Z] match direto em Gaffiot por lemma/lemma_norm | lemma_in='Eui' → 'Eōi' | [ocr_fix 2025-08-17T19:48:10Z] match direto em Gaffiot por lemma/lemma_norm | lemma_in='Eōi' → 'Eōi'",
-    "raw_text": "{\"id\":\"chunk_9933:9933:0\",\"lemas\":[\"Eui\",\"minus\"],\"lema_canonico\":\"Eui\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Euhemerus\"],\"exemplos\":[],\"notas\":\"Entrada aparenta ser redirecionamento/erro OCR para 'Euhemerus'; lemas originais preservados por insegurança.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_9933:9933:0\",\"lemas\":[\"Eui\",\"minus\"],\"lema_canonico\":\"Eui\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Euhemerus\"],\"exemplos\":[],\"notas\":\"Entrada aparenta ser redirecionamento/erro OCR para 'Euhemerus'; lemas originais preservados por insegurança.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\",\"redirect_only\"]}"
-  },
-  {
     "id": "chunk_9934-e1",
     "volume_id": "faria",
     "doc_name": "chunk_9934",
@@ -3476,28 +2860,6 @@
     "raw_json": "{\"id\":\"chunk_9946:9946:0\",\"lemas\":[\"Eupalia\",\"Eupalía\"],\"lema_canonico\":\"Eupalia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"cidade da Lócrida (Plin. H. Nat. 4, 7)\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 4, 7\"],\"notas\":\"Normalizada a terminação e remoção de macron; forma não confirmada em Whitaker.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_9947-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_9947",
-    "page_num": 9947,
-    "lemmas": [
-      "Eupălium",
-      "Eupălium"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "cidade da Lócrida Ocidental (Eupălium); chamada também Eupalia em Plínio",
-    "exemplos": [],
-    "notas": "Lema ajustado à grafia de Lewis & Short; substantivo toponímico neutro de 2ª decl. | [dedupe] redirect → chunk_9946:9946:0 | [dedupe] redirect → chunk_9946:9946:0 | [ocr_fix 2025-08-17T19:57:41Z] match direto em LS por lemma/lemma_norm | lemma_in='Eupalium' → 'Eupălium'",
-    "raw_text": "{\"id\":\"chunk_9947:9947:0\",\"lemas\":[\"Eupălium\",\"Eupalium\",\"Eupalia\"],\"lema_canonico\":\"Eupalium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"cidade da Lócrida Ocidental (Eupălium); chamada também Eupalia em Plínio\",\"aliases\":[\"Eupalia\"],\"exemplos\":[\"T. Liv. 28, 8\",\"Plin. 4, 3, 4, § 7\"],\"notas\":\"Lema ajustado à grafia de Lewis & Short; substantivo toponímico neutro de 2ª decl.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_9947:9947:0\",\"lemas\":[\"Eupălium\",\"Eupalium\",\"Eupalia\"],\"lema_canonico\":\"Eupalium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"cidade da Lócrida Ocidental (Eupălium); chamada também Eupalia em Plínio\",\"aliases\":[\"Eupalia\"],\"exemplos\":[\"T. Liv. 28, 8\",\"Plin. 4, 3, 4, § 7\"],\"notas\":\"Lema ajustado à grafia de Lewis & Short; substantivo toponímico neutro de 2ª decl.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_9948-e1",
     "volume_id": "faria",
     "doc_name": "chunk_9948",
@@ -3696,28 +3058,6 @@
     "raw_json": "{\"id\":\"chunk_9956:9956:0\",\"lemas\":[\"Euripides\",\"Eurīpĭdes\",\"Euripideus\",\"Eurīpĭdēus\"],\"lema_canonico\":\"Euripides\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"poeta trágico ateniense, famoso na literatura latina por citações e referências; também adjetivo derivado (Euripideus) relativo a Eurípides.\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 1, 65\",\"Quint. 10, 1, 67 sq.\",\"Gell. 15, 20\",\"Cic. Tusc. 3, 25\"],\"notas\":\"Consolidado nome próprio e forma adjetival conforme Lewis & Short; morfologia ajustada para 3ª declinação.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_9957-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_9957",
-    "page_num": 9957,
-    "lemmas": [
-      "Eurīpĭdes",
-      "Eurīpĭdes"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "relativo ao poeta Eurípides",
-    "exemplos": [],
-    "notas": "Forma atestada em fontes manuscritas; entrada pouco documentada em Whitaker → revisão recomendada.\n[ocr_pipeline 2025-08-16T23:12:11.053455Z] lemma_in='Euripideus' → 'Eurīpĭdes' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:07:38Z] match direto em LS por lemma/lemma_norm | lemma_in='Eurīpĭdes' → 'Eurīpĭdes' | [dedupe] redirect → chunk_9956:9956:0 | [dedupe] redirect → chunk_9956:9956:0",
-    "raw_text": "{\"id\":\"chunk_9957:9957:0\",\"lemas\":[\"Euripideus\",\"Euripidēus\"],\"lema_canonico\":\"Euripideus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo ao poeta Eurípides\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 3, 59\"],\"notas\":\"Forma atestada em fontes manuscritas; entrada pouco documentada em Whitaker → revisão recomendada.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_9957:9957:0\",\"lemas\":[\"Euripideus\",\"Euripidēus\"],\"lema_canonico\":\"Euripideus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo ao poeta Eurípides\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 3, 59\"],\"notas\":\"Forma atestada em fontes manuscritas; entrada pouco documentada em Whitaker → revisão recomendada.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
     "id": "chunk_9958-e1",
     "volume_id": "faria",
     "doc_name": "chunk_9958",
@@ -3870,28 +3210,6 @@
     "notas": "Forma e declinação confirmadas em Lewis & Short; variante sem macron incluída.",
     "raw_text": "{\"id\":\"chunk_9964:9964:0\",\"lemas\":[\"Eurōtas\",\"Eurotas\"],\"lema_canonico\":\"Eurōtas\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"rio principal da Lacônia (Esparta)\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 5, 98\",\"Ov. Met. 2, 247\",\"Plin. 4, 5, 8 § 16\"],\"notas\":\"Forma e declinação confirmadas em Lewis & Short; variante sem macron incluída.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_9964:9964:0\",\"lemas\":[\"Eurōtas\",\"Eurotas\"],\"lema_canonico\":\"Eurōtas\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"rio principal da Lacônia (Esparta)\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 5, 98\",\"Ov. Met. 2, 247\",\"Plin. 4, 5, 8 § 16\"],\"notas\":\"Forma e declinação confirmadas em Lewis & Short; variante sem macron incluída.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_9965-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_9965",
-    "page_num": 9965,
-    "lemmas": [
-      "eurus",
-      "eurus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "o vento sudeste (usualmente 'Eurus'); também emprego adjetival ocasional 'oriental'.",
-    "exemplos": [],
-    "notas": "Lema e sentido confirmados por Lewis & Short e Whitaker. | [dedupe] redirect → chunk_9966:9966:0 | [dedupe] redirect → chunk_9966:9966:0",
-    "raw_text": "{\"id\":\"chunk_9965:9965:0\",\"lemas\":[\"eurus\"],\"lema_canonico\":\"eurus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"o vento sudeste (usualmente 'Eurus'); também emprego adjetival ocasional 'oriental'.\",\"aliases\":[],\"exemplos\":[\"Verg. En. 3, 533\"],\"notas\":\"Lema e sentido confirmados por Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_9965:9965:0\",\"lemas\":[\"eurus\"],\"lema_canonico\":\"eurus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"o vento sudeste (usualmente 'Eurus'); também emprego adjetival ocasional 'oriental'.\",\"aliases\":[],\"exemplos\":[\"Verg. En. 3, 533\"],\"notas\":\"Lema e sentido confirmados por Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_9966-e1",
@@ -4488,28 +3806,6 @@
     "raw_json": "{\"id\":\"chunk_9991:9991:0\",\"lemas\":[\"Eutrapelus\",\"Eutrăpĕlus\"],\"lema_canonico\":\"Eutrapelus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Sobrenome atribuído a P. Volumnius, amigo de Marco Antônio.\",\"aliases\":[\"Eutrăpĕlus\"],\"exemplos\":[\"Cic. Att. 15, 8, 1\",\"Hor. Ep. 1, 18, 31\"],\"notas\":\"Normalizada a grafia e referências; Lewis & Short registra a forma.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_9992-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_9992",
-    "page_num": 9992,
-    "lemmas": [
-      "pontus",
-      "pontus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Pontus (Pontus Euxinus): o Mar Negro; Euxīnus usado como epíteto (Euxīnus Pontus) e por vezes como substantivo absoluto para o mar.",
-    "exemplos": [],
-    "notas": "Entradas reunidas: Pontus (região e mar) e o epíteto Euxīnus; baseado em Lewis & Short. | [dedupe] redirect → chunk_21709:21709:0 | [dedupe] redirect → chunk_21709:21709:0 | [ocr_fix 2025-08-17T19:57:45Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='Pontus' → 'pontus'",
-    "raw_text": "{\"id\":\"chunk_9992:9992:0\",\"lemas\":[\"Euxinus\",\"Euxīnus\",\"Pontus\"],\"lema_canonico\":\"Pontus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Pontus (Pontus Euxinus): o Mar Negro; Euxīnus usado como epíteto (Euxīnus Pontus) e por vezes como substantivo absoluto para o mar.\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 1, 174\",\"Ov. Tr. 2, 197\"],\"notas\":\"Entradas reunidas: Pontus (região e mar) e o epíteto Euxīnus; baseado em Lewis & Short.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_9992:9992:0\",\"lemas\":[\"Euxinus\",\"Euxīnus\",\"Pontus\"],\"lema_canonico\":\"Pontus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Pontus (Pontus Euxinus): o Mar Negro; Euxīnus usado como epíteto (Euxīnus Pontus) e por vezes como substantivo absoluto para o mar.\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 1, 174\",\"Ov. Tr. 2, 197\"],\"notas\":\"Entradas reunidas: Pontus (região e mar) e o epíteto Euxīnus; baseado em Lewis & Short.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_9993-e1",
     "volume_id": "faria",
     "doc_name": "chunk_9993",
@@ -4530,28 +3826,6 @@
     "notas": "Restabelecido macron curto para ī; Lewis & Short documenta uso adj. e substantivado. | [ocr_fix 2025-08-17T19:48:10Z] match direto em LS por lemma/lemma_norm | lemma_in='Euxīnus' → 'Euxīnus'",
     "raw_text": "{\"id\":\"chunk_9993:9993:0\",\"lemas\":[\"Euxīnus\",\"Euxinus\"],\"lema_canonico\":\"Euxīnus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo ao Ponto Euxino (Mar Negro); usado também substantivado para o próprio mar.\",\"aliases\":[\"Euxinus\"],\"exemplos\":[\"Ov. Tr. 2, 197\",\"Ov. Tr. 4, 1, 60\"],\"notas\":\"Restabelecido macron curto para ī; Lewis & Short documenta uso adj. e substantivado.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_9993:9993:0\",\"lemas\":[\"Euxīnus\",\"Euxinus\"],\"lema_canonico\":\"Euxīnus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo ao Ponto Euxino (Mar Negro); usado também substantivado para o próprio mar.\",\"aliases\":[\"Euxinus\"],\"exemplos\":[\"Ov. Tr. 2, 197\",\"Ov. Tr. 4, 1, 60\"],\"notas\":\"Restabelecido macron curto para ī; Lewis & Short documenta uso adj. e substantivado.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_9994-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_9994",
-    "page_num": 9994,
-    "lemmas": [
-      "Euxīnus",
-      "Euxīnus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Epíteto do Mar Negro (Pontus); usado com mare, aequor, etc., ou absoluto.",
-    "exemplos": [],
-    "notas": "Lema e exemplos confirmados em Lewis & Short; normalizada a presença de macron. | [dedupe] redirect → chunk_9993:9993:0 | [dedupe] redirect → chunk_9993:9993:0 | [ocr_fix 2025-08-17T19:48:08Z] match direto em LS por lemma/lemma_norm | lemma_in='Euxīnus' → 'Euxīnus'",
-    "raw_text": "{\"id\":\"chunk_9994:9994:0\",\"lemas\":[\"Euxīnus\",\"Euxinus\"],\"lema_canonico\":\"Euxīnus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Epíteto do Mar Negro (Pontus); usado com mare, aequor, etc., ou absoluto.\",\"aliases\":[],\"exemplos\":[\"Ov. Tr. 2, 197\",\"Ov. Tr. 4, 1, 60\",\"Ov. Tr. 4, 8, 42\",\"Ov. Tr. 4, 10, 97\",\"Ov. Tr. 5, 10, 2\",\"Ov. Tr. 5, 2, 63\",\"Ov. Pont. 4, 6, 46\"],\"notas\":\"Lema e exemplos confirmados em Lewis & Short; normalizada a presença de macron.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_9994:9994:0\",\"lemas\":[\"Euxīnus\",\"Euxinus\"],\"lema_canonico\":\"Euxīnus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Epíteto do Mar Negro (Pontus); usado com mare, aequor, etc., ou absoluto.\",\"aliases\":[],\"exemplos\":[\"Ov. Tr. 2, 197\",\"Ov. Tr. 4, 1, 60\",\"Ov. Tr. 4, 8, 42\",\"Ov. Tr. 4, 10, 97\",\"Ov. Tr. 5, 10, 2\",\"Ov. Tr. 5, 2, 63\",\"Ov. Pont. 4, 6, 46\"],\"notas\":\"Lema e exemplos confirmados em Lewis & Short; normalizada a presença de macron.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
     "id": "chunk_9995-e1",
@@ -4666,28 +3940,6 @@
     "notas": "Normalizado a partir do OCR; forma confirmada em Whitaker.",
     "raw_text": "{\"id\":\"chunk_9998:9998:0\",\"lemas\":[\"evalidus\",\"ēvalidus\"],\"lema_canonico\":\"evalidus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Muito forte, robusto; vigoroso.\",\"aliases\":[],\"exemplos\":[\"Cic. Frg. Har. 43, 398\"],\"notas\":\"Normalizado a partir do OCR; forma confirmada em Whitaker.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_9998:9998:0\",\"lemas\":[\"evalidus\",\"ēvalidus\"],\"lema_canonico\":\"evalidus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Muito forte, robusto; vigoroso.\",\"aliases\":[],\"exemplos\":[\"Cic. Frg. Har. 43, 398\"],\"notas\":\"Normalizado a partir do OCR; forma confirmada em Whitaker.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_9999-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_9999",
-    "page_num": 9999,
-    "lemmas": [
-      "ēvălesco",
-      "evalēscō"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "perfeito (1. sg.) de evalēscō, evalēscere: tornar‑se mais forte, crescer, recuperar forças",
-    "exemplos": [],
-    "notas": "Corrigido OCR (évali → evalui); ligado a evalēscere conforme Lat→Deu. | [dedupe] redirect → chunk_9997:9997:0 | [dedupe] redirect → chunk_9997:9997:0 | [ocr_fix 2025-08-20T01:03:57Z] Correção automática de lema via Gaffiot | lemma_in='evalēscō' → 'ēvălesco'",
-    "raw_text": "{\"id\":\"chunk_9999:9999:0\",\"lemas\":[\"evalēscō\",\"ēvalēscere\",\"ēvaluī\",\"evalui\"],\"lema_canonico\":\"evalēscō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"perfeito (1. sg.) de evalēscō, evalēscere: tornar‑se mais forte, crescer, recuperar forças\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigido OCR (évali → evalui); ligado a evalēscere conforme Lat→Deu.\",\"flags\":[\"src_latdeu\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_9999:9999:0\",\"lemas\":[\"evalēscō\",\"ēvalēscere\",\"ēvaluī\",\"evalui\"],\"lema_canonico\":\"evalēscō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"perfeito (1. sg.) de evalēscō, evalēscere: tornar‑se mais forte, crescer, recuperar forças\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigido OCR (évali → evalui); ligado a evalēscere conforme Lat→Deu.\",\"flags\":[\"src_latdeu\",\"conf:med\"]}"
   },
   {
     "id": "chunk_9999-e2",

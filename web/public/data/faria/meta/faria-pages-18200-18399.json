@@ -22,50 +22,6 @@
     "raw_json": "{\"id\":\"chunk_18200:18200:0\",\"lemas\":[\"nōnus\",\"nōna\",\"nōnō\"],\"lema_canonico\":\"nōnus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Nono; adj. ordinário (de novem). Também subst. f. nōna (hora nona, a nona parte) e adv. nōnō.\",\"aliases\":[],\"exemplos\":[\"Cic. Rep. 6, 18\",\"Hor. Ep. 1, 7, 71\"],\"notas\":\"Forma e variantes confirmadas em Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_18201-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_18201",
-    "page_num": 18201,
-    "lemmas": [
-      "nonus",
-      "nonus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "nonus: o nono (ordinal)",
-    "exemplos": [],
-    "notas": "Forma tratada como adjetivo ordinal (1/2 decl.). | [dedupe] redirect → chunk_18200:18200:0 | [dedupe] redirect → chunk_18200:18200:0",
-    "raw_text": "{\"id\":\"chunk_18201:18201:0\",\"lemas\":[\"nonus\"],\"lema_canonico\":\"nonus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"nonus: o nono (ordinal)\",\"aliases\":[],\"exemplos\":[\"Cic. Rep. 6, 18\"],\"notas\":\"Forma tratada como adjetivo ordinal (1/2 decl.).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_18201:18201:0\",\"lemas\":[\"nonus\"],\"lema_canonico\":\"nonus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"nonus: o nono (ordinal)\",\"aliases\":[],\"exemplos\":[\"Cic. Rep. 6, 18\"],\"notas\":\"Forma tratada como adjetivo ordinal (1/2 decl.).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_18201-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_18201",
-    "page_num": 18201,
-    "lemmas": [
-      "novem",
-      "novem"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "novem: nove (cardinal); novēnus/novenus (adj.) — distribuído de nove em nove, relativo a nove",
-    "exemplos": [],
-    "notas": "Inclui o cardinal 'novem' e o derivado adjetival 'novēnus' (grafia variável); morfologia elegida a mais próxima (cardinal indeclinável). | [dedupe] redirect → chunk_18253:18253:0 | [dedupe] redirect → chunk_18253:18253:0",
-    "raw_text": "{\"id\":\"chunk_18201:18201:1\",\"lemas\":[\"novem\",\"novenus\",\"novēnus\"],\"lema_canonico\":\"novem\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"novem: nove (cardinal); novēnus/novenus (adj.) — distribuído de nove em nove, relativo a nove\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Inclui o cardinal 'novem' e o derivado adjetival 'novēnus' (grafia variável); morfologia elegida a mais próxima (cardinal indeclinável).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_18201:18201:1\",\"lemas\":[\"novem\",\"novenus\",\"novēnus\"],\"lema_canonico\":\"novem\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"novem: nove (cardinal); novēnus/novenus (adj.) — distribuído de nove em nove, relativo a nove\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Inclui o cardinal 'novem' e o derivado adjetival 'novēnus' (grafia variável); morfologia elegida a mais próxima (cardinal indeclinável).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}"
-  },
-  {
     "id": "chunk_18201-e3",
     "volume_id": "faria",
     "doc_name": "chunk_18201",
@@ -130,28 +86,6 @@
     "notas": "Forma e referência padronizadas conforme Lewis & Short. | [ocr_fix 2025-08-17T19:54:02Z] match direto em LS por lemma/lemma_norm | lemma_in='Norba' → 'Norba'",
     "raw_text": "{\"id\":\"chunk_18202:18202:0\",\"lemas\":[\"Norba\",\"Norbānus\"],\"lema_canonico\":\"Norba\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Cidade do Lácio (Latium), hoje Norma; também adjetivo Norbānus, -a, -um, 'de Norba'.\",\"aliases\":[],\"exemplos\":[\"Liv. 2, 34\"],\"notas\":\"Forma e referência padronizadas conforme Lewis & Short.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_18202:18202:0\",\"lemas\":[\"Norba\",\"Norbānus\"],\"lema_canonico\":\"Norba\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Cidade do Lácio (Latium), hoje Norma; também adjetivo Norbānus, -a, -um, 'de Norba'.\",\"aliases\":[],\"exemplos\":[\"Liv. 2, 34\"],\"notas\":\"Forma e referência padronizadas conforme Lewis & Short.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_18203-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_18203",
-    "page_num": 18203,
-    "lemmas": [
-      "Norba",
-      "Norba"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Gentilício/antroponímico: indivíduo originário de Norba; plural Norbani = habitantes de Norba.",
-    "exemplos": [],
-    "notas": "Entrada original indicava forma plural 'Norbani'; normalizei lema singular como Norbanus e mantive o plural como lema secundário.\n[ocr_pipeline 2025-08-16T23:20:23.861725Z] lemma_in='Norbanus' → 'Norba' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:18:39Z] match direto em LS por lemma/lemma_norm | lemma_in='Norba' → 'Norba' | [dedupe] redirect → chunk_18204:18204:0 | [dedupe] redirect → chunk_18204:18204:0",
-    "raw_text": "{\"id\":\"chunk_18203:18203:0\",\"lemas\":[\"Norbanus\",\"Norbani\"],\"lema_canonico\":\"Norbanus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Gentilício/antroponímico: indivíduo originário de Norba; plural Norbani = habitantes de Norba.\",\"aliases\":[],\"exemplos\":[\"Liv. 27, 10, 7\"],\"notas\":\"Entrada original indicava forma plural 'Norbani'; normalizei lema singular como Norbanus e mantive o plural como lema secundário.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_18203:18203:0\",\"lemas\":[\"Norbanus\",\"Norbani\"],\"lema_canonico\":\"Norbanus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Gentilício/antroponímico: indivíduo originário de Norba; plural Norbani = habitantes de Norba.\",\"aliases\":[],\"exemplos\":[\"Liv. 27, 10, 7\"],\"notas\":\"Entrada original indicava forma plural 'Norbani'; normalizei lema singular como Norbanus e mantive o plural como lema secundário.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
     "id": "chunk_18204-e1",
@@ -352,28 +286,6 @@
     "raw_json": "{\"id\":\"chunk_18212:18212:0\",\"lemas\":[\"nōs\"],\"lema_canonico\":\"nōs\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Pronome pessoal da 1. pl.: nós; genitivos associados nostrī (gen. objetivo) e nostrum (gen. partitivo).\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 1, 1, 41\",\"Verg. Buc. 1, 41\"],\"notas\":\"Classe morfológica (pron.) fora do vocabulário permitido; marcado morph_out_of_vocab.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\",\"morph_out_of_vocab\"]}"
   },
   {
-    "id": "chunk_18213-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_18213",
-    "page_num": 18213,
-    "lemmas": [
-      "nosco",
-      "nosco"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "nōscĕre: começar a conhecer, reconhecer, perceber; examinar; admitir/aceitar como conhecido.",
-    "exemplos": [],
-    "notas": "Normalizada a forma verbal e conjugação conforme fontes lexis; mantidas citações. | [dedupe] redirect → chunk_18214:18214:0 | [dedupe] redirect → chunk_18214:18214:0",
-    "raw_text": "{\"id\":\"chunk_18213:18213:0\",\"lemas\":[\"nosco\",\"nōscō\"],\"lema_canonico\":\"nosco\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"nōscĕre: começar a conhecer, reconhecer, perceber; examinar; admitir/aceitar como conhecido.\",\"aliases\":[],\"exemplos\":[\"Plaut. Trin. 863\",\"T. Liv. 2, 23, 4\"],\"notas\":\"Normalizada a forma verbal e conjugação conforme fontes lexis; mantidas citações.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_18213:18213:0\",\"lemas\":[\"nosco\",\"nōscō\"],\"lema_canonico\":\"nosco\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"nōscĕre: começar a conhecer, reconhecer, perceber; examinar; admitir/aceitar como conhecido.\",\"aliases\":[],\"exemplos\":[\"Plaut. Trin. 863\",\"T. Liv. 2, 23, 4\"],\"notas\":\"Normalizada a forma verbal e conjugação conforme fontes lexis; mantidas citações.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_18214-e1",
     "volume_id": "faria",
     "doc_name": "chunk_18214",
@@ -528,50 +440,6 @@
     "raw_json": "{\"id\":\"chunk_18220:18220:0\",\"lemas\":[\"noster\"],\"lema_canonico\":\"noster\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"de nosso país; relativo a nossos compatriotas; em masculino plural: 'nostrates' = compatriotas\",\"aliases\":[\"nostrates\"],\"exemplos\":[\"Cic. Fam. 2, 11, 11\",\"Plin. H. Nat. 16, 700\"],\"notas\":\"Unificada entrada como adjetivo 'noster' com referência à forma coletiva 'nostrates'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_18221-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_18221",
-    "page_num": 18221,
-    "lemmas": [
-      "nos",
-      "nos"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "genitivo plural/partitivo de pronome pessoal nós (nostrī): 'de nós', 'nosso' em algumas construções pronominais",
-    "exemplos": [],
-    "notas": "Entrada retificada para lema pronominal 'nos' (forma gen. 'nostri'). Morphologia pronominal fora do vocabulário nominal; marcado em flags. | [dedupe] redirect → chunk_18212:18212:0 | [dedupe] redirect → chunk_18212:18212:0",
-    "raw_text": "{\"id\":\"chunk_18221:18221:0\",\"lemas\":[\"nos\"],\"lema_canonico\":\"nos\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"genitivo plural/partitivo de pronome pessoal nós (nostrī): 'de nós', 'nosso' em algumas construções pronominais\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada retificada para lema pronominal 'nos' (forma gen. 'nostri'). Morphologia pronominal fora do vocabulário nominal; marcado em flags.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_18221:18221:0\",\"lemas\":[\"nos\"],\"lema_canonico\":\"nos\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"genitivo plural/partitivo de pronome pessoal nós (nostrī): 'de nós', 'nosso' em algumas construções pronominais\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada retificada para lema pronominal 'nos' (forma gen. 'nostri'). Morphologia pronominal fora do vocabulário nominal; marcado em flags.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"morph_out_of_vocab\"]}"
-  },
-  {
-    "id": "chunk_18222-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_18222",
-    "page_num": 18222,
-    "lemmas": [
-      "noster",
-      "noster"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "genitivo singular de noster: 'de nosso', 'nosso (de)'; forma usada para indicar posse/pertinência",
-    "exemplos": [],
-    "notas": "Retificado para lema canónico 'noster' (gen. 'nostri'). | [dedupe] redirect → chunk_18217:18217:0 | [dedupe] redirect → chunk_18217:18217:0",
-    "raw_text": "{\"id\":\"chunk_18222:18222:0\",\"lemas\":[\"noster\"],\"lema_canonico\":\"noster\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"genitivo singular de noster: 'de nosso', 'nosso (de)'; forma usada para indicar posse/pertinência\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Retificado para lema canónico 'noster' (gen. 'nostri').\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_18222:18222:0\",\"lemas\":[\"noster\"],\"lema_canonico\":\"noster\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"genitivo singular de noster: 'de nosso', 'nosso (de)'; forma usada para indicar posse/pertinência\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Retificado para lema canónico 'noster' (gen. 'nostri').\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_18223-e1",
     "volume_id": "faria",
     "doc_name": "chunk_18223",
@@ -592,28 +460,6 @@
     "notas": "Corrigida leitura OCR que indicava 'v.'; entrada reconciliada com noster/nostra/nostrum conforme Whitaker e Lat→Deu.",
     "raw_text": "{\"id\":\"chunk_18223:18223:0\",\"lemas\":[\"nostrum\",\"noster\",\"nostra\"],\"lema_canonico\":\"nostrum\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"pron.\"],\"definicao\":\"Forma de noster usada como adjetivo/partitivo: 'nosso'; também funciona como pronome partitivo 'de nós'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigida leitura OCR que indicava 'v.'; entrada reconciliada com noster/nostra/nostrum conforme Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_18223:18223:0\",\"lemas\":[\"nostrum\",\"noster\",\"nostra\"],\"lema_canonico\":\"nostrum\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"pron.\"],\"definicao\":\"Forma de noster usada como adjetivo/partitivo: 'nosso'; também funciona como pronome partitivo 'de nós'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigida leitura OCR que indicava 'v.'; entrada reconciliada com noster/nostra/nostrum conforme Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_18224-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_18224",
-    "page_num": 18224,
-    "lemmas": [
-      "nostrum",
-      "nostrum"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "forma genitiva/partitiva de nos; também forma do adjetivo possessivo noster (noster, nostra, nostrum) usada em construções partitivas ou possessivas.",
-    "exemplos": [],
-    "notas": "Ambiguidade entre pronome genitivo e forma adjetival; marcado como adjetivo 1/2 com indicação adicional de uso pronominal. Corroborado por Whitaker e Lat→Deu. | [dedupe] redirect → chunk_18223:18223:0 | [dedupe] redirect → chunk_18223:18223:0",
-    "raw_text": "{\"id\":\"chunk_18224:18224:0\",\"lemas\":[\"nostrum\"],\"lema_canonico\":\"nostrum\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"pron. gen.\"],\"definicao\":\"forma genitiva/partitiva de nos; também forma do adjetivo possessivo noster (noster, nostra, nostrum) usada em construções partitivas ou possessivas.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Ambiguidade entre pronome genitivo e forma adjetival; marcado como adjetivo 1/2 com indicação adicional de uso pronominal. Corroborado por Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_18224:18224:0\",\"lemas\":[\"nostrum\"],\"lema_canonico\":\"nostrum\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"pron. gen.\"],\"definicao\":\"forma genitiva/partitiva de nos; também forma do adjetivo possessivo noster (noster, nostra, nostrum) usada em construções partitivas ou possessivas.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Ambiguidade entre pronome genitivo e forma adjetival; marcado como adjetivo 1/2 com indicação adicional de uso pronominal. Corroborado por Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:med\"]}"
   },
   {
     "id": "chunk_18225-e1",
@@ -836,28 +682,6 @@
     "raw_json": "{\"id\":\"chunk_18234:18234:0\",\"lemas\":[\"notitia\"],\"lema_canonico\":\"notitia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"1) O fato de ser conhecido, notoriedade; 2) conhecimento, noção, ideia; 3) em usos particulares, conhecimento íntimo/relacionamento (sexo), e sentido de aviso/ideia antecipada.\",\"aliases\":[],\"exemplos\":[\"Ov. P. 3, 1, 49\",\"Cic. Leg. 1, 24\",\"Cic. C. I. M. 21\"],\"notas\":\"Sentidos alinhados com Lewis & Short; usos particulares indicados por testemunhos clássicos.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_18235-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_18235",
-    "page_num": 18235,
-    "lemmas": [
-      "notitia",
-      "notitia"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "notitia: conhecimento, notícia, fama; também: conhecimento/amizade pessoal (acquaintance)",
-    "exemplos": [],
-    "notas": "Grafia normalizada; sentidos conforme LS/Lat→Deu | [dedupe] redirect → chunk_18234:18234:0 | [dedupe] redirect → chunk_18234:18234:0",
-    "raw_text": "{\"id\":\"chunk_18235:18235:0\",\"lemas\":[\"notitia\"],\"lema_canonico\":\"notitia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"notitia: conhecimento, notícia, fama; também: conhecimento/amizade pessoal (acquaintance)\",\"aliases\":[],\"exemplos\":[\"Lucr. 2, 124\",\"Lucr. 5, 182\",\"Ter. Heaut. 1, 1, 1\",\"Ov. P. 3, 1, 49\"],\"notas\":\"Grafia normalizada; sentidos conforme LS/Lat→Deu\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_18235:18235:0\",\"lemas\":[\"notitia\"],\"lema_canonico\":\"notitia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"notitia: conhecimento, notícia, fama; também: conhecimento/amizade pessoal (acquaintance)\",\"aliases\":[],\"exemplos\":[\"Lucr. 2, 124\",\"Lucr. 5, 182\",\"Ter. Heaut. 1, 1, 1\",\"Ov. P. 3, 1, 49\"],\"notas\":\"Grafia normalizada; sentidos conforme LS/Lat→Deu\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_18236-e1",
     "volume_id": "faria",
     "doc_name": "chunk_18236",
@@ -944,28 +768,6 @@
     "notas": "Forma e sentido segundo Lewis & Short (nōtor, -ōris). | [ocr_fix 2025-08-17T19:59:01Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='nōtor' → 'nōtor'",
     "raw_text": "{\"id\":\"chunk_18239:18239:0\",\"lemas\":[\"nōtor\"],\"lema_canonico\":\"nōtor\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Aquele que conhece alguém; testemunha, fiador, garantidor (cognitor, voucher).\",\"aliases\":[],\"exemplos\":[\"Petr. 92, 9\"],\"notas\":\"Forma e sentido segundo Lewis & Short (nōtor, -ōris).\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_18239:18239:0\",\"lemas\":[\"nōtor\"],\"lema_canonico\":\"nōtor\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Aquele que conhece alguém; testemunha, fiador, garantidor (cognitor, voucher).\",\"aliases\":[],\"exemplos\":[\"Petr. 92, 9\"],\"notas\":\"Forma e sentido segundo Lewis & Short (nōtor, -ōris).\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_18239-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_18239",
-    "page_num": 18239,
-    "lemmas": [
-      "notus",
-      "notus"
-    ],
-    "morfologia": "adj. (3) 3T",
-    "morph_render": "adj. (3) 3T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Particípio perfeito de noscĕre / nōscī: 'conhecido', 'familiar', 'famoso'; usado também como adjetivo 'bem conhecido, notório'.",
-    "exemplos": [],
-    "notas": "Classificado como adjetivo de 3ª com marcador de particípio perfeito passivo; alinhado com LS e Whitaker. | [dedupe] redirect → chunk_18240:18240:0 | [dedupe] redirect → chunk_18240:18240:0",
-    "raw_text": "{\"id\":\"chunk_18239:18239:1\",\"lemas\":[\"notus\"],\"lema_canonico\":\"notus\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito de noscĕre / nōscī: 'conhecido', 'familiar', 'famoso'; usado também como adjetivo 'bem conhecido, notório'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Classificado como adjetivo de 3ª com marcador de particípio perfeito passivo; alinhado com LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_18239:18239:1\",\"lemas\":[\"notus\"],\"lema_canonico\":\"notus\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito de noscĕre / nōscī: 'conhecido', 'familiar', 'famoso'; usado também como adjetivo 'bem conhecido, notório'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Classificado como adjetivo de 3ª com marcador de particípio perfeito passivo; alinhado com LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_18240-e1",
@@ -1760,50 +1562,6 @@
     "raw_json": "{\"id\":\"chunk_18272:18272:1\",\"lemas\":[\"novum\"],\"lema_canonico\":\"novum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"coisa nova; novidade (substantivo neutro).\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 2, 13\"],\"notas\":\"Substantivo neutro confirmado (novum, -i) conforme Lat→Deu e uso clássico.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_18273-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_18273",
-    "page_num": 18273,
-    "lemmas": [
-      "novus",
-      "novus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "new, recent, fresh; also unusual, inexperienced; fig. strange or extraordinary; as subst. 'res novae' = political change; 'homo novus' = new man.",
-    "exemplos": [],
-    "notas": "Sentidos resumidos a partir de LS, Whitaker e Lat→Deu; grafia normalizada. | [dedupe] redirect → chunk_18272:18272:0 | [dedupe] redirect → chunk_18272:18272:0",
-    "raw_text": "{\"id\":\"chunk_18273:18273:0\",\"lemas\":[\"novus\",\"nova\",\"novum\"],\"lema_canonico\":\"novus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"new, recent, fresh; also unusual, inexperienced; fig. strange or extraordinary; as subst. 'res novae' = political change; 'homo novus' = new man.\",\"aliases\":[],\"exemplos\":[\"Cic. Br. 287\",\"Cic. Cat. 1, 3\",\"Caes. B. G. 1, 15, 2\"],\"notas\":\"Sentidos resumidos a partir de LS, Whitaker e Lat→Deu; grafia normalizada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_18273:18273:0\",\"lemas\":[\"novus\",\"nova\",\"novum\"],\"lema_canonico\":\"novus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"new, recent, fresh; also unusual, inexperienced; fig. strange or extraordinary; as subst. 'res novae' = political change; 'homo novus' = new man.\",\"aliases\":[],\"exemplos\":[\"Cic. Br. 287\",\"Cic. Cat. 1, 3\",\"Caes. B. G. 1, 15, 2\"],\"notas\":\"Sentidos resumidos a partir de LS, Whitaker e Lat→Deu; grafia normalizada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_18274-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_18274",
-    "page_num": 18274,
-    "lemmas": [
-      "nox",
-      "nox"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Noite; por extensão: personificação (a Noite), morte/trevas, repouso, obscuridade, etc.",
-    "exemplos": [],
-    "notas": "Genitivo noctis e referências ajustadas segundo Lewis & Short e Whitaker. | [dedupe] redirect → chunk_15104:15104:1 | [dedupe] redirect → chunk_15104:15104:1",
-    "raw_text": "{\"id\":\"chunk_18274:18274:0\",\"lemas\":[\"nox\"],\"lema_canonico\":\"nox\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Noite; por extensão: personificação (a Noite), morte/trevas, repouso, obscuridade, etc.\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. D. 2, 21\",\"Verg. Aen. 5, 721\",\"Hor. C. 1, 28, 15\",\"Cic. Att. 1, 16, 5\",\"Verg. Aen. 4, 530\",\"Ov. Met. 7, 7\",\"Verg. Aen. 3, 194\",\"Cic. Brut. 96\"],\"notas\":\"Genitivo noctis e referências ajustadas segundo Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_18274:18274:0\",\"lemas\":[\"nox\"],\"lema_canonico\":\"nox\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Noite; por extensão: personificação (a Noite), morte/trevas, repouso, obscuridade, etc.\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. D. 2, 21\",\"Verg. Aen. 5, 721\",\"Hor. C. 1, 28, 15\",\"Cic. Att. 1, 16, 5\",\"Verg. Aen. 4, 530\",\"Ov. Met. 7, 7\",\"Verg. Aen. 3, 194\",\"Cic. Brut. 96\"],\"notas\":\"Genitivo noctis e referências ajustadas segundo Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_18275-e1",
     "volume_id": "faria",
     "doc_name": "chunk_18275",
@@ -1824,50 +1582,6 @@
     "notas": "Definições e usos jurídicos/literários verificados em LS/Whitaker.",
     "raw_text": "{\"id\":\"chunk_18275:18275:0\",\"lemas\":[\"noxa\"],\"lema_canonico\":\"noxa\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"dano, prejuízo; ofensa, culpa, delito; também: desgraça, punição.\",\"aliases\":[],\"exemplos\":[\"Liv. 9, 10\",\"Dig. 35, 2, 63\"],\"notas\":\"Definições e usos jurídicos/literários verificados em LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_18275:18275:0\",\"lemas\":[\"noxa\"],\"lema_canonico\":\"noxa\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"dano, prejuízo; ofensa, culpa, delito; também: desgraça, punição.\",\"aliases\":[],\"exemplos\":[\"Liv. 9, 10\",\"Dig. 35, 2, 63\"],\"notas\":\"Definições e usos jurídicos/literários verificados em LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_18276-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_18276",
-    "page_num": 18276,
-    "lemmas": [
-      "noxa",
-      "noxa"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Dano, prejuízo; falta, delito; culpa (termo de uso jurídico e moral).",
-    "exemplos": [],
-    "notas": "Declinação e sentidos alinhados com Lewis & Short; referência cicerniana normalizada. | [dedupe] redirect → chunk_18275:18275:0 | [dedupe] redirect → chunk_18275:18275:0",
-    "raw_text": "{\"id\":\"chunk_18276:18276:0\",\"lemas\":[\"noxa\"],\"lema_canonico\":\"noxa\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Dano, prejuízo; falta, delito; culpa (termo de uso jurídico e moral).\",\"aliases\":[],\"exemplos\":[\"Liv. 8, 18, 4\",\"Cic. Leg. 3, 11\"],\"notas\":\"Declinação e sentidos alinhados com Lewis & Short; referência cicerniana normalizada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_18276:18276:0\",\"lemas\":[\"noxa\"],\"lema_canonico\":\"noxa\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Dano, prejuízo; falta, delito; culpa (termo de uso jurídico e moral).\",\"aliases\":[],\"exemplos\":[\"Liv. 8, 18, 4\",\"Cic. Leg. 3, 11\"],\"notas\":\"Declinação e sentidos alinhados com Lewis & Short; referência cicerniana normalizada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_18277-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_18277",
-    "page_num": 18277,
-    "lemmas": [
-      "nox",
-      "nox"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "formas arcaicas/variantas relacionadas a nox (acus. e gen. pl.), grafia incerta",
-    "exemplos": [],
-    "notas": "Entrada incerta no OCR; possivelmente corrupta/arcaica; mantenho referência a nox.\n[ocr_pipeline 2025-08-16T23:15:10.869995Z] lemma_in='nox' → 'nox' | motivo: match direto em LS por lemma/lemma_norm | [ocr_fix 2025-08-17T01:11:39Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='nox' → 'nox' | [dedupe] redirect → chunk_15104:15104:1 | [dedupe] redirect → chunk_15104:15104:1",
-    "raw_text": "{\"id\":\"chunk_18277:18277:0\",\"lemas\":[\"nox\",\"noxium\"],\"lema_canonico\":\"nox\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"formas arcaicas/variantas relacionadas a nox (acus. e gen. pl.), grafia incerta\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada incerta no OCR; possivelmente corrupta/arcaica; mantenho referência a nox.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_18277:18277:0\",\"lemas\":[\"nox\",\"noxium\"],\"lema_canonico\":\"nox\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"formas arcaicas/variantas relacionadas a nox (acus. e gen. pl.), grafia incerta\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada incerta no OCR; possivelmente corrupta/arcaica; mantenho referência a nox.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
     "id": "chunk_18278-e1",
@@ -1912,28 +1626,6 @@
     "notas": "Forma incerta no OCR; preservada leitura da 1ª passada; precisa verificação contra dicionários.",
     "raw_text": "{\"id\":\"chunk_18279:18279:0\",\"lemas\":[\"noxitido\",\"noxītīdō\",\"noxĭtĭdō\"],\"lema_canonico\":\"noxītīdō\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"(prov.) Falta; crime.\",\"aliases\":[],\"exemplos\":[\"Acc. Tr. 182\"],\"notas\":\"Forma incerta no OCR; preservada leitura da 1ª passada; precisa verificação contra dicionários.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_18279:18279:0\",\"lemas\":[\"noxitido\",\"noxītīdō\",\"noxĭtĭdō\"],\"lema_canonico\":\"noxītīdō\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"(prov.) Falta; crime.\",\"aliases\":[],\"exemplos\":[\"Acc. Tr. 182\"],\"notas\":\"Forma incerta no OCR; preservada leitura da 1ª passada; precisa verificação contra dicionários.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_18280-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_18280",
-    "page_num": 18280,
-    "lemmas": [
-      "noxius",
-      "noxius"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Nocivo, prejudicial; também culpado, criminoso.",
-    "exemplos": [],
-    "notas": "Unificadas formas masculina/feminina/neutra conforme LS/Whitaker. | [dedupe] redirect → chunk_18278:18278:0 | [dedupe] redirect → chunk_18278:18278:0",
-    "raw_text": "{\"id\":\"chunk_18280:18280:0\",\"lemas\":[\"noxius\",\"noxia\",\"noxium\"],\"lema_canonico\":\"noxius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Nocivo, prejudicial; também culpado, criminoso.\",\"aliases\":[],\"exemplos\":[\"Verg. Aen. 7, 326\",\"Liv. 7, 20\"],\"notas\":\"Unificadas formas masculina/feminina/neutra conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_18280:18280:0\",\"lemas\":[\"noxius\",\"noxia\",\"noxium\"],\"lema_canonico\":\"noxius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Nocivo, prejudicial; também culpado, criminoso.\",\"aliases\":[],\"exemplos\":[\"Verg. Aen. 7, 326\",\"Liv. 7, 20\"],\"notas\":\"Unificadas formas masculina/feminina/neutra conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_18281-e1",
@@ -2354,28 +2046,6 @@
     "raw_json": "{\"id\":\"chunk_18298:18298:0\",\"lemas\":[\"nucipersicum\",\"nŭcĭpersĭcum\"],\"lema_canonico\":\"nucipersicum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"a peach grafted on a nut-tree (a 'nut-peach').\",\"aliases\":[],\"exemplos\":[\"Mart. 13, 46\"],\"notas\":\"Lema e sentido alinhados com Lewis & Short e Lat→Deu; grafia padronizada.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_18299-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_18299",
-    "page_num": 18299,
-    "lemmas": [
-      "nux",
-      "nux"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "nut (the fruit); also used for the nut-tree and related senses.",
-    "exemplos": [],
-    "notas": "Genitivo registrado como 'nucis'; entradas harmonizadas com LS/Whitaker. | [dedupe] redirect → chunk_15104:15104:2 | [dedupe] redirect → chunk_15104:15104:2",
-    "raw_text": "{\"id\":\"chunk_18299:18299:0\",\"lemas\":[\"nux\",\"nucis\"],\"lema_canonico\":\"nux\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"nut (the fruit); also used for the nut-tree and related senses.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Genitivo registrado como 'nucis'; entradas harmonizadas com LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_18299:18299:0\",\"lemas\":[\"nux\",\"nucis\"],\"lema_canonico\":\"nux\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"nut (the fruit); also used for the nut-tree and related senses.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Genitivo registrado como 'nucis'; entradas harmonizadas com LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_18300-e1",
     "volume_id": "faria",
     "doc_name": "chunk_18300",
@@ -2684,72 +2354,6 @@
     "raw_json": "{\"id\":\"chunk_18313:18313:0\",\"lemas\":[\"nullus\",\"nulla\",\"nullum\"],\"lema_canonico\":\"nullus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"nenhum, nenhuma; também usado como pronome (no one, not any)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Formas canónicas incluídas; genitivo regularmente -ius.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_18313-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_18313",
-    "page_num": 18313,
-    "lemmas": [
-      "nullus",
-      "nullus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "formas feminina genitiva e dativa de nullus",
-    "exemplos": [],
-    "notas": "Clarificado que 'nulla' aqui indica casos (gen./dat.) femininos. | [dedupe] redirect → chunk_18313:18313:0 | [dedupe] redirect → chunk_18313:18313:0",
-    "raw_text": "{\"id\":\"chunk_18313:18313:1\",\"lemas\":[\"nulla\"],\"lema_canonico\":\"nullus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"gen. sg. f.\",\"dat. sg. f.\"],\"definicao\":\"formas feminina genitiva e dativa de nullus\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Clarificado que 'nulla' aqui indica casos (gen./dat.) femininos.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_18313:18313:1\",\"lemas\":[\"nulla\"],\"lema_canonico\":\"nullus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"gen. sg. f.\",\"dat. sg. f.\"],\"definicao\":\"formas feminina genitiva e dativa de nullus\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Clarificado que 'nulla' aqui indica casos (gen./dat.) femininos.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_18314-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_18314",
-    "page_num": 18314,
-    "lemmas": [
-      "nullus",
-      "nullus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "genitivo singular de nullus; adjective 'nenhum, nenhuma'",
-    "exemplos": [],
-    "notas": "Entrada retificada para lema canónico e marcação como forma genitiva. | [dedupe] redirect → chunk_18313:18313:0 | [dedupe] redirect → chunk_18313:18313:0",
-    "raw_text": "{\"id\":\"chunk_18314:18314:0\",\"lemas\":[\"nullus\",\"nulli\"],\"lema_canonico\":\"nullus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"gen. sg.\"],\"definicao\":\"genitivo singular de nullus; adjective 'nenhum, nenhuma'\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada retificada para lema canónico e marcação como forma genitiva.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_18314:18314:0\",\"lemas\":[\"nullus\",\"nulli\"],\"lema_canonico\":\"nullus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"gen. sg.\"],\"definicao\":\"genitivo singular de nullus; adjective 'nenhum, nenhuma'\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada retificada para lema canónico e marcação como forma genitiva.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_18315-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_18315",
-    "page_num": 18315,
-    "lemmas": [
-      "nullus",
-      "nullus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "nenhum, nenhuma; pronome-adjetivo de negação (não any / no one)",
-    "exemplos": [],
-    "notas": "Formas masc./fem./neut. mantidas; casos e referências padronizados conforme LS e Whitaker. | [dedupe] redirect → chunk_18313:18313:0 | [dedupe] redirect → chunk_18313:18313:0",
-    "raw_text": "{\"id\":\"chunk_18315:18315:0\",\"lemas\":[\"nullus\",\"nulla\",\"nullum\"],\"lema_canonico\":\"nullus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"nenhum, nenhuma; pronome-adjetivo de negação (não any / no one)\",\"aliases\":[],\"exemplos\":[\"Plaut. Ps. 4, 7, 99\",\"Ter. And. 3, 5, 2\",\"Cic. Mur. 28\",\"Cic. Tusc. 2, 13\"],\"notas\":\"Formas masc./fem./neut. mantidas; casos e referências padronizados conforme LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_18315:18315:0\",\"lemas\":[\"nullus\",\"nulla\",\"nullum\"],\"lema_canonico\":\"nullus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"nenhum, nenhuma; pronome-adjetivo de negação (não any / no one)\",\"aliases\":[],\"exemplos\":[\"Plaut. Ps. 4, 7, 99\",\"Ter. And. 3, 5, 2\",\"Cic. Mur. 28\",\"Cic. Tusc. 2, 13\"],\"notas\":\"Formas masc./fem./neut. mantidas; casos e referências padronizados conforme LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_18316-e1",
     "volume_id": "faria",
     "doc_name": "chunk_18316",
@@ -2770,28 +2374,6 @@
     "notas": "Entrada incerta: provável composição de nullus + dum; morfologia de pronome não cabe no vocabulário fornecido.\n[ocr_pipeline 2025-08-16T23:20:25.319380Z] lemma_in='nullusdum' → 'nīdĭcus' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T18:29:58Z] match direto em LS por lemma/lemma_norm | lemma_in='nīdĭcus' → 'nīdĭcus'",
     "raw_text": "{\"id\":\"chunk_18316:18316:0\",\"lemas\":[\"nullusdum\",\"nullădum\",\"nullūmdum\"],\"lema_canonico\":\"nullusdum\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"(Possível composto) 'ainda nenhum' — forma composta pouco atestada; necessita verificação.\",\"aliases\":[],\"exemplos\":[\"T. Liv. 5, 31\",\"T. Liv. 6\"],\"notas\":\"Entrada incerta: provável composição de nullus + dum; morfologia de pronome não cabe no vocabulário fornecido.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"morph_out_of_vocab\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_18316:18316:0\",\"lemas\":[\"nullusdum\",\"nullădum\",\"nullūmdum\"],\"lema_canonico\":\"nullusdum\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"(Possível composto) 'ainda nenhum' — forma composta pouco atestada; necessita verificação.\",\"aliases\":[],\"exemplos\":[\"T. Liv. 5, 31\",\"T. Liv. 6\"],\"notas\":\"Entrada incerta: provável composição de nullus + dum; morfologia de pronome não cabe no vocabulário fornecido.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"morph_out_of_vocab\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_18317-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_18317",
-    "page_num": 18317,
-    "lemmas": [
-      "num",
-      "num"
-    ],
-    "morfologia": "adv.",
-    "morph_render": "adv.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Partícula interrogativa usada em perguntas diretas esperando normalmente resposta negativa; em interrogação indireta pode ter sentido condicional (‘se’).",
-    "exemplos": [],
-    "notas": "Definição ajustada e condensada a partir de Lewis & Short e Whitaker; exemplos canônicos mantidos. | [dedupe] redirect → chunk_14329:14329:1 | [dedupe] redirect → chunk_14329:14329:1",
-    "raw_text": "{\"id\":\"chunk_18317:18317:0\",\"lemas\":[\"num\"],\"lema_canonico\":\"num\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"Partícula interrogativa usada em perguntas diretas esperando normalmente resposta negativa; em interrogação indireta pode ter sentido condicional (‘se’).\",\"aliases\":[],\"exemplos\":[\"Plaut. Merc. 1, 2, 102\",\"Ter. And. 2, 2, 29\",\"Cic. Div. 1, 14, 24\"],\"notas\":\"Definição ajustada e condensada a partir de Lewis & Short e Whitaker; exemplos canônicos mantidos.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_18317:18317:0\",\"lemas\":[\"num\"],\"lema_canonico\":\"num\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"Partícula interrogativa usada em perguntas diretas esperando normalmente resposta negativa; em interrogação indireta pode ter sentido condicional (‘se’).\",\"aliases\":[],\"exemplos\":[\"Plaut. Merc. 1, 2, 102\",\"Ter. And. 2, 2, 29\",\"Cic. Div. 1, 14, 24\"],\"notas\":\"Definição ajustada e condensada a partir de Lewis & Short e Whitaker; exemplos canônicos mantidos.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_18319-e1",
@@ -3124,28 +2706,6 @@
     "raw_json": "{\"id\":\"chunk_18333:18333:0\",\"lemas\":[\"numerus\"],\"lema_canonico\":\"numerus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"número; quantidade, ordem, classe; também ritmo, verso, e sentido figurado (conjunto, série)\",\"aliases\":[],\"exemplos\":[\"Cic. Or. 166\",\"Plin. H. Nat. 35, 138\",\"Plin. H. Nat. 35, 130\"],\"notas\":\"Substantivo regularizado como numerus, -i; acepções resumidas a partir de LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_18334-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_18334",
-    "page_num": 18334,
-    "lemmas": [
-      "numerus",
-      "numerus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "número, quantidade; grupo/ordem; ritmo/metro; categoria; corpo militar (pl.), ciência dos números",
-    "exemplos": [],
-    "notas": "Sentidos consolidados segundo LS/Whitaker; morfologia indicada como 2ª declinação. | [dedupe] redirect → chunk_18333:18333:0 | [dedupe] redirect → chunk_18333:18333:0",
-    "raw_text": "{\"id\":\"chunk_18334:18334:0\",\"lemas\":[\"numerus\"],\"lema_canonico\":\"numerus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"número, quantidade; grupo/ordem; ritmo/metro; categoria; corpo militar (pl.), ciência dos números\",\"aliases\":[],\"exemplos\":[\"Cic. Br. 274\",\"Plin. Ep. 10, 29, 2\",\"Cic. Fin. 5, 87\"],\"notas\":\"Sentidos consolidados segundo LS/Whitaker; morfologia indicada como 2ª declinação.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_18334:18334:0\",\"lemas\":[\"numerus\"],\"lema_canonico\":\"numerus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"número, quantidade; grupo/ordem; ritmo/metro; categoria; corpo militar (pl.), ciência dos números\",\"aliases\":[],\"exemplos\":[\"Cic. Br. 274\",\"Plin. Ep. 10, 29, 2\",\"Cic. Fin. 5, 87\"],\"notas\":\"Sentidos consolidados segundo LS/Whitaker; morfologia indicada como 2ª declinação.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_18335-e1",
     "volume_id": "faria",
     "doc_name": "chunk_18335",
@@ -3408,28 +2968,6 @@
     "notas": "Forma e referências alinhadas com Lewis & Short (Numitorius). | [ocr_fix 2025-08-17T19:54:04Z] match direto em LS por lemma/lemma_norm | lemma_in='Numitorius' → 'Nŭmĭtōrĭus'",
     "raw_text": "{\"id\":\"chunk_18346:18346:0\",\"lemas\":[\"Numitorius\",\"Numitorius\"],\"lema_canonico\":\"Numitorius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"nome de uma gens romana; indivíduo chamado Numitorius\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 2, 5, 63\",\"Liv. 2, 58\",\"Liv. 3, 45\"],\"notas\":\"Forma e referências alinhadas com Lewis & Short (Numitorius).\",\"flags\":[\"src_ls\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_18346:18346:0\",\"lemas\":[\"Numitorius\",\"Numitorius\"],\"lema_canonico\":\"Numitorius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"nome de uma gens romana; indivíduo chamado Numitorius\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 2, 5, 63\",\"Liv. 2, 58\",\"Liv. 3, 45\"],\"notas\":\"Forma e referências alinhadas com Lewis & Short (Numitorius).\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_18347-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_18347",
-    "page_num": 18347,
-    "lemmas": [
-      "nummus",
-      "nummus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "moeda; dinheiro (nummus)",
-    "exemplos": [],
-    "notas": "Corrigido 'Numus' → lemm. canônico 'nummus' (Whitaker e uso léxico). Mantida variante registrada no OCR. | [dedupe] redirect → chunk_18354:18354:0 | [dedupe] redirect → chunk_18354:18354:0 | [ocr_fix 2025-08-17T19:54:04Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='nummus' → 'nummus'",
-    "raw_text": "{\"id\":\"chunk_18347:18347:0\",\"lemas\":[\"nummus\",\"numus\"],\"lema_canonico\":\"nummus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"moeda; dinheiro (nummus)\",\"aliases\":[\"numus\"],\"exemplos\":[],\"notas\":\"Corrigido 'Numus' → lemm. canônico 'nummus' (Whitaker e uso léxico). Mantida variante registrada no OCR.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_18347:18347:0\",\"lemas\":[\"nummus\",\"numus\"],\"lema_canonico\":\"nummus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"moeda; dinheiro (nummus)\",\"aliases\":[\"numus\"],\"exemplos\":[],\"notas\":\"Corrigido 'Numus' → lemm. canônico 'nummus' (Whitaker e uso léxico). Mantida variante registrada no OCR.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}"
   },
   {
     "id": "chunk_18348-e1",
@@ -4268,50 +3806,6 @@
     "raw_json": "{\"id\":\"chunk_18383:18383:1\",\"lemas\":[\"nutritur\"],\"lema_canonico\":\"nutritur\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"3.ª p. sg. pres. ind. pass. de nutrio (nutrīre): 'é/foi nutrido, alimenta-se'\",\"aliases\":[],\"exemplos\":[\"Verg. G. 2, 425\"],\"notas\":\"Forma atestada em Verg. como indic. pass. de nutrio; tratado como forma do verbo da 4ª conj.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_18384-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_18384",
-    "page_num": 18384,
-    "lemmas": [
-      "nutrix",
-      "nutrix"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "ama, ama de leite; que alimenta, que amamenta; por extensão: nutriz, mama(s) (pl.)",
-    "exemplos": [],
-    "notas": "Unificado com Lewis & Short; variante notrix mantida. | [dedupe] redirect → chunk_18378:18378:0 | [dedupe] redirect → chunk_18378:18378:0",
-    "raw_text": "{\"id\":\"chunk_18384:18384:0\",\"lemas\":[\"nutrix\",\"notrix\"],\"lema_canonico\":\"nutrix\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"ama, ama de leite; que alimenta, que amamenta; por extensão: nutriz, mama(s) (pl.)\",\"aliases\":[],\"exemplos\":[\"Cic. de Or. 2, 39, 162\",\"Cic. Verr. 2, 5\",\"Catul. 64, 18\"],\"notas\":\"Unificado com Lewis & Short; variante notrix mantida.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_18384:18384:0\",\"lemas\":[\"nutrix\",\"notrix\"],\"lema_canonico\":\"nutrix\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"ama, ama de leite; que alimenta, que amamenta; por extensão: nutriz, mama(s) (pl.)\",\"aliases\":[],\"exemplos\":[\"Cic. de Or. 2, 39, 162\",\"Cic. Verr. 2, 5\",\"Catul. 64, 18\"],\"notas\":\"Unificado com Lewis & Short; variante notrix mantida.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_18385-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_18385",
-    "page_num": 18385,
-    "lemmas": [
-      "nux",
-      "nux"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Nux: fruto seco (noz); também amêndoa, castanha, bolota; árvore que produz nozes.",
-    "exemplos": [],
-    "notas": "Entrada inferida de ocorrência isolada; confirmado por LS/Whitaker/Lat→Deu. | [dedupe] redirect → chunk_15104:15104:2 | [dedupe] redirect → chunk_15104:15104:2",
-    "raw_text": "{\"id\":\"chunk_18385:18385:1\",\"lemas\":[\"nux\",\"nūx\"],\"lema_canonico\":\"nux\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Nux: fruto seco (noz); também amêndoa, castanha, bolota; árvore que produz nozes.\",\"aliases\":[],\"exemplos\":[\"Verg. Ecl. 8, 30\"],\"notas\":\"Entrada inferida de ocorrência isolada; confirmado por LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_18385:18385:1\",\"lemas\":[\"nux\",\"nūx\"],\"lema_canonico\":\"nux\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Nux: fruto seco (noz); também amêndoa, castanha, bolota; árvore que produz nozes.\",\"aliases\":[],\"exemplos\":[\"Verg. Ecl. 8, 30\"],\"notas\":\"Entrada inferida de ocorrência isolada; confirmado por LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_18385-e2",
     "volume_id": "faria",
     "doc_name": "chunk_18385",
@@ -4332,28 +3826,6 @@
     "notas": "Grafia com macron reforçada como nūtus; significados e referências segundo Lewis & Short e Whitaker.",
     "raw_text": "{\"id\":\"chunk_18385:18385:0\",\"lemas\":[\"nūtus\",\"nutus\"],\"lema_canonico\":\"nūtus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"1) gesto de cabeça, aceno, sinal (nodding, beckoning); 2) ordem, vontade, mandado; 3) (fig.) inclinação, tendência, gravidade.\",\"aliases\":[],\"exemplos\":[\"Liv. 34, 62\",\"Ov. A. 9, 106\",\"Tert. adv. Herm. 27\"],\"notas\":\"Grafia com macron reforçada como nūtus; significados e referências segundo Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_18385:18385:0\",\"lemas\":[\"nūtus\",\"nutus\"],\"lema_canonico\":\"nūtus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"1) gesto de cabeça, aceno, sinal (nodding, beckoning); 2) ordem, vontade, mandado; 3) (fig.) inclinação, tendência, gravidade.\",\"aliases\":[],\"exemplos\":[\"Liv. 34, 62\",\"Ov. A. 9, 106\",\"Tert. adv. Herm. 27\"],\"notas\":\"Grafia com macron reforçada como nūtus; significados e referências segundo Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_18386-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_18386",
-    "page_num": 18386,
-    "lemmas": [
-      "nux",
-      "nux"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "noz; por extensão, fruto lenhoso (amêndoa, castanha, etc.); também a árvore que produz tais frutos.",
-    "exemplos": [],
-    "notas": "Consolidação de sentidos a partir de LS e Whitaker; exemplos canônicos preservados. | [dedupe] redirect → chunk_15104:15104:2 | [dedupe] redirect → chunk_15104:15104:2",
-    "raw_text": "{\"id\":\"chunk_18386:18386:0\",\"lemas\":[\"nux\"],\"lema_canonico\":\"nux\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"noz; por extensão, fruto lenhoso (amêndoa, castanha, etc.); também a árvore que produz tais frutos.\",\"aliases\":[],\"exemplos\":[\"Verg. Buc. 2, 30\",\"Verg. Buc. 2, 62\",\"Liv. 24, 18\",\"Verg. G. 1, 187\"],\"notas\":\"Consolidação de sentidos a partir de LS e Whitaker; exemplos canônicos preservados.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_18386:18386:0\",\"lemas\":[\"nux\"],\"lema_canonico\":\"nux\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"noz; por extensão, fruto lenhoso (amêndoa, castanha, etc.); também a árvore que produz tais frutos.\",\"aliases\":[],\"exemplos\":[\"Verg. Buc. 2, 30\",\"Verg. Buc. 2, 62\",\"Liv. 24, 18\",\"Verg. G. 1, 187\"],\"notas\":\"Consolidação de sentidos a partir de LS e Whitaker; exemplos canônicos preservados.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_18387-e1",
@@ -4510,28 +3982,6 @@
     "raw_json": "{\"id\":\"chunk_18393:18393:0\",\"lemas\":[\"Nymphaeus\"],\"lema_canonico\":\"Nymphaeus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Nymphaeus: rio (topónimo) — no Lácio, entre Circeii e Astura, hoje Ninfa; também nome de um rio na Mesopotâmia.\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 3, 5, §57\",\"Amm. 18, 9, 2\"],\"notas\":\"Verificado com Lewis & Short: rio latino (Ninfa) e rio mesopotâmico; ajustadas citações e morfologia como substantivo próprio masculino de 2ª declinação.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_18394-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_18394",
-    "page_num": 18394,
-    "lemmas": [
-      "nympha",
-      "nympha"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "ninfa; espírito feminino da natureza (águas, fontes, bosques); noiva; donzela jovem",
-    "exemplos": [],
-    "notas": "Corrigida indicação de gênero/declinação conforme LS/Whitaker (entrada grega atestada). | [dedupe] redirect → chunk_18391:18391:0 | [dedupe] redirect → chunk_18391:18391:0",
-    "raw_text": "{\"id\":\"chunk_18394:18394:0\",\"lemas\":[\"nympha\",\"nymphe\"],\"lema_canonico\":\"nympha\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"ninfa; espírito feminino da natureza (águas, fontes, bosques); noiva; donzela jovem\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigida indicação de gênero/declinação conforme LS/Whitaker (entrada grega atestada).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_18394:18394:0\",\"lemas\":[\"nympha\",\"nymphe\"],\"lema_canonico\":\"nympha\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"ninfa; espírito feminino da natureza (águas, fontes, bosques); noiva; donzela jovem\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigida indicação de gênero/declinação conforme LS/Whitaker (entrada grega atestada).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_18395-e1",
     "volume_id": "faria",
     "doc_name": "chunk_18395",
@@ -4552,28 +4002,6 @@
     "notas": "Grafia e referências adaptadas de Lewis & Short; forma mantida como substantivo próprio de 2ª declinação. | [ocr_fix 2025-08-17T19:59:02Z] match direto em LS por lemma/lemma_norm | lemma_in='Nymphidius' → 'Nymphĭdĭus'",
     "raw_text": "{\"id\":\"chunk_18395:18395:0\",\"lemas\":[\"Nymphidius\",\"Nymphĭdĭus\"],\"lema_canonico\":\"Nymphidius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"nome próprio masculino romano (cognomen); Nymphidius, indivíduo atestado em fontes antigas.\",\"aliases\":[],\"exemplos\":[\"Tac. Hist. 1, 51\",\"Suet. Galb. 11\",\"Inscr. Murat. 902, 7\"],\"notas\":\"Grafia e referências adaptadas de Lewis & Short; forma mantida como substantivo próprio de 2ª declinação.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_18395:18395:0\",\"lemas\":[\"Nymphidius\",\"Nymphĭdĭus\"],\"lema_canonico\":\"Nymphidius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"nome próprio masculino romano (cognomen); Nymphidius, indivíduo atestado em fontes antigas.\",\"aliases\":[],\"exemplos\":[\"Tac. Hist. 1, 51\",\"Suet. Galb. 11\",\"Inscr. Murat. 902, 7\"],\"notas\":\"Grafia e referências adaptadas de Lewis & Short; forma mantida como substantivo próprio de 2ª declinação.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_18396-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_18396",
-    "page_num": 18396,
-    "lemmas": [
-      "nympha",
-      "nympha"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Ninfa; espírito feminino semi-divino da natureza ou das águas; também: noiva, jovem donzela; às vezes := água.",
-    "exemplos": [],
-    "notas": "Normalizada a forma clássica; variantes gregas/poéticas incluídas. | [dedupe] redirect → chunk_18391:18391:0 | [dedupe] redirect → chunk_18391:18391:0",
-    "raw_text": "{\"id\":\"chunk_18396:18396:0\",\"lemas\":[\"nympha\",\"nymphē\",\"nymphae\"],\"lema_canonico\":\"nympha\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Ninfa; espírito feminino semi-divino da natureza ou das águas; também: noiva, jovem donzela; às vezes := água.\",\"aliases\":[],\"exemplos\":[\"Ov. H. 1, 27\",\"Verg. A. 8, 71\"],\"notas\":\"Normalizada a forma clássica; variantes gregas/poéticas incluídas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_18396:18396:0\",\"lemas\":[\"nympha\",\"nymphē\",\"nymphae\"],\"lema_canonico\":\"nympha\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Ninfa; espírito feminino semi-divino da natureza ou das águas; também: noiva, jovem donzela; às vezes := água.\",\"aliases\":[],\"exemplos\":[\"Ov. H. 1, 27\",\"Verg. A. 8, 71\"],\"notas\":\"Normalizada a forma clássica; variantes gregas/poéticas incluídas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_18396-e2",

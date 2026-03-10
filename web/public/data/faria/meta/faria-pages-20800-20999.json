@@ -198,28 +198,6 @@
     "raw_json": "{\"id\":\"chunk_20808:20808:0\",\"lemas\":[\"perurgēre\"],\"lema_canonico\":\"perurgēre\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"perurgēre: pressionar muito, apertar; insistir fortemente, oprimir\",\"aliases\":[],\"exemplos\":[\"Suet. Tib. 25\"],\"notas\":\"Baseado em Lat→Deu (perurgēre, perurgeō, perursī).\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_20809-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20809",
-    "page_num": 20809,
-    "lemmas": [
-      "per",
-      "per"
-    ],
-    "morfologia": "prep. com acc.",
-    "morph_render": "prep. com acc.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "por meio de, através de; durante (tempo), ao longo de.",
-    "exemplos": [],
-    "notas": "Corrigido de 'prefixo' para preposição conforme LS e Whitaker. | [dedupe] redirect → chunk_20107:20107:0 | [dedupe] redirect → chunk_20107:20107:0",
-    "raw_text": "{\"id\":\"chunk_20809:20809:0\",\"lemas\":[\"per\"],\"lema_canonico\":\"per\",\"morfologia\":\"prep. com acc.\",\"morph_extra\":[],\"definicao\":\"por meio de, através de; durante (tempo), ao longo de.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigido de 'prefixo' para preposição conforme LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_20809:20809:0\",\"lemas\":[\"per\"],\"lema_canonico\":\"per\",\"morfologia\":\"prep. com acc.\",\"morph_extra\":[],\"definicao\":\"por meio de, através de; durante (tempo), ao longo de.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigido de 'prefixo' para preposição conforme LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_20809-e2",
     "volume_id": "faria",
     "doc_name": "chunk_20809",
@@ -284,72 +262,6 @@
     "notas": "Corresponde a pertractātĭo (LS); variante pertrectātio atestada.",
     "raw_text": "{\"id\":\"chunk_20809:20809:3\",\"lemas\":[\"pertractatio\",\"pertrectatio\",\"pertractātio\"],\"lema_canonico\":\"pertractatio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"tratamento minucioso, cuidadosa consideração ou discussão; ocupação com determinado assunto\",\"aliases\":[],\"exemplos\":[\"Cic. Or. 1, 42, 187\",\"Cic. Or. 1, 11, 48\",\"Gell. 5, 1, 4\"],\"notas\":\"Corresponde a pertractātĭo (LS); variante pertrectātio atestada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_20809:20809:3\",\"lemas\":[\"pertractatio\",\"pertrectatio\",\"pertractātio\"],\"lema_canonico\":\"pertractatio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"tratamento minucioso, cuidadosa consideração ou discussão; ocupação com determinado assunto\",\"aliases\":[],\"exemplos\":[\"Cic. Or. 1, 42, 187\",\"Cic. Or. 1, 11, 48\",\"Gell. 5, 1, 4\"],\"notas\":\"Corresponde a pertractātĭo (LS); variante pertrectātio atestada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_20809-e5",
-    "volume_id": "faria",
-    "doc_name": "chunk_20809",
-    "page_num": 20809,
-    "lemmas": [
-      "pĕr-ūro",
-      "pĕr-ūro"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "queimar inteiramente, consumir; abrasar; causar ardor ou irritação (fig.)",
-    "exemplos": [],
-    "notas": "Formas com macron indicadas (perūrō); entradas em Lat→Deu confirmam paradigmas. | [dedupe] redirect → chunk_20814:20814:1 | [dedupe] redirect → chunk_20814:20814:1 | [ocr_fix 2025-08-17T19:59:29Z] match direto em LS por lemma/lemma_norm | lemma_in='peruro' → 'pĕr-ūro'",
-    "raw_text": "{\"id\":\"chunk_20809:20809:4\",\"lemas\":[\"peruro\",\"perūrō\"],\"lema_canonico\":\"peruro\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"queimar inteiramente, consumir; abrasar; causar ardor ou irritação (fig.)\",\"aliases\":[],\"exemplos\":[\"Lucr. 5, 396\"],\"notas\":\"Formas com macron indicadas (perūrō); entradas em Lat→Deu confirmam paradigmas.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_20809:20809:4\",\"lemas\":[\"peruro\",\"perūrō\"],\"lema_canonico\":\"peruro\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"queimar inteiramente, consumir; abrasar; causar ardor ou irritação (fig.)\",\"aliases\":[],\"exemplos\":[\"Lucr. 5, 396\"],\"notas\":\"Formas com macron indicadas (perūrō); entradas em Lat→Deu confirmam paradigmas.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_20809-e6",
-    "volume_id": "faria",
-    "doc_name": "chunk_20809",
-    "page_num": 20809,
-    "lemmas": [
-      "Petro",
-      "Petro"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "nome próprio (Petro/Petrus), também atestado como cognome romano",
-    "exemplos": [],
-    "notas": "Unidas formas Petro/Petrus; lema canónico Petro alinhado com LS/Whitaker. | [dedupe] redirect → chunk_20918:20918:0 | [dedupe] redirect → chunk_20918:20918:0",
-    "raw_text": "{\"id\":\"chunk_20809:20809:5\",\"lemas\":[\"Petro\",\"Petrus\"],\"lema_canonico\":\"Petro\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"nome próprio (Petro/Petrus), também atestado como cognome romano\",\"aliases\":[\"Petrus\"],\"exemplos\":[\"Suet. Vesp. 1\"],\"notas\":\"Unidas formas Petro/Petrus; lema canónico Petro alinhado com LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_20809:20809:5\",\"lemas\":[\"Petro\",\"Petrus\"],\"lema_canonico\":\"Petro\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"nome próprio (Petro/Petrus), também atestado como cognome romano\",\"aliases\":[\"Petrus\"],\"exemplos\":[\"Suet. Vesp. 1\"],\"notas\":\"Unidas formas Petro/Petrus; lema canónico Petro alinhado com LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_20809-e7",
-    "volume_id": "faria",
-    "doc_name": "chunk_20809",
-    "page_num": 20809,
-    "lemmas": [
-      "Petro",
-      "Petro"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "velho termo para carneiro/arneiro (ram); atestado em autores como Plauto",
-    "exemplos": [],
-    "notas": "Tratado como substantivo 3ª decl. (petrō, petronis) conforme Lat→Deu; distinta da forma onomástica Petro/Petrus. | [dedupe] redirect → chunk_20920:20920:1 | [dedupe] redirect → chunk_20920:20920:1 | [ocr_fix 2025-08-17T19:59:29Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='petrō' → 'Petro'",
-    "raw_text": "{\"id\":\"chunk_20809:20809:6\",\"lemas\":[\"petrō\",\"petro\"],\"lema_canonico\":\"petrō\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"velho termo para carneiro/arneiro (ram); atestado em autores como Plauto\",\"aliases\":[],\"exemplos\":[\"Plaut.\"],\"notas\":\"Tratado como substantivo 3ª decl. (petrō, petronis) conforme Lat→Deu; distinta da forma onomástica Petro/Petrus.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_20809:20809:6\",\"lemas\":[\"petrō\",\"petro\"],\"lema_canonico\":\"petrō\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"velho termo para carneiro/arneiro (ram); atestado em autores como Plauto\",\"aliases\":[],\"exemplos\":[\"Plaut.\"],\"notas\":\"Tratado como substantivo 3ª decl. (petrō, petronis) conforme Lat→Deu; distinta da forma onomástica Petro/Petrus.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
     "id": "chunk_20809-e8",
@@ -440,28 +352,6 @@
     "raw_json": "{\"id\":\"chunk_20809:20809:10\",\"lemas\":[\"pertrūdo\",\"pertrudo\"],\"lema_canonico\":\"pertrūdo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"fazer passar através; empurrar, atravessar, remover de um lado para outro.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Correção de OCR em notas: 'Vavar' → 'varar' no exemplo editorial; lema e formas herdados da primeira passada.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_20810-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20810",
-    "page_num": 20810,
-    "lemmas": [
-      "perurgēre",
-      "perurgēre"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "perursī: perfeito indicativo ativo 1. sg. de perurgēre (perurgeō) ‘pressionei muito, oprimi’",
-    "exemplos": [],
-    "notas": "Registro de forma perfeita 1sg; morfologia verbal específica indicada em morph_extra. | [dedupe] redirect → chunk_20808:20808:0 | [dedupe] redirect → chunk_20808:20808:0",
-    "raw_text": "{\"id\":\"chunk_20810:20810:0\",\"lemas\":[\"perurgēre\",\"perursī\"],\"lema_canonico\":\"perurgēre\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"perf. 1sg\"],\"definicao\":\"perursī: perfeito indicativo ativo 1. sg. de perurgēre (perurgeō) ‘pressionei muito, oprimi’\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Registro de forma perfeita 1sg; morfologia verbal específica indicada em morph_extra.\",\"flags\":[\"src_latdeu\",\"conf:med\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_20810:20810:0\",\"lemas\":[\"perurgēre\",\"perursī\"],\"lema_canonico\":\"perurgēre\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"perf. 1sg\"],\"definicao\":\"perursī: perfeito indicativo ativo 1. sg. de perurgēre (perurgeō) ‘pressionei muito, oprimi’\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Registro de forma perfeita 1sg; morfologia verbal específica indicada em morph_extra.\",\"flags\":[\"src_latdeu\",\"conf:med\",\"morph_out_of_vocab\"]}"
-  },
-  {
     "id": "chunk_20811-e1",
     "volume_id": "faria",
     "doc_name": "chunk_20811",
@@ -528,28 +418,6 @@
     "raw_json": "{\"id\":\"chunk_20813:20813:0\",\"lemas\":[\"Perusīnum\"],\"lema_canonico\":\"Perusīnum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"topônimo neutro: território de Perúsia (Perusia)\",\"aliases\":[],\"exemplos\":[\"Plin. Ep. 1, 4, 1\"],\"notas\":\"Corrigido OCR de 'Perusinum' para Perusīnum; forma atestada em Plínio.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}"
   },
   {
-    "id": "chunk_20813-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_20813",
-    "page_num": 20813,
-    "lemmas": [
-      "Perusīnum",
-      "Perusīnum"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:low",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "topônimo neutro: território de Perúsia (Perusia)",
-    "exemplos": [],
-    "notas": "Entrada confirmada; forma e referência conforme fonte de primeira passada e OCR. | [dedupe] redirect → chunk_20813:20813:0 | [dedupe] redirect → chunk_20813:20813:0",
-    "raw_text": "{\"id\":\"chunk_20813:20813:1\",\"lemas\":[\"Perusīnum\"],\"lema_canonico\":\"Perusīnum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"topônimo neutro: território de Perúsia (Perusia)\",\"aliases\":[],\"exemplos\":[\"Plin. Ep. 1, 4, 1\"],\"notas\":\"Entrada confirmada; forma e referência conforme fonte de primeira passada e OCR.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}",
-    "raw_json": "{\"id\":\"chunk_20813:20813:1\",\"lemas\":[\"Perusīnum\"],\"lema_canonico\":\"Perusīnum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"topônimo neutro: território de Perúsia (Perusia)\",\"aliases\":[],\"exemplos\":[\"Plin. Ep. 1, 4, 1\"],\"notas\":\"Entrada confirmada; forma e referência conforme fonte de primeira passada e OCR.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}"
-  },
-  {
     "id": "chunk_20813-e3",
     "volume_id": "faria",
     "doc_name": "chunk_20813",
@@ -570,28 +438,6 @@
     "notas": "Normalizadas as formas feminina e neutra como variantes canônicas.\n[ocr_pipeline 2025-08-16T23:16:10.192751Z] lemma_in='Perusīnus' → 'Pĕrŭsĭa' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T18:27:21Z] match direto em LS por lemma/lemma_norm | lemma_in='Pĕrŭsĭa' → 'Pĕrŭsĭa'",
     "raw_text": "{\"id\":\"chunk_20813:20813:2\",\"lemas\":[\"Perusīnus\",\"Perusīna\",\"Perusīnum\"],\"lema_canonico\":\"Perusīnus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"pertencente a Perúsia; perusino\",\"aliases\":[],\"exemplos\":[\"T. Liv. 23, 17\"],\"notas\":\"Normalizadas as formas feminina e neutra como variantes canônicas.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}",
     "raw_json": "{\"id\":\"chunk_20813:20813:2\",\"lemas\":[\"Perusīnus\",\"Perusīna\",\"Perusīnum\"],\"lema_canonico\":\"Perusīnus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"pertencente a Perúsia; perusino\",\"aliases\":[],\"exemplos\":[\"T. Liv. 23, 17\"],\"notas\":\"Normalizadas as formas feminina e neutra como variantes canônicas.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}"
-  },
-  {
-    "id": "chunk_20814-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20814",
-    "page_num": 20814,
-    "lemmas": [
-      "perurgēre",
-      "perurgēre"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "perūsi / perursī: perfeito indicativo ativo 1. sg. de perurgēre (perurgeō) ‘pressionei, oprimi’",
-    "exemplos": [],
-    "notas": "Normalizada a forma perfeita indicada pelo OCR; baseada em Lat→Deu. | [dedupe] redirect → chunk_20808:20808:0 | [dedupe] redirect → chunk_20808:20808:0",
-    "raw_text": "{\"id\":\"chunk_20814:20814:0\",\"lemas\":[\"perurgēre\",\"perursī\"],\"lema_canonico\":\"perurgēre\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"perf. 1sg\"],\"definicao\":\"perūsi / perursī: perfeito indicativo ativo 1. sg. de perurgēre (perurgeō) ‘pressionei, oprimi’\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizada a forma perfeita indicada pelo OCR; baseada em Lat→Deu.\",\"flags\":[\"src_latdeu\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_20814:20814:0\",\"lemas\":[\"perurgēre\",\"perursī\"],\"lema_canonico\":\"perurgēre\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"perf. 1sg\"],\"definicao\":\"perūsi / perursī: perfeito indicativo ativo 1. sg. de perurgēre (perurgeō) ‘pressionei, oprimi’\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizada a forma perfeita indicada pelo OCR; baseada em Lat→Deu.\",\"flags\":[\"src_latdeu\",\"conf:med\"]}"
   },
   {
     "id": "chunk_20814-e2",
@@ -660,28 +506,6 @@
     "raw_json": "{\"id\":\"chunk_20815:20815:1\",\"lemas\":[\"perusus\",\"perusa\",\"perusum\"],\"lema_canonico\":\"perusus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Participium perfectum passivum de perūrō: queimado, consumido pelo fogo; usado como adjetivo.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Lema normalizado para perusus (masc. sing.); fonte Whitaker confirma perusus de perūrō.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_20816-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20816",
-    "page_num": 20816,
-    "lemmas": [
-      "pĕr-ūtĭlis",
-      "pĕr-ūtĭlis"
-    ],
-    "morfologia": "adj. (3) 2T",
-    "morph_render": "adj. (3) 2T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "muito útil; formado por per- + utilis",
-    "exemplos": [],
-    "notas": "Correlacionado com utilis; atestado em Lat→Deu. | [dedupe] redirect → chunk_20775:20775:3 | [dedupe] redirect → chunk_20775:20775:3 | [ocr_fix 2025-08-17T19:51:02Z] match direto em LS por lemma/lemma_norm | lemma_in='perutilis' → 'pĕr-ūtĭlis'",
-    "raw_text": "{\"id\":\"chunk_20816:20816:0\",\"lemas\":[\"perutilis\"],\"lema_canonico\":\"perutilis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"muito útil; formado por per- + utilis\",\"aliases\":[],\"exemplos\":[\"Cic. C. M. 59\"],\"notas\":\"Correlacionado com utilis; atestado em Lat→Deu.\",\"flags\":[\"src_latdeu\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_20816:20816:0\",\"lemas\":[\"perutilis\"],\"lema_canonico\":\"perutilis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"muito útil; formado por per- + utilis\",\"aliases\":[],\"exemplos\":[\"Cic. C. M. 59\"],\"notas\":\"Correlacionado com utilis; atestado em Lat→Deu.\",\"flags\":[\"src_latdeu\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_20817-e1",
     "volume_id": "faria",
     "doc_name": "chunk_20817",
@@ -724,28 +548,6 @@
     "notas": "Particípio deponencial confirmado; unificadas variantes ortográficas com macron.",
     "raw_text": "{\"id\":\"chunk_20818:20818:0\",\"lemas\":[\"pervagatus\",\"pervāgātus\"],\"lema_canonico\":\"pervagatus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo de pervagor; como adjetivo: muito divulgado, amplamente difundido, bem conhecido\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 1, 165\",\"Cic. Vern. 2, 47\"],\"notas\":\"Particípio deponencial confirmado; unificadas variantes ortográficas com macron.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_20818:20818:0\",\"lemas\":[\"pervagatus\",\"pervāgātus\"],\"lema_canonico\":\"pervagatus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo de pervagor; como adjetivo: muito divulgado, amplamente difundido, bem conhecido\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 1, 165\",\"Cic. Vern. 2, 47\"],\"notas\":\"Particípio deponencial confirmado; unificadas variantes ortográficas com macron.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_20819-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20819",
-    "page_num": 20819,
-    "lemmas": [
-      "pervagus",
-      "pervagus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "wandering everywhere; ambulant, roaming",
-    "exemplos": [],
-    "notas": "Entrada inicial tratava como verbo deponente (pervagō) mas fontes confiáveis apresentam adjetivo pervagus; corrigi para a forma adjectival. | [dedupe] redirect → chunk_20820:20820:0 | [dedupe] redirect → chunk_20820:20820:0",
-    "raw_text": "{\"id\":\"chunk_20819:20819:0\",\"lemas\":[\"pervagus\",\"pervago\",\"pervagum\"],\"lema_canonico\":\"pervagus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"wandering everywhere; ambulant, roaming\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada inicial tratava como verbo deponente (pervagō) mas fontes confiáveis apresentam adjetivo pervagus; corrigi para a forma adjectival.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_20819:20819:0\",\"lemas\":[\"pervagus\",\"pervago\",\"pervagum\"],\"lema_canonico\":\"pervagus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"wandering everywhere; ambulant, roaming\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada inicial tratava como verbo deponente (pervagō) mas fontes confiáveis apresentam adjetivo pervagus; corrigi para a forma adjectival.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_20820-e1",
@@ -836,28 +638,6 @@
     "raw_json": "{\"id\":\"chunk_20823:20823:0\",\"lemas\":[\"pervāsus\",\"pervasus\"],\"lema_canonico\":\"pervāsus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de pervādō; 'penetrado, atravessado', usado também como adj.: devastado, assolado.\",\"aliases\":[],\"exemplos\":[\"T. Liv. 6, 4, 8\"],\"notas\":\"Tratado como particípio/adj. 1/2 declinação conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_20824-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20824",
-    "page_num": 20824,
-    "lemmas": [
-      "pervāsus",
-      "pervāsus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Particípio perfeito passivo de pervādō: atravessado, penetrado, difundido; \"pervadido\".",
-    "exemplos": [],
-    "notas": "Formas e sentido confirmados por Lat→Deu e Whitaker; normalizado declinação 1/2. | [dedupe] redirect → chunk_20823:20823:0 | [dedupe] redirect → chunk_20823:20823:0",
-    "raw_text": "{\"id\":\"chunk_20824:20824:0\",\"lemas\":[\"pervāsus\",\"pervāsa\",\"pervāsum\"],\"lema_canonico\":\"pervāsus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo de pervādō: atravessado, penetrado, difundido; \\\"pervadido\\\".\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Formas e sentido confirmados por Lat→Deu e Whitaker; normalizado declinação 1/2.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_20824:20824:0\",\"lemas\":[\"pervāsus\",\"pervāsa\",\"pervāsum\"],\"lema_canonico\":\"pervāsus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo de pervādō: atravessado, penetrado, difundido; \\\"pervadido\\\".\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Formas e sentido confirmados por Lat→Deu e Whitaker; normalizado declinação 1/2.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_20825-e1",
     "volume_id": "faria",
     "doc_name": "chunk_20825",
@@ -878,28 +658,6 @@
     "notas": "Forma e sentido confirmados por Lewis & Short e Whitaker; normalizada sem macrons.",
     "raw_text": "{\"id\":\"chunk_20825:20825:0\",\"lemas\":[\"pervectus\",\"pervecta\",\"pervectum\"],\"lema_canonico\":\"pervectus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo de perveho: conduzido, trazido; também usado com sentido de ter chegado por viagem.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma e sentido confirmados por Lewis & Short e Whitaker; normalizada sem macrons.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_20825:20825:0\",\"lemas\":[\"pervectus\",\"pervecta\",\"pervectum\"],\"lema_canonico\":\"pervectus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo de perveho: conduzido, trazido; também usado com sentido de ter chegado por viagem.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma e sentido confirmados por Lewis & Short e Whitaker; normalizada sem macrons.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_20826-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20826",
-    "page_num": 20826,
-    "lemmas": [
-      "pervehō",
-      "pervehō"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "levar, transportar até; (pass.) chegar, aportar, entrar em",
-    "exemplos": [],
-    "notas": "Normalized infinitive/lema and conjugation to 3ª (-ere); transitivo marcado. Corroborado por Lat→Deu. | [dedupe] redirect → chunk_20844:20844:0 | [dedupe] redirect → chunk_20844:20844:0",
-    "raw_text": "{\"id\":\"chunk_20826:20826:0\",\"lemas\":[\"pervehō\",\"pervehere\"],\"lema_canonico\":\"pervehō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"levar, transportar até; (pass.) chegar, aportar, entrar em\",\"aliases\":[],\"exemplos\":[\"T. Liv. 5, 40, 10\",\"Cic. Att. 14, 19, 1\",\"Cic. Off. 2, 19\"],\"notas\":\"Normalized infinitive/lema and conjugation to 3ª (-ere); transitivo marcado. Corroborado por Lat→Deu.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_20826:20826:0\",\"lemas\":[\"pervehō\",\"pervehere\"],\"lema_canonico\":\"pervehō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"levar, transportar até; (pass.) chegar, aportar, entrar em\",\"aliases\":[],\"exemplos\":[\"T. Liv. 5, 40, 10\",\"Cic. Att. 14, 19, 1\",\"Cic. Off. 2, 19\"],\"notas\":\"Normalized infinitive/lema and conjugation to 3ª (-ere); transitivo marcado. Corroborado por Lat→Deu.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
     "id": "chunk_20826-e2",
@@ -1034,28 +792,6 @@
     "raw_json": "{\"id\":\"chunk_20828:20828:0\",\"lemas\":[\"pervellim\"],\"lema_canonico\":\"pervellim\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"(presumido) imperf. do subj. de pervellō — leitura incerta.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Leitura incerta; verbo/permutação conjuntiva não confirmados por dicionários consultados.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_20829-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20829",
-    "page_num": 20829,
-    "lemmas": [
-      "per-vello",
-      "per-vello"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "pello/velle-composição: arrancar, puxar com força (composto de per- + vellō/vellere). Forma citada como perf. em OCR (pervellō).",
-    "exemplos": [],
-    "notas": "Baseado no fragmento OCR e Lat→Deu (pervellere/pervellō). Verificar forma perfeita e variações (velli/vulsi) em fontes completas. | [dedupe] redirect → chunk_20841:20841:3 | [dedupe] redirect → chunk_20841:20841:3 | [ocr_fix 2025-08-17T19:51:11Z] match direto em LS por lemma/lemma_norm | lemma_in='pervello' → 'per-vello'",
-    "raw_text": "{\"id\":\"chunk_20829:20829:0\",\"lemas\":[\"pervello\",\"pervellere\"],\"lema_canonico\":\"pervello\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"pello/velle-composição: arrancar, puxar com força (composto de per- + vellō/vellere). Forma citada como perf. em OCR (pervellō).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Baseado no fragmento OCR e Lat→Deu (pervellere/pervellō). Verificar forma perfeita e variações (velli/vulsi) em fontes completas.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"src_ocr\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_20829:20829:0\",\"lemas\":[\"pervello\",\"pervellere\"],\"lema_canonico\":\"pervello\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"pello/velle-composição: arrancar, puxar com força (composto de per- + vellō/vellere). Forma citada como perf. em OCR (pervellō).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Baseado no fragmento OCR e Lat→Deu (pervellere/pervellō). Verificar forma perfeita e variações (velli/vulsi) em fontes completas.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"src_ocr\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_20830-e1",
     "volume_id": "faria",
     "doc_name": "chunk_20830",
@@ -1100,28 +836,6 @@
     "raw_json": "{\"id\":\"chunk_20831:20831:0\",\"lemas\":[\"pervenio\",\"pervenire\",\"perventus\"],\"lema_canonico\":\"pervenio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"chegar a, atingir; vir a; chegar, alcançar; também: obter, ser concedido.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Formas reconstituídas (perf. pervēnī, sup. perventum) confirmadas por Lat→Deu e Whitaker.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_20832-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20832",
-    "page_num": 20832,
-    "lemmas": [
-      "pervenio",
-      "pervenio"
-    ],
-    "morfologia": "v. 4ª (-īre)",
-    "morph_render": "v. 4ª (-īre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "chegar a, atingir; alcançar; também: caber como parte, tocar em partilha.",
-    "exemplos": [],
-    "notas": "Formas e macrons normalizados; exemplos retirados das pistas auxiliares (first_pass). | [dedupe] redirect → chunk_20831:20831:0 | [dedupe] redirect → chunk_20831:20831:0",
-    "raw_text": "{\"id\":\"chunk_20832:20832:0\",\"lemas\":[\"pervenio\",\"pervenire\"],\"lema_canonico\":\"pervenio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"chegar a, atingir; alcançar; também: caber como parte, tocar em partilha.\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 4, 28\",\"Cic. Flac. 42\",\"Cic. Verr. 2, 45\",\"Plaut. Rud. 626\"],\"notas\":\"Formas e macrons normalizados; exemplos retirados das pistas auxiliares (first_pass).\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_20832:20832:0\",\"lemas\":[\"pervenio\",\"pervenire\"],\"lema_canonico\":\"pervenio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"chegar a, atingir; alcançar; também: caber como parte, tocar em partilha.\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 4, 28\",\"Cic. Flac. 42\",\"Cic. Verr. 2, 45\",\"Plaut. Rud. 626\"],\"notas\":\"Formas e macrons normalizados; exemplos retirados das pistas auxiliares (first_pass).\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_20833-e1",
     "volume_id": "faria",
     "doc_name": "chunk_20833",
@@ -1142,50 +856,6 @@
     "notas": "Fontes discordam quanto à voz (forma ativa regular vs. deponente); entrada necessita verificação adicional.\n[ocr_pipeline 2025-08-16T23:19:45.591523Z] lemma_in='pererrare' → 'per-vēnor' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:17:46Z] match direto em LS por lemma/lemma_norm | lemma_in='per-vēnor' → 'per-vēnor'",
     "raw_text": "{\"id\":\"chunk_20833:20833:0\",\"lemas\":[\"pererro\",\"pererrō\",\"pererrare\"],\"lema_canonico\":\"pererrare\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"Correr, percorrer; vagar, percorrer errando (também citado com sentido caçador por Plauto).\",\"aliases\":[],\"exemplos\":[\"Plaut. Merc. 805\"],\"notas\":\"Fontes discordam quanto à voz (forma ativa regular vs. deponente); entrada necessita verificação adicional.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_20833:20833:0\",\"lemas\":[\"pererro\",\"pererrō\",\"pererrare\"],\"lema_canonico\":\"pererrare\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"Correr, percorrer; vagar, percorrer errando (também citado com sentido caçador por Plauto).\",\"aliases\":[],\"exemplos\":[\"Plaut. Merc. 805\"],\"notas\":\"Fontes discordam quanto à voz (forma ativa regular vs. deponente); entrada necessita verificação adicional.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_20834-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20834",
-    "page_num": 20834,
-    "lemmas": [
-      "pererrare",
-      "pererrare"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:low",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "to wander through, to roam, to traverse (durchirren, durchschweifen)",
-    "exemplos": [],
-    "notas": "First_pass sugere sentido transitivo 'varrer com cuidado' (provável leitura Faria); dicionário Lat→Deu registra pererrare/pererrāre com sentido de 'wander through' — conflito entre fontes. | [dedupe] redirect → chunk_20296:20296:0 | [dedupe] redirect → chunk_20296:20296:0",
-    "raw_text": "{\"id\":\"chunk_20834:20834:0\",\"lemas\":[\"pererrare\",\"pererro\"],\"lema_canonico\":\"pererrare\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"to wander through, to roam, to traverse (durchirren, durchschweifen)\",\"aliases\":[],\"exemplos\":[\"Verg. Mor. 23\"],\"notas\":\"First_pass sugere sentido transitivo 'varrer com cuidado' (provável leitura Faria); dicionário Lat→Deu registra pererrare/pererrāre com sentido de 'wander through' — conflito entre fontes.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:low\"]}",
-    "raw_json": "{\"id\":\"chunk_20834:20834:0\",\"lemas\":[\"pererrare\",\"pererro\"],\"lema_canonico\":\"pererrare\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"to wander through, to roam, to traverse (durchirren, durchschweifen)\",\"aliases\":[],\"exemplos\":[\"Verg. Mor. 23\"],\"notas\":\"First_pass sugere sentido transitivo 'varrer com cuidado' (provável leitura Faria); dicionário Lat→Deu registra pererrare/pererrāre com sentido de 'wander through' — conflito entre fontes.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:low\"]}"
-  },
-  {
-    "id": "chunk_20835-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20835",
-    "page_num": 20835,
-    "lemmas": [
-      "perverse",
-      "perverse"
-    ],
-    "morfologia": "adv.",
-    "morph_render": "adv.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "obliquely; figuratively: perversely, wrongly, maliciously",
-    "exemplos": [],
-    "notas": "Adv. attestations per Lewis & Short and Whitaker; normalized orthography. | [dedupe] redirect → chunk_22174:22174:2 | [dedupe] redirect → chunk_22174:22174:2",
-    "raw_text": "{\"id\":\"chunk_20835:20835:0\",\"lemas\":[\"perverse\",\"perversē\",\"pervorsē\",\"vorse\"],\"lema_canonico\":\"perverse\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"obliquely; figuratively: perversely, wrongly, maliciously\",\"aliases\":[],\"exemplos\":[\"Suet. Galb. 18\",\"Cic. De Or. 1, 150\"],\"notas\":\"Adv. attestations per Lewis & Short and Whitaker; normalized orthography.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_20835:20835:0\",\"lemas\":[\"perverse\",\"perversē\",\"pervorsē\",\"vorse\"],\"lema_canonico\":\"perverse\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"obliquely; figuratively: perversely, wrongly, maliciously\",\"aliases\":[],\"exemplos\":[\"Suet. Galb. 18\",\"Cic. De Or. 1, 150\"],\"notas\":\"Adv. attestations per Lewis & Short and Whitaker; normalized orthography.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_20836-e1",
@@ -1252,50 +922,6 @@
     "notas": "Particípio passivo perversus gerou formas adjetivais/substantivais; ver LS/Whitaker.",
     "raw_text": "{\"id\":\"chunk_20836:20836:2\",\"lemas\":[\"pervertō\",\"perverto\"],\"lema_canonico\":\"pervertō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"perverter, tornar errado; desviar, corromper\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Particípio passivo perversus gerou formas adjetivais/substantivais; ver LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_20836:20836:2\",\"lemas\":[\"pervertō\",\"perverto\"],\"lema_canonico\":\"pervertō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"perverter, tornar errado; desviar, corromper\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Particípio passivo perversus gerou formas adjetivais/substantivais; ver LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_20837-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20837",
-    "page_num": 20837,
-    "lemmas": [
-      "perverto",
-      "perverto"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "voltar/torcer para outro lado; perverter, subverter, arruinar, corromper. (perversus como particípio/adjetivo: perversus, a, um: pervertido, torto, perverso)",
-    "exemplos": [],
-    "notas": "Inclui tanto o verbo quanto o particípio/adjetivo derivado; sentidos atestados em LS e Whitaker. | [dedupe] redirect → chunk_20836:20836:2 | [dedupe] redirect → chunk_20836:20836:2",
-    "raw_text": "{\"id\":\"chunk_20837:20837:0\",\"lemas\":[\"perverto\",\"pervertere\",\"perversus\"],\"lema_canonico\":\"perverto\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"voltar/torcer para outro lado; perverter, subverter, arruinar, corromper. (perversus como particípio/adjetivo: perversus, a, um: pervertido, torto, perverso)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Inclui tanto o verbo quanto o particípio/adjetivo derivado; sentidos atestados em LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_20837:20837:0\",\"lemas\":[\"perverto\",\"pervertere\",\"perversus\"],\"lema_canonico\":\"perverto\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"voltar/torcer para outro lado; perverter, subverter, arruinar, corromper. (perversus como particípio/adjetivo: perversus, a, um: pervertido, torto, perverso)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Inclui tanto o verbo quanto o particípio/adjetivo derivado; sentidos atestados em LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_20838-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20838",
-    "page_num": 20838,
-    "lemmas": [
-      "per-verto",
-      "per-verto"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "verter, pôr de cabeça para baixo; perverter, corromper, desordenar; destruir, transtornar (transitivo).",
-    "exemplos": [],
-    "notas": "Uniformizado lema e forma infinitiva; confirmado sentido transitivo segundo Lat→Deu; variante pervorto preservada. | [dedupe] redirect → chunk_20836:20836:2 | [dedupe] redirect → chunk_20836:20836:2 | [ocr_fix 2025-08-17T19:51:05Z] match direto em LS por lemma/lemma_norm | lemma_in='perverto' → 'per-verto'",
-    "raw_text": "{\"id\":\"chunk_20838:20838:0\",\"lemas\":[\"perverto\",\"pervertō\",\"pervorto\"],\"lema_canonico\":\"perverto\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"verter, pôr de cabeça para baixo; perverter, corromper, desordenar; destruir, transtornar (transitivo).\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 1, 49\",\"Cic. Br. 273\",\"Cic. Off. 1, 26\"],\"notas\":\"Uniformizado lema e forma infinitiva; confirmado sentido transitivo segundo Lat→Deu; variante pervorto preservada.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_20838:20838:0\",\"lemas\":[\"perverto\",\"pervertō\",\"pervorto\"],\"lema_canonico\":\"perverto\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"verter, pôr de cabeça para baixo; perverter, corromper, desordenar; destruir, transtornar (transitivo).\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 1, 49\",\"Cic. Br. 273\",\"Cic. Off. 1, 26\"],\"notas\":\"Uniformizado lema e forma infinitiva; confirmado sentido transitivo segundo Lat→Deu; variante pervorto preservada.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
     "id": "chunk_20839-e1",
@@ -1386,72 +1012,6 @@
     "raw_json": "{\"id\":\"chunk_20841:20841:4\",\"lemas\":[\"pererro\",\"pererrō\"],\"lema_canonico\":\"pererro\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"vagar por, perambular; andar errante, percorrer sem rumo\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigido status: não é deponente (formas: pererrāre, pererrō, pererrāvī, pererrātum) conforme Lat→Deu.\",\"flags\":[\"src_latdeu\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_20841-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_20841",
-    "page_num": 20841,
-    "lemmas": [
-      "perverse",
-      "perverse"
-    ],
-    "morfologia": "adv.",
-    "morph_render": "adv.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "de modo perverso; torcidamente, avessamente; perversamente",
-    "exemplos": [],
-    "notas": "Agrupadas variantes arcaicas e gráficas (perversē, pervorsē) com suporte em LS e Whitaker. | [dedupe] redirect → chunk_22174:22174:2 | [dedupe] redirect → chunk_22174:22174:2",
-    "raw_text": "{\"id\":\"chunk_20841:20841:5\",\"lemas\":[\"perverse\",\"perversē\",\"pervorsē\"],\"lema_canonico\":\"perverse\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"de modo perverso; torcidamente, avessamente; perversamente\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Agrupadas variantes arcaicas e gráficas (perversē, pervorsē) com suporte em LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_20841:20841:5\",\"lemas\":[\"perverse\",\"perversē\",\"pervorsē\"],\"lema_canonico\":\"perverse\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"de modo perverso; torcidamente, avessamente; perversamente\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Agrupadas variantes arcaicas e gráficas (perversē, pervorsē) com suporte em LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_20841-e4",
-    "volume_id": "faria",
-    "doc_name": "chunk_20841",
-    "page_num": 20841,
-    "lemmas": [
-      "Persia",
-      "Persia"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Pérsia (região); referente aos persas",
-    "exemplos": [],
-    "notas": "Normalizada grafia e declinação conforme LS e Whitaker. | [dedupe] redirect → chunk_20685:20685:0 | [dedupe] redirect → chunk_20685:20685:0",
-    "raw_text": "{\"id\":\"chunk_20841:20841:6\",\"lemas\":[\"Persia\",\"Persĭa\",\"persia\"],\"lema_canonico\":\"Persia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Pérsia (região); referente aos persas\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizada grafia e declinação conforme LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_20841:20841:6\",\"lemas\":[\"Persia\",\"Persĭa\",\"persia\"],\"lema_canonico\":\"Persia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Pérsia (região); referente aos persas\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizada grafia e declinação conforme LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_20841-e5",
-    "volume_id": "faria",
-    "doc_name": "chunk_20841",
-    "page_num": 20841,
-    "lemmas": [
-      "Persis",
-      "Persis"
-    ],
-    "morfologia": "s. 3ª (-is)",
-    "morph_render": "s. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Persis: região ou designação persa; também adjectivo 'persa'",
-    "exemplos": [],
-    "notas": "Tratada como substantivo/adjetivo de 3ª declinação conforme LS (Persis, ĭdis) e Whitaker. | [dedupe] redirect → chunk_20697:20697:0 | [dedupe] redirect → chunk_20697:20697:0",
-    "raw_text": "{\"id\":\"chunk_20841:20841:7\",\"lemas\":[\"Persis\",\"persis\"],\"lema_canonico\":\"Persis\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Persis: região ou designação persa; também adjectivo 'persa'\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Tratada como substantivo/adjetivo de 3ª declinação conforme LS (Persis, ĭdis) e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_20841:20841:7\",\"lemas\":[\"Persis\",\"persis\"],\"lema_canonico\":\"Persis\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Persis: região ou designação persa; também adjectivo 'persa'\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Tratada como substantivo/adjetivo de 3ª declinação conforme LS (Persis, ĭdis) e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_20841-e6",
     "volume_id": "faria",
     "doc_name": "chunk_20841",
@@ -1472,94 +1032,6 @@
     "notas": "Grafia e paradigma normalizados conforme Whitaker e Lewis & Short (pervestīgāre).",
     "raw_text": "{\"id\":\"chunk_20841:20841:0\",\"lemas\":[\"pervestīgō\",\"pervestīgāre\"],\"lema_canonico\":\"pervestīgō\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"procurar cuidadosamente, seguir o rastro; investigar, ausspüren, erforschen\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 4, 311\",\"Cic. Verr. 5, 174\"],\"notas\":\"Grafia e paradigma normalizados conforme Whitaker e Lewis & Short (pervestīgāre).\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_20841:20841:0\",\"lemas\":[\"pervestīgō\",\"pervestīgāre\"],\"lema_canonico\":\"pervestīgō\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"procurar cuidadosamente, seguir o rastro; investigar, ausspüren, erforschen\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 4, 311\",\"Cic. Verr. 5, 174\"],\"notas\":\"Grafia e paradigma normalizados conforme Whitaker e Lewis & Short (pervestīgāre).\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_20841-e7",
-    "volume_id": "faria",
-    "doc_name": "chunk_20841",
-    "page_num": 20841,
-    "lemmas": [
-      "perūssi",
-      "perūssi"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:low",
-    "needs_review": 1,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Forma indicada nas notas como perfeito de perūrō; marcada como redirecionamento para perūrō.",
-    "raw_text": "{\"id\":\"chunk_20841:20841:1\",\"lemas\":[\"perūssi\"],\"lema_canonico\":\"perūssi\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"perūrō\"],\"exemplos\":[],\"notas\":\"Forma indicada nas notas como perfeito de perūrō; marcada como redirecionamento para perūrō.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"redirect_only\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_20841:20841:1\",\"lemas\":[\"perūssi\"],\"lema_canonico\":\"perūssi\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"perūrō\"],\"exemplos\":[],\"notas\":\"Forma indicada nas notas como perfeito de perūrō; marcada como redirecionamento para perūrō.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"redirect_only\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_20841-e8",
-    "volume_id": "faria",
-    "doc_name": "chunk_20841",
-    "page_num": 20841,
-    "lemmas": [
-      "pervādō",
-      "pervādō"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "atravessar, penetrar, alcançar; pervādō com perfectum pervāsī, supinum pervāsum",
-    "exemplos": [],
-    "notas": "Formas pervāsī, pervāsum atestadas nas notas; infinitivo pervādere normalizado. | [dedupe] redirect → chunk_20817:20817:0 | [dedupe] redirect → chunk_20817:20817:0",
-    "raw_text": "{\"id\":\"chunk_20841:20841:2\",\"lemas\":[\"pervādō\",\"pervādere\"],\"lema_canonico\":\"pervādō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"atravessar, penetrar, alcançar; pervādō com perfectum pervāsī, supinum pervāsum\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Formas pervāsī, pervāsum atestadas nas notas; infinitivo pervādere normalizado.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_20841:20841:2\",\"lemas\":[\"pervādō\",\"pervādere\"],\"lema_canonico\":\"pervādō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"atravessar, penetrar, alcançar; pervādō com perfectum pervāsī, supinum pervāsum\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Formas pervāsī, pervāsum atestadas nas notas; infinitivo pervādere normalizado.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_20841-e9",
-    "volume_id": "faria",
-    "doc_name": "chunk_20841",
-    "page_num": 20841,
-    "lemmas": [
-      "Pĕrŭsĭa",
-      "Pĕrŭsĭa"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Perusia — antiga cidade etrusca, moderna Perugia.",
-    "exemplos": [],
-    "notas": "Lema e sentidos confirmados em Lewis & Short. | [dedupe] redirect → chunk_20811:20811:0 | [dedupe] redirect → chunk_20811:20811:0 | [ocr_fix 2025-08-17T19:59:30Z] match direto em LS por lemma/lemma_norm | lemma_in='Perusia' → 'Pĕrŭsĭa'",
-    "raw_text": "{\"id\":\"chunk_20841:20841:8\",\"lemas\":[\"Perusia\",\"Pĕrŭsĭa\",\"perusia\"],\"lema_canonico\":\"Perusia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Perusia — antiga cidade etrusca, moderna Perugia.\",\"aliases\":[],\"exemplos\":[\"Liv. 9, 37, 12\",\"Suet. Aug. 14\",\"Vell. 2, 74, 3\"],\"notas\":\"Lema e sentidos confirmados em Lewis & Short.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_20841:20841:8\",\"lemas\":[\"Perusia\",\"Pĕrŭsĭa\",\"perusia\"],\"lema_canonico\":\"Perusia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Perusia — antiga cidade etrusca, moderna Perugia.\",\"aliases\":[],\"exemplos\":[\"Liv. 9, 37, 12\",\"Suet. Aug. 14\",\"Vell. 2, 74, 3\"],\"notas\":\"Lema e sentidos confirmados em Lewis & Short.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_20841-e10",
-    "volume_id": "faria",
-    "doc_name": "chunk_20841",
-    "page_num": 20841,
-    "lemmas": [
-      "pinna",
-      "pinna"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "pinna / pīna — penna; asa, pá; também pala de roda d'água; em zoologia, sea‑pen (tipo de molusco); pináculo, espigão.",
-    "exemplos": [],
-    "notas": "Unidas as grafias pīna (sea‑pen) e pinna (pena, pá) conforme LS e Whitaker. | [dedupe] redirect → chunk_21292:21292:0 | [dedupe] redirect → chunk_21292:21292:0",
-    "raw_text": "{\"id\":\"chunk_20841:20841:9\",\"lemas\":[\"pinna\",\"pīna\"],\"lema_canonico\":\"pinna\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"pinna / pīna — penna; asa, pá; também pala de roda d'água; em zoologia, sea‑pen (tipo de molusco); pináculo, espigão.\",\"aliases\":[],\"exemplos\":[\"Cic. Fin. 3, 19, 63\",\"Plin. 9, 35, 56, § 115\"],\"notas\":\"Unidas as grafias pīna (sea‑pen) e pinna (pena, pá) conforme LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_20841:20841:9\",\"lemas\":[\"pinna\",\"pīna\"],\"lema_canonico\":\"pinna\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"pinna / pīna — penna; asa, pá; também pala de roda d'água; em zoologia, sea‑pen (tipo de molusco); pináculo, espigão.\",\"aliases\":[],\"exemplos\":[\"Cic. Fin. 3, 19, 63\",\"Plin. 9, 35, 56, § 115\"],\"notas\":\"Unidas as grafias pīna (sea‑pen) e pinna (pena, pá) conforme LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_20842-e1",
@@ -1626,28 +1098,6 @@
     "notas": "Paradigma normalizado como perveho, pervehere, pervexi, pervectus (LS/Whitaker/Lat→Deu).",
     "raw_text": "{\"id\":\"chunk_20844:20844:0\",\"lemas\":[\"perveho\",\"pervehere\"],\"lema_canonico\":\"perveho\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Transportar, conduzir através; levar, carregar; atravessar, navegar para; também: levar adiante, executar.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Paradigma normalizado como perveho, pervehere, pervexi, pervectus (LS/Whitaker/Lat→Deu).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_20844:20844:0\",\"lemas\":[\"perveho\",\"pervehere\"],\"lema_canonico\":\"perveho\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Transportar, conduzir através; levar, carregar; atravessar, navegar para; também: levar adiante, executar.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Paradigma normalizado como perveho, pervehere, pervexi, pervectus (LS/Whitaker/Lat→Deu).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_20844-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_20844",
-    "page_num": 20844,
-    "lemmas": [
-      "perveho",
-      "perveho"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Forma perfeita ativa de perveho: 'levei, conduzi, transportei'.",
-    "exemplos": [],
-    "notas": "Registro mantido como forma perfeita vinculada ao lema perveho; indicada a forma e função. | [dedupe] redirect → chunk_20844:20844:0 | [dedupe] redirect → chunk_20844:20844:0",
-    "raw_text": "{\"id\":\"chunk_20844:20844:1\",\"lemas\":[\"pervexi\"],\"lema_canonico\":\"perveho\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"perf. ind. 1s\"],\"definicao\":\"Forma perfeita ativa de perveho: 'levei, conduzi, transportei'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Registro mantido como forma perfeita vinculada ao lema perveho; indicada a forma e função.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_20844:20844:1\",\"lemas\":[\"pervexi\"],\"lema_canonico\":\"perveho\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"perf. ind. 1s\"],\"definicao\":\"Forma perfeita ativa de perveho: 'levei, conduzi, transportei'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Registro mantido como forma perfeita vinculada ao lema perveho; indicada a forma e função.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_20845-e1",
@@ -1804,50 +1254,6 @@
     "raw_json": "{\"id\":\"chunk_20851:20851:0\",\"lemas\":[\"pervidens\",\"pervĭdens\"],\"lema_canonico\":\"pervidens\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"part. pres.\"],\"definicao\":\"particípio presente ativo de pervideo: ver a fundo; ver claramente, distinguir, inspecionar\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 14, 375\",\"Cic. Or. 3, 75\",\"Hor. Sat. 1, 3, 25\"],\"notas\":\"Relacionado ao verbo pervideo, formas e uso confirmados em LS/Whitaker\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_20851-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_20851",
-    "page_num": 20851,
-    "lemmas": [
-      "porphyrio",
-      "porphyrio"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:low",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "ave aquática, purple gallinule / purple coot (Fulica porphyrio); citada em Plínio e na Vulgata",
-    "exemplos": [],
-    "notas": "Fontes discordam quanto ao gênero (LS f.; Whitaker registra masc.). Mantido feminino conforme LS e first_pass. | [dedupe] redirect → chunk_22777:22777:0 | [dedupe] redirect → chunk_22777:22777:0",
-    "raw_text": "{\"id\":\"chunk_20851:20851:1\",\"lemas\":[\"porphyrio\",\"porphŭrio\"],\"lema_canonico\":\"porphyrio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"ave aquática, purple gallinule / purple coot (Fulica porphyrio); citada em Plínio e na Vulgata\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 10, 16, 63 §129\",\"Vulg. Lev. 11, 18\"],\"notas\":\"Fontes discordam quanto ao gênero (LS f.; Whitaker registra masc.). Mantido feminino conforme LS e first_pass.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_firstpass\",\"conf:low\"]}",
-    "raw_json": "{\"id\":\"chunk_20851:20851:1\",\"lemas\":[\"porphyrio\",\"porphŭrio\"],\"lema_canonico\":\"porphyrio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"ave aquática, purple gallinule / purple coot (Fulica porphyrio); citada em Plínio e na Vulgata\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 10, 16, 63 §129\",\"Vulg. Lev. 11, 18\"],\"notas\":\"Fontes discordam quanto ao gênero (LS f.; Whitaker registra masc.). Mantido feminino conforme LS e first_pass.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_firstpass\",\"conf:low\"]}"
-  },
-  {
-    "id": "chunk_20851-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_20851",
-    "page_num": 20851,
-    "lemmas": [
-      "proprius",
-      "proprius"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "próprio; individual, característico; também (post-cláss.) verbo proprio 'apropriar' (proprĭo, āvi) atestado por LS",
-    "exemplos": [],
-    "notas": "Corrige e unifica formas fragmentadas da primeira passada; inclui menção ao verbo atestado por LS. | [dedupe] redirect → chunk_22637:22637:2 | [dedupe] redirect → chunk_22637:22637:2",
-    "raw_text": "{\"id\":\"chunk_20851:20851:2\",\"lemas\":[\"proprius\",\"propria\",\"proprium\",\"proprĭo\"],\"lema_canonico\":\"proprius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"próprio; individual, característico; também (post-cláss.) verbo proprio 'apropriar' (proprĭo, āvi) atestado por LS\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrige e unifica formas fragmentadas da primeira passada; inclui menção ao verbo atestado por LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_20851:20851:2\",\"lemas\":[\"proprius\",\"propria\",\"proprium\",\"proprĭo\"],\"lema_canonico\":\"proprius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"próprio; individual, característico; também (post-cláss.) verbo proprio 'apropriar' (proprĭo, āvi) atestado por LS\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrige e unifica formas fragmentadas da primeira passada; inclui menção ao verbo atestado por LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_20851-e4",
     "volume_id": "faria",
     "doc_name": "chunk_20851",
@@ -1958,28 +1364,6 @@
     "raw_json": "{\"id\":\"chunk_20855:20855:0\",\"lemas\":[\"pervigilatio\",\"pervigilātiō\"],\"lema_canonico\":\"pervigilatio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"vigília, especialmente vigília devotiva ou religiosa; longa vigília noturna.\",\"aliases\":[],\"exemplos\":[\"Cic. Leg. 2, 15, 37\",\"Cic. Leg. 2, 37\"],\"notas\":\"Forma, gênero e sentido confirmados por Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_20856-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20856",
-    "page_num": 20856,
-    "lemmas": [
-      "pervigilium",
-      "pervigilium"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "vigília prolongada; por extensão, culto ou cerimónia de vigília noturna.",
-    "exemplos": [],
-    "notas": "[dedupe] redirect → chunk_20826:20826:2 | [dedupe] redirect → chunk_20826:20826:2",
-    "raw_text": "{\"id\":\"chunk_20856:20856:0\",\"lemas\":[\"pervigilium\",\"pervigilium\"],\"lema_canonico\":\"pervigilium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"vigília prolongada; por extensão, culto ou cerimónia de vigília noturna.\",\"aliases\":[],\"exemplos\":[\"Sen. Ep. 3, 29, 1\",\"Plin. 11, 53, 118, § 283\",\"T. Liv. 23, 35\",\"Pervigilium Veneris (poema)\"],\"notas\":\"\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_20856:20856:0\",\"lemas\":[\"pervigilium\",\"pervigilium\"],\"lema_canonico\":\"pervigilium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"vigília prolongada; por extensão, culto ou cerimónia de vigília noturna.\",\"aliases\":[],\"exemplos\":[\"Sen. Ep. 3, 29, 1\",\"Plin. 11, 53, 118, § 283\",\"T. Liv. 23, 35\",\"Pervigilium Veneris (poema)\"],\"notas\":\"\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_20857-e1",
     "volume_id": "faria",
     "doc_name": "chunk_20857",
@@ -2046,72 +1430,6 @@
     "raw_json": "{\"id\":\"chunk_20859:20859:0\",\"lemas\":[\"pervīlis\",\"pervilis\",\"pervile\"],\"lema_canonico\":\"pervīlis\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"Muito barato, de muito baixo preço.\",\"aliases\":[],\"exemplos\":[\"T. Liv. 41, 50, 1\"],\"notas\":\"Grafia com macron confirmada; formas neutra e variantes registradas.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_20860-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20860",
-    "page_num": 20860,
-    "lemmas": [
-      "pervinco",
-      "pervinco"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "vencer completamente; fig.: convencer, prevalecer; conseguir com esforço.",
-    "exemplos": [],
-    "notas": "[dedupe] redirect → chunk_20858:20858:0 | [dedupe] redirect → chunk_20858:20858:0",
-    "raw_text": "{\"id\":\"chunk_20860:20860:0\",\"lemas\":[\"pervinco\",\"pervincō\"],\"lema_canonico\":\"pervinco\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"vencer completamente; fig.: convencer, prevalecer; conseguir com esforço.\",\"aliases\":[],\"exemplos\":[\"Tac. An. 11, 10\",\"Hor. Ep. 2, 1, 200\",\"Liv. 42, 45\"],\"notas\":\"\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_20860:20860:0\",\"lemas\":[\"pervinco\",\"pervincō\"],\"lema_canonico\":\"pervinco\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"vencer completamente; fig.: convencer, prevalecer; conseguir com esforço.\",\"aliases\":[],\"exemplos\":[\"Tac. An. 11, 10\",\"Hor. Ep. 2, 1, 200\",\"Liv. 42, 45\"],\"notas\":\"\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_20861-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20861",
-    "page_num": 20861,
-    "lemmas": [
-      "pervius",
-      "pervius"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "passável; que tem passagem através; atravessável, penetrável, transitável.",
-    "exemplos": [],
-    "notas": "Normalizado a partir de variantes; confirmado por LS e Lat→Deu. | [dedupe] redirect → chunk_20826:20826:3 | [dedupe] redirect → chunk_20826:20826:3",
-    "raw_text": "{\"id\":\"chunk_20861:20861:0\",\"lemas\":[\"pervius\",\"pervia\",\"pervium\"],\"lema_canonico\":\"pervius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"passável; que tem passagem através; atravessável, penetrável, transitável.\",\"aliases\":[],\"exemplos\":[\"Liv. 9, 43\"],\"notas\":\"Normalizado a partir de variantes; confirmado por LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_20861:20861:0\",\"lemas\":[\"pervius\",\"pervia\",\"pervium\"],\"lema_canonico\":\"pervius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"passável; que tem passagem através; atravessável, penetrável, transitável.\",\"aliases\":[],\"exemplos\":[\"Liv. 9, 43\"],\"notas\":\"Normalizado a partir de variantes; confirmado por LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_20862-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20862",
-    "page_num": 20862,
-    "lemmas": [
-      "pervius",
-      "pervius"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "que tem passagem através de; passável, acessível; fig.: aberto, patente",
-    "exemplos": [],
-    "notas": "Incluídas variantes femin./neut. | [dedupe] redirect → chunk_20826:20826:3 | [dedupe] redirect → chunk_20826:20826:3",
-    "raw_text": "{\"id\":\"chunk_20862:20862:0\",\"lemas\":[\"pervius\",\"pervia\",\"pervium\"],\"lema_canonico\":\"pervius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"que tem passagem através de; passável, acessível; fig.: aberto, patente\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 8, 377\",\"Tác. An. 13, 4\"],\"notas\":\"Incluídas variantes femin./neut.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_20862:20862:0\",\"lemas\":[\"pervius\",\"pervia\",\"pervium\"],\"lema_canonico\":\"pervius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"que tem passagem através de; passável, acessível; fig.: aberto, patente\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 8, 377\",\"Tác. An. 13, 4\"],\"notas\":\"Incluídas variantes femin./neut.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_20863-e1",
     "volume_id": "faria",
     "doc_name": "chunk_20863",
@@ -2156,28 +1474,6 @@
     "raw_json": "{\"id\":\"chunk_20864:20864:0\",\"lemas\":[\"pervīvīxī\"],\"lema_canonico\":\"pervīvīxī\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"registrada como perfeito de *pervīvō* no manuscrito; leitura incerta (OCR/diacríticos confusos).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Perfeição e forma provável, mas não confirmadas em LS/Whitaker; conservar para revisão paleográfica.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\",\"morph_out_of_vocab\"]}"
   },
   {
-    "id": "chunk_20865-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20865",
-    "page_num": 20865,
-    "lemmas": [
-      "pervolo",
-      "pervolo"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "voar através; atravessar voando; percorrer rapidamente por voo",
-    "exemplos": [],
-    "notas": "Forma attestada pervolāre; verbo tanto intr. quanto tr. | [dedupe] redirect → chunk_20866:20866:0 | [dedupe] redirect → chunk_20866:20866:0",
-    "raw_text": "{\"id\":\"chunk_20865:20865:0\",\"lemas\":[\"pervolo\",\"pervolāre\"],\"lema_canonico\":\"pervolo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"intr.\",\"tr.\"],\"definicao\":\"voar através; atravessar voando; percorrer rapidamente por voo\",\"aliases\":[],\"exemplos\":[\"Lucr. 6, 952\",\"Verg. En. 8, 24\"],\"notas\":\"Forma attestada pervolāre; verbo tanto intr. quanto tr.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_20865:20865:0\",\"lemas\":[\"pervolo\",\"pervolāre\"],\"lema_canonico\":\"pervolo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"intr.\",\"tr.\"],\"definicao\":\"voar através; atravessar voando; percorrer rapidamente por voo\",\"aliases\":[],\"exemplos\":[\"Lucr. 6, 952\",\"Verg. En. 8, 24\"],\"notas\":\"Forma attestada pervolāre; verbo tanto intr. quanto tr.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_20866-e1",
     "volume_id": "faria",
     "doc_name": "chunk_20866",
@@ -2198,28 +1494,6 @@
     "notas": "Normalizado como per‑ + volō; paradigma da 1ª conjugação confirmado por Whitaker e por exemplos lexicográficos.",
     "raw_text": "{\"id\":\"chunk_20866:20866:0\",\"lemas\":[\"pervolō\",\"pervolāre\"],\"lema_canonico\":\"pervolō\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"voar através; percorrer voando, mover‑se rapidamente pelo ar; também transitivo 'percorrer (por voo)'.\",\"aliases\":[],\"exemplos\":[\"Cic. Off. 6, 27\",\"Cic. Rep. 6, 29\",\"Verg. Aen. 12, 473\"],\"notas\":\"Normalizado como per‑ + volō; paradigma da 1ª conjugação confirmado por Whitaker e por exemplos lexicográficos.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_20866:20866:0\",\"lemas\":[\"pervolō\",\"pervolāre\"],\"lema_canonico\":\"pervolō\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"voar através; percorrer voando, mover‑se rapidamente pelo ar; também transitivo 'percorrer (por voo)'.\",\"aliases\":[],\"exemplos\":[\"Cic. Off. 6, 27\",\"Cic. Rep. 6, 29\",\"Verg. Aen. 12, 473\"],\"notas\":\"Normalizado como per‑ + volō; paradigma da 1ª conjugação confirmado por Whitaker e por exemplos lexicográficos.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_20866-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_20866",
-    "page_num": 20866,
-    "lemmas": [
-      "pervolūtus",
-      "pervolūtus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "particípio perfeito passivo de pervolvo/pervolō; 'rolado/percorrido por rolagem', 'folheado, examinado (ex.: libros)'.",
-    "exemplos": [],
-    "notas": "Adjetivo (a, um) atestado por Lewis & Short; forma verbal relacionada pervolāre/pervolvo. | [dedupe] redirect → chunk_20867:20867:0 | [dedupe] redirect → chunk_20867:20867:0",
-    "raw_text": "{\"id\":\"chunk_20866:20866:1\",\"lemas\":[\"pervolūtus\",\"pervŏlūto\"],\"lema_canonico\":\"pervolūtus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de pervolvo/pervolō; 'rolado/percorrido por rolagem', 'folheado, examinado (ex.: libros)'.\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 5, 12, 2\",\"Cic. Or. 1, 34\"],\"notas\":\"Adjetivo (a, um) atestado por Lewis & Short; forma verbal relacionada pervolāre/pervolvo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_20866:20866:1\",\"lemas\":[\"pervolūtus\",\"pervŏlūto\"],\"lema_canonico\":\"pervolūtus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de pervolvo/pervolō; 'rolado/percorrido por rolagem', 'folheado, examinado (ex.: libros)'.\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 5, 12, 2\",\"Cic. Or. 1, 34\"],\"notas\":\"Adjetivo (a, um) atestado por Lewis & Short; forma verbal relacionada pervolāre/pervolvo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_20866-e3",
@@ -2310,28 +1584,6 @@
     "raw_json": "{\"id\":\"chunk_20868:20868:0\",\"lemas\":[\"pervolvo\"],\"lema_canonico\":\"pervolvo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"volver/rodar por completo; percorrer (um livro), revolver, examinar cuidadosamente.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada normalizada a partir do perfeito 'pervōlvī' do manuscrito; confirmado por LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_20869-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20869",
-    "page_num": 20869,
-    "lemmas": [
-      "per-volvo",
-      "per-volvo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "rolar, revolver; folhear, passar por (texto); também usado intransitivamente/ passivo como 'ser revolvido'",
-    "exemplos": [],
-    "notas": "Lema confirmado a partir de Lat→Deu; normalizei paradigma para infinitivo -ere. | [dedupe] redirect → chunk_20868:20868:0 | [dedupe] redirect → chunk_20868:20868:0 | [ocr_fix 2025-08-17T19:59:25Z] match direto em LS por lemma/lemma_norm | lemma_in='pervolvo' → 'per-volvo'",
-    "raw_text": "{\"id\":\"chunk_20869:20869:0\",\"lemas\":[\"pervolvo\",\"pervŏlvō\"],\"lema_canonico\":\"pervolvo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"rolar, revolver; folhear, passar por (texto); também usado intransitivamente/ passivo como 'ser revolvido'\",\"aliases\":[],\"exemplos\":[\"Ter. And. 711\",\"Catul. 95, 5\"],\"notas\":\"Lema confirmado a partir de Lat→Deu; normalizei paradigma para infinitivo -ere.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_20869:20869:0\",\"lemas\":[\"pervolvo\",\"pervŏlvō\"],\"lema_canonico\":\"pervolvo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"rolar, revolver; folhear, passar por (texto); também usado intransitivamente/ passivo como 'ser revolvido'\",\"aliases\":[],\"exemplos\":[\"Ter. And. 711\",\"Catul. 95, 5\"],\"notas\":\"Lema confirmado a partir de Lat→Deu; normalizei paradigma para infinitivo -ere.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_20870-e1",
     "volume_id": "faria",
     "doc_name": "chunk_20870",
@@ -2420,28 +1672,6 @@
     "raw_json": "{\"id\":\"chunk_20873:20873:0\",\"lemas\":[\"Pesennio\"],\"lema_canonico\":\"Pesennio\",\"morfologia\":\"s. masc. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"nome próprio masculino (Pescênio), citado em cartas de Cícero\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 1, 4, 6\"],\"notas\":\"Forma atestada no OCR; classificação como nome próprio retida, mas grafia/declinação precisam de verificação.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_20874-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20874",
-    "page_num": 20874,
-    "lemmas": [
-      "pessimus",
-      "pessimus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "very bad; worst (superlative of malus).",
-    "exemplos": [],
-    "notas": "Normalizado como superlativo de malus; grafia e morfologia confirmadas por LS and Whitaker. | [dedupe] redirect → chunk_23013:23013:1 | [dedupe] redirect → chunk_23013:23013:1",
-    "raw_text": "{\"id\":\"chunk_20874:20874:0\",\"lemas\":[\"pessimus\"],\"lema_canonico\":\"pessimus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"very bad; worst (superlative of malus).\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 11, 23, 3\"],\"notas\":\"Normalizado como superlativo de malus; grafia e morfologia confirmadas por LS and Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_20874:20874:0\",\"lemas\":[\"pessimus\"],\"lema_canonico\":\"pessimus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"very bad; worst (superlative of malus).\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 11, 23, 3\"],\"notas\":\"Normalizado como superlativo de malus; grafia e morfologia confirmadas por LS and Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_20875-e1",
     "volume_id": "faria",
     "doc_name": "chunk_20875",
@@ -2462,28 +1692,6 @@
     "notas": "Lema unificado a partir da primeira passada; forma e sentido correspondem a LS (Pessĭnūs / Pessĭnuntĭus); grafia e desinência precisam confirmação filológica (gentilic/onom.). | [ocr_fix 2025-08-17T19:54:25Z] match direto em LS por lemma/lemma_norm | lemma_in='Pessinus' → 'Pessĭnūs'",
     "raw_text": "{\"id\":\"chunk_20875:20875:0\",\"lemas\":[\"Pessinus\"],\"lema_canonico\":\"Pessinus\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Pessinunte, cidade da Galácia, famous for the worship of Cybele.\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 2, 12, 2\"],\"notas\":\"Lema unificado a partir da primeira passada; forma e sentido correspondem a LS (Pessĭnūs / Pessĭnuntĭus); grafia e desinência precisam confirmação filológica (gentilic/onom.).\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"src_ls\",\"conf:med\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_20875:20875:0\",\"lemas\":[\"Pessinus\"],\"lema_canonico\":\"Pessinus\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Pessinunte, cidade da Galácia, famous for the worship of Cybele.\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 2, 12, 2\"],\"notas\":\"Lema unificado a partir da primeira passada; forma e sentido correspondem a LS (Pessĭnūs / Pessĭnuntĭus); grafia e desinência precisam confirmação filológica (gentilic/onom.).\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"src_ls\",\"conf:med\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_20876-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20876",
-    "page_num": 20876,
-    "lemmas": [
-      "pessĭmē",
-      "pessĭmē"
-    ],
-    "morfologia": "adj. (3) 3T",
-    "morph_render": "adj. (3) 3T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Relating to Pessinunte (of or from Pessinunte).",
-    "exemplos": [],
-    "notas": "Entrada herdada da primeira passada; forma e derivação alinhadas à leitura do ficheiro original, necessita verificação contra Lewis & Short variantes (Pessĭnuntĭcus etc.).\n[ocr_pipeline 2025-08-16T23:20:56.131055Z] lemma_in='Pessinuntinus' → 'pessĭmē' | motivo: similaridade semântica FAISS (definição/gloss) | [dedupe] redirect → chunk_23013:23013:0 | [ocr_fix 2025-08-17T18:30:15Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='pessĭmē' → 'pessĭmē' | [dedupe] redirect → chunk_23013:23013:0",
-    "raw_text": "{\"id\":\"chunk_20876:20876:0\",\"lemas\":[\"Pessinuntinus\"],\"lema_canonico\":\"Pessinuntinus\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"Relating to Pessinunte (of or from Pessinunte).\",\"aliases\":[],\"exemplos\":[\"Cic. Sest. 56\"],\"notas\":\"Entrada herdada da primeira passada; forma e derivação alinhadas à leitura do ficheiro original, necessita verificação contra Lewis & Short variantes (Pessĭnuntĭcus etc.).\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_20876:20876:0\",\"lemas\":[\"Pessinuntinus\"],\"lema_canonico\":\"Pessinuntinus\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"Relating to Pessinunte (of or from Pessinunte).\",\"aliases\":[],\"exemplos\":[\"Cic. Sest. 56\"],\"notas\":\"Entrada herdada da primeira passada; forma e derivação alinhadas à leitura do ficheiro original, necessita verificação contra Lewis & Short variantes (Pessĭnuntĭcus etc.).\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
     "id": "chunk_20877-e1",
@@ -2728,50 +1936,6 @@
     "raw_json": "{\"id\":\"chunk_20883:20883:0\",\"lemas\":[\"pestilitas\"],\"lema_canonico\":\"pestilitas\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"peste, pestilência; també́n usado por poesia para pestilentia\",\"aliases\":[],\"exemplos\":[\"Lucr. 6, 1096\",\"Lucr. 6, 1098\",\"Lucr. 6, 1125\",\"Lucr. 6, 1132\"],\"notas\":\"\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_20884-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20884",
-    "page_num": 20884,
-    "lemmas": [
-      "pestis",
-      "pestis"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "peste, praga; destruição, calamidade; figuradamente: ruína, paixão destruidora",
-    "exemplos": [],
-    "notas": "Unificadas formas e referências conforme Lewis & Short e Whitaker. | [dedupe] redirect → chunk_20880:20880:0 | [dedupe] redirect → chunk_20880:20880:0",
-    "raw_text": "{\"id\":\"chunk_20884:20884:0\",\"lemas\":[\"pestis\"],\"lema_canonico\":\"pestis\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"peste, praga; destruição, calamidade; figuradamente: ruína, paixão destruidora\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 1, 101\",\"Liv. 25, 26, 12\",\"Cic. CM. 39\",\"Cic. De Or. 1, 3\",\"Verg. Aen. 4, 90\"],\"notas\":\"Unificadas formas e referências conforme Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_20884:20884:0\",\"lemas\":[\"pestis\"],\"lema_canonico\":\"pestis\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"peste, praga; destruição, calamidade; figuradamente: ruína, paixão destruidora\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 1, 101\",\"Liv. 25, 26, 12\",\"Cic. CM. 39\",\"Cic. De Or. 1, 3\",\"Verg. Aen. 4, 90\"],\"notas\":\"Unificadas formas e referências conforme Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_20885-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20885",
-    "page_num": 20885,
-    "lemmas": [
-      "pestis",
-      "pestis"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "pestis: praga, pestilência, destruição; pestatus (adj.): coberto com petasús, pronto para a viagem (cited Cic. Fam. 15,17,1).",
-    "exemplos": [],
-    "notas": "Unifiquei as entradas: mantenho 'pestis' como lema canónico; incluo 'pestatus' como variante adjectival. | [dedupe] redirect → chunk_20880:20880:0 | [dedupe] redirect → chunk_20880:20880:0",
-    "raw_text": "{\"id\":\"chunk_20885:20885:0\",\"lemas\":[\"pestatus\",\"pestis\"],\"lema_canonico\":\"pestis\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[\"adj. (1/2) -a, -um\"],\"definicao\":\"pestis: praga, pestilência, destruição; pestatus (adj.): coberto com petasús, pronto para a viagem (cited Cic. Fam. 15,17,1).\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 15, 17, 1\"],\"notas\":\"Unifiquei as entradas: mantenho 'pestis' como lema canónico; incluo 'pestatus' como variante adjectival.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_20885:20885:0\",\"lemas\":[\"pestatus\",\"pestis\"],\"lema_canonico\":\"pestis\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[\"adj. (1/2) -a, -um\"],\"definicao\":\"pestis: praga, pestilência, destruição; pestatus (adj.): coberto com petasús, pronto para a viagem (cited Cic. Fam. 15,17,1).\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 15, 17, 1\"],\"notas\":\"Unifiquei as entradas: mantenho 'pestis' como lema canónico; incluo 'pestatus' como variante adjectival.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_20886-e1",
     "volume_id": "faria",
     "doc_name": "chunk_20886",
@@ -2858,28 +2022,6 @@
     "notas": "Grafia e referências harmonizadas com Lewis & Short e Whitaker | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='petaurum' → 'pĕtaurum'",
     "raw_text": "{\"id\":\"chunk_20889:20889:0\",\"lemas\":[\"petaurum\"],\"lema_canonico\":\"petaurum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"tablado ou trampolim usado por acrobatas e funâmbulos; spring-board/stage for tumblers\",\"aliases\":[],\"exemplos\":[\"Lucil. ap. Fest. s. v. petauristae\",\"Mart. 2, 86, 8\",\"Mart. 11, 21, 3\",\"Juv. 14, 265\",\"Manil. 5, 434\",\"Petr. Fragm. 13\"],\"notas\":\"Grafia e referências harmonizadas com Lewis & Short e Whitaker\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_20889:20889:0\",\"lemas\":[\"petaurum\"],\"lema_canonico\":\"petaurum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"tablado ou trampolim usado por acrobatas e funâmbulos; spring-board/stage for tumblers\",\"aliases\":[],\"exemplos\":[\"Lucil. ap. Fest. s. v. petauristae\",\"Mart. 2, 86, 8\",\"Mart. 11, 21, 3\",\"Juv. 14, 265\",\"Manil. 5, 434\",\"Petr. Fragm. 13\"],\"notas\":\"Grafia e referências harmonizadas com Lewis & Short e Whitaker\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_20890-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20890",
-    "page_num": 20890,
-    "lemmas": [
-      "Pĕtēlĭa",
-      "Pĕtēlĭa"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Cidade antiga da Brútia (mod. Strongoli), colonizada por Lucânios; citada por Liv., Virgílio e Plínio.",
-    "exemplos": [],
-    "notas": "Normalizada grafia e declinação segundo Lewis & Short; variantes mantidas. | [dedupe] redirect → chunk_20893:20893:0 | [dedupe] redirect → chunk_20893:20893:0 | [ocr_fix 2025-08-17T19:59:26Z] match direto em LS por lemma/lemma_norm | lemma_in='Petelia' → 'Pĕtēlĭa'",
-    "raw_text": "{\"id\":\"chunk_20890:20890:0\",\"lemas\":[\"Petēlĭa\",\"Petelia\",\"Petélia\"],\"lema_canonico\":\"Petelia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Cidade antiga da Brútia (mod. Strongoli), colonizada por Lucânios; citada por Liv., Virgílio e Plínio.\",\"aliases\":[],\"exemplos\":[\"Liv. 23, 30\",\"Verg. A. 3, 402\",\"Plin. Nat. 3, 10, 15, § 96\"],\"notas\":\"Normalizada grafia e declinação segundo Lewis & Short; variantes mantidas.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_20890:20890:0\",\"lemas\":[\"Petēlĭa\",\"Petelia\",\"Petélia\"],\"lema_canonico\":\"Petelia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Cidade antiga da Brútia (mod. Strongoli), colonizada por Lucânios; citada por Liv., Virgílio e Plínio.\",\"aliases\":[],\"exemplos\":[\"Liv. 23, 30\",\"Verg. A. 3, 402\",\"Plin. Nat. 3, 10, 15, § 96\"],\"notas\":\"Normalizada grafia e declinação segundo Lewis & Short; variantes mantidas.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
     "id": "chunk_20891-e1",
@@ -3036,28 +2178,6 @@
     "raw_json": "{\"id\":\"chunk_20897:20897:0\",\"lemas\":[\"peto\"],\"lema_canonico\":\"peto\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Ir para/dirigir‑se a; procurar, buscar; atacar, assaltar; pedir, solicitar; desejar, ambicionar.\",\"aliases\":[\"petīvi\"],\"exemplos\":[],\"notas\":\"Entrada original era forma perfeita 'petīvi' — convertida ao lema lexicográfico 'peto' com a forma perfeita listada em aliases.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_20898-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20898",
-    "page_num": 20898,
-    "lemmas": [
-      "Pĕtēlĭa",
-      "Pĕtēlĭa"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Cidade antiga (sítio no sul da Itália), Petelia.",
-    "exemplos": [],
-    "notas": "Normalizado para o lema atestado (Pĕtīlĭa) em Lewis & Short; grafias variantes preservadas. | [dedupe] redirect → chunk_20893:20893:0 | [dedupe] redirect → chunk_20893:20893:0 | [ocr_fix 2025-08-17T19:51:04Z] match direto em LS por lemma/lemma_norm | lemma_in='Petelia' → 'Pĕtēlĭa'",
-    "raw_text": "{\"id\":\"chunk_20898:20898:0\",\"lemas\":[\"Petelia\",\"Petilia\",\"Petīlĭa\"],\"lema_canonico\":\"Petelia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Cidade antiga (sítio no sul da Itália), Petelia.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizado para o lema atestado (Pĕtīlĭa) em Lewis & Short; grafias variantes preservadas.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_20898:20898:0\",\"lemas\":[\"Petelia\",\"Petilia\",\"Petīlĭa\"],\"lema_canonico\":\"Petelia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Cidade antiga (sítio no sul da Itália), Petelia.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizado para o lema atestado (Pĕtīlĭa) em Lewis & Short; grafias variantes preservadas.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_20898-e2",
     "volume_id": "faria",
     "doc_name": "chunk_20898",
@@ -3078,28 +2198,6 @@
     "notas": "Unificação de variantes do LS; forma masculina como lema canónico.",
     "raw_text": "{\"id\":\"chunk_20898:20898:1\",\"lemas\":[\"Petilīnus\",\"Petilīna\",\"Petilīnum\"],\"lema_canonico\":\"Petilīnus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo a Petelia; pertencente ou natural de Petelia (Petelianus).\",\"aliases\":[],\"exemplos\":[\"Liv. 6, 20\",\"Val. Max. 6, 6\"],\"notas\":\"Unificação de variantes do LS; forma masculina como lema canónico.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_20898:20898:1\",\"lemas\":[\"Petilīnus\",\"Petilīna\",\"Petilīnum\"],\"lema_canonico\":\"Petilīnus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo a Petelia; pertencente ou natural de Petelia (Petelianus).\",\"aliases\":[],\"exemplos\":[\"Liv. 6, 20\",\"Val. Max. 6, 6\"],\"notas\":\"Unificação de variantes do LS; forma masculina como lema canónico.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_20898-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_20898",
-    "page_num": 20898,
-    "lemmas": [
-      "Pĕtēlĭa",
-      "Petelia"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Cidade antiga da Brúttia/Lucânia (Petelia, Petilia).",
-    "exemplos": [],
-    "notas": "Padronização segundo Lewis & Short (Pĕtēlĭa) e correspondência com Lat→Deu. | [dedupe] redirect → chunk_20893:20893:0 | [dedupe] redirect → chunk_20893:20893:0 | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='Petelia' → 'Pĕtēlĭa'",
-    "raw_text": "{\"id\":\"chunk_20898:20898:2\",\"lemas\":[\"Petelia\",\"Peteliae\"],\"lema_canonico\":\"Petelia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Cidade antiga da Brúttia/Lucânia (Petelia, Petilia).\",\"aliases\":[],\"exemplos\":[\"Liv. 23, 30\",\"Verg. A. 3, 402\",\"Plin. 3, 10, 15, §96\"],\"notas\":\"Padronização segundo Lewis & Short (Pĕtēlĭa) e correspondência com Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_20898:20898:2\",\"lemas\":[\"Petelia\",\"Peteliae\"],\"lema_canonico\":\"Petelia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Cidade antiga da Brúttia/Lucânia (Petelia, Petilia).\",\"aliases\":[],\"exemplos\":[\"Liv. 23, 30\",\"Verg. A. 3, 402\",\"Plin. 3, 10, 15, §96\"],\"notas\":\"Padronização segundo Lewis & Short (Pĕtēlĭa) e correspondência com Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_20899-e1",
@@ -3322,28 +2420,6 @@
     "raw_json": "{\"id\":\"chunk_20907:20907:0\",\"lemas\":[\"petītus\"],\"lema_canonico\":\"petitus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"(1) inclinação, aproximação; (2) desejo, pedido, solicitação.\",\"aliases\":[],\"exemplos\":[\"Lucr. 3, 192\",\"Gell. 18, 3, 6\"],\"notas\":\"Inclui ambas as acepções (particípio e substantivo) atestadas por Lewis & Short; lema normalizado sem macron.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_20908-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20908",
-    "page_num": 20908,
-    "lemmas": [
-      "peto",
-      "peto"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "peto — atacar, dirigir‑se a, procurar alcançar; pedir, solicitar; candidatar‑se; procurar, buscar.",
-    "exemplos": [],
-    "notas": "Formas perfeitas (-īvī or -iī) e usos confirmados em LS e Lat→Deu. | [dedupe] redirect → chunk_20897:20897:0 | [dedupe] redirect → chunk_20897:20897:0",
-    "raw_text": "{\"id\":\"chunk_20908:20908:0\",\"lemas\":[\"peto\"],\"lema_canonico\":\"peto\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"peto — atacar, dirigir‑se a, procurar alcançar; pedir, solicitar; candidatar‑se; procurar, buscar.\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 2, 125\",\"Verg. G. 3, 522\",\"Ov. F. 1, 109\"],\"notas\":\"Formas perfeitas (-īvī or -iī) e usos confirmados em LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_20908:20908:0\",\"lemas\":[\"peto\"],\"lema_canonico\":\"peto\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"peto — atacar, dirigir‑se a, procurar alcançar; pedir, solicitar; candidatar‑se; procurar, buscar.\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 2, 125\",\"Verg. G. 3, 522\",\"Ov. F. 1, 109\"],\"notas\":\"Formas perfeitas (-īvī or -iī) e usos confirmados em LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_20909-e1",
     "volume_id": "faria",
     "doc_name": "chunk_20909",
@@ -3518,28 +2594,6 @@
     "notas": "Lema atestado em Lewis & Short; grafia normalizada com macron. Fonte secundária apresenta variação morfológica.\n[ocr_pipeline 2025-08-16T23:21:01.807552Z] lemma_in='Petrīnum' → 'Petrīnum' | motivo: match direto em LS por lemma/lemma_norm | [ocr_fix 2025-08-17T01:19:28Z] match direto em LS por lemma/lemma_norm | lemma_in='Petrīnum' → 'Petrīnum'",
     "raw_text": "{\"id\":\"chunk_20916:20916:0\",\"lemas\":[\"Petrīnum\",\"Petrinum\"],\"lema_canonico\":\"Petrīnum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"villa (casa de campo) chamada Petrīnum, perto de Sinuessa (topônimo)\",\"aliases\":[],\"exemplos\":[\"Hor. Ep. 1, 5, 5\",\"Cic. Fam. 6, 19, 1\"],\"notas\":\"Lema atestado em Lewis & Short; grafia normalizada com macron. Fonte secundária apresenta variação morfológica.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"src_firstpass\",\"src_ocr\",\"conf:low\"]}",
     "raw_json": "{\"id\":\"chunk_20916:20916:0\",\"lemas\":[\"Petrīnum\",\"Petrinum\"],\"lema_canonico\":\"Petrīnum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"villa (casa de campo) chamada Petrīnum, perto de Sinuessa (topônimo)\",\"aliases\":[],\"exemplos\":[\"Hor. Ep. 1, 5, 5\",\"Cic. Fam. 6, 19, 1\"],\"notas\":\"Lema atestado em Lewis & Short; grafia normalizada com macron. Fonte secundária apresenta variação morfológica.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"src_firstpass\",\"src_ocr\",\"conf:low\"]}"
-  },
-  {
-    "id": "chunk_20917-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20917",
-    "page_num": 20917,
-    "lemmas": [
-      "Petro",
-      "Petro"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "carneiro velho (ramo envelhecido; Plaut.)",
-    "exemplos": [],
-    "notas": "Lema confirmado em Lewis & Short (petrō, -ōnis m.). Normalizada grafia e macron. | [dedupe] redirect → chunk_20920:20920:1 | [dedupe] redirect → chunk_20920:20920:1 | [ocr_fix 2025-08-17T19:54:27Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='petrō' → 'Petro'",
-    "raw_text": "{\"id\":\"chunk_20917:20917:0\",\"lemas\":[\"petrō\",\"petro\"],\"lema_canonico\":\"petrō\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"carneiro velho (ramo envelhecido; Plaut.)\",\"aliases\":[],\"exemplos\":[\"Plaut. Capt. 820\"],\"notas\":\"Lema confirmado em Lewis & Short (petrō, -ōnis m.). Normalizada grafia e macron.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"src_ocr\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_20917:20917:0\",\"lemas\":[\"petrō\",\"petro\"],\"lema_canonico\":\"petrō\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"carneiro velho (ramo envelhecido; Plaut.)\",\"aliases\":[],\"exemplos\":[\"Plaut. Capt. 820\"],\"notas\":\"Lema confirmado em Lewis & Short (petrō, -ōnis m.). Normalizada grafia e macron.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"src_ocr\",\"conf:med\"]}"
   },
   {
     "id": "chunk_20918-e1",
@@ -3738,28 +2792,6 @@
     "notas": "Padronizado conforme LS/Whitaker; comp. formas superlativas atestadas (petulantissimus).",
     "raw_text": "{\"id\":\"chunk_20924:20924:0\",\"lemas\":[\"petulantia\"],\"lema_canonico\":\"petulantia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"impudência, atrevimento, insolência; também leveza, lascívia ou vontade desregrada em contextos literários.\",\"aliases\":[],\"exemplos\":[\"Cic. Clu. 39, 2\",\"Cic. Att. 2, 19, 3\",\"Cic. Sen. 11, 36\",\"Prop. 1, 16, 37\"],\"notas\":\"Padronizado conforme LS/Whitaker; comp. formas superlativas atestadas (petulantissimus).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_20924:20924:0\",\"lemas\":[\"petulantia\"],\"lema_canonico\":\"petulantia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"impudência, atrevimento, insolência; também leveza, lascívia ou vontade desregrada em contextos literários.\",\"aliases\":[],\"exemplos\":[\"Cic. Clu. 39, 2\",\"Cic. Att. 2, 19, 3\",\"Cic. Sen. 11, 36\",\"Prop. 1, 16, 37\"],\"notas\":\"Padronizado conforme LS/Whitaker; comp. formas superlativas atestadas (petulantissimus).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_20925-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20925",
-    "page_num": 20925,
-    "lemmas": [
-      "petulantia",
-      "petulantia"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "petulantia — insolência, atrevimento; levandade, vivacidade; wantonness, impudence.",
-    "exemplos": [],
-    "notas": "Sentidos e exemplois alinhados com Lewis & Short e Whitaker. | [dedupe] redirect → chunk_20924:20924:0 | [dedupe] redirect → chunk_20924:20924:0",
-    "raw_text": "{\"id\":\"chunk_20925:20925:0\",\"lemas\":[\"petulantia\"],\"lema_canonico\":\"petulantia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"petulantia — insolência, atrevimento; levandade, vivacidade; wantonness, impudence.\",\"aliases\":[],\"exemplos\":[\"Cic. Cael. 2, 25\",\"Col. 7, 6, 4\",\"Plaut. Cist. 672\"],\"notas\":\"Sentidos e exemplois alinhados com Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_20925:20925:0\",\"lemas\":[\"petulantia\"],\"lema_canonico\":\"petulantia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"petulantia — insolência, atrevimento; levandade, vivacidade; wantonness, impudence.\",\"aliases\":[],\"exemplos\":[\"Cic. Cael. 2, 25\",\"Col. 7, 6, 4\",\"Plaut. Cist. 672\"],\"notas\":\"Sentidos e exemplois alinhados com Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_20926-e1",
@@ -4048,28 +3080,6 @@
     "raw_json": "{\"id\":\"chunk_20937:20937:0\",\"lemas\":[\"Phaecia\",\"Phaeciadis\"],\"lema_canonico\":\"Phaecia\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Feácia (região/ilha); também título de um poema.\",\"aliases\":[],\"exemplos\":[\"Ov. P. 4, 12, 27\"],\"notas\":\"Normalizado lema para forma nominativa Phaecia; genitivo atestado Phaeciadis.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}"
   },
   {
-    "id": "chunk_20938-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20938",
-    "page_num": 20938,
-    "lemmas": [
-      "Phaeacum",
-      "Phaeacum"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:low",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada registrada como remissiva para Phaecum (ver). Mantida forma neutra 2ª declinação.",
-    "raw_text": "{\"id\":\"chunk_20938:20938:0\",\"lemas\":[\"Phaeacum\"],\"lema_canonico\":\"Phaeacum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Phaecum\"],\"exemplos\":[],\"notas\":\"Entrada registrada como remissiva para Phaecum (ver). Mantida forma neutra 2ª declinação.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_20938:20938:0\",\"lemas\":[\"Phaeacum\"],\"lema_canonico\":\"Phaeacum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Phaecum\"],\"exemplos\":[],\"notas\":\"Entrada registrada como remissiva para Phaecum (ver). Mantida forma neutra 2ª declinação.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"redirect_only\"]}"
-  },
-  {
     "id": "chunk_20939-e1",
     "volume_id": "faria",
     "doc_name": "chunk_20939",
@@ -4202,28 +3212,6 @@
     "raw_json": "{\"id\":\"chunk_20944:20944:0\",\"lemas\":[\"Phaeneas\",\"Phaeneas\"],\"lema_canonico\":\"Phaeneas\",\"morfologia\":\"s. masc. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Nome próprio masculino (Phaeneas), chefe dos Etólios em certas fontes.\",\"aliases\":[\"Phaenēas\",\"Feneas\"],\"exemplos\":[\"T. Liv. 32, 32\"],\"notas\":\"Forma sem macron provável variante ortográfica de Phaenēas; Whitaker registra variantes semelhantes (grafia variante).\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}"
   },
   {
-    "id": "chunk_20944-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_20944",
-    "page_num": 20944,
-    "lemmas": [
-      "Phaenēas",
-      "Phaenēas"
-    ],
-    "morfologia": "s. masc. 1ª (-ae)",
-    "morph_render": "s. masc. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:low",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "(Feneas) chefe dos Etólios; nome próprio masculino.",
-    "exemplos": [],
-    "notas": "Entrada com macron sobre ē confirmada como forma do nome; genitivo em -ae (declinação 1ª) mantido. | [dedupe] redirect → chunk_20944:20944:0 | [dedupe] redirect → chunk_20944:20944:0",
-    "raw_text": "{\"id\":\"chunk_20944:20944:1\",\"lemas\":[\"Phaenēas\",\"Phaenēas\"],\"lema_canonico\":\"Phaenēas\",\"morfologia\":\"s. masc. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"(Feneas) chefe dos Etólios; nome próprio masculino.\",\"aliases\":[\"Phaeneas\",\"Feneas\"],\"exemplos\":[\"T. Liv. 32, 32\"],\"notas\":\"Entrada com macron sobre ē confirmada como forma do nome; genitivo em -ae (declinação 1ª) mantido.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}",
-    "raw_json": "{\"id\":\"chunk_20944:20944:1\",\"lemas\":[\"Phaenēas\",\"Phaenēas\"],\"lema_canonico\":\"Phaenēas\",\"morfologia\":\"s. masc. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"(Feneas) chefe dos Etólios; nome próprio masculino.\",\"aliases\":[\"Phaeneas\",\"Feneas\"],\"exemplos\":[\"T. Liv. 32, 32\"],\"notas\":\"Entrada com macron sobre ē confirmada como forma do nome; genitivo em -ae (declinação 1ª) mantido.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}"
-  },
-  {
     "id": "chunk_20945-e1",
     "volume_id": "faria",
     "doc_name": "chunk_20945",
@@ -4244,28 +3232,6 @@
     "notas": "Lema normalizado para Phaecomes; forma original Phaecomēns atestada no OCR.\n[ocr_pipeline 2025-08-16T23:16:06.673028Z] lemma_in='Phaecomes' → 'Phlegraeus' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:12:53Z] match direto em LS por lemma/lemma_norm | lemma_in='Phlegraeus' → 'Phlegraeus'",
     "raw_text": "{\"id\":\"chunk_20945:20945:0\",\"lemas\":[\"Phaecomes\",\"Phaecomens\"],\"lema_canonico\":\"Phaecomes\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Phaecomes (nome próprio), um dos centauros.\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 12, 433\"],\"notas\":\"Lema normalizado para Phaecomes; forma original Phaecomēns atestada no OCR.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}",
     "raw_json": "{\"id\":\"chunk_20945:20945:0\",\"lemas\":[\"Phaecomes\",\"Phaecomens\"],\"lema_canonico\":\"Phaecomes\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Phaecomes (nome próprio), um dos centauros.\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 12, 433\"],\"notas\":\"Lema normalizado para Phaecomes; forma original Phaecomēns atestada no OCR.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}"
-  },
-  {
-    "id": "chunk_20946-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20946",
-    "page_num": 20946,
-    "lemmas": [
-      "Phoenīcĭus",
-      "Phoenīcĭus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Relativo a Phæstus (cidade de Creta); pertencente a Phæstus.",
-    "exemplos": [],
-    "notas": "Forma adjetival -a, -um mantida; normalizada a grafia sem macron.\n[ocr_pipeline 2025-08-16T23:16:06.893685Z] lemma_in='Phaestus' → 'Phoenīcĭus' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:12:54Z] match direto em LS por lemma/lemma_norm | lemma_in='Phoenīcĭus' → 'Phoenīcĭus' | [dedupe] redirect → chunk_21135:21135:0 | [dedupe] redirect → chunk_21135:21135:0",
-    "raw_text": "{\"id\":\"chunk_20946:20946:0\",\"lemas\":[\"Phaestus\"],\"lema_canonico\":\"Phaestus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo a Phæstus (cidade de Creta); pertencente a Phæstus.\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 9, 668\"],\"notas\":\"Forma adjetival -a, -um mantida; normalizada a grafia sem macron.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}",
-    "raw_json": "{\"id\":\"chunk_20946:20946:0\",\"lemas\":[\"Phaestus\"],\"lema_canonico\":\"Phaestus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo a Phæstus (cidade de Creta); pertencente a Phæstus.\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 9, 668\"],\"notas\":\"Forma adjetival -a, -um mantida; normalizada a grafia sem macron.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}"
   },
   {
     "id": "chunk_20947-e1",
@@ -4752,28 +3718,6 @@
     "raw_json": "{\"id\":\"chunk_20967:20967:0\",\"lemas\":[\"phalerata\",\"phaleratus\",\"phaleratum\"],\"lema_canonico\":\"phaleratus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"ornamentado com phalerae; que traz fálera(s), enfeitado com placas (militares/cerimoniais).\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 4, 29\",\"Verg. Aen. 5, 310\",\"Pers. 3, 9\"],\"notas\":\"Corrigida a classe morfológica para adjetivo I/II conforme Whitaker/Lat→Deu; entradas de obras normalizadas.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_20968-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20968",
-    "page_num": 20968,
-    "lemmas": [
-      "phaleratus",
-      "phaleratus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "enfeitado com fáleras; ornamentado (de homens, cavalos ou estilo)",
-    "exemplos": [],
-    "notas": "Normalizado para o adjetivo latino clássico phaleratus, -a, -um; variantes mantidas. | [dedupe] redirect → chunk_20967:20967:0 | [dedupe] redirect → chunk_20967:20967:0",
-    "raw_text": "{\"id\":\"chunk_20968:20968:0\",\"lemas\":[\"phaleratus\",\"phalerata\",\"phaleratum\"],\"lema_canonico\":\"phaleratus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"enfeitado com fáleras; ornamentado (de homens, cavalos ou estilo)\",\"aliases\":[],\"exemplos\":[\"T. Liv. 30, 17, 13\",\"Thef. Phorm. 500\"],\"notas\":\"Normalizado para o adjetivo latino clássico phaleratus, -a, -um; variantes mantidas.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_20968:20968:0\",\"lemas\":[\"phaleratus\",\"phalerata\",\"phaleratum\"],\"lema_canonico\":\"phaleratus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"enfeitado com fáleras; ornamentado (de homens, cavalos ou estilo)\",\"aliases\":[],\"exemplos\":[\"T. Liv. 30, 17, 13\",\"Thef. Phorm. 500\"],\"notas\":\"Normalizado para o adjetivo latino clássico phaleratus, -a, -um; variantes mantidas.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_20969-e1",
     "volume_id": "faria",
     "doc_name": "chunk_20969",
@@ -4950,28 +3894,6 @@
     "raw_json": "{\"id\":\"chunk_20976:20976:0\",\"lemas\":[\"Phanote\",\"Phanotea\"],\"lema_canonico\":\"Phanote\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"nome de várias cidades: uma no Epiro (com castelo) e outra na Fócida (também chamada Panope).\",\"aliases\":[],\"exemplos\":[\"Liv. 43, 21\",\"Liv. 32, 18\",\"Liv. 42, 25\"],\"notas\":\"Consolidação de citações diversas (Lewis & Short + concordâncias editoriais).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_20977-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20977",
-    "page_num": 20977,
-    "lemmas": [
-      "Phanote",
-      "Phanote"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "nome de várias cidades (p. ex. na Fócida; também chamada Panope).",
-    "exemplos": [],
-    "notas": "Formas reconhecidas em Lewis & Short; variante -ea atestada (Phanotea). | [dedupe] redirect → chunk_20976:20976:0 | [dedupe] redirect → chunk_20976:20976:0",
-    "raw_text": "{\"id\":\"chunk_20977:20977:0\",\"lemas\":[\"Phanote\",\"Phanotea\"],\"lema_canonico\":\"Phanote\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"nome de várias cidades (p. ex. na Fócida; também chamada Panope).\",\"aliases\":[],\"exemplos\":[\"Liv. 32, 18\"],\"notas\":\"Formas reconhecidas em Lewis & Short; variante -ea atestada (Phanotea).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_20977:20977:0\",\"lemas\":[\"Phanote\",\"Phanotea\"],\"lema_canonico\":\"Phanote\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"nome de várias cidades (p. ex. na Fócida; também chamada Panope).\",\"aliases\":[],\"exemplos\":[\"Liv. 32, 18\"],\"notas\":\"Formas reconhecidas em Lewis & Short; variante -ea atestada (Phanotea).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_20978-e1",
     "volume_id": "faria",
     "doc_name": "chunk_20978",
@@ -5082,28 +4004,6 @@
     "raw_json": "{\"id\":\"chunk_20981:20981:1\",\"lemas\":[\"Phaon\"],\"lema_canonico\":\"Phaon\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Liberto do imperador Nero citado por Suetônio.\",\"aliases\":[],\"exemplos\":[\"Suet. Ner. 48\",\"Suet. Ner. 49\"],\"notas\":\"Registro do homônimo (liberto de Nero) conforme Lewis & Short.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_20981-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_20981",
-    "page_num": 20981,
-    "lemmas": [
-      "Pharae",
-      "Pharae"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:low",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrée é redirecionamento para Phereae; mantida conforme primeira passada.",
-    "raw_text": "{\"id\":\"chunk_20981:20981:2\",\"lemas\":[\"Pharae\"],\"lema_canonico\":\"Pharae\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Phereae\"],\"exemplos\":[],\"notas\":\"Entrée é redirecionamento para Phereae; mantida conforme primeira passada.\",\"flags\":[\"src_firstpass\",\"conf:low\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_20981:20981:2\",\"lemas\":[\"Pharae\"],\"lema_canonico\":\"Pharae\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Phereae\"],\"exemplos\":[],\"notas\":\"Entrée é redirecionamento para Phereae; mantida conforme primeira passada.\",\"flags\":[\"src_firstpass\",\"conf:low\",\"redirect_only\"]}"
-  },
-  {
     "id": "chunk_20982-e1",
     "volume_id": "faria",
     "doc_name": "chunk_20982",
@@ -5168,28 +4068,6 @@
     "notas": "Harmonizei variantes (masc./fem./neut.). Forma atestada em dicionários latinos.",
     "raw_text": "{\"id\":\"chunk_20984:20984:0\",\"lemas\":[\"pharetratus\",\"pharetrata\",\"pharetratum\"],\"lema_canonico\":\"pharetratus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"que traz aljava; armado de aljava (wearing a quiver).\",\"aliases\":[],\"exemplos\":[\"Verg. G. 4, 290\"],\"notas\":\"Harmonizei variantes (masc./fem./neut.). Forma atestada em dicionários latinos.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_20984:20984:0\",\"lemas\":[\"pharetratus\",\"pharetrata\",\"pharetratum\"],\"lema_canonico\":\"pharetratus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"que traz aljava; armado de aljava (wearing a quiver).\",\"aliases\":[],\"exemplos\":[\"Verg. G. 4, 290\"],\"notas\":\"Harmonizei variantes (masc./fem./neut.). Forma atestada em dicionários latinos.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_20985-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20985",
-    "page_num": 20985,
-    "lemmas": [
-      "Phărus",
-      "Phărus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Ilha de Pharos, perto de Alexandria (Egito); também, por transferência, o farol (lighthouse) construído ali; origem do termo para farol.",
-    "exemplos": [],
-    "notas": "Consolidado conforme Lewis & Short; normalizada a forma substantiva principal. | [dedupe] redirect → chunk_10771:10771:0 | [dedupe] redirect → chunk_10771:10771:0 | [ocr_fix 2025-08-17T19:59:30Z] match direto em LS por lemma/lemma_norm | lemma_in='Pharus' → 'Phărus'",
-    "raw_text": "{\"id\":\"chunk_20985:20985:0\",\"lemas\":[\"Pharus\"],\"lema_canonico\":\"Pharus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Ilha de Pharos, perto de Alexandria (Egito); também, por transferência, o farol (lighthouse) construído ali; origem do termo para farol.\",\"aliases\":[],\"exemplos\":[\"Mel. 2, 7, 6\",\"Auct. B. Alex. 19\",\"Caes. B. C. 3, 112\",\"Suet. Claud. 20\"],\"notas\":\"Consolidado conforme Lewis & Short; normalizada a forma substantiva principal.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_20985:20985:0\",\"lemas\":[\"Pharus\"],\"lema_canonico\":\"Pharus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Ilha de Pharos, perto de Alexandria (Egito); também, por transferência, o farol (lighthouse) construído ali; origem do termo para farol.\",\"aliases\":[],\"exemplos\":[\"Mel. 2, 7, 6\",\"Auct. B. Alex. 19\",\"Caes. B. C. 3, 112\",\"Suet. Claud. 20\"],\"notas\":\"Consolidado conforme Lewis & Short; normalizada a forma substantiva principal.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
     "id": "chunk_20985-e2",
@@ -5278,28 +4156,6 @@
     "notas": "Entrada atestada em LS como plural (Phărītae, ārum); morfologia plural não encaixa no vocabulário singular requerido — marcado morph_out_of_vocab. | [ocr_fix 2025-08-17T19:59:31Z] match direto em LS por lemma/lemma_norm | lemma_in='Pharitae' → 'Phărītae'",
     "raw_text": "{\"id\":\"chunk_20985:20985:4\",\"lemas\":[\"Pharitae\",\"Phărītae\"],\"lema_canonico\":\"Pharitae\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Habitantes de Pharos (gentílico plural).\",\"aliases\":[],\"exemplos\":[\"Auct. B. Alex. 19\"],\"notas\":\"Entrada atestada em LS como plural (Phărītae, ārum); morfologia plural não encaixa no vocabulário singular requerido — marcado morph_out_of_vocab.\",\"flags\":[\"src_ls\",\"conf:med\",\"morph_out_of_vocab\"]}",
     "raw_json": "{\"id\":\"chunk_20985:20985:4\",\"lemas\":[\"Pharitae\",\"Phărītae\"],\"lema_canonico\":\"Pharitae\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Habitantes de Pharos (gentílico plural).\",\"aliases\":[],\"exemplos\":[\"Auct. B. Alex. 19\"],\"notas\":\"Entrada atestada em LS como plural (Phărītae, ārum); morfologia plural não encaixa no vocabulário singular requerido — marcado morph_out_of_vocab.\",\"flags\":[\"src_ls\",\"conf:med\",\"morph_out_of_vocab\"]}"
-  },
-  {
-    "id": "chunk_20985-e6",
-    "volume_id": "faria",
-    "doc_name": "chunk_20985",
-    "page_num": 20985,
-    "lemmas": [
-      "Phărus",
-      "Phărus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Ilha de Pharos, junto a Alexandria (Egito); o farol famoso construído pelo rei Ptolomeu Philadelphus; por extensão, o farol em si.",
-    "exemplos": [],
-    "notas": "Normalizado para substantivo próprio 2ª declinação conforme Lewis & Short; retirado tratamento adjetival infundado do OCR/first_pass. | [dedupe] redirect → chunk_10771:10771:0 | [dedupe] redirect → chunk_10771:10771:0 | [ocr_fix 2025-08-17T19:59:36Z] match direto em LS por lemma/lemma_norm | lemma_in='Pharus' → 'Phărus'",
-    "raw_text": "{\"id\":\"chunk_20985:20985:5\",\"lemas\":[\"Pharus\"],\"lema_canonico\":\"Pharus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Ilha de Pharos, junto a Alexandria (Egito); o farol famoso construído pelo rei Ptolomeu Philadelphus; por extensão, o farol em si.\",\"aliases\":[],\"exemplos\":[\"Mel. 2, 7, 6\",\"Caes. B. C. 3, 112\",\"Suet. Claud. 20\",\"Juv. 6, 83\"],\"notas\":\"Normalizado para substantivo próprio 2ª declinação conforme Lewis & Short; retirado tratamento adjetival infundado do OCR/first_pass.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_20985:20985:5\",\"lemas\":[\"Pharus\"],\"lema_canonico\":\"Pharus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Ilha de Pharos, junto a Alexandria (Egito); o farol famoso construído pelo rei Ptolomeu Philadelphus; por extensão, o farol em si.\",\"aliases\":[],\"exemplos\":[\"Mel. 2, 7, 6\",\"Caes. B. C. 3, 112\",\"Suet. Claud. 20\",\"Juv. 6, 83\"],\"notas\":\"Normalizado para substantivo próprio 2ª declinação conforme Lewis & Short; retirado tratamento adjetival infundado do OCR/first_pass.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
     "id": "chunk_20986-e1",
@@ -5498,50 +4354,6 @@
     "notas": "Mantido conforme primeira passada; morfologia derivada da indicação ‘(-ios), -i’ no OCR. Revisar contra léxico geográfico clássico se necessário.",
     "raw_text": "{\"id\":\"chunk_20994:20994:0\",\"lemas\":[\"Pharsalios\"],\"lema_canonico\":\"Pharsalios\",\"morfologia\":\"s. fem. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"topónimo: Pharsalios (cidade/forma própria mencionada; Farsalo, cidade da Tessália).\",\"aliases\":[],\"exemplos\":[\"T. Liv. 32, 33, 16\"],\"notas\":\"Mantido conforme primeira passada; morfologia derivada da indicação ‘(-ios), -i’ no OCR. Revisar contra léxico geográfico clássico se necessário.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_20994:20994:0\",\"lemas\":[\"Pharsalios\"],\"lema_canonico\":\"Pharsalios\",\"morfologia\":\"s. fem. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"topónimo: Pharsalios (cidade/forma própria mencionada; Farsalo, cidade da Tessália).\",\"aliases\":[],\"exemplos\":[\"T. Liv. 32, 33, 16\"],\"notas\":\"Mantido conforme primeira passada; morfologia derivada da indicação ‘(-ios), -i’ no OCR. Revisar contra léxico geográfico clássico se necessário.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_20995-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20995",
-    "page_num": 20995,
-    "lemmas": [
-      "Phărus",
-      "Phărus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Ilha junto a Alexandria e o famoso farol nela erigido pelo rei Ptolomeu; por extensão, o termo designa também um farol ou torre luminosa.",
-    "exemplos": [],
-    "notas": "Consolidado com variantes do Lewis & Short; acepção transferida (farol) explicitada. | [dedupe] redirect → chunk_10771:10771:0 | [dedupe] redirect → chunk_10771:10771:0 | [ocr_fix 2025-08-17T19:59:28Z] match direto em LS por lemma/lemma_norm | lemma_in='Pharus' → 'Phărus'",
-    "raw_text": "{\"id\":\"chunk_20995:20995:0\",\"lemas\":[\"Pharus\",\"Pharos\"],\"lema_canonico\":\"Pharus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Ilha junto a Alexandria e o famoso farol nela erigido pelo rei Ptolomeu; por extensão, o termo designa também um farol ou torre luminosa.\",\"aliases\":[\"Pharos\"],\"exemplos\":[\"Plin. Mel. 2, 7, 6\",\"Auct. B. Alex. 19\",\"Caes. B. C. 3, 112\",\"Suet. Claud. 20\",\"Juv. 6, 83\",\"Val. Fl. 7, 84\"],\"notas\":\"Consolidado com variantes do Lewis & Short; acepção transferida (farol) explicitada.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_20995:20995:0\",\"lemas\":[\"Pharus\",\"Pharos\"],\"lema_canonico\":\"Pharus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Ilha junto a Alexandria e o famoso farol nela erigido pelo rei Ptolomeu; por extensão, o termo designa também um farol ou torre luminosa.\",\"aliases\":[\"Pharos\"],\"exemplos\":[\"Plin. Mel. 2, 7, 6\",\"Auct. B. Alex. 19\",\"Caes. B. C. 3, 112\",\"Suet. Claud. 20\",\"Juv. 6, 83\",\"Val. Fl. 7, 84\"],\"notas\":\"Consolidado com variantes do Lewis & Short; acepção transferida (farol) explicitada.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_20996-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20996",
-    "page_num": 20996,
-    "lemmas": [
-      "Phărus",
-      "Phărus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Ilha de Pharos; o farol (e por extensão o farol de Alexandria); também nome próprio masculino",
-    "exemplos": [],
-    "notas": "Acomodada para corresponder à entrada Lewis & Short (Phărus) e à ocorrência em Virgílio; exemplos ilustrativos. | [dedupe] redirect → chunk_10771:10771:0 | [dedupe] redirect → chunk_10771:10771:0 | [ocr_fix 2025-08-17T19:54:25Z] match direto em LS por lemma/lemma_norm | lemma_in='Pharus' → 'Phărus'",
-    "raw_text": "{\"id\":\"chunk_20996:20996:0\",\"lemas\":[\"Pharus\",\"Phărus\"],\"lema_canonico\":\"Pharus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Ilha de Pharos; o farol (e por extensão o farol de Alexandria); também nome próprio masculino\",\"aliases\":[\"Phărus\"],\"exemplos\":[\"Verg. Aen. 10, 322\",\"Caes. B. Civ. 3, 112\"],\"notas\":\"Acomodada para corresponder à entrada Lewis & Short (Phărus) e à ocorrência em Virgílio; exemplos ilustrativos.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_20996:20996:0\",\"lemas\":[\"Pharus\",\"Phărus\"],\"lema_canonico\":\"Pharus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Ilha de Pharos; o farol (e por extensão o farol de Alexandria); também nome próprio masculino\",\"aliases\":[\"Phărus\"],\"exemplos\":[\"Verg. Aen. 10, 322\",\"Caes. B. Civ. 3, 112\"],\"notas\":\"Acomodada para corresponder à entrada Lewis & Short (Phărus) e à ocorrência em Virgílio; exemplos ilustrativos.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
     "id": "chunk_20997-e1",

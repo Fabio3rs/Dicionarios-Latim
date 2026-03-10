@@ -308,28 +308,6 @@
     "raw_json": "{\"id\":\"chunk_26413:26413:0\",\"lemas\":[\"spargī\",\"spargō\"],\"lema_canonico\":\"spargī\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"infinitivo presente passivo de spargō; 'to be scattered/strewn' (pres. pass. infinitive spargī).\",\"aliases\":[],\"exemplos\":[\"Hor. O. 4, 11, 8\"],\"notas\":\"Correção da forma para o infinitivo presente passivo 'spargī'; adição de spargō como lema relacionado.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_26414-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_26414",
-    "page_num": 26414,
-    "lemmas": [
-      "spargo",
-      "spargo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "verbo 'spargere' — espalhar, salpicar, pulverizar; 'sparsi' = perf. ind. 1 sg. / forma de particípio perfeito",
-    "exemplos": [],
-    "notas": "'sparsi' atestado como forma perfeita/PPP; entrada normalizada para o infinitivo. | [dedupe] redirect → chunk_26412:26412:0 | [dedupe] redirect → chunk_26412:26412:0",
-    "raw_text": "{\"id\":\"chunk_26414:26414:0\",\"lemas\":[\"spargo\"],\"lema_canonico\":\"spargo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"verbo 'spargere' — espalhar, salpicar, pulverizar; 'sparsi' = perf. ind. 1 sg. / forma de particípio perfeito\",\"aliases\":[],\"exemplos\":[],\"notas\":\"'sparsi' atestado como forma perfeita/PPP; entrada normalizada para o infinitivo.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_firstpass\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_26414:26414:0\",\"lemas\":[\"spargo\"],\"lema_canonico\":\"spargo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"verbo 'spargere' — espalhar, salpicar, pulverizar; 'sparsi' = perf. ind. 1 sg. / forma de particípio perfeito\",\"aliases\":[],\"exemplos\":[],\"notas\":\"'sparsi' atestado como forma perfeita/PPP; entrada normalizada para o infinitivo.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_firstpass\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_26415-e1",
     "volume_id": "faria",
     "doc_name": "chunk_26415",
@@ -374,28 +352,6 @@
     "raw_json": "{\"id\":\"chunk_26416:26416:1\",\"lemas\":[\"spargere\",\"sparsus\"],\"lema_canonico\":\"spargere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"forma do particípio perfeito passivo (sparsus) do verbo spargere — aqui representada no genitivo singular ('sparsī').\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizado ao infinitivo como lema e marcado como particípio perf. pass.; primeira-passa indicava forma flexionada.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_26416-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_26416",
-    "page_num": 26416,
-    "lemmas": [
-      "spargere",
-      "spargere"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "formas nom./voc. pl. masculinas do particípio perfeito passivo 'sparsus' (sparsī).",
-    "exemplos": [],
-    "notas": "Interpretado como nominativo/vocativo plural masculino do part. perf. pass.; coerente com listagens de formas flexionadas. | [dedupe] redirect → chunk_26416:26416:1 | [dedupe] redirect → chunk_26416:26416:1",
-    "raw_text": "{\"id\":\"chunk_26416:26416:2\",\"lemas\":[\"spargere\",\"sparsus\"],\"lema_canonico\":\"spargere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"formas nom./voc. pl. masculinas do particípio perfeito passivo 'sparsus' (sparsī).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Interpretado como nominativo/vocativo plural masculino do part. perf. pass.; coerente com listagens de formas flexionadas.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_26416:26416:2\",\"lemas\":[\"spargere\",\"sparsus\"],\"lema_canonico\":\"spargere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"formas nom./voc. pl. masculinas do particípio perfeito passivo 'sparsus' (sparsī).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Interpretado como nominativo/vocativo plural masculino do part. perf. pass.; coerente com listagens de formas flexionadas.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_26416-e3",
     "volume_id": "faria",
     "doc_name": "chunk_26416",
@@ -416,50 +372,6 @@
     "notas": "Entrada do OCR/first_pass sugeria 'sparsi, ōnis' — aqui normalizei para sparsio, -onis f.; falta confirmação em LS/Whitaker, revisar se necessário.\n[ocr_pipeline 2025-08-16T23:28:01.544102Z] lemma_in='sparsio' → 'sparsĭo' | motivo: match direto em LS por lemma/lemma_norm | [ocr_fix 2025-08-17T01:28:57Z] match direto em LS por lemma/lemma_norm | lemma_in='sparsĭo' → 'sparsĭo'",
     "raw_text": "{\"id\":\"chunk_26416:26416:3\",\"lemas\":[\"sparsio\"],\"lema_canonico\":\"sparsio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"aspersão; ato de aspergir (especialmente aspersão de perfume em contextos teatrais e circenses).\",\"aliases\":[],\"exemplos\":[\"Sen. Nat. 2, 9, 1\"],\"notas\":\"Entrada do OCR/first_pass sugeria 'sparsi, ōnis' — aqui normalizei para sparsio, -onis f.; falta confirmação em LS/Whitaker, revisar se necessário.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_26416:26416:3\",\"lemas\":[\"sparsio\"],\"lema_canonico\":\"sparsio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"aspersão; ato de aspergir (especialmente aspersão de perfume em contextos teatrais e circenses).\",\"aliases\":[],\"exemplos\":[\"Sen. Nat. 2, 9, 1\"],\"notas\":\"Entrada do OCR/first_pass sugeria 'sparsi, ōnis' — aqui normalizei para sparsio, -onis f.; falta confirmação em LS/Whitaker, revisar se necessário.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_26416-e4",
-    "volume_id": "faria",
-    "doc_name": "chunk_26416",
-    "page_num": 26416,
-    "lemmas": [
-      "spargo",
-      "spargo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "espalhar, derramar, salpicar; bespregar, jorrar; tr. (lançar, espalhar) e uso intransitivo/figur.",
-    "exemplos": [],
-    "notas": "Verbete normalizado para o verbo pleno spargo, spargere, sparsi, sparsus; presente em LS e Whitaker. | [dedupe] redirect → chunk_26412:26412:0 | [dedupe] redirect → chunk_26412:26412:0",
-    "raw_text": "{\"id\":\"chunk_26416:26416:0\",\"lemas\":[\"spargo\",\"spargere\",\"sparsi\",\"sparsus\"],\"lema_canonico\":\"spargo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"espalhar, derramar, salpicar; bespregar, jorrar; tr. (lançar, espalhar) e uso intransitivo/figur.\",\"aliases\":[],\"exemplos\":[\"Hor. C. 4, 11, 8\",\"Ov. M. 5, 647\"],\"notas\":\"Verbete normalizado para o verbo pleno spargo, spargere, sparsi, sparsus; presente em LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_26416:26416:0\",\"lemas\":[\"spargo\",\"spargere\",\"sparsi\",\"sparsus\"],\"lema_canonico\":\"spargo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"espalhar, derramar, salpicar; bespregar, jorrar; tr. (lançar, espalhar) e uso intransitivo/figur.\",\"aliases\":[],\"exemplos\":[\"Hor. C. 4, 11, 8\",\"Ov. M. 5, 647\"],\"notas\":\"Verbete normalizado para o verbo pleno spargo, spargere, sparsi, sparsus; presente em LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_26417-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_26417",
-    "page_num": 26417,
-    "lemmas": [
-      "Sparta",
-      "Sparta"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Sparta, cidade grega",
-    "exemplos": [],
-    "notas": "Corrigido de particípio/adjetivo para substantivo topónimo; OCR indicou forma confundível. | [dedupe] redirect → chunk_26418:26418:0 | [dedupe] redirect → chunk_26418:26418:0 | [ocr_fix 2025-08-17T19:52:14Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='Sparta' → 'Sparta'",
-    "raw_text": "{\"id\":\"chunk_26417:26417:0\",\"lemas\":[\"Sparta\",\"Spartae\"],\"lema_canonico\":\"Sparta\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Sparta, cidade grega\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigido de particípio/adjetivo para substantivo topónimo; OCR indicou forma confundível.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_26417:26417:0\",\"lemas\":[\"Sparta\",\"Spartae\"],\"lema_canonico\":\"Sparta\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Sparta, cidade grega\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigido de particípio/adjetivo para substantivo topónimo; OCR indicou forma confundível.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
     "id": "chunk_26418-e1",
@@ -1056,28 +968,6 @@
     "raw_json": "{\"id\":\"chunk_26444:26444:0\",\"lemas\":[\"spectaculum\"],\"lema_canonico\":\"spectaculum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"espetáculo, visão, manifestação; também: jogos públicos; no pl.: lugares destinados aos espectadores (tribunas, espectadores' seats).\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 5, 100\",\"Plaut. Poen. 1, 1, 81\",\"Cic. N. D. 2, 56\",\"Hor. Epod. 5, 34\",\"Ov. M. 3, 246\",\"Liv. 39, 43\",\"Verg. A. 6, 37\",\"Plin. Nat. 2, 26, 25\",\"Suet. Aug. 14\"],\"notas\":\"Lema unificado para a forma clássica 'spectaculum'; acepções alinhadas com LS/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_26445-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_26445",
-    "page_num": 26445,
-    "lemmas": [
-      "specimen",
-      "specimen"
-    ],
-    "morfologia": "s. neut. 3ª (-is)",
-    "morph_render": "s. neut. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "marca, sinal; prova, exemplo, espécime; usado principalmente no singular",
-    "exemplos": [],
-    "notas": "Unificado com Lewis & Short e Lat→Deu: genitivo -inis; sentido principal 'marca/prova/exemplo'. | [dedupe] redirect → chunk_26439:26439:0 | [dedupe] redirect → chunk_26439:26439:0",
-    "raw_text": "{\"id\":\"chunk_26445:26445:0\",\"lemas\":[\"specimen\",\"specĭmen\"],\"lema_canonico\":\"specimen\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"marca, sinal; prova, exemplo, espécime; usado principalmente no singular\",\"aliases\":[],\"exemplos\":[\"Plaut. Cas. 3, 1, 2\",\"Lucr. 4, 209\"],\"notas\":\"Unificado com Lewis & Short e Lat→Deu: genitivo -inis; sentido principal 'marca/prova/exemplo'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_26445:26445:0\",\"lemas\":[\"specimen\",\"specĭmen\"],\"lema_canonico\":\"specimen\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"marca, sinal; prova, exemplo, espécime; usado principalmente no singular\",\"aliases\":[],\"exemplos\":[\"Plaut. Cas. 3, 1, 2\",\"Lucr. 4, 209\"],\"notas\":\"Unificado com Lewis & Short e Lat→Deu: genitivo -inis; sentido principal 'marca/prova/exemplo'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_26446-e1",
     "volume_id": "faria",
     "doc_name": "chunk_26446",
@@ -1252,28 +1142,6 @@
     "notas": "Unifiquei grafia e sentidos segundo LS/Whitaker; mantive exemplos clássicos.",
     "raw_text": "{\"id\":\"chunk_26453:26453:0\",\"lemas\":[\"specula\"],\"lema_canonico\":\"specula\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"plataforma ou lugar elevado para observação; também: vigia, vigilância; sentido figurado/poético: ponto elevado, esperança tênue (rare).\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 2, 5, 35\",\"Varr. L. L. 6, § 82\",\"Plaut. Pers. 2, 5, 9\",\"Plaut. Rud. 3, 3, 3\",\"Verg. Buc. 8, 59\"],\"notas\":\"Unifiquei grafia e sentidos segundo LS/Whitaker; mantive exemplos clássicos.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_26453:26453:0\",\"lemas\":[\"specula\"],\"lema_canonico\":\"specula\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"plataforma ou lugar elevado para observação; também: vigia, vigilância; sentido figurado/poético: ponto elevado, esperança tênue (rare).\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 2, 5, 35\",\"Varr. L. L. 6, § 82\",\"Plaut. Pers. 2, 5, 9\",\"Plaut. Rud. 3, 3, 3\",\"Verg. Buc. 8, 59\"],\"notas\":\"Unifiquei grafia e sentidos segundo LS/Whitaker; mantive exemplos clássicos.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_26454-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_26454",
-    "page_num": 26454,
-    "lemmas": [
-      "specula",
-      "specula"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "1) lookout, watch-tower, raised place for observing; 2) slight hope, a slender or faint hope (rare/classical).",
-    "exemplos": [],
-    "notas": "Entradas múltiplas nas fontes: tanto a acepção de torre/observatório quanto a de 'pequena esperança'. | [dedupe] redirect → chunk_26453:26453:0 | [dedupe] redirect → chunk_26453:26453:0",
-    "raw_text": "{\"id\":\"chunk_26454:26454:0\",\"lemas\":[\"specula\",\"speculum\",\"speculae\"],\"lema_canonico\":\"specula\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"1) lookout, watch-tower, raised place for observing; 2) slight hope, a slender or faint hope (rare/classical).\",\"aliases\":[],\"exemplos\":[\"Verg. A. 3, 239\",\"Plaut. Pers. 2, 5, 9\",\"Cic. Clu. 26, 72\"],\"notas\":\"Entradas múltiplas nas fontes: tanto a acepção de torre/observatório quanto a de 'pequena esperança'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_26454:26454:0\",\"lemas\":[\"specula\",\"speculum\",\"speculae\"],\"lema_canonico\":\"specula\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"1) lookout, watch-tower, raised place for observing; 2) slight hope, a slender or faint hope (rare/classical).\",\"aliases\":[],\"exemplos\":[\"Verg. A. 3, 239\",\"Plaut. Pers. 2, 5, 9\",\"Cic. Clu. 26, 72\"],\"notas\":\"Entradas múltiplas nas fontes: tanto a acepção de torre/observatório quanto a de 'pequena esperança'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_26455-e1",
@@ -1496,28 +1364,6 @@
     "raw_json": "{\"id\":\"chunk_26464:26464:0\",\"lemas\":[\"speculum\"],\"lema_canonico\":\"speculum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"espelho; figuradamente, imagem, reprodução, imitação.\",\"aliases\":[],\"exemplos\":[\"Cic. Pis. 71\",\"Cic. Fin. 2, 32\"],\"notas\":\"Grafia e sentidos confirmados por Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_firstpass\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_26465-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_26465",
-    "page_num": 26465,
-    "lemmas": [
-      "spĕcus",
-      "spĕcus"
-    ],
-    "morfologia": "s. masc. 4ª (-us)",
-    "morph_render": "s. masc. 4ª (-us)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "gruta, caverna; canal, conduto coberto; cavidade, fosse (sentidos lit. e figur.).",
-    "exemplos": [],
-    "notas": "Lewis & Short registra masculino (-ūs); Whitaker indica variante neutra — há discrepância entre fontes.\n[ocr_pipeline 2025-08-16T23:21:43.853119Z] lemma_in='specus' → 'spĕcus' | motivo: match direto em LS por lemma/lemma_norm | [ocr_fix 2025-08-17T01:20:24Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='spĕcus' → 'spĕcus' | [dedupe] redirect → chunk_14323:14323:2 | [dedupe] redirect → chunk_14323:14323:2",
-    "raw_text": "{\"id\":\"chunk_26465:26465:0\",\"lemas\":[\"specus\"],\"lema_canonico\":\"specus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"gruta, caverna; canal, conduto coberto; cavidade, fosse (sentidos lit. e figur.).\",\"aliases\":[],\"exemplos\":[\"Liv. 1, 56, 10\",\"Verg. G. 3, 376\",\"Verg. A. 9, 700\"],\"notas\":\"Lewis & Short registra masculino (-ūs); Whitaker indica variante neutra — há discrepância entre fontes.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_firstpass\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_26465:26465:0\",\"lemas\":[\"specus\"],\"lema_canonico\":\"specus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"gruta, caverna; canal, conduto coberto; cavidade, fosse (sentidos lit. e figur.).\",\"aliases\":[],\"exemplos\":[\"Liv. 1, 56, 10\",\"Verg. G. 3, 376\",\"Verg. A. 9, 700\"],\"notas\":\"Lewis & Short registra masculino (-ūs); Whitaker indica variante neutra — há discrepância entre fontes.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_firstpass\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
     "id": "chunk_26466-e1",
     "volume_id": "faria",
     "doc_name": "chunk_26466",
@@ -1560,28 +1406,6 @@
     "notas": "Grafia clássica spēlunca mantida; atestada em LS e Whitaker.",
     "raw_text": "{\"id\":\"chunk_26467:26467:0\",\"lemas\":[\"spelunca\",\"spēlunca\"],\"lema_canonico\":\"spelunca\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"caverna, gruta, antro\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 2, 4, 48\",\"Verg. G. 2, 469\"],\"notas\":\"Grafia clássica spēlunca mantida; atestada em LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_26467:26467:0\",\"lemas\":[\"spelunca\",\"spēlunca\"],\"lema_canonico\":\"spelunca\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"caverna, gruta, antro\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 2, 4, 48\",\"Verg. G. 2, 469\"],\"notas\":\"Grafia clássica spēlunca mantida; atestada em LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_26468-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_26468",
-    "page_num": 26468,
-    "lemmas": [
-      "spelunca",
-      "spelunca"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "cova, gruta; (topónimo) nome da casa de campo de Tibério junto a Terracina",
-    "exemplos": [],
-    "notas": "Unificado com Lewis & Short; inclui acepções comum e topónimo. | [dedupe] redirect → chunk_26467:26467:0 | [dedupe] redirect → chunk_26467:26467:0",
-    "raw_text": "{\"id\":\"chunk_26468:26468:0\",\"lemas\":[\"spelunca\",\"spēlunca\"],\"lema_canonico\":\"spelunca\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"cova, gruta; (topónimo) nome da casa de campo de Tibério junto a Terracina\",\"aliases\":[],\"exemplos\":[\"Tac. An. 4, 59\",\"Suet. Tib. 39\",\"Plin. 3, 5, 9, § 59\"],\"notas\":\"Unificado com Lewis & Short; inclui acepções comum e topónimo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_26468:26468:0\",\"lemas\":[\"spelunca\",\"spēlunca\"],\"lema_canonico\":\"spelunca\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"cova, gruta; (topónimo) nome da casa de campo de Tibério junto a Terracina\",\"aliases\":[],\"exemplos\":[\"Tac. An. 4, 59\",\"Suet. Tib. 39\",\"Plin. 3, 5, 9, § 59\"],\"notas\":\"Unificado com Lewis & Short; inclui acepções comum e topónimo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_26469-e1",
@@ -1804,50 +1628,6 @@
     "raw_json": "{\"id\":\"chunk_26478:26478:0\",\"lemas\":[\"spero\",\"spēro\"],\"lema_canonico\":\"spero\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"ter esperança, esperar; confiar, aguardar algo; também usado com infinitivo ou conjunções finais (expectativa).\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 16, 3, 4\",\"Ter. Eun. 320\",\"Verg. Aen. 11, 275\"],\"notas\":\"Normalizado para spero (infinitivo spērāre) com macron segundo LS; mantida transitividade principal.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_26479-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_26479",
-    "page_num": 26479,
-    "lemmas": [
-      "spes",
-      "spes"
-    ],
-    "morfologia": "s. fem. 5ª (-ei)",
-    "morph_render": "s. fem. 5ª (-ei)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Esperança, expectativa; também a personificação divina Spes.",
-    "exemplos": [],
-    "notas": "Normalizada a forma lema e morfologia conforme Lewis & Short e Lat→Deu. | [dedupe] redirect → chunk_25727:25727:4 | [dedupe] redirect → chunk_25727:25727:4",
-    "raw_text": "{\"id\":\"chunk_26479:26479:0\",\"lemas\":[\"spes\"],\"lema_canonico\":\"spes\",\"morfologia\":\"s. fem. 5ª (-ei)\",\"morph_extra\":[],\"definicao\":\"Esperança, expectativa; também a personificação divina Spes.\",\"aliases\":[],\"exemplos\":[\"Cic. Cat. 2, 25\",\"Verg. A. 5, 672\",\"Liv. 21, 6, 5\"],\"notas\":\"Normalizada a forma lema e morfologia conforme Lewis & Short e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_26479:26479:0\",\"lemas\":[\"spes\"],\"lema_canonico\":\"spes\",\"morfologia\":\"s. fem. 5ª (-ei)\",\"morph_extra\":[],\"definicao\":\"Esperança, expectativa; também a personificação divina Spes.\",\"aliases\":[],\"exemplos\":[\"Cic. Cat. 2, 25\",\"Verg. A. 5, 672\",\"Liv. 21, 6, 5\"],\"notas\":\"Normalizada a forma lema e morfologia conforme Lewis & Short e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_26480-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_26480",
-    "page_num": 26480,
-    "lemmas": [
-      "spes",
-      "spes"
-    ],
-    "morfologia": "s. fem. 5ª (-ei)",
-    "morph_render": "s. fem. 5ª (-ei)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "esperança; expectativa; também a deusa romana Spes, personificação da Esperança.",
-    "exemplos": [],
-    "notas": "Forma e sentido confirmados por Lewis & Short e Lat→Deu; mantido exemplo cit. em first_pass. | [dedupe] redirect → chunk_25727:25727:4 | [dedupe] redirect → chunk_25727:25727:4",
-    "raw_text": "{\"id\":\"chunk_26480:26480:0\",\"lemas\":[\"spes\"],\"lema_canonico\":\"spes\",\"morfologia\":\"s. fem. 5ª (-ei)\",\"morph_extra\":[],\"definicao\":\"esperança; expectativa; também a deusa romana Spes, personificação da Esperança.\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 2, 61\"],\"notas\":\"Forma e sentido confirmados por Lewis & Short e Lat→Deu; mantido exemplo cit. em first_pass.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_26480:26480:0\",\"lemas\":[\"spes\"],\"lema_canonico\":\"spes\",\"morfologia\":\"s. fem. 5ª (-ei)\",\"morph_extra\":[],\"definicao\":\"esperança; expectativa; também a deusa romana Spes, personificação da Esperança.\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 2, 61\"],\"notas\":\"Forma e sentido confirmados por Lewis & Short e Lat→Deu; mantido exemplo cit. em first_pass.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_26481-e1",
     "volume_id": "faria",
     "doc_name": "chunk_26481",
@@ -1868,28 +1648,6 @@
     "notas": "Entrada alinhada com Lewis & Short; grafia preservada. | [ocr_fix 2025-08-17T20:00:27Z] match direto em LS por lemma/lemma_norm | lemma_in='Speusippus' → 'Speusippus'",
     "raw_text": "{\"id\":\"chunk_26481:26481:0\",\"lemas\":[\"Speusippus\"],\"lema_canonico\":\"Speusippus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Filósofo ateniense; sobrinho de Platão e seu sucessor na Academia.\",\"aliases\":[],\"exemplos\":[\"Cic. Ac. 1, 4, 17\",\"Cic. N. D. 1, 13, 32\",\"Cic. de Or. 3, 18, 67\"],\"notas\":\"Entrada alinhada com Lewis & Short; grafia preservada.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_26481:26481:0\",\"lemas\":[\"Speusippus\"],\"lema_canonico\":\"Speusippus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Filósofo ateniense; sobrinho de Platão e seu sucessor na Academia.\",\"aliases\":[],\"exemplos\":[\"Cic. Ac. 1, 4, 17\",\"Cic. N. D. 1, 13, 32\",\"Cic. de Or. 3, 18, 67\"],\"notas\":\"Entrada alinhada com Lewis & Short; grafia preservada.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_26481-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_26481",
-    "page_num": 26481,
-    "lemmas": [
-      "spĕcĭo",
-      "spĕcĭo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Verbo 'specio' (ver, olhar, espiar); as formas 'spel'/'specl' aqui parecem corresponder a formas particípias/variantais atestadas em manuscritos, mas a identificação é incerta.",
-    "exemplos": [],
-    "notas": "Entrada baseada na primeira passada e no OCR; as formas particípias relativas a 'specio' requerem verificação em fontes lexicográficas primárias.\n[ocr_pipeline 2025-08-16T23:28:02.180254Z] lemma_in='specio' → 'spĕcĭo' | motivo: match direto em LS por lemma/lemma_norm | [ocr_fix 2025-08-17T01:28:58Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='spĕcĭo' → 'spĕcĭo' | [dedupe] redirect → chunk_26440:26440:0 | [dedupe] redirect → chunk_26440:26440:0",
-    "raw_text": "{\"id\":\"chunk_26481:26481:1\",\"lemas\":[\"specio\",\"spel\",\"specl\"],\"lema_canonico\":\"specio\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Verbo 'specio' (ver, olhar, espiar); as formas 'spel'/'specl' aqui parecem corresponder a formas particípias/variantais atestadas em manuscritos, mas a identificação é incerta.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada baseada na primeira passada e no OCR; as formas particípias relativas a 'specio' requerem verificação em fontes lexicográficas primárias.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_26481:26481:1\",\"lemas\":[\"specio\",\"spel\",\"specl\"],\"lema_canonico\":\"specio\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Verbo 'specio' (ver, olhar, espiar); as formas 'spel'/'specl' aqui parecem corresponder a formas particípias/variantais atestadas em manuscritos, mas a identificação é incerta.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada baseada na primeira passada e no OCR; as formas particípias relativas a 'specio' requerem verificação em fontes lexicográficas primárias.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
     "id": "chunk_26482-e1",
@@ -2046,28 +1804,6 @@
     "raw_json": "{\"id\":\"chunk_26488:26488:0\",\"lemas\":[\"spicifer\",\"spicifera\",\"spiciferum\"],\"lema_canonico\":\"spicifer\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"carrying ears of corn; ear‑bearing; poet. epithet applied to crops or deities (e.g. Ceres).\",\"aliases\":[],\"exemplos\":[\"Manil. 2, 442\",\"Sen. Herc. Oet. 598\"],\"notas\":\"Grafia e forma confirmadas (spīcĭfer, -fera, -ferum).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_26488-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_26488",
-    "page_num": 26488,
-    "lemmas": [
-      "specio",
-      "specio"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "speciō, -ere: olhar, ver, contemplar; spicio forma variante/arcáica equivalente (cf. spĭcĭo = spĕcĭo).",
-    "exemplos": [],
-    "notas": "Unificadas as grafias variantes; escolhido specio como lema canónico (LS confirma equivalência). | [dedupe] redirect → chunk_26440:26440:0 | [dedupe] redirect → chunk_26440:26440:0",
-    "raw_text": "{\"id\":\"chunk_26488:26488:1\",\"lemas\":[\"specio\",\"spicio\"],\"lema_canonico\":\"specio\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"speciō, -ere: olhar, ver, contemplar; spicio forma variante/arcáica equivalente (cf. spĭcĭo = spĕcĭo).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Unificadas as grafias variantes; escolhido specio como lema canónico (LS confirma equivalência).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_26488:26488:1\",\"lemas\":[\"specio\",\"spicio\"],\"lema_canonico\":\"specio\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"speciō, -ere: olhar, ver, contemplar; spicio forma variante/arcáica equivalente (cf. spĭcĭo = spĕcĭo).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Unificadas as grafias variantes; escolhido specio como lema canónico (LS confirma equivalência).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_26489-e1",
     "volume_id": "faria",
     "doc_name": "chunk_26489",
@@ -2090,28 +1826,6 @@
     "raw_json": "{\"id\":\"chunk_26489:26489:0\",\"lemas\":[\"spico\",\"spīco\"],\"lema_canonico\":\"spico\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"Pôr em espiga; produzir espigas; fornecer com espigas (part. perf. freq. em Plínio).\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 18, 60\"],\"notas\":\"Alinhado com Lewis & Short: spīco, -ātum, v. a.; macrons padronizados.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_26490-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_26490",
-    "page_num": 26490,
-    "lemmas": [
-      "spiculum",
-      "spiculum"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "1) spīculum, n.: pequena ponta, ferrão; ponta de arma; dardo, seta. 2) spīcŭla (dim.): variante f. diminutiva usada também como forma coletiva/vernacular. 3) spiculō / spiculāre, v. tr.: apontar, aguçar; rare/post‑class. ‘to sharpen, to point’ (c. Plin.).",
-    "exemplos": [],
-    "notas": "Combinação de substantivo (spiculum/spicula) com verbo raro post‑class. (spiculō/spiculāre). Escolhido spiculum como lema canónico. | [dedupe] redirect → chunk_26491:26491:0 | [dedupe] redirect → chunk_26491:26491:0",
-    "raw_text": "{\"id\":\"chunk_26490:26490:0\",\"lemas\":[\"spiculum\",\"spicula\",\"spiculō\",\"spiculāre\"],\"lema_canonico\":\"spiculum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"1) spīculum, n.: pequena ponta, ferrão; ponta de arma; dardo, seta. 2) spīcŭla (dim.): variante f. diminutiva usada também como forma coletiva/vernacular. 3) spiculō / spiculāre, v. tr.: apontar, aguçar; rare/post‑class. ‘to sharpen, to point’ (c. Plin.).\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 11, 3\",\"Verg. G. 4, 237\"],\"notas\":\"Combinação de substantivo (spiculum/spicula) com verbo raro post‑class. (spiculō/spiculāre). Escolhido spiculum como lema canónico.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_26490:26490:0\",\"lemas\":[\"spiculum\",\"spicula\",\"spiculō\",\"spiculāre\"],\"lema_canonico\":\"spiculum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"1) spīculum, n.: pequena ponta, ferrão; ponta de arma; dardo, seta. 2) spīcŭla (dim.): variante f. diminutiva usada também como forma coletiva/vernacular. 3) spiculō / spiculāre, v. tr.: apontar, aguçar; rare/post‑class. ‘to sharpen, to point’ (c. Plin.).\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 11, 3\",\"Verg. G. 4, 237\"],\"notas\":\"Combinação de substantivo (spiculum/spicula) com verbo raro post‑class. (spiculō/spiculāre). Escolhido spiculum como lema canónico.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_26491-e1",
     "volume_id": "faria",
     "doc_name": "chunk_26491",
@@ -2132,28 +1846,6 @@
     "notas": "Formas canónicas e sentidos conforme LS e Whitaker; variantes ortográficas indicadas.",
     "raw_text": "{\"id\":\"chunk_26491:26491:0\",\"lemas\":[\"spiculum\",\"spiclum\",\"spiculum\"],\"lema_canonico\":\"spiculum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Ponta aguçada; ponta de dardo ou flecha; por extensão, dardo, ferrão (de inseto).\",\"aliases\":[],\"exemplos\":[\"Hor. O. 1, 15, 17\",\"Verg. E. 10, 60\",\"Ov. F. 5, 542\"],\"notas\":\"Formas canónicas e sentidos conforme LS e Whitaker; variantes ortográficas indicadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_26491:26491:0\",\"lemas\":[\"spiculum\",\"spiclum\",\"spiculum\"],\"lema_canonico\":\"spiculum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Ponta aguçada; ponta de dardo ou flecha; por extensão, dardo, ferrão (de inseto).\",\"aliases\":[],\"exemplos\":[\"Hor. O. 1, 15, 17\",\"Verg. E. 10, 60\",\"Ov. F. 5, 542\"],\"notas\":\"Formas canónicas e sentidos conforme LS e Whitaker; variantes ortográficas indicadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_26492-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_26492",
-    "page_num": 26492,
-    "lemmas": [
-      "spica",
-      "spica"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Espiga; cabeça/espiga de cereal (ear of grain).",
-    "exemplos": [],
-    "notas": "Corroborado por Lewis & Short e Whitaker; variantes colativas (spīcum, spīcus) atestadas em LS. | [dedupe] redirect → chunk_26485:26485:0 | [dedupe] redirect → chunk_26485:26485:0",
-    "raw_text": "{\"id\":\"chunk_26492:26492:0\",\"lemas\":[\"spica\",\"spīca\",\"spēca\"],\"lema_canonico\":\"spica\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Espiga; cabeça/espiga de cereal (ear of grain).\",\"aliases\":[],\"exemplos\":[\"Cic. M. C. 511\"],\"notas\":\"Corroborado por Lewis & Short e Whitaker; variantes colativas (spīcum, spīcus) atestadas em LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_26492:26492:0\",\"lemas\":[\"spica\",\"spīca\",\"spēca\"],\"lema_canonico\":\"spica\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Espiga; cabeça/espiga de cereal (ear of grain).\",\"aliases\":[],\"exemplos\":[\"Cic. M. C. 511\"],\"notas\":\"Corroborado por Lewis & Short e Whitaker; variantes colativas (spīcum, spīcus) atestadas em LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_26493-e1",
@@ -2242,28 +1934,6 @@
     "notas": "Normalizado como nome próprio 3ª declinação (Spīno, -ōnis) conforme LS. | [ocr_fix 2025-08-17T19:52:15Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='Spino' → 'Spīno'",
     "raw_text": "{\"id\":\"chunk_26496:26496:0\",\"lemas\":[\"Spino\",\"spino\"],\"lema_canonico\":\"Spino\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Topônimo: pequeno curso de água perto de Roma a quem se prestavam honras divinas.\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. D. 3, 20, 52\"],\"notas\":\"Normalizado como nome próprio 3ª declinação (Spīno, -ōnis) conforme LS.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_26496:26496:0\",\"lemas\":[\"Spino\",\"spino\"],\"lema_canonico\":\"Spino\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Topônimo: pequeno curso de água perto de Roma a quem se prestavam honras divinas.\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. D. 3, 20, 52\"],\"notas\":\"Normalizado como nome próprio 3ª declinação (Spīno, -ōnis) conforme LS.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_26497-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_26497",
-    "page_num": 26497,
-    "lemmas": [
-      "spinosus",
-      "spinosus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "cheio de espinhos; figuradamente áspero, obscuro, difícil (estilo crabbed, perplexing).",
-    "exemplos": [],
-    "notas": "Padronizado com base em Lewis & Short e Whitaker; variantes de gênero incluídas. | [dedupe] redirect → chunk_26495:26495:0 | [dedupe] redirect → chunk_26495:26495:0",
-    "raw_text": "{\"id\":\"chunk_26497:26497:0\",\"lemas\":[\"spīnōsus\",\"spinosus\",\"spinosa\",\"spinosum\"],\"lema_canonico\":\"spinosus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"cheio de espinhos; figuradamente áspero, obscuro, difícil (estilo crabbed, perplexing).\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 19, 47\",\"Cic. Fin. 3, 1, 3\",\"Ov. Met. 2, 810\"],\"notas\":\"Padronizado com base em Lewis & Short e Whitaker; variantes de gênero incluídas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_26497:26497:0\",\"lemas\":[\"spīnōsus\",\"spinosus\",\"spinosa\",\"spinosum\"],\"lema_canonico\":\"spinosus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"cheio de espinhos; figuradamente áspero, obscuro, difícil (estilo crabbed, perplexing).\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 19, 47\",\"Cic. Fin. 3, 1, 3\",\"Ov. Met. 2, 810\"],\"notas\":\"Padronizado com base em Lewis & Short e Whitaker; variantes de gênero incluídas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_26498-e1",
@@ -2442,28 +2112,6 @@
     "raw_json": "{\"id\":\"chunk_26504:26504:0\",\"lemas\":[\"spirabilis\",\"spirabile\"],\"lema_canonico\":\"spirabilis\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"Respirável; que pode ser respirado; também: que sustenta a vida, vital; (transf.) próprio para respirar.\",\"aliases\":[],\"exemplos\":[\"Cic. N. D. 2, 36, 91\",\"Cic. N. D. 2, 6, 18\",\"Cic. Tusc. 1, 17, 40\",\"Verg. A. 3, 600\",\"Plin. 9, 7, 6\"],\"notas\":\"Normalizado a partir de LS/Whitaker/Lat→Deu; formas masc./fem. e neutro incluídas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_26505-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_26505",
-    "page_num": 26505,
-    "lemmas": [
-      "spīra",
-      "spīra"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Spira: volta, espira, enrolamento; trecho enrolado, dobra; (técn.) parte torcida ou enrolada (ex.: base de coluna, funis).",
-    "exemplos": [],
-    "notas": "Entrada original apresentada como composto 'spira et lūm' no first_pass; compósito não atestado nas fontes principais — mantive 'spira' como lema e deixei a forma composta como alias para revisão. | [dedupe] redirect → chunk_26503:26503:0 | [dedupe] redirect → chunk_26503:26503:0 | [ocr_fix 2025-08-17T20:00:28Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='spira' → 'spīra'",
-    "raw_text": "{\"id\":\"chunk_26505:26505:0\",\"lemas\":[\"spira\"],\"lema_canonico\":\"spira\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Spira: volta, espira, enrolamento; trecho enrolado, dobra; (técn.) parte torcida ou enrolada (ex.: base de coluna, funis).\",\"aliases\":[\"spira et lūm\"],\"exemplos\":[\"Verg. En. 7, 568\"],\"notas\":\"Entrada original apresentada como composto 'spira et lūm' no first_pass; compósito não atestado nas fontes principais — mantive 'spira' como lema e deixei a forma composta como alias para revisão.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"src_ocr\",\"conf:med\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_26505:26505:0\",\"lemas\":[\"spira\"],\"lema_canonico\":\"spira\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Spira: volta, espira, enrolamento; trecho enrolado, dobra; (técn.) parte torcida ou enrolada (ex.: base de coluna, funis).\",\"aliases\":[\"spira et lūm\"],\"exemplos\":[\"Verg. En. 7, 568\"],\"notas\":\"Entrada original apresentada como composto 'spira et lūm' no first_pass; compósito não atestado nas fontes principais — mantive 'spira' como lema e deixei a forma composta como alias para revisão.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"src_ocr\",\"conf:med\",\"needs_review\"]}"
-  },
-  {
     "id": "chunk_26506-e1",
     "volume_id": "faria",
     "doc_name": "chunk_26506",
@@ -2508,28 +2156,6 @@
     "raw_json": "{\"id\":\"chunk_26507:26507:0\",\"lemas\":[\"spiramentum\",\"spirāmentum\"],\"lema_canonico\":\"spiramentum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"respiradouro, canal ou orifício para a respiração; por extensão: pausa, intervalo respiratório, respiração/vento de ar.\",\"aliases\":[],\"exemplos\":[\"Verg. G. 1, 90\",\"Ov. M. 15, 343\"],\"notas\":\"Grafia com macron indicada; sentidos e citações confirmadas por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_26508-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_26508",
-    "page_num": 26508,
-    "lemmas": [
-      "spiro",
-      "spiro"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "spīrāre: respirar, soprar, emitir ou exalar; viver, prosperar; também 'cheirar, exalar perfume' (uso literário).",
-    "exemplos": [],
-    "notas": "Formas e sentidos confirmados por Lewis & Short e Whitaker. | [dedupe] redirect → chunk_26511:26511:0 | [dedupe] redirect → chunk_26511:26511:0",
-    "raw_text": "{\"id\":\"chunk_26508:26508:0\",\"lemas\":[\"spiro\"],\"lema_canonico\":\"spiro\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"spīrāre: respirar, soprar, emitir ou exalar; viver, prosperar; também 'cheirar, exalar perfume' (uso literário).\",\"aliases\":[],\"exemplos\":[\"Lucr. 6, 428\",\"Ov. M. 7, 532\"],\"notas\":\"Formas e sentidos confirmados por Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_26508:26508:0\",\"lemas\":[\"spiro\"],\"lema_canonico\":\"spiro\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"spīrāre: respirar, soprar, emitir ou exalar; viver, prosperar; também 'cheirar, exalar perfume' (uso literário).\",\"aliases\":[],\"exemplos\":[\"Lucr. 6, 428\",\"Ov. M. 7, 532\"],\"notas\":\"Formas e sentidos confirmados por Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_26508-e2",
     "volume_id": "faria",
     "doc_name": "chunk_26508",
@@ -2572,28 +2198,6 @@
     "notas": "Nome próprio atestado; grafia macronizada preservada. Verificar ocorrência em lemmataria maiores.",
     "raw_text": "{\"id\":\"chunk_26509:26509:0\",\"lemas\":[\"Spīridōn\",\"Spiridon\"],\"lema_canonico\":\"Spīridōn\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"personal name (male); Latinized form of Greek Spyridon\",\"aliases\":[],\"exemplos\":[\"Quint. 6, 1, 41\"],\"notas\":\"Nome próprio atestado; grafia macronizada preservada. Verificar ocorrência em lemmataria maiores.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_26509:26509:0\",\"lemas\":[\"Spīridōn\",\"Spiridon\"],\"lema_canonico\":\"Spīridōn\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"personal name (male); Latinized form of Greek Spyridon\",\"aliases\":[],\"exemplos\":[\"Quint. 6, 1, 41\"],\"notas\":\"Nome próprio atestado; grafia macronizada preservada. Verificar ocorrência em lemmataria maiores.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_26510-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_26510",
-    "page_num": 26510,
-    "lemmas": [
-      "spīrĭtus",
-      "spīritus"
-    ],
-    "morfologia": "s. masc. 4ª (-us)",
-    "morph_render": "s. masc. 4ª (-us)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "sopro, vento, hálito; por extensão: suspiro, inspiração divina, ânimo, espírito, alma; uso eclesiástico: Espírito Santo",
-    "exemplos": [],
-    "notas": "Grafia e macron conforme LS; morfologia ajustada para 4ª declinação masculina. | [dedupe] redirect → chunk_26585:26585:0 | [dedupe] redirect → chunk_26585:26585:0 | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='spīritus' → 'spīrĭtus'",
-    "raw_text": "{\"id\":\"chunk_26510:26510:0\",\"lemas\":[\"spīritus\",\"spiritus\",\"spīritŭs\"],\"lema_canonico\":\"spīritus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"sopro, vento, hálito; por extensão: suspiro, inspiração divina, ânimo, espírito, alma; uso eclesiástico: Espírito Santo\",\"aliases\":[],\"exemplos\":[\"Verg. A. 12, 365\",\"Cic. R.R. 1, 57\",\"Hor. Ep. 1, 10, 4\",\"Hor. Carm. 4, 6, 29\",\"T. Liv. 2, 35\",\"Cic. Phil. 8, 24\",\"Ov. Met. 15, 167\"],\"notas\":\"Grafia e macron conforme LS; morfologia ajustada para 4ª declinação masculina.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_26510:26510:0\",\"lemas\":[\"spīritus\",\"spiritus\",\"spīritŭs\"],\"lema_canonico\":\"spīritus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"sopro, vento, hálito; por extensão: suspiro, inspiração divina, ânimo, espírito, alma; uso eclesiástico: Espírito Santo\",\"aliases\":[],\"exemplos\":[\"Verg. A. 12, 365\",\"Cic. R.R. 1, 57\",\"Hor. Ep. 1, 10, 4\",\"Hor. Carm. 4, 6, 29\",\"T. Liv. 2, 35\",\"Cic. Phil. 8, 24\",\"Ov. Met. 15, 167\"],\"notas\":\"Grafia e macron conforme LS; morfologia ajustada para 4ª declinação masculina.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_26511-e1",
@@ -2792,28 +2396,6 @@
     "notas": "Forma conservada da primeira passada; não confirmada em LS/Whitaker resumidos; revisão necessária.",
     "raw_text": "{\"id\":\"chunk_26519:26519:0\",\"lemas\":[\"spilēn\",\"spilēns\"],\"lema_canonico\":\"spilēns\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"(suposto) Baco — atestado apenas em testemunho editorial/poético citado; precisa confirmação em dicionários principais.\",\"aliases\":[],\"exemplos\":[\"Pers. 1, 12\"],\"notas\":\"Forma conservada da primeira passada; não confirmada em LS/Whitaker resumidos; revisão necessária.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_26519:26519:0\",\"lemas\":[\"spilēn\",\"spilēns\"],\"lema_canonico\":\"spilēns\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"(suposto) Baco — atestado apenas em testemunho editorial/poético citado; precisa confirmação em dicionários principais.\",\"aliases\":[],\"exemplos\":[\"Pers. 1, 12\"],\"notas\":\"Forma conservada da primeira passada; não confirmada em LS/Whitaker resumidos; revisão necessária.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_26520-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_26520",
-    "page_num": 26520,
-    "lemmas": [
-      "splendeo",
-      "splendeo"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "brilhar, resplandecer; cintilar (principalmente poético)",
-    "exemplos": [],
-    "notas": "Unificada grafia (splendeo); formas e conjugação confirmadas em LS e Lat→Deu. | [dedupe] redirect → chunk_26522:26522:0 | [dedupe] redirect → chunk_26522:26522:0",
-    "raw_text": "{\"id\":\"chunk_26520:26520:0\",\"lemas\":[\"splendeo\",\"splendĕo\"],\"lema_canonico\":\"splendeo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"brilhar, resplandecer; cintilar (principalmente poético)\",\"aliases\":[],\"exemplos\":[\"Verg. A. 1, 9\",\"Cic. Sest. 28, 60\"],\"notas\":\"Unificada grafia (splendeo); formas e conjugação confirmadas em LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_26520:26520:0\",\"lemas\":[\"splendeo\",\"splendĕo\"],\"lema_canonico\":\"splendeo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"brilhar, resplandecer; cintilar (principalmente poético)\",\"aliases\":[],\"exemplos\":[\"Verg. A. 1, 9\",\"Cic. Sest. 28, 60\"],\"notas\":\"Unificada grafia (splendeo); formas e conjugação confirmadas em LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_26521-e1",
@@ -3344,50 +2926,6 @@
     "raw_json": "{\"id\":\"chunk_26543:26543:0\",\"lemas\":[\"sponsa\"],\"lema_canonico\":\"sponsa\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"noiva, mulher desposada; também: promissária, prometida (uso substantivado do participio).\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 1, 16, 6\",\"Cic. Nat. 2, 136\"],\"notas\":\"Preferida acepção 'noiva' conforme dicionários; mantenho citação do primeiro passo como possível ocorrência textual.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_26544-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_26544",
-    "page_num": 26544,
-    "lemmas": [
-      "spondeo",
-      "spondeo"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "prometer, jurar; particípio perfeito passivo usado como adjetivo/substantivo 'prometida, desposada' (sponsa).",
-    "exemplos": [],
-    "notas": "Entrada original representava o particípio substantivado; converti para o verbo-base spondeō e marquei o particípio. | [dedupe] redirect → chunk_26540:26540:0 | [dedupe] redirect → chunk_26540:26540:0",
-    "raw_text": "{\"id\":\"chunk_26544:26544:0\",\"lemas\":[\"spondeo\"],\"lema_canonico\":\"spondeo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"prometer, jurar; particípio perfeito passivo usado como adjetivo/substantivo 'prometida, desposada' (sponsa).\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 1, 16, 6\"],\"notas\":\"Entrada original representava o particípio substantivado; converti para o verbo-base spondeō e marquei o particípio.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_26544:26544:0\",\"lemas\":[\"spondeo\"],\"lema_canonico\":\"spondeo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"prometer, jurar; particípio perfeito passivo usado como adjetivo/substantivo 'prometida, desposada' (sponsa).\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 1, 16, 6\"],\"notas\":\"Entrada original representava o particípio substantivado; converti para o verbo-base spondeō e marquei o particípio.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_26545-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_26545",
-    "page_num": 26545,
-    "lemmas": [
-      "sponsa",
-      "sponsa"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "noiva; mulher prometida, betrothed woman; também: consentimento/accord (nom. neut. homographum exists)",
-    "exemplos": [],
-    "notas": "Correção confirmada: substantivo feminino 1ª decl. (LS, Whitaker, Lat→Deu). | [dedupe] redirect → chunk_26543:26543:0 | [dedupe] redirect → chunk_26543:26543:0",
-    "raw_text": "{\"id\":\"chunk_26545:26545:0\",\"lemas\":[\"sponsa\"],\"lema_canonico\":\"sponsa\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"noiva; mulher prometida, betrothed woman; também: consentimento/accord (nom. neut. homographum exists)\",\"aliases\":[],\"exemplos\":[\"Hor. O. 4, 6, 21\"],\"notas\":\"Correção confirmada: substantivo feminino 1ª decl. (LS, Whitaker, Lat→Deu).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_26545:26545:0\",\"lemas\":[\"sponsa\"],\"lema_canonico\":\"sponsa\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"noiva; mulher prometida, betrothed woman; também: consentimento/accord (nom. neut. homographum exists)\",\"aliases\":[],\"exemplos\":[\"Hor. O. 4, 6, 21\"],\"notas\":\"Correção confirmada: substantivo feminino 1ª decl. (LS, Whitaker, Lat→Deu).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_26546-e1",
     "volume_id": "faria",
     "doc_name": "chunk_26546",
@@ -3606,72 +3144,6 @@
     "notas": "Normalizado lema para 'spons' com genitivo spontis conforme LS/Whitaker.",
     "raw_text": "{\"id\":\"chunk_26554:26554:2\",\"lemas\":[\"spons\"],\"lema_canonico\":\"spons\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"substantivo arcaico/poético: vontade, livre-arbítrio; ocorre sobretudo em genitivo suae spontis (‘na própria vontade’).\",\"aliases\":[],\"exemplos\":[\"Cels. 1, 1\"],\"notas\":\"Normalizado lema para 'spons' com genitivo spontis conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_26554:26554:2\",\"lemas\":[\"spons\"],\"lema_canonico\":\"spons\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"substantivo arcaico/poético: vontade, livre-arbítrio; ocorre sobretudo em genitivo suae spontis (‘na própria vontade’).\",\"aliases\":[],\"exemplos\":[\"Cels. 1, 1\"],\"notas\":\"Normalizado lema para 'spons' com genitivo spontis conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_26554-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_26554",
-    "page_num": 26554,
-    "lemmas": [
-      "sponsus",
-      "sponsus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "betrothal, engagement; a betrothed man; (rarely) bail or suretyship; also the perfect participle of spondeō.",
-    "exemplos": [],
-    "notas": "Mantida forma substantiva como principal; assinalei origem participial conforme LS/Whitaker. | [dedupe] redirect → chunk_26553:26553:0 | [dedupe] redirect → chunk_26553:26553:0",
-    "raw_text": "{\"id\":\"chunk_26554:26554:0\",\"lemas\":[\"sponsus\"],\"lema_canonico\":\"sponsus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"betrothal, engagement; a betrothed man; (rarely) bail or suretyship; also the perfect participle of spondeō.\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 12, 19, 2\",\"Varr. L. L. 6, §71\"],\"notas\":\"Mantida forma substantiva como principal; assinalei origem participial conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_26554:26554:0\",\"lemas\":[\"sponsus\"],\"lema_canonico\":\"sponsus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"betrothal, engagement; a betrothed man; (rarely) bail or suretyship; also the perfect participle of spondeō.\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 12, 19, 2\",\"Varr. L. L. 6, §71\"],\"notas\":\"Mantida forma substantiva como principal; assinalei origem participial conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_26555-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_26555",
-    "page_num": 26555,
-    "lemmas": [
-      "spons",
-      "spons"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "vontade livre; livre arbítrio (sponte, espontaneidade)",
-    "exemplos": [],
-    "notas": "Corresponde a spons (3ª decl.) = 'free will'; corrigido a partir da confusão OCR/first_pass. | [dedupe] redirect → chunk_26554:26554:2 | [dedupe] redirect → chunk_26554:26554:2",
-    "raw_text": "{\"id\":\"chunk_26555:26555:0\",\"lemas\":[\"spons\"],\"lema_canonico\":\"spons\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"vontade livre; livre arbítrio (sponte, espontaneidade)\",\"aliases\":[\"spontis\"],\"exemplos\":[],\"notas\":\"Corresponde a spons (3ª decl.) = 'free will'; corrigido a partir da confusão OCR/first_pass.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_26555:26555:0\",\"lemas\":[\"spons\"],\"lema_canonico\":\"spons\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"vontade livre; livre arbítrio (sponte, espontaneidade)\",\"aliases\":[\"spontis\"],\"exemplos\":[],\"notas\":\"Corresponde a spons (3ª decl.) = 'free will'; corrigido a partir da confusão OCR/first_pass.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_26555-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_26555",
-    "page_num": 26555,
-    "lemmas": [
-      "spondeo",
-      "spondeo"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "prometer, dar garantia; jurar; verloben (to pledge, promise)",
-    "exemplos": [],
-    "notas": "Entrada 'spondi' retificada para o infinitivo spondeo (ver perf. spondi). Fontes: LS, Whitaker. | [dedupe] redirect → chunk_26540:26540:0 | [dedupe] redirect → chunk_26540:26540:0",
-    "raw_text": "{\"id\":\"chunk_26555:26555:1\",\"lemas\":[\"spondeo\"],\"lema_canonico\":\"spondeo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"prometer, dar garantia; jurar; verloben (to pledge, promise)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada 'spondi' retificada para o infinitivo spondeo (ver perf. spondi). Fontes: LS, Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_26555:26555:1\",\"lemas\":[\"spondeo\"],\"lema_canonico\":\"spondeo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"prometer, dar garantia; jurar; verloben (to pledge, promise)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada 'spondi' retificada para o infinitivo spondeo (ver perf. spondi). Fontes: LS, Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_26556-e1",
@@ -4422,28 +3894,6 @@
     "raw_json": "{\"id\":\"chunk_26589:26589:0\",\"lemas\":[\"itas\"],\"lema_canonico\":\"itas\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"sufixo formador de substantivos abstratos (equivalente a -idade/-ness).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Classe como sufixo; morfologia não cabe no vocabulário padrão.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\",\"morph_out_of_vocab\"]}"
   },
   {
-    "id": "chunk_26589-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_26589",
-    "page_num": 26589,
-    "lemmas": [
-      "eo",
-      "eo"
-    ],
-    "morfologia": "v. 4ª (-īre)",
-    "morph_render": "v. 4ª (-īre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "verbo ire (3. pers. sg. praesentis indicativi: it) — ir, ir-se, andar, vir; (formas irregulares: eō, iī, itum).",
-    "exemplos": [],
-    "notas": "Entrada original tratava 'it' como sufixo; corrigido para forma verbal (3ª sg it ← eo, īre). | [dedupe] redirect → chunk_14952:14952:1 | [dedupe] redirect → chunk_14952:14952:1",
-    "raw_text": "{\"id\":\"chunk_26589:26589:1\",\"lemas\":[\"eo\",\"ire\"],\"lema_canonico\":\"eo\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"verbo ire (3. pers. sg. praesentis indicativi: it) — ir, ir-se, andar, vir; (formas irregulares: eō, iī, itum).\",\"aliases\":[\"it\"],\"exemplos\":[],\"notas\":\"Entrada original tratava 'it' como sufixo; corrigido para forma verbal (3ª sg it ← eo, īre).\",\"flags\":[\"src_latdeu\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_26589:26589:1\",\"lemas\":[\"eo\",\"ire\"],\"lema_canonico\":\"eo\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"verbo ire (3. pers. sg. praesentis indicativi: it) — ir, ir-se, andar, vir; (formas irregulares: eō, iī, itum).\",\"aliases\":[\"it\"],\"exemplos\":[],\"notas\":\"Entrada original tratava 'it' como sufixo; corrigido para forma verbal (3ª sg it ← eo, īre).\",\"flags\":[\"src_latdeu\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_26589-e3",
     "volume_id": "faria",
     "doc_name": "chunk_26589",
@@ -4532,50 +3982,6 @@
     "raw_json": "{\"id\":\"chunk_26590:26590:2\",\"lemas\":[\"squalidor\",\"squālĭdōr\"],\"lema_canonico\":\"squalidor\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"aparência sórdida; aspecto de miséria ou imundície (forma atestada no manuscrito/obra moderna).\",\"aliases\":[],\"exemplos\":[\"Ac. Tr. 340\"],\"notas\":\"Forma ambígua e possivelmente corrompida no OCR; gênero e terminação em -ōris incomuns para substantivos latinos em -or; revisão necessária.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_26590-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_26590",
-    "page_num": 26590,
-    "lemmas": [
-      "squalus",
-      "squalus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Peixe (espécie citada na literatura); também atestada como adjetivo 'squalidus' = sujo, escabroso (ver notas).",
-    "exemplos": [],
-    "notas": "LS registra tanto o substantivo (squălus, -i) quanto forma adjectival (squālus, a, um); mantida a forma substantiva como principal aqui. | [dedupe] redirect → chunk_26589:26589:3 | [dedupe] redirect → chunk_26589:26589:3",
-    "raw_text": "{\"id\":\"chunk_26590:26590:0\",\"lemas\":[\"squalus\",\"squălus\"],\"lema_canonico\":\"squalus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Peixe (espécie citada na literatura); também atestada como adjetivo 'squalidus' = sujo, escabroso (ver notas).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"LS registra tanto o substantivo (squălus, -i) quanto forma adjectival (squālus, a, um); mantida a forma substantiva como principal aqui.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_26590:26590:0\",\"lemas\":[\"squalus\",\"squălus\"],\"lema_canonico\":\"squalus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Peixe (espécie citada na literatura); também atestada como adjetivo 'squalidus' = sujo, escabroso (ver notas).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"LS registra tanto o substantivo (squălus, -i) quanto forma adjectival (squālus, a, um); mantida a forma substantiva como principal aqui.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_26590-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_26590",
-    "page_num": 26590,
-    "lemmas": [
-      "do",
-      "do"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Dar; entregar, conceder, outorgar; oferecer; destinar; atribuir (ver paradigma: dō, dedī, datum).",
-    "exemplos": [],
-    "notas": "Paradigma e sentidos confirmados por Lewis & Short e Lat→Deu. | [dedupe] redirect → chunk_23710:23710:1 | [dedupe] redirect → chunk_23710:23710:1",
-    "raw_text": "{\"id\":\"chunk_26590:26590:1\",\"lemas\":[\"do\",\"dare\"],\"lema_canonico\":\"do\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"Dar; entregar, conceder, outorgar; oferecer; destinar; atribuir (ver paradigma: dō, dedī, datum).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Paradigma e sentidos confirmados por Lewis & Short e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_26590:26590:1\",\"lemas\":[\"do\",\"dare\"],\"lema_canonico\":\"do\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"Dar; entregar, conceder, outorgar; oferecer; destinar; atribuir (ver paradigma: dō, dedī, datum).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Paradigma e sentidos confirmados por Lewis & Short e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_26591-e1",
     "volume_id": "faria",
     "doc_name": "chunk_26591",
@@ -4662,28 +4068,6 @@
     "notas": "Entrada alinhada com LS: forma adjectival e substantivação (squāmigĕri, -ōrum).",
     "raw_text": "{\"id\":\"chunk_26594:26594:0\",\"lemas\":[\"squamiger\",\"squāmiger\"],\"lema_canonico\":\"squamiger\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Que tem escamas; escamoso. (adj.; também substantivado no pl. masculino para 'peixes')\",\"aliases\":[],\"exemplos\":[\"Cic. Arat. 328\",\"Ov. Met. 4, 717\",\"Lucr. 1, 162\"],\"notas\":\"Entrada alinhada com LS: forma adjectival e substantivação (squāmigĕri, -ōrum).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_26594:26594:0\",\"lemas\":[\"squamiger\",\"squāmiger\"],\"lema_canonico\":\"squamiger\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Que tem escamas; escamoso. (adj.; também substantivado no pl. masculino para 'peixes')\",\"aliases\":[],\"exemplos\":[\"Cic. Arat. 328\",\"Ov. Met. 4, 717\",\"Lucr. 1, 162\"],\"notas\":\"Entrada alinhada com LS: forma adjectival e substantivação (squāmigĕri, -ōrum).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_26595-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_26595",
-    "page_num": 26595,
-    "lemmas": [
-      "squamosus",
-      "squamosus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Coberto de escamas; escamoso. (uso literário e pós‑augustino)",
-    "exemplos": [],
-    "notas": "Unifiquei grafias com base em LS e Whitaker; mantida variante com macron. | [dedupe] redirect → chunk_26593:26593:0 | [dedupe] redirect → chunk_26593:26593:0",
-    "raw_text": "{\"id\":\"chunk_26595:26595:0\",\"lemas\":[\"squamosus\",\"squamōsus\",\"squāmōsus\"],\"lema_canonico\":\"squamosus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Coberto de escamas; escamoso. (uso literário e pós‑augustino)\",\"aliases\":[],\"exemplos\":[\"Verg. G. 4, 408\",\"Luc. 4, 325\"],\"notas\":\"Unifiquei grafias com base em LS e Whitaker; mantida variante com macron.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_26595:26595:0\",\"lemas\":[\"squamosus\",\"squamōsus\",\"squāmōsus\"],\"lema_canonico\":\"squamosus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Coberto de escamas; escamoso. (uso literário e pós‑augustino)\",\"aliases\":[],\"exemplos\":[\"Verg. G. 4, 408\",\"Luc. 4, 325\"],\"notas\":\"Unifiquei grafias com base em LS e Whitaker; mantida variante com macron.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_26596-e1",

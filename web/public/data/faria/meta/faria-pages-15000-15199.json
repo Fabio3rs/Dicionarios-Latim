@@ -44,28 +44,6 @@
     "raw_json": "{\"id\":\"chunk_15000:15000:1\",\"lemas\":[\"itur\"],\"lema_canonico\":\"itur\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[\"impers.\"],\"definicao\":\"3. pers. sing. presente (pass.) impessoal de eō: 'vai-se, passa-se'\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma impessoal atestada; classificado como verbo de īre (v. 4ª)\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_15001-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15001",
-    "page_num": 15001,
-    "lemmas": [
-      "itus",
-      "itus"
-    ],
-    "morfologia": "s. masc. 4ª (-us)",
-    "morph_render": "s. masc. 4ª (-us)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "ação de ir; marcha, partida, caminho; também: saída, deslocamento",
-    "exemplos": [],
-    "notas": "Normalizado declinação 4ª (-ūs) conforme LS/Whitaker; lemma com macron indicado em fontes. | [dedupe] redirect → chunk_1136:1136:6 | [dedupe] redirect → chunk_1136:1136:6",
-    "raw_text": "{\"id\":\"chunk_15001:15001:0\",\"lemas\":[\"itus\"],\"lema_canonico\":\"itus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"ação de ir; marcha, partida, caminho; também: saída, deslocamento\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 15, 5, 3\"],\"notas\":\"Normalizado declinação 4ª (-ūs) conforme LS/Whitaker; lemma com macron indicado em fontes.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_15001:15001:0\",\"lemas\":[\"itus\"],\"lema_canonico\":\"itus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"ação de ir; marcha, partida, caminho; também: saída, deslocamento\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 15, 5, 3\"],\"notas\":\"Normalizado declinação 4ª (-ūs) conforme LS/Whitaker; lemma com macron indicado em fontes.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_15002-e1",
     "volume_id": "faria",
     "doc_name": "chunk_15002",
@@ -286,28 +264,6 @@
     "raw_json": "{\"id\":\"chunk_15010:15010:0\",\"lemas\":[\"iacturus\",\"jacturus\"],\"lema_canonico\":\"iacturus\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"part. fut. act.\"],\"definicao\":\"Particípio futuro ativo do verbo jacio (jacio, jacere, jeci, jactus): 'prestes a lançar, que lançará'.\",\"aliases\":[\"jacturus\"],\"exemplos\":[],\"notas\":\"Forma atestada com i-/j-; marcado como participium futuri active (ver Whitaker e Lat→Deu).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_15011-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15011",
-    "page_num": 15011,
-    "lemmas": [
-      "jacio",
-      "jacio"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "particípio presente de jacio: jacente, estando a lançar/lançar; usado como adjetivo 'jacente'",
-    "exemplos": [],
-    "notas": "Corrigida origem para jacio (3ª conj.); marcada como part. pres. | [dedupe] redirect → chunk_15009:15009:0 | [dedupe] redirect → chunk_15009:15009:0",
-    "raw_text": "{\"id\":\"chunk_15011:15011:0\",\"lemas\":[\"jaciens\",\"jacio\"],\"lema_canonico\":\"jacio\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"part. pres.\"],\"definicao\":\"particípio presente de jacio: jacente, estando a lançar/lançar; usado como adjetivo 'jacente'\",\"aliases\":[],\"exemplos\":[\"Plin. Ep. 3, 9, 13\",\"Hor. Sat. 1, 3, 49\"],\"notas\":\"Corrigida origem para jacio (3ª conj.); marcada como part. pres.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_15011:15011:0\",\"lemas\":[\"jaciens\",\"jacio\"],\"lema_canonico\":\"jacio\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"part. pres.\"],\"definicao\":\"particípio presente de jacio: jacente, estando a lançar/lançar; usado como adjetivo 'jacente'\",\"aliases\":[],\"exemplos\":[\"Plin. Ep. 3, 9, 13\",\"Hor. Sat. 1, 3, 49\"],\"notas\":\"Corrigida origem para jacio (3ª conj.); marcada como part. pres.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_15012-e1",
     "volume_id": "faria",
     "doc_name": "chunk_15012",
@@ -394,28 +350,6 @@
     "notas": "Forma e sentido validados (participial/agentivo -tor). Genitivo 3ª declinação (-oris).",
     "raw_text": "{\"id\":\"chunk_15015:15015:0\",\"lemas\":[\"jactitor\"],\"lema_canonico\":\"jactitor\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Aquele que se gaba; um gabador, ostentador.\",\"aliases\":[],\"exemplos\":[\"Quint. 11, 1, 17\"],\"notas\":\"Forma e sentido validados (participial/agentivo -tor). Genitivo 3ª declinação (-oris).\",\"flags\":[\"src_whitaker\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_15015:15015:0\",\"lemas\":[\"jactitor\"],\"lema_canonico\":\"jactitor\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Aquele que se gaba; um gabador, ostentador.\",\"aliases\":[],\"exemplos\":[\"Quint. 11, 1, 17\"],\"notas\":\"Forma e sentido validados (participial/agentivo -tor). Genitivo 3ª declinação (-oris).\",\"flags\":[\"src_whitaker\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_15016-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15016",
-    "page_num": 15016,
-    "lemmas": [
-      "jactus",
-      "jactus"
-    ],
-    "morfologia": "s. masc. 4ª (-us)",
-    "morph_render": "s. masc. 4ª (-us)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Particípio perfeito passivo de iacio/jacio: lançado, atirado; como substantivo: arremesso, lançamento.",
-    "exemplos": [],
-    "notas": "Entrada corrigida de OCR (jactītus) para a forma atestada jactus (part. perf. pass. de iacio) e também atestada como substantivo 'jactus' em Whitaker. | [dedupe] redirect → chunk_15020:15020:0 | [dedupe] redirect → chunk_15020:15020:0 | [ocr_fix 2025-08-17T19:49:26Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='jactus' → 'jactus'",
-    "raw_text": "{\"id\":\"chunk_15016:15016:0\",\"lemas\":[\"jactus\"],\"lema_canonico\":\"jactus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo de iacio/jacio: lançado, atirado; como substantivo: arremesso, lançamento.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada corrigida de OCR (jactītus) para a forma atestada jactus (part. perf. pass. de iacio) e também atestada como substantivo 'jactus' em Whitaker.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_15016:15016:0\",\"lemas\":[\"jactus\"],\"lema_canonico\":\"jactus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo de iacio/jacio: lançado, atirado; como substantivo: arremesso, lançamento.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada corrigida de OCR (jactītus) para a forma atestada jactus (part. perf. pass. de iacio) e também atestada como substantivo 'jactus' em Whitaker.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}"
   },
   {
     "id": "chunk_15017-e1",
@@ -526,28 +460,6 @@
     "notas": "Entrada cobre tanto o substantivo jactus (-ūs) quanto o particípio perfeito jactus (de jacio).",
     "raw_text": "{\"id\":\"chunk_15020:15020:0\",\"lemas\":[\"jactus\"],\"lema_canonico\":\"jactus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Substantivo/particípio: arremesso, ato de lançar; também: lançamento (ex., de redes, dados) e, como particípio, formado de jacio.\",\"aliases\":[],\"exemplos\":[\"Cic. Cat. 3, 8, 18\",\"Verg. G. 4, 87\",\"Plin. H. N. 3, 16, 20\"],\"notas\":\"Entrada cobre tanto o substantivo jactus (-ūs) quanto o particípio perfeito jactus (de jacio).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_15020:15020:0\",\"lemas\":[\"jactus\"],\"lema_canonico\":\"jactus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Substantivo/particípio: arremesso, ato de lançar; também: lançamento (ex., de redes, dados) e, como particípio, formado de jacio.\",\"aliases\":[],\"exemplos\":[\"Cic. Cat. 3, 8, 18\",\"Verg. G. 4, 87\",\"Plin. H. N. 3, 16, 20\"],\"notas\":\"Entrada cobre tanto o substantivo jactus (-ūs) quanto o particípio perfeito jactus (de jacio).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_15021-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15021",
-    "page_num": 15021,
-    "lemmas": [
-      "jactus",
-      "jactus"
-    ],
-    "morfologia": "s. masc. 4ª (-us)",
-    "morph_render": "s. masc. 4ª (-us)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "1) Arremesso, lançamento; 2) ato de lançar (particípio relacionado a jacio); 3) distância de um lance (teli jactu).",
-    "exemplos": [],
-    "notas": "Separada a acepção de particípio (de jacio) e a do substantivo -ūs; lista de exemplos alinhada com Lewis & Short. | [dedupe] redirect → chunk_15020:15020:0 | [dedupe] redirect → chunk_15020:15020:0",
-    "raw_text": "{\"id\":\"chunk_15021:15021:0\",\"lemas\":[\"jactus\"],\"lema_canonico\":\"jactus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"1) Arremesso, lançamento; 2) ato de lançar (particípio relacionado a jacio); 3) distância de um lance (teli jactu).\",\"aliases\":[],\"exemplos\":[\"Liv. 8, 7\",\"Cic. Div. 2, 59\",\"Plin. 2, 38, § 104\",\"Verg. G. 4, 87\",\"Quint. 8, 2, 5\",\"Verg. A. 11, 608\",\"Tac. A. 13, 40\",\"Plin. 11, 2, § 4\",\"Val. Max. 1, 5, 9\"],\"notas\":\"Separada a acepção de particípio (de jacio) e a do substantivo -ūs; lista de exemplos alinhada com Lewis & Short.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_15021:15021:0\",\"lemas\":[\"jactus\"],\"lema_canonico\":\"jactus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"1) Arremesso, lançamento; 2) ato de lançar (particípio relacionado a jacio); 3) distância de um lance (teli jactu).\",\"aliases\":[],\"exemplos\":[\"Liv. 8, 7\",\"Cic. Div. 2, 59\",\"Plin. 2, 38, § 104\",\"Verg. G. 4, 87\",\"Quint. 8, 2, 5\",\"Verg. A. 11, 608\",\"Tac. A. 13, 40\",\"Plin. 11, 2, § 4\",\"Val. Max. 1, 5, 9\"],\"notas\":\"Separada a acepção de particípio (de jacio) e a do substantivo -ūs; lista de exemplos alinhada com Lewis & Short.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_15022-e1",
@@ -1122,72 +1034,6 @@
     "raw_json": "{\"id\":\"chunk_15046:15046:0\",\"lemas\":[\"Janus\",\"Ianus\"],\"lema_canonico\":\"Janus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"deus romano das portas e começos; também 'porta/arcada' e o mês de janeiro.\",\"aliases\":[\"Ianus\"],\"exemplos\":[\"Hor. Sat. 2, 3, 19\"],\"notas\":\"Entrada restringe-se a sentido arquitetónico, mas sentido divino e mensal também atestados.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_15047-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15047",
-    "page_num": 15047,
-    "lemmas": [
-      "Janus",
-      "Janus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Divindade romana das portas e dos começos; também o mês de janeiro; por extensão, passagem em arco/arcada.",
-    "exemplos": [],
-    "notas": "Grafia e acepções confirmadas por Lewis & Short, Whitaker e Lat→Deu. | [dedupe] redirect → chunk_15046:15046:0 | [dedupe] redirect → chunk_15046:15046:0",
-    "raw_text": "{\"id\":\"chunk_15047:15047:0\",\"lemas\":[\"Janus\",\"Jānus\",\"Ianus\"],\"lema_canonico\":\"Janus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Divindade romana das portas e dos começos; também o mês de janeiro; por extensão, passagem em arco/arcada.\",\"aliases\":[\"Ianus\",\"Jānus\"],\"exemplos\":[\"Ov. F. 1, 245\",\"Ov. F. 2, 51\",\"Liv. 1, 19\"],\"notas\":\"Grafia e acepções confirmadas por Lewis & Short, Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_15047:15047:0\",\"lemas\":[\"Janus\",\"Jānus\",\"Ianus\"],\"lema_canonico\":\"Janus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Divindade romana das portas e dos começos; também o mês de janeiro; por extensão, passagem em arco/arcada.\",\"aliases\":[\"Ianus\",\"Jānus\"],\"exemplos\":[\"Ov. F. 1, 245\",\"Ov. F. 2, 51\",\"Liv. 1, 19\"],\"notas\":\"Grafia e acepções confirmadas por Lewis & Short, Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_15048-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15048",
-    "page_num": 15048,
-    "lemmas": [
-      "Ĭāson",
-      "Ĭāson"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Jasão, herói grego, líder dos Argonautas (filho de Aeson).",
-    "exemplos": [],
-    "notas": "Lema latino Iason (grego Ἰάσων); sem exemplos no excerto. | [dedupe] redirect → chunk_12956:12956:0 | [dedupe] redirect → chunk_12956:12956:0 | [ocr_fix 2025-08-17T19:49:30Z] match direto em LS por lemma/lemma_norm | lemma_in='Iason' → 'Ĭāson'",
-    "raw_text": "{\"id\":\"chunk_15048:15048:0\",\"lemas\":[\"Iason\",\"Jason\"],\"lema_canonico\":\"Iason\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Jasão, herói grego, líder dos Argonautas (filho de Aeson).\",\"aliases\":[\"Jason\"],\"exemplos\":[],\"notas\":\"Lema latino Iason (grego Ἰάσων); sem exemplos no excerto.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_15048:15048:0\",\"lemas\":[\"Iason\",\"Jason\"],\"lema_canonico\":\"Iason\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Jasão, herói grego, líder dos Argonautas (filho de Aeson).\",\"aliases\":[\"Jason\"],\"exemplos\":[],\"notas\":\"Lema latino Iason (grego Ἰάσων); sem exemplos no excerto.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_15049-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15049",
-    "page_num": 15049,
-    "lemmas": [
-      "Ĭassus",
-      "Ĭassus"
-    ],
-    "morfologia": "v.",
-    "morph_render": "v.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "Vide Iassus.",
-    "exemplos": [],
-    "notas": "Remissiva para Iassus; possível OCR/confusão entre J/I. Necessita revisão e confirmação por dicionário. | [ocr_fix 2025-08-17T02:33:52Z] match direto em LS por lemma/lemma_norm | lemma_in='Jassus' → 'Ĭassus' | [dedupe] redirect → chunk_12961:12961:0 | [dedupe] redirect → chunk_12961:12961:0",
-    "raw_text": "{\"id\":\"chunk_15049:15049:0\",\"lemas\":[\"Jassus\",\"Iassus\"],\"lema_canonico\":\"Jassus\",\"morfologia\":\"v.\",\"morph_extra\":[],\"definicao\":\"Vide Iassus.\",\"aliases\":[\"Iassus\"],\"exemplos\":[],\"notas\":\"Remissiva para Iassus; possível OCR/confusão entre J/I. Necessita revisão e confirmação por dicionário.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_15049:15049:0\",\"lemas\":[\"Jassus\",\"Iassus\"],\"lema_canonico\":\"Jassus\",\"morfologia\":\"v.\",\"morph_extra\":[],\"definicao\":\"Vide Iassus.\",\"aliases\":[\"Iassus\"],\"exemplos\":[],\"notas\":\"Remissiva para Iassus; possível OCR/confusão entre J/I. Necessita revisão e confirmação por dicionário.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\",\"morph_out_of_vocab\"]}"
-  },
-  {
     "id": "chunk_15050-e1",
     "volume_id": "faria",
     "doc_name": "chunk_15050",
@@ -1208,28 +1054,6 @@
     "notas": "Nenhuma fonte externa confirmou; preservada forma da 1ª passada.",
     "raw_text": "{\"id\":\"chunk_15050:15050:0\",\"lemas\":[\"Jasyes\",\"Iasyes\"],\"lema_canonico\":\"Jasyes\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Entrada incerta; forma verbal apontada no OCR mas sem confirmação em dicionários principais; possivelmente variante ou erro de leitura.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Nenhuma fonte externa confirmou; preservada forma da 1ª passada.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_15050:15050:0\",\"lemas\":[\"Jasyes\",\"Iasyes\"],\"lema_canonico\":\"Jasyes\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Entrada incerta; forma verbal apontada no OCR mas sem confirmação em dicionários principais; possivelmente variante ou erro de leitura.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Nenhuma fonte externa confirmou; preservada forma da 1ª passada.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_15051-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15051",
-    "page_num": 15051,
-    "lemmas": [
-      "jacio",
-      "jacio"
-    ],
-    "morfologia": "v. 3ª -iō (-ere)",
-    "morph_render": "v. 3ª -iō (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Perfeito de jacio (jacio, jacere, jeci, jactus): lancei, atirei.",
-    "exemplos": [],
-    "notas": "Forma perfeita confirmada como pertencente ao verbo jacio; morfologia finita representada em morph_extra. | [dedupe] redirect → chunk_15009:15009:0 | [dedupe] redirect → chunk_15009:15009:0",
-    "raw_text": "{\"id\":\"chunk_15051:15051:0\",\"lemas\":[\"jacio\",\"jēci\",\"jeci\"],\"lema_canonico\":\"jacio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[\"perf. act. ind. 1.ª sg.\"],\"definicao\":\"Perfeito de jacio (jacio, jacere, jeci, jactus): lancei, atirei.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma perfeita confirmada como pertencente ao verbo jacio; morfologia finita representada em morph_extra.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_15051:15051:0\",\"lemas\":[\"jacio\",\"jēci\",\"jeci\"],\"lema_canonico\":\"jacio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[\"perf. act. ind. 1.ª sg.\"],\"definicao\":\"Perfeito de jacio (jacio, jacere, jeci, jactus): lancei, atirei.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma perfeita confirmada como pertencente ao verbo jacio; morfologia finita representada em morph_extra.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_15052-e1",
@@ -1584,28 +1408,6 @@
     "raw_json": "{\"id\":\"chunk_15065:15065:1\",\"lemas\":[\"jocularia\"],\"lema_canonico\":\"jocularia\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"ditos jocosos, gracejos (substantivo plural neutro; possivelmente nominalizado de jocularis).\",\"aliases\":[],\"exemplos\":[\"T. Liv. 7, 2, 5\"],\"notas\":\"Entrada possivelmente nominalização de adjectivo 'jocularis'; forma e classificação incertas — requer verificação.\",\"flags\":[\"src_firstpass\",\"src_whitaker\",\"conf:low\",\"needs_review\",\"morph_out_of_vocab\"]}"
   },
   {
-    "id": "chunk_15066-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15066",
-    "page_num": 15066,
-    "lemmas": [
-      "jocularis",
-      "jocularis"
-    ],
-    "morfologia": "adj. (3) 2T",
-    "morph_render": "adj. (3) 2T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "jocoso, risível; divertido.",
-    "exemplos": [],
-    "notas": "Removido artefato '(loc-)'; morfologia ajustada conforme LS/Whitaker. | [dedupe] redirect → chunk_15065:15065:0 | [dedupe] redirect → chunk_15065:15065:0",
-    "raw_text": "{\"id\":\"chunk_15066:15066:0\",\"lemas\":[\"jocularis\",\"joculāris\"],\"lema_canonico\":\"jocularis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"jocoso, risível; divertido.\",\"aliases\":[],\"exemplos\":[\"Cic. Leg. 1, 20\"],\"notas\":\"Removido artefato '(loc-)'; morfologia ajustada conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_15066:15066:0\",\"lemas\":[\"jocularis\",\"joculāris\"],\"lema_canonico\":\"jocularis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"jocoso, risível; divertido.\",\"aliases\":[],\"exemplos\":[\"Cic. Leg. 1, 20\"],\"notas\":\"Removido artefato '(loc-)'; morfologia ajustada conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_15067-e1",
     "volume_id": "faria",
     "doc_name": "chunk_15067",
@@ -1672,50 +1474,6 @@
     "raw_json": "{\"id\":\"chunk_15069:15069:0\",\"lemas\":[\"joculor\"],\"lema_canonico\":\"joculor\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"fazer gracejos; brincar; dizer jocosidades (verbo deponente).\",\"aliases\":[],\"exemplos\":[\"Liv. 7, 10, 13\"],\"notas\":\"Forma e advérbio derivado 'joculanter' atestados em LS; classificado como v. 1ª deponente.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_15070-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15070",
-    "page_num": 15070,
-    "lemmas": [
-      "jocur",
-      "jocur"
-    ],
-    "morfologia": "s. neut. 3ª (-is)",
-    "morph_render": "s. neut. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada é forma referida a jecur; registrada como redirecionamento.",
-    "raw_text": "{\"id\":\"chunk_15070:15070:0\",\"lemas\":[\"jocur\"],\"lema_canonico\":\"jocur\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"jecur\"],\"exemplos\":[],\"notas\":\"Entrada é forma referida a jecur; registrada como redirecionamento.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_15070:15070:0\",\"lemas\":[\"jocur\"],\"lema_canonico\":\"jocur\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"jecur\"],\"exemplos\":[],\"notas\":\"Entrada é forma referida a jecur; registrada como redirecionamento.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"redirect_only\"]}"
-  },
-  {
-    "id": "chunk_15071-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15071",
-    "page_num": 15071,
-    "lemmas": [
-      "jocus",
-      "jocus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "brincadeira, gracejo; divertimento; uso personificado: o Jogo.",
-    "exemplos": [],
-    "notas": "Grafia e genitivo regularizados segundo LS/Whitaker. | [dedupe] redirect → chunk_15060:15060:0 | [dedupe] redirect → chunk_15060:15060:0",
-    "raw_text": "{\"id\":\"chunk_15071:15071:0\",\"lemas\":[\"jocus\"],\"lema_canonico\":\"jocus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"brincadeira, gracejo; divertimento; uso personificado: o Jogo.\",\"aliases\":[],\"exemplos\":[\"Cic. Fin. 2, 85\",\"Cic. Nat. 2, 71\",\"Hor. O. 2, 3, 21\",\"Hor. O. 1, 2, 34\"],\"notas\":\"Grafia e genitivo regularizados segundo LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_15071:15071:0\",\"lemas\":[\"jocus\"],\"lema_canonico\":\"jocus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"brincadeira, gracejo; divertimento; uso personificado: o Jogo.\",\"aliases\":[],\"exemplos\":[\"Cic. Fin. 2, 85\",\"Cic. Nat. 2, 71\",\"Hor. O. 2, 3, 21\",\"Hor. O. 1, 2, 34\"],\"notas\":\"Grafia e genitivo regularizados segundo LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_15072-e1",
     "volume_id": "faria",
     "doc_name": "chunk_15072",
@@ -1736,28 +1494,6 @@
     "notas": "Mantida forma apresentada; entrada baseada no primeiro passe e OCR; confirmar em fonte léxica se preferível variante Jordanus/Jordanes.",
     "raw_text": "{\"id\":\"chunk_15072:15072:0\",\"lemas\":[\"Jordanis\"],\"lema_canonico\":\"Jordanis\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Nome próprio do rio Jordão (Palestina).\",\"aliases\":[],\"exemplos\":[\"Thec. Hist. 5, 6\"],\"notas\":\"Mantida forma apresentada; entrada baseada no primeiro passe e OCR; confirmar em fonte léxica se preferível variante Jordanus/Jordanes.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_15072:15072:0\",\"lemas\":[\"Jordanis\"],\"lema_canonico\":\"Jordanis\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Nome próprio do rio Jordão (Palestina).\",\"aliases\":[],\"exemplos\":[\"Thec. Hist. 5, 6\"],\"notas\":\"Mantida forma apresentada; entrada baseada no primeiro passe e OCR; confirmar em fonte léxica se preferível variante Jordanus/Jordanes.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_15073-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15073",
-    "page_num": 15073,
-    "lemmas": [
-      "Iuppiter",
-      "Iuppiter"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Jupiter, Roman chief sky-god; patron of the heavens.",
-    "exemplos": [],
-    "notas": "Normalizada forma canónica Iuppiter; entrada original apontava a forma genitiva Iovis. | [dedupe] redirect → chunk_15141:15141:0 | [dedupe] redirect → chunk_15141:15141:0",
-    "raw_text": "{\"id\":\"chunk_15073:15073:0\",\"lemas\":[\"Iovis\",\"Jovis\",\"Juppiter\"],\"lema_canonico\":\"Iuppiter\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Jupiter, Roman chief sky-god; patron of the heavens.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizada forma canónica Iuppiter; entrada original apontava a forma genitiva Iovis.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_15073:15073:0\",\"lemas\":[\"Iovis\",\"Jovis\",\"Juppiter\"],\"lema_canonico\":\"Iuppiter\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Jupiter, Roman chief sky-god; patron of the heavens.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizada forma canónica Iuppiter; entrada original apontava a forma genitiva Iovis.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_15074-e1",
@@ -1956,28 +1692,6 @@
     "notas": "Mantidos macrons em edição; forma confirmada por Lewis & Short e Lat→Deu. | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='Judaea' → 'Jūdaea'",
     "raw_text": "{\"id\":\"chunk_15082:15082:0\",\"lemas\":[\"Judaea\",\"Judaeae\"],\"lema_canonico\":\"Judaea\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Judeia; região habitada pelos judeus (Palestina).\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 5, 70\",\"Tac. Hist. 2, 79\"],\"notas\":\"Mantidos macrons em edição; forma confirmada por Lewis & Short e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_15082:15082:0\",\"lemas\":[\"Judaea\",\"Judaeae\"],\"lema_canonico\":\"Judaea\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Judeia; região habitada pelos judeus (Palestina).\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 5, 70\",\"Tac. Hist. 2, 79\"],\"notas\":\"Mantidos macrons em edição; forma confirmada por Lewis & Short e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_15083-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15083",
-    "page_num": 15083,
-    "lemmas": [
-      "Jūdaea",
-      "judaea"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "mulher judia; também topónimo: Judeia (região) em contextos clássicos",
-    "exemplos": [],
-    "notas": "Lema e sentido confirmados em Lewis & Short; abreviações normalizadas | [dedupe] redirect → chunk_15082:15082:0 | [dedupe] redirect → chunk_15082:15082:0 | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='judaea' → 'Jūdaea'",
-    "raw_text": "{\"id\":\"chunk_15083:15083:0\",\"lemas\":[\"judaea\"],\"lema_canonico\":\"judaea\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"mulher judia; também topónimo: Judeia (região) em contextos clássicos\",\"aliases\":[],\"exemplos\":[\"Juv. 6, 543\"],\"notas\":\"Lema e sentido confirmados em Lewis & Short; abreviações normalizadas\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_15083:15083:0\",\"lemas\":[\"judaea\"],\"lema_canonico\":\"judaea\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"mulher judia; também topónimo: Judeia (região) em contextos clássicos\",\"aliases\":[],\"exemplos\":[\"Juv. 6, 543\"],\"notas\":\"Lema e sentido confirmados em Lewis & Short; abreviações normalizadas\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_15084-e1",
@@ -2442,28 +2156,6 @@
     "raw_json": "{\"id\":\"chunk_15103:15103:0\",\"lemas\":[\"jugis\",\"iugis\",\"jūgis\"],\"lema_canonico\":\"jugis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"perene, contínuo; especialmente aplicado a água que corre sempre; perpétuo\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 2, 10\",\"Plaut. Ps. 1, 1, 82\"],\"notas\":\"Forma atendida como adjetivo de duas terminações (m/f: jugis; n: juge) conforme LS/Whitaker\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_15104-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15104",
-    "page_num": 15104,
-    "lemmas": [
-      "jungō",
-      "jungō"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "unir, juntar; (forma verbal) 2ª sg. pres. subj. = jungas",
-    "exemplos": [],
-    "notas": "Verbete corrigido de suposta substantivação por OCR; reclassificado como forma verbal de jungō. | [dedupe] redirect → chunk_15104:15104:3 | [dedupe] redirect → chunk_15104:15104:3",
-    "raw_text": "{\"id\":\"chunk_15104:15104:0\",\"lemas\":[\"jungō\",\"jungere\",\"jūnxī\",\"jūnctus\"],\"lema_canonico\":\"jungō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"unir, juntar; (forma verbal) 2ª sg. pres. subj. = jungas\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Verbete corrigido de suposta substantivação por OCR; reclassificado como forma verbal de jungō.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_15104:15104:0\",\"lemas\":[\"jungō\",\"jungere\",\"jūnxī\",\"jūnctus\"],\"lema_canonico\":\"jungō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"unir, juntar; (forma verbal) 2ª sg. pres. subj. = jungas\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Verbete corrigido de suposta substantivação por OCR; reclassificado como forma verbal de jungō.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_15104-e2",
     "volume_id": "faria",
     "doc_name": "chunk_15104",
@@ -2704,28 +2396,6 @@
     "notas": "Forma variante com i/j adicionada.",
     "raw_text": "{\"id\":\"chunk_15109:15109:1\",\"lemas\":[\"jugulum\",\"iugulum\"],\"lema_canonico\":\"jugulum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Garganta, parte anterior do pescoço; também a clavícula (em leituras antigas); o espaço côncavo da garganta.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma variante com i/j adicionada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_15109:15109:1\",\"lemas\":[\"jugulum\",\"iugulum\"],\"lema_canonico\":\"jugulum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Garganta, parte anterior do pescoço; também a clavícula (em leituras antigas); o espaço côncavo da garganta.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma variante com i/j adicionada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_15110-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15110",
-    "page_num": 15110,
-    "lemmas": [
-      "jugulum",
-      "jugulum"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "the throat; the hollow of the neck above the collar-bone; (also) the collar-bone (when treated as bone)",
-    "exemplos": [],
-    "notas": "Separados os lemas masculino (jugulus) e neutro (jugulum); lema canónico escolhido jugulum. Formas e citações verificadas em LS/Whitaker. | [dedupe] redirect → chunk_15109:15109:1 | [dedupe] redirect → chunk_15109:15109:1",
-    "raw_text": "{\"id\":\"chunk_15110:15110:0\",\"lemas\":[\"jugulum\",\"jugulus\",\"jŭgŭlum\",\"jŭgŭlus\"],\"lema_canonico\":\"jugulum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"the throat; the hollow of the neck above the collar-bone; (also) the collar-bone (when treated as bone)\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 1, 227\",\"Tac. Ann. 3, 15\",\"Juv. 4, 110\"],\"notas\":\"Separados os lemas masculino (jugulus) e neutro (jugulum); lema canónico escolhido jugulum. Formas e citações verificadas em LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_15110:15110:0\",\"lemas\":[\"jugulum\",\"jugulus\",\"jŭgŭlum\",\"jŭgŭlus\"],\"lema_canonico\":\"jugulum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"the throat; the hollow of the neck above the collar-bone; (also) the collar-bone (when treated as bone)\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 1, 227\",\"Tac. Ann. 3, 15\",\"Juv. 4, 110\"],\"notas\":\"Separados os lemas masculino (jugulus) e neutro (jugulum); lema canónico escolhido jugulum. Formas e citações verificadas em LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_15111-e1",
@@ -3058,28 +2728,6 @@
     "raw_json": "{\"id\":\"chunk_15124:15124:1\",\"lemas\":[\"junctio\"],\"lema_canonico\":\"junctio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"a joining, union, joining together\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 1, 29, 71\"],\"notas\":\"\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_15125-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15125",
-    "page_num": 15125,
-    "lemmas": [
-      "junctio",
-      "junctio"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "União, ligação, junção; também: ligação harmoniosa (em retórica).",
-    "exemplos": [],
-    "notas": "Mantidas variantes com i/j; sentidos e citações confirmados por LS e Whitaker. | [dedupe] redirect → chunk_15124:15124:1 | [dedupe] redirect → chunk_15124:15124:1",
-    "raw_text": "{\"id\":\"chunk_15125:15125:0\",\"lemas\":[\"junctio\",\"iunctio\"],\"lema_canonico\":\"junctio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"União, ligação, junção; também: ligação harmoniosa (em retórica).\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 1, 71\",\"Cic. Or. 3, 191\"],\"notas\":\"Mantidas variantes com i/j; sentidos e citações confirmados por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_15125:15125:0\",\"lemas\":[\"junctio\",\"iunctio\"],\"lema_canonico\":\"junctio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"União, ligação, junção; também: ligação harmoniosa (em retórica).\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 1, 71\",\"Cic. Or. 3, 191\"],\"notas\":\"Mantidas variantes com i/j; sentidos e citações confirmados por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_15126-e1",
     "volume_id": "faria",
     "doc_name": "chunk_15126",
@@ -3410,28 +3058,6 @@
     "raw_json": "{\"id\":\"chunk_15139:15139:1\",\"lemas\":[\"Jūnōnius\",\"Iunonius\",\"iunonius\"],\"lema_canonico\":\"Jūnōnius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Adjetivo derivado de Jūnō; relativo a Juno (p.ex. coisas ou festas dedicadas a Juno).\",\"aliases\":[],\"exemplos\":[\"Ov. Am. 2, 6, 55\",\"Ov. F. 6, 61\",\"Ov. Met. 9, 400\"],\"notas\":\"Normalizada grafia e referências a Ovídio a partir do OCR e da primeira passada.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}"
   },
   {
-    "id": "chunk_15140-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15140",
-    "page_num": 15140,
-    "lemmas": [
-      "jungo",
-      "jungo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "jungo, jungere, junxi, junctus: unir, juntar, prender; 'junxi' é o perfeito indicativo ativo (juntei, uni).",
-    "exemplos": [],
-    "notas": "Entrada original apresentou a forma perfeita 'junxi'; lemma alterado para o infinitivo canônico. | [dedupe] redirect → chunk_15104:15104:3 | [dedupe] redirect → chunk_15104:15104:3 | [ocr_fix 2025-08-17T19:49:31Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='jungo' → 'jungo'",
-    "raw_text": "{\"id\":\"chunk_15140:15140:0\",\"lemas\":[\"jungo\"],\"lema_canonico\":\"jungo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"jungo, jungere, junxi, junctus: unir, juntar, prender; 'junxi' é o perfeito indicativo ativo (juntei, uni).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada original apresentou a forma perfeita 'junxi'; lemma alterado para o infinitivo canônico.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_15140:15140:0\",\"lemas\":[\"jungo\"],\"lema_canonico\":\"jungo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"jungo, jungere, junxi, junctus: unir, juntar, prender; 'junxi' é o perfeito indicativo ativo (juntei, uni).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada original apresentou a forma perfeita 'junxi'; lemma alterado para o infinitivo canônico.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_15141-e1",
     "volume_id": "faria",
     "doc_name": "chunk_15141",
@@ -3606,50 +3232,6 @@
     "notas": "Conjugação e usos padronizados com base em LS e Lat→Deu; marcado tanto transitivo quanto intransitivo.",
     "raw_text": "{\"id\":\"chunk_15148:15148:0\",\"lemas\":[\"jūro\",\"iūrō\"],\"lema_canonico\":\"jūro\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"tr.\",\"intr.\"],\"definicao\":\"Pronunciar a fórmula do juramento; jurar, prestar juramento; secundariamente, prometer por juramento; em sentido figurado, conjurar/plotar (algumas ocorr.).\",\"aliases\":[],\"exemplos\":[\"Caes. B. 7, 76, 2\",\"Cic. Bæst. 37\",\"Cic. Or. 3, 107\",\"Cic. Fam. 7, 12, 2\",\"Ov. Met. 2, 46\",\"Ov. Met. 1, 242\"],\"notas\":\"Conjugação e usos padronizados com base em LS e Lat→Deu; marcado tanto transitivo quanto intransitivo.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_15148:15148:0\",\"lemas\":[\"jūro\",\"iūrō\"],\"lema_canonico\":\"jūro\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"tr.\",\"intr.\"],\"definicao\":\"Pronunciar a fórmula do juramento; jurar, prestar juramento; secundariamente, prometer por juramento; em sentido figurado, conjurar/plotar (algumas ocorr.).\",\"aliases\":[],\"exemplos\":[\"Caes. B. 7, 76, 2\",\"Cic. Bæst. 37\",\"Cic. Or. 3, 107\",\"Cic. Fam. 7, 12, 2\",\"Ov. Met. 2, 46\",\"Ov. Met. 1, 242\"],\"notas\":\"Conjugação e usos padronizados com base em LS e Lat→Deu; marcado tanto transitivo quanto intransitivo.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_15149-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15149",
-    "page_num": 15149,
-    "lemmas": [
-      "juro",
-      "juro"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "jurar, prestar juramento; usar com gen., com inf., com acc. + inf.; também 'conspiração' em sentidos derivados",
-    "exemplos": [],
-    "notas": "Normalizado para juro (infinitivo 1ª conjug.) com formas mencionadas por LS; limpeza de corruptelas do OCR. | [dedupe] redirect → chunk_15148:15148:0 | [dedupe] redirect → chunk_15148:15148:0",
-    "raw_text": "{\"id\":\"chunk_15149:15149:0\",\"lemas\":[\"juro\",\"jūrō\"],\"lema_canonico\":\"juro\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"jurar, prestar juramento; usar com gen., com inf., com acc. + inf.; também 'conspiração' em sentidos derivados\",\"aliases\":[\"jūrō\"],\"exemplos\":[\"Cic. Inv. 2, 43, 126\",\"Cic. Fam. 5, 2, 7\"],\"notas\":\"Normalizado para juro (infinitivo 1ª conjug.) com formas mencionadas por LS; limpeza de corruptelas do OCR.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_15149:15149:0\",\"lemas\":[\"juro\",\"jūrō\"],\"lema_canonico\":\"juro\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"jurar, prestar juramento; usar com gen., com inf., com acc. + inf.; também 'conspiração' em sentidos derivados\",\"aliases\":[\"jūrō\"],\"exemplos\":[\"Cic. Inv. 2, 43, 126\",\"Cic. Fam. 5, 2, 7\"],\"notas\":\"Normalizado para juro (infinitivo 1ª conjug.) com formas mencionadas por LS; limpeza de corruptelas do OCR.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_15150-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15150",
-    "page_num": 15150,
-    "lemmas": [
-      "iūs",
-      "iūs"
-    ],
-    "morfologia": "s. neut. 3ª (-is)",
-    "morph_render": "s. neut. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "direito, justiça; conjunto de leis; autoridade/poder; também 'molho, caldo' (sentido culinário literário/satírico)",
-    "exemplos": [],
-    "notas": "Lema canônico iūs (grafia clássica) adotada; inclui sentido culinário atestado por LS/Whitaker. | [dedupe] redirect → chunk_10784:10784:1 | [dedupe] redirect → chunk_10784:10784:1",
-    "raw_text": "{\"id\":\"chunk_15150:15150:0\",\"lemas\":[\"jus\",\"iūs\",\"jūs\"],\"lema_canonico\":\"iūs\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"direito, justiça; conjunto de leis; autoridade/poder; também 'molho, caldo' (sentido culinário literário/satírico)\",\"aliases\":[\"jus\",\"jūs\"],\"exemplos\":[\"Cic. Tusc. 1, 64\",\"T. Liv. 23, 10, 2\",\"Plaut. Most. 1, 3, 120\",\"Ter. Eun. 5, 4, 17\"],\"notas\":\"Lema canônico iūs (grafia clássica) adotada; inclui sentido culinário atestado por LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_15150:15150:0\",\"lemas\":[\"jus\",\"iūs\",\"jūs\"],\"lema_canonico\":\"iūs\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"direito, justiça; conjunto de leis; autoridade/poder; também 'molho, caldo' (sentido culinário literário/satírico)\",\"aliases\":[\"jus\",\"jūs\"],\"exemplos\":[\"Cic. Tusc. 1, 64\",\"T. Liv. 23, 10, 2\",\"Plaut. Most. 1, 3, 120\",\"Ter. Eun. 5, 4, 17\"],\"notas\":\"Lema canônico iūs (grafia clássica) adotada; inclui sentido culinário atestado por LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_15151-e1",
@@ -4158,28 +3740,6 @@
     "raw_json": "{\"id\":\"chunk_15167:15167:1\",\"lemas\":[\"juvenalis\",\"juvenale\"],\"lema_canonico\":\"juvenalis\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"relativo à juventude; juvenil, próprio dos jovens\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma atestada em Lewis & Short e Whitaker; relaciona-se a juvenalia (subst. pl.)\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_15168-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15168",
-    "page_num": 15168,
-    "lemmas": [
-      "juvenalis",
-      "juvenalis"
-    ],
-    "morfologia": "adj. (3) 2T",
-    "morph_render": "adj. (3) 2T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "pertinente à juventude; juvenil; também como substantivo neutro plural juvenālia: divertimentos/jogos próprios da juventude",
-    "exemplos": [],
-    "notas": "Incluído substantivo plural juvenālia e advérbio juvenāliter conforme LS; formas variantes listadas. | [dedupe] redirect → chunk_15167:15167:1 | [dedupe] redirect → chunk_15167:15167:1",
-    "raw_text": "{\"id\":\"chunk_15168:15168:0\",\"lemas\":[\"juvenalis\",\"juvenālis\",\"iuvenalis\"],\"lema_canonico\":\"juvenalis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"pertinente à juventude; juvenil; também como substantivo neutro plural juvenālia: divertimentos/jogos próprios da juventude\",\"aliases\":[],\"exemplos\":[\"Verg. A. 5, 475\",\"Suet. Ner. 11\"],\"notas\":\"Incluído substantivo plural juvenālia e advérbio juvenāliter conforme LS; formas variantes listadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_15168:15168:0\",\"lemas\":[\"juvenalis\",\"juvenālis\",\"iuvenalis\"],\"lema_canonico\":\"juvenalis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"pertinente à juventude; juvenil; também como substantivo neutro plural juvenālia: divertimentos/jogos próprios da juventude\",\"aliases\":[],\"exemplos\":[\"Verg. A. 5, 475\",\"Suet. Ner. 11\"],\"notas\":\"Incluído substantivo plural juvenālia e advérbio juvenāliter conforme LS; formas variantes listadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_15169-e1",
     "volume_id": "faria",
     "doc_name": "chunk_15169",
@@ -4222,28 +3782,6 @@
     "notas": "Formas -aliter e -iliter atestadas; advérbio confirmado em LS e Whitaker",
     "raw_text": "{\"id\":\"chunk_15170:15170:0\",\"lemas\":[\"juvenaliter\",\"juveniliter\",\"jŭvĕnīlĭter\"],\"lema_canonico\":\"juvenaliter\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"de modo juvenil; jovialmente, como jovem\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 10, 675\"],\"notas\":\"Formas -aliter e -iliter atestadas; advérbio confirmado em LS e Whitaker\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_15170:15170:0\",\"lemas\":[\"juvenaliter\",\"juveniliter\",\"jŭvĕnīlĭter\"],\"lema_canonico\":\"juvenaliter\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"de modo juvenil; jovialmente, como jovem\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 10, 675\"],\"notas\":\"Formas -aliter e -iliter atestadas; advérbio confirmado em LS e Whitaker\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_15170-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_15170",
-    "page_num": 15170,
-    "lemmas": [
-      "juvenca",
-      "juvenca"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "novilha; vaca jovem",
-    "exemplos": [],
-    "notas": "Maiúscula OCR normalizada; mesma entrada que jŭvenca | [dedupe] redirect → chunk_15171:15171:0 | [dedupe] redirect → chunk_15171:15171:0",
-    "raw_text": "{\"id\":\"chunk_15170:15170:1\",\"lemas\":[\"juvenca\",\"iuvenca\"],\"lema_canonico\":\"juvenca\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"novilha; vaca jovem\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Maiúscula OCR normalizada; mesma entrada que jŭvenca\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_15170:15170:1\",\"lemas\":[\"juvenca\",\"iuvenca\"],\"lema_canonico\":\"juvenca\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"novilha; vaca jovem\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Maiúscula OCR normalizada; mesma entrada que jŭvenca\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_15171-e1",
@@ -4554,28 +4092,6 @@
     "raw_json": "{\"id\":\"chunk_15184:15184:0\",\"lemas\":[\"juventus\",\"iuventus\"],\"lema_canonico\":\"juventus\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"juventude; a idade da juventude; coletivamente, os jovens, a juventude (pessoas jovens)\",\"aliases\":[],\"exemplos\":[\"Cic. C. M. 15\",\"Cæs. B. Gal. 3, 16, 2\"],\"notas\":\"Grafia normalizada e genitivo -ūtis mantido; entry corroborada por LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_15185-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15185",
-    "page_num": 15185,
-    "lemmas": [
-      "juvo",
-      "juvo"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Ajudar, assistir; agradar, deleitar, ser útil.",
-    "exemplos": [],
-    "notas": "Paradigma normalizado (juvo, juvare, juvi, jutus) conforme LS/Whitaker. | [dedupe] redirect → chunk_15165:15165:1 | [dedupe] redirect → chunk_15165:15165:1",
-    "raw_text": "{\"id\":\"chunk_15185:15185:0\",\"lemas\":[\"juvo\"],\"lema_canonico\":\"juvo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"Ajudar, assistir; agradar, deleitar, ser útil.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Paradigma normalizado (juvo, juvare, juvi, jutus) conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_15185:15185:0\",\"lemas\":[\"juvo\"],\"lema_canonico\":\"juvo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"Ajudar, assistir; agradar, deleitar, ser útil.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Paradigma normalizado (juvo, juvare, juvi, jutus) conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_15186-e1",
     "volume_id": "faria",
     "doc_name": "chunk_15186",
@@ -4728,28 +4244,6 @@
     "notas": "Normalizado para lema singular 'kalenda'; inclui usos e expressão proverbial.",
     "raw_text": "{\"id\":\"chunk_15192:15192:0\",\"lemas\":[\"kalenda\",\"kalendae\"],\"lema_canonico\":\"kalenda\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Kalendae, as Kalendas — o primeiro dia do mês; dia em que se proclamava a ordem dos dias; também usado para vencimento de juros e festividades. Expressão ad Kalendas Graecas = nunca.\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 2, 2, 3\",\"Varro L. L. 6, §27\"],\"notas\":\"Normalizado para lema singular 'kalenda'; inclui usos e expressão proverbial.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_15192:15192:0\",\"lemas\":[\"kalenda\",\"kalendae\"],\"lema_canonico\":\"kalenda\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Kalendae, as Kalendas — o primeiro dia do mês; dia em que se proclamava a ordem dos dias; também usado para vencimento de juros e festividades. Expressão ad Kalendas Graecas = nunca.\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 2, 2, 3\",\"Varro L. L. 6, §27\"],\"notas\":\"Normalizado para lema singular 'kalenda'; inclui usos e expressão proverbial.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_15193-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15193",
-    "page_num": 15193,
-    "lemmas": [
-      "canus",
-      "canus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "cana (subst.): cesto de vime (empréstimo grego), usado para alimentos, flores e sacrifícios; canus (adj.): branco, grisalho; velho, de cabelos brancos; hoary, foamy.",
-    "exemplos": [],
-    "notas": "Unificadas formas nominal e adjetival; 'canum' como variante substantiva att.; baseado em Whitaker e Lat→Deu. | [dedupe] redirect → chunk_4793:4793:0 | [dedupe] redirect → chunk_4793:4793:0",
-    "raw_text": "{\"id\":\"chunk_15193:15193:0\",\"lemas\":[\"cana\",\"canus\",\"canum\"],\"lema_canonico\":\"canus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"cana (subst.): cesto de vime (empréstimo grego), usado para alimentos, flores e sacrifícios; canus (adj.): branco, grisalho; velho, de cabelos brancos; hoary, foamy.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Unificadas formas nominal e adjetival; 'canum' como variante substantiva att.; baseado em Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_15193:15193:0\",\"lemas\":[\"cana\",\"canus\",\"canum\"],\"lema_canonico\":\"canus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"cana (subst.): cesto de vime (empréstimo grego), usado para alimentos, flores e sacrifícios; canus (adj.): branco, grisalho; velho, de cabelos brancos; hoary, foamy.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Unificadas formas nominal e adjetival; 'canum' como variante substantiva att.; baseado em Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"conf:high\"]}"
   },
   {
     "id": "chunk_15194-e1",

@@ -286,72 +286,6 @@
     "raw_json": "{\"id\":\"chunk_1607:1607:2\",\"lemas\":[\"aminea\"],\"lema_canonico\":\"aminea\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"região da Campânia célebre pelos seus vinhos\",\"aliases\":[],\"exemplos\":[\"Verg. G. 2, 97\"],\"notas\":\"Forma confirmada por Lewis & Short e Whitaker (Aminēa / Aminea).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_1607-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_1607",
-    "page_num": 1607,
-    "lemmas": [
-      "Amilcar",
-      "Amilcar"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Redirecionamento para Hamilcar; forma atestada em LS (ver Hamilcar). | [ocr_fix 2025-08-17T19:44:27Z] match direto em LS por lemma/lemma_norm | lemma_in='Amilcar' → 'Amilcar'",
-    "raw_text": "{\"id\":\"chunk_1607:1607:0\",\"lemas\":[\"Amilcar\"],\"lema_canonico\":\"Amilcar\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Hamilcar\"],\"exemplos\":[],\"notas\":\"Redirecionamento para Hamilcar; forma atestada em LS (ver Hamilcar).\",\"flags\":[\"src_ls\",\"conf:med\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_1607:1607:0\",\"lemas\":[\"Amilcar\"],\"lema_canonico\":\"Amilcar\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Hamilcar\"],\"exemplos\":[],\"notas\":\"Redirecionamento para Hamilcar; forma atestada em LS (ver Hamilcar).\",\"flags\":[\"src_ls\",\"conf:med\",\"redirect_only\"]}"
-  },
-  {
-    "id": "chunk_1608-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_1608",
-    "page_num": 1608,
-    "lemmas": [
-      "Amīsēnus",
-      "Amīsēnus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 1,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada atestada na fonte primária como remissiva a 'Amisus'; falta confirmação em dicionários principais. | [ocr_fix 2025-08-17T18:23:10Z] match direto em Gaffiot por lemma/lemma_norm | lemma_in='amisenus' → 'Amīsēnus' | [ocr_fix 2025-08-17T19:44:23Z] match direto em Gaffiot por lemma/lemma_norm | lemma_in='Amīsēnus' → 'Amīsēnus'",
-    "raw_text": "{\"id\":\"chunk_1608:1608:0\",\"lemas\":[\"amisenus\"],\"lema_canonico\":\"amisenus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Amisus\"],\"exemplos\":[],\"notas\":\"Entrada atestada na fonte primária como remissiva a 'Amisus'; falta confirmação em dicionários principais.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_1608:1608:0\",\"lemas\":[\"amisenus\"],\"lema_canonico\":\"amisenus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Amisus\"],\"exemplos\":[],\"notas\":\"Entrada atestada na fonte primária como remissiva a 'Amisus'; falta confirmação em dicionários principais.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\",\"redirect_only\"]}"
-  },
-  {
-    "id": "chunk_1609-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_1609",
-    "page_num": 1609,
-    "lemmas": [
-      "amitto",
-      "amitto"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "amīsi — perfeito indicativo ativo, 1.ª pessoa singular de āmittere: 'enviei/abandonei/perdi'",
-    "exemplos": [],
-    "notas": "Forma 'amīsi' confirmada por Lat→Deu; lemma normalizado para āmittere/āmittō. | [dedupe] redirect → chunk_1628:1628:0 | [dedupe] redirect → chunk_1628:1628:0",
-    "raw_text": "{\"id\":\"chunk_1609:1609:0\",\"lemas\":[\"amitto\"],\"lema_canonico\":\"amitto\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"perf. ind. act. 1 sg.\"],\"definicao\":\"amīsi — perfeito indicativo ativo, 1.ª pessoa singular de āmittere: 'enviei/abandonei/perdi'\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma 'amīsi' confirmada por Lat→Deu; lemma normalizado para āmittere/āmittō.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_1609:1609:0\",\"lemas\":[\"amitto\"],\"lema_canonico\":\"amitto\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"perf. ind. act. 1 sg.\"],\"definicao\":\"amīsi — perfeito indicativo ativo, 1.ª pessoa singular de āmittere: 'enviei/abandonei/perdi'\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma 'amīsi' confirmada por Lat→Deu; lemma normalizado para āmittere/āmittō.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_1610-e1",
     "volume_id": "faria",
     "doc_name": "chunk_1610",
@@ -372,50 +306,6 @@
     "notas": "Lewis & Short atesta Ămīsĭa/Ămīsĭus; correção do gênero para feminino conforme genitivo -ae. | [ocr_fix 2025-08-17T19:44:23Z] match direto em LS por lemma/lemma_norm | lemma_in='amisia' → 'Ămīsĭa'",
     "raw_text": "{\"id\":\"chunk_1610:1610:0\",\"lemas\":[\"amisia\"],\"lema_canonico\":\"amisia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"rio da Germânia (Ems); também nome de fortaleza romana sobre o Ems\",\"aliases\":[],\"exemplos\":[\"Tac. Ann. 1, 60\"],\"notas\":\"Lewis & Short atesta Ămīsĭa/Ămīsĭus; correção do gênero para feminino conforme genitivo -ae.\",\"flags\":[\"src_ls\",\"src_ocr\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_1610:1610:0\",\"lemas\":[\"amisia\"],\"lema_canonico\":\"amisia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"rio da Germânia (Ems); também nome de fortaleza romana sobre o Ems\",\"aliases\":[],\"exemplos\":[\"Tac. Ann. 1, 60\"],\"notas\":\"Lewis & Short atesta Ămīsĭa/Ămīsĭus; correção do gênero para feminino conforme genitivo -ae.\",\"flags\":[\"src_ls\",\"src_ocr\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_1611-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_1611",
-    "page_num": 1611,
-    "lemmas": [
-      "amisius",
-      "amisius"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:low",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Possível antropónimo ou topónimo atestado como Amisius; leitura incerta no OCR, remissão dada como 'Amisus' no original.",
-    "exemplos": [],
-    "notas": "Entrada incerta; forma possivelmente errada no OCR ou variante local; não confirmada em dicionários principais. | [dedupe] redirect → chunk_1614:1614:0 | [dedupe] redirect → chunk_1614:1614:0",
-    "raw_text": "{\"id\":\"chunk_1611:1611:0\",\"lemas\":[\"amisius\"],\"lema_canonico\":\"amisius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Possível antropónimo ou topónimo atestado como Amisius; leitura incerta no OCR, remissão dada como 'Amisus' no original.\",\"aliases\":[\"amisus\"],\"exemplos\":[],\"notas\":\"Entrada incerta; forma possivelmente errada no OCR ou variante local; não confirmada em dicionários principais.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_1611:1611:0\",\"lemas\":[\"amisius\"],\"lema_canonico\":\"amisius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Possível antropónimo ou topónimo atestado como Amisius; leitura incerta no OCR, remissão dada como 'Amisus' no original.\",\"aliases\":[\"amisus\"],\"exemplos\":[],\"notas\":\"Entrada incerta; forma possivelmente errada no OCR ou variante local; não confirmada em dicionários principais.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_1612-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_1612",
-    "page_num": 1612,
-    "lemmas": [
-      "amittere",
-      "amittere"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "1ª pessoa do singular, perfeito do subjuntivo ativo de amittere — 'que eu tenha perdido / que eu tenha mandado embora'",
-    "exemplos": [],
-    "notas": "Forma verbal correta (perf. subj. de amittere); conferido em Lat→Deu. | [dedupe] redirect → chunk_1616:1616:0 | [dedupe] redirect → chunk_1616:1616:0",
-    "raw_text": "{\"id\":\"chunk_1612:1612:0\",\"lemas\":[\"amiserim\"],\"lema_canonico\":\"amittere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"1ª pessoa do singular, perfeito do subjuntivo ativo de amittere — 'que eu tenha perdido / que eu tenha mandado embora'\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma verbal correta (perf. subj. de amittere); conferido em Lat→Deu.\",\"flags\":[\"src_latdeu\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_1612:1612:0\",\"lemas\":[\"amiserim\"],\"lema_canonico\":\"amittere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"1ª pessoa do singular, perfeito do subjuntivo ativo de amittere — 'que eu tenha perdido / que eu tenha mandado embora'\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma verbal correta (perf. subj. de amittere); conferido em Lat→Deu.\",\"flags\":[\"src_latdeu\",\"conf:med\"]}"
   },
   {
     "id": "chunk_1613-e1",
@@ -526,28 +416,6 @@
     "notas": "Normalizado para forma nominativa; corrigido gênero para masculino conforme LS.",
     "raw_text": "{\"id\":\"chunk_1617:1617:0\",\"lemas\":[\"Amisus\"],\"lema_canonico\":\"Amisus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Amisus, cidade do Ponto (moderna Samsun).\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 6, 7\"],\"notas\":\"Normalizado para forma nominativa; corrigido gênero para masculino conforme LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_1617:1617:0\",\"lemas\":[\"Amisus\"],\"lema_canonico\":\"Amisus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Amisus, cidade do Ponto (moderna Samsun).\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 6, 7\"],\"notas\":\"Normalizado para forma nominativa; corrigido gênero para masculino conforme LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_1618-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_1618",
-    "page_num": 1618,
-    "lemmas": [
-      "Amisus",
-      "Amisus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Amisus, cidade do Ponto, residência de Mitrídates (citado por Cícero).",
-    "exemplos": [],
-    "notas": "Entrada convertida para substantivo próprio masculino; mantém referência cic. Pomp. 21. | [dedupe] redirect → chunk_1617:1617:0 | [dedupe] redirect → chunk_1617:1617:0",
-    "raw_text": "{\"id\":\"chunk_1618:1618:0\",\"lemas\":[\"Amisus\"],\"lema_canonico\":\"Amisus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Amisus, cidade do Ponto, residência de Mitrídates (citado por Cícero).\",\"aliases\":[],\"exemplos\":[\"Cic. Pomp. 21\"],\"notas\":\"Entrada convertida para substantivo próprio masculino; mantém referência cic. Pomp. 21.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_1618:1618:0\",\"lemas\":[\"Amisus\"],\"lema_canonico\":\"Amisus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Amisus, cidade do Ponto, residência de Mitrídates (citado por Cícero).\",\"aliases\":[],\"exemplos\":[\"Cic. Pomp. 21\"],\"notas\":\"Entrada convertida para substantivo próprio masculino; mantém referência cic. Pomp. 21.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_1619-e1",
@@ -792,28 +660,6 @@
     "raw_json": "{\"id\":\"chunk_1629:1629:0\",\"lemas\":[\"amixi\"],\"lema_canonico\":\"amixi\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"forma perfeita (1ª pessoa sing.) do verbo amicio / amicīre — 'vesti, cobri, envolvi' (registro: forma flexionada, não lema).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada preservada como forma perfeita isolada; não há lema explícito no snippet.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_1629-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_1629",
-    "page_num": 1629,
-    "lemmas": [
-      "amicio",
-      "amicio"
-    ],
-    "morfologia": "v. 4ª (-īre)",
-    "morph_render": "v. 4ª (-īre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "amicio, amicīre: tr. vestir, cobrir; envolver, cercar; também pass. tomar ou pôr sobre si (vestir-se).",
-    "exemplos": [],
-    "notas": "Paradigma reconstruído a partir de Whitaker/Lat→Deu (amicīre, amīciō, amīxī/amīxī?, amictum) — forma perfeita atestada 'amixi'. | [dedupe] redirect → chunk_1595:1595:0 | [dedupe] redirect → chunk_1595:1595:0",
-    "raw_text": "{\"id\":\"chunk_1629:1629:1\",\"lemas\":[\"amicio\",\"amicīre\",\"amīcīre\"],\"lema_canonico\":\"amicio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"amicio, amicīre: tr. vestir, cobrir; envolver, cercar; também pass. tomar ou pôr sobre si (vestir-se).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Paradigma reconstruído a partir de Whitaker/Lat→Deu (amicīre, amīciō, amīxī/amīxī?, amictum) — forma perfeita atestada 'amixi'.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_1629:1629:1\",\"lemas\":[\"amicio\",\"amicīre\",\"amīcīre\"],\"lema_canonico\":\"amicio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"amicio, amicīre: tr. vestir, cobrir; envolver, cercar; também pass. tomar ou pôr sobre si (vestir-se).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Paradigma reconstruído a partir de Whitaker/Lat→Deu (amicīre, amīciō, amīxī/amīxī?, amictum) — forma perfeita atestada 'amixi'.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_1630-e1",
     "volume_id": "faria",
     "doc_name": "chunk_1630",
@@ -856,94 +702,6 @@
     "notas": "Forma Ameense normalizada a partir do composto OCR; inclui variante Ammaeensis.",
     "raw_text": "{\"id\":\"chunk_1631:1631:0\",\"lemas\":[\"Ameense\",\"Ammaeensis\"],\"lema_canonico\":\"Ameense\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"relativo a Ammaeia (cidade da Lusitânia); gentílico/adjetivo de origem geográfica\",\"aliases\":[\"Ammaeensis\"],\"exemplos\":[\"Plin. H. Nat. 37, 24\"],\"notas\":\"Forma Ameense normalizada a partir do composto OCR; inclui variante Ammaeensis.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_1631:1631:0\",\"lemas\":[\"Ameense\",\"Ammaeensis\"],\"lema_canonico\":\"Ameense\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"relativo a Ammaeia (cidade da Lusitânia); gentílico/adjetivo de origem geográfica\",\"aliases\":[\"Ammaeensis\"],\"exemplos\":[\"Plin. H. Nat. 37, 24\"],\"notas\":\"Forma Ameense normalizada a partir do composto OCR; inclui variante Ammaeensis.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_1632-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_1632",
-    "page_num": 1632,
-    "lemmas": [
-      "amentum",
-      "amentum"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "correia/alça usada para lançar dardo/lança; também tira de sandália",
-    "exemplos": [],
-    "notas": "Grafia e morfologia confirmadas por Lewis & Short e Whitaker (āmentum, -ī, n.). | [dedupe] redirect → chunk_1579:1579:1 | [dedupe] redirect → chunk_1579:1579:1",
-    "raw_text": "{\"id\":\"chunk_1632:1632:0\",\"lemas\":[\"amentum\"],\"lema_canonico\":\"amentum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"correia/alça usada para lançar dardo/lança; também tira de sandália\",\"aliases\":[],\"exemplos\":[\"Ov. M. 12, 321\",\"Verg. A. 9, 665\",\"Plin. NH 34, 6, 14\"],\"notas\":\"Grafia e morfologia confirmadas por Lewis & Short e Whitaker (āmentum, -ī, n.).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_1632:1632:0\",\"lemas\":[\"amentum\"],\"lema_canonico\":\"amentum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"correia/alça usada para lançar dardo/lança; também tira de sandália\",\"aliases\":[],\"exemplos\":[\"Ov. M. 12, 321\",\"Verg. A. 9, 665\",\"Plin. NH 34, 6, 14\"],\"notas\":\"Grafia e morfologia confirmadas por Lewis & Short e Whitaker (āmentum, -ī, n.).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_1633-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_1633",
-    "page_num": 1633,
-    "lemmas": [
-      "admitto",
-      "admitto"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "variante ortográfica de admitto ‘admitir, lançar para dentro, permitir’",
-    "exemplos": [],
-    "notas": "Normalizada para admitto; ammitto é grafia corrupta/medieval. | [dedupe] redirect → chunk_594:594:0 | [dedupe] redirect → chunk_594:594:0",
-    "raw_text": "{\"id\":\"chunk_1633:1633:2\",\"lemas\":[\"ammitto\",\"admitto\"],\"lema_canonico\":\"admitto\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"variante ortográfica de admitto ‘admitir, lançar para dentro, permitir’\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizada para admitto; ammitto é grafia corrupta/medieval.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_1633:1633:2\",\"lemas\":[\"ammitto\",\"admitto\"],\"lema_canonico\":\"admitto\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"variante ortográfica de admitto ‘admitir, lançar para dentro, permitir’\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizada para admitto; ammitto é grafia corrupta/medieval.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_1633-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_1633",
-    "page_num": 1633,
-    "lemmas": [
-      "admitto",
-      "admitto"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "variante ortográfica de admitto ‘admitir, lançar para dentro, permitir’",
-    "exemplos": [],
-    "notas": "Entrada repetida; unificada com admitto como lema canónico. | [dedupe] redirect → chunk_594:594:0 | [dedupe] redirect → chunk_594:594:0",
-    "raw_text": "{\"id\":\"chunk_1633:1633:3\",\"lemas\":[\"ammitto\",\"admitto\"],\"lema_canonico\":\"admitto\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"variante ortográfica de admitto ‘admitir, lançar para dentro, permitir’\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada repetida; unificada com admitto como lema canónico.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_1633:1633:3\",\"lemas\":[\"ammitto\",\"admitto\"],\"lema_canonico\":\"admitto\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"variante ortográfica de admitto ‘admitir, lançar para dentro, permitir’\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada repetida; unificada com admitto como lema canónico.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_1633-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_1633",
-    "page_num": 1633,
-    "lemmas": [
-      "Ammaeensis",
-      "Ammaeensis"
-    ],
-    "morfologia": "adj. (3) 2T",
-    "morph_render": "adj. (3) 2T",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada remissiva no original (v. Ammaeensis); mantida como redirecionamento para o lema canónico. | [dedupe] redirect → chunk_1630:1630:0 | [dedupe] redirect → chunk_1630:1630:0",
-    "raw_text": "{\"id\":\"chunk_1633:1633:0\",\"lemas\":[\"Ammaeensis\"],\"lema_canonico\":\"Ammaeensis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Ammaeensis\"],\"exemplos\":[],\"notas\":\"Entrada remissiva no original (v. Ammaeensis); mantida como redirecionamento para o lema canónico.\",\"flags\":[\"src_firstpass\",\"src_whitaker\",\"conf:med\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_1633:1633:0\",\"lemas\":[\"Ammaeensis\"],\"lema_canonico\":\"Ammaeensis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Ammaeensis\"],\"exemplos\":[],\"notas\":\"Entrada remissiva no original (v. Ammaeensis); mantida como redirecionamento para o lema canónico.\",\"flags\":[\"src_firstpass\",\"src_whitaker\",\"conf:med\",\"redirect_only\"]}"
   },
   {
     "id": "chunk_1633-e4",
@@ -1010,50 +768,6 @@
     "notas": "Entrada incerta/possível erro tipográfico (amnō = admoneo). Mantida forma como no first_pass; requer verificação.",
     "raw_text": "{\"id\":\"chunk_1634:1634:1\",\"lemas\":[\"amno\"],\"lema_canonico\":\"amno\",\"morfologia\":\"\",\"morph_extra\":[],\"definicao\":\"indicação no original como equivalente de admoneo (forma incerta)\",\"aliases\":[\"admoneo\"],\"exemplos\":[],\"notas\":\"Entrada incerta/possível erro tipográfico (amnō = admoneo). Mantida forma como no first_pass; requer verificação.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_1634:1634:1\",\"lemas\":[\"amno\"],\"lema_canonico\":\"amno\",\"morfologia\":\"\",\"morph_extra\":[],\"definicao\":\"indicação no original como equivalente de admoneo (forma incerta)\",\"aliases\":[\"admoneo\"],\"exemplos\":[],\"notas\":\"Entrada incerta/possível erro tipográfico (amnō = admoneo). Mantida forma como no first_pass; requer verificação.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_1635-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_1635",
-    "page_num": 1635,
-    "lemmas": [
-      "Ammōn",
-      "Ammōn"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Nome de Júpiter adorado na África (Siwah), associado a um oráculo; cf. referências clássicas.",
-    "exemplos": [],
-    "notas": "Restaurado a forma do Lewis & Short; corrigida a leitura do OCR que confundiu outro substantivo. | [dedupe] redirect → chunk_1635:1635:3 | [dedupe] redirect → chunk_1635:1635:3 | [ocr_fix 2025-08-17T19:55:48Z] match direto em LS por lemma/lemma_norm | lemma_in='Ammōn' → 'Ammōn'",
-    "raw_text": "{\"id\":\"chunk_1635:1635:0\",\"lemas\":[\"Ammōn\",\"Ammon\"],\"lema_canonico\":\"Ammōn\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Nome de Júpiter adorado na África (Siwah), associado a um oráculo; cf. referências clássicas.\",\"aliases\":[],\"exemplos\":[\"Cat. 7, 5 sqq.\",\"Curt. 4, 7\",\"Luc. 9, 511 s.\",\"Plin. Nat. 37, 10, §167\"],\"notas\":\"Restaurado a forma do Lewis & Short; corrigida a leitura do OCR que confundiu outro substantivo.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_1635:1635:0\",\"lemas\":[\"Ammōn\",\"Ammon\"],\"lema_canonico\":\"Ammōn\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Nome de Júpiter adorado na África (Siwah), associado a um oráculo; cf. referências clássicas.\",\"aliases\":[],\"exemplos\":[\"Cat. 7, 5 sqq.\",\"Curt. 4, 7\",\"Luc. 9, 511 s.\",\"Plin. Nat. 37, 10, §167\"],\"notas\":\"Restaurado a forma do Lewis & Short; corrigida a leitura do OCR que confundiu outro substantivo.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_1635-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_1635",
-    "page_num": 1635,
-    "lemmas": [
-      "Ammōniacus",
-      "Ammōniacus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Pertencente a Ammōn; relativo a produtos de Ammon (ex.: sal ammoniac).",
-    "exemplos": [],
-    "notas": "Atestado em Lewis & Short; forma vulgarizada 'ammoniacus' incluída como variante. | [dedupe] redirect → chunk_1636:1636:0 | [dedupe] redirect → chunk_1636:1636:0",
-    "raw_text": "{\"id\":\"chunk_1635:1635:1\",\"lemas\":[\"Ammōniacus\",\"ammoniacus\"],\"lema_canonico\":\"Ammōniacus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Pertencente a Ammōn; relativo a produtos de Ammon (ex.: sal ammoniac).\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 31, 7, §79\",\"Colum. 6, 17, 7\",\"Ov. Med. Fac. 94\"],\"notas\":\"Atestado em Lewis & Short; forma vulgarizada 'ammoniacus' incluída como variante.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_1635:1635:1\",\"lemas\":[\"Ammōniacus\",\"ammoniacus\"],\"lema_canonico\":\"Ammōniacus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Pertencente a Ammōn; relativo a produtos de Ammon (ex.: sal ammoniac).\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 31, 7, §79\",\"Colum. 6, 17, 7\",\"Ov. Med. Fac. 94\"],\"notas\":\"Atestado em Lewis & Short; forma vulgarizada 'ammoniacus' incluída como variante.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_1635-e3",
@@ -1604,28 +1318,6 @@
     "notas": "Lema normalizado a partir de Amphĭărāus (LS). | [ocr_fix 2025-08-17T19:55:51Z] match direto em LS por lemma/lemma_norm | lemma_in='Amphiaraus' → 'Amphĭărāus'",
     "raw_text": "{\"id\":\"chunk_1656:1656:0\",\"lemas\":[\"Amphiaraus\",\"Amphĭărāus\"],\"lema_canonico\":\"Amphiaraus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Adivinho grego famoso de Argos; pai de Alcmeão e Amfiloco; compelido por Polinices a seguir à guerra tebana, foi tragado pela terra com sua quadriga.\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 1, 40\",\"Ov. P. 3, 1, 52\",\"Cic. Div. I, 88\"],\"notas\":\"Lema normalizado a partir de Amphĭărāus (LS).\",\"flags\":[\"src_ls\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_1656:1656:0\",\"lemas\":[\"Amphiaraus\",\"Amphĭărāus\"],\"lema_canonico\":\"Amphiaraus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Adivinho grego famoso de Argos; pai de Alcmeão e Amfiloco; compelido por Polinices a seguir à guerra tebana, foi tragado pela terra com sua quadriga.\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 1, 40\",\"Ov. P. 3, 1, 52\",\"Cic. Div. I, 88\"],\"notas\":\"Lema normalizado a partir de Amphĭărāus (LS).\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_1657-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_1657",
-    "page_num": 1657,
-    "lemmas": [
-      "Ampўcĭdes",
-      "Ampўcĭdes"
-    ],
-    "morfologia": "s. masc. 1ª (-ae)",
-    "morph_render": "s. masc. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Nome patronímico/descendente masculino relacionado a Amphiaraus (atestado em Ov. F. 2, 43 segundo a fonte primária).",
-    "exemplos": [],
-    "notas": "Forma potencialmente corrupta/ocrizada ('Amphiarĭdă̆idēs' → 'Amphiaridaides'); não encontrada em Whitaker; requer revisão por especialista.\n[ocr_pipeline 2025-08-16T23:08:52.861369Z] lemma_in='Amphiaridaides' → 'Ampўcĭdes' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:03:14Z] match direto em LS por lemma/lemma_norm | lemma_in='Ampўcĭdes' → 'Ampўcĭdes' | [dedupe] redirect → chunk_1709:1709:0 | [dedupe] redirect → chunk_1709:1709:0",
-    "raw_text": "{\"id\":\"chunk_1657:1657:0\",\"lemas\":[\"Amphiaridaides\"],\"lema_canonico\":\"Amphiaridaides\",\"morfologia\":\"s. masc. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Nome patronímico/descendente masculino relacionado a Amphiaraus (atestado em Ov. F. 2, 43 segundo a fonte primária).\",\"aliases\":[],\"exemplos\":[\"Ov. F. 2, 43\"],\"notas\":\"Forma potencialmente corrupta/ocrizada ('Amphiarĭdă̆idēs' → 'Amphiaridaides'); não encontrada em Whitaker; requer revisão por especialista.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_1657:1657:0\",\"lemas\":[\"Amphiaridaides\"],\"lema_canonico\":\"Amphiaridaides\",\"morfologia\":\"s. masc. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Nome patronímico/descendente masculino relacionado a Amphiaraus (atestado em Ov. F. 2, 43 segundo a fonte primária).\",\"aliases\":[],\"exemplos\":[\"Ov. F. 2, 43\"],\"notas\":\"Forma potencialmente corrupta/ocrizada ('Amphiarĭdă̆idēs' → 'Amphiaridaides'); não encontrada em Whitaker; requer revisão por especialista.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
     "id": "chunk_1658-e1",
@@ -2332,50 +2024,6 @@
     "raw_json": "{\"id\":\"chunk_1686:1686:1\",\"lemas\":[\"amplexor\",\"amplexo\"],\"lema_canonico\":\"amplexor\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"verbo deponente (amplector, amplecti, amplexus sum / variantes amplexor/amplexo): abraçar, envolver, cercar; às vezes usado figuradamente (amar, estimar).\",\"aliases\":[\"amplexo\"],\"exemplos\":[\"Paul. Pouc. 1230\"],\"notas\":\"Registradas variantes amplexor/amplexo; marcada deponência.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_1687-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_1687",
-    "page_num": 1687,
-    "lemmas": [
-      "amplector",
-      "amplector"
-    ],
-    "morfologia": "v. 3ª -ere",
-    "morph_render": "v. 3ª -ere",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "amplector / amplexor, verbo deponente: abraçar, envolver; figuradamente: aceitar, favorecer, amar.",
-    "exemplos": [],
-    "notas": "Forma atestada como deponente (Lewis & Short) e variante amplexor registrada; lema canônico escolhido como amplector. | [dedupe] redirect → chunk_1685:1685:0 | [dedupe] redirect → chunk_1685:1685:0",
-    "raw_text": "{\"id\":\"chunk_1687:1687:0\",\"lemas\":[\"amplexor\",\"amplector\"],\"lema_canonico\":\"amplector\",\"morfologia\":\"v. 3ª -ere\",\"morph_extra\":[\"dep.\"],\"definicao\":\"amplector / amplexor, verbo deponente: abraçar, envolver; figuradamente: aceitar, favorecer, amar.\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 1, 9, 10\",\"Cic. Or. F. 2, 80, 3\",\"Cic. Mur. 83\"],\"notas\":\"Forma atestada como deponente (Lewis & Short) e variante amplexor registrada; lema canônico escolhido como amplector.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_1687:1687:0\",\"lemas\":[\"amplexor\",\"amplector\"],\"lema_canonico\":\"amplector\",\"morfologia\":\"v. 3ª -ere\",\"morph_extra\":[\"dep.\"],\"definicao\":\"amplector / amplexor, verbo deponente: abraçar, envolver; figuradamente: aceitar, favorecer, amar.\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 1, 9, 10\",\"Cic. Or. F. 2, 80, 3\",\"Cic. Mur. 83\"],\"notas\":\"Forma atestada como deponente (Lewis & Short) e variante amplexor registrada; lema canônico escolhido como amplector.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_1688-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_1688",
-    "page_num": 1688,
-    "lemmas": [
-      "amplexus",
-      "amplexus"
-    ],
-    "morfologia": "adj. (3) 3T",
-    "morph_render": "adj. (3) 3T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "particípio perfeito (deponente) de amplector: que abraça, envolve, circunda; usado adjetivalmente com sentido ativo.",
-    "exemplos": [],
-    "notas": "Particípio perfeito de amplector/amplexor; forma passiva morfológica com sentido ativo por deponente. | [dedupe] redirect → chunk_1686:1686:0 | [dedupe] redirect → chunk_1686:1686:0",
-    "raw_text": "{\"id\":\"chunk_1688:1688:0\",\"lemas\":[\"amplexus\"],\"lema_canonico\":\"amplexus\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito (deponente) de amplector: que abraça, envolve, circunda; usado adjetivalmente com sentido ativo.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Particípio perfeito de amplector/amplexor; forma passiva morfológica com sentido ativo por deponente.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_1688:1688:0\",\"lemas\":[\"amplexus\"],\"lema_canonico\":\"amplexus\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito (deponente) de amplector: que abraça, envolve, circunda; usado adjetivalmente com sentido ativo.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Particípio perfeito de amplector/amplexor; forma passiva morfológica com sentido ativo por deponente.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_1689-e1",
     "volume_id": "faria",
     "doc_name": "chunk_1689",
@@ -2572,28 +2220,6 @@
     "notas": "Entrada retificada de 'ampliter' (OCR confunde blocos); corresponde a amplitūdo em LS/Whitaker",
     "raw_text": "{\"id\":\"chunk_1697:1697:0\",\"lemas\":[\"amplitudo\"],\"lema_canonico\":\"amplitudo\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"amplitude, grandeza, dimensão; figuradamente, importância, reputação; no retórico, pompa/ostentação\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 4, 109\",\"Cic. Tusc. 2, 64\",\"Cic. Or. 5\"],\"notas\":\"Entrada retificada de 'ampliter' (OCR confunde blocos); corresponde a amplitūdo em LS/Whitaker\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_1697:1697:0\",\"lemas\":[\"amplitudo\"],\"lema_canonico\":\"amplitudo\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"amplitude, grandeza, dimensão; figuradamente, importância, reputação; no retórico, pompa/ostentação\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 4, 109\",\"Cic. Tusc. 2, 64\",\"Cic. Or. 5\"],\"notas\":\"Entrada retificada de 'ampliter' (OCR confunde blocos); corresponde a amplitūdo em LS/Whitaker\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_1697-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_1697",
-    "page_num": 1697,
-    "lemmas": [
-      "amplitudo",
-      "amplitudo"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "amplitude, grandeza, extensão; figur.: grandeza, importância, dignidade; em retórica: magnificência do estilo; também substantivado comparativo (maior abundância).",
-    "exemplos": [],
-    "notas": "Unificação de variantes acentuadas; sentido de substantivado comparativo confirmado em LS. | [dedupe] redirect → chunk_1697:1697:0 | [dedupe] redirect → chunk_1697:1697:0",
-    "raw_text": "{\"id\":\"chunk_1697:1697:1\",\"lemas\":[\"amplitudo\",\"amplitūdo\"],\"lema_canonico\":\"amplitudo\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"amplitude, grandeza, extensão; figur.: grandeza, importância, dignidade; em retórica: magnificência do estilo; também substantivado comparativo (maior abundância).\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 4, 109\",\"Cic. Tusc. 2, 64\",\"Cic. Or. 5\",\"Cic. Cat. 4, 9\"],\"notas\":\"Unificação de variantes acentuadas; sentido de substantivado comparativo confirmado em LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_1697:1697:1\",\"lemas\":[\"amplitudo\",\"amplitūdo\"],\"lema_canonico\":\"amplitudo\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"amplitude, grandeza, extensão; figur.: grandeza, importância, dignidade; em retórica: magnificência do estilo; também substantivado comparativo (maior abundância).\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 4, 109\",\"Cic. Tusc. 2, 64\",\"Cic. Or. 5\",\"Cic. Cat. 4, 9\"],\"notas\":\"Unificação de variantes acentuadas; sentido de substantivado comparativo confirmado em LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_1698-e1",
@@ -2838,28 +2464,6 @@
     "raw_json": "{\"id\":\"chunk_1707:1707:1\",\"lemas\":[\"amputatus\",\"amputata\",\"amputatum\"],\"lema_canonico\":\"amputatus\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito/passivo de amputō (cortado, podado)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Particípio alinhado com Whitaker e Lat→Deu (PPP de amputāre).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_1708-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_1708",
-    "page_num": 1708,
-    "lemmas": [
-      "amputatio",
-      "amputatio"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "o ato de cortar; poda, corte de ramos; meton.: a parte cortada.",
-    "exemplos": [],
-    "notas": "Lema e sentido confirmados em Lewis & Short e Whitaker; genitivo/declinação 3ª. | [dedupe] redirect → chunk_1707:1707:0 | [dedupe] redirect → chunk_1707:1707:0",
-    "raw_text": "{\"id\":\"chunk_1708:1708:0\",\"lemas\":[\"amputatio\",\"ampūtātĭo\"],\"lema_canonico\":\"amputatio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"o ato de cortar; poda, corte de ramos; meton.: a parte cortada.\",\"aliases\":[],\"exemplos\":[\"Cic. Sen. 15\",\"Plin. Nat. 12, 25, 54\"],\"notas\":\"Lema e sentido confirmados em Lewis & Short e Whitaker; genitivo/declinação 3ª.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_1708:1708:0\",\"lemas\":[\"amputatio\",\"ampūtātĭo\"],\"lema_canonico\":\"amputatio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"o ato de cortar; poda, corte de ramos; meton.: a parte cortada.\",\"aliases\":[],\"exemplos\":[\"Cic. Sen. 15\",\"Plin. Nat. 12, 25, 54\"],\"notas\":\"Lema e sentido confirmados em Lewis & Short e Whitaker; genitivo/declinação 3ª.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_1708-e2",
     "volume_id": "faria",
     "doc_name": "chunk_1708",
@@ -2946,28 +2550,6 @@
     "notas": "Forma e gén. confirmadas em Lewis & Short (gen. -ycis). | [ocr_fix 2025-08-17T19:44:28Z] match direto em LS por lemma/lemma_norm | lemma_in='Ampyx' → 'Ampyx'",
     "raw_text": "{\"id\":\"chunk_1711:1711:0\",\"lemas\":[\"Ampyx\"],\"lema_canonico\":\"Ampyx\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"nome próprio: (1) um dos Lapíthae; (2) companheiro de Fineu transformado em pedra por Perseu\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 12, 450\",\"Ov. Met. 5, 184\"],\"notas\":\"Forma e gén. confirmadas em Lewis & Short (gen. -ycis).\",\"flags\":[\"src_ls\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_1711:1711:0\",\"lemas\":[\"Ampyx\"],\"lema_canonico\":\"Ampyx\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"nome próprio: (1) um dos Lapíthae; (2) companheiro de Fineu transformado em pedra por Perseu\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 12, 450\",\"Ov. Met. 5, 184\"],\"notas\":\"Forma e gén. confirmadas em Lewis & Short (gen. -ycis).\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_1712-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_1712",
-    "page_num": 1712,
-    "lemmas": [
-      "Amsanetus",
-      "Amsanetus"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:low",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Remissão indicada no impresso ('v. Ampsănetus'); lema normalizado retirando breve.",
-    "raw_text": "{\"id\":\"chunk_1712:1712:0\",\"lemas\":[\"Amsanetus\"],\"lema_canonico\":\"Amsanetus\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Ampsanetus\"],\"exemplos\":[],\"notas\":\"Remissão indicada no impresso ('v. Ampsănetus'); lema normalizado retirando breve.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_1712:1712:0\",\"lemas\":[\"Amsanetus\"],\"lema_canonico\":\"Amsanetus\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Ampsanetus\"],\"exemplos\":[],\"notas\":\"Remissão indicada no impresso ('v. Ampsănetus'); lema normalizado retirando breve.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"redirect_only\"]}"
   },
   {
     "id": "chunk_1713-e1",
@@ -3190,28 +2772,6 @@
     "raw_json": "{\"id\":\"chunk_1722:1722:0\",\"lemas\":[\"Amycus\"],\"lema_canonico\":\"Amycus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Nome próprio masculino: Amycus, personagem mitológico (filho de Netuno; também nome de centauro; troiano)\",\"aliases\":[],\"exemplos\":[\"V. Flac. 4, 148\",\"Ov. Met. 12, 245\",\"Verg. En. 10, 704\"],\"notas\":\"Mantido lema tradicional e referências; genitivo -ī indicado no original.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}"
   },
   {
-    "id": "chunk_1723-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_1723",
-    "page_num": 1723,
-    "lemmas": [
-      "ampĕlŏs",
-      "ampĕlŏs"
-    ],
-    "morfologia": "s. 3ª (-is)",
-    "morph_render": "s. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "topônimo próprio: Amydon (Amídion), cidade da Macedônia mencionada em textos clássicos.",
-    "exemplos": [],
-    "notas": "Forma e acentuação conservadas; falta confirmação em dicionários principais.\n[ocr_pipeline 2025-08-16T23:23:07.443671Z] lemma_in='Amydon' → 'Ampĕlŏs' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:22:16Z] match direto em LS por lemma/lemma_norm | lemma_in='Ampĕlŏs' → 'ampĕlŏs' | [dedupe] redirect → chunk_1654:1654:0 | [dedupe] redirect → chunk_1654:1654:0",
-    "raw_text": "{\"id\":\"chunk_1723:1723:0\",\"lemas\":[\"Amydon\",\"Amydōn\"],\"lema_canonico\":\"Amydon\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"topônimo próprio: Amydon (Amídion), cidade da Macedônia mencionada em textos clássicos.\",\"aliases\":[\"Amydōn\"],\"exemplos\":[\"Juv. 3, 69\"],\"notas\":\"Forma e acentuação conservadas; falta confirmação em dicionários principais.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_1723:1723:0\",\"lemas\":[\"Amydon\",\"Amydōn\"],\"lema_canonico\":\"Amydon\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"topônimo próprio: Amydon (Amídion), cidade da Macedônia mencionada em textos clássicos.\",\"aliases\":[\"Amydōn\"],\"exemplos\":[\"Juv. 3, 69\"],\"notas\":\"Forma e acentuação conservadas; falta confirmação em dicionários principais.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
     "id": "chunk_1724-e1",
     "volume_id": "faria",
     "doc_name": "chunk_1724",
@@ -3432,28 +2992,6 @@
     "raw_json": "{\"id\":\"chunk_1729:1729:0\",\"lemas\":[\"Amyntias\"],\"lema_canonico\":\"Amyntias\",\"morfologia\":\"s. masc. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Amyntias, nome próprio (rei da Macedônia, pai de Filipe).\",\"aliases\":[],\"exemplos\":[\"Cic. Nep. Reg. 2\"],\"notas\":\"Forma em -ae, 1ª declinação masculina conservada; anotação Whitaker=UNKNOWN.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_1730-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_1730",
-    "page_num": 1730,
-    "lemmas": [
-      "Ămȳclīdēs",
-      "Ămȳclīdēs"
-    ],
-    "morfologia": "s. masc. 1ª (-ae)",
-    "morph_render": "s. masc. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Patronímico/epíteto derivado de Amyntias; 1) descendente de Amyntias; 2) nome de pastor (Bucolica).",
-    "exemplos": [],
-    "notas": "Primeira declinação patronímica; normalizada de variantes OCR; Whitaker marca UNKNOWN.\n[ocr_pipeline 2025-08-16T23:08:51.159667Z] lemma_in='Amyntiades' → 'Ămȳclīdēs' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:03:12Z] match direto em LS por lemma/lemma_norm | lemma_in='Ămȳclīdēs' → 'Ămȳclīdēs' | [dedupe] redirect → chunk_1721:1721:0 | [dedupe] redirect → chunk_1721:1721:0",
-    "raw_text": "{\"id\":\"chunk_1730:1730:0\",\"lemas\":[\"Amyntiades\"],\"lema_canonico\":\"Amyntiades\",\"morfologia\":\"s. masc. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Patronímico/epíteto derivado de Amyntias; 1) descendente de Amyntias; 2) nome de pastor (Bucolica).\",\"aliases\":[],\"exemplos\":[\"Ov. 297\",\"Verg. Buc. 3, 66\"],\"notas\":\"Primeira declinação patronímica; normalizada de variantes OCR; Whitaker marca UNKNOWN.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_1730:1730:0\",\"lemas\":[\"Amyntiades\"],\"lema_canonico\":\"Amyntiades\",\"morfologia\":\"s. masc. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Patronímico/epíteto derivado de Amyntias; 1) descendente de Amyntias; 2) nome de pastor (Bucolica).\",\"aliases\":[],\"exemplos\":[\"Ov. 297\",\"Verg. Buc. 3, 66\"],\"notas\":\"Primeira declinação patronímica; normalizada de variantes OCR; Whitaker marca UNKNOWN.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
     "id": "chunk_1731-e1",
     "volume_id": "faria",
     "doc_name": "chunk_1731",
@@ -3628,28 +3166,6 @@
     "notas": "Sintese e limpeza do texto OCR; harmonizado com Whitaker e Lewis & Short.",
     "raw_text": "{\"id\":\"chunk_1736:1736:1\",\"lemas\":[\"an\"],\"lema_canonico\":\"an\",\"morfologia\":\"conj.\",\"morph_extra\":[],\"definicao\":\"Partícula interrogativa que introduz perguntas dubitativas ou alternativas; 'porventura?', 'ou?'.\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 1, 10\",\"Cic. Quinct. 81\",\"Ter. Eun. 546\",\"Cic. De Or. 1, 263\",\"Verg. G. 1, 25\"],\"notas\":\"Sintese e limpeza do texto OCR; harmonizado com Whitaker e Lewis & Short.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_1736:1736:1\",\"lemas\":[\"an\"],\"lema_canonico\":\"an\",\"morfologia\":\"conj.\",\"morph_extra\":[],\"definicao\":\"Partícula interrogativa que introduz perguntas dubitativas ou alternativas; 'porventura?', 'ou?'.\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 1, 10\",\"Cic. Quinct. 81\",\"Ter. Eun. 546\",\"Cic. De Or. 1, 263\",\"Verg. G. 1, 25\"],\"notas\":\"Sintese e limpeza do texto OCR; harmonizado com Whitaker e Lewis & Short.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_1737-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_1737",
-    "page_num": 1737,
-    "lemmas": [
-      "Ănas",
-      "ănăs"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "nome de rio na Bética (lat. Ănas; moderno Guadiana).",
-    "exemplos": [],
-    "notas": "Entrada referida especificamente ao topónimo fluvial; gênero 1ª decl. confirmado em LS. | [dedupe] redirect → chunk_1763:1763:0 | [dedupe] redirect → chunk_1763:1763:0 | [ocr_fix 2025-08-17T19:55:53Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='Anas' → 'ănăs' | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='ănăs' → 'Ănas'",
-    "raw_text": "{\"id\":\"chunk_1737:1737:0\",\"lemas\":[\"Anas\"],\"lema_canonico\":\"Anas\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"nome de rio na Bética (lat. Ănas; moderno Guadiana).\",\"aliases\":[],\"exemplos\":[\"Caes. B. Civ. 1, 38\"],\"notas\":\"Entrada referida especificamente ao topónimo fluvial; gênero 1ª decl. confirmado em LS.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_1737:1737:0\",\"lemas\":[\"Anas\"],\"lema_canonico\":\"Anas\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"nome de rio na Bética (lat. Ănas; moderno Guadiana).\",\"aliases\":[],\"exemplos\":[\"Caes. B. Civ. 1, 38\"],\"notas\":\"Entrada referida especificamente ao topónimo fluvial; gênero 1ª decl. confirmado em LS.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
     "id": "chunk_1738-e1",
@@ -4024,28 +3540,6 @@
     "notas": "Plural (analectrides) atestado; singular analectris (LS/Whitaker).",
     "raw_text": "{\"id\":\"chunk_1754:1754:0\",\"lemas\":[\"analectrides\",\"analectris\"],\"lema_canonico\":\"analectris\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"almofadinhas/almofadas para os ombros (modelo de vestir); 'shoulder-pads'.\",\"aliases\":[],\"exemplos\":[\"Ov. Am. 3, 273\"],\"notas\":\"Plural (analectrides) atestado; singular analectris (LS/Whitaker).\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_1754:1754:0\",\"lemas\":[\"analectrides\",\"analectris\"],\"lema_canonico\":\"analectris\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"almofadinhas/almofadas para os ombros (modelo de vestir); 'shoulder-pads'.\",\"aliases\":[],\"exemplos\":[\"Ov. Am. 3, 273\"],\"notas\":\"Plural (analectrides) atestado; singular analectris (LS/Whitaker).\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_1754-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_1754",
-    "page_num": 1754,
-    "lemmas": [
-      "analectrida",
-      "analectrida"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Forma remissiva/variant; redireciona para analectrides/analectris.",
-    "raw_text": "{\"id\":\"chunk_1754:1754:1\",\"lemas\":[\"analectrida\"],\"lema_canonico\":\"analectrida\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"analectrides\",\"analectris\"],\"exemplos\":[],\"notas\":\"Forma remissiva/variant; redireciona para analectrides/analectris.\",\"flags\":[\"src_firstpass\",\"src_whitaker\",\"conf:med\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_1754:1754:1\",\"lemas\":[\"analectrida\"],\"lema_canonico\":\"analectrida\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"analectrides\",\"analectris\"],\"exemplos\":[],\"notas\":\"Forma remissiva/variant; redireciona para analectrides/analectris.\",\"flags\":[\"src_firstpass\",\"src_whitaker\",\"conf:med\",\"redirect_only\"]}"
   },
   {
     "id": "chunk_1755-e1",
@@ -4684,28 +4178,6 @@
     "notas": "Normalizada a forma e a capitalização; suportado por Whitaker e Lewis & Short.",
     "raw_text": "{\"id\":\"chunk_1781:1781:1\",\"lemas\":[\"anchora\"],\"lema_canonico\":\"anchora\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"âncora; instrumento para prender navios (Lat. < Gr. ἄγκυρα).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizada a forma e a capitalização; suportado por Whitaker e Lewis & Short.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_1781:1781:1\",\"lemas\":[\"anchora\"],\"lema_canonico\":\"anchora\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"âncora; instrumento para prender navios (Lat. < Gr. ἄγκυρα).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizada a forma e a capitalização; suportado por Whitaker e Lewis & Short.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_1782-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_1782",
-    "page_num": 1782,
-    "lemmas": [
-      "anchora",
-      "anchora"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "âncora; substantivo feminino de 1ª declinação (origem grega ἄγκυρα).",
-    "exemplos": [],
-    "notas": "Entrada confirmada e harmonizada com Whitaker e Lewis & Short; removida leitura errónea 'v. ancora'. | [dedupe] redirect → chunk_1781:1781:1 | [dedupe] redirect → chunk_1781:1781:1",
-    "raw_text": "{\"id\":\"chunk_1782:1782:0\",\"lemas\":[\"anchora\"],\"lema_canonico\":\"anchora\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"âncora; substantivo feminino de 1ª declinação (origem grega ἄγκυρα).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada confirmada e harmonizada com Whitaker e Lewis & Short; removida leitura errónea 'v. ancora'.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_1782:1782:0\",\"lemas\":[\"anchora\"],\"lema_canonico\":\"anchora\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"âncora; substantivo feminino de 1ª declinação (origem grega ἄγκυρα).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada confirmada e harmonizada com Whitaker e Lewis & Short; removida leitura errónea 'v. ancora'.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
   },
   {
     "id": "chunk_1783-e1",

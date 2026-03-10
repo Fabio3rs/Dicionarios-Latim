@@ -352,28 +352,6 @@
     "raw_json": "{\"id\":\"chunk_24415:24415:0\",\"lemas\":[\"retardatus\"],\"lema_canonico\":\"retardatus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de retardō: atrasado, retardado\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Particípio do verbo retardō (retardāre) confirmado (Whitaker, Lat→Deu)\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_24416-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_24416",
-    "page_num": 24416,
-    "lemmas": [
-      "rĕ-tardo",
-      "rĕ-tardo"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "atrasar, retardar, deter; fig.: impedir, paralisar",
-    "exemplos": [],
-    "notas": "Lematizado e normalizado para retardo, conforme Whitaker; citações mantidas. | [dedupe] redirect → chunk_24412:24412:0 | [dedupe] redirect → chunk_24412:24412:0 | [ocr_fix 2025-08-17T19:53:20Z] match direto em LS por lemma/lemma_norm | lemma_in='retardo' → 'rĕ-tardo'",
-    "raw_text": "{\"id\":\"chunk_24416:24416:0\",\"lemas\":[\"retardo\",\"retardare\",\"retardavi\",\"retardatus\"],\"lema_canonico\":\"retardo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"atrasar, retardar, deter; fig.: impedir, paralisar\",\"aliases\":[],\"exemplos\":[\"Cic. Phil. 10, 11\",\"Cic. Nat. 2, 103\",\"Cic. Sest. 67\",\"Cic. Fam. 5, 17, 1\"],\"notas\":\"Lematizado e normalizado para retardo, conforme Whitaker; citações mantidas.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_24416:24416:0\",\"lemas\":[\"retardo\",\"retardare\",\"retardavi\",\"retardatus\"],\"lema_canonico\":\"retardo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"atrasar, retardar, deter; fig.: impedir, paralisar\",\"aliases\":[],\"exemplos\":[\"Cic. Phil. 10, 11\",\"Cic. Nat. 2, 103\",\"Cic. Sest. 67\",\"Cic. Fam. 5, 17, 1\"],\"notas\":\"Lematizado e normalizado para retardo, conforme Whitaker; citações mantidas.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_24417-e1",
     "volume_id": "faria",
     "doc_name": "chunk_24417",
@@ -394,28 +372,6 @@
     "notas": "Paradigma retexere, retexuī, retextum confirmado (Lat→Deu, Whitaker)",
     "raw_text": "{\"id\":\"chunk_24417:24417:0\",\"lemas\":[\"retexo\",\"retexere\"],\"lema_canonico\":\"retexo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"verbo: desfazer ou refazer tecido; renovar, repetir; também: retrabalhar, refazer, revogar\",\"aliases\":[],\"exemplos\":[\"Suet. Vesp. 13\"],\"notas\":\"Paradigma retexere, retexuī, retextum confirmado (Lat→Deu, Whitaker)\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_24417:24417:0\",\"lemas\":[\"retexo\",\"retexere\"],\"lema_canonico\":\"retexo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"verbo: desfazer ou refazer tecido; renovar, repetir; também: retrabalhar, refazer, revogar\",\"aliases\":[],\"exemplos\":[\"Suet. Vesp. 13\"],\"notas\":\"Paradigma retexere, retexuī, retextum confirmado (Lat→Deu, Whitaker)\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_24418-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_24418",
-    "page_num": 24418,
-    "lemmas": [
-      "rete",
-      "rete"
-    ],
-    "morfologia": "s. neut. 3ª (-is)",
-    "morph_render": "s. neut. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Rede, laço; frequentemente usado no plural para redes, armadilhas.",
-    "exemplos": [],
-    "notas": "Forma plural retia/retia registrada em LS; lema grafado com macron conforme LS. | [dedupe] redirect → chunk_24048:24048:5 | [dedupe] redirect → chunk_24048:24048:5",
-    "raw_text": "{\"id\":\"chunk_24418:24418:0\",\"lemas\":[\"rete\",\"retia\"],\"lema_canonico\":\"rete\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Rede, laço; frequentemente usado no plural para redes, armadilhas.\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 2, 123\",\"Plaut. Pers. 746\"],\"notas\":\"Forma plural retia/retia registrada em LS; lema grafado com macron conforme LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_24418:24418:0\",\"lemas\":[\"rete\",\"retia\"],\"lema_canonico\":\"rete\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Rede, laço; frequentemente usado no plural para redes, armadilhas.\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 2, 123\",\"Plaut. Pers. 746\"],\"notas\":\"Forma plural retia/retia registrada em LS; lema grafado com macron conforme LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_24419-e1",
@@ -528,28 +484,6 @@
     "raw_json": "{\"id\":\"chunk_24422:24422:0\",\"lemas\":[\"retendo\",\"retendō\"],\"lema_canonico\":\"retendo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"retendō: verbo transitivo da 3ª conjugação ‘distender, relaxar; afrouxar, aliviar tensão; soltar (de tensão)’\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigido OCR que confundia formas; lema normalizado para retendo/retendō.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_24423-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_24423",
-    "page_num": 24423,
-    "lemmas": [
-      "retendo",
-      "retendo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "retendō: distendere; relaxar; afrouxar; aliviar tensão; conter/segurar parcialmente",
-    "exemplos": [],
-    "notas": "Entrada harmonizada com paradigmática normal (retendō, retendī, retentum) e exemplos preservados. | [dedupe] redirect → chunk_24422:24422:0 | [dedupe] redirect → chunk_24422:24422:0",
-    "raw_text": "{\"id\":\"chunk_24423:24423:0\",\"lemas\":[\"retendo\",\"retendō\"],\"lema_canonico\":\"retendo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"retendō: distendere; relaxar; afrouxar; aliviar tensão; conter/segurar parcialmente\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 2, 419\",\"Quint. 1, 3, 8\"],\"notas\":\"Entrada harmonizada com paradigmática normal (retendō, retendī, retentum) e exemplos preservados.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_24423:24423:0\",\"lemas\":[\"retendo\",\"retendō\"],\"lema_canonico\":\"retendo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"retendō: distendere; relaxar; afrouxar; aliviar tensão; conter/segurar parcialmente\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 2, 419\",\"Quint. 1, 3, 8\"],\"notas\":\"Entrada harmonizada com paradigmática normal (retendō, retendī, retentum) e exemplos preservados.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_24424-e1",
     "volume_id": "faria",
     "doc_name": "chunk_24424",
@@ -616,28 +550,6 @@
     "raw_json": "{\"id\":\"chunk_24426:24426:0\",\"lemas\":[\"retineo\",\"retinēō\"],\"lema_canonico\":\"retineo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"retineō: reter, segurar, conter; preservar, conservar\",\"aliases\":[],\"exemplos\":[\"Ov. Am. 2, 9, 30\",\"T. Liv. 10, 5\",\"Cic. Div. 1, 17\"],\"notas\":\"Normalizada a forma longa (retineō) e significados consolidados a partir de LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_24427-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_24427",
-    "page_num": 24427,
-    "lemmas": [
-      "retineo",
-      "retineo"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "retineō: reter; sustentar; tentar manter algo — definição alinhada com entradas canônicas; variante 'retinempto' é erro/OCR",
-    "exemplos": [],
-    "notas": "Removida a forma corrupta 'retinempto' (OCR/first_pass); entrada reconstruída a partir de dicionários. | [dedupe] redirect → chunk_24426:24426:0 | [dedupe] redirect → chunk_24426:24426:0",
-    "raw_text": "{\"id\":\"chunk_24427:24427:0\",\"lemas\":[\"retineo\",\"retinēō\"],\"lema_canonico\":\"retineo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"retineō: reter; sustentar; tentar manter algo — definição alinhada com entradas canônicas; variante 'retinempto' é erro/OCR\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 1, 746\",\"Ov. Met. 11, 792\"],\"notas\":\"Removida a forma corrupta 'retinempto' (OCR/first_pass); entrada reconstruída a partir de dicionários.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"src_firstpass\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_24427:24427:0\",\"lemas\":[\"retineo\",\"retinēō\"],\"lema_canonico\":\"retineo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"retineō: reter; sustentar; tentar manter algo — definição alinhada com entradas canônicas; variante 'retinempto' é erro/OCR\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 1, 746\",\"Ov. Met. 11, 792\"],\"notas\":\"Removida a forma corrupta 'retinempto' (OCR/first_pass); entrada reconstruída a partir de dicionários.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"src_firstpass\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_24428-e1",
     "volume_id": "faria",
     "doc_name": "chunk_24428",
@@ -660,50 +572,6 @@
     "raw_json": "{\"id\":\"chunk_24428:24428:0\",\"lemas\":[\"retentus\"],\"lema_canonico\":\"retentus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo de retendo (retendere) e de retineo (retinēre); ‘retido, mantido’; também usado substantivamente (cf. retentus, -ūs em Lewis & Short).\",\"aliases\":[],\"exemplos\":[\"Claud. in Rufin. 2, 438\"],\"notas\":\"Unido evidência LS/Whitaker/Lat→Deu; preservada ideia de substantivação.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_24429-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_24429",
-    "page_num": 24429,
-    "lemmas": [
-      "retexo",
-      "retexo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "retexo, retexere, retexuī, retextum: desfazer o trabalho de tecer; desatar, tornar a abrir; anular, refazer, renovar.",
-    "exemplos": [],
-    "notas": "Forma e sentidos confirmados por Lat→Deu, LS e Whitaker. | [dedupe] redirect → chunk_24417:24417:0 | [dedupe] redirect → chunk_24417:24417:0",
-    "raw_text": "{\"id\":\"chunk_24429:24429:0\",\"lemas\":[\"retexo\"],\"lema_canonico\":\"retexo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"retexo, retexere, retexuī, retextum: desfazer o trabalho de tecer; desatar, tornar a abrir; anular, refazer, renovar.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma e sentidos confirmados por Lat→Deu, LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_24429:24429:0\",\"lemas\":[\"retexo\"],\"lema_canonico\":\"retexo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"retexo, retexere, retexuī, retextum: desfazer o trabalho de tecer; desatar, tornar a abrir; anular, refazer, renovar.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma e sentidos confirmados por Lat→Deu, LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_24430-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_24430",
-    "page_num": 24430,
-    "lemmas": [
-      "retexo",
-      "retexo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Desfazer, desatar ou ``unweave''; desfazer tecido; figuradamente: anular, revogar, refazer.",
-    "exemplos": [],
-    "notas": "Paradigma aceito: retexo, retexere, retexui, retextus (conforme LS/Whitaker/Lat→Deu). | [dedupe] redirect → chunk_24417:24417:0 | [dedupe] redirect → chunk_24417:24417:0",
-    "raw_text": "{\"id\":\"chunk_24430:24430:0\",\"lemas\":[\"retexo\",\"retexere\"],\"lema_canonico\":\"retexo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Desfazer, desatar ou ``unweave''; desfazer tecido; figuradamente: anular, revogar, refazer.\",\"aliases\":[],\"exemplos\":[\"Cic. Acad. 2, 95\",\"Cic. Fin. 5, 84\",\"Lucr. 1, 529\",\"Verg. Aen. 12, 763\"],\"notas\":\"Paradigma aceito: retexo, retexere, retexui, retextus (conforme LS/Whitaker/Lat→Deu).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_24430:24430:0\",\"lemas\":[\"retexo\",\"retexere\"],\"lema_canonico\":\"retexo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Desfazer, desatar ou ``unweave''; desfazer tecido; figuradamente: anular, revogar, refazer.\",\"aliases\":[],\"exemplos\":[\"Cic. Acad. 2, 95\",\"Cic. Fin. 5, 84\",\"Lucr. 1, 529\",\"Verg. Aen. 12, 763\"],\"notas\":\"Paradigma aceito: retexo, retexere, retexui, retextus (conforme LS/Whitaker/Lat→Deu).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_24431-e1",
     "volume_id": "faria",
     "doc_name": "chunk_24431",
@@ -724,28 +592,6 @@
     "notas": "Confirmado por LS e Whitaker; morfologia dada como adjetivo 1/2 mais marcador de particípio.",
     "raw_text": "{\"id\":\"chunk_24431:24431:0\",\"lemas\":[\"retextus\"],\"lema_canonico\":\"retextus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo de retexo (retexere, retexuī, retextum); ‘desfeito, refeito’; usado com sentido de anulação ou desfazer do trabalho de tecer.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Confirmado por LS e Whitaker; morfologia dada como adjetivo 1/2 mais marcador de particípio.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_24431:24431:0\",\"lemas\":[\"retextus\"],\"lema_canonico\":\"retextus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo de retexo (retexere, retexuī, retextum); ‘desfeito, refeito’; usado com sentido de anulação ou desfazer do trabalho de tecer.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Confirmado por LS e Whitaker; morfologia dada como adjetivo 1/2 mais marcador de particípio.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_24432-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_24432",
-    "page_num": 24432,
-    "lemmas": [
-      "retexo",
-      "retexo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "desfazer, desfiar, desunir; tornar a separar; revogar, anular; renovar/repetir (sentidos derivados)",
-    "exemplos": [],
-    "notas": "Perfeito clássico retexuī; corroborado por Whitaker/Lat→Deu; corrigido OCR que indicava 'retexi'. | [dedupe] redirect → chunk_24417:24417:0 | [dedupe] redirect → chunk_24417:24417:0",
-    "raw_text": "{\"id\":\"chunk_24432:24432:0\",\"lemas\":[\"retexo\",\"retexere\"],\"lema_canonico\":\"retexo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"desfazer, desfiar, desunir; tornar a separar; revogar, anular; renovar/repetir (sentidos derivados)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Perfeito clássico retexuī; corroborado por Whitaker/Lat→Deu; corrigido OCR que indicava 'retexi'.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_24432:24432:0\",\"lemas\":[\"retexo\",\"retexere\"],\"lema_canonico\":\"retexo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"desfazer, desfiar, desunir; tornar a separar; revogar, anular; renovar/repetir (sentidos derivados)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Perfeito clássico retexuī; corroborado por Whitaker/Lat→Deu; corrigido OCR que indicava 'retexi'.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_24432-e2",
@@ -968,50 +814,6 @@
     "raw_json": "{\"id\":\"chunk_24439:24439:0\",\"lemas\":[\"reticulatus\",\"reticulata\",\"reticulatum\"],\"lema_canonico\":\"reticulatus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Em forma de rede; reticulado, net-like.\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 36, 172\"],\"notas\":\"Flexão plena (masc./fem./neut.) alinhada a LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_24440-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_24440",
-    "page_num": 24440,
-    "lemmas": [
-      "reticulum",
-      "reticulum"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "pequena rede; saco/bolsa feito de malha; rede de pesca pequena; rede para o cabelo; também: instrumento de jogo (rede) e sentido figurado de trama",
-    "exemplos": [],
-    "notas": "Inclui ambas as formas (neut. reticulum e masc. reticulus) conforme LS/Whitaker. | [dedupe] redirect → chunk_24438:24438:0 | [dedupe] redirect → chunk_24438:24438:0",
-    "raw_text": "{\"id\":\"chunk_24440:24440:0\",\"lemas\":[\"reticulum\",\"reticulus\"],\"lema_canonico\":\"reticulum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"pequena rede; saco/bolsa feito de malha; rede de pesca pequena; rede para o cabelo; também: instrumento de jogo (rede) e sentido figurado de trama\",\"aliases\":[],\"exemplos\":[\"Hor. Sat. 1, 1, 47\",\"Cic. Verr. 2, 5, 11\",\"Juv. 12, 60\",\"Plaut. As. 1, 1, 87\",\"Ov. A. A. 3, 361\"],\"notas\":\"Inclui ambas as formas (neut. reticulum e masc. reticulus) conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_24440:24440:0\",\"lemas\":[\"reticulum\",\"reticulus\"],\"lema_canonico\":\"reticulum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"pequena rede; saco/bolsa feito de malha; rede de pesca pequena; rede para o cabelo; também: instrumento de jogo (rede) e sentido figurado de trama\",\"aliases\":[],\"exemplos\":[\"Hor. Sat. 1, 1, 47\",\"Cic. Verr. 2, 5, 11\",\"Juv. 12, 60\",\"Plaut. As. 1, 1, 87\",\"Ov. A. A. 3, 361\"],\"notas\":\"Inclui ambas as formas (neut. reticulum e masc. reticulus) conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_24441-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_24441",
-    "page_num": 24441,
-    "lemmas": [
-      "rete",
-      "rete"
-    ],
-    "morfologia": "s. neut. 3ª (-is)",
-    "morph_render": "s. neut. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Formas dat./abl. pl. (retibus) do substantivo rete, rede, laço.",
-    "exemplos": [],
-    "notas": "Retibus = formas flexionais de rete (dat./abl. pl.). OCR sugeriu confusão com Rhetibus; preferido sentido lexical. | [dedupe] redirect → chunk_24048:24048:5 | [dedupe] redirect → chunk_24048:24048:5",
-    "raw_text": "{\"id\":\"chunk_24441:24441:0\",\"lemas\":[\"rete\"],\"lema_canonico\":\"rete\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Formas dat./abl. pl. (retibus) do substantivo rete, rede, laço.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Retibus = formas flexionais de rete (dat./abl. pl.). OCR sugeriu confusão com Rhetibus; preferido sentido lexical.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_24441:24441:0\",\"lemas\":[\"rete\"],\"lema_canonico\":\"rete\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Formas dat./abl. pl. (retibus) do substantivo rete, rede, laço.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Retibus = formas flexionais de rete (dat./abl. pl.). OCR sugeriu confusão com Rhetibus; preferido sentido lexical.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_24442-e1",
     "volume_id": "faria",
     "doc_name": "chunk_24442",
@@ -1078,28 +880,6 @@
     "raw_json": "{\"id\":\"chunk_24444:24444:0\",\"lemas\":[\"retinentia\"],\"lema_canonico\":\"retinentia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Retenção na memória; recordação, lembrança.\",\"aliases\":[],\"exemplos\":[\"Lucr. 3, 673\",\"Lucr. 3, 675\",\"Lucr. 3, 851\"],\"notas\":\"Entrada alinhada com Lewis & Short e Whitaker: substantivo feminino de 1ª declinação e relacionado ao adjetivo retinens.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_24445-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_24445",
-    "page_num": 24445,
-    "lemmas": [
-      "retineo",
-      "retineo"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "reter, segurar; conter, conservar, guardar; também zelar por, obedecer (sentido de manter)",
-    "exemplos": [],
-    "notas": "Consolidado com Lat→Deu e Whitaker; lema em forma de 1ª pessoa e infinitivo. | [dedupe] redirect → chunk_24426:24426:0 | [dedupe] redirect → chunk_24426:24426:0",
-    "raw_text": "{\"id\":\"chunk_24445:24445:0\",\"lemas\":[\"retineo\",\"retinēre\"],\"lema_canonico\":\"retineo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"reter, segurar; conter, conservar, guardar; também zelar por, obedecer (sentido de manter)\",\"aliases\":[],\"exemplos\":[\"Plaut. Men. 114\",\"Cic. Verr. 1, 74\",\"Ces. B. Gal. 7, 21, 3\",\"Cic. Or. 2, 24\",\"Cic. Quinct. 59\",\"Cic. T. 1, 102\"],\"notas\":\"Consolidado com Lat→Deu e Whitaker; lema em forma de 1ª pessoa e infinitivo.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_24445:24445:0\",\"lemas\":[\"retineo\",\"retinēre\"],\"lema_canonico\":\"retineo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"reter, segurar; conter, conservar, guardar; também zelar por, obedecer (sentido de manter)\",\"aliases\":[],\"exemplos\":[\"Plaut. Men. 114\",\"Cic. Verr. 1, 74\",\"Ces. B. Gal. 7, 21, 3\",\"Cic. Or. 2, 24\",\"Cic. Quinct. 59\",\"Cic. T. 1, 102\"],\"notas\":\"Consolidado com Lat→Deu e Whitaker; lema em forma de 1ª pessoa e infinitivo.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_24446-e1",
     "volume_id": "faria",
     "doc_name": "chunk_24446",
@@ -1120,72 +900,6 @@
     "notas": "Forma e classe incertas (verbalis/adj.); preservada a citação indicada, mas requer verificação em fontes primárias.",
     "raw_text": "{\"id\":\"chunk_24446:24446:0\",\"lemas\":[\"retinito\"],\"lema_canonico\":\"retinito\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Entrada ambígua: Whitaker registra retinito como adjetivo (retinītus?), mas OCR/first_pass o dá como verbo. Significado incerto.\",\"aliases\":[],\"exemplos\":[\"Cic. Br. 171\"],\"notas\":\"Forma e classe incertas (verbalis/adj.); preservada a citação indicada, mas requer verificação em fontes primárias.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_24446:24446:0\",\"lemas\":[\"retinito\"],\"lema_canonico\":\"retinito\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Entrada ambígua: Whitaker registra retinito como adjetivo (retinītus?), mas OCR/first_pass o dá como verbo. Significado incerto.\",\"aliases\":[],\"exemplos\":[\"Cic. Br. 171\"],\"notas\":\"Forma e classe incertas (verbalis/adj.); preservada a citação indicada, mas requer verificação em fontes primárias.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_24447-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_24447",
-    "page_num": 24447,
-    "lemmas": [
-      "retineo",
-      "retineo"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "retinui = perfeito (1ª sg.) de retineō: reter, segurar, conter; “retive, retivei, contive”.",
-    "exemplos": [],
-    "notas": "Forma isolada retinui tratada como perfeito de retineō; marcador de forma indicado em morph_extra. | [dedupe] redirect → chunk_24426:24426:0 | [dedupe] redirect → chunk_24426:24426:0",
-    "raw_text": "{\"id\":\"chunk_24447:24447:0\",\"lemas\":[\"retineo\",\"retinēre\"],\"lema_canonico\":\"retineo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"perf. 1sg. ind. akt.\"],\"definicao\":\"retinui = perfeito (1ª sg.) de retineō: reter, segurar, conter; “retive, retivei, contive”.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma isolada retinui tratada como perfeito de retineō; marcador de forma indicado em morph_extra.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_24447:24447:0\",\"lemas\":[\"retineo\",\"retinēre\"],\"lema_canonico\":\"retineo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"perf. 1sg. ind. akt.\"],\"definicao\":\"retinui = perfeito (1ª sg.) de retineō: reter, segurar, conter; “retive, retivei, contive”.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma isolada retinui tratada como perfeito de retineō; marcador de forma indicado em morph_extra.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_24448-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_24448",
-    "page_num": 24448,
-    "lemmas": [
-      "reticulum",
-      "reticulum"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "pequena rede; saco de malha, rede para cabelo, peneira, rede de pesca, etc.",
-    "exemplos": [],
-    "notas": "Conforme Lewis & Short e Whitaker; lema em forma canônica reticulum (neut.). | [dedupe] redirect → chunk_24438:24438:0 | [dedupe] redirect → chunk_24438:24438:0",
-    "raw_text": "{\"id\":\"chunk_24448:24448:0\",\"lemas\":[\"reticulum\",\"reticulus\",\"rētĭcŭlum\"],\"lema_canonico\":\"reticulum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"pequena rede; saco de malha, rede para cabelo, peneira, rede de pesca, etc.\",\"aliases\":[],\"exemplos\":[\"Apul. Met. 8, 41\"],\"notas\":\"Conforme Lewis & Short e Whitaker; lema em forma canônica reticulum (neut.).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_24448:24448:0\",\"lemas\":[\"reticulum\",\"reticulus\",\"rētĭcŭlum\"],\"lema_canonico\":\"reticulum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"pequena rede; saco de malha, rede para cabelo, peneira, rede de pesca, etc.\",\"aliases\":[],\"exemplos\":[\"Apul. Met. 8, 41\"],\"notas\":\"Conforme Lewis & Short e Whitaker; lema em forma canônica reticulum (neut.).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_24449-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_24449",
-    "page_num": 24449,
-    "lemmas": [
-      "rete",
-      "rete"
-    ],
-    "morfologia": "s. neut. 3ª (-is)",
-    "morph_render": "s. neut. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "rede, malha; instrumento para apanhar ou prender; laço.",
-    "exemplos": [],
-    "notas": "Retis normalizado como forma gen. sing. de rete; alinhado com Lewis & Short e Whitaker. | [dedupe] redirect → chunk_24048:24048:5 | [dedupe] redirect → chunk_24048:24048:5",
-    "raw_text": "{\"id\":\"chunk_24449:24449:0\",\"lemas\":[\"rete\"],\"lema_canonico\":\"rete\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"rede, malha; instrumento para apanhar ou prender; laço.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Retis normalizado como forma gen. sing. de rete; alinhado com Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_24449:24449:0\",\"lemas\":[\"rete\"],\"lema_canonico\":\"rete\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"rede, malha; instrumento para apanhar ou prender; laço.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Retis normalizado como forma gen. sing. de rete; alinhado com Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_24450-e1",
@@ -1254,28 +968,6 @@
     "raw_json": "{\"id\":\"chunk_24452:24452:0\",\"lemas\":[\"retorridus\",\"retorrida\",\"retorridum\"],\"lema_canonico\":\"retorridus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"seco, mirrado; também figurado: ressequido, gastado\",\"aliases\":[],\"exemplos\":[\"Sen. Ep. 12, 2\",\"Fedr. 4, 2, 7\"],\"notas\":\"Confirmado por Whitaker e Lat→Deu; corrigida apresentação do sentido literal/figur.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_24453-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_24453",
-    "page_num": 24453,
-    "lemmas": [
-      "rĕ-torquĕo",
-      "rĕ-torquĕo"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "1ª pessoa sing. do perfeito de retorqueō: torcer de volta, voltar a torcer; lançar de volta, desviar.",
-    "exemplos": [],
-    "notas": "Normalizado para o lema infinitivo retorqueo; indicado como perfeito 1s. | [dedupe] redirect → chunk_24451:24451:0 | [dedupe] redirect → chunk_24451:24451:0 | [ocr_fix 2025-08-17T19:51:54Z] match direto em LS por lemma/lemma_norm | lemma_in='retorqueo' → 'rĕ-torquĕo'",
-    "raw_text": "{\"id\":\"chunk_24453:24453:0\",\"lemas\":[\"retorqueo\",\"retorqueō\"],\"lema_canonico\":\"retorqueo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"perf. ind. 1s.\"],\"definicao\":\"1ª pessoa sing. do perfeito de retorqueō: torcer de volta, voltar a torcer; lançar de volta, desviar.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizado para o lema infinitivo retorqueo; indicado como perfeito 1s.\",\"flags\":[\"src_latdeu\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_24453:24453:0\",\"lemas\":[\"retorqueo\",\"retorqueō\"],\"lema_canonico\":\"retorqueo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"perf. ind. 1s.\"],\"definicao\":\"1ª pessoa sing. do perfeito de retorqueō: torcer de volta, voltar a torcer; lançar de volta, desviar.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizado para o lema infinitivo retorqueo; indicado como perfeito 1s.\",\"flags\":[\"src_latdeu\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_24454-e1",
     "volume_id": "faria",
     "doc_name": "chunk_24454",
@@ -1340,28 +1032,6 @@
     "notas": "Normalizado o lema e o paradigma; exemplos clássicos preservados.",
     "raw_text": "{\"id\":\"chunk_24456:24456:0\",\"lemas\":[\"retraho\",\"retrahō\"],\"lema_canonico\":\"retraho\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"puxar para trás, recolher; reter; recusar, retirar; também 'revistar, retocar' em usos figurados.\",\"aliases\":[],\"exemplos\":[\"Ov. Trist. 5, 13, 6\",\"Verg. En. 7, 694\",\"Cic. Nat. 2, 72\",\"Cic. Mur. 54\",\"Plin. Ep. 8, 21, 6\",\"Cic. Tusc. 1, 76\",\"Verg. En. 12, 111\"],\"notas\":\"Normalizado o lema e o paradigma; exemplos clássicos preservados.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_24456:24456:0\",\"lemas\":[\"retraho\",\"retrahō\"],\"lema_canonico\":\"retraho\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"puxar para trás, recolher; reter; recusar, retirar; também 'revistar, retocar' em usos figurados.\",\"aliases\":[],\"exemplos\":[\"Ov. Trist. 5, 13, 6\",\"Verg. En. 7, 694\",\"Cic. Nat. 2, 72\",\"Cic. Mur. 54\",\"Plin. Ep. 8, 21, 6\",\"Cic. Tusc. 1, 76\",\"Verg. En. 12, 111\"],\"notas\":\"Normalizado o lema e o paradigma; exemplos clássicos preservados.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_24457-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_24457",
-    "page_num": 24457,
-    "lemmas": [
-      "retractus",
-      "retractus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "particípio perfeito passivo de retrahere; adjetivo: afastado, retraído, apartado",
-    "exemplos": [],
-    "notas": "Unifica formas de adjetivo/particípio; marca-se como adj. da 1ª/2ª classe com indicação de particípio. | [dedupe] redirect → chunk_24455:24455:0 | [dedupe] redirect → chunk_24455:24455:0",
-    "raw_text": "{\"id\":\"chunk_24457:24457:0\",\"lemas\":[\"retractus\",\"retracta\",\"retractum\"],\"lema_canonico\":\"retractus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de retrahere; adjetivo: afastado, retraído, apartado\",\"aliases\":[],\"exemplos\":[\"Tac. Agr. 34, 9\"],\"notas\":\"Unifica formas de adjetivo/particípio; marca-se como adj. da 1ª/2ª classe com indicação de particípio.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_24457:24457:0\",\"lemas\":[\"retractus\",\"retracta\",\"retractum\"],\"lema_canonico\":\"retractus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de retrahere; adjetivo: afastado, retraído, apartado\",\"aliases\":[],\"exemplos\":[\"Tac. Agr. 34, 9\"],\"notas\":\"Unifica formas de adjetivo/particípio; marca-se como adj. da 1ª/2ª classe com indicação de particípio.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
   },
   {
     "id": "chunk_24458-e1",
@@ -1452,28 +1122,6 @@
     "raw_json": "{\"id\":\"chunk_24459:24459:0\",\"lemas\":[\"retribuo\",\"retribuere\"],\"lema_canonico\":\"retribuo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"dar de volta, restituir; recompensar, retribuir.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Paradigma alinhado com Lat→Deu/Whitaker; marcado transitivo.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_24460-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_24460",
-    "page_num": 24460,
-    "lemmas": [
-      "retribuo",
-      "retribuo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "retribuir; devolver, restituir",
-    "exemplos": [],
-    "notas": "Infinitivo clássico retribuere; formas perfeitas retribuī, retribūtum. | [dedupe] redirect → chunk_24459:24459:0 | [dedupe] redirect → chunk_24459:24459:0",
-    "raw_text": "{\"id\":\"chunk_24460:24460:0\",\"lemas\":[\"retribuo\",\"retribuō\"],\"lema_canonico\":\"retribuo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"retribuir; devolver, restituir\",\"aliases\":[],\"exemplos\":[\"Cic. Com. 44\",\"Luc. 5, v. 75\"],\"notas\":\"Infinitivo clássico retribuere; formas perfeitas retribuī, retribūtum.\",\"flags\":[\"src_latdeu\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_24460:24460:0\",\"lemas\":[\"retribuo\",\"retribuō\"],\"lema_canonico\":\"retribuo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"retribuir; devolver, restituir\",\"aliases\":[],\"exemplos\":[\"Cic. Com. 44\",\"Luc. 5, v. 75\"],\"notas\":\"Infinitivo clássico retribuere; formas perfeitas retribuī, retribūtum.\",\"flags\":[\"src_latdeu\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_24461-e1",
     "volume_id": "faria",
     "doc_name": "chunk_24461",
@@ -1494,28 +1142,6 @@
     "notas": "Marcada a forma participial e adjectival; alinhada com fontes.",
     "raw_text": "{\"id\":\"chunk_24461:24461:0\",\"lemas\":[\"retributus\",\"retributa\",\"retributum\"],\"lema_canonico\":\"retributus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de retribuō: retribuído, recompensado, restituído.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Marcada a forma participial e adjectival; alinhada com fontes.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_24461:24461:0\",\"lemas\":[\"retributus\",\"retributa\",\"retributum\"],\"lema_canonico\":\"retributus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de retribuō: retribuído, recompensado, restituído.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Marcada a forma participial e adjectival; alinhada com fontes.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_24462-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_24462",
-    "page_num": 24462,
-    "lemmas": [
-      "retributus",
-      "retributus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "particípio perfeito passivo de retribuō; retribuído, pago de volta; também usado como adjetivo 'gasto, muito usado' (ex.: Sen. Ep. 47,5)",
-    "exemplos": [],
-    "notas": "Particípio de retribuō (retribuere). Texto antigo indicava adjectivo; mantida referência sénia. | [dedupe] redirect → chunk_24461:24461:0 | [dedupe] redirect → chunk_24461:24461:0",
-    "raw_text": "{\"id\":\"chunk_24462:24462:0\",\"lemas\":[\"retributus\",\"retributa\",\"retributum\"],\"lema_canonico\":\"retributus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"particípio perfeito passivo de retribuō; retribuído, pago de volta; também usado como adjetivo 'gasto, muito usado' (ex.: Sen. Ep. 47,5)\",\"aliases\":[],\"exemplos\":[\"Sen. Ep. 47,5\"],\"notas\":\"Particípio de retribuō (retribuere). Texto antigo indicava adjectivo; mantida referência sénia.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_24462:24462:0\",\"lemas\":[\"retributus\",\"retributa\",\"retributum\"],\"lema_canonico\":\"retributus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"particípio perfeito passivo de retribuō; retribuído, pago de volta; também usado como adjetivo 'gasto, muito usado' (ex.: Sen. Ep. 47,5)\",\"aliases\":[],\"exemplos\":[\"Sen. Ep. 47,5\"],\"notas\":\"Particípio de retribuō (retribuere). Texto antigo indicava adjectivo; mantida referência sénia.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_24463-e1",
@@ -1540,50 +1166,6 @@
     "raw_json": "{\"id\":\"chunk_24463:24463:0\",\"lemas\":[\"retroago\",\"retroagere\"],\"lema_canonico\":\"retroago\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"fazer recuar; retroagir; (fig.) pôr em ordem inversa, repercutir\",\"aliases\":[],\"exemplos\":[\"Quint. 11, 3, 160\",\"Plin. H. Nat. 7, 145\",\"Sen. Ir. 1, 16, 10\"],\"notas\":\"Normalizada forma como retroago/retroagere conforme Whitaker; grafia e macrons simplificados.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_24464-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_24464",
-    "page_num": 24464,
-    "lemmas": [
-      "retrocedo",
-      "retrocedo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Retornar para trás; recuar, afastar-se (intransitivo).",
-    "exemplos": [],
-    "notas": "Infinitivo retrōcēdere; entrada confirmada em Lat→Deu. | [dedupe] redirect → chunk_24467:24467:0 | [dedupe] redirect → chunk_24467:24467:0",
-    "raw_text": "{\"id\":\"chunk_24464:24464:0\",\"lemas\":[\"retrocedo\"],\"lema_canonico\":\"retrocedo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Retornar para trás; recuar, afastar-se (intransitivo).\",\"aliases\":[],\"exemplos\":[\"T. Liv. 8, 8, 9\"],\"notas\":\"Infinitivo retrōcēdere; entrada confirmada em Lat→Deu.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_24464:24464:0\",\"lemas\":[\"retrocedo\"],\"lema_canonico\":\"retrocedo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Retornar para trás; recuar, afastar-se (intransitivo).\",\"aliases\":[],\"exemplos\":[\"T. Liv. 8, 8, 9\"],\"notas\":\"Infinitivo retrōcēdere; entrada confirmada em Lat→Deu.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_24464-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_24464",
-    "page_num": 24464,
-    "lemmas": [
-      "retro",
-      "retro"
-    ],
-    "morfologia": "adv.",
-    "morph_render": "adv.",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Para trás; atrás; para o lado de trás; anteriormente (no tempo).",
-    "exemplos": [],
-    "notas": "Forma advérbial atestada (Whitaker). Relacionada a compostos como retrocedo. | [dedupe] redirect → chunk_24454:24454:0 | [dedupe] redirect → chunk_24454:24454:0",
-    "raw_text": "{\"id\":\"chunk_24464:24464:1\",\"lemas\":[\"retro\"],\"lema_canonico\":\"retro\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"Para trás; atrás; para o lado de trás; anteriormente (no tempo).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma advérbial atestada (Whitaker). Relacionada a compostos como retrocedo.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_24464:24464:1\",\"lemas\":[\"retro\"],\"lema_canonico\":\"retro\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"Para trás; atrás; para o lado de trás; anteriormente (no tempo).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma advérbial atestada (Whitaker). Relacionada a compostos como retrocedo.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_24464-e3",
     "volume_id": "faria",
     "doc_name": "chunk_24464",
@@ -1604,50 +1186,6 @@
     "notas": "Formas principais cēdere, cēdō, cessī, cessum; acepções segundo Lat→Deu e Lewis & Short.",
     "raw_text": "{\"id\":\"chunk_24464:24464:2\",\"lemas\":[\"cedo\"],\"lema_canonico\":\"cedo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Ceder, dar lugar; ir, afastar-se; entregar, conceder; resultar, suceder (sentidos variados conforme contexto).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Formas principais cēdere, cēdō, cessī, cessum; acepções segundo Lat→Deu e Lewis & Short.\",\"flags\":[\"src_latdeu\",\"src_ls\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_24464:24464:2\",\"lemas\":[\"cedo\"],\"lema_canonico\":\"cedo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Ceder, dar lugar; ir, afastar-se; entregar, conceder; resultar, suceder (sentidos variados conforme contexto).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Formas principais cēdere, cēdō, cessī, cessum; acepções segundo Lat→Deu e Lewis & Short.\",\"flags\":[\"src_latdeu\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_24465-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_24465",
-    "page_num": 24465,
-    "lemmas": [
-      "retrocedo",
-      "retrocedo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "retroceder, afastar-se para trás; ceder para trás; recuar; também: acontecer, ceder, conceder (formas perfeitas: retrōcessī)",
-    "exemplos": [],
-    "notas": "Entrada original estava em perfeito (retrōcēssī); unificado para lema retrocedo. | [dedupe] redirect → chunk_24467:24467:0 | [dedupe] redirect → chunk_24467:24467:0",
-    "raw_text": "{\"id\":\"chunk_24465:24465:0\",\"lemas\":[\"retrocedo\"],\"lema_canonico\":\"retrocedo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"retroceder, afastar-se para trás; ceder para trás; recuar; também: acontecer, ceder, conceder (formas perfeitas: retrōcessī)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada original estava em perfeito (retrōcēssī); unificado para lema retrocedo.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_24465:24465:0\",\"lemas\":[\"retrocedo\"],\"lema_canonico\":\"retrocedo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"retroceder, afastar-se para trás; ceder para trás; recuar; também: acontecer, ceder, conceder (formas perfeitas: retrōcessī)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada original estava em perfeito (retrōcēssī); unificado para lema retrocedo.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_24466-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_24466",
-    "page_num": 24466,
-    "lemmas": [
-      "retrocedo",
-      "retrocedo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "ver retrocedo (forma perfeita retrōcēdī); retroceder, afastar-se",
-    "exemplos": [],
-    "notas": "Entrada original apresentada como perfeito (retrōcēdī); normalizada para lema retrocedo. | [dedupe] redirect → chunk_24467:24467:0 | [dedupe] redirect → chunk_24467:24467:0",
-    "raw_text": "{\"id\":\"chunk_24466:24466:0\",\"lemas\":[\"retrocedo\"],\"lema_canonico\":\"retrocedo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"ver retrocedo (forma perfeita retrōcēdī); retroceder, afastar-se\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada original apresentada como perfeito (retrōcēdī); normalizada para lema retrocedo.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_24466:24466:0\",\"lemas\":[\"retrocedo\"],\"lema_canonico\":\"retrocedo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"ver retrocedo (forma perfeita retrōcēdī); retroceder, afastar-se\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada original apresentada como perfeito (retrōcēdī); normalizada para lema retrocedo.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_24467-e1",
@@ -1826,28 +1364,6 @@
     "raw_json": "{\"id\":\"chunk_24474:24474:0\",\"lemas\":[\"retundo\"],\"lema_canonico\":\"retundo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"retundō, retundere: tornar cego ou romer; conter, refrear; (pass.) ser empurrado para trás (perfeito retudī/rettudī, sup. retūnsum)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizado para o lema verbal retundo a partir das formas perf. listadas; baseado em Lat→Deu, confirmar perf. exatos\",\"flags\":[\"src_latdeu\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_24475-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_24475",
-    "page_num": 24475,
-    "lemmas": [
-      "rĕ-tundo",
-      "rĕ-tundo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "rebater, embotar; figurado: reprimir, abater, quebrar",
-    "exemplos": [],
-    "notas": "Verbo de 3ª conjugação derivado de tundo; formas perfeitas/particípio reportadas na fonte OCR. | [dedupe] redirect → chunk_24474:24474:0 | [dedupe] redirect → chunk_24474:24474:0 | [ocr_fix 2025-08-17T20:00:05Z] match direto em LS por lemma/lemma_norm | lemma_in='retundo' → 'rĕ-tundo'",
-    "raw_text": "{\"id\":\"chunk_24475:24475:0\",\"lemas\":[\"retundo\",\"retundō\"],\"lema_canonico\":\"retundo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"rebater, embotar; figurado: reprimir, abater, quebrar\",\"aliases\":[],\"exemplos\":[\"Cic. Cat. 3, 2\",\"Cic. Clu. 123\",\"T. Liv. 2, 33, 7\",\"Plaut. Ps. 1045\"],\"notas\":\"Verbo de 3ª conjugação derivado de tundo; formas perfeitas/particípio reportadas na fonte OCR.\",\"flags\":[\"src_latdeu\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_24475:24475:0\",\"lemas\":[\"retundo\",\"retundō\"],\"lema_canonico\":\"retundo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"rebater, embotar; figurado: reprimir, abater, quebrar\",\"aliases\":[],\"exemplos\":[\"Cic. Cat. 3, 2\",\"Cic. Clu. 123\",\"T. Liv. 2, 33, 7\",\"Plaut. Ps. 1045\"],\"notas\":\"Verbo de 3ª conjugação derivado de tundo; formas perfeitas/particípio reportadas na fonte OCR.\",\"flags\":[\"src_latdeu\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_24476-e1",
     "volume_id": "faria",
     "doc_name": "chunk_24476",
@@ -1912,28 +1428,6 @@
     "notas": "Mantidos exemplos citados no first_pass; coerente com entradas lexicográficas",
     "raw_text": "{\"id\":\"chunk_24478:24478:0\",\"lemas\":[\"revalesco\"],\"lema_canonico\":\"revalesco\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"revalēscere: recuperar a saúde; restabelecer-se, tornar-se mais forte\",\"aliases\":[],\"exemplos\":[\"Ov. Her. 21, 231\",\"Tac. Ann. 14, 27\"],\"notas\":\"Mantidos exemplos citados no first_pass; coerente com entradas lexicográficas\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_24478:24478:0\",\"lemas\":[\"revalesco\"],\"lema_canonico\":\"revalesco\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"revalēscere: recuperar a saúde; restabelecer-se, tornar-se mais forte\",\"aliases\":[],\"exemplos\":[\"Ov. Her. 21, 231\",\"Tac. Ann. 14, 27\"],\"notas\":\"Mantidos exemplos citados no first_pass; coerente com entradas lexicográficas\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_24479-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_24479",
-    "page_num": 24479,
-    "lemmas": [
-      "revalesco",
-      "revalesco"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "revalēscere: recuperar a saúde; voltar a vigorizar-se, crescer de novo",
-    "exemplos": [],
-    "notas": "Verbo incoativo (inchoativo) normalizado; sentido conforme Lat→Deu e Whitaker | [dedupe] redirect → chunk_24478:24478:0 | [dedupe] redirect → chunk_24478:24478:0",
-    "raw_text": "{\"id\":\"chunk_24479:24479:0\",\"lemas\":[\"revalesco\"],\"lema_canonico\":\"revalesco\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"revalēscere: recuperar a saúde; voltar a vigorizar-se, crescer de novo\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Verbo incoativo (inchoativo) normalizado; sentido conforme Lat→Deu e Whitaker\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_24479:24479:0\",\"lemas\":[\"revalesco\"],\"lema_canonico\":\"revalesco\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"revalēscere: recuperar a saúde; voltar a vigorizar-se, crescer de novo\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Verbo incoativo (inchoativo) normalizado; sentido conforme Lat→Deu e Whitaker\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_24480-e1",
@@ -2090,28 +1584,6 @@
     "raw_json": "{\"id\":\"chunk_24485:24485:0\",\"lemas\":[\"revenio\",\"revenire\"],\"lema_canonico\":\"revenio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"to come back, return; perf. revenī, pp. reventus\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Unified principal lemma and principal parts per Lat→Deu and Whitaker.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_24486-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_24486",
-    "page_num": 24486,
-    "lemmas": [
-      "revenio",
-      "revenio"
-    ],
-    "morfologia": "v. 4ª (-īre)",
-    "morph_render": "v. 4ª (-īre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "voltar, tornar a vir",
-    "exemplos": [],
-    "notas": "Grafia com macrons normalizada (reveniō, revenīre, revēnī, revēntum). | [dedupe] redirect → chunk_24485:24485:0 | [dedupe] redirect → chunk_24485:24485:0",
-    "raw_text": "{\"id\":\"chunk_24486:24486:0\",\"lemas\":[\"revenio\",\"revenīre\",\"revēnio\"],\"lema_canonico\":\"revenio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"voltar, tornar a vir\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 1, 175\",\"Plaut. Bac. 606\"],\"notas\":\"Grafia com macrons normalizada (reveniō, revenīre, revēnī, revēntum).\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_24486:24486:0\",\"lemas\":[\"revenio\",\"revenīre\",\"revēnio\"],\"lema_canonico\":\"revenio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"voltar, tornar a vir\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 1, 175\",\"Plaut. Bac. 606\"],\"notas\":\"Grafia com macrons normalizada (reveniō, revenīre, revēnī, revēntum).\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_24487-e1",
     "volume_id": "faria",
     "doc_name": "chunk_24487",
@@ -2132,28 +1604,6 @@
     "notas": "Separado aqui do elemento adverbial/partícula rē; sentido e formas segundo Lewis & Short e Lat→Deu.",
     "raw_text": "{\"id\":\"chunk_24487:24487:0\",\"lemas\":[\"reverto\",\"revertō\"],\"lema_canonico\":\"reverto\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Voltar, regressar; virar para trás; voltar-se; também mudar de direção ou curso. Em compostos indica repetição ou retorno.\",\"aliases\":[\"revertor\"],\"exemplos\":[\"Cic. Div. 1, 82\"],\"notas\":\"Separado aqui do elemento adverbial/partícula rē; sentido e formas segundo Lewis & Short e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_24487:24487:0\",\"lemas\":[\"reverto\",\"revertō\"],\"lema_canonico\":\"reverto\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Voltar, regressar; virar para trás; voltar-se; também mudar de direção ou curso. Em compostos indica repetição ou retorno.\",\"aliases\":[\"revertor\"],\"exemplos\":[\"Cic. Div. 1, 82\"],\"notas\":\"Separado aqui do elemento adverbial/partícula rē; sentido e formas segundo Lewis & Short e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_24488-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_24488",
-    "page_num": 24488,
-    "lemmas": [
-      "rĕpărābĭlis",
-      "rĕpărābĭlis"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "(entrada incerta) segundo primeira passada: repelir; refletir (ambos sentidos indicados na fonte prévia).",
-    "exemplos": [],
-    "notas": "Lema e significados incertos: possível leitura OCR errada (reperio/refero?). Manter provisório para revisão.\n[ocr_pipeline 2025-08-16T23:17:22.857674Z] lemma_in='repero' → 'rĕpărābĭlis' | motivo: similaridade semântica FAISS (definição/gloss) | [dedupe] redirect → chunk_24202:24202:0 | [ocr_fix 2025-08-17T18:28:07Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='rĕpărābĭlis' → 'rĕpărābĭlis' | [dedupe] redirect → chunk_24202:24202:0",
-    "raw_text": "{\"id\":\"chunk_24488:24488:0\",\"lemas\":[\"repero\"],\"lema_canonico\":\"repero\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"(entrada incerta) segundo primeira passada: repelir; refletir (ambos sentidos indicados na fonte prévia).\",\"aliases\":[],\"exemplos\":[\"Sen. Contr. 1, 3, 111\",\"Sen. Clem. 2, 5, 4\"],\"notas\":\"Lema e significados incertos: possível leitura OCR errada (reperio/refero?). Manter provisório para revisão.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_24488:24488:0\",\"lemas\":[\"repero\"],\"lema_canonico\":\"repero\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"(entrada incerta) segundo primeira passada: repelir; refletir (ambos sentidos indicados na fonte prévia).\",\"aliases\":[],\"exemplos\":[\"Sen. Contr. 1, 3, 111\",\"Sen. Clem. 2, 5, 4\"],\"notas\":\"Lema e significados incertos: possível leitura OCR errada (reperio/refero?). Manter provisório para revisão.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
     "id": "chunk_24489-e1",
@@ -2398,50 +1848,6 @@
     "raw_json": "{\"id\":\"chunk_24497:24497:0\",\"lemas\":[\"reversus\"],\"lema_canonico\":\"reversus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito (passivo) de revertor/reverto: voltado para trás, retornado; usado como participial adjective de 'voltar'\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Confirmado como part. of revertor; grafia e função alinhadas com LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_24498-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_24498",
-    "page_num": 24498,
-    "lemmas": [
-      "reverto",
-      "reverto"
-    ],
-    "morfologia": "v. 3ª -ere",
-    "morph_render": "v. 3ª -ere",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "revertor/reverto, reverti, reversus sum (deponent): voltar, regressar, retornar",
-    "exemplos": [],
-    "notas": "Entrada normalizada do perfeito 'reverti' para o lema infinitivo; marcado como deponente conforme Whitaker. | [dedupe] redirect → chunk_24487:24487:0 | [dedupe] redirect → chunk_24487:24487:0",
-    "raw_text": "{\"id\":\"chunk_24498:24498:0\",\"lemas\":[\"reverto\"],\"lema_canonico\":\"reverto\",\"morfologia\":\"v. 3ª -ere\",\"morph_extra\":[\"dep.\"],\"definicao\":\"revertor/reverto, reverti, reversus sum (deponent): voltar, regressar, retornar\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada normalizada do perfeito 'reverti' para o lema infinitivo; marcado como deponente conforme Whitaker.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_24498:24498:0\",\"lemas\":[\"reverto\"],\"lema_canonico\":\"reverto\",\"morfologia\":\"v. 3ª -ere\",\"morph_extra\":[\"dep.\"],\"definicao\":\"revertor/reverto, reverti, reversus sum (deponent): voltar, regressar, retornar\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada normalizada do perfeito 'reverti' para o lema infinitivo; marcado como deponente conforme Whitaker.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_24499-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_24499",
-    "page_num": 24499,
-    "lemmas": [
-      "revertō",
-      "revertō"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Voltar, retornar; também no sentido figurado (repor-se, recobrar-se).",
-    "exemplos": [],
-    "notas": "Normalizada a forma e a conjugação conforme LS e Whitaker; indicado uso intransitivo. | [dedupe] redirect → chunk_24487:24487:0 | [dedupe] redirect → chunk_24487:24487:0",
-    "raw_text": "{\"id\":\"chunk_24499:24499:0\",\"lemas\":[\"revertō\",\"reverto\"],\"lema_canonico\":\"revertō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"Voltar, retornar; também no sentido figurado (repor-se, recobrar-se).\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 1, 26\",\"Pl. Ps. 163\",\"Cic. Fam. 10, 28\"],\"notas\":\"Normalizada a forma e a conjugação conforme LS e Whitaker; indicado uso intransitivo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_24499:24499:0\",\"lemas\":[\"revertō\",\"reverto\"],\"lema_canonico\":\"revertō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"Voltar, retornar; também no sentido figurado (repor-se, recobrar-se).\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 1, 26\",\"Pl. Ps. 163\",\"Cic. Fam. 10, 28\"],\"notas\":\"Normalizada a forma e a conjugação conforme LS e Whitaker; indicado uso intransitivo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_24499-e2",
     "volume_id": "faria",
     "doc_name": "chunk_24499",
@@ -2462,28 +1868,6 @@
     "notas": "Lema inclui a forma deponente e o infinitivo deponente conforme Lat→Deu e LS.",
     "raw_text": "{\"id\":\"chunk_24499:24499:1\",\"lemas\":[\"revertor\",\"revertī\"],\"lema_canonico\":\"revertor\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"dep.\",\"intr.\"],\"definicao\":\"Forma deponente ‘voltar, retornar’; presente indicativo de revertī (deponente), com perfeito participial reversus sum.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Lema inclui a forma deponente e o infinitivo deponente conforme Lat→Deu e LS.\",\"flags\":[\"src_latdeu\",\"src_ls\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_24499:24499:1\",\"lemas\":[\"revertor\",\"revertī\"],\"lema_canonico\":\"revertor\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"dep.\",\"intr.\"],\"definicao\":\"Forma deponente ‘voltar, retornar’; presente indicativo de revertī (deponente), com perfeito participial reversus sum.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Lema inclui a forma deponente e o infinitivo deponente conforme Lat→Deu e LS.\",\"flags\":[\"src_latdeu\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_24500-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_24500",
-    "page_num": 24500,
-    "lemmas": [
-      "reverto",
-      "reverto"
-    ],
-    "morfologia": "v. 3ª -ere",
-    "morph_render": "v. 3ª -ere",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "(ver revertor) voltar, regressar; recair, ocorrer novamente",
-    "exemplos": [],
-    "notas": "Consolidação de variantes e correção da leitura OCR ('revoho' → 'reverto'); marcado como deponente conforme fontes. | [dedupe] redirect → chunk_24487:24487:0 | [dedupe] redirect → chunk_24487:24487:0",
-    "raw_text": "{\"id\":\"chunk_24500:24500:0\",\"lemas\":[\"reverto\"],\"lema_canonico\":\"reverto\",\"morfologia\":\"v. 3ª -ere\",\"morph_extra\":[\"dep.\"],\"definicao\":\"(ver revertor) voltar, regressar; recair, ocorrer novamente\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Consolidação de variantes e correção da leitura OCR ('revoho' → 'reverto'); marcado como deponente conforme fontes.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_24500:24500:0\",\"lemas\":[\"reverto\"],\"lema_canonico\":\"reverto\",\"morfologia\":\"v. 3ª -ere\",\"morph_extra\":[\"dep.\"],\"definicao\":\"(ver revertor) voltar, regressar; recair, ocorrer novamente\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Consolidação de variantes e correção da leitura OCR ('revoho' → 'reverto'); marcado como deponente conforme fontes.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_24501-e1",
@@ -2550,28 +1934,6 @@
     "notas": "Corroborado por Lewis & Short e Whitaker; formas femin./neut. mantidas.",
     "raw_text": "{\"id\":\"chunk_24503:24503:0\",\"lemas\":[\"revictus\",\"revicta\",\"revictum\"],\"lema_canonico\":\"revictus\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de revinco; ‘vencido, refutado, sobrepujado’\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corroborado por Lewis & Short e Whitaker; formas femin./neut. mantidas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_24503:24503:0\",\"lemas\":[\"revictus\",\"revicta\",\"revictum\"],\"lema_canonico\":\"revictus\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de revinco; ‘vencido, refutado, sobrepujado’\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corroborado por Lewis & Short e Whitaker; formas femin./neut. mantidas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_24504-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_24504",
-    "page_num": 24504,
-    "lemmas": [
-      "renovamen",
-      "renovamen"
-    ],
-    "morfologia": "s. neut. 3ª (-is)",
-    "morph_render": "s. neut. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "renovação, renovamento; nova condição, mudança de forma",
-    "exemplos": [],
-    "notas": "Genitivo renovāminis; forma atestada em Ov. cit. | [dedupe] redirect → chunk_24311:24311:0 | [dedupe] redirect → chunk_24311:24311:0",
-    "raw_text": "{\"id\":\"chunk_24504:24504:0\",\"lemas\":[\"renovamen\",\"renovāmen\",\"rĕnŏvāmen\"],\"lema_canonico\":\"renovamen\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"renovação, renovamento; nova condição, mudança de forma\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 8, 731\"],\"notas\":\"Genitivo renovāminis; forma atestada em Ov. cit.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_24504:24504:0\",\"lemas\":[\"renovamen\",\"renovāmen\",\"rĕnŏvāmen\"],\"lema_canonico\":\"renovamen\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"renovação, renovamento; nova condição, mudança de forma\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 8, 731\"],\"notas\":\"Genitivo renovāminis; forma atestada em Ov. cit.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_24504-e2",
@@ -2772,28 +2134,6 @@
     "raw_json": "{\"id\":\"chunk_24506:24506:0\",\"lemas\":[\"revincio\",\"revincire\"],\"lema_canonico\":\"revincio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"ligar, atar; amarrar fortemente, prender (também figurado)\",\"aliases\":[],\"exemplos\":[\"Verg. En. 2, 57\",\"Caes. B. Gall. 3, 13, 5\"],\"notas\":\"Paradigma confirmado (revincio, revincire, revinxi, revinctus) conforme Whitaker e LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_24507-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_24507",
-    "page_num": 24507,
-    "lemmas": [
-      "revinco",
-      "revinco"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "1) vencer de novo, subjugar; 2) refutar, demonstrar falso; convencer.",
-    "exemplos": [],
-    "notas": "Forma, tempos e sentidos corroborados por Whitaker/LS; substantivos e citações padronizadas. | [dedupe] redirect → chunk_24501:24501:0 | [dedupe] redirect → chunk_24501:24501:0",
-    "raw_text": "{\"id\":\"chunk_24507:24507:0\",\"lemas\":[\"revinco\",\"revincere\"],\"lema_canonico\":\"revinco\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"1) vencer de novo, subjugar; 2) refutar, demonstrar falso; convencer.\",\"aliases\":[],\"exemplos\":[\"Hor. Od. 4, 4, 24\",\"Cic. Arch. 11, 3\",\"Tac. An. 6, 5\"],\"notas\":\"Forma, tempos e sentidos corroborados por Whitaker/LS; substantivos e citações padronizadas.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_24507:24507:0\",\"lemas\":[\"revinco\",\"revincere\"],\"lema_canonico\":\"revinco\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"1) vencer de novo, subjugar; 2) refutar, demonstrar falso; convencer.\",\"aliases\":[],\"exemplos\":[\"Hor. Od. 4, 4, 24\",\"Cic. Arch. 11, 3\",\"Tac. An. 6, 5\"],\"notas\":\"Forma, tempos e sentidos corroborados por Whitaker/LS; substantivos e citações padronizadas.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_24508-e1",
     "volume_id": "faria",
     "doc_name": "chunk_24508",
@@ -2838,50 +2178,6 @@
     "raw_json": "{\"id\":\"chunk_24509:24509:1\",\"lemas\":[\"revincio\",\"revincīre\"],\"lema_canonico\":\"revincio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"forma perfeita (1ª pessoa singular do indicativo ativo) do verbo revincio: ligar novamente, amarrar, prender.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Baseado em Lat→Deu: revinxī / revīnxī como perfeito de revincīre; mantida forma verbal como perfeito pessoal.\",\"flags\":[\"src_latdeu\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_24509-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_24509",
-    "page_num": 24509,
-    "lemmas": [
-      "revincio",
-      "revincio"
-    ],
-    "morfologia": "v. 4ª (-īre)",
-    "morph_render": "v. 4ª (-īre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "ligar novamente, atar, prender; amarrar firmemente; envolver (também sentido figurado).",
-    "exemplos": [],
-    "notas": "Formas revinxi (perf.) e revinctus (sup.) confirmadas; alinhado com Whitaker e entradas lexicais. | [dedupe] redirect → chunk_24506:24506:0 | [dedupe] redirect → chunk_24506:24506:0",
-    "raw_text": "{\"id\":\"chunk_24509:24509:0\",\"lemas\":[\"revincio\",\"revincire\",\"revinxi\",\"revinctus\"],\"lema_canonico\":\"revincio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"ligar novamente, atar, prender; amarrar firmemente; envolver (também sentido figurado).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Formas revinxi (perf.) e revinctus (sup.) confirmadas; alinhado com Whitaker e entradas lexicais.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_24509:24509:0\",\"lemas\":[\"revincio\",\"revincire\",\"revinxi\",\"revinctus\"],\"lema_canonico\":\"revincio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"ligar novamente, atar, prender; amarrar firmemente; envolver (também sentido figurado).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Formas revinxi (perf.) e revinctus (sup.) confirmadas; alinhado com Whitaker e entradas lexicais.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_24510-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_24510",
-    "page_num": 24510,
-    "lemmas": [
-      "renovamen",
-      "renovamen"
-    ],
-    "morfologia": "s. neut. 3ª (-is)",
-    "morph_render": "s. neut. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Renovação, renovamento; a state of being renewed; transformation into a new form.",
-    "exemplos": [],
-    "notas": "Harmonizada forma e genitivo renovāminis conforme LS/Whitaker; idioma neutro. | [dedupe] redirect → chunk_24311:24311:0 | [dedupe] redirect → chunk_24311:24311:0",
-    "raw_text": "{\"id\":\"chunk_24510:24510:0\",\"lemas\":[\"renovamen\",\"renovāmen\"],\"lema_canonico\":\"renovamen\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Renovação, renovamento; a state of being renewed; transformation into a new form.\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 8, 731\"],\"notas\":\"Harmonizada forma e genitivo renovāminis conforme LS/Whitaker; idioma neutro.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_24510:24510:0\",\"lemas\":[\"renovamen\",\"renovāmen\"],\"lema_canonico\":\"renovamen\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Renovação, renovamento; a state of being renewed; transformation into a new form.\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 8, 731\"],\"notas\":\"Harmonizada forma e genitivo renovāminis conforme LS/Whitaker; idioma neutro.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_24510-e2",
     "volume_id": "faria",
     "doc_name": "chunk_24510",
@@ -2924,28 +2220,6 @@
     "notas": "Primeira passada interpretou como verbo por OCR; fontes (Whitaker / Lat→Deu resumo) apresentam 'rar' como substantivo (paralelo a res). Mantida grafia do impresso, mas reclassificada.",
     "raw_text": "{\"id\":\"chunk_24511:24511:0\",\"lemas\":[\"rar\"],\"lema_canonico\":\"rar\",\"morfologia\":\"s. neut. 5ª (-ei)\",\"morph_extra\":[],\"definicao\":\"res/rei-like entry attested in some lists: ‘thing, event, affair, property’ (see res) — provável substantivo, não verbo; leem-se variantes e usos condicionais\",\"aliases\":[\"res\"],\"exemplos\":[\"Cic. Prov. 34\"],\"notas\":\"Primeira passada interpretou como verbo por OCR; fontes (Whitaker / Lat→Deu resumo) apresentam 'rar' como substantivo (paralelo a res). Mantida grafia do impresso, mas reclassificada.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_firstpass\",\"src_ocr\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_24511:24511:0\",\"lemas\":[\"rar\"],\"lema_canonico\":\"rar\",\"morfologia\":\"s. neut. 5ª (-ei)\",\"morph_extra\":[],\"definicao\":\"res/rei-like entry attested in some lists: ‘thing, event, affair, property’ (see res) — provável substantivo, não verbo; leem-se variantes e usos condicionais\",\"aliases\":[\"res\"],\"exemplos\":[\"Cic. Prov. 34\"],\"notas\":\"Primeira passada interpretou como verbo por OCR; fontes (Whitaker / Lat→Deu resumo) apresentam 'rar' como substantivo (paralelo a res). Mantida grafia do impresso, mas reclassificada.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_firstpass\",\"src_ocr\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_24512-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_24512",
-    "page_num": 24512,
-    "lemmas": [
-      "reviresco",
-      "reviresco"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "tornar-se verde de novo, reviver; perfeito reviruī (1. pers. sing.)",
-    "exemplos": [],
-    "notas": "Registro do perfeito (reviruī) confirmado; lema fornecido como infinitivo revirēscere (Lat→Deu). | [dedupe] redirect → chunk_24510:24510:1 | [dedupe] redirect → chunk_24510:24510:1",
-    "raw_text": "{\"id\":\"chunk_24512:24512:0\",\"lemas\":[\"reviresco\"],\"lema_canonico\":\"reviresco\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"tornar-se verde de novo, reviver; perfeito reviruī (1. pers. sing.)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Registro do perfeito (reviruī) confirmado; lema fornecido como infinitivo revirēscere (Lat→Deu).\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_24512:24512:0\",\"lemas\":[\"reviresco\"],\"lema_canonico\":\"reviresco\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"tornar-se verde de novo, reviver; perfeito reviruī (1. pers. sing.)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Registro do perfeito (reviruī) confirmado; lema fornecido como infinitivo revirēscere (Lat→Deu).\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
     "id": "chunk_24513-e1",
@@ -3014,28 +2288,6 @@
     "raw_json": "{\"id\":\"chunk_24514:24514:0\",\"lemas\":[\"revīsō\",\"reviso\"],\"lema_canonico\":\"revīsō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"intr.\",\"tr.\"],\"definicao\":\"1) Intr.: voltar a ver; 2) Tr.: visitar outra vez\",\"aliases\":[],\"exemplos\":[\"Hor. Truc. 433\",\"Verg. En. 6, 330\",\"Cic. Acad. 1, 18, 8\"],\"notas\":\"Morfologia original complexa (formas de principal/ppp) incerta no OCR; marquei como 3ª conjugação próxima e preservei transit./intransit.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\",\"morph_out_of_vocab\"]}"
   },
   {
-    "id": "chunk_24514-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_24514",
-    "page_num": 24514,
-    "lemmas": [
-      "revīsse",
-      "revīsse"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:low",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada é indicativa de equivalência (perfeita/variante) a revīssō; tratada como redirecionamento.",
-    "raw_text": "{\"id\":\"chunk_24514:24514:1\",\"lemas\":[\"revīsse\"],\"lema_canonico\":\"revīsse\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"revīssō\"],\"exemplos\":[\"Cic. Fam. 6, 10, 5\"],\"notas\":\"Entrada é indicativa de equivalência (perfeita/variante) a revīssō; tratada como redirecionamento.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_24514:24514:1\",\"lemas\":[\"revīsse\"],\"lema_canonico\":\"revīsse\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"revīssō\"],\"exemplos\":[\"Cic. Fam. 6, 10, 5\"],\"notas\":\"Entrada é indicativa de equivalência (perfeita/variante) a revīssō; tratada como redirecionamento.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"redirect_only\"]}"
-  },
-  {
     "id": "chunk_24515-e1",
     "volume_id": "faria",
     "doc_name": "chunk_24515",
@@ -3056,50 +2308,6 @@
     "notas": "Conjugação e sentido confirmados por Whitaker e Lat→Deu; verbo intransitivo.",
     "raw_text": "{\"id\":\"chunk_24515:24515:0\",\"lemas\":[\"revivo\",\"revīvere\"],\"lema_canonico\":\"revivo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"reviver, viver novamente; tornar a viver.\",\"aliases\":[],\"exemplos\":[\"Sen. Med. 477\"],\"notas\":\"Conjugação e sentido confirmados por Whitaker e Lat→Deu; verbo intransitivo.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_24515:24515:0\",\"lemas\":[\"revivo\",\"revīvere\"],\"lema_canonico\":\"revivo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"reviver, viver novamente; tornar a viver.\",\"aliases\":[],\"exemplos\":[\"Sen. Med. 477\"],\"notas\":\"Conjugação e sentido confirmados por Whitaker e Lat→Deu; verbo intransitivo.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_24516-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_24516",
-    "page_num": 24516,
-    "lemmas": [
-      "revivo",
-      "revivo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "voltar a viver, reviver; recuperar a vida; (perf. revixi)",
-    "exemplos": [],
-    "notas": "Normalizado para revivo, revivere, revixi, revictus conforme Lat→Deu/Whitaker; primeira passada mostrava apenas forma perfeita 'revixi'. | [dedupe] redirect → chunk_24515:24515:0 | [dedupe] redirect → chunk_24515:24515:0",
-    "raw_text": "{\"id\":\"chunk_24516:24516:0\",\"lemas\":[\"revivo\",\"revivere\",\"revixi\",\"revictus\"],\"lema_canonico\":\"revivo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"voltar a viver, reviver; recuperar a vida; (perf. revixi)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizado para revivo, revivere, revixi, revictus conforme Lat→Deu/Whitaker; primeira passada mostrava apenas forma perfeita 'revixi'.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_24516:24516:0\",\"lemas\":[\"revivo\",\"revivere\",\"revixi\",\"revictus\"],\"lema_canonico\":\"revivo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"voltar a viver, reviver; recuperar a vida; (perf. revixi)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizado para revivo, revivere, revixi, revictus conforme Lat→Deu/Whitaker; primeira passada mostrava apenas forma perfeita 'revixi'.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_24517-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_24517",
-    "page_num": 24517,
-    "lemmas": [
-      "revocabilis",
-      "revocabilis"
-    ],
-    "morfologia": "adj. (3) 2T",
-    "morph_render": "adj. (3) 2T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Que pode ser revogado ou retirado; passível de ser chamado de volta.",
-    "exemplos": [],
-    "notas": "Forma e acepções verificadas em Lewis & Short e Whitaker. | [dedupe] redirect → chunk_24517:24517:1 | [dedupe] redirect → chunk_24517:24517:1",
-    "raw_text": "{\"id\":\"chunk_24517:24517:3\",\"lemas\":[\"revocabilis\",\"revocabile\"],\"lema_canonico\":\"revocabilis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"Que pode ser revogado ou retirado; passível de ser chamado de volta.\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 6, 264\",\"Sen. Ira 1, 5, 6\"],\"notas\":\"Forma e acepções verificadas em Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_24517:24517:3\",\"lemas\":[\"revocabilis\",\"revocabile\"],\"lema_canonico\":\"revocabilis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"Que pode ser revogado ou retirado; passível de ser chamado de volta.\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 6, 264\",\"Sen. Ira 1, 5, 6\"],\"notas\":\"Forma e acepções verificadas em Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_24517-e2",
@@ -3144,28 +2352,6 @@
     "notas": "Formas e referências alinhadas com Lewis & Short e Whitaker.",
     "raw_text": "{\"id\":\"chunk_24517:24517:1\",\"lemas\":[\"revocabilis\",\"revocābilis\"],\"lema_canonico\":\"revocabilis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"Que pode ser revogado, chamado de volta; sobretudo em poesia.\",\"aliases\":[],\"exemplos\":[\"Sen. Ira 1, 5, 6\",\"Ov. Met. 6, 264\",\"Prop. 4 (5), 7, 51\"],\"notas\":\"Formas e referências alinhadas com Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_24517:24517:1\",\"lemas\":[\"revocabilis\",\"revocābilis\"],\"lema_canonico\":\"revocabilis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"Que pode ser revogado, chamado de volta; sobretudo em poesia.\",\"aliases\":[],\"exemplos\":[\"Sen. Ira 1, 5, 6\",\"Ov. Met. 6, 264\",\"Prop. 4 (5), 7, 51\"],\"notas\":\"Formas e referências alinhadas com Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_24517-e4",
-    "volume_id": "faria",
-    "doc_name": "chunk_24517",
-    "page_num": 24517,
-    "lemmas": [
-      "res",
-      "res"
-    ],
-    "morfologia": "s. fem. 5ª (-ei)",
-    "morph_render": "s. fem. 5ª (-ei)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Coisa, assunto, facto, negócio, causa, propriedade; uso amplo em composições e termos jurídicos.",
-    "exemplos": [],
-    "notas": "Lema e declinação conformes ao paradigma da 5.ª declinação. | [dedupe] redirect → chunk_24299:24299:0 | [dedupe] redirect → chunk_24299:24299:0",
-    "raw_text": "{\"id\":\"chunk_24517:24517:2\",\"lemas\":[\"res\"],\"lema_canonico\":\"res\",\"morfologia\":\"s. fem. 5ª (-ei)\",\"morph_extra\":[],\"definicao\":\"Coisa, assunto, facto, negócio, causa, propriedade; uso amplo em composições e termos jurídicos.\",\"aliases\":[\"rei\"],\"exemplos\":[\"(atestado em numerosos autores clássicos)\"],\"notas\":\"Lema e declinação conformes ao paradigma da 5.ª declinação.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_24517:24517:2\",\"lemas\":[\"res\"],\"lema_canonico\":\"res\",\"morfologia\":\"s. fem. 5ª (-ei)\",\"morph_extra\":[],\"definicao\":\"Coisa, assunto, facto, negócio, causa, propriedade; uso amplo em composições e termos jurídicos.\",\"aliases\":[\"rei\"],\"exemplos\":[\"(atestado em numerosos autores clássicos)\"],\"notas\":\"Lema e declinação conformes ao paradigma da 5.ª declinação.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_24518-e1",
@@ -3256,28 +2442,6 @@
     "raw_json": "{\"id\":\"chunk_24520:24520:1\",\"lemas\":[\"ruma\"],\"lema_canonico\":\"ruma\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Mama, seio; também garganta, garganta (rumen, paquiderme sense in LS).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Confirmado como ruma, ae, f.; mantida referência a rumen conforme LS.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_24521-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_24521",
-    "page_num": 24521,
-    "lemmas": [
-      "rĕvŏcāmen",
-      "rĕvŏcāmen"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "aquele que chama de volta; o que evoca ou ressuscita (contextual).",
-    "exemplos": [],
-    "notas": "Lemático normalizado a partir de 'revocitur, -ŏris' do OCR; genitivo -ōris indica substantivo de 3ª declinação.\n[ocr_pipeline 2025-08-16T23:21:29.894774Z] lemma_in='revocator' → 'rĕvŏcāmen' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:20:05Z] match direto em LS por lemma/lemma_norm | lemma_in='rĕvŏcāmen' → 'rĕvŏcāmen' | [dedupe] redirect → chunk_24518:24518:0 | [dedupe] redirect → chunk_24518:24518:0",
-    "raw_text": "{\"id\":\"chunk_24521:24521:0\",\"lemas\":[\"revocator\",\"revocator\"],\"lema_canonico\":\"revocator\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"aquele que chama de volta; o que evoca ou ressuscita (contextual).\",\"aliases\":[],\"exemplos\":[\"Quint. Decl. 10, 19\"],\"notas\":\"Lemático normalizado a partir de 'revocitur, -ŏris' do OCR; genitivo -ōris indica substantivo de 3ª declinação.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}",
-    "raw_json": "{\"id\":\"chunk_24521:24521:0\",\"lemas\":[\"revocator\",\"revocator\"],\"lema_canonico\":\"revocator\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"aquele que chama de volta; o que evoca ou ressuscita (contextual).\",\"aliases\":[],\"exemplos\":[\"Quint. Decl. 10, 19\"],\"notas\":\"Lemático normalizado a partir de 'revocitur, -ŏris' do OCR; genitivo -ōris indica substantivo de 3ª declinação.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}"
-  },
-  {
     "id": "chunk_24522-e1",
     "volume_id": "faria",
     "doc_name": "chunk_24522",
@@ -3344,28 +2508,6 @@
     "raw_json": "{\"id\":\"chunk_24523:24523:1\",\"lemas\":[\"revolāre\",\"revolō\",\"revōlō\"],\"lema_canonico\":\"revolāre\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"(revolō) to fly back, fly again; to return by flight (revolāre; Gk. sense). Lat→Deu: revolāre, revolō, revolāvī, revolātum ‘zurückfliegen’.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizada para o infinitivo revolāre conforme a tradição lexicográfica; forma em maiúsculas no OCR interpretada como revōlō.\",\"flags\":[\"src_latdeu\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_24523-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_24523",
-    "page_num": 24523,
-    "lemmas": [
-      "tum",
-      "tum"
-    ],
-    "morfologia": "adv.",
-    "morph_render": "adv.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Then; at that time; besides; moreover; used also as a conjunction in correlative constructions (cum...tum).",
-    "exemplos": [],
-    "notas": "Entrada marcada primariamente como adv.; funcionamento conjuntivo indicado em morph_extra. Sólida atestação em Lewis & Short e Whitaker. | [dedupe] redirect → chunk_22686:22686:0 | [dedupe] redirect → chunk_22686:22686:0",
-    "raw_text": "{\"id\":\"chunk_24523:24523:2\",\"lemas\":[\"tum\"],\"lema_canonico\":\"tum\",\"morfologia\":\"adv.\",\"morph_extra\":[\"conj.\"],\"definicao\":\"Then; at that time; besides; moreover; used also as a conjunction in correlative constructions (cum...tum).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada marcada primariamente como adv.; funcionamento conjuntivo indicado em morph_extra. Sólida atestação em Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_24523:24523:2\",\"lemas\":[\"tum\"],\"lema_canonico\":\"tum\",\"morfologia\":\"adv.\",\"morph_extra\":[\"conj.\"],\"definicao\":\"Then; at that time; besides; moreover; used also as a conjunction in correlative constructions (cum...tum).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada marcada primariamente como adv.; funcionamento conjuntivo indicado em morph_extra. Sólida atestação em Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_24524-e1",
     "volume_id": "faria",
     "doc_name": "chunk_24524",
@@ -3386,28 +2528,6 @@
     "notas": "Paradigma e sentido confirmados na fonte Lat→Deu; mantida referência de Cicero.",
     "raw_text": "{\"id\":\"chunk_24524:24524:0\",\"lemas\":[\"revolo\"],\"lema_canonico\":\"revolo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"voltar voando; voltar, regressar em voo\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 2, 125\"],\"notas\":\"Paradigma e sentido confirmados na fonte Lat→Deu; mantida referência de Cicero.\",\"flags\":[\"src_latdeu\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_24524:24524:0\",\"lemas\":[\"revolo\"],\"lema_canonico\":\"revolo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"voltar voando; voltar, regressar em voo\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 2, 125\"],\"notas\":\"Paradigma e sentido confirmados na fonte Lat→Deu; mantida referência de Cicero.\",\"flags\":[\"src_latdeu\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_24525-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_24525",
-    "page_num": 24525,
-    "lemmas": [
-      "revolutus",
-      "revolutus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "formen corrompida 'revolus' corrigida para revolutus, particípio de revolvo: 'revolvido, rolado para trás, reconsiderado'.",
-    "exemplos": [],
-    "notas": "Registro 'revolus' interpretado como OCR/erro de grafia; corrigido para revolūtus com base em dicionários. | [dedupe] redirect → chunk_24534:24534:0 | [dedupe] redirect → chunk_24534:24534:0",
-    "raw_text": "{\"id\":\"chunk_24525:24525:0\",\"lemas\":[\"revolutus\",\"revoluta\",\"revolutum\"],\"lema_canonico\":\"revolutus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"formen corrompida 'revolus' corrigida para revolutus, particípio de revolvo: 'revolvido, rolado para trás, reconsiderado'.\",\"aliases\":[\"revolus\"],\"exemplos\":[],\"notas\":\"Registro 'revolus' interpretado como OCR/erro de grafia; corrigido para revolūtus com base em dicionários.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_24525:24525:0\",\"lemas\":[\"revolutus\",\"revoluta\",\"revolutum\"],\"lema_canonico\":\"revolutus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"formen corrompida 'revolus' corrigida para revolutus, particípio de revolvo: 'revolvido, rolado para trás, reconsiderado'.\",\"aliases\":[\"revolus\"],\"exemplos\":[],\"notas\":\"Registro 'revolus' interpretado como OCR/erro de grafia; corrigido para revolūtus com base em dicionários.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_24526-e1",
@@ -3432,28 +2552,6 @@
     "raw_json": "{\"id\":\"chunk_24526:24526:0\",\"lemas\":[\"revolubilis\",\"revōlūbilis\"],\"lema_canonico\":\"revolubilis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"que pode ser rolado/rolar de volta; poet. ‘that may be rolled back’ (sentido próprio e figurado)\",\"aliases\":[],\"exemplos\":[\"Ov. Ib. 193\",\"Sil. 15, 237\",\"Prop. 4 (5), 7, 51\"],\"notas\":\"Uniformizado lema e forma métr.; definição resumida conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_24527-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_24527",
-    "page_num": 24527,
-    "lemmas": [
-      "revolutus",
-      "revolutus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "particípio perfeito passivo de revolvo; 'revolvido, rolado para trás, reconsiderado'.",
-    "exemplos": [],
-    "notas": "Normalizado a forma do particípio conforme LS/Whitaker; mantidas variantes de gênero. | [dedupe] redirect → chunk_24534:24534:0 | [dedupe] redirect → chunk_24534:24534:0",
-    "raw_text": "{\"id\":\"chunk_24527:24527:0\",\"lemas\":[\"revolutus\",\"revoluta\",\"revolutum\"],\"lema_canonico\":\"revolutus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de revolvo; 'revolvido, rolado para trás, reconsiderado'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizado a forma do particípio conforme LS/Whitaker; mantidas variantes de gênero.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_24527:24527:0\",\"lemas\":[\"revolutus\",\"revoluta\",\"revolutum\"],\"lema_canonico\":\"revolutus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de revolvo; 'revolvido, rolado para trás, reconsiderado'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizado a forma do particípio conforme LS/Whitaker; mantidas variantes de gênero.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_24528-e1",
     "volume_id": "faria",
     "doc_name": "chunk_24528",
@@ -3474,28 +2572,6 @@
     "notas": "Lema e paradigma normalizados segundo Lat→Deu, LS e Whitaker; formas listadas como aliases.",
     "raw_text": "{\"id\":\"chunk_24528:24528:0\",\"lemas\":[\"revolvo\"],\"lema_canonico\":\"revolvo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"perf. ind. 1sg: revolvi\",\"part. perf. pass.: revolutus\"],\"definicao\":\"rolar para trás; revolver; (fig.) reconsiderar, percorrer, ler/recorrer novamente.\",\"aliases\":[\"revolvere\",\"revolvi\",\"revolutus\"],\"exemplos\":[],\"notas\":\"Lema e paradigma normalizados segundo Lat→Deu, LS e Whitaker; formas listadas como aliases.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_24528:24528:0\",\"lemas\":[\"revolvo\"],\"lema_canonico\":\"revolvo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"perf. ind. 1sg: revolvi\",\"part. perf. pass.: revolutus\"],\"definicao\":\"rolar para trás; revolver; (fig.) reconsiderar, percorrer, ler/recorrer novamente.\",\"aliases\":[\"revolvere\",\"revolvi\",\"revolutus\"],\"exemplos\":[],\"notas\":\"Lema e paradigma normalizados segundo Lat→Deu, LS e Whitaker; formas listadas como aliases.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_24529-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_24529",
-    "page_num": 24529,
-    "lemmas": [
-      "revolvo",
-      "revolvo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "lançar de volta; rolar para trás; revolver; (fig.) rememorar, desenvolver, percorrer, ler/reexaminar.",
-    "exemplos": [],
-    "notas": "Paradigma e acepções organizadas com base no aparato do OCR e dicionários principais; exemplos canônicos extraídos das pistas OCR e confirmados por LS/Lat→Deu. | [dedupe] redirect → chunk_24528:24528:0 | [dedupe] redirect → chunk_24528:24528:0",
-    "raw_text": "{\"id\":\"chunk_24529:24529:0\",\"lemas\":[\"revolvo\"],\"lema_canonico\":\"revolvo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"lançar de volta; rolar para trás; revolver; (fig.) rememorar, desenvolver, percorrer, ler/reexaminar.\",\"aliases\":[\"revolvere\",\"revolvi\",\"revolutus\"],\"exemplos\":[\"Tac. An. 6, 33\",\"Hor. Ep. 2, 1, 223\",\"Verg. En. 2, 101\",\"T. Liv. 34, 5, 7\"],\"notas\":\"Paradigma e acepções organizadas com base no aparato do OCR e dicionários principais; exemplos canônicos extraídos das pistas OCR e confirmados por LS/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_24529:24529:0\",\"lemas\":[\"revolvo\"],\"lema_canonico\":\"revolvo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"lançar de volta; rolar para trás; revolver; (fig.) rememorar, desenvolver, percorrer, ler/reexaminar.\",\"aliases\":[\"revolvere\",\"revolvi\",\"revolutus\"],\"exemplos\":[\"Tac. An. 6, 33\",\"Hor. Ep. 2, 1, 223\",\"Verg. En. 2, 101\",\"T. Liv. 34, 5, 7\"],\"notas\":\"Paradigma e acepções organizadas com base no aparato do OCR e dicionários principais; exemplos canônicos extraídos das pistas OCR e confirmados por LS/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_24530-e1",
@@ -3540,50 +2616,6 @@
     "notas": "Forma presente 'revomit' (3sg) e demais formas do paradigma confirmadas por Whitaker; entry normalized to infinitive revomō.",
     "raw_text": "{\"id\":\"chunk_24531:24531:0\",\"lemas\":[\"revomō\"],\"lema_canonico\":\"revomō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"expelir de novo; regurgitar, vomitar novamente.\",\"aliases\":[\"revomit\",\"revomere\",\"revomuī\"],\"exemplos\":[],\"notas\":\"Forma presente 'revomit' (3sg) e demais formas do paradigma confirmadas por Whitaker; entry normalized to infinitive revomō.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_24531:24531:0\",\"lemas\":[\"revomō\"],\"lema_canonico\":\"revomō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"expelir de novo; regurgitar, vomitar novamente.\",\"aliases\":[\"revomit\",\"revomere\",\"revomuī\"],\"exemplos\":[],\"notas\":\"Forma presente 'revomit' (3sg) e demais formas do paradigma confirmadas por Whitaker; entry normalized to infinitive revomō.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_24532-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_24532",
-    "page_num": 24532,
-    "lemmas": [
-      "revomō",
-      "revomō"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "expelir de novo; vomitar novamente",
-    "exemplos": [],
-    "notas": "Baseado no verbete Lat→Deu; normalizada a forma do paradigma (revomō, revomāre, revomuī). | [dedupe] redirect → chunk_24531:24531:0 | [dedupe] redirect → chunk_24531:24531:0",
-    "raw_text": "{\"id\":\"chunk_24532:24532:0\",\"lemas\":[\"revomo\",\"revomō\"],\"lema_canonico\":\"revomō\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"expelir de novo; vomitar novamente\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Baseado no verbete Lat→Deu; normalizada a forma do paradigma (revomō, revomāre, revomuī).\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_24532:24532:0\",\"lemas\":[\"revomo\",\"revomō\"],\"lema_canonico\":\"revomō\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"expelir de novo; vomitar novamente\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Baseado no verbete Lat→Deu; normalizada a forma do paradigma (revomō, revomāre, revomuī).\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_24532-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_24532",
-    "page_num": 24532,
-    "lemmas": [
-      "revertor",
-      "revertor"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "formas variantes/arcaicas relacionadas a revertor ‘voltar, regressar’",
-    "exemplos": [],
-    "notas": "Entradas refletidas em LS (rĕvorto/rĕvortor) como relacionadas a revertor; marcado como deponente quando aplicável. | [dedupe] redirect → chunk_24499:24499:1 | [dedupe] redirect → chunk_24499:24499:1",
-    "raw_text": "{\"id\":\"chunk_24532:24532:1\",\"lemas\":[\"revorto\",\"revortor\",\"revertor\"],\"lema_canonico\":\"revertor\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"formas variantes/arcaicas relacionadas a revertor ‘voltar, regressar’\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entradas refletidas em LS (rĕvorto/rĕvortor) como relacionadas a revertor; marcado como deponente quando aplicável.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_24532:24532:1\",\"lemas\":[\"revorto\",\"revortor\",\"revertor\"],\"lema_canonico\":\"revertor\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"formas variantes/arcaicas relacionadas a revertor ‘voltar, regressar’\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entradas refletidas em LS (rĕvorto/rĕvortor) como relacionadas a revertor; marcado como deponente quando aplicável.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
     "id": "chunk_24533-e1",
@@ -3650,28 +2682,6 @@
     "notas": "Genitivo normalizado para 'rēgis'. Sentidos e exemplos corroborados por Lewis & Short e Lat→Deu.",
     "raw_text": "{\"id\":\"chunk_24535:24535:0\",\"lemas\":[\"rex\"],\"lema_canonico\":\"rex\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"rei; governante, soberano; por extensão, chefe ou líder; também cognome/gentílico (gens Marcia).\",\"aliases\":[],\"exemplos\":[\"Cic. Rep. 1, 26, 41\",\"Verg. A. 1, 21\",\"Suet. Calig. 35\"],\"notas\":\"Genitivo normalizado para 'rēgis'. Sentidos e exemplos corroborados por Lewis & Short e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_24535:24535:0\",\"lemas\":[\"rex\"],\"lema_canonico\":\"rex\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"rei; governante, soberano; por extensão, chefe ou líder; também cognome/gentílico (gens Marcia).\",\"aliases\":[],\"exemplos\":[\"Cic. Rep. 1, 26, 41\",\"Verg. A. 1, 21\",\"Suet. Calig. 35\"],\"notas\":\"Genitivo normalizado para 'rēgis'. Sentidos e exemplos corroborados por Lewis & Short e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_24536-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_24536",
-    "page_num": 24536,
-    "lemmas": [
-      "rex",
-      "rex"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "king; ruler of a state; can mean prince, sovereign, despot (pejorative), head or leader; also used in religious/ceremonial contexts and figuratively (see notas).",
-    "exemplos": [],
-    "notas": "Síntese das acepções clássicas; grafia e declinação conforme LS/Whitaker/Lat→Deu. | [dedupe] redirect → chunk_24535:24535:0 | [dedupe] redirect → chunk_24535:24535:0",
-    "raw_text": "{\"id\":\"chunk_24536:24536:0\",\"lemas\":[\"rex\"],\"lema_canonico\":\"rex\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"king; ruler of a state; can mean prince, sovereign, despot (pejorative), head or leader; also used in religious/ceremonial contexts and figuratively (see notas).\",\"aliases\":[],\"exemplos\":[\"Cic. Rep. 1, 26\"],\"notas\":\"Síntese das acepções clássicas; grafia e declinação conforme LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_24536:24536:0\",\"lemas\":[\"rex\"],\"lema_canonico\":\"rex\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"king; ruler of a state; can mean prince, sovereign, despot (pejorative), head or leader; also used in religious/ceremonial contexts and figuratively (see notas).\",\"aliases\":[],\"exemplos\":[\"Cic. Rep. 1, 26\"],\"notas\":\"Síntese das acepções clássicas; grafia e declinação conforme LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_24537-e1",
@@ -3762,28 +2772,6 @@
     "raw_json": "{\"id\":\"chunk_24540:24540:0\",\"lemas\":[\"Rhadamistus\"],\"lema_canonico\":\"Rhadamistus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Rhadamisto, rei da Armênia (figura histórica mencionada por Tacito).\",\"aliases\":[],\"exemplos\":[\"Tac. An. 12, 44\"],\"notas\":\"Forma do primeiro tratado mantida; identificada com o personagem de Tacito.\",\"flags\":[\"src_firstpass\",\"conf:low\"]}"
   },
   {
-    "id": "chunk_24541-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_24541",
-    "page_num": 24541,
-    "lemmas": [
-      "radius",
-      "radius"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "a spoke of a wheel; ray, beam; a staff, rod; in mathematics/geometry, semidiameter; later: the forearm bone (radius) in anatomical usage.",
-    "exemplos": [],
-    "notas": "Normalizado para forma canónica 'radius'; síntese das acepções segundo LS/Whitaker/Lat→Deu. | [dedupe] redirect → chunk_23683:23683:0 | [dedupe] redirect → chunk_23683:23683:0",
-    "raw_text": "{\"id\":\"chunk_24541:24541:2\",\"lemas\":[\"radius\"],\"lema_canonico\":\"radius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"a spoke of a wheel; ray, beam; a staff, rod; in mathematics/geometry, semidiameter; later: the forearm bone (radius) in anatomical usage.\",\"aliases\":[],\"exemplos\":[\"Verg. G. 2, 444\"],\"notas\":\"Normalizado para forma canónica 'radius'; síntese das acepções segundo LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_24541:24541:2\",\"lemas\":[\"radius\"],\"lema_canonico\":\"radius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"a spoke of a wheel; ray, beam; a staff, rod; in mathematics/geometry, semidiameter; later: the forearm bone (radius) in anatomical usage.\",\"aliases\":[],\"exemplos\":[\"Verg. G. 2, 444\"],\"notas\":\"Normalizado para forma canónica 'radius'; síntese das acepções segundo LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_24541-e2",
     "volume_id": "faria",
     "doc_name": "chunk_24541",
@@ -3804,28 +2792,6 @@
     "notas": "Entrada grega; variante feminina attestada. Classificação morfológica aproximada (fora do vocabulário típico), ver morph_out_of_vocab.",
     "raw_text": "{\"id\":\"chunk_24541:24541:3\",\"lemas\":[\"rhadinē\",\"rhadine\"],\"lema_canonico\":\"rhadinē\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[],\"definicao\":\"delicate, slender, thin (fem. form from Greek loan)\",\"aliases\":[],\"exemplos\":[\"Luc. 4, 1167\"],\"notas\":\"Entrada grega; variante feminina attestada. Classificação morfológica aproximada (fora do vocabulário típico), ver morph_out_of_vocab.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:med\",\"morph_out_of_vocab\"]}",
     "raw_json": "{\"id\":\"chunk_24541:24541:3\",\"lemas\":[\"rhadinē\",\"rhadine\"],\"lema_canonico\":\"rhadinē\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[],\"definicao\":\"delicate, slender, thin (fem. form from Greek loan)\",\"aliases\":[],\"exemplos\":[\"Luc. 4, 1167\"],\"notas\":\"Entrada grega; variante feminina attestada. Classificação morfológica aproximada (fora do vocabulário típico), ver morph_out_of_vocab.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:med\",\"morph_out_of_vocab\"]}"
-  },
-  {
-    "id": "chunk_24541-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_24541",
-    "page_num": 24541,
-    "lemmas": [
-      "ne",
-      "ne"
-    ],
-    "morfologia": "adv.",
-    "morph_render": "adv.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "partícula negativa/enclítica: não; introduz proibição, finalidade negativa ou cláusula negativa; com pronomes/demonst. também 'indeed/truly' em certos usos",
-    "exemplos": [],
-    "notas": "Entrada reconciliada com LS e Whitaker: partícula com usos adv./conj.; morfologia marcada como adv. | [dedupe] redirect → chunk_17860:17860:0 | [dedupe] redirect → chunk_17860:17860:0",
-    "raw_text": "{\"id\":\"chunk_24541:24541:0\",\"lemas\":[\"ne\"],\"lema_canonico\":\"ne\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"partícula negativa/enclítica: não; introduz proibição, finalidade negativa ou cláusula negativa; com pronomes/demonst. também 'indeed/truly' em certos usos\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 1, 42, 99\",\"Ter. Eun. 2, 2, 54\"],\"notas\":\"Entrada reconciliada com LS e Whitaker: partícula com usos adv./conj.; morfologia marcada como adv.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_24541:24541:0\",\"lemas\":[\"ne\"],\"lema_canonico\":\"ne\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"partícula negativa/enclítica: não; introduz proibição, finalidade negativa ou cláusula negativa; com pronomes/demonst. também 'indeed/truly' em certos usos\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 1, 42, 99\",\"Ter. Eun. 2, 2, 54\"],\"notas\":\"Entrada reconciliada com LS e Whitaker: partícula com usos adv./conj.; morfologia marcada como adv.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_24541-e4",
@@ -3850,28 +2816,6 @@
     "raw_json": "{\"id\":\"chunk_24541:24541:1\",\"lemas\":[\"radere\",\"rādō\"],\"lema_canonico\":\"radere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"raspar, coçar, rasar; rapar (de cabelo), limpar por fricção\",\"aliases\":[],\"exemplos\":[\"Cic. Rosc. (passim)\",\"Lucr. 4, 528\"],\"notas\":\"Lema colocado no infinitivo; principais formas (rādō, rāsī, rāsum) segundo LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_24542-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_24542",
-    "page_num": 24542,
-    "lemmas": [
-      "Raeti",
-      "Raeti"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "os Ræti; povo da Récia (plur.).",
-    "exemplos": [],
-    "notas": "Plural dos habitantes da Récia; lema canônico Raeti (pl.). | [dedupe] redirect → chunk_23696:23696:1 | [dedupe] redirect → chunk_23696:23696:1 | [ocr_fix 2025-08-17T19:51:54Z] match direto em LS por lemma/lemma_norm | lemma_in='Raeti' → 'Raeti'",
-    "raw_text": "{\"id\":\"chunk_24542:24542:0\",\"lemas\":[\"Raeti\",\"Rhaeti\"],\"lema_canonico\":\"Raeti\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"os Ræti; povo da Récia (plur.).\",\"aliases\":[],\"exemplos\":[\"Tac. Hist. 1, 68\"],\"notas\":\"Plural dos habitantes da Récia; lema canônico Raeti (pl.).\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_24542:24542:0\",\"lemas\":[\"Raeti\",\"Rhaeti\"],\"lema_canonico\":\"Raeti\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"os Ræti; povo da Récia (plur.).\",\"aliases\":[],\"exemplos\":[\"Tac. Hist. 1, 68\"],\"notas\":\"Plural dos habitantes da Récia; lema canônico Raeti (pl.).\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_24543-e1",
     "volume_id": "faria",
     "doc_name": "chunk_24543",
@@ -3892,28 +2836,6 @@
     "notas": "Unificadas grafias; lema canônico normalizado para Raetia.",
     "raw_text": "{\"id\":\"chunk_24543:24543:0\",\"lemas\":[\"Raetia\",\"Rhaetia\"],\"lema_canonico\":\"Raetia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Récia (Rhaetia), província/terra alpina entre Reno e Danúbio.\",\"aliases\":[],\"exemplos\":[\"Tac. An. 1, 44\"],\"notas\":\"Unificadas grafias; lema canônico normalizado para Raetia.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_24543:24543:0\",\"lemas\":[\"Raetia\",\"Rhaetia\"],\"lema_canonico\":\"Raetia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Récia (Rhaetia), província/terra alpina entre Reno e Danúbio.\",\"aliases\":[],\"exemplos\":[\"Tac. An. 1, 44\"],\"notas\":\"Unificadas grafias; lema canônico normalizado para Raetia.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_24544-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_24544",
-    "page_num": 24544,
-    "lemmas": [
-      "rhaetus",
-      "rhaetus"
-    ],
-    "morfologia": "s. 3ª (-is)",
-    "morph_render": "s. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:low",
-    "needs_review": 1,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada parece ser redirecionamento para 'Rheticus' no original; mantida como tal e marcada para revisão.",
-    "raw_text": "{\"id\":\"chunk_24544:24544:0\",\"lemas\":[\"rhaetus\"],\"lema_canonico\":\"rhaetus\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Rheticus\"],\"exemplos\":[],\"notas\":\"Entrada parece ser redirecionamento para 'Rheticus' no original; mantida como tal e marcada para revisão.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"redirect_only\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_24544:24544:0\",\"lemas\":[\"rhaetus\"],\"lema_canonico\":\"rhaetus\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Rheticus\"],\"exemplos\":[],\"notas\":\"Entrada parece ser redirecionamento para 'Rheticus' no original; mantida como tal e marcada para revisão.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"redirect_only\",\"needs_review\"]}"
   },
   {
     "id": "chunk_24545-e1",
@@ -4136,28 +3058,6 @@
     "raw_json": "{\"id\":\"chunk_24553:24553:0\",\"lemas\":[\"Rhea\",\"Rhēa\",\"Rhĕa\"],\"lema_canonico\":\"Rhea\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Nome próprio feminino: Réia, antiga divindade itálica identificada com Ops ou Cibele; mãe dos deuses.\",\"aliases\":[],\"exemplos\":[\"Ov. F. 4, 201\",\"Verg. A. 7, 659\",\"Liv. 1, 3\"],\"notas\":\"Unificadas variantes atendendo a Lewis & Short; exemplos acrescentados por correspondência às fontes.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_24554-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_24554",
-    "page_num": 24554,
-    "lemmas": [
-      "Rhĕa",
-      "Rhēa"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "nome próprio feminino: Rhea (ex.: Rhea Silvia, mãe de Rômulo e Remo); também usado para a deusa Cibele",
-    "exemplos": [],
-    "notas": "Conferido com Lewis & Short; inclui ambas as referências (Rhea Silvia e deusa Cybele). | [dedupe] redirect → chunk_24553:24553:0 | [dedupe] redirect → chunk_24553:24553:0 | [ocr_fix 2025-08-17T19:54:48Z] match direto em LS por lemma/lemma_norm | lemma_in='Rhēa' → 'Rhēa' | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='Rhēa' → 'Rhĕa'",
-    "raw_text": "{\"id\":\"chunk_24554:24554:0\",\"lemas\":[\"Rhēa\",\"Rhĕa\",\"Rhea\"],\"lema_canonico\":\"Rhēa\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"nome próprio feminino: Rhea (ex.: Rhea Silvia, mãe de Rômulo e Remo); também usado para a deusa Cibele\",\"aliases\":[\"Rhea Silvia\",\"Cybele\"],\"exemplos\":[\"T. Liv. 1, 3\",\"Ov. F. 4, 201\"],\"notas\":\"Conferido com Lewis & Short; inclui ambas as referências (Rhea Silvia e deusa Cybele).\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_24554:24554:0\",\"lemas\":[\"Rhēa\",\"Rhĕa\",\"Rhea\"],\"lema_canonico\":\"Rhēa\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"nome próprio feminino: Rhea (ex.: Rhea Silvia, mãe de Rômulo e Remo); também usado para a deusa Cibele\",\"aliases\":[\"Rhea Silvia\",\"Cybele\"],\"exemplos\":[\"T. Liv. 1, 3\",\"Ov. F. 4, 201\"],\"notas\":\"Conferido com Lewis & Short; inclui ambas as referências (Rhea Silvia e deusa Cybele).\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_24555-e1",
     "volume_id": "faria",
     "doc_name": "chunk_24555",
@@ -4178,28 +3078,6 @@
     "notas": "Grafia normalizada para rhēda; declinação conforme LS/Whitaker.",
     "raw_text": "{\"id\":\"chunk_24555:24555:0\",\"lemas\":[\"rhēda\",\"rheda\"],\"lema_canonico\":\"rhēda\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"carro de viagem; carro de quatro rodas\",\"aliases\":[],\"exemplos\":[\"Cæs. B. G. 1, 51, 2\"],\"notas\":\"Grafia normalizada para rhēda; declinação conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_24555:24555:0\",\"lemas\":[\"rhēda\",\"rheda\"],\"lema_canonico\":\"rhēda\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"carro de viagem; carro de quatro rodas\",\"aliases\":[],\"exemplos\":[\"Cæs. B. G. 1, 51, 2\"],\"notas\":\"Grafia normalizada para rhēda; declinação conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_24556-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_24556",
-    "page_num": 24556,
-    "lemmas": [
-      "raedarius",
-      "raedarius"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "coachman; driver of a four-wheeled carriage; also a wagon-builder/coachmaker.",
-    "exemplos": [],
-    "notas": "Normalizada grafia e genitivo; variantes attestadas por LS/Whitaker. | [dedupe] redirect → chunk_23911:23911:1 | [dedupe] redirect → chunk_23911:23911:1",
-    "raw_text": "{\"id\":\"chunk_24556:24556:0\",\"lemas\":[\"raedarius\",\"rhedarius\",\"rhēdārĭus\"],\"lema_canonico\":\"raedarius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"coachman; driver of a four-wheeled carriage; also a wagon-builder/coachmaker.\",\"aliases\":[\"rhēdārĭus\"],\"exemplos\":[\"Cic. Mil. 10, 29\"],\"notas\":\"Normalizada grafia e genitivo; variantes attestadas por LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_24556:24556:0\",\"lemas\":[\"raedarius\",\"rhedarius\",\"rhēdārĭus\"],\"lema_canonico\":\"raedarius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"coachman; driver of a four-wheeled carriage; also a wagon-builder/coachmaker.\",\"aliases\":[\"rhēdārĭus\"],\"exemplos\":[\"Cic. Mil. 10, 29\"],\"notas\":\"Normalizada grafia e genitivo; variantes attestadas por LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_24557-e1",
@@ -4290,28 +3168,6 @@
     "raw_json": "{\"id\":\"chunk_24560:24560:0\",\"lemas\":[\"Rhemm\"],\"lema_canonico\":\"Rhemm\",\"morfologia\":\"\",\"morph_extra\":[],\"definicao\":\"v. Remm.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Possível erro de OCR; entrada pouco clara e sem confirmação externa.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_24561-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_24561",
-    "page_num": 24561,
-    "lemmas": [
-      "Rhenus",
-      "Rhenus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "o rio Reno; por extensão, os povos ou habitantes ribeirinhos do Reno (Rhenish)",
-    "exemplos": [],
-    "notas": "Lema e genitivo (Rheni) alinhados a LS/Whitaker; aceitas leituras coletivas/metonímicas. | [dedupe] redirect → chunk_24563:24563:1 | [dedupe] redirect → chunk_24563:24563:1",
-    "raw_text": "{\"id\":\"chunk_24561:24561:0\",\"lemas\":[\"Rhenus\",\"Rhenos\"],\"lema_canonico\":\"Rhenus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"o rio Reno; por extensão, os povos ou habitantes ribeirinhos do Reno (Rhenish)\",\"aliases\":[],\"exemplos\":[\"Ov. F. 1, 286\",\"Cæs. B. G. 1, 1\"],\"notas\":\"Lema e genitivo (Rheni) alinhados a LS/Whitaker; aceitas leituras coletivas/metonímicas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_24561:24561:0\",\"lemas\":[\"Rhenus\",\"Rhenos\"],\"lema_canonico\":\"Rhenus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"o rio Reno; por extensão, os povos ou habitantes ribeirinhos do Reno (Rhenish)\",\"aliases\":[],\"exemplos\":[\"Ov. F. 1, 286\",\"Cæs. B. G. 1, 1\"],\"notas\":\"Lema e genitivo (Rheni) alinhados a LS/Whitaker; aceitas leituras coletivas/metonímicas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_24562-e1",
     "volume_id": "faria",
     "doc_name": "chunk_24562",
@@ -4332,28 +3188,6 @@
     "notas": "Conservado o lema e leitura do OCR; forma e declinação incertas — revisão necessária.",
     "raw_text": "{\"id\":\"chunk_24562:24562:0\",\"lemas\":[\"rhenă\"],\"lema_canonico\":\"rhenă\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"espécie de rena; agasalho feito de pele de rena (cit. Caes. B. Gall. 6, 21, 5)\",\"aliases\":[],\"exemplos\":[\"Cés. B. Gal. 6, 21, 5\"],\"notas\":\"Conservado o lema e leitura do OCR; forma e declinação incertas — revisão necessária.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_24562:24562:0\",\"lemas\":[\"rhenă\"],\"lema_canonico\":\"rhenă\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"espécie de rena; agasalho feito de pele de rena (cit. Caes. B. Gall. 6, 21, 5)\",\"aliases\":[],\"exemplos\":[\"Cés. B. Gal. 6, 21, 5\"],\"notas\":\"Conservado o lema e leitura do OCR; forma e declinação incertas — revisão necessária.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_24563-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_24563",
-    "page_num": 24563,
-    "lemmas": [
-      "flumen",
-      "flumen"
-    ],
-    "morfologia": "s. neut. 3ª (-is)",
-    "morph_render": "s. neut. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "rio, corrente; qualquer líquido em movimento; enchente; (fig.) fluxo ou corrente (de palavras, pensamentos etc.).",
-    "exemplos": [],
-    "notas": "Genitivo correto flūminis; sentidos e exemplos confirmados por LS/Whitaker. | [dedupe] redirect → chunk_11180:11180:0 | [dedupe] redirect → chunk_11180:11180:0",
-    "raw_text": "{\"id\":\"chunk_24563:24563:0\",\"lemas\":[\"flumen\",\"flūmen\"],\"lema_canonico\":\"flumen\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"rio, corrente; qualquer líquido em movimento; enchente; (fig.) fluxo ou corrente (de palavras, pensamentos etc.).\",\"aliases\":[],\"exemplos\":[\"Verg. A. 2, 305\",\"Hor. C. 2, 14, 17\",\"Ov. R. Am. 651\",\"Val. Fl. 8, 189\"],\"notas\":\"Genitivo correto flūminis; sentidos e exemplos confirmados por LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_24563:24563:0\",\"lemas\":[\"flumen\",\"flūmen\"],\"lema_canonico\":\"flumen\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"rio, corrente; qualquer líquido em movimento; enchente; (fig.) fluxo ou corrente (de palavras, pensamentos etc.).\",\"aliases\":[],\"exemplos\":[\"Verg. A. 2, 305\",\"Hor. C. 2, 14, 17\",\"Ov. R. Am. 651\",\"Val. Fl. 8, 189\"],\"notas\":\"Genitivo correto flūminis; sentidos e exemplos confirmados por LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_24563-e2",
@@ -4466,28 +3300,6 @@
     "raw_json": "{\"id\":\"chunk_24567:24567:0\",\"lemas\":[\"Rhetius\",\"Rhetiens\"],\"lema_canonico\":\"Rhetius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Of or pertaining to the Rhaetians; of Raetia (region in the Alps).\",\"aliases\":[],\"exemplos\":[\"Verg. 2, 96\"],\"notas\":\"First-pass gave medieval/Germanized 'Rhetiens'; canonical classical form Rhetius used.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_24568-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_24568",
-    "page_num": 24568,
-    "lemmas": [
-      "rhetor",
-      "rhetor"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "professor de oratória; retórico; também, por vezes com sentido depreciativo, um 'speechifier'.",
-    "exemplos": [],
-    "notas": "Unificado lema e declinação conforme LS/Whitaker. | [dedupe] redirect → chunk_23779:23779:2 | [dedupe] redirect → chunk_23779:23779:2",
-    "raw_text": "{\"id\":\"chunk_24568:24568:0\",\"lemas\":[\"rhetor\",\"rhētor\"],\"lema_canonico\":\"rhetor\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"professor de oratória; retórico; também, por vezes com sentido depreciativo, um 'speechifier'.\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 1, 18, 84\",\"Nep. Epam. 6, 3\",\"Quint. 2, 2, 1\",\"Tac. Dial. 30\"],\"notas\":\"Unificado lema e declinação conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_24568:24568:0\",\"lemas\":[\"rhetor\",\"rhētor\"],\"lema_canonico\":\"rhetor\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"professor de oratória; retórico; também, por vezes com sentido depreciativo, um 'speechifier'.\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 1, 18, 84\",\"Nep. Epam. 6, 3\",\"Quint. 2, 2, 1\",\"Tac. Dial. 30\"],\"notas\":\"Unificado lema e declinação conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_24569-e1",
     "volume_id": "faria",
     "doc_name": "chunk_24569",
@@ -4530,28 +3342,6 @@
     "notas": "Correlacionado com Whitaker e LS (forma advérbio de rhētoricus).",
     "raw_text": "{\"id\":\"chunk_24570:24570:0\",\"lemas\":[\"rhetorice\",\"rhētŏrĭcē\"],\"lema_canonico\":\"rhetorice\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"de modo retórico; relativamente à retórica, rhetoricamente\",\"aliases\":[],\"exemplos\":[\"Cic. Br. 43\"],\"notas\":\"Correlacionado com Whitaker e LS (forma advérbio de rhētoricus).\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_24570:24570:0\",\"lemas\":[\"rhetorice\",\"rhētŏrĭcē\"],\"lema_canonico\":\"rhetorice\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"de modo retórico; relativamente à retórica, rhetoricamente\",\"aliases\":[],\"exemplos\":[\"Cic. Br. 43\"],\"notas\":\"Correlacionado com Whitaker e LS (forma advérbio de rhētoricus).\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_24571-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_24571",
-    "page_num": 24571,
-    "lemmas": [
-      "rhetoricus",
-      "rhetoricus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "pertencente à retórica; relativo à arte da oratória; subst. neutro plural: os preceitos ou a arte da retórica",
-    "exemplos": [],
-    "notas": "Grafia e interpretação alinhadas com LS/Whitaker; neutro plural explicado como 'rhetorica' (arte/princípios). | [dedupe] redirect → chunk_24569:24569:0 | [dedupe] redirect → chunk_24569:24569:0",
-    "raw_text": "{\"id\":\"chunk_24571:24571:0\",\"lemas\":[\"rhetoricus\",\"rhetorica\",\"rhetoricum\"],\"lema_canonico\":\"rhetoricus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"pertencente à retórica; relativo à arte da oratória; subst. neutro plural: os preceitos ou a arte da retórica\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 3, 75, 2\",\"Cic. Tusc. 4, 4\"],\"notas\":\"Grafia e interpretação alinhadas com LS/Whitaker; neutro plural explicado como 'rhetorica' (arte/princípios).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_24571:24571:0\",\"lemas\":[\"rhetoricus\",\"rhetorica\",\"rhetoricum\"],\"lema_canonico\":\"rhetoricus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"pertencente à retórica; relativo à arte da oratória; subst. neutro plural: os preceitos ou a arte da retórica\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 3, 75, 2\",\"Cic. Tusc. 4, 4\"],\"notas\":\"Grafia e interpretação alinhadas com LS/Whitaker; neutro plural explicado como 'rhetorica' (arte/princípios).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_24572-e1",
@@ -4706,28 +3496,6 @@
     "notas": "OCR showed variant '-pheus' and uncertain genitive; morphology provisionally set as 2nd declension; needs authoritative confirmation.",
     "raw_text": "{\"id\":\"chunk_24577:24577:0\",\"lemas\":[\"Rhipeus\"],\"lema_canonico\":\"Rhipeus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Proper name: Rhipeus (a Rhipaean/Centaur or warrior in myth).\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 12, 352\",\"Verg. En. 2, 339\"],\"notas\":\"OCR showed variant '-pheus' and uncertain genitive; morphology provisionally set as 2nd declension; needs authoritative confirmation.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_24577:24577:0\",\"lemas\":[\"Rhipeus\"],\"lema_canonico\":\"Rhipeus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Proper name: Rhipeus (a Rhipaean/Centaur or warrior in myth).\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 12, 352\",\"Verg. En. 2, 339\"],\"notas\":\"OCR showed variant '-pheus' and uncertain genitive; morphology provisionally set as 2nd declension; needs authoritative confirmation.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_24578-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_24578",
-    "page_num": 24578,
-    "lemmas": [
-      "rhinum",
-      "rhinum"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:low",
-    "needs_review": 1,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Treated as a remissive entry to Rhion (first_pass: 'v. Rhion.'); needs verification of form and declension.",
-    "raw_text": "{\"id\":\"chunk_24578:24578:0\",\"lemas\":[\"rhinum\"],\"lema_canonico\":\"rhinum\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Rhion\"],\"exemplos\":[],\"notas\":\"Treated as a remissive entry to Rhion (first_pass: 'v. Rhion.'); needs verification of form and declension.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"redirect_only\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_24578:24578:0\",\"lemas\":[\"rhinum\"],\"lema_canonico\":\"rhinum\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Rhion\"],\"exemplos\":[],\"notas\":\"Treated as a remissive entry to Rhion (first_pass: 'v. Rhion.'); needs verification of form and declension.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"redirect_only\",\"needs_review\"]}"
   },
   {
     "id": "chunk_24579-e1",

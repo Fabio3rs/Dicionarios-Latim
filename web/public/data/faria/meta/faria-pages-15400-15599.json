@@ -22,50 +22,6 @@
     "raw_json": "{\"id\":\"chunk_15400:15400:0\",\"lemas\":[\"laniger\",\"lanigera\",\"lanigerum\"],\"lema_canonico\":\"laniger\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"que porte lã; lanígero, felpudo; (substantivo) carneiro/ovelha em uso poético\",\"aliases\":[],\"exemplos\":[\"Verg. G. 3, 287\"],\"notas\":\"Formas e sentidos confirmados em LS, Whitaker e Lat→Deu; inclui substantival uso atestado no LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_15401-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15401",
-    "page_num": 15401,
-    "lemmas": [
-      "laniger",
-      "laniger"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "que traz lã; lanoso, fleecy; também subst. (m.) carneiro, um carneiro (ram)",
-    "exemplos": [],
-    "notas": "Inclui variantes adjetivais e substantival; gen. 'gĕri' corrigido conforme Lewis & Short. | [dedupe] redirect → chunk_15400:15400:0 | [dedupe] redirect → chunk_15400:15400:0",
-    "raw_text": "{\"id\":\"chunk_15401:15401:0\",\"lemas\":[\"laniger\",\"lanigera\",\"lanigerum\"],\"lema_canonico\":\"laniger\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"que traz lã; lanoso, fleecy; também subst. (m.) carneiro, um carneiro (ram)\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 7, 312\",\"Verg. G. 3, 287\"],\"notas\":\"Inclui variantes adjetivais e substantival; gen. 'gĕri' corrigido conforme Lewis & Short.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_15401:15401:0\",\"lemas\":[\"laniger\",\"lanigera\",\"lanigerum\"],\"lema_canonico\":\"laniger\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"que traz lã; lanoso, fleecy; também subst. (m.) carneiro, um carneiro (ram)\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 7, 312\",\"Verg. G. 3, 287\"],\"notas\":\"Inclui variantes adjetivais e substantival; gen. 'gĕri' corrigido conforme Lewis & Short.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_15402-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15402",
-    "page_num": 15402,
-    "lemmas": [
-      "laniger",
-      "laniger"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Adj.: que tem lã, lanígero, wool-bearing, fleecy; também subst. fem. lānigĕra, ’ovelha’ (poet./post-Aug.).",
-    "exemplos": [],
-    "notas": "Unificadas formas adjetivais e registro do substantivo feminino conforme LS e Whitaker. | [dedupe] redirect → chunk_15400:15400:0 | [dedupe] redirect → chunk_15400:15400:0",
-    "raw_text": "{\"id\":\"chunk_15402:15402:0\",\"lemas\":[\"laniger\",\"lanigera\",\"lanigerum\",\"lānigĕra\"],\"lema_canonico\":\"laniger\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Adj.: que tem lã, lanígero, wool-bearing, fleecy; também subst. fem. lānigĕra, ’ovelha’ (poet./post-Aug.).\",\"aliases\":[],\"exemplos\":[\"Verg. G. 3, 287\",\"Ov. Met. 7, 312\"],\"notas\":\"Unificadas formas adjetivais e registro do substantivo feminino conforme LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_15402:15402:0\",\"lemas\":[\"laniger\",\"lanigera\",\"lanigerum\",\"lānigĕra\"],\"lema_canonico\":\"laniger\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Adj.: que tem lã, lanígero, wool-bearing, fleecy; também subst. fem. lānigĕra, ’ovelha’ (poet./post-Aug.).\",\"aliases\":[],\"exemplos\":[\"Verg. G. 3, 287\",\"Ov. Met. 7, 312\"],\"notas\":\"Unificadas formas adjetivais e registro do substantivo feminino conforme LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_15403-e1",
     "volume_id": "faria",
     "doc_name": "chunk_15403",
@@ -306,28 +262,6 @@
     "notas": "Normalized lemma and morphology per Lewis & Short; modern identification added. | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='Lānŭvium' → 'Lānŭvĭum'",
     "raw_text": "{\"id\":\"chunk_15412:15412:0\",\"lemas\":[\"Lānŭvium\",\"Lanuvium\"],\"lema_canonico\":\"Lānŭvium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"town of Latium on the Via Appia (modern Cività Lavinia)\",\"aliases\":[],\"exemplos\":[\"Cic. Mil. 10, 27\"],\"notas\":\"Normalized lemma and morphology per Lewis & Short; modern identification added.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_15412:15412:0\",\"lemas\":[\"Lānŭvium\",\"Lanuvium\"],\"lema_canonico\":\"Lānŭvium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"town of Latium on the Via Appia (modern Cività Lavinia)\",\"aliases\":[],\"exemplos\":[\"Cic. Mil. 10, 27\"],\"notas\":\"Normalized lemma and morphology per Lewis & Short; modern identification added.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_15413-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15413",
-    "page_num": 15413,
-    "lemmas": [
-      "lanx",
-      "lanx"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "a plate, platter, or charger; (special) the pan of a pair of scales; sometimes used for a scale",
-    "exemplos": [],
-    "notas": "Normalized genitive lancis; senses from Lewis & Short and Whitaker. | [dedupe] redirect → chunk_15380:15380:1 | [dedupe] redirect → chunk_15380:15380:1",
-    "raw_text": "{\"id\":\"chunk_15413:15413:0\",\"lemas\":[\"lanx\",\"lancis\"],\"lema_canonico\":\"lanx\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"a plate, platter, or charger; (special) the pan of a pair of scales; sometimes used for a scale\",\"aliases\":[],\"exemplos\":[\"Verg. A. 8, 284\",\"Cic. Att. 6, 1, 13\",\"Plin. H. N. 7, 41\"],\"notas\":\"Normalized genitive lancis; senses from Lewis & Short and Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_15413:15413:0\",\"lemas\":[\"lanx\",\"lancis\"],\"lema_canonico\":\"lanx\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"a plate, platter, or charger; (special) the pan of a pair of scales; sometimes used for a scale\",\"aliases\":[],\"exemplos\":[\"Verg. A. 8, 284\",\"Cic. Att. 6, 1, 13\",\"Plin. H. N. 7, 41\"],\"notas\":\"Normalized genitive lancis; senses from Lewis & Short and Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_15414-e1",
@@ -1232,28 +1166,6 @@
     "raw_json": "{\"id\":\"chunk_15452:15452:1\",\"lemas\":[\"largior\",\"largīrī\",\"largio\",\"largītus\"],\"lema_canonico\":\"largior\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"verbo deponente: dar abundantemente, repartir, conceder; também ‘subornar’ em uso pejorativo\",\"aliases\":[],\"exemplos\":[\"Prop. 1, 3, 25\",\"Plaut. Bacch. 4, 7, 30\",\"Plaut. As. 5, 2, 82\",\"Cic. Off. 1, 14, 43\"],\"notas\":\"Entrada unifica o deponente largīrī (largior) com formas colaterais (act. collat. largio, partic. largītus) atestadas em LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_15453-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15453",
-    "page_num": 15453,
-    "lemmas": [
-      "largior",
-      "largior"
-    ],
-    "morfologia": "v. 4ª (-īre)",
-    "morph_render": "v. 4ª (-īre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Verbo deponente 'largior, largīrī': dar em abundância, conceder, dispensar; também 'bestow, lavish'.",
-    "exemplos": [],
-    "notas": "Normalizado para infinitivo deponente largīrī; particípio perfecto é largītus (não 'largus'). | [dedupe] redirect → chunk_15452:15452:1 | [dedupe] redirect → chunk_15452:15452:1",
-    "raw_text": "{\"id\":\"chunk_15453:15453:0\",\"lemas\":[\"largior\",\"largīrī\"],\"lema_canonico\":\"largior\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[\"dep.\",\"tr.\"],\"definicao\":\"Verbo deponente 'largior, largīrī': dar em abundância, conceder, dispensar; também 'bestow, lavish'.\",\"aliases\":[],\"exemplos\":[\"Prop. 1, 3, 25\",\"Lucr. 5, 166\",\"Cic. Or. 1, 43\"],\"notas\":\"Normalizado para infinitivo deponente largīrī; particípio perfecto é largītus (não 'largus').\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_15453:15453:0\",\"lemas\":[\"largior\",\"largīrī\"],\"lema_canonico\":\"largior\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[\"dep.\",\"tr.\"],\"definicao\":\"Verbo deponente 'largior, largīrī': dar em abundância, conceder, dispensar; também 'bestow, lavish'.\",\"aliases\":[],\"exemplos\":[\"Prop. 1, 3, 25\",\"Lucr. 5, 166\",\"Cic. Or. 1, 43\"],\"notas\":\"Normalizado para infinitivo deponente largīrī; particípio perfecto é largītus (não 'largus').\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_15454-e1",
     "volume_id": "faria",
     "doc_name": "chunk_15454",
@@ -1386,94 +1298,6 @@
     "raw_json": "{\"id\":\"chunk_15459:15459:0\",\"lemas\":[\"largus\",\"larga\",\"largum\"],\"lema_canonico\":\"largus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"abundante; que jorra ou brota em abundância (rios, fontes); moralmente: generoso, liberal; rico\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 2, 49\",\"Cic. Or. 2, 55\",\"Verg. En. 11, 338\"],\"notas\":\"OCR corrigido; formas adverbiais e particípio relacionadas indicadas em notas internas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_15460-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15460",
-    "page_num": 15460,
-    "lemmas": [
-      "largus",
-      "largus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Abundante, copioso, generoso, amplo; adjetivo (Lat.).",
-    "exemplos": [],
-    "notas": "Corrigido: 'largus' é adjetivo; o particípio perfeito de largior é largītus (não largus). | [dedupe] redirect → chunk_15459:15459:0 | [dedupe] redirect → chunk_15459:15459:0",
-    "raw_text": "{\"id\":\"chunk_15460:15460:0\",\"lemas\":[\"largus\"],\"lema_canonico\":\"largus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Abundante, copioso, generoso, amplo; adjetivo (Lat.).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigido: 'largus' é adjetivo; o particípio perfeito de largior é largītus (não largus).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_15460:15460:0\",\"lemas\":[\"largus\"],\"lema_canonico\":\"largus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Abundante, copioso, generoso, amplo; adjetivo (Lat.).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigido: 'largus' é adjetivo; o particípio perfeito de largior é largītus (não largus).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_15461-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15461",
-    "page_num": 15461,
-    "lemmas": [
-      "largus",
-      "largus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "abundante, copioso; também generoso, liberal; rico, que abunda em (usado com gen.)",
-    "exemplos": [],
-    "notas": "Normalizada morfologia e sentidos conforme LS/Whitaker/Lat→Deu. | [dedupe] redirect → chunk_15459:15459:0 | [dedupe] redirect → chunk_15459:15459:0",
-    "raw_text": "{\"id\":\"chunk_15461:15461:0\",\"lemas\":[\"largus\",\"larga\",\"largum\"],\"lema_canonico\":\"largus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"abundante, copioso; também generoso, liberal; rico, que abunda em (usado com gen.)\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 2, 49\",\"Cic. Or. 2, 55\",\"Verg. En. 11, 338\"],\"notas\":\"Normalizada morfologia e sentidos conforme LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_15461:15461:0\",\"lemas\":[\"largus\",\"larga\",\"largum\"],\"lema_canonico\":\"largus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"abundante, copioso; também generoso, liberal; rico, que abunda em (usado com gen.)\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 2, 49\",\"Cic. Or. 2, 55\",\"Verg. En. 11, 338\"],\"notas\":\"Normalizada morfologia e sentidos conforme LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_15462-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15462",
-    "page_num": 15462,
-    "lemmas": [
-      "largus",
-      "largus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "abundante, copioso; generoso, bountiful; adverb. e particípio relacionados atestados",
-    "exemplos": [],
-    "notas": "Adjetivo com formas adverbiais e particípio largītus; distinta do gentilício/sobrenome Largus (LS). | [dedupe] redirect → chunk_15459:15459:0 | [dedupe] redirect → chunk_15459:15459:0",
-    "raw_text": "{\"id\":\"chunk_15462:15462:0\",\"lemas\":[\"largus\",\"largē\",\"largĭter\",\"largītus\"],\"lema_canonico\":\"largus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"abundante, copioso; generoso, bountiful; adverb. e particípio relacionados atestados\",\"aliases\":[],\"exemplos\":[\"Lucr. 5, 869\",\"Lucr. 1, 412\",\"Ov. M. 4, 758\",\"Hor. S. 1, 8, 44\"],\"notas\":\"Adjetivo com formas adverbiais e particípio largītus; distinta do gentilício/sobrenome Largus (LS).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_15462:15462:0\",\"lemas\":[\"largus\",\"largē\",\"largĭter\",\"largītus\"],\"lema_canonico\":\"largus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"abundante, copioso; generoso, bountiful; adverb. e particípio relacionados atestados\",\"aliases\":[],\"exemplos\":[\"Lucr. 5, 869\",\"Lucr. 1, 412\",\"Ov. M. 4, 758\",\"Hor. S. 1, 8, 44\"],\"notas\":\"Adjetivo com formas adverbiais e particípio largītus; distinta do gentilício/sobrenome Largus (LS).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_15463-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15463",
-    "page_num": 15463,
-    "lemmas": [
-      "largus",
-      "largus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "abundante, copioso; figuradamente, que dá em abundância, generoso, profuso; usado com genitivo ou infinitivo",
-    "exemplos": [],
-    "notas": "Repetição da entrada 'largus' unificada com formas adjetivais e observações de construção. | [dedupe] redirect → chunk_15459:15459:0 | [dedupe] redirect → chunk_15459:15459:0",
-    "raw_text": "{\"id\":\"chunk_15463:15463:0\",\"lemas\":[\"largus\",\"larga\",\"largum\"],\"lema_canonico\":\"largus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"abundante, copioso; figuradamente, que dá em abundância, generoso, profuso; usado com genitivo ou infinitivo\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 2, 49\",\"Cic. Or. 2, 55\",\"Verg. En. 11, 338\"],\"notas\":\"Repetição da entrada 'largus' unificada com formas adjetivais e observações de construção.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_15463:15463:0\",\"lemas\":[\"largus\",\"larga\",\"largum\"],\"lema_canonico\":\"largus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"abundante, copioso; figuradamente, que dá em abundância, generoso, profuso; usado com genitivo ou infinitivo\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 2, 49\",\"Cic. Or. 2, 55\",\"Verg. En. 11, 338\"],\"notas\":\"Repetição da entrada 'largus' unificada com formas adjetivais e observações de construção.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_15464-e1",
     "volume_id": "faria",
     "doc_name": "chunk_15464",
@@ -1494,28 +1318,6 @@
     "notas": "Corrigida leitura OCR e alinhada com entradas LS e Whitaker.",
     "raw_text": "{\"id\":\"chunk_15464:15464:0\",\"lemas\":[\"lascivus\",\"lascīvus\"],\"lema_canonico\":\"lascivus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"brincalhão, folgazão; também lascivo, luxurioso; aplicado a estilo: afetado, exibicionista\",\"aliases\":[],\"exemplos\":[\"Cic. Rep. 1, 63\",\"Quint. 9, 4, 142\"],\"notas\":\"Corrigida leitura OCR e alinhada com entradas LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_15464:15464:0\",\"lemas\":[\"lascivus\",\"lascīvus\"],\"lema_canonico\":\"lascivus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"brincalhão, folgazão; também lascivo, luxurioso; aplicado a estilo: afetado, exibicionista\",\"aliases\":[],\"exemplos\":[\"Cic. Rep. 1, 63\",\"Quint. 9, 4, 142\"],\"notas\":\"Corrigida leitura OCR e alinhada com entradas LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_15465-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15465",
-    "page_num": 15465,
-    "lemmas": [
-      "lascivus",
-      "lascivus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Brincalhão; petulante, atrevido; lascivo, libidinoso; também: afetado (estilo).",
-    "exemplos": [],
-    "notas": "Normalizada morfologia conforme LS/Whitaker; forma adverbial atestada (lascivē/lascīviter). | [dedupe] redirect → chunk_15464:15464:0 | [dedupe] redirect → chunk_15464:15464:0",
-    "raw_text": "{\"id\":\"chunk_15465:15465:0\",\"lemas\":[\"lascivus\",\"lasciva\",\"lascivum\"],\"lema_canonico\":\"lascivus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Brincalhão; petulante, atrevido; lascivo, libidinoso; também: afetado (estilo).\",\"aliases\":[],\"exemplos\":[\"Verg. Buc. 2, 64\",\"Ov. A. Am. 1, 523\",\"Mart. 5, 2, 5\",\"Quint. 10, 1, 88\"],\"notas\":\"Normalizada morfologia conforme LS/Whitaker; forma adverbial atestada (lascivē/lascīviter).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_15465:15465:0\",\"lemas\":[\"lascivus\",\"lasciva\",\"lascivum\"],\"lema_canonico\":\"lascivus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Brincalhão; petulante, atrevido; lascivo, libidinoso; também: afetado (estilo).\",\"aliases\":[],\"exemplos\":[\"Verg. Buc. 2, 64\",\"Ov. A. Am. 1, 523\",\"Mart. 5, 2, 5\",\"Quint. 10, 1, 88\"],\"notas\":\"Normalizada morfologia conforme LS/Whitaker; forma adverbial atestada (lascivē/lascīviter).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_15466-e1",
@@ -2090,28 +1892,6 @@
     "raw_json": "{\"id\":\"chunk_15489:15489:0\",\"lemas\":[\"Latinitensis\"],\"lema_canonico\":\"Latinitensis\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"gentílico/sobrenome (registro incerto como forma própria); citado como Latinienses\",\"aliases\":[],\"exemplos\":[\"Cic. Pompe. 58\"],\"notas\":\"Leitura e status (sobrenome/gentílico) permanecem incertos; conservada grafia do primeiro passe.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_15490-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15490",
-    "page_num": 15490,
-    "lemmas": [
-      "latinitas",
-      "latinitas"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "pureza do latim; latinitas; também o direito latino (jus Latii)",
-    "exemplos": [],
-    "notas": "Grafia e declinação normalizadas; alinhado com LS e Lat→Deu. | [dedupe] redirect → chunk_15488:15488:0 | [dedupe] redirect → chunk_15488:15488:0",
-    "raw_text": "{\"id\":\"chunk_15490:15490:0\",\"lemas\":[\"latinitas\",\"Latīnitās\"],\"lema_canonico\":\"latinitas\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"pureza do latim; latinitas; também o direito latino (jus Latii)\",\"aliases\":[],\"exemplos\":[\"Cic. Or. 7, 3, 110\",\"Cic. Att. 14, 12, 1\"],\"notas\":\"Grafia e declinação normalizadas; alinhado com LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_15490:15490:0\",\"lemas\":[\"latinitas\",\"Latīnitās\"],\"lema_canonico\":\"latinitas\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"pureza do latim; latinitas; também o direito latino (jus Latii)\",\"aliases\":[],\"exemplos\":[\"Cic. Or. 7, 3, 110\",\"Cic. Att. 14, 12, 1\"],\"notas\":\"Grafia e declinação normalizadas; alinhado com LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_15491-e1",
     "volume_id": "faria",
     "doc_name": "chunk_15491",
@@ -2530,28 +2310,6 @@
     "raw_json": "{\"id\":\"chunk_15509:15509:0\",\"lemas\":[\"Latonigena\",\"Latōnigena\"],\"lema_canonico\":\"Latonigena\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Filho(a) de Latona; aplicado a Apolo ou Diana.\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 6, 160\"],\"notas\":\"Substantivo de ocorrência ambivalente (masc./fem.); registrado aqui como fem. 1ª por forma -ae no OCR.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_15510-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15510",
-    "page_num": 15510,
-    "lemmas": [
-      "Lāto",
-      "Lāto"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Relativo a Latona; pertencente a Latona.",
-    "exemplos": [],
-    "notas": "Forma regularizada de Lătōnius para Latonius; abrev. En. expandida nos exemplos.\n[ocr_pipeline 2025-08-16T23:14:02.090868Z] lemma_in='Latonius' → 'Lāto' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:10:07Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='Lāto' → 'Lāto' | [dedupe] redirect → chunk_15505:15505:0 | [dedupe] redirect → chunk_15505:15505:0",
-    "raw_text": "{\"id\":\"chunk_15510:15510:0\",\"lemas\":[\"Latonius\",\"Latōnius\"],\"lema_canonico\":\"Latonius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo a Latona; pertencente a Latona.\",\"aliases\":[],\"exemplos\":[\"Verg. En. 11, 557\"],\"notas\":\"Forma regularizada de Lătōnius para Latonius; abrev. En. expandida nos exemplos.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_15510:15510:0\",\"lemas\":[\"Latonius\",\"Latōnius\"],\"lema_canonico\":\"Latonius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo a Latona; pertencente a Latona.\",\"aliases\":[],\"exemplos\":[\"Verg. En. 11, 557\"],\"notas\":\"Forma regularizada de Lătōnius para Latonius; abrev. En. expandida nos exemplos.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
     "id": "chunk_15511-e1",
     "volume_id": "faria",
     "doc_name": "chunk_15511",
@@ -2572,28 +2330,6 @@
     "notas": "Normalizada forma 'lator' (macron em LS indicado) e consolidada definição com referências LS.",
     "raw_text": "{\"id\":\"chunk_15511:15511:0\",\"lemas\":[\"lator\",\"lător\"],\"lema_canonico\":\"lator\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"aquele que traz ou propõe algo; em contexto legal: proponente/autor de uma lei (mover of a law).\",\"aliases\":[],\"exemplos\":[\"Cic. Cat. 4, 5, 10\",\"Cic. N. D. 3, 38, 90\",\"Quint. 12, 10, 5\",\"Liv. 3, 9\",\"Caes. B. C. 1, 5\"],\"notas\":\"Normalizada forma 'lator' (macron em LS indicado) e consolidada definição com referências LS.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_15511:15511:0\",\"lemas\":[\"lator\",\"lător\"],\"lema_canonico\":\"lator\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"aquele que traz ou propõe algo; em contexto legal: proponente/autor de uma lei (mover of a law).\",\"aliases\":[],\"exemplos\":[\"Cic. Cat. 4, 5, 10\",\"Cic. N. D. 3, 38, 90\",\"Quint. 12, 10, 5\",\"Liv. 3, 9\",\"Caes. B. C. 1, 5\"],\"notas\":\"Normalizada forma 'lator' (macron em LS indicado) e consolidada definição com referências LS.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_15512-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15512",
-    "page_num": 15512,
-    "lemmas": [
-      "Lātōus",
-      "Lātōus"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada funciona como remissiva para Latona no LS; mantidas variantes grafadas. | [ocr_fix 2025-08-17T19:53:17Z] match direto em LS por lemma/lemma_norm | lemma_in='Lātōus' → 'Lātōus'",
-    "raw_text": "{\"id\":\"chunk_15512:15512:0\",\"lemas\":[\"Lātōus\",\"Latoius\"],\"lema_canonico\":\"Lātōus\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Latona\"],\"exemplos\":[],\"notas\":\"Entrada funciona como remissiva para Latona no LS; mantidas variantes grafadas.\",\"flags\":[\"src_ls\",\"conf:med\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_15512:15512:0\",\"lemas\":[\"Lātōus\",\"Latoius\"],\"lema_canonico\":\"Lātōus\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Latona\"],\"exemplos\":[],\"notas\":\"Entrada funciona como remissiva para Latona no LS; mantidas variantes grafadas.\",\"flags\":[\"src_ls\",\"conf:med\",\"redirect_only\"]}"
   },
   {
     "id": "chunk_15513-e1",
@@ -2660,28 +2396,6 @@
     "notas": "Unifica o uso substantival e verbal; morph_extra indica participium perf. pass.; grafia com macrons verificada em LS.",
     "raw_text": "{\"id\":\"chunk_15515:15515:0\",\"lemas\":[\"lātrātus\",\"latratus\"],\"lema_canonico\":\"lātrātus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Forma dupla: substantivo (lātrātus) 'latido, ladrido' e particípio perfeito passivo de lātrō, lātrāre ('ter sido ladrado/latido').\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 8, 40, §142\",\"Verg. G. 3, 411\",\"Ov. Met. 4, 450\",\"Juv. 6, 415\",\"Col. 7, 12, 3\"],\"notas\":\"Unifica o uso substantival e verbal; morph_extra indica participium perf. pass.; grafia com macrons verificada em LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_15515:15515:0\",\"lemas\":[\"lātrātus\",\"latratus\"],\"lema_canonico\":\"lātrātus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Forma dupla: substantivo (lātrātus) 'latido, ladrido' e particípio perfeito passivo de lātrō, lātrāre ('ter sido ladrado/latido').\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 8, 40, §142\",\"Verg. G. 3, 411\",\"Ov. Met. 4, 450\",\"Juv. 6, 415\",\"Col. 7, 12, 3\"],\"notas\":\"Unifica o uso substantival e verbal; morph_extra indica participium perf. pass.; grafia com macrons verificada em LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_15516-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15516",
-    "page_num": 15516,
-    "lemmas": [
-      "lātrātus",
-      "lātrātus"
-    ],
-    "morfologia": "s. masc. 4ª (-us)",
-    "morph_render": "s. masc. 4ª (-us)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Substantivo: latido, ladrido (som de cães); figuradamente clamor, gritos; atestado em vários autores.",
-    "exemplos": [],
-    "notas": "Substantivo da 4. declinação normalizado com macron; referências de LS/Whitaker reunidas. | [dedupe] redirect → chunk_15515:15515:0 | [dedupe] redirect → chunk_15515:15515:0",
-    "raw_text": "{\"id\":\"chunk_15516:15516:0\",\"lemas\":[\"lātrātus\",\"latrātus\"],\"lema_canonico\":\"lātrātus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"Substantivo: latido, ladrido (som de cães); figuradamente clamor, gritos; atestado em vários autores.\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 4, 450\",\"Verg. G. 3, 411\",\"Verg. A. 12, 751\",\"Juv. 6, 415\",\"Col. 7, 12, 3\",\"Plin. Nat. 8, 40, §142\"],\"notas\":\"Substantivo da 4. declinação normalizado com macron; referências de LS/Whitaker reunidas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_15516:15516:0\",\"lemas\":[\"lātrātus\",\"latrātus\"],\"lema_canonico\":\"lātrātus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"Substantivo: latido, ladrido (som de cães); figuradamente clamor, gritos; atestado em vários autores.\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 4, 450\",\"Verg. G. 3, 411\",\"Verg. A. 12, 751\",\"Juv. 6, 415\",\"Col. 7, 12, 3\",\"Plin. Nat. 8, 40, §142\"],\"notas\":\"Substantivo da 4. declinação normalizado com macron; referências de LS/Whitaker reunidas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_15517-e1",
@@ -2770,28 +2484,6 @@
     "notas": "Lema e genitivo confirmados (lātro, lātronis); sentidos compilados de LS e Whitaker.",
     "raw_text": "{\"id\":\"chunk_15520:15520:0\",\"lemas\":[\"lātro\",\"latro\"],\"lema_canonico\":\"lātro\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Substantivo: salteador, ladrão, bandido; também atestado como 'soldado mercenário' e outros sentidos contextuais em autores latinos.\",\"aliases\":[],\"exemplos\":[\"Apul. Apol. 949\",\"Hor. S. 1, 3, 106\",\"Ov. A. Am. 3, 357\"],\"notas\":\"Lema e genitivo confirmados (lātro, lātronis); sentidos compilados de LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_15520:15520:0\",\"lemas\":[\"lātro\",\"latro\"],\"lema_canonico\":\"lātro\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Substantivo: salteador, ladrão, bandido; também atestado como 'soldado mercenário' e outros sentidos contextuais em autores latinos.\",\"aliases\":[],\"exemplos\":[\"Apul. Apol. 949\",\"Hor. S. 1, 3, 106\",\"Ov. A. Am. 3, 357\"],\"notas\":\"Lema e genitivo confirmados (lātro, lātronis); sentidos compilados de LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_15521-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15521",
-    "page_num": 15521,
-    "lemmas": [
-      "lātro",
-      "lātro"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "ladrão, salteador, bandido; também sobrenome (cognomen) em casos próprios",
-    "exemplos": [],
-    "notas": "Distinto do verbo lātrō 'latir'; morfologia normalizada para 3ª decl. | [dedupe] redirect → chunk_15520:15520:0 | [dedupe] redirect → chunk_15520:15520:0 | [ocr_fix 2025-08-17T19:49:37Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='latro' → 'lātro'",
-    "raw_text": "{\"id\":\"chunk_15521:15521:0\",\"lemas\":[\"latro\"],\"lema_canonico\":\"latro\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"ladrão, salteador, bandido; também sobrenome (cognomen) em casos próprios\",\"aliases\":[],\"exemplos\":[\"Quint. 10, 5, 18\"],\"notas\":\"Distinto do verbo lātrō 'latir'; morfologia normalizada para 3ª decl.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_15521:15521:0\",\"lemas\":[\"latro\"],\"lema_canonico\":\"latro\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"ladrão, salteador, bandido; também sobrenome (cognomen) em casos próprios\",\"aliases\":[],\"exemplos\":[\"Quint. 10, 5, 18\"],\"notas\":\"Distinto do verbo lātrō 'latir'; morfologia normalizada para 3ª decl.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:med\"]}"
   },
   {
     "id": "chunk_15522-e1",
@@ -3102,28 +2794,6 @@
     "raw_json": "{\"id\":\"chunk_15532:15532:0\",\"lemas\":[\"latus\"],\"lema_canonico\":\"latus\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"lado, flanco; parte lateral de corpo ou coisa; extensão lateral, margem\",\"aliases\":[],\"exemplos\":[\"Plaut. Mil. 2, 1, 2\",\"Cic. Clu. 62, 175\",\"Verg. A. 2, 393\"],\"notas\":\"Genitivo lateris (3ª decl. neutro) confirmado; também atestado como adjetivo lātus, a, um (separado).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_15533-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15533",
-    "page_num": 15533,
-    "lemmas": [
-      "latus",
-      "latus"
-    ],
-    "morfologia": "s. neut. 3ª (-is)",
-    "morph_render": "s. neut. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "(1) lado, flanco; (2) em uso poético: face lateral; (3) pulmões/parte do corpo; (4) corpo (pars pro toto); (5) sentido figurado: círculo/associação, etc.",
-    "exemplos": [],
-    "notas": "Entrada cobre o substantivo (neutro, 3ª) com menção do particípio perfeito passivo de fero (morph_extra). Sentidos resumidos e exemplos verificados em LS/Whitaker. | [dedupe] redirect → chunk_15532:15532:0 | [dedupe] redirect → chunk_15532:15532:0",
-    "raw_text": "{\"id\":\"chunk_15533:15533:0\",\"lemas\":[\"latus\"],\"lema_canonico\":\"latus\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"(1) lado, flanco; (2) em uso poético: face lateral; (3) pulmões/parte do corpo; (4) corpo (pars pro toto); (5) sentido figurado: círculo/associação, etc.\",\"aliases\":[],\"exemplos\":[\"Cic. Clu. 62, 175\",\"Caes. B. G. 2, 5, 1\",\"Hor. O. 2, 7, 18\",\"Cic. Brut. 3, 13\"],\"notas\":\"Entrada cobre o substantivo (neutro, 3ª) com menção do particípio perfeito passivo de fero (morph_extra). Sentidos resumidos e exemplos verificados em LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_15533:15533:0\",\"lemas\":[\"latus\"],\"lema_canonico\":\"latus\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"(1) lado, flanco; (2) em uso poético: face lateral; (3) pulmões/parte do corpo; (4) corpo (pars pro toto); (5) sentido figurado: círculo/associação, etc.\",\"aliases\":[],\"exemplos\":[\"Cic. Clu. 62, 175\",\"Caes. B. G. 2, 5, 1\",\"Hor. O. 2, 7, 18\",\"Cic. Brut. 3, 13\"],\"notas\":\"Entrada cobre o substantivo (neutro, 3ª) com menção do particípio perfeito passivo de fero (morph_extra). Sentidos resumidos e exemplos verificados em LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_15534-e1",
     "volume_id": "faria",
     "doc_name": "chunk_15534",
@@ -3432,28 +3102,6 @@
     "raw_json": "{\"id\":\"chunk_15546:15546:0\",\"lemas\":[\"Laurens\"],\"lema_canonico\":\"Laurens\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"habitante de Laurentum; designa o natural de Laurentum (poético, p.ex. Verg. Aen. 12,137).\",\"aliases\":[],\"exemplos\":[\"Verg. Aen. 12,137\"],\"notas\":\"Forma atestada em fontes poéticas; OCR indicava 'Laurento' corrigido para Laurentum.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"src_ocr\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_15547-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15547",
-    "page_num": 15547,
-    "lemmas": [
-      "Laurentia",
-      "Laurentia"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada tratada como redirecionamento para Larentia (LS registra Lārentia).",
-    "raw_text": "{\"id\":\"chunk_15547:15547:0\",\"lemas\":[\"Laurentia\"],\"lema_canonico\":\"Laurentia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Larentia\"],\"exemplos\":[],\"notas\":\"Entrada tratada como redirecionamento para Larentia (LS registra Lārentia).\",\"flags\":[\"src_ls\",\"conf:med\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_15547:15547:0\",\"lemas\":[\"Laurentia\"],\"lema_canonico\":\"Laurentia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Larentia\"],\"exemplos\":[],\"notas\":\"Entrada tratada como redirecionamento para Larentia (LS registra Lārentia).\",\"flags\":[\"src_ls\",\"conf:med\",\"redirect_only\"]}"
-  },
-  {
     "id": "chunk_15548-e1",
     "volume_id": "faria",
     "doc_name": "chunk_15548",
@@ -3650,28 +3298,6 @@
     "notas": "",
     "raw_text": "{\"id\":\"chunk_15556:15556:0\",\"lemas\":[\"laus\"],\"lema_canonico\":\"laus\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"elogio, louvor; mérito, glória, renome, honra, boa reputação.\",\"aliases\":[],\"exemplos\":[\"Cic. Prov. 41\",\"Cic. Off. 1, 19\",\"Cic. Fam. 15, 6, 1\"],\"notas\":\"\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_15556:15556:0\",\"lemas\":[\"laus\"],\"lema_canonico\":\"laus\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"elogio, louvor; mérito, glória, renome, honra, boa reputação.\",\"aliases\":[],\"exemplos\":[\"Cic. Prov. 41\",\"Cic. Off. 1, 19\",\"Cic. Fam. 15, 6, 1\"],\"notas\":\"\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_15556-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_15556",
-    "page_num": 15556,
-    "lemmas": [
-      "lautĭuscŭlus",
-      "lautĭuscŭlus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "adjetivo dim.: de caráter algo elegante ou suntuoso; relacionado a lautus (elegante, suntuoso).",
-    "exemplos": [],
-    "notas": "Entrada fragmentária no OCR; forma atestada em Lewis & Short (lautĭuscŭlus). | [dedupe] redirect → chunk_15557:15557:0 | [dedupe] redirect → chunk_15557:15557:0 | [ocr_fix 2025-08-17T19:49:38Z] match direto em LS por lemma/lemma_norm | lemma_in='lautiusculus' → 'lautĭuscŭlus'",
-    "raw_text": "{\"id\":\"chunk_15556:15556:1\",\"lemas\":[\"lautiusculus\",\"lautiuscula\",\"lautiusculum\"],\"lema_canonico\":\"lautiusculus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"adjetivo dim.: de caráter algo elegante ou suntuoso; relacionado a lautus (elegante, suntuoso).\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 9, 16, 8\"],\"notas\":\"Entrada fragmentária no OCR; forma atestada em Lewis & Short (lautĭuscŭlus).\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_15556:15556:1\",\"lemas\":[\"lautiusculus\",\"lautiuscula\",\"lautiusculum\"],\"lema_canonico\":\"lautiusculus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"adjetivo dim.: de caráter algo elegante ou suntuoso; relacionado a lautus (elegante, suntuoso).\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 9, 16, 8\"],\"notas\":\"Entrada fragmentária no OCR; forma atestada em Lewis & Short (lautĭuscŭlus).\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
     "id": "chunk_15557-e1",
@@ -3960,28 +3586,6 @@
     "raw_json": "{\"id\":\"chunk_15567:15567:0\",\"lemas\":[\"Lavernum\"],\"lema_canonico\":\"Lavernum\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"topónimo: Laverno (lugar da Campânia).\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 7, 8, 4\"],\"notas\":\"Forma e leitura vêm do OCR/first_pass; não confirmada em dicionários principais — revisão necessária.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_15568-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15568",
-    "page_num": 15568,
-    "lemmas": [
-      "lavo",
-      "lavo"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "lavar, banhar; perfeito lāvī (lavi) = lavei/ lavei (1ª p. sg. perf. ind. act.).",
-    "exemplos": [],
-    "notas": "Forma 'lavi' é perfeito 1ª pessoa do sing. de lavo; confirmado por Lat→Deu e Whitaker. | [dedupe] redirect → chunk_15573:15573:0 | [dedupe] redirect → chunk_15573:15573:0",
-    "raw_text": "{\"id\":\"chunk_15568:15568:0\",\"lemas\":[\"lavo\"],\"lema_canonico\":\"lavo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"perf. act. ind. 1 sg.\"],\"definicao\":\"lavar, banhar; perfeito lāvī (lavi) = lavei/ lavei (1ª p. sg. perf. ind. act.).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma 'lavi' é perfeito 1ª pessoa do sing. de lavo; confirmado por Lat→Deu e Whitaker.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_15568:15568:0\",\"lemas\":[\"lavo\"],\"lema_canonico\":\"lavo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"perf. act. ind. 1 sg.\"],\"definicao\":\"lavar, banhar; perfeito lāvī (lavi) = lavei/ lavei (1ª p. sg. perf. ind. act.).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma 'lavi' é perfeito 1ª pessoa do sing. de lavo; confirmado por Lat→Deu e Whitaker.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_15569-e1",
     "volume_id": "faria",
     "doc_name": "chunk_15569",
@@ -4046,28 +3650,6 @@
     "notas": "Grafia unificada e diacríticos normalizados; atendido uso adjetival.",
     "raw_text": "{\"id\":\"chunk_15571:15571:0\",\"lemas\":[\"Lavinius\",\"Lāvīnius\"],\"lema_canonico\":\"Lavinius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo a Lavínio; pertencente a Lavínio (topónimo).\",\"aliases\":[],\"exemplos\":[\"Verg. En. 1, 2\"],\"notas\":\"Grafia unificada e diacríticos normalizados; atendido uso adjetival.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_15571:15571:0\",\"lemas\":[\"Lavinius\",\"Lāvīnius\"],\"lema_canonico\":\"Lavinius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo a Lavínio; pertencente a Lavínio (topónimo).\",\"aliases\":[],\"exemplos\":[\"Verg. En. 1, 2\"],\"notas\":\"Grafia unificada e diacríticos normalizados; atendido uso adjetival.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_15572-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15572",
-    "page_num": 15572,
-    "lemmas": [
-      "lavo",
-      "lavo"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Lavar, banhar; (intr.) lavar‑se, tomar banho.",
-    "exemplos": [],
-    "notas": "Inclui formas clássicas perf. 'lāvī'/'lavi' e part. perf. sup. 'lautus' (LS/Lat→Deu confirma). | [dedupe] redirect → chunk_15573:15573:0 | [dedupe] redirect → chunk_15573:15573:0",
-    "raw_text": "{\"id\":\"chunk_15572:15572:0\",\"lemas\":[\"lavo\",\"lavare\",\"lavi\",\"lautus\"],\"lema_canonico\":\"lavo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"tr.\",\"intr.\",\"part. perf. pass.\",\"sup.\"],\"definicao\":\"Lavar, banhar; (intr.) lavar‑se, tomar banho.\",\"aliases\":[],\"exemplos\":[\"Plaut. Aul. 579\",\"Cic. Off. 1, 129\"],\"notas\":\"Inclui formas clássicas perf. 'lāvī'/'lavi' e part. perf. sup. 'lautus' (LS/Lat→Deu confirma).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_15572:15572:0\",\"lemas\":[\"lavo\",\"lavare\",\"lavi\",\"lautus\"],\"lema_canonico\":\"lavo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"tr.\",\"intr.\",\"part. perf. pass.\",\"sup.\"],\"definicao\":\"Lavar, banhar; (intr.) lavar‑se, tomar banho.\",\"aliases\":[],\"exemplos\":[\"Plaut. Aul. 579\",\"Cic. Off. 1, 129\"],\"notas\":\"Inclui formas clássicas perf. 'lāvī'/'lavi' e part. perf. sup. 'lautus' (LS/Lat→Deu confirma).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_15573-e1",
@@ -4244,28 +3826,6 @@
     "notas": "Combinação e ampliação de citações a partir de LS/Whitaker; harmonizada a forma e flexão.",
     "raw_text": "{\"id\":\"chunk_15580:15580:0\",\"lemas\":[\"lea\"],\"lema_canonico\":\"lea\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Leoa; usado sobretudo em linguagem poética.\",\"aliases\":[],\"exemplos\":[\"Varr. ap. Philarg. ad Verg. E. 2,63\",\"Lucr. 5,1318\",\"Ov. Met. 4,102\",\"Ov. Met. 9,648\",\"Ov. Fast. 5,176\",\"Ov. Met. 14,255\"],\"notas\":\"Combinação e ampliação de citações a partir de LS/Whitaker; harmonizada a forma e flexão.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_15580:15580:0\",\"lemas\":[\"lea\"],\"lema_canonico\":\"lea\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Leoa; usado sobretudo em linguagem poética.\",\"aliases\":[],\"exemplos\":[\"Varr. ap. Philarg. ad Verg. E. 2,63\",\"Lucr. 5,1318\",\"Ov. Met. 4,102\",\"Ov. Met. 9,648\",\"Ov. Fast. 5,176\",\"Ov. Met. 14,255\"],\"notas\":\"Combinação e ampliação de citações a partir de LS/Whitaker; harmonizada a forma e flexão.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_15581-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15581",
-    "page_num": 15581,
-    "lemmas": [
-      "lea",
-      "lea"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Leoa (forma poética/arcaica também em textos latinos); usada em poesia e autores clássicos.",
-    "exemplos": [],
-    "notas": "Normalizada a forma 'lea, -ae' e compilada de LS & Whitaker. | [dedupe] redirect → chunk_15580:15580:0 | [dedupe] redirect → chunk_15580:15580:0",
-    "raw_text": "{\"id\":\"chunk_15581:15581:0\",\"lemas\":[\"lea\",\"lĕa\"],\"lema_canonico\":\"lea\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Leoa (forma poética/arcaica também em textos latinos); usada em poesia e autores clássicos.\",\"aliases\":[],\"exemplos\":[\"Catul. 64,151\",\"Varr. ap. Philarg. ad Verg. E. 2,63\",\"Lucr. 5,1318\",\"Ov. Met. 4,102\",\"Ov. Met. 9,648\"],\"notas\":\"Normalizada a forma 'lea, -ae' e compilada de LS & Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_15581:15581:0\",\"lemas\":[\"lea\",\"lĕa\"],\"lema_canonico\":\"lea\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Leoa (forma poética/arcaica também em textos latinos); usada em poesia e autores clássicos.\",\"aliases\":[],\"exemplos\":[\"Catul. 64,151\",\"Varr. ap. Philarg. ad Verg. E. 2,63\",\"Lucr. 5,1318\",\"Ov. Met. 4,102\",\"Ov. Met. 9,648\"],\"notas\":\"Normalizada a forma 'lea, -ae' e compilada de LS & Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_15581-e2",
@@ -4530,28 +4090,6 @@
     "notas": "Definição e exemplos confirmados com Lewis & Short e Whitaker. | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='lectica' → 'lectīca'",
     "raw_text": "{\"id\":\"chunk_15591:15591:0\",\"lemas\":[\"lectica\"],\"lema_canonico\":\"lectica\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"liteira, cadeira/seda para transporte (usada em viagens e na cidade)\",\"aliases\":[],\"exemplos\":[\"Catul. 10, 15\",\"Cic. Verr. 2, 5, 11, §27\",\"Suet. Caes. 43\"],\"notas\":\"Definição e exemplos confirmados com Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_15591:15591:0\",\"lemas\":[\"lectica\"],\"lema_canonico\":\"lectica\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"liteira, cadeira/seda para transporte (usada em viagens e na cidade)\",\"aliases\":[],\"exemplos\":[\"Catul. 10, 15\",\"Cic. Verr. 2, 5, 11, §27\",\"Suet. Caes. 43\"],\"notas\":\"Definição e exemplos confirmados com Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_15592-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15592",
-    "page_num": 15592,
-    "lemmas": [
-      "lecticariola",
-      "lecticariola"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "mulher amante dos carregadores de liteira; termo cômico de reprovação (Mart. 12, 58, 2).",
-    "exemplos": [],
-    "notas": "Forma e sentido confirmados em Lewis & Short (lectīcārĭŏla). | [dedupe] redirect → chunk_15591:15591:1 | [dedupe] redirect → chunk_15591:15591:1",
-    "raw_text": "{\"id\":\"chunk_15592:15592:0\",\"lemas\":[\"lecticariola\",\"lectīcārĭŏla\"],\"lema_canonico\":\"lecticariola\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"mulher amante dos carregadores de liteira; termo cômico de reprovação (Mart. 12, 58, 2).\",\"aliases\":[],\"exemplos\":[\"Mart. 12, 58, 2\"],\"notas\":\"Forma e sentido confirmados em Lewis & Short (lectīcārĭŏla).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_15592:15592:0\",\"lemas\":[\"lecticariola\",\"lectīcārĭŏla\"],\"lema_canonico\":\"lecticariola\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"mulher amante dos carregadores de liteira; termo cômico de reprovação (Mart. 12, 58, 2).\",\"aliases\":[],\"exemplos\":[\"Mart. 12, 58, 2\"],\"notas\":\"Forma e sentido confirmados em Lewis & Short (lectīcārĭŏla).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_15593-e1",

@@ -44,28 +44,6 @@
     "raw_json": "{\"id\":\"chunk_27001:27001:0\",\"lemas\":[\"submoneo\",\"summoneo\"],\"lema_canonico\":\"submoneo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"advertir, avisar secretamente; lembrar discretamente.\",\"aliases\":[],\"exemplos\":[\"Ter. Eun. 570\"],\"notas\":\"Equivalência com summoneo registrada; particípio supino provável 'monitum'.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_27002-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_27002",
-    "page_num": 27002,
-    "lemmas": [
-      "submoneo",
-      "submoneo"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "advertir, lembrar, aconselhar; perfeito: submonuī (1ª pers. sing. perf. ind. akt.)",
-    "exemplos": [],
-    "notas": "Transformada a forma perf. isolada em entrada verbal canónica (infinitivo) com indicação do perfeito. | [dedupe] redirect → chunk_27001:27001:0 | [dedupe] redirect → chunk_27001:27001:0",
-    "raw_text": "{\"id\":\"chunk_27002:27002:0\",\"lemas\":[\"submoneo\",\"submonēre\"],\"lema_canonico\":\"submoneo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"advertir, lembrar, aconselhar; perfeito: submonuī (1ª pers. sing. perf. ind. akt.)\",\"aliases\":[\"submonuī\"],\"exemplos\":[],\"notas\":\"Transformada a forma perf. isolada em entrada verbal canónica (infinitivo) com indicação do perfeito.\",\"flags\":[\"src_latdeu\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_27002:27002:0\",\"lemas\":[\"submoneo\",\"submonēre\"],\"lema_canonico\":\"submoneo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"advertir, lembrar, aconselhar; perfeito: submonuī (1ª pers. sing. perf. ind. akt.)\",\"aliases\":[\"submonuī\"],\"exemplos\":[],\"notas\":\"Transformada a forma perf. isolada em entrada verbal canónica (infinitivo) com indicação do perfeito.\",\"flags\":[\"src_latdeu\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_27003-e1",
     "volume_id": "faria",
     "doc_name": "chunk_27003",
@@ -242,28 +220,6 @@
     "raw_json": "{\"id\":\"chunk_27011:27011:0\",\"lemas\":[\"subnige\",\"subnīgĕ\"],\"lema_canonico\":\"subnige\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"(incerto) forma atestada apenas no manuscrito/ocr; significado atribuído na 1ª passada: 'recusar um pouco ou de algum modo' (Cic. Fam. 7, 19).\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 7, 19\"],\"notas\":\"Entrada incerta: nenhuma fonte externa confiável confirma 'subnige'; preservada a leitura da primeira passada por segurança.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_27012-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_27012",
-    "page_num": 27012,
-    "lemmas": [
-      "subnecto",
-      "subnecto"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "ligar, atar por baixo; unir (part. perf. pass. subnexus / formas PPP: subnexī, subnexus)",
-    "exemplos": [],
-    "notas": "Corrigido lema a partir de forma PPP 'subnexi' — ligado a subnectō conforme Lat→Deu/Whitaker. | [dedupe] redirect → chunk_27010:27010:0 | [dedupe] redirect → chunk_27010:27010:0",
-    "raw_text": "{\"id\":\"chunk_27012:27012:0\",\"lemas\":[\"subnecto\",\"subnexus\",\"subnexi\"],\"lema_canonico\":\"subnecto\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"ligar, atar por baixo; unir (part. perf. pass. subnexus / formas PPP: subnexī, subnexus)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigido lema a partir de forma PPP 'subnexi' — ligado a subnectō conforme Lat→Deu/Whitaker.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_27012:27012:0\",\"lemas\":[\"subnecto\",\"subnexus\",\"subnexi\"],\"lema_canonico\":\"subnecto\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"ligar, atar por baixo; unir (part. perf. pass. subnexus / formas PPP: subnexī, subnexus)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigido lema a partir de forma PPP 'subnexi' — ligado a subnectō conforme Lat→Deu/Whitaker.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_27013-e1",
     "volume_id": "faria",
     "doc_name": "chunk_27013",
@@ -306,28 +262,6 @@
     "notas": "Unificadas formas e normalizada morfologia conforme Whitaker e Lat→Deu.",
     "raw_text": "{\"id\":\"chunk_27014:27014:0\",\"lemas\":[\"subniger\",\"subnigra\",\"subnigrum\"],\"lema_canonico\":\"subniger\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"um tanto negro; escuro, de tez um tanto morena (blackish)\",\"aliases\":[],\"exemplos\":[\"Plaut. Ps. 1218\"],\"notas\":\"Unificadas formas e normalizada morfologia conforme Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_27014:27014:0\",\"lemas\":[\"subniger\",\"subnigra\",\"subnigrum\"],\"lema_canonico\":\"subniger\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"um tanto negro; escuro, de tez um tanto morena (blackish)\",\"aliases\":[],\"exemplos\":[\"Plaut. Ps. 1218\"],\"notas\":\"Unificadas formas e normalizada morfologia conforme Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_27015-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_27015",
-    "page_num": 27015,
-    "lemmas": [
-      "nisus",
-      "nisus"
-    ],
-    "morfologia": "s. masc. 4ª (-us)",
-    "morph_render": "s. masc. 4ª (-us)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "pressão, empuxo; esforço, empenho, tentativa",
-    "exemplos": [],
-    "notas": "Substantivo de 4ª declinação; sentido também poético; fontes concordam. | [dedupe] redirect → chunk_18104:18104:0 | [dedupe] redirect → chunk_18104:18104:0",
-    "raw_text": "{\"id\":\"chunk_27015:27015:0\",\"lemas\":[\"nisus\"],\"lema_canonico\":\"nisus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"pressão, empuxo; esforço, empenho, tentativa\",\"aliases\":[],\"exemplos\":[\"Verg. A. 11, 852\",\"Lucr. 6, 834\"],\"notas\":\"Substantivo de 4ª declinação; sentido também poético; fontes concordam.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_27015:27015:0\",\"lemas\":[\"nisus\"],\"lema_canonico\":\"nisus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"pressão, empuxo; esforço, empenho, tentativa\",\"aliases\":[],\"exemplos\":[\"Verg. A. 11, 852\",\"Lucr. 6, 834\"],\"notas\":\"Substantivo de 4ª declinação; sentido também poético; fontes concordam.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_27015-e2",
@@ -726,28 +660,6 @@
     "raw_json": "{\"id\":\"chunk_27030:27030:0\",\"lemas\":[\"Subota\"],\"lema_canonico\":\"Subota\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Island of the Aegean Sea (Liv. 44, 28, 6).\",\"aliases\":[],\"exemplos\":[\"Liv. 44, 28, 6\"],\"notas\":\"Atestado em Lewis & Short as 'Subota, -ōrum'. Forma plural/genitivo irregular; morph_out_of_vocab marcado.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"src_ocr\",\"conf:med\",\"morph_out_of_vocab\"]}"
   },
   {
-    "id": "chunk_27030-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_27030",
-    "page_num": 27030,
-    "lemmas": [
-      "subp-",
-      "subp-"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada abreviada; treated as redirect/variant to 'supp-'.\n[ocr_pipeline 2025-08-16T23:22:03.067515Z] lemma_in='subp-' → 'subp-' | motivo: match direto em LS por lemma/lemma_norm | [ocr_fix 2025-08-17T01:20:50Z] match direto em LS por lemma/lemma_norm | lemma_in='subp-' → 'subp-'",
-    "raw_text": "{\"id\":\"chunk_27030:27030:1\",\"lemas\":[\"subp-\"],\"lema_canonico\":\"subp-\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"supp-\"],\"exemplos\":[],\"notas\":\"Entrada abreviada; treated as redirect/variant to 'supp-'.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_27030:27030:1\",\"lemas\":[\"subp-\"],\"lema_canonico\":\"subp-\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"supp-\"],\"exemplos\":[],\"notas\":\"Entrada abreviada; treated as redirect/variant to 'supp-'.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"redirect_only\"]}"
-  },
-  {
     "id": "chunk_27031-e1",
     "volume_id": "faria",
     "doc_name": "chunk_27031",
@@ -883,50 +795,6 @@
     "raw_json": "{\"id\":\"chunk_27036:27036:0\",\"lemas\":[\"subrepticius\",\"surrepticius\"],\"lema_canonico\":\"subrepticius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"clandestino, furtivo, surreptício\",\"aliases\":[],\"exemplos\":[\"Plaut. Curc. 205\"],\"notas\":\"Grafia clássica confirmada; variante com s- inicial atestada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_27037-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_27037",
-    "page_num": 27037,
-    "lemmas": [
-      "subrepo",
-      "subrepo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "mover‑se furtivamente; infiltrar‑se, rastejar; aproximar‑se por graus, entrar sorrateiramente.",
-    "exemplos": [],
-    "notas": "Formas e significados confirmados por Whitaker e Lat→Deu (subrepere, subrepsi, subreptus). | [dedupe] redirect → chunk_27034:27034:0 | [dedupe] redirect → chunk_27034:27034:0",
-    "raw_text": "{\"id\":\"chunk_27037:27037:0\",\"lemas\":[\"subrepo\",\"subrepere\"],\"lema_canonico\":\"subrepo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"mover‑se furtivamente; infiltrar‑se, rastejar; aproximar‑se por graus, entrar sorrateiramente.\",\"aliases\":[],\"exemplos\":[\"Catul. 77, 3\"],\"notas\":\"Formas e significados confirmados por Whitaker e Lat→Deu (subrepere, subrepsi, subreptus).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_27037:27037:0\",\"lemas\":[\"subrepo\",\"subrepere\"],\"lema_canonico\":\"subrepo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"mover‑se furtivamente; infiltrar‑se, rastejar; aproximar‑se por graus, entrar sorrateiramente.\",\"aliases\":[],\"exemplos\":[\"Catul. 77, 3\"],\"notas\":\"Formas e significados confirmados por Whitaker e Lat→Deu (subrepere, subrepsi, subreptus).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_27037-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_27037",
-    "page_num": 27037,
-    "lemmas": [
-      "subrēpsit",
-      "subrēpsit"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada tratada como redirecionamento para o lema verbal subrepo (forma perfeita sincopada).",
-    "raw_text": "{\"id\":\"chunk_27037:27037:1\",\"lemas\":[\"subrēpsit\"],\"lema_canonico\":\"subrēpsit\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"subrepo\"],\"exemplos\":[\"Catul. 77, 3\"],\"notas\":\"Entrada tratada como redirecionamento para o lema verbal subrepo (forma perfeita sincopada).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_27037:27037:1\",\"lemas\":[\"subrēpsit\"],\"lema_canonico\":\"subrēpsit\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"subrepo\"],\"exemplos\":[\"Catul. 77, 3\"],\"notas\":\"Entrada tratada como redirecionamento para o lema verbal subrepo (forma perfeita sincopada).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"redirect_only\"]}"
-  },
-  {
     "id": "chunk_27037-e3",
     "volume_id": "faria",
     "doc_name": "chunk_27037",
@@ -947,50 +815,6 @@
     "notas": "Relaciona a forma perfeita sincopada com o presente clássico; alinhado a Whitaker e Lat→Deu.",
     "raw_text": "{\"id\":\"chunk_27037:27037:2\",\"lemas\":[\"subrēpio\",\"subrēpsisti\"],\"lema_canonico\":\"subrēpio\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"variante ortográfica/formal de subrepo; verbo que dá o perfeito subrēpsisti (sincopado subrēpsit): mover‑se furtivamente, infiltrar‑se.\",\"aliases\":[],\"exemplos\":[\"Catul. 77, 3\"],\"notas\":\"Relaciona a forma perfeita sincopada com o presente clássico; alinhado a Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_27037:27037:2\",\"lemas\":[\"subrēpio\",\"subrēpsisti\"],\"lema_canonico\":\"subrēpio\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"variante ortográfica/formal de subrepo; verbo que dá o perfeito subrēpsisti (sincopado subrēpsit): mover‑se furtivamente, infiltrar‑se.\",\"aliases\":[],\"exemplos\":[\"Catul. 77, 3\"],\"notas\":\"Relaciona a forma perfeita sincopada com o presente clássico; alinhado a Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_27038-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_27038",
-    "page_num": 27038,
-    "lemmas": [
-      "Segusiavus",
-      "Segusiavus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Povo da Gália Lugdunense, vizinhos dos Allobroges e Aedui; situados na moderna Feurs (dép. Loire).",
-    "exemplos": [],
-    "notas": "Forma singular epigráfica SEGVSIAVVS; normalizado para Segusiavus/Segusiavi. | [dedupe] redirect → chunk_25533:25533:0 | [dedupe] redirect → chunk_25533:25533:0",
-    "raw_text": "{\"id\":\"chunk_27038:27038:4\",\"lemas\":[\"Sēgūsĭāvi\",\"Segusiavi\",\"Segusiavus\"],\"lema_canonico\":\"Segusiavus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Povo da Gália Lugdunense, vizinhos dos Allobroges e Aedui; situados na moderna Feurs (dép. Loire).\",\"aliases\":[],\"exemplos\":[\"Caes. B. G. 1, 10 fin.\",\"Caes. B. G. 7, 64\",\"Caes. B. G. 7, 75\",\"Cic. Quint. 25 fin.\",\"Plin. HN 4, 18, 32 §107\"],\"notas\":\"Forma singular epigráfica SEGVSIAVVS; normalizado para Segusiavus/Segusiavi.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_27038:27038:4\",\"lemas\":[\"Sēgūsĭāvi\",\"Segusiavi\",\"Segusiavus\"],\"lema_canonico\":\"Segusiavus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Povo da Gália Lugdunense, vizinhos dos Allobroges e Aedui; situados na moderna Feurs (dép. Loire).\",\"aliases\":[],\"exemplos\":[\"Caes. B. G. 1, 10 fin.\",\"Caes. B. G. 7, 64\",\"Caes. B. G. 7, 75\",\"Cic. Quint. 25 fin.\",\"Plin. HN 4, 18, 32 §107\"],\"notas\":\"Forma singular epigráfica SEGVSIAVVS; normalizado para Segusiavus/Segusiavi.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_27038-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_27038",
-    "page_num": 27038,
-    "lemmas": [
-      "Sīda",
-      "Sīda"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Cidade da Panphília (moderna Eski Adalia). Gentilício: Sīdētae, habitantes de Sida.",
-    "exemplos": [],
-    "notas": "Variantes conforme Lewis & Short; inclui gentilício Sīdētae. | [dedupe] redirect → chunk_25986:25986:0 | [dedupe] redirect → chunk_25986:25986:0",
-    "raw_text": "{\"id\":\"chunk_27038:27038:5\",\"lemas\":[\"Sīda\",\"Sīdē\",\"Sīdētae\"],\"lema_canonico\":\"Sīda\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Cidade da Panphília (moderna Eski Adalia). Gentilício: Sīdētae, habitantes de Sida.\",\"aliases\":[],\"exemplos\":[\"Mel. 1, 14 sq.\",\"Cic. Fam. 3, 6, 1\",\"Cic. Fam. 3, 12, 4\",\"Liv. 35, 13\",\"Liv. 37, 23\"],\"notas\":\"Variantes conforme Lewis & Short; inclui gentilício Sīdētae.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_27038:27038:5\",\"lemas\":[\"Sīda\",\"Sīdē\",\"Sīdētae\"],\"lema_canonico\":\"Sīda\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Cidade da Panphília (moderna Eski Adalia). Gentilício: Sīdētae, habitantes de Sida.\",\"aliases\":[],\"exemplos\":[\"Mel. 1, 14 sq.\",\"Cic. Fam. 3, 6, 1\",\"Cic. Fam. 3, 12, 4\",\"Liv. 35, 13\",\"Liv. 37, 23\"],\"notas\":\"Variantes conforme Lewis & Short; inclui gentilício Sīdētae.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_27038-e3",
@@ -1035,28 +859,6 @@
     "notas": "Incluí variantes gráficas (subrepo, subrepere) atestadas por LS/Whitaker.",
     "raw_text": "{\"id\":\"chunk_27038:27038:1\",\"lemas\":[\"subripio\",\"subripere\",\"subrepo\",\"subrepere\"],\"lema_canonico\":\"subripio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[],\"definicao\":\"mover‑se furtivamente; infiltrar‑se; progredir por graus; furtar, subtrair (sentido principal: surripere/subripere)\",\"aliases\":[],\"exemplos\":[\"Cic. (vários usos); Tac. Agr. 45\"],\"notas\":\"Incluí variantes gráficas (subrepo, subrepere) atestadas por LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_27038:27038:1\",\"lemas\":[\"subripio\",\"subripere\",\"subrepo\",\"subrepere\"],\"lema_canonico\":\"subripio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[],\"definicao\":\"mover‑se furtivamente; infiltrar‑se; progredir por graus; furtar, subtrair (sentido principal: surripere/subripere)\",\"aliases\":[],\"exemplos\":[\"Cic. (vários usos); Tac. Agr. 45\"],\"notas\":\"Incluí variantes gráficas (subrepo, subrepere) atestadas por LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_27038-e5",
-    "volume_id": "faria",
-    "doc_name": "chunk_27038",
-    "page_num": 27038,
-    "lemmas": [
-      "subripio",
-      "subripio"
-    ],
-    "morfologia": "v. 3ª -iō (-ere)",
-    "morph_render": "v. 3ª -iō (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "variante comum de surripere/subripere: 'arrancar, roubar, subtrair'",
-    "exemplos": [],
-    "notas": "Entrada mantida como forma variante; confirmado por Whitaker e LS. | [dedupe] redirect → chunk_27038:27038:1 | [dedupe] redirect → chunk_27038:27038:1",
-    "raw_text": "{\"id\":\"chunk_27038:27038:2\",\"lemas\":[\"subripio\",\"subripere\"],\"lema_canonico\":\"subripio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[],\"definicao\":\"variante comum de surripere/subripere: 'arrancar, roubar, subtrair'\",\"aliases\":[],\"exemplos\":[\"Cic. At. 8, 11\"],\"notas\":\"Entrada mantida como forma variante; confirmado por Whitaker e LS.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_27038:27038:2\",\"lemas\":[\"subripio\",\"subripere\"],\"lema_canonico\":\"subripio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[],\"definicao\":\"variante comum de surripere/subripere: 'arrancar, roubar, subtrair'\",\"aliases\":[],\"exemplos\":[\"Cic. At. 8, 11\"],\"notas\":\"Entrada mantida como forma variante; confirmado por Whitaker e LS.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
   },
   {
     "id": "chunk_27038-e6",
@@ -1145,28 +947,6 @@
     "notas": "Forma e referências confirmadas em Lewis & Short e Whitaker.",
     "raw_text": "{\"id\":\"chunk_27041:27041:0\",\"lemas\":[\"subscriptor\"],\"lema_canonico\":\"subscriptor\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"quem subscreve; assinante; também: aprovador, apoiador\",\"aliases\":[],\"exemplos\":[\"Cic. Caec. 51\",\"Aul. Gell. 5, 21, 6\"],\"notas\":\"Forma e referências confirmadas em Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_27041:27041:0\",\"lemas\":[\"subscriptor\"],\"lema_canonico\":\"subscriptor\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"quem subscreve; assinante; também: aprovador, apoiador\",\"aliases\":[],\"exemplos\":[\"Cic. Caec. 51\",\"Aul. Gell. 5, 21, 6\"],\"notas\":\"Forma e referências confirmadas em Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_27042-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_27042",
-    "page_num": 27042,
-    "lemmas": [
-      "subscribere",
-      "subscribere"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "particípio perfeito passivo de subscribere: escrito abaixo, inscrito; (fem./neut.)",
-    "exemplos": [],
-    "notas": "Forma subscripta identificada como PPP feminino/neutro de subscribere. | [dedupe] redirect → chunk_27039:27039:0 | [dedupe] redirect → chunk_27039:27039:0",
-    "raw_text": "{\"id\":\"chunk_27042:27042:0\",\"lemas\":[\"subscribere\"],\"lema_canonico\":\"subscribere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de subscribere: escrito abaixo, inscrito; (fem./neut.)\",\"aliases\":[\"subscripta\"],\"exemplos\":[],\"notas\":\"Forma subscripta identificada como PPP feminino/neutro de subscribere.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_27042:27042:0\",\"lemas\":[\"subscribere\"],\"lema_canonico\":\"subscribere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de subscribere: escrito abaixo, inscrito; (fem./neut.)\",\"aliases\":[\"subscripta\"],\"exemplos\":[],\"notas\":\"Forma subscripta identificada como PPP feminino/neutro de subscribere.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_27043-e1",
@@ -1301,28 +1081,6 @@
     "raw_json": "{\"id\":\"chunk_27048:27048:0\",\"lemas\":[\"subsentio\",\"subsentire\"],\"lema_canonico\":\"subsentio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"perceber por baixo; intuir, pressentir; farejar; perf. subsēnsī (subsensi).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Correlacionado com Whitaker e Lat→Deu (subsensi / subsentīre).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_27049-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_27049",
-    "page_num": 27049,
-    "lemmas": [
-      "sub-sentĭo",
-      "sub-sentĭo"
-    ],
-    "morfologia": "v. 4ª (-īre)",
-    "morph_render": "v. 4ª (-īre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "perceber secretamente; suspeitar, intuir",
-    "exemplos": [],
-    "notas": "Normalizado com base em Lat→Deu; infinitivo variante subsentīre incluída. | [dedupe] redirect → chunk_27048:27048:0 | [dedupe] redirect → chunk_27048:27048:0 | [ocr_fix 2025-08-17T20:00:33Z] match direto em LS por lemma/lemma_norm | lemma_in='subsentio' → 'sub-sentĭo'",
-    "raw_text": "{\"id\":\"chunk_27049:27049:0\",\"lemas\":[\"subsentio\",\"subsentīre\"],\"lema_canonico\":\"subsentio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"perceber secretamente; suspeitar, intuir\",\"aliases\":[],\"exemplos\":[\"Ter. Heaut. 471\"],\"notas\":\"Normalizado com base em Lat→Deu; infinitivo variante subsentīre incluída.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_27049:27049:0\",\"lemas\":[\"subsentio\",\"subsentīre\"],\"lema_canonico\":\"subsentio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"perceber secretamente; suspeitar, intuir\",\"aliases\":[],\"exemplos\":[\"Ter. Heaut. 471\"],\"notas\":\"Normalizado com base em Lat→Deu; infinitivo variante subsentīre incluída.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_27050-e1",
     "volume_id": "faria",
     "doc_name": "chunk_27050",
@@ -1343,50 +1101,6 @@
     "notas": "Entrada alinhada com Whitaker e Lat→Deu; marcação como deponente.",
     "raw_text": "{\"id\":\"chunk_27050:27050:0\",\"lemas\":[\"subsequor\",\"subsequī\",\"subsecūtus\"],\"lema_canonico\":\"subsequor\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"seguir imediatamente, acompanhar de perto; também figurado, imitar, perseguir\",\"aliases\":[],\"exemplos\":[\"Cés. B. Gal. 4, 26, 1\",\"Cés. B. Gal. 2, 19, 1\",\"Cic. De Or. 2, 220\",\"Cic. Fam. 3, 1, 2\"],\"notas\":\"Entrada alinhada com Whitaker e Lat→Deu; marcação como deponente.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_27050:27050:0\",\"lemas\":[\"subsequor\",\"subsequī\",\"subsecūtus\"],\"lema_canonico\":\"subsequor\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"seguir imediatamente, acompanhar de perto; também figurado, imitar, perseguir\",\"aliases\":[],\"exemplos\":[\"Cés. B. Gal. 4, 26, 1\",\"Cés. B. Gal. 2, 19, 1\",\"Cic. De Or. 2, 220\",\"Cic. Fam. 3, 1, 2\"],\"notas\":\"Entrada alinhada com Whitaker e Lat→Deu; marcação como deponente.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_27051-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_27051",
-    "page_num": 27051,
-    "lemmas": [
-      "sub",
-      "sub"
-    ],
-    "morfologia": "prep. com acc./abl.",
-    "morph_render": "prep. com acc./abl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "prep. under, beneath; with abl. of place ‘under, below’; with acc. of motion ‘under, up to, close to’; also ‘during, about’ (time).",
-    "exemplos": [],
-    "notas": "Normalizada a classificação como preposição com ambos os regentes (acc. e abl.). | [dedupe] redirect → chunk_26871:26871:0 | [dedupe] redirect → chunk_26871:26871:0",
-    "raw_text": "{\"id\":\"chunk_27051:27051:0\",\"lemas\":[\"sub\"],\"lema_canonico\":\"sub\",\"morfologia\":\"prep. com acc./abl.\",\"morph_extra\":[],\"definicao\":\"prep. under, beneath; with abl. of place ‘under, below’; with acc. of motion ‘under, up to, close to’; also ‘during, about’ (time).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizada a classificação como preposição com ambos os regentes (acc. e abl.).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_27051:27051:0\",\"lemas\":[\"sub\"],\"lema_canonico\":\"sub\",\"morfologia\":\"prep. com acc./abl.\",\"morph_extra\":[],\"definicao\":\"prep. under, beneath; with abl. of place ‘under, below’; with acc. of motion ‘under, up to, close to’; also ‘during, about’ (time).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizada a classificação como preposição com ambos os regentes (acc. e abl.).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_27051-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_27051",
-    "page_num": 27051,
-    "lemmas": [
-      "servio",
-      "servio"
-    ],
-    "morfologia": "v. 4ª (-īre)",
-    "morph_render": "v. 4ª (-īre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "to serve, be a slave; to be subject, obey; to devote oneself to; often governs the dative.",
-    "exemplos": [],
-    "notas": "Lema e acepções confirmadas em Lewis & Short, Whitaker e Lat→Deu; incluído infinitivo como variante canônica. | [dedupe] redirect → chunk_25859:25859:0 | [dedupe] redirect → chunk_25859:25859:0",
-    "raw_text": "{\"id\":\"chunk_27051:27051:1\",\"lemas\":[\"servio\",\"servire\"],\"lema_canonico\":\"servio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"to serve, be a slave; to be subject, obey; to devote oneself to; often governs the dative.\",\"aliases\":[],\"exemplos\":[\"Plaut. Rud. 1, 3, 37\"],\"notas\":\"Lema e acepções confirmadas em Lewis & Short, Whitaker e Lat→Deu; incluído infinitivo como variante canônica.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_27051:27051:1\",\"lemas\":[\"servio\",\"servire\"],\"lema_canonico\":\"servio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"to serve, be a slave; to be subject, obey; to devote oneself to; often governs the dative.\",\"aliases\":[],\"exemplos\":[\"Plaut. Rud. 1, 3, 37\"],\"notas\":\"Lema e acepções confirmadas em Lewis & Short, Whitaker e Lat→Deu; incluído infinitivo como variante canônica.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_27051-e3",
@@ -1521,50 +1235,6 @@
     "raw_json": "{\"id\":\"chunk_27056:27056:0\",\"lemas\":[\"subsidiarius\"],\"lema_canonico\":\"subsidiarius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"pertencente à reserva; subsidiário, que presta apoio ou socorro. Como substantivo (pl. subsidiarii, -orum): o corpo de reservas; em direito: actio subsidiaria, ação contra magistrado que nomeou tutor indevido.\",\"aliases\":[],\"exemplos\":[\"Liv. 5, 38\",\"Liv. 6, 8\",\"Liv. 9, 32\",\"Caes. B. Civ. 1, 83\",\"Tac. Ann. 1, 63\"],\"notas\":\"Entrada unificada como adj. com uso substantivado; sentidos confirmados por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_27057-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_27057",
-    "page_num": 27057,
-    "lemmas": [
-      "serva",
-      "serva"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "escrava; feminino de servus.",
-    "exemplos": [],
-    "notas": "Entrada normalizada; confirmado por Lewis & Short e Whitaker. | [dedupe] redirect → chunk_25845:25845:0 | [dedupe] redirect → chunk_25845:25845:0",
-    "raw_text": "{\"id\":\"chunk_27057:27057:0\",\"lemas\":[\"serva\"],\"lema_canonico\":\"serva\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"escrava; feminino de servus.\",\"aliases\":[],\"exemplos\":[\"T. Liv. 9, 27, 9\"],\"notas\":\"Entrada normalizada; confirmado por Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_27057:27057:0\",\"lemas\":[\"serva\"],\"lema_canonico\":\"serva\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"escrava; feminino de servus.\",\"aliases\":[],\"exemplos\":[\"T. Liv. 9, 27, 9\"],\"notas\":\"Entrada normalizada; confirmado por Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_27058-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_27058",
-    "page_num": 27058,
-    "lemmas": [
-      "subsidium",
-      "subsidium"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "reserva; reforço, socorro; auxílio, recursos; refúgio, asilo",
-    "exemplos": [],
-    "notas": "Grafia e sentidos harmonizados com Lewis & Short e Whitaker. | [dedupe] redirect → chunk_27055:27055:0 | [dedupe] redirect → chunk_27055:27055:0",
-    "raw_text": "{\"id\":\"chunk_27058:27058:0\",\"lemas\":[\"subsidium\"],\"lema_canonico\":\"subsidium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"reserva; reforço, socorro; auxílio, recursos; refúgio, asilo\",\"aliases\":[],\"exemplos\":[\"Cæs. B. G. 2, 22, 1\",\"Cæs. B. G. 7, 87, 21\",\"Cic. Clu. 3, 4\",\"Cic. Cat. 2, 9\",\"Tac. Ann. 5, 8\"],\"notas\":\"Grafia e sentidos harmonizados com Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_27058:27058:0\",\"lemas\":[\"subsidium\"],\"lema_canonico\":\"subsidium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"reserva; reforço, socorro; auxílio, recursos; refúgio, asilo\",\"aliases\":[],\"exemplos\":[\"Cæs. B. G. 2, 22, 1\",\"Cæs. B. G. 7, 87, 21\",\"Cic. Clu. 3, 4\",\"Cic. Cat. 2, 9\",\"Tac. Ann. 5, 8\"],\"notas\":\"Grafia e sentidos harmonizados com Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_27059-e1",
     "volume_id": "faria",
     "doc_name": "chunk_27059",
@@ -1587,28 +1257,6 @@
     "raw_json": "{\"id\":\"chunk_27059:27059:0\",\"lemas\":[\"subsido\",\"subsidere\",\"subsessi\",\"subsessum\"],\"lema_canonico\":\"subsido\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"assentar-se; abaixar-se, ceder, submergir-se; diminuir, amainar; também: estabelecer‑se, fixar‑se\",\"aliases\":[],\"exemplos\":[\"Liv. 5, 12 (uso transitivo/intransitivo)\"],\"notas\":\"Uniformizei para o lema clássico subsidere/ subsido; baseada em Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_27060-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_27060",
-    "page_num": 27060,
-    "lemmas": [
-      "tr.",
-      "tr."
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:low",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "Abreviação 'tr.' usada para indicadores editoriais ou títulos (p.ex. tribunus, tribune, tr. pl./tr. mil.); entrada abreviativa, não lexical.",
-    "exemplos": [],
-    "notas": "Mantida forma abreviada; sentido editorial/titular provável. Revisar contexto bibliográfico. | [dedupe] redirect → chunk_28623:28623:1 | [dedupe] redirect → chunk_28623:28623:1",
-    "raw_text": "{\"id\":\"chunk_27060:27060:6\",\"lemas\":[\"tr.\"],\"lema_canonico\":\"tr.\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Abreviação 'tr.' usada para indicadores editoriais ou títulos (p.ex. tribunus, tribune, tr. pl./tr. mil.); entrada abreviativa, não lexical.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Mantida forma abreviada; sentido editorial/titular provável. Revisar contexto bibliográfico.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_27060:27060:6\",\"lemas\":[\"tr.\"],\"lema_canonico\":\"tr.\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Abreviação 'tr.' usada para indicadores editoriais ou títulos (p.ex. tribunus, tribune, tr. pl./tr. mil.); entrada abreviativa, não lexical.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Mantida forma abreviada; sentido editorial/titular provável. Revisar contexto bibliográfico.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\",\"morph_out_of_vocab\"]}"
-  },
-  {
     "id": "chunk_27060-e2",
     "volume_id": "faria",
     "doc_name": "chunk_27060",
@@ -1629,28 +1277,6 @@
     "notas": "Combina atestados de Lewis & Short e Whitaker: conserva tanto embrŏcha (f.) quanto brochon/brochus. | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='embrōcha' → 'embrŏcha'",
     "raw_text": "{\"id\":\"chunk_27060:27060:1\",\"lemas\":[\"embrōcha\",\"brochon\",\"brocha\",\"brochus\"],\"lema_canonico\":\"embrōcha\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"1) Subst.: goma‑resina aromática que flui da árvore bdélio (bdellium), usada em medicina e perfume (Plin.). 2) Subst. (LS): embrŏcha = cataplasma húmido (Theodorus/Prisciano). 3) Adj. (brochus/brocha): projetante, com dentes salientes.\",\"aliases\":[],\"exemplos\":[\"Plin. 12, 9, 19, §35\",\"Theod. Prisc. 1, 33\"],\"notas\":\"Combina atestados de Lewis & Short e Whitaker: conserva tanto embrŏcha (f.) quanto brochon/brochus.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_27060:27060:1\",\"lemas\":[\"embrōcha\",\"brochon\",\"brocha\",\"brochus\"],\"lema_canonico\":\"embrōcha\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"1) Subst.: goma‑resina aromática que flui da árvore bdélio (bdellium), usada em medicina e perfume (Plin.). 2) Subst. (LS): embrŏcha = cataplasma húmido (Theodorus/Prisciano). 3) Adj. (brochus/brocha): projetante, com dentes salientes.\",\"aliases\":[],\"exemplos\":[\"Plin. 12, 9, 19, §35\",\"Theod. Prisc. 1, 33\"],\"notas\":\"Combina atestados de Lewis & Short e Whitaker: conserva tanto embrŏcha (f.) quanto brochon/brochus.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_27060-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_27060",
-    "page_num": 27060,
-    "lemmas": [
-      "em",
-      "em"
-    ],
-    "morfologia": "interj.",
-    "morph_render": "interj.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Interjeição: 'em!' — aí!, olha!, expressão de assombro/atenção.",
-    "exemplos": [],
-    "notas": "Atestado tanto em Lewis & Short quanto em Whitaker; mantida leitura exclamativa. | [dedupe] redirect → chunk_10288:10288:1 | [dedupe] redirect → chunk_10288:10288:1",
-    "raw_text": "{\"id\":\"chunk_27060:27060:2\",\"lemas\":[\"em\"],\"lema_canonico\":\"em\",\"morfologia\":\"interj.\",\"morph_extra\":[],\"definicao\":\"Interjeição: 'em!' — aí!, olha!, expressão de assombro/atenção.\",\"aliases\":[],\"exemplos\":[\"Ter. Ad. 5, 3, 4\",\"Plaut. Merc. 2, 2, 42\"],\"notas\":\"Atestado tanto em Lewis & Short quanto em Whitaker; mantida leitura exclamativa.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_27060:27060:2\",\"lemas\":[\"em\"],\"lema_canonico\":\"em\",\"morfologia\":\"interj.\",\"morph_extra\":[],\"definicao\":\"Interjeição: 'em!' — aí!, olha!, expressão de assombro/atenção.\",\"aliases\":[],\"exemplos\":[\"Ter. Ad. 5, 3, 4\",\"Plaut. Merc. 2, 2, 42\"],\"notas\":\"Atestado tanto em Lewis & Short quanto em Whitaker; mantida leitura exclamativa.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_27060-e4",
@@ -1763,28 +1389,6 @@
     "raw_json": "{\"id\":\"chunk_27061:27061:0\",\"lemas\":[\"subsignatus\",\"subsignata\",\"subsignatum\"],\"lema_canonico\":\"subsignatus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"subsigned, underwritten; having been signed or sealed (participle of subsīgnāre).\",\"aliases\":[],\"exemplos\":[\"Tac. Hist. 1, 70\"],\"notas\":\"Marked as participial adjective from subsīgnāre (Lat→Deu).\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_27062-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_27062",
-    "page_num": 27062,
-    "lemmas": [
-      "Segetia",
-      "Segetia"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "deusa que protege as plantações/gramíneas; também chamada Segesta",
-    "exemplos": [],
-    "notas": "Corrigida grafia e unificadas variantes a partir de Lewis & Short e Whitaker. | [dedupe] redirect → chunk_27038:27038:3 | [dedupe] redirect → chunk_27038:27038:3",
-    "raw_text": "{\"id\":\"chunk_27062:27062:0\",\"lemas\":[\"Segetia\",\"Segesta\"],\"lema_canonico\":\"Segetia\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"deusa que protege as plantações/gramíneas; também chamada Segesta\",\"aliases\":[],\"exemplos\":[\"Macr. Sat. 1, 16\",\"Aug. Civ. Dei 4, 8\",\"Plin. Nat. 18, 2, § 8\"],\"notas\":\"Corrigida grafia e unificadas variantes a partir de Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_27062:27062:0\",\"lemas\":[\"Segetia\",\"Segesta\"],\"lema_canonico\":\"Segetia\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"deusa que protege as plantações/gramíneas; também chamada Segesta\",\"aliases\":[],\"exemplos\":[\"Macr. Sat. 1, 16\",\"Aug. Civ. Dei 4, 8\",\"Plin. Nat. 18, 2, § 8\"],\"notas\":\"Corrigida grafia e unificadas variantes a partir de Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_27062-e2",
     "volume_id": "faria",
     "doc_name": "chunk_27062",
@@ -1805,50 +1409,6 @@
     "notas": "Forma plural coletiva (ōrum) atestada; morfologia representada pela forma mais próxima do vocabulário do esquema.",
     "raw_text": "{\"id\":\"chunk_27062:27062:1\",\"lemas\":[\"Segusiavi\",\"Segusiavii\",\"Sĕgūsĭāvi\"],\"lema_canonico\":\"Segusiavi\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"povo da Gália Lugdunense (seg. fontes clássicas); habitantes da região moderna Feurs\",\"aliases\":[],\"exemplos\":[\"Caes. B. G. 1, 10\",\"Caes. B. G. 7, 64\",\"Cic. Quint. 25\",\"Plin. 4, 18, 32\",\"Inscr. Orell. 5217\"],\"notas\":\"Forma plural coletiva (ōrum) atestada; morfologia representada pela forma mais próxima do vocabulário do esquema.\",\"flags\":[\"src_ls\",\"conf:med\",\"morph_out_of_vocab\"]}",
     "raw_json": "{\"id\":\"chunk_27062:27062:1\",\"lemas\":[\"Segusiavi\",\"Segusiavii\",\"Sĕgūsĭāvi\"],\"lema_canonico\":\"Segusiavi\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"povo da Gália Lugdunense (seg. fontes clássicas); habitantes da região moderna Feurs\",\"aliases\":[],\"exemplos\":[\"Caes. B. G. 1, 10\",\"Caes. B. G. 7, 64\",\"Cic. Quint. 25\",\"Plin. 4, 18, 32\",\"Inscr. Orell. 5217\"],\"notas\":\"Forma plural coletiva (ōrum) atestada; morfologia representada pela forma mais próxima do vocabulário do esquema.\",\"flags\":[\"src_ls\",\"conf:med\",\"morph_out_of_vocab\"]}"
-  },
-  {
-    "id": "chunk_27062-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_27062",
-    "page_num": 27062,
-    "lemmas": [
-      "Sida",
-      "Sida"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "cidade da Panfília (mod. Eski Adalia); de Sida: habitantes Sīdētae",
-    "exemplos": [],
-    "notas": "Grafia e variantes normalizadas conforme Lewis & Short e Whitaker. | [dedupe] redirect → chunk_25986:25986:0 | [dedupe] redirect → chunk_25986:25986:0",
-    "raw_text": "{\"id\":\"chunk_27062:27062:2\",\"lemas\":[\"Sida\",\"Sidē\",\"Sīdētae\"],\"lema_canonico\":\"Sida\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"cidade da Panfília (mod. Eski Adalia); de Sida: habitantes Sīdētae\",\"aliases\":[],\"exemplos\":[\"Mel. 1, 14 sqq.\",\"Cic. Fam. 3, 6, 1\",\"Liv. 35, 13\"],\"notas\":\"Grafia e variantes normalizadas conforme Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_27062:27062:2\",\"lemas\":[\"Sida\",\"Sidē\",\"Sīdētae\"],\"lema_canonico\":\"Sida\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"cidade da Panfília (mod. Eski Adalia); de Sida: habitantes Sīdētae\",\"aliases\":[],\"exemplos\":[\"Mel. 1, 14 sqq.\",\"Cic. Fam. 3, 6, 1\",\"Liv. 35, 13\"],\"notas\":\"Grafia e variantes normalizadas conforme Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_27062-e4",
-    "volume_id": "faria",
-    "doc_name": "chunk_27062",
-    "page_num": 27062,
-    "lemmas": [
-      "sub",
-      "sub"
-    ],
-    "morfologia": "prep. com abl.",
-    "morph_render": "prep. com abl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "prep. que governa o abl. ou acc.: sob, debaixo de; também 'até', 'perto de', 'durante' (usos temporais e locais).",
-    "exemplos": [],
-    "notas": "Forma tratada como preposição (abonada por LS e Whitaker). | [dedupe] redirect → chunk_26871:26871:0 | [dedupe] redirect → chunk_26871:26871:0",
-    "raw_text": "{\"id\":\"chunk_27062:27062:3\",\"lemas\":[\"sub\"],\"lema_canonico\":\"sub\",\"morfologia\":\"prep. com abl.\",\"morph_extra\":[],\"definicao\":\"prep. que governa o abl. ou acc.: sob, debaixo de; também 'até', 'perto de', 'durante' (usos temporais e locais).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma tratada como preposição (abonada por LS e Whitaker).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_27062:27062:3\",\"lemas\":[\"sub\"],\"lema_canonico\":\"sub\",\"morfologia\":\"prep. com abl.\",\"morph_extra\":[],\"definicao\":\"prep. que governa o abl. ou acc.: sob, debaixo de; também 'até', 'perto de', 'durante' (usos temporais e locais).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma tratada como preposição (abonada por LS e Whitaker).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_27062-e5",
@@ -1939,28 +1499,6 @@
     "raw_json": "{\"id\":\"chunk_27064:27064:0\",\"lemas\":[\"subsilio\",\"subsilire\"],\"lema_canonico\":\"subsiliō\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"pular, saltar para cima; lançar‑se; impetum facere (movimento súbito).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Correção de 'subsilii' (forma flexionada) para o lema verbal subsiliō (4ª conj.), conforme Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_27065-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_27065",
-    "page_num": 27065,
-    "lemmas": [
-      "io",
-      "io"
-    ],
-    "morfologia": "interj.",
-    "morph_render": "interj.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Interjeição de exultação/clamor: “io!” = ‘eia!’, ‘viva!’, ‘olhai!’; também usada para chamar atenção ou expressar dor.",
-    "exemplos": [],
-    "notas": "Unificadas as formas breves e a forma de nome próprio (Īō) referida por LS; entradas distintas consolidadas sob o lema io. | [dedupe] redirect → chunk_10119:10119:4 | [dedupe] redirect → chunk_10119:10119:4",
-    "raw_text": "{\"id\":\"chunk_27065:27065:6\",\"lemas\":[\"io\",\"ĭō\",\"Īō\"],\"lema_canonico\":\"io\",\"morfologia\":\"interj.\",\"morph_extra\":[],\"definicao\":\"Interjeição de exultação/clamor: “io!” = ‘eia!’, ‘viva!’, ‘olhai!’; também usada para chamar atenção ou expressar dor.\",\"aliases\":[],\"exemplos\":[\"Plaut. Cas. 4,3,3\",\"Verg. A. 7,400\",\"Hor. C. 4,2,49\"],\"notas\":\"Unificadas as formas breves e a forma de nome próprio (Īō) referida por LS; entradas distintas consolidadas sob o lema io.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_27065:27065:6\",\"lemas\":[\"io\",\"ĭō\",\"Īō\"],\"lema_canonico\":\"io\",\"morfologia\":\"interj.\",\"morph_extra\":[],\"definicao\":\"Interjeição de exultação/clamor: “io!” = ‘eia!’, ‘viva!’, ‘olhai!’; também usada para chamar atenção ou expressar dor.\",\"aliases\":[],\"exemplos\":[\"Plaut. Cas. 4,3,3\",\"Verg. A. 7,400\",\"Hor. C. 4,2,49\"],\"notas\":\"Unificadas as formas breves e a forma de nome próprio (Īō) referida por LS; entradas distintas consolidadas sob o lema io.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_27065-e2",
     "volume_id": "faria",
     "doc_name": "chunk_27065",
@@ -1983,94 +1521,6 @@
     "raw_json": "{\"id\":\"chunk_27065:27065:7\",\"lemas\":[\"subsipio\",\"subsĭpiō\"],\"lema_canonico\":\"subsipio\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"(entrada possivelmente corrupta) Registro no Faria: 'Ter um pouco de saber' (citação: Varr. L. Lat. 5, 128); forma e significado incertos e não confirmados em dicionários principais.\",\"aliases\":[],\"exemplos\":[\"Varr. L. Lat. 5,128\"],\"notas\":\"Manter como atestado pelo Faria, mas forma parece corrupta/ OCR; verificação na fonte primária recomendada.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_27065-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_27065",
-    "page_num": 27065,
-    "lemmas": [
-      "scaber",
-      "scaber"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "áspero, escabroso; escamoso ou corroído por doença; também: rugoso, áspero ao tato",
-    "exemplos": [],
-    "notas": "Formas e sentido ajustados a Lewis & Short e Whitaker; variantes inclusas. | [dedupe] redirect → chunk_25220:25220:0 | [dedupe] redirect → chunk_25220:25220:0",
-    "raw_text": "{\"id\":\"chunk_27065:27065:1\",\"lemas\":[\"scaber\",\"scabra\",\"scabrum\"],\"lema_canonico\":\"scaber\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"áspero, escabroso; escamoso ou corroído por doença; também: rugoso, áspero ao tato\",\"aliases\":[],\"exemplos\":[\"Ov. F. 4, 921\",\"Luc. 1, 243\",\"Hor. Ep. 1, 7, 90\"],\"notas\":\"Formas e sentido ajustados a Lewis & Short e Whitaker; variantes inclusas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_27065:27065:1\",\"lemas\":[\"scaber\",\"scabra\",\"scabrum\"],\"lema_canonico\":\"scaber\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"áspero, escabroso; escamoso ou corroído por doença; também: rugoso, áspero ao tato\",\"aliases\":[],\"exemplos\":[\"Ov. F. 4, 921\",\"Luc. 1, 243\",\"Hor. Ep. 1, 7, 90\"],\"notas\":\"Formas e sentido ajustados a Lewis & Short e Whitaker; variantes inclusas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_27065-e4",
-    "volume_id": "faria",
-    "doc_name": "chunk_27065",
-    "page_num": 27065,
-    "lemmas": [
-      "subo",
-      "subo"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "estar em cio; estar no período reprodutivo (de animais); raro",
-    "exemplos": [],
-    "notas": "Normalizado ao verbo sŭbo (āre) conforme Lewis & Short e Whitaker; descartei leitura conflituosa do OCR. | [dedupe] redirect → chunk_26871:26871:2 | [dedupe] redirect → chunk_26871:26871:2",
-    "raw_text": "{\"id\":\"chunk_27065:27065:2\",\"lemas\":[\"subo\"],\"lema_canonico\":\"subo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"estar em cio; estar no período reprodutivo (de animais); raro\",\"aliases\":[],\"exemplos\":[\"Plin. 10, 63, 83\",\"Hor. Epod. 12, 11\"],\"notas\":\"Normalizado ao verbo sŭbo (āre) conforme Lewis & Short e Whitaker; descartei leitura conflituosa do OCR.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_27065:27065:2\",\"lemas\":[\"subo\"],\"lema_canonico\":\"subo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"estar em cio; estar no período reprodutivo (de animais); raro\",\"aliases\":[],\"exemplos\":[\"Plin. 10, 63, 83\",\"Hor. Epod. 12, 11\"],\"notas\":\"Normalizado ao verbo sŭbo (āre) conforme Lewis & Short e Whitaker; descartei leitura conflituosa do OCR.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_27065-e5",
-    "volume_id": "faria",
-    "doc_name": "chunk_27065",
-    "page_num": 27065,
-    "lemmas": [
-      "suber",
-      "suber"
-    ],
-    "morfologia": "s. neut. 3ª (-is)",
-    "morph_render": "s. neut. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "sobreiro (Quercus suber); cortiça",
-    "exemplos": [],
-    "notas": "Grafia e forma do genitivo alinhadas a Lewis & Short; significado confirmado por Lat→Deu e Whitaker. | [dedupe] redirect → chunk_26914:26914:0 | [dedupe] redirect → chunk_26914:26914:0",
-    "raw_text": "{\"id\":\"chunk_27065:27065:3\",\"lemas\":[\"suber\"],\"lema_canonico\":\"suber\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"sobreiro (Quercus suber); cortiça\",\"aliases\":[],\"exemplos\":[\"Plin. 16, 8, 13\",\"Verg. A. 7, 742\"],\"notas\":\"Grafia e forma do genitivo alinhadas a Lewis & Short; significado confirmado por Lat→Deu e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_27065:27065:3\",\"lemas\":[\"suber\"],\"lema_canonico\":\"suber\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"sobreiro (Quercus suber); cortiça\",\"aliases\":[],\"exemplos\":[\"Plin. 16, 8, 13\",\"Verg. A. 7, 742\"],\"notas\":\"Grafia e forma do genitivo alinhadas a Lewis & Short; significado confirmado por Lat→Deu e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_27065-e6",
-    "volume_id": "faria",
-    "doc_name": "chunk_27065",
-    "page_num": 27065,
-    "lemmas": [
-      "sub",
-      "sub"
-    ],
-    "morfologia": "prep. com acc./abl.",
-    "morph_render": "prep. com acc./abl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "sob, debaixo de; com abl. = under/underneath, com acc. = up to, close to; também 'durante/por (tempo)'; sentido espacial/temporal",
-    "exemplos": [],
-    "notas": "Unifiquei as acepções acus./abl. conforme LS e Whitaker. | [dedupe] redirect → chunk_26871:26871:0 | [dedupe] redirect → chunk_26871:26871:0",
-    "raw_text": "{\"id\":\"chunk_27065:27065:4\",\"lemas\":[\"sub\"],\"lema_canonico\":\"sub\",\"morfologia\":\"prep. com acc./abl.\",\"morph_extra\":[],\"definicao\":\"sob, debaixo de; com abl. = under/underneath, com acc. = up to, close to; também 'durante/por (tempo)'; sentido espacial/temporal\",\"aliases\":[],\"exemplos\":[\"Cic. N. D. 2, 37, 95\",\"Plaut. Capt. 3, 5, 72\"],\"notas\":\"Unifiquei as acepções acus./abl. conforme LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_27065:27065:4\",\"lemas\":[\"sub\"],\"lema_canonico\":\"sub\",\"morfologia\":\"prep. com acc./abl.\",\"morph_extra\":[],\"definicao\":\"sob, debaixo de; com abl. = under/underneath, com acc. = up to, close to; também 'durante/por (tempo)'; sentido espacial/temporal\",\"aliases\":[],\"exemplos\":[\"Cic. N. D. 2, 37, 95\",\"Plaut. Capt. 3, 5, 72\"],\"notas\":\"Unifiquei as acepções acus./abl. conforme LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_27065-e7",
     "volume_id": "faria",
     "doc_name": "chunk_27065",
@@ -2091,28 +1541,6 @@
     "notas": "Entrada preserva tanto o substantivo técnico (siphon/tube) quanto o verbo raro; baseada em Whitaker (subst. e verb.) e em Lewis & Short (verbo sipo āre). | [ocr_fix 2025-08-17T20:00:35Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='sipo' → 'sipo'",
     "raw_text": "{\"id\":\"chunk_27065:27065:5\",\"lemas\":[\"sipo\",\"sipio\",\"sipus\"],\"lema_canonico\":\"sipo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"(v.) verbo raro: atuar como sifão/aspirar ou lançar líquido (sentido técnico); (s.) tubo, sifão, cano usado para distribuir ou sugar líquidos\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada preserva tanto o substantivo técnico (siphon/tube) quanto o verbo raro; baseada em Whitaker (subst. e verb.) e em Lewis & Short (verbo sipo āre).\",\"flags\":[\"src_whitaker\",\"src_ls\",\"src_latdeu\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_27065:27065:5\",\"lemas\":[\"sipo\",\"sipio\",\"sipus\"],\"lema_canonico\":\"sipo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"(v.) verbo raro: atuar como sifão/aspirar ou lançar líquido (sentido técnico); (s.) tubo, sifão, cano usado para distribuir ou sugar líquidos\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada preserva tanto o substantivo técnico (siphon/tube) quanto o verbo raro; baseada em Whitaker (subst. e verb.) e em Lewis & Short (verbo sipo āre).\",\"flags\":[\"src_whitaker\",\"src_ls\",\"src_latdeu\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_27065-e8",
-    "volume_id": "faria",
-    "doc_name": "chunk_27065",
-    "page_num": 27065,
-    "lemmas": [
-      "saluber",
-      "saluber"
-    ],
-    "morfologia": "adj. (3) 3T",
-    "morph_render": "adj. (3) 3T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "salutar, saudável; benéfico, vantajoso",
-    "exemplos": [],
-    "notas": "Grafia com macron e significado confirmados por Lewis & Short e Lat→Deu. | [dedupe] redirect → chunk_14275:14275:1 | [dedupe] redirect → chunk_14275:14275:1",
-    "raw_text": "{\"id\":\"chunk_27065:27065:0\",\"lemas\":[\"saluber\",\"salūber\"],\"lema_canonico\":\"saluber\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"salutar, saudável; benéfico, vantajoso\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Grafia com macron e significado confirmados por Lewis & Short e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_27065:27065:0\",\"lemas\":[\"saluber\",\"salūber\"],\"lema_canonico\":\"saluber\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"salutar, saudável; benéfico, vantajoso\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Grafia com macron e significado confirmados por Lewis & Short e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_27066-e1",
@@ -2247,28 +1675,6 @@
     "raw_json": "{\"id\":\"chunk_27069:27069:0\",\"lemas\":[\"subsortīrī\",\"subsortior\"],\"lema_canonico\":\"subsortior\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"verbo deponente 'subsortīrī': tirar a sorte em substituição; designar por sorteio como substituto\",\"aliases\":[],\"exemplos\":[\"Cic. Clu. 96\"],\"notas\":\"Lema apresentado na forma deponente; paradigma confirmado por fontes.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_27070-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_27070",
-    "page_num": 27070,
-    "lemmas": [
-      "substitutio",
-      "substitutio"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "a putting in place of another; substitution; in law, appointment of a substitute or alternate heir.",
-    "exemplos": [],
-    "notas": "Grafia e forma do genitivo (ōnis) confirmadas; sentido jurídico atestado em Lewis & Short. | [dedupe] redirect → chunk_27072:27072:2 | [dedupe] redirect → chunk_27072:27072:2",
-    "raw_text": "{\"id\":\"chunk_27070:27070:0\",\"lemas\":[\"substitutio\",\"substitutio\"],\"lema_canonico\":\"substitutio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"a putting in place of another; substitution; in law, appointment of a substitute or alternate heir.\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. I, 15, 103\"],\"notas\":\"Grafia e forma do genitivo (ōnis) confirmadas; sentido jurídico atestado em Lewis & Short.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_27070:27070:0\",\"lemas\":[\"substitutio\",\"substitutio\"],\"lema_canonico\":\"substitutio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"a putting in place of another; substitution; in law, appointment of a substitute or alternate heir.\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. I, 15, 103\"],\"notas\":\"Grafia e forma do genitivo (ōnis) confirmadas; sentido jurídico atestado em Lewis & Short.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_27071-e1",
     "volume_id": "faria",
     "doc_name": "chunk_27071",
@@ -2311,28 +1717,6 @@
     "notas": "Forma e paradigmas aparentemente corrompidos no OCR; não confirmada em fontes externas. Rever com dicionários latinos.\n[ocr_pipeline 2025-08-16T23:28:09.216969Z] lemma_in='substendo' → 'sŭb-erro' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:29:08Z] match direto em LS por lemma/lemma_norm | lemma_in='sŭb-erro' → 'sŭb-erro'",
     "raw_text": "{\"id\":\"chunk_27072:27072:0\",\"lemas\":[\"substendo\"],\"lema_canonico\":\"substendo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"(entrada incerta) suposto verbo transitivo com sentidos variados: estender por baixo; cobrir; submeter; pôr como peso (cit. várias obras).\",\"aliases\":[],\"exemplos\":[\"Hor. Sat. 2, 4, 72\",\"Varr. R. Rust. 1, 57, 20\",\"Cic. Tim. 26\",\"Lucr. 2, 22\",\"Aug. 68\",\"Cic. Nat. 2, 129\"],\"notas\":\"Forma e paradigmas aparentemente corrompidos no OCR; não confirmada em fontes externas. Rever com dicionários latinos.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_27072:27072:0\",\"lemas\":[\"substendo\"],\"lema_canonico\":\"substendo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"(entrada incerta) suposto verbo transitivo com sentidos variados: estender por baixo; cobrir; submeter; pôr como peso (cit. várias obras).\",\"aliases\":[],\"exemplos\":[\"Hor. Sat. 2, 4, 72\",\"Varr. R. Rust. 1, 57, 20\",\"Cic. Tim. 26\",\"Lucr. 2, 22\",\"Aug. 68\",\"Cic. Nat. 2, 129\"],\"notas\":\"Forma e paradigmas aparentemente corrompidos no OCR; não confirmada em fontes externas. Rever com dicionários latinos.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_27072-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_27072",
-    "page_num": 27072,
-    "lemmas": [
-      "substituo",
-      "substituo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "pôr em lugar de outro; substituir; nomear ou instituir em substituição (jur.).",
-    "exemplos": [],
-    "notas": "Padronizado para substituō (substituere, substituī, substitūtum); sentidos jurídicos confirmados. | [dedupe] redirect → chunk_27076:27076:0 | [dedupe] redirect → chunk_27076:27076:0",
-    "raw_text": "{\"id\":\"chunk_27072:27072:1\",\"lemas\":[\"substituo\"],\"lema_canonico\":\"substituo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"pôr em lugar de outro; substituir; nomear ou instituir em substituição (jur.).\",\"aliases\":[],\"exemplos\":[\"Liv. 28, 35\",\"Ov. R. Am. 574\",\"Plin. Ep. 6, 31, 8\",\"Dig. 38, 1, 30\",\"Cic. Verr. 2, 5, 28\"],\"notas\":\"Padronizado para substituō (substituere, substituī, substitūtum); sentidos jurídicos confirmados.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_27072:27072:1\",\"lemas\":[\"substituo\"],\"lema_canonico\":\"substituo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"pôr em lugar de outro; substituir; nomear ou instituir em substituição (jur.).\",\"aliases\":[],\"exemplos\":[\"Liv. 28, 35\",\"Ov. R. Am. 574\",\"Plin. Ep. 6, 31, 8\",\"Dig. 38, 1, 30\",\"Cic. Verr. 2, 5, 28\"],\"notas\":\"Padronizado para substituō (substituere, substituī, substitūtum); sentidos jurídicos confirmados.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_27072-e3",
@@ -2399,50 +1783,6 @@
     "notas": "Paradigma clássico: substituō, substituere, substituī, substitūtus.",
     "raw_text": "{\"id\":\"chunk_27073:27073:0\",\"lemas\":[\"substituere\",\"substituo\"],\"lema_canonico\":\"substituere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"colocar em lugar de outro; substituir; colocar atrás/por baixo; nomear como sucessor/representante\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Paradigma clássico: substituō, substituere, substituī, substitūtus.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_27073:27073:0\",\"lemas\":[\"substituere\",\"substituo\"],\"lema_canonico\":\"substituere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"colocar em lugar de outro; substituir; colocar atrás/por baixo; nomear como sucessor/representante\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Paradigma clássico: substituō, substituere, substituī, substitūtus.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_27073-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_27073",
-    "page_num": 27073,
-    "lemmas": [
-      "substitui",
-      "substitui"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Forma perfeita de substituō; marcada como redirecionamento para o lema infinitivo. Morfologia verbal no inventário exige aproximação; ver flags.",
-    "raw_text": "{\"id\":\"chunk_27073:27073:1\",\"lemas\":[\"substitui\"],\"lema_canonico\":\"substitui\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"substituere\",\"substituo\"],\"exemplos\":[],\"notas\":\"Forma perfeita de substituō; marcada como redirecionamento para o lema infinitivo. Morfologia verbal no inventário exige aproximação; ver flags.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"redirect_only\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_27073:27073:1\",\"lemas\":[\"substitui\"],\"lema_canonico\":\"substitui\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"substituere\",\"substituo\"],\"exemplos\":[],\"notas\":\"Forma perfeita de substituō; marcada como redirecionamento para o lema infinitivo. Morfologia verbal no inventário exige aproximação; ver flags.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"redirect_only\",\"morph_out_of_vocab\"]}"
-  },
-  {
-    "id": "chunk_27074-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_27074",
-    "page_num": 27074,
-    "lemmas": [
-      "substituo",
-      "substituo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "colocar sob/por debaixo; pôr em lugar de outro; substituir, colocar no lugar de; também: tornar substituto (fig.).",
-    "exemplos": [],
-    "notas": "Unifiquei paradigma com base em LS/Whitaker/Lat→Deu; corrigi indicação de substantivo 'substitution' como OCR provável. | [dedupe] redirect → chunk_27076:27076:0 | [dedupe] redirect → chunk_27076:27076:0",
-    "raw_text": "{\"id\":\"chunk_27074:27074:0\",\"lemas\":[\"substituo\",\"substituere\",\"substitui\",\"substitutus\"],\"lema_canonico\":\"substituo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"colocar sob/por debaixo; pôr em lugar de outro; substituir, colocar no lugar de; também: tornar substituto (fig.).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Unifiquei paradigma com base em LS/Whitaker/Lat→Deu; corrigi indicação de substantivo 'substitution' como OCR provável.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_27074:27074:0\",\"lemas\":[\"substituo\",\"substituere\",\"substitui\",\"substitutus\"],\"lema_canonico\":\"substituo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"colocar sob/por debaixo; pôr em lugar de outro; substituir, colocar no lugar de; também: tornar substituto (fig.).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Unifiquei paradigma com base em LS/Whitaker/Lat→Deu; corrigi indicação de substantivo 'substitution' como OCR provável.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_27075-e1",
@@ -2599,28 +1939,6 @@
     "raw_json": "{\"id\":\"chunk_27078:27078:1\",\"lemas\":[\"substernō\",\"substernere\",\"substrāvī\",\"substrātus\",\"sub-sterno\"],\"lema_canonico\":\"substernō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"substernō, substernere, substrāvī, substrātus — espalhar por baixo; estender sob; forrar ou cobrir por baixo; polvilhar (esp. sal, sementes); também 'deitar sob' ou 'colocar por baixo'.\",\"aliases\":[],\"exemplos\":[\"Cato, R. R. 37, 2\",\"Ter. And. 4, 3, 12\",\"Ov. M. 15, 398\",\"Plin. 20, 14, 56\"],\"notas\":\"Normalizado para 'substernō' conforme Lewis & Short; preservei variantes.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_27079-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_27079",
-    "page_num": 27079,
-    "lemmas": [
-      "substerno",
-      "substerno"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Colocar por baixo, estender por baixo; espalhar como um revestimento; subministrar por baixo.",
-    "exemplos": [],
-    "notas": "Unificada a variante substerno/substernere com base em Whitaker e Lat→Deu; perfeito substrāvi, sup. substrātus atestados. | [dedupe] redirect → chunk_27078:27078:1 | [dedupe] redirect → chunk_27078:27078:1",
-    "raw_text": "{\"id\":\"chunk_27079:27079:0\",\"lemas\":[\"substerno\",\"substernere\"],\"lema_canonico\":\"substerno\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"Colocar por baixo, estender por baixo; espalhar como um revestimento; subministrar por baixo.\",\"aliases\":[\"substrare\"],\"exemplos\":[],\"notas\":\"Unificada a variante substerno/substernere com base em Whitaker e Lat→Deu; perfeito substrāvi, sup. substrātus atestados.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_27079:27079:0\",\"lemas\":[\"substerno\",\"substernere\"],\"lema_canonico\":\"substerno\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"Colocar por baixo, estender por baixo; espalhar como um revestimento; subministrar por baixo.\",\"aliases\":[\"substrare\"],\"exemplos\":[],\"notas\":\"Unificada a variante substerno/substernere com base em Whitaker e Lat→Deu; perfeito substrāvi, sup. substrātus atestados.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_27079-e2",
     "volume_id": "faria",
     "doc_name": "chunk_27079",
@@ -2663,50 +1981,6 @@
     "notas": "Unificação das formas feminina e neutra; indicado też participial como atestado por Whitaker/LS.",
     "raw_text": "{\"id\":\"chunk_27080:27080:0\",\"lemas\":[\"substrictus\",\"substricta\",\"substrictum\"],\"lema_canonico\":\"substrictus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"1) Particípio perfeito passivo de substringere: ‘apertado, comprimido’. 2) Adjetivo: estreito, apertado, magro.\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 2, 216\"],\"notas\":\"Unificação das formas feminina e neutra; indicado też participial como atestado por Whitaker/LS.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_27080:27080:0\",\"lemas\":[\"substrictus\",\"substricta\",\"substrictum\"],\"lema_canonico\":\"substrictus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"1) Particípio perfeito passivo de substringere: ‘apertado, comprimido’. 2) Adjetivo: estreito, apertado, magro.\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 2, 216\"],\"notas\":\"Unificação das formas feminina e neutra; indicado też participial como atestado por Whitaker/LS.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_27081-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_27081",
-    "page_num": 27081,
-    "lemmas": [
-      "soter",
-      "soter"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "sōtēr: salvador, libertador, preservador; título aplicado a deidades e a figuras como Ptolomeu I. e a Cristo.",
-    "exemplos": [],
-    "notas": "Entrada condensada a partir de Lewis & Short; referências padronizadas. | [dedupe] redirect → chunk_26406:26406:0 | [dedupe] redirect → chunk_26406:26406:0",
-    "raw_text": "{\"id\":\"chunk_27081:27081:0\",\"lemas\":[\"soter\"],\"lema_canonico\":\"soter\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"sōtēr: salvador, libertador, preservador; título aplicado a deidades e a figuras como Ptolomeu I. e a Cristo.\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 2, 2, 63\",\"Serv. ad Verg. A. 8, 652\",\"Plin. Nat. 7, 56-57\",\"Tert. adv. Valent. 16 sqq.\"],\"notas\":\"Entrada condensada a partir de Lewis & Short; referências padronizadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_27081:27081:0\",\"lemas\":[\"soter\"],\"lema_canonico\":\"soter\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"sōtēr: salvador, libertador, preservador; título aplicado a deidades e a figuras como Ptolomeu I. e a Cristo.\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 2, 2, 63\",\"Serv. ad Verg. A. 8, 652\",\"Plin. Nat. 7, 56-57\",\"Tert. adv. Valent. 16 sqq.\"],\"notas\":\"Entrada condensada a partir de Lewis & Short; referências padronizadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_27081-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_27081",
-    "page_num": 27081,
-    "lemmas": [
-      "sum",
-      "sum"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "verbo irregular copulativo e existencial ‘ser/estar/existir’; paradigma: sum, esse, fuī, futūrus; vasta gama de usos sintácticos e semânticos.",
-    "exemplos": [],
-    "notas": "Verbo irregular cuja classificação por infinitivo não cabe no vocabulário morfológico exigido; marcado como morph_out_of_vocab. | [dedupe] redirect → chunk_17241:17241:1 | [dedupe] redirect → chunk_17241:17241:1",
-    "raw_text": "{\"id\":\"chunk_27081:27081:1\",\"lemas\":[\"sum\"],\"lema_canonico\":\"sum\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"verbo irregular copulativo e existencial ‘ser/estar/existir’; paradigma: sum, esse, fuī, futūrus; vasta gama de usos sintácticos e semânticos.\",\"aliases\":[],\"exemplos\":[\"Cic. Top. 5, 26\",\"Verg. A. 2, 325\",\"Liv. 33, 27\"],\"notas\":\"Verbo irregular cuja classificação por infinitivo não cabe no vocabulário morfológico exigido; marcado como morph_out_of_vocab.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_27081:27081:1\",\"lemas\":[\"sum\"],\"lema_canonico\":\"sum\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"verbo irregular copulativo e existencial ‘ser/estar/existir’; paradigma: sum, esse, fuī, futūrus; vasta gama de usos sintácticos e semânticos.\",\"aliases\":[],\"exemplos\":[\"Cic. Top. 5, 26\",\"Verg. A. 2, 325\",\"Liv. 33, 27\"],\"notas\":\"Verbo irregular cuja classificação por infinitivo não cabe no vocabulário morfológico exigido; marcado como morph_out_of_vocab.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\",\"morph_out_of_vocab\"]}"
   },
   {
     "id": "chunk_27081-e3",
@@ -2753,28 +2027,6 @@
     "raw_json": "{\"id\":\"chunk_27082:27082:0\",\"lemas\":[\"substrinti\"],\"lema_canonico\":\"substrinti\",\"morfologia\":\"UNKNOWN\",\"morph_extra\":[],\"definicao\":\"(forma não identificada com segurança; provável corrupção/erro de OCR de outro verbo como substrinxi/substringo/substrinxi).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada possivelmente corrompida por OCR; não encontrada em LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_27082-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_27082",
-    "page_num": 27082,
-    "lemmas": [
-      "sŭb-erro",
-      "sŭb-erro"
-    ],
-    "morfologia": "perf. de substríngo",
-    "morph_render": "perf. de substríngo",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "apresentado como perfeito de 'substríngo' (subtrair, conter); forma pouco atestada e possivelmente medieval/erro tipográfico.",
-    "exemplos": [],
-    "notas": "Mantida leitura da primeira passada; forma não confirmada em dicionários principais.\n[ocr_pipeline 2025-08-16T23:18:13.863831Z] lemma_in='substrínti' → 'sŭb-erro' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:15:46Z] match direto em LS por lemma/lemma_norm | lemma_in='sŭb-erro' → 'sŭb-erro' | [dedupe] redirect → chunk_27072:27072:0 | [dedupe] redirect → chunk_27072:27072:0",
-    "raw_text": "{\"id\":\"chunk_27082:27082:1\",\"lemas\":[\"substrínti\"],\"lema_canonico\":\"substrínti\",\"morfologia\":\"perf. de substríngo\",\"morph_extra\":[],\"definicao\":\"apresentado como perfeito de 'substríngo' (subtrair, conter); forma pouco atestada e possivelmente medieval/erro tipográfico.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Mantida leitura da primeira passada; forma não confirmada em dicionários principais.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_27082:27082:1\",\"lemas\":[\"substrínti\"],\"lema_canonico\":\"substrínti\",\"morfologia\":\"perf. de substríngo\",\"morph_extra\":[],\"definicao\":\"apresentado como perfeito de 'substríngo' (subtrair, conter); forma pouco atestada e possivelmente medieval/erro tipográfico.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Mantida leitura da primeira passada; forma não confirmada em dicionários principais.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
     "id": "chunk_27083-e1",
     "volume_id": "faria",
     "doc_name": "chunk_27083",
@@ -2797,28 +2049,6 @@
     "raw_json": "{\"id\":\"chunk_27083:27083:0\",\"lemas\":[\"substructio\",\"substructĭo\"],\"lema_canonico\":\"substructio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"fundação, subestrutura; obra de base de um edifício\",\"aliases\":[],\"exemplos\":[\"Vitr. 1, 5\",\"Vitr. 6, 11\",\"Cæs. B. C. 2, 25\",\"Cic. Mil. 20, 53\",\"Liv. 38, 28\",\"Front. Aquaed. 3, 5\",\"Col. 1, 5, 9\"],\"notas\":\"Normalizada para substructio, gen. -ōnis f.; alinhada com Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_27084-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_27084",
-    "page_num": 27084,
-    "lemmas": [
-      "substruo",
-      "substruo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "particípio perfeito passivo de substruo: colocado sobre uma base; edificado sobre subestrutura.",
-    "exemplos": [],
-    "notas": "Normalizada a grafia e paradigma com base em LS/Whitaker/Lat→Deu; mantive particípio como forma léxica. | [dedupe] redirect → chunk_27085:27085:0 | [dedupe] redirect → chunk_27085:27085:0",
-    "raw_text": "{\"id\":\"chunk_27084:27084:0\",\"lemas\":[\"substruo\",\"substruere\",\"substruxi\",\"substructus\"],\"lema_canonico\":\"substruo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de substruo: colocado sobre uma base; edificado sobre subestrutura.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizada a grafia e paradigma com base em LS/Whitaker/Lat→Deu; mantive particípio como forma léxica.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_27084:27084:0\",\"lemas\":[\"substruo\",\"substruere\",\"substruxi\",\"substructus\"],\"lema_canonico\":\"substruo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de substruo: colocado sobre uma base; edificado sobre subestrutura.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizada a grafia e paradigma com base em LS/Whitaker/Lat→Deu; mantive particípio como forma léxica.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_27085-e1",
     "volume_id": "faria",
     "doc_name": "chunk_27085",
@@ -2839,28 +2069,6 @@
     "notas": "Grafia clássica normalizada: substruo, substruere, substruxi, substructum (cf. Whitaker, Lat→Deu).",
     "raw_text": "{\"id\":\"chunk_27085:27085:0\",\"lemas\":[\"substruo\",\"substruere\"],\"lema_canonico\":\"substruo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"Construir por baixo; assentar sobre fundações, suportar com subestrutura.\",\"aliases\":[],\"exemplos\":[\"Plaut. Most. 121\",\"T. Liv. 6, 4, 12\"],\"notas\":\"Grafia clássica normalizada: substruo, substruere, substruxi, substructum (cf. Whitaker, Lat→Deu).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_27085:27085:0\",\"lemas\":[\"substruo\",\"substruere\"],\"lema_canonico\":\"substruo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"Construir por baixo; assentar sobre fundações, suportar com subestrutura.\",\"aliases\":[],\"exemplos\":[\"Plaut. Most. 121\",\"T. Liv. 6, 4, 12\"],\"notas\":\"Grafia clássica normalizada: substruo, substruere, substruxi, substructum (cf. Whitaker, Lat→Deu).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_27086-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_27086",
-    "page_num": 27086,
-    "lemmas": [
-      "substruo",
-      "substruo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "erguer sobre uma base; assentar sobre fundação; providenciar com subestrutura.",
-    "exemplos": [],
-    "notas": "Forma perfeita substruxi e particípio substructus confirmados em LS/Whitaker/Lat→Deu. | [dedupe] redirect → chunk_27085:27085:0 | [dedupe] redirect → chunk_27085:27085:0",
-    "raw_text": "{\"id\":\"chunk_27086:27086:0\",\"lemas\":[\"substruo\",\"substruere\",\"substruxi\",\"substructus\"],\"lema_canonico\":\"substruo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"erguer sobre uma base; assentar sobre fundação; providenciar com subestrutura.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma perfeita substruxi e particípio substructus confirmados em LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_27086:27086:0\",\"lemas\":[\"substruo\",\"substruere\",\"substruxi\",\"substructus\"],\"lema_canonico\":\"substruo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"erguer sobre uma base; assentar sobre fundação; providenciar com subestrutura.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma perfeita substruxi e particípio substructus confirmados em LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_27087-e1",
@@ -2954,28 +2162,6 @@
     "raw_json": "{\"id\":\"chunk_27090:27090:0\",\"lemas\":[\"subtēmen\",\"subtemen\",\"subtegmen\"],\"lema_canonico\":\"subtēmen\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"subtēmen, -inis, n. — trama, fio de um tecido; por extensão, o fio (das Parcas) ou qualquer fio/linha tecida (sentido figurado e técnico).\",\"aliases\":[\"subtegmen\"],\"exemplos\":[\"Verg. A. 3, 483\",\"Ov. M. 6, 56\",\"Plaut. Merc. 3, 1, 20\",\"Ter. Heaut. 2, 3, 52\"],\"notas\":\"Unifiquei variantes attestadas (subtēmen, subtemen, subtegmen) e mantive gênero neutro.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_27091-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_27091",
-    "page_num": 27091,
-    "lemmas": [
-      "subtēmen",
-      "subtēmen"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "forma desconhecida; possivelmente corruptela ou forma editorial de perfeito de um verbo (p.ex. 'subtémeno'); não atestada em dicionários principais.",
-    "exemplos": [],
-    "notas": "Mantida a forma da primeira passada por falta de correspondência em fontes; precisa revisão comparativa com o original.\n[ocr_pipeline 2025-08-16T23:18:11.246211Z] lemma_in='subternen' → 'subtēmen' | motivo: match direto em LS por lemma/lemma_norm | [ocr_fix 2025-08-17T01:15:43Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='subtēmen' → 'subtēmen' | [dedupe] redirect → chunk_27090:27090:0 | [dedupe] redirect → chunk_27090:27090:0",
-    "raw_text": "{\"id\":\"chunk_27091:27091:0\",\"lemas\":[\"subternen\"],\"lema_canonico\":\"subternen\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"forma desconhecida; possivelmente corruptela ou forma editorial de perfeito de um verbo (p.ex. 'subtémeno'); não atestada em dicionários principais.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Mantida a forma da primeira passada por falta de correspondência em fontes; precisa revisão comparativa com o original.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_27091:27091:0\",\"lemas\":[\"subternen\"],\"lema_canonico\":\"subternen\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"forma desconhecida; possivelmente corruptela ou forma editorial de perfeito de um verbo (p.ex. 'subtémeno'); não atestada em dicionários principais.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Mantida a forma da primeira passada por falta de correspondência em fontes; precisa revisão comparativa com o original.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
     "id": "chunk_27092-e1",
     "volume_id": "faria",
     "doc_name": "chunk_27092",
@@ -3042,28 +2228,6 @@
     "raw_json": "{\"id\":\"chunk_27094:27094:0\",\"lemas\":[\"subterduco\",\"subterducio\"],\"lema_canonico\":\"subterduco\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"conduzir secretamente, subtrair por debaixo; esquivar‑se (reflexivo).\",\"aliases\":[],\"exemplos\":[\"Plaut. As. 278\",\"Plaut. Mil. 343\"],\"notas\":\"Conjugação ajustada para subterdūcō, subterdūcere, subterdūxī, subterdūctus; substantivo formado: subterducio.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_27095-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_27095",
-    "page_num": 27095,
-    "lemmas": [
-      "subterduco",
-      "subterduco"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "perfecto 'subterduxi': perfeito ativo indicativo 1ª pessoa singular do verbo subterdūcō (subterdūcere) 'unter der Hand entziehen; heimlich wegführen'.",
-    "exemplos": [],
-    "notas": "Baseado em entrada atestada (subterduxi) nos dicionários Lat→Deu; lema colocado no presente/infinitivo canônico. | [dedupe] redirect → chunk_27094:27094:0 | [dedupe] redirect → chunk_27094:27094:0",
-    "raw_text": "{\"id\":\"chunk_27095:27095:0\",\"lemas\":[\"subterduco\",\"subterducere\"],\"lema_canonico\":\"subterduco\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"perfecto 'subterduxi': perfeito ativo indicativo 1ª pessoa singular do verbo subterdūcō (subterdūcere) 'unter der Hand entziehen; heimlich wegführen'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Baseado em entrada atestada (subterduxi) nos dicionários Lat→Deu; lema colocado no presente/infinitivo canônico.\",\"flags\":[\"src_latdeu\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_27095:27095:0\",\"lemas\":[\"subterduco\",\"subterducere\"],\"lema_canonico\":\"subterduco\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"perfecto 'subterduxi': perfeito ativo indicativo 1ª pessoa singular do verbo subterdūcō (subterdūcere) 'unter der Hand entziehen; heimlich wegführen'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Baseado em entrada atestada (subterduxi) nos dicionários Lat→Deu; lema colocado no presente/infinitivo canônico.\",\"flags\":[\"src_latdeu\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_27096-e1",
     "volume_id": "faria",
     "doc_name": "chunk_27096",
@@ -3106,28 +2270,6 @@
     "notas": "Uniformizado conforme Lat→Deu / Whitaker: verbo 3ª -iō com sentido de escapar/evitar.",
     "raw_text": "{\"id\":\"chunk_27097:27097:0\",\"lemas\":[\"subterfugio\",\"subterfugere\"],\"lema_canonico\":\"subterfugio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[],\"definicao\":\"evadir, fugir secretamente; evitar por subterfúgio (subterfugiō, subterfugere, subterfūgī).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Uniformizado conforme Lat→Deu / Whitaker: verbo 3ª -iō com sentido de escapar/evitar.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_27097:27097:0\",\"lemas\":[\"subterfugio\",\"subterfugere\"],\"lema_canonico\":\"subterfugio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[],\"definicao\":\"evadir, fugir secretamente; evitar por subterfúgio (subterfugiō, subterfugere, subterfūgī).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Uniformizado conforme Lat→Deu / Whitaker: verbo 3ª -iō com sentido de escapar/evitar.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_27097-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_27097",
-    "page_num": 27097,
-    "lemmas": [
-      "subterfugio",
-      "subterfugio"
-    ],
-    "morfologia": "v. 3ª -iō (-ere)",
-    "morph_render": "v. 3ª -iō (-ere)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "forma perf./particípio perfeito pass. associada a subterfugio; pode ocorrer como perfeito 1ª sg. (subterfūgī) ou como supino/particípio perfeito dependendo do contexto.",
-    "exemplos": [],
-    "notas": "Lat→Deu atesta tanto subterfūgī (perf. 1sg) como formas derivadas; aqui indicado o particípio perfeito como uso provável editorial. | [dedupe] redirect → chunk_27097:27097:0 | [dedupe] redirect → chunk_27097:27097:0",
-    "raw_text": "{\"id\":\"chunk_27097:27097:1\",\"lemas\":[\"subterfugi\"],\"lema_canonico\":\"subterfugio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"forma perf./particípio perfeito pass. associada a subterfugio; pode ocorrer como perfeito 1ª sg. (subterfūgī) ou como supino/particípio perfeito dependendo do contexto.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Lat→Deu atesta tanto subterfūgī (perf. 1sg) como formas derivadas; aqui indicado o particípio perfeito como uso provável editorial.\",\"flags\":[\"src_latdeu\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_27097:27097:1\",\"lemas\":[\"subterfugi\"],\"lema_canonico\":\"subterfugio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"forma perf./particípio perfeito pass. associada a subterfugio; pode ocorrer como perfeito 1ª sg. (subterfūgī) ou como supino/particípio perfeito dependendo do contexto.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Lat→Deu atesta tanto subterfūgī (perf. 1sg) como formas derivadas; aqui indicado o particípio perfeito como uso provável editorial.\",\"flags\":[\"src_latdeu\",\"conf:med\"]}"
   },
   {
     "id": "chunk_27098-e1",
@@ -3196,28 +2338,6 @@
     "raw_json": "{\"id\":\"chunk_27098:27098:2\",\"lemas\":[\"spectamenta\",\"spectāmenta\",\"spectamentum\"],\"lema_canonico\":\"spectamentum\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"coisas que se contemplam; espectáculos ou objetos vistos (cf. Frontin. Diff. Voc.)\",\"aliases\":[],\"exemplos\":[\"Front. Diff. Voc.\"],\"notas\":\"Treated as plural/derivative of spectamen; attested in LS as spectāmenta.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_27098-e4",
-    "volume_id": "faria",
-    "doc_name": "chunk_27098",
-    "page_num": 27098,
-    "lemmas": [
-      "specto",
-      "specto"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "olhar, ver, observar; contemplar, examinar, considerar",
-    "exemplos": [],
-    "notas": "Verb form and senses aligned with Lewis & Short and Whitaker. | [dedupe] redirect → chunk_26451:26451:0 | [dedupe] redirect → chunk_26451:26451:0",
-    "raw_text": "{\"id\":\"chunk_27098:27098:3\",\"lemas\":[\"specto\",\"spectare\"],\"lema_canonico\":\"specto\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"olhar, ver, observar; contemplar, examinar, considerar\",\"aliases\":[],\"exemplos\":[\"Plaut. Poen. 1,1,81\",\"Cic. Tusc. 1, 19, 44\"],\"notas\":\"Verb form and senses aligned with Lewis & Short and Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_27098:27098:3\",\"lemas\":[\"specto\",\"spectare\"],\"lema_canonico\":\"specto\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"olhar, ver, observar; contemplar, examinar, considerar\",\"aliases\":[],\"exemplos\":[\"Plaut. Poen. 1,1,81\",\"Cic. Tusc. 1, 19, 44\"],\"notas\":\"Verb form and senses aligned with Lewis & Short and Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_27098-e5",
     "volume_id": "faria",
     "doc_name": "chunk_27098",
@@ -3238,50 +2358,6 @@
     "notas": "Entrada do first_pass normalized as suffix; source evidence ambiguous (Lat→Deu shows variant); needs further verification.",
     "raw_text": "{\"id\":\"chunk_27098:27098:4\",\"lemas\":[\"ament\",\"‑ment\"],\"lema_canonico\":\"ament\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"sufixo formador de substantivos (Lat. -mentum), indicando ato, instrumento ou resultado\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada do first_pass normalized as suffix; source evidence ambiguous (Lat→Deu shows variant); needs further verification.\",\"flags\":[\"src_firstpass\",\"src_latdeu\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_27098:27098:4\",\"lemas\":[\"ament\",\"‑ment\"],\"lema_canonico\":\"ament\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"sufixo formador de substantivos (Lat. -mentum), indicando ato, instrumento ou resultado\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada do first_pass normalized as suffix; source evidence ambiguous (Lat→Deu shows variant); needs further verification.\",\"flags\":[\"src_firstpass\",\"src_latdeu\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_27098-e6",
-    "volume_id": "faria",
-    "doc_name": "chunk_27098",
-    "page_num": 27098,
-    "lemmas": [
-      "subterfugio",
-      "subterfugio"
-    ],
-    "morfologia": "v. 3ª -iō (-ere)",
-    "morph_render": "v. 3ª -iō (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "fugir secretamente; esquivar‑se, evitar por artifício",
-    "exemplos": [],
-    "notas": "Unificação das formas/Lemas e normalização à forma clásica subterfugiō; mantida distinção intr./tr. | [dedupe] redirect → chunk_27097:27097:0 | [dedupe] redirect → chunk_27097:27097:0",
-    "raw_text": "{\"id\":\"chunk_27098:27098:5\",\"lemas\":[\"subterfugio\",\"subterfugere\",\"subterfugiō\",\"subterfugi\"],\"lema_canonico\":\"subterfugio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[\"tr.\",\"intr.\"],\"definicao\":\"fugir secretamente; esquivar‑se, evitar por artifício\",\"aliases\":[],\"exemplos\":[\"Plaut. Bac. 771\",\"Cic. Or. 3, 97\"],\"notas\":\"Unificação das formas/Lemas e normalização à forma clásica subterfugiō; mantida distinção intr./tr.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_27098:27098:5\",\"lemas\":[\"subterfugio\",\"subterfugere\",\"subterfugiō\",\"subterfugi\"],\"lema_canonico\":\"subterfugio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[\"tr.\",\"intr.\"],\"definicao\":\"fugir secretamente; esquivar‑se, evitar por artifício\",\"aliases\":[],\"exemplos\":[\"Plaut. Bac. 771\",\"Cic. Or. 3, 97\"],\"notas\":\"Unificação das formas/Lemas e normalização à forma clásica subterfugiō; mantida distinção intr./tr.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_27098-e7",
-    "volume_id": "faria",
-    "doc_name": "chunk_27098",
-    "page_num": 27098,
-    "lemmas": [
-      "subterfugio",
-      "subterfugio"
-    ],
-    "morfologia": "v. 3ª -iō (-ere)",
-    "morph_render": "v. 3ª -iō (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "fugir secretamente; furtar‑se a, evitar, esquivar‑se por artifício",
-    "exemplos": [],
-    "notas": "Entrada em português reconciliada com lemas latinos; acentos/variações corrigidos conforme fontes. | [dedupe] redirect → chunk_27097:27097:0 | [dedupe] redirect → chunk_27097:27097:0",
-    "raw_text": "{\"id\":\"chunk_27098:27098:6\",\"lemas\":[\"subterfugio\",\"subterfugere\",\"subterfugiō\",\"subterfugi\"],\"lema_canonico\":\"subterfugio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[\"tr.\",\"intr.\"],\"definicao\":\"fugir secretamente; furtar‑se a, evitar, esquivar‑se por artifício\",\"aliases\":[],\"exemplos\":[\"Plaut. Bac. 771\",\"Cic. Or. 3, 97\"],\"notas\":\"Entrada em português reconciliada com lemas latinos; acentos/variações corrigidos conforme fontes.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_27098:27098:6\",\"lemas\":[\"subterfugio\",\"subterfugere\",\"subterfugiō\",\"subterfugi\"],\"lema_canonico\":\"subterfugio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[\"tr.\",\"intr.\"],\"definicao\":\"fugir secretamente; furtar‑se a, evitar, esquivar‑se por artifício\",\"aliases\":[],\"exemplos\":[\"Plaut. Bac. 771\",\"Cic. Or. 3, 97\"],\"notas\":\"Entrada em português reconciliada com lemas latinos; acentos/variações corrigidos conforme fontes.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_27099-e1",
@@ -3394,28 +2470,6 @@
     "raw_json": "{\"id\":\"chunk_27103:27103:0\",\"lemas\":[\"subterraneus\",\"subterranea\",\"subterraneum\"],\"lema_canonico\":\"subterraneus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"subterrâneo, que está debaixo da terra\",\"aliases\":[],\"exemplos\":[\"Cic. At. 15, 26, 4\"],\"notas\":\"\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_27104-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_27104",
-    "page_num": 27104,
-    "lemmas": [
-      "sub-texo",
-      "sub-texo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "tecer por baixo, envolver; acrescentar ou aludir por baixo (fig.), colocar abaixo como complemento/adição.",
-    "exemplos": [],
-    "notas": "Conjugação normalizada para subtexō, subtexere, subtexuī, subtextus conforme Whitaker. | [dedupe] redirect → chunk_27107:27107:0 | [dedupe] redirect → chunk_27107:27107:0 | [ocr_fix 2025-08-17T19:55:03Z] match direto em LS por lemma/lemma_norm | lemma_in='subtexo' → 'sub-texo'",
-    "raw_text": "{\"id\":\"chunk_27104:27104:0\",\"lemas\":[\"subtexo\"],\"lema_canonico\":\"subtexo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"tecer por baixo, envolver; acrescentar ou aludir por baixo (fig.), colocar abaixo como complemento/adição.\",\"aliases\":[],\"exemplos\":[\"Cic. Art. 273\"],\"notas\":\"Conjugação normalizada para subtexō, subtexere, subtexuī, subtextus conforme Whitaker.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_27104:27104:0\",\"lemas\":[\"subtexo\"],\"lema_canonico\":\"subtexo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"tecer por baixo, envolver; acrescentar ou aludir por baixo (fig.), colocar abaixo como complemento/adição.\",\"aliases\":[],\"exemplos\":[\"Cic. Art. 273\"],\"notas\":\"Conjugação normalizada para subtexō, subtexere, subtexuī, subtextus conforme Whitaker.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_27105-e1",
     "volume_id": "faria",
     "doc_name": "chunk_27105",
@@ -3480,50 +2534,6 @@
     "notas": "Normalizado a partir do OCR; formas e sentido confirmados por Whitaker e Lat→Deu.",
     "raw_text": "{\"id\":\"chunk_27107:27107:0\",\"lemas\":[\"subtexo\",\"subtexere\",\"subtexui\",\"subtextus\"],\"lema_canonico\":\"subtexo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"Tecer por baixo; cobrir/velar; figurado, acrescentar, inserir, pôr depois.\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 14, 368\",\"Lucr. 5, 466\",\"Verg. En. 3, 582\",\"T. Liv. 37, 68, 6\"],\"notas\":\"Normalizado a partir do OCR; formas e sentido confirmados por Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_27107:27107:0\",\"lemas\":[\"subtexo\",\"subtexere\",\"subtexui\",\"subtextus\"],\"lema_canonico\":\"subtexo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"Tecer por baixo; cobrir/velar; figurado, acrescentar, inserir, pôr depois.\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 14, 368\",\"Lucr. 5, 466\",\"Verg. En. 3, 582\",\"T. Liv. 37, 68, 6\"],\"notas\":\"Normalizado a partir do OCR; formas e sentido confirmados por Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_27108-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_27108",
-    "page_num": 27108,
-    "lemmas": [
-      "subtexo",
-      "subtexo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "tecer por baixo; cobrir por baixo, velar; fig. ocultar, entretecer (ver subtexere).",
-    "exemplos": [],
-    "notas": "Consolidado com formas do Lat→Deu e Whitaker (subtexo, subtexere, subtexui, subtextus). | [dedupe] redirect → chunk_27107:27107:0 | [dedupe] redirect → chunk_27107:27107:0",
-    "raw_text": "{\"id\":\"chunk_27108:27108:0\",\"lemas\":[\"subtexo\",\"subtexere\",\"subtexui\",\"subtextus\"],\"lema_canonico\":\"subtexo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"tecer por baixo; cobrir por baixo, velar; fig. ocultar, entretecer (ver subtexere).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Consolidado com formas do Lat→Deu e Whitaker (subtexo, subtexere, subtexui, subtextus).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_27108:27108:0\",\"lemas\":[\"subtexo\",\"subtexere\",\"subtexui\",\"subtextus\"],\"lema_canonico\":\"subtexo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"tecer por baixo; cobrir por baixo, velar; fig. ocultar, entretecer (ver subtexere).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Consolidado com formas do Lat→Deu e Whitaker (subtexo, subtexere, subtexui, subtextus).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_27108-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_27108",
-    "page_num": 27108,
-    "lemmas": [
-      "subtexo",
-      "subtexo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada redirecionando forma perfeita (subtexi ‹ OCR›) para o lema subtexo; perfeito clássico atestado como subtexui. | [dedupe] redirect → chunk_27107:27107:0 | [dedupe] redirect → chunk_27107:27107:0",
-    "raw_text": "{\"id\":\"chunk_27108:27108:1\",\"lemas\":[\"subtexi\"],\"lema_canonico\":\"subtexo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"subtexo\"],\"exemplos\":[],\"notas\":\"Entrada redirecionando forma perfeita (subtexi ‹ OCR›) para o lema subtexo; perfeito clássico atestado como subtexui.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_27108:27108:1\",\"lemas\":[\"subtexi\"],\"lema_canonico\":\"subtexo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"subtexo\"],\"exemplos\":[],\"notas\":\"Entrada redirecionando forma perfeita (subtexi ‹ OCR›) para o lema subtexo; perfeito clássico atestado como subtexui.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"redirect_only\"]}"
   },
   {
     "id": "chunk_27109-e1",
@@ -3724,28 +2734,6 @@
     "raw_json": "{\"id\":\"chunk_27117:27117:0\",\"lemas\":[\"subtristis\"],\"lema_canonico\":\"subtristis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"um pouco triste, melancólico, sombrio (somewhat sad, gloomy).\",\"aliases\":[],\"exemplos\":[\"Ter. And. 447\"],\"notas\":\"Forma adjetival confirmada; padronizado morfologia segundo Whitaker.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_27118-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_27118",
-    "page_num": 27118,
-    "lemmas": [
-      "sub",
-      "sub"
-    ],
-    "morfologia": "prep. com acc./abl.",
-    "morph_render": "prep. com acc./abl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "sob, debaixo de; até, até perto de (com acc. de movimento; com abl. de posição); também sentido temporal 'durante'",
-    "exemplos": [],
-    "notas": "Entrada tratada como preposição (não apenas prefixo). Amplo suporte em LS e Whitaker. | [dedupe] redirect → chunk_26871:26871:0 | [dedupe] redirect → chunk_26871:26871:0",
-    "raw_text": "{\"id\":\"chunk_27118:27118:0\",\"lemas\":[\"sub\"],\"lema_canonico\":\"sub\",\"morfologia\":\"prep. com acc./abl.\",\"morph_extra\":[],\"definicao\":\"sob, debaixo de; até, até perto de (com acc. de movimento; com abl. de posição); também sentido temporal 'durante'\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada tratada como preposição (não apenas prefixo). Amplo suporte em LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_27118:27118:0\",\"lemas\":[\"sub\"],\"lema_canonico\":\"sub\",\"morfologia\":\"prep. com acc./abl.\",\"morph_extra\":[],\"definicao\":\"sob, debaixo de; até, até perto de (com acc. de movimento; com abl. de posição); também sentido temporal 'durante'\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada tratada como preposição (não apenas prefixo). Amplo suporte em LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_27118-e2",
     "volume_id": "faria",
     "doc_name": "chunk_27118",
@@ -3854,28 +2842,6 @@
     "notas": "Grafia e sentido confirmados por Whitaker e Lat→Deu.",
     "raw_text": "{\"id\":\"chunk_27121:27121:0\",\"lemas\":[\"subturpis\"],\"lema_canonico\":\"subturpis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"somewhat shameful, sordid, repulsive; morally or physically unattractive.\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 2, 261\"],\"notas\":\"Grafia e sentido confirmados por Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_27121:27121:0\",\"lemas\":[\"subturpis\"],\"lema_canonico\":\"subturpis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"somewhat shameful, sordid, repulsive; morally or physically unattractive.\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 2, 261\"],\"notas\":\"Grafia e sentido confirmados por Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_27122-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_27122",
-    "page_num": 27122,
-    "lemmas": [
-      "subtus",
-      "subtus"
-    ],
-    "morfologia": "adv.",
-    "morph_render": "adv.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "below, beneath, underneath; in a lower position.",
-    "exemplos": [],
-    "notas": "Atestado em fontes clássicas; entrada confirmada por Lewis & Short e Whitaker. | [dedupe] redirect → chunk_27123:27123:0 | [dedupe] redirect → chunk_27123:27123:0",
-    "raw_text": "{\"id\":\"chunk_27122:27122:0\",\"lemas\":[\"subtus\"],\"lema_canonico\":\"subtus\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"below, beneath, underneath; in a lower position.\",\"aliases\":[],\"exemplos\":[\"Cato, R. R. 48, 2\",\"T. Liv. 36, 25\",\"Plaut. Cas. 5, 2, 26\"],\"notas\":\"Atestado em fontes clássicas; entrada confirmada por Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_27122:27122:0\",\"lemas\":[\"subtus\"],\"lema_canonico\":\"subtus\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"below, beneath, underneath; in a lower position.\",\"aliases\":[],\"exemplos\":[\"Cato, R. R. 48, 2\",\"T. Liv. 36, 25\",\"Plaut. Cas. 5, 2, 26\"],\"notas\":\"Atestado em fontes clássicas; entrada confirmada por Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_27123-e1",
@@ -4098,50 +3064,6 @@
     "raw_json": "{\"id\":\"chunk_27132:27132:0\",\"lemas\":[\"suburbanus\",\"suburbana\",\"suburbanum\"],\"lema_canonico\":\"suburbanus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"situado perto da cidade; relativo aos subúrbios; por extensão, casa de campo/posse nos arredores (substantivado).\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 16, 13, 1\"],\"notas\":\"Separadas as leituras adjetivais e substantivadas; alinhado com Lat→Deu e Whitaker.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_27133-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_27133",
-    "page_num": 27133,
-    "lemmas": [
-      "suburbanus",
-      "suburbanus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Relativo aos subúrbios; suburbano; também subst. masc. plural: habitantes dos subúrbios",
-    "exemplos": [],
-    "notas": "Unificado com leituras do Whitaker e Lat→Deu; normalizada grafia. | [dedupe] redirect → chunk_27132:27132:0 | [dedupe] redirect → chunk_27132:27132:0",
-    "raw_text": "{\"id\":\"chunk_27133:27133:0\",\"lemas\":[\"suburbanus\"],\"lema_canonico\":\"suburbanus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo aos subúrbios; suburbano; também subst. masc. plural: habitantes dos subúrbios\",\"aliases\":[],\"exemplos\":[\"Cic. Almer. 133\"],\"notas\":\"Unificado com leituras do Whitaker e Lat→Deu; normalizada grafia.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_27133:27133:0\",\"lemas\":[\"suburbanus\"],\"lema_canonico\":\"suburbanus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo aos subúrbios; suburbano; também subst. masc. plural: habitantes dos subúrbios\",\"aliases\":[],\"exemplos\":[\"Cic. Almer. 133\"],\"notas\":\"Unificado com leituras do Whitaker e Lat→Deu; normalizada grafia.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_27134-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_27134",
-    "page_num": 27134,
-    "lemmas": [
-      "Sŭbūra",
-      "Sŭbūra"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "vale/parte baixa entre Esquilino e Viminal; centro de vida noturna; também citado como subúrbio/arredores.",
-    "exemplos": [],
-    "notas": "suburium tratado como variante de Subura; gênero feminino conforme Whitaker/LS. | [dedupe] redirect → chunk_27128:27128:0 | [dedupe] redirect → chunk_27128:27128:0 | [ocr_fix 2025-08-17T19:52:22Z] match direto em LS por lemma/lemma_norm | lemma_in='subura' → 'Sŭbūra'",
-    "raw_text": "{\"id\":\"chunk_27134:27134:0\",\"lemas\":[\"suburium\",\"subura\"],\"lema_canonico\":\"subura\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"vale/parte baixa entre Esquilino e Viminal; centro de vida noturna; também citado como subúrbio/arredores.\",\"aliases\":[],\"exemplos\":[\"Cic. Phil. 12, 24\"],\"notas\":\"suburium tratado como variante de Subura; gênero feminino conforme Whitaker/LS.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_27134:27134:0\",\"lemas\":[\"suburium\",\"subura\"],\"lema_canonico\":\"subura\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"vale/parte baixa entre Esquilino e Viminal; centro de vida noturna; também citado como subúrbio/arredores.\",\"aliases\":[],\"exemplos\":[\"Cic. Phil. 12, 24\"],\"notas\":\"suburium tratado como variante de Subura; gênero feminino conforme Whitaker/LS.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_27135-e1",
     "volume_id": "faria",
     "doc_name": "chunk_27135",
@@ -4184,50 +3106,6 @@
     "notas": "Formas (subūrere, subūrō, subussī, subūstum) atestadas em Lat→Deu; equivalente de uro com prefixo sub-.",
     "raw_text": "{\"id\":\"chunk_27136:27136:0\",\"lemas\":[\"suburo\",\"subūrō\"],\"lema_canonico\":\"suburo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"queimar ligeiramente; to singe, scorch a little.\",\"aliases\":[],\"exemplos\":[\"Suet. Aug. 68\"],\"notas\":\"Formas (subūrere, subūrō, subussī, subūstum) atestadas em Lat→Deu; equivalente de uro com prefixo sub-.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_27136:27136:0\",\"lemas\":[\"suburo\",\"subūrō\"],\"lema_canonico\":\"suburo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"queimar ligeiramente; to singe, scorch a little.\",\"aliases\":[],\"exemplos\":[\"Suet. Aug. 68\"],\"notas\":\"Formas (subūrere, subūrō, subussī, subūstum) atestadas em Lat→Deu; equivalente de uro com prefixo sub-.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_27137-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_27137",
-    "page_num": 27137,
-    "lemmas": [
-      "Sŭbūra",
-      "subura"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "vale entre as colinas Esquilina e Viminal em Roma; distrito famoso pela vida noturna.",
-    "exemplos": [],
-    "notas": "Grafia e acentuação padronizadas para Subura; apoiado por LS e Whitaker. | [dedupe] redirect → chunk_27128:27128:0 | [dedupe] redirect → chunk_27128:27128:0 | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='subura' → 'Sŭbūra'",
-    "raw_text": "{\"id\":\"chunk_27137:27137:0\",\"lemas\":[\"subura\",\"subūra\"],\"lema_canonico\":\"subura\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"vale entre as colinas Esquilina e Viminal em Roma; distrito famoso pela vida noturna.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Grafia e acentuação padronizadas para Subura; apoiado por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_27137:27137:0\",\"lemas\":[\"subura\",\"subūra\"],\"lema_canonico\":\"subura\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"vale entre as colinas Esquilina e Viminal em Roma; distrito famoso pela vida noturna.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Grafia e acentuação padronizadas para Subura; apoiado por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_27137-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_27137",
-    "page_num": 27137,
-    "lemmas": [
-      "suburanus",
-      "suburanus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "relativo ou pertencente à Subura; suburano.",
-    "exemplos": [],
-    "notas": "Adjetivo derivado de Subura; atestado em LS e Whitaker. | [dedupe] redirect → chunk_27129:27129:0 | [dedupe] redirect → chunk_27129:27129:0",
-    "raw_text": "{\"id\":\"chunk_27137:27137:1\",\"lemas\":[\"suburanus\",\"subūrānus\"],\"lema_canonico\":\"suburanus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo ou pertencente à Subura; suburano.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Adjetivo derivado de Subura; atestado em LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_27137:27137:1\",\"lemas\":[\"suburanus\",\"subūrānus\"],\"lema_canonico\":\"suburanus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo ou pertencente à Subura; suburano.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Adjetivo derivado de Subura; atestado em LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_27138-e1",
@@ -4406,28 +3284,6 @@
     "raw_json": "{\"id\":\"chunk_27145:27145:1\",\"lemas\":[\"ulus\",\"ula\",\"ulum\"],\"lema_canonico\":\"ulus\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"sufixo diminutivo latino: -ulus, -ula, -ulum; indica pequena dimensão ou matiz afetivo.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizado a partir de 'ul' como indicação de sufixo; forma apresentada como lemas canônicos do sufixo.\",\"flags\":[\"src_firstpass\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_27145-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_27145",
-    "page_num": 27145,
-    "lemmas": [
-      "vis",
-      "vis"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "força, vigor, poder; violência; geralmente encontrado no singular, com formas irregulares no oblíquo.",
-    "exemplos": [],
-    "notas": "[dedupe] redirect → chunk_17532:17532:3 | [dedupe] redirect → chunk_17532:17532:3",
-    "raw_text": "{\"id\":\"chunk_27145:27145:2\",\"lemas\":[\"vis\"],\"lema_canonico\":\"vis\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"força, vigor, poder; violência; geralmente encontrado no singular, com formas irregulares no oblíquo.\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 1, 70\"],\"notas\":\"\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_27145:27145:2\",\"lemas\":[\"vis\"],\"lema_canonico\":\"vis\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"força, vigor, poder; violência; geralmente encontrado no singular, com formas irregulares no oblíquo.\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 1, 70\"],\"notas\":\"\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_27145-e3",
     "volume_id": "faria",
     "doc_name": "chunk_27145",
@@ -4494,94 +3350,6 @@
     "raw_json": "{\"id\":\"chunk_27146:27146:0\",\"lemas\":[\"subvenio\"],\"lema_canonico\":\"subvenio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"vir em auxílio; ajudar, socorrer; também ocorrer à mente\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Paradigma e sentido ajustados conforme Lat→Deu e Whitaker.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_27147-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_27147",
-    "page_num": 27147,
-    "lemmas": [
-      "subveniō",
-      "subveniō"
-    ],
-    "morfologia": "v. 4ª (-īre)",
-    "morph_render": "v. 4ª (-īre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "to come to the aid of, assist; to occur to the mind",
-    "exemplos": [],
-    "notas": "Forma e sentido confirmados por dicionários; exemplo clássico conservado. | [dedupe] redirect → chunk_27146:27146:0 | [dedupe] redirect → chunk_27146:27146:0",
-    "raw_text": "{\"id\":\"chunk_27147:27147:0\",\"lemas\":[\"subveniō\",\"subvenīre\"],\"lema_canonico\":\"subveniō\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"to come to the aid of, assist; to occur to the mind\",\"aliases\":[],\"exemplos\":[\"Plaut. Men. 1009\"],\"notas\":\"Forma e sentido confirmados por dicionários; exemplo clássico conservado.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_27147:27147:0\",\"lemas\":[\"subveniō\",\"subvenīre\"],\"lema_canonico\":\"subveniō\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"to come to the aid of, assist; to occur to the mind\",\"aliases\":[],\"exemplos\":[\"Plaut. Men. 1009\"],\"notas\":\"Forma e sentido confirmados por dicionários; exemplo clássico conservado.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_27148-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_27148",
-    "page_num": 27148,
-    "lemmas": [
-      "subvenio",
-      "subvenio"
-    ],
-    "morfologia": "v. 4ª (-īre)",
-    "morph_render": "v. 4ª (-īre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "vir em auxílio; socorrer; também: ocorrer à mente",
-    "exemplos": [],
-    "notas": "Formas e acentuação normalizadas conforme fontes (Lat→Deu, Whitaker, LS). | [dedupe] redirect → chunk_27146:27146:0 | [dedupe] redirect → chunk_27146:27146:0",
-    "raw_text": "{\"id\":\"chunk_27148:27148:0\",\"lemas\":[\"subvenio\"],\"lema_canonico\":\"subvenio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"vir em auxílio; socorrer; também: ocorrer à mente\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 31, 74\",\"Cæs. B. Gal. 5, 35\",\"Cic. Fam. 10, 1, 20\",\"Cic. Off. 1, 83\",\"Apul. M. 3, 29\"],\"notas\":\"Formas e acentuação normalizadas conforme fontes (Lat→Deu, Whitaker, LS).\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_27148:27148:0\",\"lemas\":[\"subvenio\"],\"lema_canonico\":\"subvenio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"vir em auxílio; socorrer; também: ocorrer à mente\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 31, 74\",\"Cæs. B. Gal. 5, 35\",\"Cic. Fam. 10, 1, 20\",\"Cic. Off. 1, 83\",\"Apul. M. 3, 29\"],\"notas\":\"Formas e acentuação normalizadas conforme fontes (Lat→Deu, Whitaker, LS).\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_27148-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_27148",
-    "page_num": 27148,
-    "lemmas": [
-      "subvenio",
-      "subvenio"
-    ],
-    "morfologia": "v. 4ª (-īre)",
-    "morph_render": "v. 4ª (-īre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Forma: 1ª pessoa do sing. do pres. ind. act. de subvenio — 'venho em auxílio, socorro'",
-    "exemplos": [],
-    "notas": "Entrada correspondente a forma flexionada (Whitaker). Mantido como referência de forma. | [dedupe] redirect → chunk_27146:27146:0 | [dedupe] redirect → chunk_27146:27146:0",
-    "raw_text": "{\"id\":\"chunk_27148:27148:1\",\"lemas\":[\"subvenio\"],\"lema_canonico\":\"subvenio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"Forma: 1ª pessoa do sing. do pres. ind. act. de subvenio — 'venho em auxílio, socorro'\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada correspondente a forma flexionada (Whitaker). Mantido como referência de forma.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_27148:27148:1\",\"lemas\":[\"subvenio\"],\"lema_canonico\":\"subvenio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"Forma: 1ª pessoa do sing. do pres. ind. act. de subvenio — 'venho em auxílio, socorro'\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada correspondente a forma flexionada (Whitaker). Mantido como referência de forma.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_27149-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_27149",
-    "page_num": 27149,
-    "lemmas": [
-      "subvenio",
-      "subvenio"
-    ],
-    "morfologia": "v. 4ª (-īre)",
-    "morph_render": "v. 4ª (-īre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "vir em socorro de; ajudar, assistir; (fig.) ocorrer à mente",
-    "exemplos": [],
-    "notas": "Participium perfecti passivi: subventus; confirmado por Whitaker e Lat→Deu. | [dedupe] redirect → chunk_27146:27146:0 | [dedupe] redirect → chunk_27146:27146:0",
-    "raw_text": "{\"id\":\"chunk_27149:27149:0\",\"lemas\":[\"subvenio\",\"subventus\"],\"lema_canonico\":\"subvenio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"vir em socorro de; ajudar, assistir; (fig.) ocorrer à mente\",\"aliases\":[],\"exemplos\":[\"Plaut. Rud. 231\"],\"notas\":\"Participium perfecti passivi: subventus; confirmado por Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_27149:27149:0\",\"lemas\":[\"subvenio\",\"subventus\"],\"lema_canonico\":\"subvenio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"vir em socorro de; ajudar, assistir; (fig.) ocorrer à mente\",\"aliases\":[],\"exemplos\":[\"Plaut. Rud. 231\"],\"notas\":\"Participium perfecti passivi: subventus; confirmado por Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_27150-e1",
     "volume_id": "faria",
     "doc_name": "chunk_27150",
@@ -4624,28 +3392,6 @@
     "notas": "Entrada incerta nos recursos consultados; formas normalizadas a partir do material OCR/first_pass; revisão necessária.",
     "raw_text": "{\"id\":\"chunk_27151:27151:0\",\"lemas\":[\"subvereor\",\"subvereri\",\"subveritus\"],\"lema_canonico\":\"subvereor\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"ficar receoso, estar apreensivo (deponente)\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 4, 10, 11\"],\"notas\":\"Entrada incerta nos recursos consultados; formas normalizadas a partir do material OCR/first_pass; revisão necessária.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_27151:27151:0\",\"lemas\":[\"subvereor\",\"subvereri\",\"subveritus\"],\"lema_canonico\":\"subvereor\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"ficar receoso, estar apreensivo (deponente)\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 4, 10, 11\"],\"notas\":\"Entrada incerta nos recursos consultados; formas normalizadas a partir do material OCR/first_pass; revisão necessária.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_27152-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_27152",
-    "page_num": 27152,
-    "lemmas": [
-      "subverto",
-      "subverto"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "derrubar, subverter, arruinar; overthrow, ruin.",
-    "exemplos": [],
-    "notas": "Restaurado o lema verbal correto (subverto, subvertere). Entrada anterior como 'subverso' interpretada como forma relacionada/particípio. | [dedupe] redirect → chunk_27155:27155:1 | [dedupe] redirect → chunk_27155:27155:1",
-    "raw_text": "{\"id\":\"chunk_27152:27152:0\",\"lemas\":[\"subverto\",\"subvertere\"],\"lema_canonico\":\"subverto\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"derrubar, subverter, arruinar; overthrow, ruin.\",\"aliases\":[],\"exemplos\":[\"Plaut. Curc. 4, 1, 23\"],\"notas\":\"Restaurado o lema verbal correto (subverto, subvertere). Entrada anterior como 'subverso' interpretada como forma relacionada/particípio.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_27152:27152:0\",\"lemas\":[\"subverto\",\"subvertere\"],\"lema_canonico\":\"subverto\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"derrubar, subverter, arruinar; overthrow, ruin.\",\"aliases\":[],\"exemplos\":[\"Plaut. Curc. 4, 1, 23\"],\"notas\":\"Restaurado o lema verbal correto (subverto, subvertere). Entrada anterior como 'subverso' interpretada como forma relacionada/particípio.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_27153-e1",
@@ -4692,28 +3438,6 @@
     "raw_json": "{\"id\":\"chunk_27154:27154:0\",\"lemas\":[\"subversus\",\"subversa\",\"subversum\"],\"lema_canonico\":\"subversus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"particípio perfeito passivo de subverto: derrubado, subvertido, destruído.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizada a forma participial conforme LS/Whitaker; mantida sentido passivo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_27155-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_27155",
-    "page_num": 27155,
-    "lemmas": [
-      "subveniō",
-      "subveniō"
-    ],
-    "morfologia": "v. 4ª (-īre)",
-    "morph_render": "v. 4ª (-īre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Vir em auxílio; acudir, socorrer; (fig.) vir ao pensamento, ocorrer.",
-    "exemplos": [],
-    "notas": "Unifiquei forma verbal no infinitivo subveniō (subvenire); incluída a forma partic./freq. subvento como variante. | [dedupe] redirect → chunk_27146:27146:0 | [dedupe] redirect → chunk_27146:27146:0",
-    "raw_text": "{\"id\":\"chunk_27155:27155:0\",\"lemas\":[\"subveniō\",\"subvenio\",\"subvento\"],\"lema_canonico\":\"subveniō\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"Vir em auxílio; acudir, socorrer; (fig.) vir ao pensamento, ocorrer.\",\"aliases\":[],\"exemplos\":[\"Plaut. Rud. 1, 4, 11 (subventa mihi)\"],\"notas\":\"Unifiquei forma verbal no infinitivo subveniō (subvenire); incluída a forma partic./freq. subvento como variante.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_27155:27155:0\",\"lemas\":[\"subveniō\",\"subvenio\",\"subvento\"],\"lema_canonico\":\"subveniō\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"Vir em auxílio; acudir, socorrer; (fig.) vir ao pensamento, ocorrer.\",\"aliases\":[],\"exemplos\":[\"Plaut. Rud. 1, 4, 11 (subventa mihi)\"],\"notas\":\"Unifiquei forma verbal no infinitivo subveniō (subvenire); incluída a forma partic./freq. subvento como variante.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_27155-e2",
     "volume_id": "faria",
     "doc_name": "chunk_27155",
@@ -4734,28 +3458,6 @@
     "notas": "Padronizada a conjugação clássica subverto, subvertere, subverti, subversus; subversus tratado como particípio/adjetivo.",
     "raw_text": "{\"id\":\"chunk_27155:27155:1\",\"lemas\":[\"subverto\",\"subversus\"],\"lema_canonico\":\"subverto\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Tornar de baixo para cima; derrubar, derruir; (fig.) subverter, arruinar, destruir.\",\"aliases\":[],\"exemplos\":[\"Hor. Ep. 1, 10, 43\",\"Sall. Cat. 3, 1\",\"Luc. 5, 1136\"],\"notas\":\"Padronizada a conjugação clássica subverto, subvertere, subverti, subversus; subversus tratado como particípio/adjetivo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_27155:27155:1\",\"lemas\":[\"subverto\",\"subversus\"],\"lema_canonico\":\"subverto\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Tornar de baixo para cima; derrubar, derruir; (fig.) subverter, arruinar, destruir.\",\"aliases\":[],\"exemplos\":[\"Hor. Ep. 1, 10, 43\",\"Sall. Cat. 3, 1\",\"Luc. 5, 1136\"],\"notas\":\"Padronizada a conjugação clássica subverto, subvertere, subverti, subversus; subversus tratado como particípio/adjetivo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_27156-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_27156",
-    "page_num": 27156,
-    "lemmas": [
-      "subveho",
-      "subveho"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "(1ª pessoa sing. perf.) conduzi para cima; velejei rio acima. (forma perfeita: subvexi)",
-    "exemplos": [],
-    "notas": "Identificado como forma perfeita (subvexi) do verbo subveho, subvehere; confirmado por Lat→Deu/Whitaker. | [dedupe] redirect → chunk_27144:27144:0 | [dedupe] redirect → chunk_27144:27144:0",
-    "raw_text": "{\"id\":\"chunk_27156:27156:0\",\"lemas\":[\"subveho\",\"subvehere\"],\"lema_canonico\":\"subveho\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"(1ª pessoa sing. perf.) conduzi para cima; velejei rio acima. (forma perfeita: subvexi)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Identificado como forma perfeita (subvexi) do verbo subveho, subvehere; confirmado por Lat→Deu/Whitaker.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_27156:27156:0\",\"lemas\":[\"subveho\",\"subvehere\"],\"lema_canonico\":\"subveho\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"(1ª pessoa sing. perf.) conduzi para cima; velejei rio acima. (forma perfeita: subvexi)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Identificado como forma perfeita (subvexi) do verbo subveho, subvehere; confirmado por Lat→Deu/Whitaker.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_27157-e1",
@@ -4934,28 +3636,6 @@
     "raw_json": "{\"id\":\"chunk_27164:27164:0\",\"lemas\":[\"succedaneus\",\"succēdānĕus\",\"succīdāneus\",\"succīdānĕus\"],\"lema_canonico\":\"succedaneus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"sucedâneo; que sucede a outro ou serve de substituto\",\"aliases\":[],\"exemplos\":[\"Plaut. Ep. 1, 2, 37\",\"Serv. Verg. A. 2, 140\"],\"notas\":\"Normalizada grafia a partir de LS; incluídas variantes macronizadas do LS.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_27165-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_27165",
-    "page_num": 27165,
-    "lemmas": [
-      "succedo",
-      "succedo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "vir depois; substituir; aproximar-se; suceder; obter êxito (sentidos diversos conforme contexto)",
-    "exemplos": [],
-    "notas": "Normalizada conjugação e formas perfeitas conforme LS/Lat→Deu; classificado como sobretudo intr.; exemplos clássicos selecionados. | [dedupe] redirect → chunk_27163:27163:0 | [dedupe] redirect → chunk_27163:27163:0",
-    "raw_text": "{\"id\":\"chunk_27165:27165:0\",\"lemas\":[\"succedo\",\"succedere\",\"successi\",\"successus\"],\"lema_canonico\":\"succedo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"vir depois; substituir; aproximar-se; suceder; obter êxito (sentidos diversos conforme contexto)\",\"aliases\":[],\"exemplos\":[\"Verg. G. 3, 13\",\"Verg. A. 12, 616\",\"Cic. Verr. 4, 81\"],\"notas\":\"Normalizada conjugação e formas perfeitas conforme LS/Lat→Deu; classificado como sobretudo intr.; exemplos clássicos selecionados.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_27165:27165:0\",\"lemas\":[\"succedo\",\"succedere\",\"successi\",\"successus\"],\"lema_canonico\":\"succedo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"vir depois; substituir; aproximar-se; suceder; obter êxito (sentidos diversos conforme contexto)\",\"aliases\":[],\"exemplos\":[\"Verg. G. 3, 13\",\"Verg. A. 12, 616\",\"Cic. Verr. 4, 81\"],\"notas\":\"Normalizada conjugação e formas perfeitas conforme LS/Lat→Deu; classificado como sobretudo intr.; exemplos clássicos selecionados.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_27166-e1",
     "volume_id": "faria",
     "doc_name": "chunk_27166",
@@ -5088,28 +3768,6 @@
     "raw_json": "{\"id\":\"chunk_27167:27167:2\",\"lemas\":[\"succussio\"],\"lema_canonico\":\"succussio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"ato de sacudir; abalo, tremor (a shaking, quaking).\",\"aliases\":[],\"exemplos\":[\"Sen. Q. N. 6, 21, 2\"],\"notas\":\"Entr. alinhada com Lewis & Short e Whitaker (succussĭo / succussio).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_27168-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_27168",
-    "page_num": 27168,
-    "lemmas": [
-      "succendere",
-      "succendere"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "atear fogo a, incendiar; inflamar por baixo; queimar por baixo",
-    "exemplos": [],
-    "notas": "Verbo 3ª conj., normalizado de OCR; particípio succensus atestado em LS | [dedupe] redirect → chunk_27167:27167:0 | [dedupe] redirect → chunk_27167:27167:0",
-    "raw_text": "{\"id\":\"chunk_27168:27168:0\",\"lemas\":[\"succendere\",\"succendo\",\"succendi\",\"succensus\"],\"lema_canonico\":\"succendere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"atear fogo a, incendiar; inflamar por baixo; queimar por baixo\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Verbo 3ª conj., normalizado de OCR; particípio succensus atestado em LS\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_27168:27168:0\",\"lemas\":[\"succendere\",\"succendo\",\"succendi\",\"succensus\"],\"lema_canonico\":\"succendere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"atear fogo a, incendiar; inflamar por baixo; queimar por baixo\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Verbo 3ª conj., normalizado de OCR; particípio succensus atestado em LS\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_27169-e1",
     "volume_id": "faria",
     "doc_name": "chunk_27169",
@@ -5130,28 +3788,6 @@
     "notas": "Entrada tratada como particípio de succendere; unificada grafia corrigida do OCR",
     "raw_text": "{\"id\":\"chunk_27169:27169:0\",\"lemas\":[\"succensus\"],\"lema_canonico\":\"succensus\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de succendere; 'ateado, inflamado'\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada tratada como particípio de succendere; unificada grafia corrigida do OCR\",\"flags\":[\"src_whitaker\",\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_27169:27169:0\",\"lemas\":[\"succensus\"],\"lema_canonico\":\"succensus\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de succendere; 'ateado, inflamado'\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada tratada como particípio de succendere; unificada grafia corrigida do OCR\",\"flags\":[\"src_whitaker\",\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_27170-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_27170",
-    "page_num": 27170,
-    "lemmas": [
-      "successi",
-      "successi"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:low",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Forma de perfeito de succedo (1ª p. s. perf. ind. act. successī).",
-    "exemplos": [],
-    "notas": "Entrada trata forma flexionada; morfologia padronizada como pertencente ao verbo succedo. Revisão recomendada para adequar ao esquema de lemas. | [dedupe] redirect → chunk_27166:27166:0 | [dedupe] redirect → chunk_27166:27166:0",
-    "raw_text": "{\"id\":\"chunk_27170:27170:0\",\"lemas\":[\"successi\"],\"lema_canonico\":\"successi\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Forma de perfeito de succedo (1ª p. s. perf. ind. act. successī).\",\"aliases\":[\"succēdī\"],\"exemplos\":[],\"notas\":\"Entrada trata forma flexionada; morfologia padronizada como pertencente ao verbo succedo. Revisão recomendada para adequar ao esquema de lemas.\",\"flags\":[\"src_firstpass\",\"src_latdeu\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_27170:27170:0\",\"lemas\":[\"successi\"],\"lema_canonico\":\"successi\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Forma de perfeito de succedo (1ª p. s. perf. ind. act. successī).\",\"aliases\":[\"succēdī\"],\"exemplos\":[],\"notas\":\"Entrada trata forma flexionada; morfologia padronizada como pertencente ao verbo succedo. Revisão recomendada para adequar ao esquema de lemas.\",\"flags\":[\"src_firstpass\",\"src_latdeu\",\"conf:low\",\"needs_review\"]}"
   },
   {
     "id": "chunk_27171-e1",
@@ -5196,94 +3832,6 @@
     "notas": "Confirmado com Lewis & Short; indicação de gênero m./f. implícita no uso.",
     "raw_text": "{\"id\":\"chunk_27172:27172:0\",\"lemas\":[\"successor\"],\"lema_canonico\":\"successor\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Aquele que sucede; seguidor, sucessor em ofício, posse, tempo; substituto\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 13, 51\"],\"notas\":\"Confirmado com Lewis & Short; indicação de gênero m./f. implícita no uso.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_27172:27172:0\",\"lemas\":[\"successor\"],\"lema_canonico\":\"successor\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Aquele que sucede; seguidor, sucessor em ofício, posse, tempo; substituto\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 13, 51\"],\"notas\":\"Confirmado com Lewis & Short; indicação de gênero m./f. implícita no uso.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_27173-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_27173",
-    "page_num": 27173,
-    "lemmas": [
-      "successus",
-      "successus"
-    ],
-    "morfologia": "s. masc. 4ª (-us)",
-    "morph_render": "s. masc. 4ª (-us)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "1) (literal) aproximação, entrada; 2) (transf., post-cláss.) continuação/curso; 3) resultado feliz, sucesso. Também forma do particípio perfeito passivo de succedo.",
-    "exemplos": [],
-    "notas": "Consolida sentidos atestados por Lewis & Short e Whitaker; inclui nota sobre relação com particípio de succedo. | [dedupe] redirect → chunk_27166:27166:1 | [dedupe] redirect → chunk_27166:27166:1",
-    "raw_text": "{\"id\":\"chunk_27173:27173:0\",\"lemas\":[\"successus\"],\"lema_canonico\":\"successus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"1) (literal) aproximação, entrada; 2) (transf., post-cláss.) continuação/curso; 3) resultado feliz, sucesso. Também forma do particípio perfeito passivo de succedo.\",\"aliases\":[],\"exemplos\":[\"Caes. B. G. 2,20\",\"Verg. A. 12,616\"],\"notas\":\"Consolida sentidos atestados por Lewis & Short e Whitaker; inclui nota sobre relação com particípio de succedo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_27173:27173:0\",\"lemas\":[\"successus\"],\"lema_canonico\":\"successus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"1) (literal) aproximação, entrada; 2) (transf., post-cláss.) continuação/curso; 3) resultado feliz, sucesso. Também forma do particípio perfeito passivo de succedo.\",\"aliases\":[],\"exemplos\":[\"Caes. B. G. 2,20\",\"Verg. A. 12,616\"],\"notas\":\"Consolida sentidos atestados por Lewis & Short e Whitaker; inclui nota sobre relação com particípio de succedo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_27174-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_27174",
-    "page_num": 27174,
-    "lemmas": [
-      "succēdānĕus",
-      "succēdānĕus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Que sucede a algo; que serve no lugar de outra coisa; substituto, succedâneo. Também subst. masc. = pessoa ou coisa que substitui outra.",
-    "exemplos": [],
-    "notas": "Normalizada forma scansionada succēdānĕus e variante succīdāneus; entrada abreviada expandida conforme LS. | [dedupe] redirect → chunk_27164:27164:0 | [dedupe] redirect → chunk_27164:27164:0",
-    "raw_text": "{\"id\":\"chunk_27174:27174:0\",\"lemas\":[\"succēdānĕus\",\"succīdāneus\",\"succedaneus\"],\"lema_canonico\":\"succēdānĕus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Que sucede a algo; que serve no lugar de outra coisa; substituto, succedâneo. Também subst. masc. = pessoa ou coisa que substitui outra.\",\"aliases\":[],\"exemplos\":[\"Serv. Verg. A. 2, 140\",\"S. C. ap. Gell. 4, 6, 2\",\"App. M. 8, p. 213, 29\"],\"notas\":\"Normalizada forma scansionada succēdānĕus e variante succīdāneus; entrada abreviada expandida conforme LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_27174:27174:0\",\"lemas\":[\"succēdānĕus\",\"succīdāneus\",\"succedaneus\"],\"lema_canonico\":\"succēdānĕus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Que sucede a algo; que serve no lugar de outra coisa; substituto, succedâneo. Também subst. masc. = pessoa ou coisa que substitui outra.\",\"aliases\":[],\"exemplos\":[\"Serv. Verg. A. 2, 140\",\"S. C. ap. Gell. 4, 6, 2\",\"App. M. 8, p. 213, 29\"],\"notas\":\"Normalizada forma scansionada succēdānĕus e variante succīdāneus; entrada abreviada expandida conforme LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_27175-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_27175",
-    "page_num": 27175,
-    "lemmas": [
-      "succedo",
-      "succedo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "suceder; mover-se para o lugar de; seguir, aproximar‑se; também: prosperar, ter êxito. Paradigma: succedere, successi, successum.",
-    "exemplos": [],
-    "notas": "Incluído paradigma perfeito (successi, successum); perfeito succēdi mencionado como forma do perfeito. | [dedupe] redirect → chunk_27163:27163:0 | [dedupe] redirect → chunk_27163:27163:0",
-    "raw_text": "{\"id\":\"chunk_27175:27175:0\",\"lemas\":[\"succedo\"],\"lema_canonico\":\"succedo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"suceder; mover-se para o lugar de; seguir, aproximar‑se; também: prosperar, ter êxito. Paradigma: succedere, successi, successum.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Incluído paradigma perfeito (successi, successum); perfeito succēdi mencionado como forma do perfeito.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_27175:27175:0\",\"lemas\":[\"succedo\"],\"lema_canonico\":\"succedo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"suceder; mover-se para o lugar de; seguir, aproximar‑se; também: prosperar, ter êxito. Paradigma: succedere, successi, successum.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Incluído paradigma perfeito (successi, successum); perfeito succēdi mencionado como forma do perfeito.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_27176-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_27176",
-    "page_num": 27176,
-    "lemmas": [
-      "succēdere",
-      "succēdere"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "succēdere: seguir, suceder; aproximar‑se, subir; também: resultar, ir bem",
-    "exemplos": [],
-    "notas": "Retificado de perf. confuso; entrada original referia‑se a succēdī (perf.) de succēdere. | [dedupe] redirect → chunk_27166:27166:2 | [dedupe] redirect → chunk_27166:27166:2",
-    "raw_text": "{\"id\":\"chunk_27176:27176:0\",\"lemas\":[\"succēdere\"],\"lema_canonico\":\"succēdere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"succēdere: seguir, suceder; aproximar‑se, subir; também: resultar, ir bem\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Retificado de perf. confuso; entrada original referia‑se a succēdī (perf.) de succēdere.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_27176:27176:0\",\"lemas\":[\"succēdere\"],\"lema_canonico\":\"succēdere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"succēdere: seguir, suceder; aproximar‑se, subir; também: resultar, ir bem\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Retificado de perf. confuso; entrada original referia‑se a succēdī (perf.) de succēdere.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_27177-e1",
@@ -5506,94 +4054,6 @@
     "raw_json": "{\"id\":\"chunk_27185:27185:1\",\"lemas\":[\"succinere\",\"succino\"],\"lema_canonico\":\"succinere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"(intr./tr.) cantar em segunda voz, acompanhar com o próprio canto; também: concordar, responder (chime in).\",\"aliases\":[],\"exemplos\":[\"Hor. Ep. 1, 17, 43\",\"Petr. 69, 41\",\"Pers. 3, 20\"],\"notas\":\"Verbo atestado em Lat→Deu e refletido no OCR; forma sufc. succīnō = 1ª sg. pres.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_27186-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_27186",
-    "page_num": 27186,
-    "lemmas": [
-      "succĭdus",
-      "succĭdus"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "entrada ambígua; leitura do OCR como ‘succīnī, perf. de sucino’ não confirmada por fontes externas. Pode referir-se a forma verbal ou a substantivo relacionado a succinum/succinere.",
-    "exemplos": [],
-    "notas": "OCR indica ‘perf. de sucino’ but authoritative dictionaries list succinere/succinum; não foi possível retificar com segurança.\n[ocr_pipeline 2025-08-16T23:18:14.082499Z] lemma_in='succīnī' → 'succĭdus' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:15:46Z] match direto em LS por lemma/lemma_norm | lemma_in='succĭdus' → 'succĭdus' | [dedupe] redirect → chunk_27178:27178:0 | [dedupe] redirect → chunk_27178:27178:0",
-    "raw_text": "{\"id\":\"chunk_27186:27186:1\",\"lemas\":[\"succīnī\"],\"lema_canonico\":\"succīnī\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"entrada ambígua; leitura do OCR como ‘succīnī, perf. de sucino’ não confirmada por fontes externas. Pode referir-se a forma verbal ou a substantivo relacionado a succinum/succinere.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"OCR indica ‘perf. de sucino’ but authoritative dictionaries list succinere/succinum; não foi possível retificar com segurança.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_27186:27186:1\",\"lemas\":[\"succīnī\"],\"lema_canonico\":\"succīnī\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"entrada ambígua; leitura do OCR como ‘succīnī, perf. de sucino’ não confirmada por fontes externas. Pode referir-se a forma verbal ou a substantivo relacionado a succinum/succinere.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"OCR indica ‘perf. de sucino’ but authoritative dictionaries list succinere/succinum; não foi possível retificar com segurança.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_27186-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_27186",
-    "page_num": 27186,
-    "lemmas": [
-      "succinum",
-      "succinum"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "âmbar (resina fóssil usada como gema e perfume)",
-    "exemplos": [],
-    "notas": "Corrigido de leitura OCR fragmentada; substantivo neutro da 2ª declinação. | [dedupe] redirect → chunk_27185:27185:0 | [dedupe] redirect → chunk_27185:27185:0",
-    "raw_text": "{\"id\":\"chunk_27186:27186:0\",\"lemas\":[\"succinum\"],\"lema_canonico\":\"succinum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"âmbar (resina fóssil usada como gema e perfume)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigido de leitura OCR fragmentada; substantivo neutro da 2ª declinação.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_27186:27186:0\",\"lemas\":[\"succinum\"],\"lema_canonico\":\"succinum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"âmbar (resina fóssil usada como gema e perfume)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigido de leitura OCR fragmentada; substantivo neutro da 2ª declinação.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_27187-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_27187",
-    "page_num": 27187,
-    "lemmas": [
-      "succinum",
-      "succinum"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "âmbar (succínio).",
-    "exemplos": [],
-    "notas": "Normalizada para succinum, att. em Whitaker e Lewis & Short. | [dedupe] redirect → chunk_27185:27185:0 | [dedupe] redirect → chunk_27185:27185:0",
-    "raw_text": "{\"id\":\"chunk_27187:27187:0\",\"lemas\":[\"succinum\"],\"lema_canonico\":\"succinum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"âmbar (succínio).\",\"aliases\":[\"succini\"],\"exemplos\":[],\"notas\":\"Normalizada para succinum, att. em Whitaker e Lewis & Short.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_27187:27187:0\",\"lemas\":[\"succinum\"],\"lema_canonico\":\"succinum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"âmbar (succínio).\",\"aliases\":[\"succini\"],\"exemplos\":[],\"notas\":\"Normalizada para succinum, att. em Whitaker e Lewis & Short.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_27187-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_27187",
-    "page_num": 27187,
-    "lemmas": [
-      "succinere",
-      "succinere"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "1) succinere: cantar junto, acompanhar cantando; 2) succinum: âmbar (subst. neutro) — forma ambígua 'succinī' pode ser infinitivo passivo ou forma nominal dependendo do contexto.",
-    "exemplos": [],
-    "notas": "Entrada ambígua: admite leitura verbal (inf. pass.) e nominal (gen./loc. sing. de succinum). | [dedupe] redirect → chunk_27185:27185:1 | [dedupe] redirect → chunk_27185:27185:1",
-    "raw_text": "{\"id\":\"chunk_27187:27187:1\",\"lemas\":[\"succinere\",\"succinum\"],\"lema_canonico\":\"succinere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"1) succinere: cantar junto, acompanhar cantando; 2) succinum: âmbar (subst. neutro) — forma ambígua 'succinī' pode ser infinitivo passivo ou forma nominal dependendo do contexto.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada ambígua: admite leitura verbal (inf. pass.) e nominal (gen./loc. sing. de succinum).\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_27187:27187:1\",\"lemas\":[\"succinere\",\"succinum\"],\"lema_canonico\":\"succinere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"1) succinere: cantar junto, acompanhar cantando; 2) succinum: âmbar (subst. neutro) — forma ambígua 'succinī' pode ser infinitivo passivo ou forma nominal dependendo do contexto.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada ambígua: admite leitura verbal (inf. pass.) e nominal (gen./loc. sing. de succinum).\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_27187-e3",
     "volume_id": "faria",
     "doc_name": "chunk_27187",
@@ -5614,28 +4074,6 @@
     "notas": "Corresponde às entradas de Lat→Deu e Whitaker para succinō/succinere.",
     "raw_text": "{\"id\":\"chunk_27187:27187:2\",\"lemas\":[\"succinō\",\"succinere\"],\"lema_canonico\":\"succinō\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[],\"definicao\":\"cantar junto, acompanhar cantando; também ‘intercalar, entrar em declaração’ (vocabulário literário).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corresponde às entradas de Lat→Deu e Whitaker para succinō/succinere.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_27187:27187:2\",\"lemas\":[\"succinō\",\"succinere\"],\"lema_canonico\":\"succinō\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[],\"definicao\":\"cantar junto, acompanhar cantando; também ‘intercalar, entrar em declaração’ (vocabulário literário).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corresponde às entradas de Lat→Deu e Whitaker para succinō/succinere.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_27187-e4",
-    "volume_id": "faria",
-    "doc_name": "chunk_27187",
-    "page_num": 27187,
-    "lemmas": [
-      "succinō",
-      "succinō"
-    ],
-    "morfologia": "v. 3ª -iō (-ere)",
-    "morph_render": "v. 3ª -iō (-ere)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "1ª pers. sing. perf. ind. succinī: perfeito de succinō ‘cantar junto, acompanhar’ (leitura preferível ao aparentemente corrompido ‘sucegno’ do OCR).",
-    "exemplos": [],
-    "notas": "Interpretação do fragmento OCR como perfeito de succinō; evita leitura errónea 'sucegno'. | [dedupe] redirect → chunk_27187:27187:2 | [dedupe] redirect → chunk_27187:27187:2",
-    "raw_text": "{\"id\":\"chunk_27187:27187:3\",\"lemas\":[\"succinō\"],\"lema_canonico\":\"succinō\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[],\"definicao\":\"1ª pers. sing. perf. ind. succinī: perfeito de succinō ‘cantar junto, acompanhar’ (leitura preferível ao aparentemente corrompido ‘sucegno’ do OCR).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Interpretação do fragmento OCR como perfeito de succinō; evita leitura errónea 'sucegno'.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_27187:27187:3\",\"lemas\":[\"succinō\"],\"lema_canonico\":\"succinō\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[],\"definicao\":\"1ª pers. sing. perf. ind. succinī: perfeito de succinō ‘cantar junto, acompanhar’ (leitura preferível ao aparentemente corrompido ‘sucegno’ do OCR).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Interpretação do fragmento OCR como perfeito de succinō; evita leitura errónea 'sucegno'.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:med\"]}"
   },
   {
     "id": "chunk_27188-e1",
@@ -5748,28 +4186,6 @@
     "raw_json": "{\"id\":\"chunk_27192:27192:0\",\"lemas\":[\"succresco\",\"succrescō\"],\"lema_canonico\":\"succresco\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"crescer; crescer de novo, renovar‑se; por extensão: suceder, vir a acontecer\",\"aliases\":[],\"exemplos\":[\"Cels. 7, 7, 8\",\"Ov. Met. 9, 352\",\"Cic. De Or. 3, 230\"],\"notas\":\"Formas e sentidos confirmados em Lat→Deu; mantido exemplos da first_pass.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_27193-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_27193",
-    "page_num": 27193,
-    "lemmas": [
-      "succēdō",
-      "succēdō"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:low",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada original é forma perfeita (succēvī). Aqui tratada como redirecionamento para o infinitivo succēdō. | [dedupe] redirect → chunk_27163:27163:0 | [dedupe] redirect → chunk_27163:27163:0",
-    "raw_text": "{\"id\":\"chunk_27193:27193:0\",\"lemas\":[\"succēdō\",\"succedo\"],\"lema_canonico\":\"succēdō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"succēvī\"],\"exemplos\":[],\"notas\":\"Entrada original é forma perfeita (succēvī). Aqui tratada como redirecionamento para o infinitivo succēdō.\",\"flags\":[\"src_firstpass\",\"conf:low\",\"redirect_only\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_27193:27193:0\",\"lemas\":[\"succēdō\",\"succedo\"],\"lema_canonico\":\"succēdō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"succēvī\"],\"exemplos\":[],\"notas\":\"Entrada original é forma perfeita (succēvī). Aqui tratada como redirecionamento para o infinitivo succēdō.\",\"flags\":[\"src_firstpass\",\"conf:low\",\"redirect_only\",\"needs_review\"]}"
-  },
-  {
     "id": "chunk_27194-e1",
     "volume_id": "faria",
     "doc_name": "chunk_27194",
@@ -5793,53 +4209,6 @@
     "notas": "Entrada original era forma perf. ou erro OCR; corrigido para verbo clássico succumbo.",
     "raw_text": "{\"id\":\"chunk_27194:27194:0\",\"lemas\":[\"succumbo\"],\"lema_canonico\":\"succumbo\",\"morfologia\":\"v. 3ª (-ere) intr.\",\"morph_extra\":[],\"definicao\":\"cair sobre; render-se; sucumbir; ceder, morrer (fig.)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada original era forma perf. ou erro OCR; corrigido para verbo clássico succumbo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_27194:27194:0\",\"lemas\":[\"succumbo\"],\"lema_canonico\":\"succumbo\",\"morfologia\":\"v. 3ª (-ere) intr.\",\"morph_extra\":[],\"definicao\":\"cair sobre; render-se; sucumbir; ceder, morrer (fig.)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada original era forma perf. ou erro OCR; corrigido para verbo clássico succumbo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_27195-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_27195",
-    "page_num": 27195,
-    "lemmas": [
-      "succumbo",
-      "succumbo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "deitar-se por baixo; sucumbir, ceder, render-se; cair (também morrer)",
-    "exemplos": [],
-    "notas": "Infinitivo e conjugação ajustados à tradição lexicográfica (Whitaker, Lat→Deu). | [dedupe] redirect → chunk_27194:27194:0 | [dedupe] redirect → chunk_27194:27194:0",
-    "raw_text": "{\"id\":\"chunk_27195:27195:0\",\"lemas\":[\"succumbo\",\"succumbere\"],\"lema_canonico\":\"succumbo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"deitar-se por baixo; sucumbir, ceder, render-se; cair (também morrer)\",\"aliases\":[],\"exemplos\":[\"Catul. 64, 370\",\"Plin. H. Nat. 36, 106\",\"Cic. Plane 82\",\"Cic. De Or. 3, 129\",\"Suet. Aug. 98\"],\"notas\":\"Infinitivo e conjugação ajustados à tradição lexicográfica (Whitaker, Lat→Deu).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_27195:27195:0\",\"lemas\":[\"succumbo\",\"succumbere\"],\"lema_canonico\":\"succumbo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"deitar-se por baixo; sucumbir, ceder, render-se; cair (também morrer)\",\"aliases\":[],\"exemplos\":[\"Catul. 64, 370\",\"Plin. H. Nat. 36, 106\",\"Cic. Plane 82\",\"Cic. De Or. 3, 129\",\"Suet. Aug. 98\"],\"notas\":\"Infinitivo e conjugação ajustados à tradição lexicográfica (Whitaker, Lat→Deu).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_27196-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_27196",
-    "page_num": 27196,
-    "lemmas": [
-      "succurrō",
-      "succurrō"
-    ],
-    "morfologia": "v. 3ª (-ere) intr.",
-    "morph_render": "v. 3ª (-ere) intr.",
-    "morph_extra": [
-      "tr.",
-      "intr."
-    ],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "ir em auxílio, acudir, socorrer; acudir à mente (fig.)",
-    "exemplos": [],
-    "notas": "Primeira-passa deu forma perfeita; lemma restaurado a succurrō (presente) conforme fontes. | [dedupe] redirect → chunk_27197:27197:0 | [dedupe] redirect → chunk_27197:27197:0",
-    "raw_text": "{\"id\":\"chunk_27196:27196:0\",\"lemas\":[\"succurrō\",\"succurrere\"],\"lema_canonico\":\"succurrō\",\"morfologia\":\"v. 3ª (-ere) intr.\",\"morph_extra\":[],\"definicao\":\"ir em auxílio, acudir, socorrer; acudir à mente (fig.)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Primeira-passa deu forma perfeita; lemma restaurado a succurrō (presente) conforme fontes.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_27196:27196:0\",\"lemas\":[\"succurrō\",\"succurrere\"],\"lema_canonico\":\"succurrō\",\"morfologia\":\"v. 3ª (-ere) intr.\",\"morph_extra\":[],\"definicao\":\"ir em auxílio, acudir, socorrer; acudir à mente (fig.)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Primeira-passa deu forma perfeita; lemma restaurado a succurrō (presente) conforme fontes.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_27197-e1",
@@ -5884,27 +4253,5 @@
     "notas": "Corrigida a categoria de supino/substantivo; mantida relação com succurrere.",
     "raw_text": "{\"id\":\"chunk_27198:27198:0\",\"lemas\":[\"succursus\"],\"lema_canonico\":\"succursus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"supino/forma de particípio de succurrere; por vezes usado como substantivo: auxílio, socorro, corrida em auxílio\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigida a categoria de supino/substantivo; mantida relação com succurrere.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_27198:27198:0\",\"lemas\":[\"succursus\"],\"lema_canonico\":\"succursus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"supino/forma de particípio de succurrere; por vezes usado como substantivo: auxílio, socorro, corrida em auxílio\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigida a categoria de supino/substantivo; mantida relação com succurrere.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_27199-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_27199",
-    "page_num": 27199,
-    "lemmas": [
-      "succus",
-      "succus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "suco, seiva; umidade; bebida, poção; vigor, ânimo",
-    "exemplos": [],
-    "notas": "Verificado com Lewis & Short e Whitaker; morfologia ajustada. | [dedupe] redirect → chunk_25479:25479:1 | [dedupe] redirect → chunk_25479:25479:1",
-    "raw_text": "{\"id\":\"chunk_27199:27199:0\",\"lemas\":[\"succus\"],\"lema_canonico\":\"succus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"suco, seiva; umidade; bebida, poção; vigor, ânimo\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Verificado com Lewis & Short e Whitaker; morfologia ajustada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_27199:27199:0\",\"lemas\":[\"succus\"],\"lema_canonico\":\"succus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"suco, seiva; umidade; bebida, poção; vigor, ânimo\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Verificado com Lewis & Short e Whitaker; morfologia ajustada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   }
 ]

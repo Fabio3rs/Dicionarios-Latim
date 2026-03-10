@@ -22,50 +22,6 @@
     "raw_json": "{\"id\":\"chunk_16800:16800:0\",\"lemas\":[\"medicitus\"],\"lema_canonico\":\"medicitus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"(Atestado como substantivo em alguns testemunhos) preparo mágico, feitiço.\",\"aliases\":[],\"exemplos\":[\"Ov. Her. 12, 165\"],\"notas\":\"Attestação como subst. 4ª decl. vem do OCR/first_pass; forma aparece como adj./adv. em Whitaker — necessita verificação adicional.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_16801-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16801",
-    "page_num": 16801,
-    "lemmas": [
-      "medicina",
-      "medicina"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Arte ou prática da medicina; remédio, tratamento; também profissão do médico e, por extensão, poção/remédio.",
-    "exemplos": [],
-    "notas": "Sentidos múltiplos resumidos; correlacionada com medicīna (LS) e entradas adjetivais medicinus/medicus (Whitaker). | [dedupe] redirect → chunk_16798:16798:0 | [dedupe] redirect → chunk_16798:16798:0",
-    "raw_text": "{\"id\":\"chunk_16801:16801:0\",\"lemas\":[\"medicina\"],\"lema_canonico\":\"medicina\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Arte ou prática da medicina; remédio, tratamento; também profissão do médico e, por extensão, poção/remédio.\",\"aliases\":[],\"exemplos\":[\"Cic. Clu. 178\",\"Plaut. Men. 994\",\"Cic. Att. 15, 5, 5\",\"Tac. 6, 579\"],\"notas\":\"Sentidos múltiplos resumidos; correlacionada com medicīna (LS) e entradas adjetivais medicinus/medicus (Whitaker).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_16801:16801:0\",\"lemas\":[\"medicina\"],\"lema_canonico\":\"medicina\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Arte ou prática da medicina; remédio, tratamento; também profissão do médico e, por extensão, poção/remédio.\",\"aliases\":[],\"exemplos\":[\"Cic. Clu. 178\",\"Plaut. Men. 994\",\"Cic. Att. 15, 5, 5\",\"Tac. 6, 579\"],\"notas\":\"Sentidos múltiplos resumidos; correlacionada com medicīna (LS) e entradas adjetivais medicinus/medicus (Whitaker).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_16802-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16802",
-    "page_num": 16802,
-    "lemmas": [
-      "medeor",
-      "medeor"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "to heal, cure; (deponent) to be a means of remedy; takes dative (chiefly), rarely contra or accusative",
-    "exemplos": [],
-    "notas": "Paradigma e regime sintático alinhados com Lewis & Short; marcado como deponente. | [dedupe] redirect → chunk_16787:16787:0 | [dedupe] redirect → chunk_16787:16787:0",
-    "raw_text": "{\"id\":\"chunk_16802:16802:0\",\"lemas\":[\"medeor\",\"medērī\",\"mĕdĕor\"],\"lema_canonico\":\"medeor\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"to heal, cure; (deponent) to be a means of remedy; takes dative (chiefly), rarely contra or accusative\",\"aliases\":[],\"exemplos\":[\"Verg. En. 7, 756\"],\"notas\":\"Paradigma e regime sintático alinhados com Lewis & Short; marcado como deponente.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_16802:16802:0\",\"lemas\":[\"medeor\",\"medērī\",\"mĕdĕor\"],\"lema_canonico\":\"medeor\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"to heal, cure; (deponent) to be a means of remedy; takes dative (chiefly), rarely contra or accusative\",\"aliases\":[],\"exemplos\":[\"Verg. En. 7, 756\"],\"notas\":\"Paradigma e regime sintático alinhados com Lewis & Short; marcado como deponente.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_16803-e1",
     "volume_id": "faria",
     "doc_name": "chunk_16803",
@@ -86,28 +42,6 @@
     "notas": "Entrada tratada como substantivo canónico; forma adjetival (medicus, a, um) atestada nas fontes consultadas.",
     "raw_text": "{\"id\":\"chunk_16803:16803:0\",\"lemas\":[\"medicus\"],\"lema_canonico\":\"medicus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"1) médico, doutor; 2) adj.: medicinal, curativo; também usado para 'quarto dedo' (o próximo ao mínimo)\",\"aliases\":[],\"exemplos\":[\"Ov. Trist. 5, 6, 12\",\"Sil. 3, 300\"],\"notas\":\"Entrada tratada como substantivo canónico; forma adjetival (medicus, a, um) atestada nas fontes consultadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_16803:16803:0\",\"lemas\":[\"medicus\"],\"lema_canonico\":\"medicus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"1) médico, doutor; 2) adj.: medicinal, curativo; também usado para 'quarto dedo' (o próximo ao mínimo)\",\"aliases\":[],\"exemplos\":[\"Ov. Trist. 5, 6, 12\",\"Sil. 3, 300\"],\"notas\":\"Entrada tratada como substantivo canónico; forma adjetival (medicus, a, um) atestada nas fontes consultadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_16804-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16804",
-    "page_num": 16804,
-    "lemmas": [
-      "medicus",
-      "medicus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Médico, cirurgião; por extensão, aquele que pratica a medicina. Também usado adjetivalmente 'medicinal' e na locução digitus medicus (o quarto dedo).",
-    "exemplos": [],
-    "notas": "Citação padronizada para Cicero; sentidos adjetival e fraseológicos acrescentados com base em LS. | [dedupe] redirect → chunk_16803:16803:0 | [dedupe] redirect → chunk_16803:16803:0",
-    "raw_text": "{\"id\":\"chunk_16804:16804:0\",\"lemas\":[\"medicus\"],\"lema_canonico\":\"medicus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Médico, cirurgião; por extensão, aquele que pratica a medicina. Também usado adjetivalmente 'medicinal' e na locução digitus medicus (o quarto dedo).\",\"aliases\":[],\"exemplos\":[\"Cic. Clu. 21, 57\"],\"notas\":\"Citação padronizada para Cicero; sentidos adjetival e fraseológicos acrescentados com base em LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_16804:16804:0\",\"lemas\":[\"medicus\"],\"lema_canonico\":\"medicus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Médico, cirurgião; por extensão, aquele que pratica a medicina. Também usado adjetivalmente 'medicinal' e na locução digitus medicus (o quarto dedo).\",\"aliases\":[],\"exemplos\":[\"Cic. Clu. 21, 57\"],\"notas\":\"Citação padronizada para Cicero; sentidos adjetival e fraseológicos acrescentados com base em LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_16805-e1",
@@ -484,28 +418,6 @@
     "raw_json": "{\"id\":\"chunk_16819:16819:1\",\"lemas\":[\"meditor\"],\"lema_canonico\":\"meditor\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"Verbo deponente ‘meditārī’: pensar, meditar, considerar; também ensaiar, preparar; constrói-se com acc., de, ad, inf., etc.\",\"aliases\":[],\"exemplos\":[\"Plaut. Stich. 2, 1, 34\",\"Cic. Fam. 2, 5, 2\"],\"notas\":\"Registro deponente e usos principais conforme Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_16820-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16820",
-    "page_num": 16820,
-    "lemmas": [
-      "meditor",
-      "meditor"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "verbo deponente: refletir, meditar, considerar; também: ensaiar, preparar, maquinar; constrói-se com acc., de, ad, inf., ou abs.",
-    "exemplos": [],
-    "notas": "Forma deponente atestada; unifiquei infinitivo meditārī como variante canónica. Verificado em LS e Lat→Deu. | [dedupe] redirect → chunk_16819:16819:1 | [dedupe] redirect → chunk_16819:16819:1",
-    "raw_text": "{\"id\":\"chunk_16820:16820:0\",\"lemas\":[\"meditor\",\"meditārī\"],\"lema_canonico\":\"meditor\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"verbo deponente: refletir, meditar, considerar; também: ensaiar, preparar, maquinar; constrói-se com acc., de, ad, inf., ou abs.\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 1, 32\",\"Cic. Af. 5, 21, 13\",\"Cic. Cat. 1, 22\"],\"notas\":\"Forma deponente atestada; unifiquei infinitivo meditārī como variante canónica. Verificado em LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_16820:16820:0\",\"lemas\":[\"meditor\",\"meditārī\"],\"lema_canonico\":\"meditor\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"verbo deponente: refletir, meditar, considerar; também: ensaiar, preparar, maquinar; constrói-se com acc., de, ad, inf., ou abs.\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 1, 32\",\"Cic. Af. 5, 21, 13\",\"Cic. Cat. 1, 22\"],\"notas\":\"Forma deponente atestada; unifiquei infinitivo meditārī como variante canónica. Verificado em LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_16821-e1",
     "volume_id": "faria",
     "doc_name": "chunk_16821",
@@ -592,50 +504,6 @@
     "notas": "Substantivo confirmado em LS/Whitaker; forma nominal indicada separadamente.",
     "raw_text": "{\"id\":\"chunk_16823:16823:1\",\"lemas\":[\"medius\"],\"lema_canonico\":\"medius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Substantivo: aquele que está no meio; mediador, intérprete, intermediário; também: intermédio, meio (agente ou coisa que media).\",\"aliases\":[],\"exemplos\":[\"Verg. A. 7, 536\",\"Sil. 16, 222\",\"Hor. C. 2, 19, 28\",\"Ov. R. Am. 678\"],\"notas\":\"Substantivo confirmado em LS/Whitaker; forma nominal indicada separadamente.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_16823:16823:1\",\"lemas\":[\"medius\"],\"lema_canonico\":\"medius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Substantivo: aquele que está no meio; mediador, intérprete, intermediário; também: intermédio, meio (agente ou coisa que media).\",\"aliases\":[],\"exemplos\":[\"Verg. A. 7, 536\",\"Sil. 16, 222\",\"Hor. C. 2, 19, 28\",\"Ov. R. Am. 678\"],\"notas\":\"Substantivo confirmado em LS/Whitaker; forma nominal indicada separadamente.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_16823-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_16823",
-    "page_num": 16823,
-    "lemmas": [
-      "medium",
-      "medium"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Substantivo neutro: o meio, o centro; a parte central de algo; também usado para intervalo temporal ou posição intermédia.",
-    "exemplos": [],
-    "notas": "Separada do advérbio (medie); forma e gênero confirmados por Lewis & Short e Lat→Deu. | [dedupe] redirect → chunk_16822:16822:0 | [dedupe] redirect → chunk_16822:16822:0",
-    "raw_text": "{\"id\":\"chunk_16823:16823:2\",\"lemas\":[\"medium\"],\"lema_canonico\":\"medium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Substantivo neutro: o meio, o centro; a parte central de algo; também usado para intervalo temporal ou posição intermédia.\",\"aliases\":[],\"exemplos\":[\"Liv. 1, 57, 9\",\"Verg. G. 3, 486\",\"Tac. A. 13, 28\",\"Plin. Ep. 7, 27, 13\"],\"notas\":\"Separada do advérbio (medie); forma e gênero confirmados por Lewis & Short e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_16823:16823:2\",\"lemas\":[\"medium\"],\"lema_canonico\":\"medium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Substantivo neutro: o meio, o centro; a parte central de algo; também usado para intervalo temporal ou posição intermédia.\",\"aliases\":[],\"exemplos\":[\"Liv. 1, 57, 9\",\"Verg. G. 3, 486\",\"Tac. A. 13, 28\",\"Plin. Ep. 7, 27, 13\"],\"notas\":\"Separada do advérbio (medie); forma e gênero confirmados por Lewis & Short e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_16824-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16824",
-    "page_num": 16824,
-    "lemmas": [
-      "medius",
-      "medius"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "do meio, médio; também: no sentido de ‘intermediário’ ou ‘mediante’; em uso substantivado pode significar ‘aquele que está no meio, mediador’",
-    "exemplos": [],
-    "notas": "Escolhida a classificação adjetival (LS/Whitaker); menção do uso substantivado incluída na definição. | [dedupe] redirect → chunk_16823:16823:0 | [dedupe] redirect → chunk_16823:16823:0",
-    "raw_text": "{\"id\":\"chunk_16824:16824:0\",\"lemas\":[\"medius\",\"medium\"],\"lema_canonico\":\"medius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"do meio, médio; também: no sentido de ‘intermediário’ ou ‘mediante’; em uso substantivado pode significar ‘aquele que está no meio, mediador’\",\"aliases\":[],\"exemplos\":[\"Verg. En. 7, 356\",\"Cic. Rep. 6, 18\"],\"notas\":\"Escolhida a classificação adjetival (LS/Whitaker); menção do uso substantivado incluída na definição.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_16824:16824:0\",\"lemas\":[\"medius\",\"medium\"],\"lema_canonico\":\"medius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"do meio, médio; também: no sentido de ‘intermediário’ ou ‘mediante’; em uso substantivado pode significar ‘aquele que está no meio, mediador’\",\"aliases\":[],\"exemplos\":[\"Verg. En. 7, 356\",\"Cic. Rep. 6, 18\"],\"notas\":\"Escolhida a classificação adjetival (LS/Whitaker); menção do uso substantivado incluída na definição.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_16824-e2",
@@ -814,28 +682,6 @@
     "raw_json": "{\"id\":\"chunk_16831:16831:0\",\"lemas\":[\"medullula\",\"medullulae\"],\"lema_canonico\":\"medullula\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"medullula: medula; parte interna, tutano, essência.\",\"aliases\":[],\"exemplos\":[\"Catul. 25, 2\"],\"notas\":\"Normalizado grafia e declinação conforme Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_16832-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16832",
-    "page_num": 16832,
-    "lemmas": [
-      "medius",
-      "medius"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "que está no meio; do meio, central; mediano, moderado; também: adv. medie; como substantivo, o meio, o centro; também 'mediador' em sentido transitivo",
-    "exemplos": [],
-    "notas": "Definição alinhada com Lewis & Short, Whitaker e Lat→Deu | [dedupe] redirect → chunk_16823:16823:0 | [dedupe] redirect → chunk_16823:16823:0",
-    "raw_text": "{\"id\":\"chunk_16832:16832:0\",\"lemas\":[\"medius\",\"media\",\"medium\"],\"lema_canonico\":\"medius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"que está no meio; do meio, central; mediano, moderado; também: adv. medie; como substantivo, o meio, o centro; também 'mediador' em sentido transitivo\",\"aliases\":[],\"exemplos\":[\"Cic. Rep. 6, 18\",\"Verg. A. 7, 169\",\"Ov. Am. 2, 16, 13\"],\"notas\":\"Definição alinhada com Lewis & Short, Whitaker e Lat→Deu\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_16832:16832:0\",\"lemas\":[\"medius\",\"media\",\"medium\"],\"lema_canonico\":\"medius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"que está no meio; do meio, central; mediano, moderado; também: adv. medie; como substantivo, o meio, o centro; também 'mediador' em sentido transitivo\",\"aliases\":[],\"exemplos\":[\"Cic. Rep. 6, 18\",\"Verg. A. 7, 169\",\"Ov. Am. 2, 16, 13\"],\"notas\":\"Definição alinhada com Lewis & Short, Whitaker e Lat→Deu\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_16833-e1",
     "volume_id": "faria",
     "doc_name": "chunk_16833",
@@ -1012,28 +858,6 @@
     "raw_json": "{\"id\":\"chunk_16839:16839:1\",\"lemas\":[\"asa\"],\"lema_canonico\":\"asa\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[\"form: loc./dat./abl. pl. -īs\"],\"definicao\":\"Substantivo feminino da 1ª declinação; altar, pira; santuário; casa; refúgio, abrigo.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada reconcilia a forma desinencial 'āsīs'/'-īs' (loc./dat./abl. pl.) com o lema asa; baseada em Whitaker e no material de primeira passada.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"src_ocr\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_16839-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_16839",
-    "page_num": 16839,
-    "lemmas": [
-      "āsa",
-      "āsa"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Substantivo feminino da 1ª declinação: altar, estrutura para sacrifício; pira; santuário; casa; refúgio, abrigo.",
-    "exemplos": [],
-    "notas": "Normalizado a partir de Whitaker; genitivo asa(e) apresentado como variante em fontes lexicográficas. | [dedupe] redirect → chunk_16839:16839:1 | [dedupe] redirect → chunk_16839:16839:1 | [ocr_fix 2025-08-17T19:58:43Z] match direto em LS por lemma/lemma_norm | lemma_in='asa' → 'āsa'",
-    "raw_text": "{\"id\":\"chunk_16839:16839:2\",\"lemas\":[\"asa\"],\"lema_canonico\":\"asa\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Substantivo feminino da 1ª declinação: altar, estrutura para sacrifício; pira; santuário; casa; refúgio, abrigo.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizado a partir de Whitaker; genitivo asa(e) apresentado como variante em fontes lexicográficas.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_16839:16839:2\",\"lemas\":[\"asa\"],\"lema_canonico\":\"asa\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Substantivo feminino da 1ª declinação: altar, estrutura para sacrifício; pira; santuário; casa; refúgio, abrigo.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizado a partir de Whitaker; genitivo asa(e) apresentado como variante em fontes lexicográficas.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_16840-e1",
     "volume_id": "faria",
     "doc_name": "chunk_16840",
@@ -1122,28 +946,6 @@
     "raw_json": "{\"id\":\"chunk_16843:16843:0\",\"lemas\":[\"Megara\"],\"lema_canonico\":\"Megara\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Mégara; cidade (Grécia) e também topónimo siciliano\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 1, 27, 57\",\"T. Liv. 24, 30\"],\"notas\":\"Corroborado por Lewis & Short; forma unificada e referências expandidas.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_16844-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16844",
-    "page_num": 16844,
-    "lemmas": [
-      "Mĕgăra",
-      "Mĕgăra"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Megara (cidade da Sicília); Megaréia.",
-    "exemplos": [],
-    "notas": "Forma atestada em LS; tratado como topónimo; normalizei variante 'Megarēa' → 'Megara'. | [dedupe] redirect → chunk_16843:16843:0 | [dedupe] redirect → chunk_16843:16843:0 | [ocr_fix 2025-08-17T19:50:01Z] match direto em LS por lemma/lemma_norm | lemma_in='Megara' → 'Mĕgăra'",
-    "raw_text": "{\"id\":\"chunk_16844:16844:0\",\"lemas\":[\"Megarēa\",\"Megara\"],\"lema_canonico\":\"Megara\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Megara (cidade da Sicília); Megaréia.\",\"aliases\":[],\"exemplos\":[\"Ov. F. 4, 471\"],\"notas\":\"Forma atestada em LS; tratado como topónimo; normalizei variante 'Megarēa' → 'Megara'.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_16844:16844:0\",\"lemas\":[\"Megarēa\",\"Megara\"],\"lema_canonico\":\"Megara\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Megara (cidade da Sicília); Megaréia.\",\"aliases\":[],\"exemplos\":[\"Ov. F. 4, 471\"],\"notas\":\"Forma atestada em LS; tratado como topónimo; normalizei variante 'Megarēa' → 'Megara'.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_16845-e1",
     "volume_id": "faria",
     "doc_name": "chunk_16845",
@@ -1186,28 +988,6 @@
     "notas": "Corresponde ao étimo e ocorrências em Ovídio segundo LS; corrijo genitivo para 2ª decl. | [ocr_fix 2025-08-17T19:50:01Z] match direto em LS por lemma/lemma_norm | lemma_in='Megareus' → 'Mĕgărēus'",
     "raw_text": "{\"id\":\"chunk_16846:16846:0\",\"lemas\":[\"Megăreus\",\"Megareus\"],\"lema_canonico\":\"Megareus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Megareus, filho de Netuno (nome próprio masculino).\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 10, 605\",\"Ov. M. 10, 659\"],\"notas\":\"Corresponde ao étimo e ocorrências em Ovídio segundo LS; corrijo genitivo para 2ª decl.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_16846:16846:0\",\"lemas\":[\"Megăreus\",\"Megareus\"],\"lema_canonico\":\"Megareus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Megareus, filho de Netuno (nome próprio masculino).\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 10, 605\",\"Ov. M. 10, 659\"],\"notas\":\"Corresponde ao étimo e ocorrências em Ovídio segundo LS; corrijo genitivo para 2ª decl.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_16847-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16847",
-    "page_num": 16847,
-    "lemmas": [
-      "Mĕgărēus",
-      "Mĕgărēus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "De ou relativo a Megara; Megareano.",
-    "exemplos": [],
-    "notas": "Adjetivo clássico atestado em LS (distinto do antropónimo Megăreus). | [dedupe] redirect → chunk_16845:16845:0 | [dedupe] redirect → chunk_16845:16845:0 | [ocr_fix 2025-08-17T19:50:01Z] match direto em LS por lemma/lemma_norm | lemma_in='Megarēus' → 'Mĕgărēus'",
-    "raw_text": "{\"id\":\"chunk_16847:16847:0\",\"lemas\":[\"Megarēus\",\"Megareus\"],\"lema_canonico\":\"Megarēus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"De ou relativo a Megara; Megareano.\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 1, 8, 2\",\"Cic. Ac. 2, 129\"],\"notas\":\"Adjetivo clássico atestado em LS (distinto do antropónimo Megăreus).\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_16847:16847:0\",\"lemas\":[\"Megarēus\",\"Megareus\"],\"lema_canonico\":\"Megarēus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"De ou relativo a Megara; Megareano.\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 1, 8, 2\",\"Cic. Ac. 2, 129\"],\"notas\":\"Adjetivo clássico atestado em LS (distinto do antropónimo Megăreus).\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
     "id": "chunk_16848-e1",
@@ -1628,28 +1408,6 @@
     "raw_json": "{\"id\":\"chunk_16862:16862:0\",\"lemas\":[\"Melaneus\",\"Mĕlăneus\"],\"lema_canonico\":\"Melaneus\",\"morfologia\":\"s. masc. 5ª (-ei)\",\"morph_extra\":[],\"definicao\":\"Nome próprio masculino: 1) nome de um centauro (Ov. Met. 12, 306). 2) nome de um cão (Ov. Met. 3, 223).\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 12, 306\",\"Ov. Met. 3, 223\"],\"notas\":\"Correlacionado com Lewis & Short (Mĕlăneus). Ajustada grafia e referências conforme LS.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_16863-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16863",
-    "page_num": 16863,
-    "lemmas": [
-      "Mĕlampūs",
-      "Mĕlampūs"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Nome próprio masculino (Melampus): várias figuras mitológicas e literárias — ex.: filho de Amythaon, adivinho; também nome de outro personagem e de um cão em diversas obras clássicas.",
-    "exemplos": [],
-    "notas": "Conferido e normalizado segundo Lewis & Short; inclui várias ocorrências literárias. | [dedupe] redirect → chunk_16858:16858:0 | [dedupe] redirect → chunk_16858:16858:0 | [ocr_fix 2025-08-17T19:58:45Z] match direto em LS por lemma/lemma_norm | lemma_in='melampus' → 'Mĕlampūs'",
-    "raw_text": "{\"id\":\"chunk_16863:16863:0\",\"lemas\":[\"melampus\",\"Melampus\"],\"lema_canonico\":\"melampus\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Nome próprio masculino (Melampus): várias figuras mitológicas e literárias — ex.: filho de Amythaon, adivinho; também nome de outro personagem e de um cão em diversas obras clássicas.\",\"aliases\":[],\"exemplos\":[\"Cic. Leg. 2, 13, 33\",\"Verg. G. 3, 550\",\"Stat. Th. 3, 452\",\"Cic. N. D. 3, 21, 53\",\"Ov. M. 3, 206\"],\"notas\":\"Conferido e normalizado segundo Lewis & Short; inclui várias ocorrências literárias.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_16863:16863:0\",\"lemas\":[\"melampus\",\"Melampus\"],\"lema_canonico\":\"melampus\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Nome próprio masculino (Melampus): várias figuras mitológicas e literárias — ex.: filho de Amythaon, adivinho; também nome de outro personagem e de um cão em diversas obras clássicas.\",\"aliases\":[],\"exemplos\":[\"Cic. Leg. 2, 13, 33\",\"Verg. G. 3, 550\",\"Stat. Th. 3, 452\",\"Cic. N. D. 3, 21, 53\",\"Ov. M. 3, 206\"],\"notas\":\"Conferido e normalizado segundo Lewis & Short; inclui várias ocorrências literárias.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_16864-e1",
     "volume_id": "faria",
     "doc_name": "chunk_16864",
@@ -1738,28 +1496,6 @@
     "raw_json": "{\"id\":\"chunk_16867:16867:0\",\"lemas\":[\"Melanthide\"],\"lema_canonico\":\"Melanthide\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Nome próprio feminino: filha de Proteu (Ov. Met. 6, 120).\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 6, 120\"],\"notas\":\"Grafia normalizada de Melanthīdĕ → Melanthide; mantida leitura do primeiro passe.\",\"flags\":[\"src_firstpass\",\"conf:low\"]}"
   },
   {
-    "id": "chunk_16868-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16868",
-    "page_num": 16868,
-    "lemmas": [
-      "Mĕlanthĭus",
-      "Mĕlanthĭus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Nome próprio masculino: Melanthius — o cabreiro de Ulisses (Ov. H. 1, 95); também nome de um pintor célebre citado por Plínio.",
-    "exemplos": [],
-    "notas": "Restabelecido como substantivo próprio de 2ª declinação conforme Lewis & Short (Mĕlanthĭus, ii). | [dedupe] redirect → chunk_16866:16866:0 | [dedupe] redirect → chunk_16866:16866:0 | [ocr_fix 2025-08-17T19:58:47Z] match direto em LS por lemma/lemma_norm | lemma_in='Melanthius' → 'Mĕlanthĭus'",
-    "raw_text": "{\"id\":\"chunk_16868:16868:0\",\"lemas\":[\"Melanthius\"],\"lema_canonico\":\"Melanthius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Nome próprio masculino: Melanthius — o cabreiro de Ulisses (Ov. H. 1, 95); também nome de um pintor célebre citado por Plínio.\",\"aliases\":[],\"exemplos\":[\"Ov. H. 1, 95\",\"Plin. Nat. 35, 7\",\"Plin. Nat. 35, 10\"],\"notas\":\"Restabelecido como substantivo próprio de 2ª declinação conforme Lewis & Short (Mĕlanthĭus, ii).\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_16868:16868:0\",\"lemas\":[\"Melanthius\"],\"lema_canonico\":\"Melanthius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Nome próprio masculino: Melanthius — o cabreiro de Ulisses (Ov. H. 1, 95); também nome de um pintor célebre citado por Plínio.\",\"aliases\":[],\"exemplos\":[\"Ov. H. 1, 95\",\"Plin. Nat. 35, 7\",\"Plin. Nat. 35, 10\"],\"notas\":\"Restabelecido como substantivo próprio de 2ª declinação conforme Lewis & Short (Mĕlanthĭus, ii).\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_16869-e1",
     "volume_id": "faria",
     "doc_name": "chunk_16869",
@@ -1824,28 +1560,6 @@
     "notas": "Entrada plural/gentílica no OCR; morfologia pluralizada e etimologia precisam de revisão; marcado para verificação.",
     "raw_text": "{\"id\":\"chunk_16871:16871:0\",\"lemas\":[\"Meloi\"],\"lema_canonico\":\"Meloi\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Nome de povo (gentílico plural) possivelmente equivalente aos Meldos, citado em César.\",\"aliases\":[],\"exemplos\":[\"Cés. B. Gal. 5, 5, 1\"],\"notas\":\"Entrada plural/gentílica no OCR; morfologia pluralizada e etimologia precisam de revisão; marcado para verificação.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"needs_review\",\"morph_out_of_vocab\",\"conf:low\"]}",
     "raw_json": "{\"id\":\"chunk_16871:16871:0\",\"lemas\":[\"Meloi\"],\"lema_canonico\":\"Meloi\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Nome de povo (gentílico plural) possivelmente equivalente aos Meldos, citado em César.\",\"aliases\":[],\"exemplos\":[\"Cés. B. Gal. 5, 5, 1\"],\"notas\":\"Entrada plural/gentílica no OCR; morfologia pluralizada e etimologia precisam de revisão; marcado para verificação.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"needs_review\",\"morph_out_of_vocab\",\"conf:low\"]}"
-  },
-  {
-    "id": "chunk_16872-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16872",
-    "page_num": 16872,
-    "lemmas": [
-      "me",
-      "me"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "me: pron. pessoal (acc. et abl. sing.); lex: substantivo fem. 'lei, projeto de lei' (lex, lēgis, f.).",
-    "exemplos": [],
-    "notas": "Entrada confluiu duas entradas distintas no OCR; 'me' (pron.) e 'lex' (f., 3ª decl.) separadas no conteúdo, mas mantidas juntas aqui; revisar morfologia combinada. | [dedupe] redirect → chunk_5679:5679:1 | [dedupe] redirect → chunk_5679:5679:1",
-    "raw_text": "{\"id\":\"chunk_16872:16872:0\",\"lemas\":[\"me\",\"lex\"],\"lema_canonico\":\"me\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"me: pron. pessoal (acc. et abl. sing.); lex: substantivo fem. 'lei, projeto de lei' (lex, lēgis, f.).\",\"aliases\":[\"lex\"],\"exemplos\":[],\"notas\":\"Entrada confluiu duas entradas distintas no OCR; 'me' (pron.) e 'lex' (f., 3ª decl.) separadas no conteúdo, mas mantidas juntas aqui; revisar morfologia combinada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_16872:16872:0\",\"lemas\":[\"me\",\"lex\"],\"lema_canonico\":\"me\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"me: pron. pessoal (acc. et abl. sing.); lex: substantivo fem. 'lei, projeto de lei' (lex, lēgis, f.).\",\"aliases\":[\"lex\"],\"exemplos\":[],\"notas\":\"Entrada confluiu duas entradas distintas no OCR; 'me' (pron.) e 'lex' (f., 3ª decl.) separadas no conteúdo, mas mantidas juntas aqui; revisar morfologia combinada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"needs_review\"]}"
   },
   {
     "id": "chunk_16873-e1",
@@ -2068,28 +1782,6 @@
     "raw_json": "{\"id\":\"chunk_16882:16882:0\",\"lemas\":[\"Melecrates\"],\"lema_canonico\":\"Melecrates\",\"morfologia\":\"s. masc. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Melecrates, nome próprio masculino; filho de Atamas (Atamante) e Ino, transformado em deus marinho (Ov. Met. 4, 522).\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 4, 522\"],\"notas\":\"Mantido conforme primeira passada/OCR; forma e posição pouco atestadas em dicionários principais.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_16883-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16883",
-    "page_num": 16883,
-    "lemmas": [
-      "mĕlĭus",
-      "mĕlĭus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "(Entrada incerta) A primeira passada atribui a 'melius' significados ligados a música/lírico; entretanto, as grandes fontes registram 'mēlius' como adv. (comp. de bonus) e formas topónimas (Mēlĭus). Não foi possível confirmar seguro uso adjetival com sentidos musicais.",
-    "exemplos": [],
-    "notas": "Sentido musical/lírico não confirmado em LS/Whitaker; mantido conteúdo da primeira passada por falta de apoio externo seguro.\n[ocr_pipeline 2025-08-16T23:26:09.538971Z] lemma_in='melius' → 'mĕlĭus' | motivo: match direto em LS por lemma/lemma_norm | [ocr_fix 2025-08-17T01:26:25Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='mĕlĭus' → 'mĕlĭus' | [dedupe] redirect → chunk_16893:16893:0 | [dedupe] redirect → chunk_16893:16893:0",
-    "raw_text": "{\"id\":\"chunk_16883:16883:0\",\"lemas\":[\"melius\"],\"lema_canonico\":\"melius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"(Entrada incerta) A primeira passada atribui a 'melius' significados ligados a música/lírico; entretanto, as grandes fontes registram 'mēlius' como adv. (comp. de bonus) e formas topónimas (Mēlĭus). Não foi possível confirmar seguro uso adjetival com sentidos musicais.\",\"aliases\":[],\"exemplos\":[\"Lucr. 5, 334\",\"Cic. Opt. 1\",\"Plin. H. Nat. 7, 89\",\"Petr. 64, 2\"],\"notas\":\"Sentido musical/lírico não confirmado em LS/Whitaker; mantido conteúdo da primeira passada por falta de apoio externo seguro.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_16883:16883:0\",\"lemas\":[\"melius\"],\"lema_canonico\":\"melius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"(Entrada incerta) A primeira passada atribui a 'melius' significados ligados a música/lírico; entretanto, as grandes fontes registram 'mēlius' como adv. (comp. de bonus) e formas topónimas (Mēlĭus). Não foi possível confirmar seguro uso adjetival com sentidos musicais.\",\"aliases\":[],\"exemplos\":[\"Lucr. 5, 334\",\"Cic. Opt. 1\",\"Plin. H. Nat. 7, 89\",\"Petr. 64, 2\"],\"notas\":\"Sentido musical/lírico não confirmado em LS/Whitaker; mantido conteúdo da primeira passada por falta de apoio externo seguro.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
     "id": "chunk_16884-e1",
     "volume_id": "faria",
     "doc_name": "chunk_16884",
@@ -2264,28 +1956,6 @@
     "notas": "Grafia regularizada; não confundir com Melita/Melite.",
     "raw_text": "{\"id\":\"chunk_16890:16890:0\",\"lemas\":[\"Melitene\",\"Melitēnē\"],\"lema_canonico\":\"Melitene\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Região e cidade da Capadócia (Antiguidade).\",\"aliases\":[],\"exemplos\":[\"Plin. H. N. 5, 21\",\"Tac. Ann. 15, 26\"],\"notas\":\"Grafia regularizada; não confundir com Melita/Melite.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_16890:16890:0\",\"lemas\":[\"Melitene\",\"Melitēnē\"],\"lema_canonico\":\"Melitene\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Região e cidade da Capadócia (Antiguidade).\",\"aliases\":[],\"exemplos\":[\"Plin. H. N. 5, 21\",\"Tac. Ann. 15, 26\"],\"notas\":\"Grafia regularizada; não confundir com Melita/Melite.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_16891-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16891",
-    "page_num": 16891,
-    "lemmas": [
-      "Mĕlĭtensis",
-      "Mĕlĭtensis"
-    ],
-    "morfologia": "adj. (3) 2T",
-    "morph_render": "adj. (3) 2T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "De ou pertencente à ilha de Malta; melitense, maltês. (Adj.; em pl. substantivado: Melitensia, -ium, ‘vestimenta melitenses’).",
-    "exemplos": [],
-    "notas": "Padronizado segundo Lewis & Short: Mĕlĭtensis; plural substantivado Melitensia citado em Cicero. | [dedupe] redirect → chunk_16892:16892:0 | [dedupe] redirect → chunk_16892:16892:0 | [ocr_fix 2025-08-17T19:58:47Z] match direto em LS por lemma/lemma_norm | lemma_in='Melitensis' → 'Mĕlĭtensis'",
-    "raw_text": "{\"id\":\"chunk_16891:16891:0\",\"lemas\":[\"Melitensis\",\"Melitensia\"],\"lema_canonico\":\"Melitensis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"De ou pertencente à ilha de Malta; melitense, maltês. (Adj.; em pl. substantivado: Melitensia, -ium, ‘vestimenta melitenses’).\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 2, 2, 72\",\"Cic. Verr. 2, 5, 11\",\"Cic. Verr. 2, 2, 74\"],\"notas\":\"Padronizado segundo Lewis & Short: Mĕlĭtensis; plural substantivado Melitensia citado em Cicero.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_16891:16891:0\",\"lemas\":[\"Melitensis\",\"Melitensia\"],\"lema_canonico\":\"Melitensis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"De ou pertencente à ilha de Malta; melitense, maltês. (Adj.; em pl. substantivado: Melitensia, -ium, ‘vestimenta melitenses’).\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 2, 2, 72\",\"Cic. Verr. 2, 5, 11\",\"Cic. Verr. 2, 2, 74\"],\"notas\":\"Padronizado segundo Lewis & Short: Mĕlĭtensis; plural substantivado Melitensia citado em Cicero.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
     "id": "chunk_16892-e1",
@@ -2882,28 +2552,6 @@
     "raw_json": "{\"id\":\"chunk_16915:16915:0\",\"lemas\":[\"Memminus\"],\"lema_canonico\":\"Memminus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Adjetivo gentilício/derivado relativo a Mêmio (nome próprio).\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 5, 1, 1\"],\"notas\":\"Lema mantido da 1ª passada; forma pouco atestada nas fontes consultadas.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_16916-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16916",
-    "page_num": 16916,
-    "lemmas": [
-      "Memmius",
-      "Memmius"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "nome próprio romano (gens Memmia); indivíduo da gens Memmia.",
-    "exemplos": [],
-    "notas": "Conforme Lewis & Short; formas derivadas (Memmĭădes, Memmĭānus) não integradas aqui. | [dedupe] redirect → chunk_16914:16914:1 | [dedupe] redirect → chunk_16914:16914:1 | [ocr_fix 2025-08-17T19:53:55Z] match direto em LS por lemma/lemma_norm | lemma_in='Memmius' → 'Memmius'",
-    "raw_text": "{\"id\":\"chunk_16916:16916:0\",\"lemas\":[\"Memmius\"],\"lema_canonico\":\"Memmius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"nome próprio romano (gens Memmia); indivíduo da gens Memmia.\",\"aliases\":[],\"exemplos\":[\"Verg. A. 5, 117\"],\"notas\":\"Conforme Lewis & Short; formas derivadas (Memmĭădes, Memmĭānus) não integradas aqui.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_16916:16916:0\",\"lemas\":[\"Memmius\"],\"lema_canonico\":\"Memmius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"nome próprio romano (gens Memmia); indivíduo da gens Memmia.\",\"aliases\":[],\"exemplos\":[\"Verg. A. 5, 117\"],\"notas\":\"Conforme Lewis & Short; formas derivadas (Memmĭădes, Memmĭānus) não integradas aqui.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_16917-e1",
     "volume_id": "faria",
     "doc_name": "chunk_16917",
@@ -3058,28 +2706,6 @@
     "raw_json": "{\"id\":\"chunk_16922:16922:0\",\"lemas\":[\"ro\"],\"lema_canonico\":\"ro\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Memorável, glorioso, famoso. (entrada incerta; possível erro de OCR/truncamento)\",\"aliases\":[],\"exemplos\":[\"Verg. A. 10, 793\"],\"notas\":\"Lemma possivelmente truncado ou corrompido no OCR; morfologia escolhida como aproximação. Rever com fontes primárias.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\",\"morph_out_of_vocab\"]}"
   },
   {
-    "id": "chunk_16923-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16923",
-    "page_num": 16923,
-    "lemmas": [
-      "memor",
-      "memor"
-    ],
-    "morfologia": "adj. (3) 1T",
-    "morph_render": "adj. (3) 1T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "lembrante, atento (a, com gen.); grato; memorável; que se recorda de algo (com gen.).",
-    "exemplos": [],
-    "notas": "Adjetivo confirmado por Whitaker e Lewis & Short; construção com genitivo indicada. | [dedupe] redirect → chunk_16920:16920:0 | [dedupe] redirect → chunk_16920:16920:0",
-    "raw_text": "{\"id\":\"chunk_16923:16923:0\",\"lemas\":[\"memor\",\"memoris\"],\"lema_canonico\":\"memor\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[],\"definicao\":\"lembrante, atento (a, com gen.); grato; memorável; que se recorda de algo (com gen.).\",\"aliases\":[],\"exemplos\":[\"Verg. A. 6, 664\",\"Ter. And. 1, 5, 46\"],\"notas\":\"Adjetivo confirmado por Whitaker e Lewis & Short; construção com genitivo indicada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_16923:16923:0\",\"lemas\":[\"memor\",\"memoris\"],\"lema_canonico\":\"memor\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[],\"definicao\":\"lembrante, atento (a, com gen.); grato; memorável; que se recorda de algo (com gen.).\",\"aliases\":[],\"exemplos\":[\"Verg. A. 6, 664\",\"Ter. And. 1, 5, 46\"],\"notas\":\"Adjetivo confirmado por Whitaker e Lewis & Short; construção com genitivo indicada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_16923-e2",
     "volume_id": "faria",
     "doc_name": "chunk_16923",
@@ -3146,28 +2772,6 @@
     "raw_json": "{\"id\":\"chunk_16925:16925:0\",\"lemas\":[\"memoratus\",\"memorātus\"],\"lema_canonico\":\"memoratus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de memorō (memorāre): 'recordado, mencionado, celebrado'; também substantivo memorātus, -ūs (a mentioning, relation).\",\"aliases\":[],\"exemplos\":[\"Verg. En. 5, 391\"],\"notas\":\"Incluída menção do substantivo 'memorātus, -ūs' conforme Lewis & Short e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_16926-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16926",
-    "page_num": 16926,
-    "lemmas": [
-      "memoratus",
-      "memoratus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "(1) mentioned, noteworthy, renowned (adj., participle of memorāre); (2) a mentioning, mention, report (subst. masc.)",
-    "exemplos": [],
-    "notas": "Unifica as duas aceções (particípio/adjetivo e substantivo 4ª decl.); exemplos e sentidos confirmados por LS e Whitaker. | [dedupe] redirect → chunk_16925:16925:0 | [dedupe] redirect → chunk_16925:16925:0",
-    "raw_text": "{\"id\":\"chunk_16926:16926:0\",\"lemas\":[\"memoratus\"],\"lema_canonico\":\"memoratus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\",\"s. masc. 4ª (-us)\"],\"definicao\":\"(1) mentioned, noteworthy, renowned (adj., participle of memorāre); (2) a mentioning, mention, report (subst. masc.)\",\"aliases\":[],\"exemplos\":[\"Plaut. Bacch. 1, 1, 28\",\"Tac. A. 4, 32\"],\"notas\":\"Unifica as duas aceções (particípio/adjetivo e substantivo 4ª decl.); exemplos e sentidos confirmados por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_16926:16926:0\",\"lemas\":[\"memoratus\"],\"lema_canonico\":\"memoratus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\",\"s. masc. 4ª (-us)\"],\"definicao\":\"(1) mentioned, noteworthy, renowned (adj., participle of memorāre); (2) a mentioning, mention, report (subst. masc.)\",\"aliases\":[],\"exemplos\":[\"Plaut. Bacch. 1, 1, 28\",\"Tac. A. 4, 32\"],\"notas\":\"Unifica as duas aceções (particípio/adjetivo e substantivo 4ª decl.); exemplos e sentidos confirmados por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_16927-e1",
     "volume_id": "faria",
     "doc_name": "chunk_16927",
@@ -3210,28 +2814,6 @@
     "notas": "Forma e sentido alinhados com LS/Whitaker/Lat→Deu; normalizei abreviação de obra. | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='memoria' → 'mĕmŏrĭa'",
     "raw_text": "{\"id\":\"chunk_16928:16928:0\",\"lemas\":[\"memoria\"],\"lema_canonico\":\"memoria\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"faculdade de lembrar; memória, lembrança, recordação; também história, tempo dentro da memória\",\"aliases\":[],\"exemplos\":[\"Cic. Brut. 301\"],\"notas\":\"Forma e sentido alinhados com LS/Whitaker/Lat→Deu; normalizei abreviação de obra.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_16928:16928:0\",\"lemas\":[\"memoria\"],\"lema_canonico\":\"memoria\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"faculdade de lembrar; memória, lembrança, recordação; também história, tempo dentro da memória\",\"aliases\":[],\"exemplos\":[\"Cic. Brut. 301\"],\"notas\":\"Forma e sentido alinhados com LS/Whitaker/Lat→Deu; normalizei abreviação de obra.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_16929-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16929",
-    "page_num": 16929,
-    "lemmas": [
-      "Daí",
-      "Daí"
-    ],
-    "morfologia": null,
-    "morph_render": null,
-    "morph_extra": [],
-    "conf": "conf:low",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada possivelmente corrompida/OCR; conteúdo no excerto parece fragmentário e misturado com verbete seguinte. | [dedupe] redirect → chunk_16929:16929:1 | [dedupe] redirect → chunk_16929:16929:1",
-    "raw_text": "{\"id\":\"chunk_16929:16929:0\",\"lemas\":[\"Daí\"],\"lema_canonico\":\"Daí\",\"morfologia\":\"\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada possivelmente corrompida/OCR; conteúdo no excerto parece fragmentário e misturado com verbete seguinte.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_16929:16929:0\",\"lemas\":[\"Daí\"],\"lema_canonico\":\"Daí\",\"morfologia\":\"\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada possivelmente corrompida/OCR; conteúdo no excerto parece fragmentário e misturado com verbete seguinte.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
     "id": "chunk_16929-e2",
@@ -3278,28 +2860,6 @@
     "raw_json": "{\"id\":\"chunk_16929:16929:2\",\"lemas\":[\"memorialis\",\"memoriale\",\"memorialia\"],\"lema_canonico\":\"memorialis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"pertencente à memória; que serve de memorial; também substantivado: memorial, livro de registros/memoranda; memorialia (pl.) = memórias, anais.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Baseado em Whitaker, LS e Lat→Deu; inclui variações nom./neut. e plural substantivado.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_16930-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16930",
-    "page_num": 16930,
-    "lemmas": [
-      "memorialis",
-      "memorialis"
-    ],
-    "morfologia": "adj. (3) 3T",
-    "morph_render": "adj. (3) 3T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "relativo à memória; que serve de lembrança; também substantivo: memorial, historiographus (segundo contexto)",
-    "exemplos": [],
-    "notas": "Inclui variantes nominalis atestadas (memoriale n., memorialis m.) conforme LS/Whitaker. | [dedupe] redirect → chunk_16929:16929:2 | [dedupe] redirect → chunk_16929:16929:2",
-    "raw_text": "{\"id\":\"chunk_16930:16930:0\",\"lemas\":[\"memorialis\",\"memoriale\"],\"lema_canonico\":\"memorialis\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"relativo à memória; que serve de lembrança; também substantivo: memorial, historiographus (segundo contexto)\",\"aliases\":[],\"exemplos\":[\"Suet. Vesp. 56\"],\"notas\":\"Inclui variantes nominalis atestadas (memoriale n., memorialis m.) conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_16930:16930:0\",\"lemas\":[\"memorialis\",\"memoriale\"],\"lema_canonico\":\"memorialis\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"relativo à memória; que serve de lembrança; também substantivo: memorial, historiographus (segundo contexto)\",\"aliases\":[],\"exemplos\":[\"Suet. Vesp. 56\"],\"notas\":\"Inclui variantes nominalis atestadas (memoriale n., memorialis m.) conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_16931-e1",
     "volume_id": "faria",
     "doc_name": "chunk_16931",
@@ -3342,28 +2902,6 @@
     "notas": "Forma adverbial confirmada; unificada definição concisa.",
     "raw_text": "{\"id\":\"chunk_16932:16932:0\",\"lemas\":[\"memoriter\"],\"lema_canonico\":\"memoriter\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"de memória; de cor; com a ajuda da memória\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 1, 88\",\"Cic. Fin. 1, 34\"],\"notas\":\"Forma adverbial confirmada; unificada definição concisa.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_16932:16932:0\",\"lemas\":[\"memoriter\"],\"lema_canonico\":\"memoriter\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"de memória; de cor; com a ajuda da memória\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 1, 88\",\"Cic. Fin. 1, 34\"],\"notas\":\"Forma adverbial confirmada; unificada definição concisa.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_16933-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16933",
-    "page_num": 16933,
-    "lemmas": [
-      "memoro",
-      "memoro"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "tr. recordar, trazer à memória; mencionar, narrar, relatar.",
-    "exemplos": [],
-    "notas": "Forma e valência confirmadas por Lewis & Short e Whitaker; macrons normalizados. | [dedupe] redirect → chunk_17317:17317:0 | [dedupe] redirect → chunk_17317:17317:0",
-    "raw_text": "{\"id\":\"chunk_16933:16933:0\",\"lemas\":[\"memoro\"],\"lema_canonico\":\"memoro\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"tr. recordar, trazer à memória; mencionar, narrar, relatar.\",\"aliases\":[],\"exemplos\":[\"Plaut. Most. 1, 3, 99\",\"Cic. Tim. 39\",\"Tac. Ann. 4, 32\"],\"notas\":\"Forma e valência confirmadas por Lewis & Short e Whitaker; macrons normalizados.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_16933:16933:0\",\"lemas\":[\"memoro\"],\"lema_canonico\":\"memoro\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"tr. recordar, trazer à memória; mencionar, narrar, relatar.\",\"aliases\":[],\"exemplos\":[\"Plaut. Most. 1, 3, 99\",\"Cic. Tim. 39\",\"Tac. Ann. 4, 32\"],\"notas\":\"Forma e valência confirmadas por Lewis & Short e Whitaker; macrons normalizados.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_16934-e1",
@@ -4048,50 +3586,6 @@
     "raw_json": "{\"id\":\"chunk_16963:16963:0\",\"lemas\":[\"Menelāis\"],\"lema_canonico\":\"Menelāis\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Cidade do Epiro (Menalaide).\",\"aliases\":[\"Menalaide\"],\"exemplos\":[\"Liv. 39, 26\"],\"notas\":\"Forma e referência conforme Lewis & Short; variante toponímica indicada.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_16964-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16964",
-    "page_num": 16964,
-    "lemmas": [
-      "Mĕnĕlāüs",
-      "Mĕnĕlāüs"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Nome próprio: Menelau, filho de Atreu, rei e marido de Helena (mitologia); também topónimo (ex.: montanha).",
-    "exemplos": [],
-    "notas": "Entrada normalizada para forma clássica registrada em LS; tratado como substantivo próprio da 2ª declinação. | [dedupe] redirect → chunk_16962:16962:0 | [dedupe] redirect → chunk_16962:16962:0 | [ocr_fix 2025-08-17T19:53:57Z] match direto em LS por lemma/lemma_norm | lemma_in='Menēlāus' → 'Mĕnĕlāüs'",
-    "raw_text": "{\"id\":\"chunk_16964:16964:0\",\"lemas\":[\"Menēlāus\",\"Menelaus\"],\"lema_canonico\":\"Menēlāus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Nome próprio: Menelau, filho de Atreu, rei e marido de Helena (mitologia); também topónimo (ex.: montanha).\",\"aliases\":[\"Menelaus\"],\"exemplos\":[\"T. Liv. 34, 28\"],\"notas\":\"Entrada normalizada para forma clássica registrada em LS; tratado como substantivo próprio da 2ª declinação.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_16964:16964:0\",\"lemas\":[\"Menēlāus\",\"Menelaus\"],\"lema_canonico\":\"Menēlāus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Nome próprio: Menelau, filho de Atreu, rei e marido de Helena (mitologia); também topónimo (ex.: montanha).\",\"aliases\":[\"Menelaus\"],\"exemplos\":[\"T. Liv. 34, 28\"],\"notas\":\"Entrada normalizada para forma clássica registrada em LS; tratado como substantivo próprio da 2ª declinação.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_16965-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16965",
-    "page_num": 16965,
-    "lemmas": [
-      "Mĕnĕlāüs",
-      "Mĕnĕlāüs"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Rei de Lacedemónia, irmão de Agamemnón e esposo de Helena; personagem da guerra de Troia.",
-    "exemplos": [],
-    "notas": "Lema alinhado a Lewis & Short; variantes inclusas como aliases. | [dedupe] redirect → chunk_16962:16962:0 | [dedupe] redirect → chunk_16962:16962:0 | [ocr_fix 2025-08-17T19:58:46Z] match direto em LS por lemma/lemma_norm | lemma_in='Menelaus' → 'Mĕnĕlāüs'",
-    "raw_text": "{\"id\":\"chunk_16965:16965:0\",\"lemas\":[\"Menelaus\",\"Menelaos\",\"Menēlāus\",\"Menēlāeus\"],\"lema_canonico\":\"Menelaus\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Rei de Lacedemónia, irmão de Agamemnón e esposo de Helena; personagem da guerra de Troia.\",\"aliases\":[\"Menelaos\",\"Menēlāus\",\"Menēlāeus\"],\"exemplos\":[\"Ov. Met. 13, 303\",\"Cic. Brut. 13, 50\",\"Cic. Rep. 5, 9, 14\",\"Ov. A. A. 2, 359\"],\"notas\":\"Lema alinhado a Lewis & Short; variantes inclusas como aliases.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_16965:16965:0\",\"lemas\":[\"Menelaus\",\"Menelaos\",\"Menēlāus\",\"Menēlāeus\"],\"lema_canonico\":\"Menelaus\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Rei de Lacedemónia, irmão de Agamemnón e esposo de Helena; personagem da guerra de Troia.\",\"aliases\":[\"Menelaos\",\"Menēlāus\",\"Menēlāeus\"],\"exemplos\":[\"Ov. Met. 13, 303\",\"Cic. Brut. 13, 50\",\"Cic. Rep. 5, 9, 14\",\"Ov. A. A. 2, 359\"],\"notas\":\"Lema alinhado a Lewis & Short; variantes inclusas como aliases.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_16966-e1",
     "volume_id": "faria",
     "doc_name": "chunk_16966",
@@ -4290,28 +3784,6 @@
     "raw_json": "{\"id\":\"chunk_16974:16974:0\",\"lemas\":[\"Menon\",\"Mĕnōn\",\"Menuon\"],\"lema_canonico\":\"Menon\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Nome próprio: Mênon, diálogo de Platão (latim ref. em autores como Cícero).\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 1, 57\"],\"notas\":\"Corrigido a partir de leitura OCR 'Menuon' → Menon; variante grafemática mantida.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"src_ocr\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_16974-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_16974",
-    "page_num": 16974,
-    "lemmas": [
-      "Mĕnōn",
-      "Mĕnōn"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Nome próprio: Mênon, o diálogo de Platão; citado por autores latinos (p.ex. Cícero).",
-    "exemplos": [],
-    "notas": "Normalizado lema e incluídas variantes possíveis de OCR. | [dedupe] redirect → chunk_16974:16974:0 | [dedupe] redirect → chunk_16974:16974:0 | [ocr_fix 2025-08-17T19:50:06Z] match direto em LS por lemma/lemma_norm | lemma_in='Menon' → 'Mĕnōn'",
-    "raw_text": "{\"id\":\"chunk_16974:16974:1\",\"lemas\":[\"Menon\",\"Mĕnōn\",\"Menuon\"],\"lema_canonico\":\"Menon\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Nome próprio: Mênon, o diálogo de Platão; citado por autores latinos (p.ex. Cícero).\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 1, 57\"],\"notas\":\"Normalizado lema e incluídas variantes possíveis de OCR.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"src_ocr\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_16974:16974:1\",\"lemas\":[\"Menon\",\"Mĕnōn\",\"Menuon\"],\"lema_canonico\":\"Menon\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Nome próprio: Mênon, o diálogo de Platão; citado por autores latinos (p.ex. Cícero).\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 1, 57\"],\"notas\":\"Normalizado lema e incluídas variantes possíveis de OCR.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"src_ocr\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_16975-e1",
     "volume_id": "faria",
     "doc_name": "chunk_16975",
@@ -4376,28 +3848,6 @@
     "notas": "Substantivo confirmado; entrada adjetival na first_pass não suportada por LS/Whitaker como uso principal.",
     "raw_text": "{\"id\":\"chunk_16977:16977:0\",\"lemas\":[\"mensarius\"],\"lema_canonico\":\"mensarius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"mensarius, -ī, m.: money-changer, banker; public banker/officer who handles payment of public funds\",\"aliases\":[],\"exemplos\":[\"Cic. Fl. 19, 44\",\"Liv. 7, 21\",\"Liv. 23, 21\",\"Liv. 26, 36\",\"Suet. Aug. 4\"],\"notas\":\"Substantivo confirmado; entrada adjetival na first_pass não suportada por LS/Whitaker como uso principal.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_16977:16977:0\",\"lemas\":[\"mensarius\"],\"lema_canonico\":\"mensarius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"mensarius, -ī, m.: money-changer, banker; public banker/officer who handles payment of public funds\",\"aliases\":[],\"exemplos\":[\"Cic. Fl. 19, 44\",\"Liv. 7, 21\",\"Liv. 23, 21\",\"Liv. 26, 36\",\"Suet. Aug. 4\"],\"notas\":\"Substantivo confirmado; entrada adjetival na first_pass não suportada por LS/Whitaker como uso principal.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_16978-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16978",
-    "page_num": 16978,
-    "lemmas": [
-      "mensarius",
-      "mensarius"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Cambista, banqueiro; funcionário público que tratava da distribuição de dinheiro.",
-    "exemplos": [],
-    "notas": "Grafia e função confirmadas por Lewis & Short e Whitaker (mensārius, -ī, m.). | [dedupe] redirect → chunk_16977:16977:0 | [dedupe] redirect → chunk_16977:16977:0",
-    "raw_text": "{\"id\":\"chunk_16978:16978:0\",\"lemas\":[\"mensarius\",\"mensārius\"],\"lema_canonico\":\"mensarius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Cambista, banqueiro; funcionário público que tratava da distribuição de dinheiro.\",\"aliases\":[\"mensārius\"],\"exemplos\":[\"Cic. Fr. 41\",\"Liv. 7, 21\"],\"notas\":\"Grafia e função confirmadas por Lewis & Short e Whitaker (mensārius, -ī, m.).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_16978:16978:0\",\"lemas\":[\"mensarius\",\"mensārius\"],\"lema_canonico\":\"mensarius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Cambista, banqueiro; funcionário público que tratava da distribuição de dinheiro.\",\"aliases\":[\"mensārius\"],\"exemplos\":[\"Cic. Fr. 41\",\"Liv. 7, 21\"],\"notas\":\"Grafia e função confirmadas por Lewis & Short e Whitaker (mensārius, -ī, m.).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_16979-e1",
@@ -4686,28 +4136,6 @@
     "raw_json": "{\"id\":\"chunk_16991:16991:0\",\"lemas\":[\"mentio\"],\"lema_canonico\":\"mentio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Ação de mencionar; menção, rememoração; por extensão, moção/proposta em assembleia.\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 5, 178\",\"Liv. 4, 14, 21\"],\"notas\":\"Grafia e morfologia regularizadas; sentidos confirmados em LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_16992-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16992",
-    "page_num": 16992,
-    "lemmas": [
-      "mentior",
-      "mentior"
-    ],
-    "morfologia": "v. 4ª (-īre)",
-    "morph_render": "v. 4ª (-īre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "dizer o falso; mentir, enganar; também prometer falsamente, fingir ou inventar (uso literário).",
-    "exemplos": [],
-    "notas": "Verbo deponente; paradigma ajustado conforme Lewis & Short e Lat→Deu. | [dedupe] redirect → chunk_16989:16989:0 | [dedupe] redirect → chunk_16989:16989:0",
-    "raw_text": "{\"id\":\"chunk_16992:16992:0\",\"lemas\":[\"mentior\"],\"lema_canonico\":\"mentior\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[\"dep.\",\"intr.\",\"tr.\"],\"definicao\":\"dizer o falso; mentir, enganar; também prometer falsamente, fingir ou inventar (uso literário).\",\"aliases\":[],\"exemplos\":[\"Plaut. Mil. 1, 1, 35\",\"Cic. Nat. 3, 14\",\"Hor. A. Poet. 151\",\"Verg. Buc. 4, 42\"],\"notas\":\"Verbo deponente; paradigma ajustado conforme Lewis & Short e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_16992:16992:0\",\"lemas\":[\"mentior\"],\"lema_canonico\":\"mentior\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[\"dep.\",\"intr.\",\"tr.\"],\"definicao\":\"dizer o falso; mentir, enganar; também prometer falsamente, fingir ou inventar (uso literário).\",\"aliases\":[],\"exemplos\":[\"Plaut. Mil. 1, 1, 35\",\"Cic. Nat. 3, 14\",\"Hor. A. Poet. 151\",\"Verg. Buc. 4, 42\"],\"notas\":\"Verbo deponente; paradigma ajustado conforme Lewis & Short e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_16993-e1",
     "volume_id": "faria",
     "doc_name": "chunk_16993",
@@ -4816,28 +4244,6 @@
     "notas": "Restaurada leitura 'mentum' (chin) conforme LS; distinto de outras leituras corrompidas no OCR.",
     "raw_text": "{\"id\":\"chunk_16996:16996:0\",\"lemas\":[\"mentum\"],\"lema_canonico\":\"mentum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Queixo; barba; por extensão, beiral ou projeção (arquitet.).\",\"aliases\":[],\"exemplos\":[\"Verg. A. 6, 809\"],\"notas\":\"Restaurada leitura 'mentum' (chin) conforme LS; distinto de outras leituras corrompidas no OCR.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_16996:16996:0\",\"lemas\":[\"mentum\"],\"lema_canonico\":\"mentum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Queixo; barba; por extensão, beiral ou projeção (arquitet.).\",\"aliases\":[],\"exemplos\":[\"Verg. A. 6, 809\"],\"notas\":\"Restaurada leitura 'mentum' (chin) conforme LS; distinto de outras leituras corrompidas no OCR.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_16997-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_16997",
-    "page_num": 16997,
-    "lemmas": [
-      "mentula",
-      "mentula"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "membrum virile; o órgão sexual masculino (termo vulgar, frequentemente usado como insulto).",
-    "exemplos": [],
-    "notas": "Entrada principal feminina confirmada por Lewis & Short e Whitaker; menção como nome próprio distinta notada em fontes (Menula). | [dedupe] redirect → chunk_16995:16995:0 | [dedupe] redirect → chunk_16995:16995:0",
-    "raw_text": "{\"id\":\"chunk_16997:16997:0\",\"lemas\":[\"mentula\",\"mentŭla\"],\"lema_canonico\":\"mentula\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"membrum virile; o órgão sexual masculino (termo vulgar, frequentemente usado como insulto).\",\"aliases\":[],\"exemplos\":[\"Cat. 20, 18\",\"Cat. 29, 14\",\"Mart. 6, 23, 2\"],\"notas\":\"Entrada principal feminina confirmada por Lewis & Short e Whitaker; menção como nome próprio distinta notada em fontes (Menula).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_16997:16997:0\",\"lemas\":[\"mentula\",\"mentŭla\"],\"lema_canonico\":\"mentula\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"membrum virile; o órgão sexual masculino (termo vulgar, frequentemente usado como insulto).\",\"aliases\":[],\"exemplos\":[\"Cat. 20, 18\",\"Cat. 29, 14\",\"Mart. 6, 23, 2\"],\"notas\":\"Entrada principal feminina confirmada por Lewis & Short e Whitaker; menção como nome próprio distinta notada em fontes (Menula).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_16997-e2",

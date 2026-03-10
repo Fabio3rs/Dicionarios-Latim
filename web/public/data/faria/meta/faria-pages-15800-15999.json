@@ -110,28 +110,6 @@
     "raw_json": "{\"id\":\"chunk_15804:15804:0\",\"lemas\":[\"libitum\"],\"lema_canonico\":\"libitum\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[\"sup.\"],\"definicao\":\"forma supina/participial relacionada a libet (impessoal): 'foi agradável/agradou'; supino (acc. sg. n.) e usados como parte de locuções impessoais\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada representa supino/forma participial de libet; morfologia não cabe estritamente no vocabulário padrão → marquei morph_out_of_vocab via flag.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:med\",\"morph_out_of_vocab\"]}"
   },
   {
-    "id": "chunk_15805-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15805",
-    "page_num": 15805,
-    "lemmas": [
-      "lĭbĭtus",
-      "lĭbĭtus"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "(orig. part.): participio/adjetivo derivado de libet; como substantivo (neutro pl.) = desejos, caprichos, vontades.",
-    "exemplos": [],
-    "notas": "Entrada complexa: LS atesta tanto particípio quanto uso substantivado. Morfologia exigiu aproximação ('s. indecl.') — ver morph_out_of_vocab. | [dedupe] redirect → chunk_15803:15803:0 | [dedupe] redirect → chunk_15803:15803:0 | [ocr_fix 2025-08-17T19:58:33Z] match direto em LS por lemma/lemma_norm | lemma_in='libitus' → 'lĭbĭtus'",
-    "raw_text": "{\"id\":\"chunk_15805:15805:0\",\"lemas\":[\"libītus\",\"libĭtus\"],\"lema_canonico\":\"libitus\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"(orig. part.): participio/adjetivo derivado de libet; como substantivo (neutro pl.) = desejos, caprichos, vontades.\",\"aliases\":[],\"exemplos\":[\"Tac. Ann. 6, 7\"],\"notas\":\"Entrada complexa: LS atesta tanto particípio quanto uso substantivado. Morfologia exigiu aproximação ('s. indecl.') — ver morph_out_of_vocab.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:med\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_15805:15805:0\",\"lemas\":[\"libītus\",\"libĭtus\"],\"lema_canonico\":\"libitus\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"(orig. part.): participio/adjetivo derivado de libet; como substantivo (neutro pl.) = desejos, caprichos, vontades.\",\"aliases\":[],\"exemplos\":[\"Tac. Ann. 6, 7\"],\"notas\":\"Entrada complexa: LS atesta tanto particípio quanto uso substantivado. Morfologia exigiu aproximação ('s. indecl.') — ver morph_out_of_vocab.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:med\",\"morph_out_of_vocab\"]}"
-  },
-  {
     "id": "chunk_15806-e1",
     "volume_id": "faria",
     "doc_name": "chunk_15806",
@@ -264,28 +242,6 @@
     "raw_json": "{\"id\":\"chunk_15811:15811:0\",\"lemas\":[\"lībrāmentum\",\"libramentum\"],\"lema_canonico\":\"libramentum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"peso, contrapeso; também: equilíbrio, plano horizontal; queda/oscillação de água\",\"aliases\":[],\"exemplos\":[\"Liv. 24, 34, 10\",\"Plin. Nat. 31, 6, 31\"],\"notas\":\"Unido sentido técnico (peso/contrapeso) e figurado (equilíbrio/oscilação) conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_15812-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15812",
-    "page_num": 15812,
-    "lemmas": [
-      "lĭbrārĭa",
-      "librāria"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "bookcase; bookshelf; (by extension) bookstore; in Juv. used personified (‘she who gives the task’).",
-    "exemplos": [],
-    "notas": "Normalizada forma (librāria); reconhecido uso mobilier/edificio e ocorrência em Juvêncio. | [dedupe] redirect → chunk_15763:15763:0 | [dedupe] redirect → chunk_15763:15763:0 | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='librāria' → 'lĭbrārĭa'",
-    "raw_text": "{\"id\":\"chunk_15812:15812:0\",\"lemas\":[\"librāria\",\"libraria\"],\"lema_canonico\":\"librāria\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"bookcase; bookshelf; (by extension) bookstore; in Juv. used personified (‘she who gives the task’).\",\"aliases\":[],\"exemplos\":[\"Juv. 6, 475\"],\"notas\":\"Normalizada forma (librāria); reconhecido uso mobilier/edificio e ocorrência em Juvêncio.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_15812:15812:0\",\"lemas\":[\"librāria\",\"libraria\"],\"lema_canonico\":\"librāria\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"bookcase; bookshelf; (by extension) bookstore; in Juv. used personified (‘she who gives the task’).\",\"aliases\":[],\"exemplos\":[\"Juv. 6, 475\"],\"notas\":\"Normalizada forma (librāria); reconhecido uso mobilier/edificio e ocorrência em Juvêncio.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_15813-e1",
     "volume_id": "faria",
     "doc_name": "chunk_15813",
@@ -396,28 +352,6 @@
     "raw_json": "{\"id\":\"chunk_15817:15817:0\",\"lemas\":[\"librarius\"],\"lema_canonico\":\"librarius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Copista, secretário; também livreiro, vendedor de livros.\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 12, 40, 1\",\"Sen. Ep. 7, 6, 1\"],\"notas\":\"Sentidos e formas confirmados com Lewis & Short e Whitaker; distingue-se de lībrārĭus 'peso'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_15818-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15818",
-    "page_num": 15818,
-    "lemmas": [
-      "lībrātor",
-      "lībrātor"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "1) leveller, esp. a surveyor using a level (measurer of water); 2) one who hurls or propels missiles; operator of war machines.",
-    "exemplos": [],
-    "notas": "Unificado sentido técnico (nivelador) e militar conforme LS/Whitaker. | [dedupe] redirect → chunk_15820:15820:0 | [dedupe] redirect → chunk_15820:15820:0",
-    "raw_text": "{\"id\":\"chunk_15818:15818:0\",\"lemas\":[\"lībrātor\",\"librātor\"],\"lema_canonico\":\"lībrātor\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"1) leveller, esp. a surveyor using a level (measurer of water); 2) one who hurls or propels missiles; operator of war machines.\",\"aliases\":[],\"exemplos\":[\"Plin. Ep. 10, 50, 3\",\"Tac. A. 2, 20\",\"Tac. A. 13, 39\",\"Amm. 20, 7, 20\"],\"notas\":\"Unificado sentido técnico (nivelador) e militar conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_15818:15818:0\",\"lemas\":[\"lībrātor\",\"librātor\"],\"lema_canonico\":\"lībrātor\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"1) leveller, esp. a surveyor using a level (measurer of water); 2) one who hurls or propels missiles; operator of war machines.\",\"aliases\":[],\"exemplos\":[\"Plin. Ep. 10, 50, 3\",\"Tac. A. 2, 20\",\"Tac. A. 13, 39\",\"Amm. 20, 7, 20\"],\"notas\":\"Unificado sentido técnico (nivelador) e militar conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_15819-e1",
     "volume_id": "faria",
     "doc_name": "chunk_15819",
@@ -504,28 +438,6 @@
     "notas": "Entrada baseada em Lewis & Short (Lĭbŭi). Plural tribal tratado como lema plural; morfologia real plur. não cabe no vocabulário. | [ocr_fix 2025-08-17T19:58:33Z] match direto em LS por lemma/lemma_norm | lemma_in='Libui' → 'Lĭbŭi'",
     "raw_text": "{\"id\":\"chunk_15822:15822:0\",\"lemas\":[\"Libui\",\"Libuos\"],\"lema_canonico\":\"Libui\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"povo da Gália Transpadana mencionado por Tito Lívio; possivelmente idêntico aos Libici (Plínio)\",\"aliases\":[],\"exemplos\":[\"T. Liv. 5, 35\",\"T. Liv. 21, 38\",\"T. Liv. 33, 37\",\"Plin. Nat. 3, 17, 21, §124\"],\"notas\":\"Entrada baseada em Lewis & Short (Lĭbŭi). Plural tribal tratado como lema plural; morfologia real plur. não cabe no vocabulário.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\",\"morph_out_of_vocab\"]}",
     "raw_json": "{\"id\":\"chunk_15822:15822:0\",\"lemas\":[\"Libui\",\"Libuos\"],\"lema_canonico\":\"Libui\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"povo da Gália Transpadana mencionado por Tito Lívio; possivelmente idêntico aos Libici (Plínio)\",\"aliases\":[],\"exemplos\":[\"T. Liv. 5, 35\",\"T. Liv. 21, 38\",\"T. Liv. 33, 37\",\"Plin. Nat. 3, 17, 21, §124\"],\"notas\":\"Entrada baseada em Lewis & Short (Lĭbŭi). Plural tribal tratado como lema plural; morfologia real plur. não cabe no vocabulário.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\",\"morph_out_of_vocab\"]}"
-  },
-  {
-    "id": "chunk_15823-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15823",
-    "page_num": 15823,
-    "lemmas": [
-      "libet",
-      "libet"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "verbo impessoal ‘ser agradável, agradar; convier, apetecer’ (constrói-se com dativo, infinitivo ou oração-subjeto)",
-    "exemplos": [],
-    "notas": "Unificado com formas atestadas em Lewis & Short, Whitaker e Lat→Deu; marcado como impessoal. | [dedupe] redirect → chunk_15794:15794:0 | [dedupe] redirect → chunk_15794:15794:0",
-    "raw_text": "{\"id\":\"chunk_15823:15823:0\",\"lemas\":[\"libet\",\"libēre\",\"libuit\",\"libitus\"],\"lema_canonico\":\"libet\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"impers.\"],\"definicao\":\"verbo impessoal ‘ser agradável, agradar; convier, apetecer’ (constrói-se com dativo, infinitivo ou oração-subjeto)\",\"aliases\":[],\"exemplos\":[\"uso impessoal: libet mihi + infinitivum\",\"quotlibet / quodlibet (constr.)\"],\"notas\":\"Unificado com formas atestadas em Lewis & Short, Whitaker e Lat→Deu; marcado como impessoal.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_15823:15823:0\",\"lemas\":[\"libet\",\"libēre\",\"libuit\",\"libitus\"],\"lema_canonico\":\"libet\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"impers.\"],\"definicao\":\"verbo impessoal ‘ser agradável, agradar; convier, apetecer’ (constrói-se com dativo, infinitivo ou oração-subjeto)\",\"aliases\":[],\"exemplos\":[\"uso impessoal: libet mihi + infinitivum\",\"quotlibet / quodlibet (constr.)\"],\"notas\":\"Unificado com formas atestadas em Lewis & Short, Whitaker e Lat→Deu; marcado como impessoal.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_15824-e1",
@@ -946,72 +858,6 @@
     "raw_json": "{\"id\":\"chunk_15842:15842:0\",\"lemas\":[\"liceor\",\"licēor\"],\"lema_canonico\":\"liceor\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"Verbo deponente: licitar, ofertar em leilão; também 'to bid on goods at an auction' e, por extensão, avaliar/estimar.\",\"aliases\":[],\"exemplos\":[\"Caes. B. Gal. 1, 18\",\"Cic. Verr. 2, 3, 33\",\"Plin. H. Nat. 14, 141\"],\"notas\":\"Formas e sentido ajustados conforme Lewis & Short; classificado como deponente e atribuído ao paradigma -ēre.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_15842-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_15842",
-    "page_num": 15842,
-    "lemmas": [
-      "licet",
-      "licet"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Impessoal: ser permitido; é lícito, convém.",
-    "exemplos": [],
-    "notas": "Forma perfeita/subj. fut. perf. licuerit = licēsit (cit. Plauto). | [dedupe] redirect → chunk_15836:15836:0 | [dedupe] redirect → chunk_15836:15836:0",
-    "raw_text": "{\"id\":\"chunk_15842:15842:1\",\"lemas\":[\"licet\"],\"lema_canonico\":\"licet\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"impers.\"],\"definicao\":\"Impessoal: ser permitido; é lícito, convém.\",\"aliases\":[],\"exemplos\":[\"Plaut. As. 603\"],\"notas\":\"Forma perfeita/subj. fut. perf. licuerit = licēsit (cit. Plauto).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_15842:15842:1\",\"lemas\":[\"licet\"],\"lema_canonico\":\"licet\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"impers.\"],\"definicao\":\"Impessoal: ser permitido; é lícito, convém.\",\"aliases\":[],\"exemplos\":[\"Plaut. As. 603\"],\"notas\":\"Forma perfeita/subj. fut. perf. licuerit = licēsit (cit. Plauto).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_15843-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15843",
-    "page_num": 15843,
-    "lemmas": [
-      "licet",
-      "licet"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Ser permitido; pode-se. Verbo impessoal, constrói-se com infinitivo ou oração subordinada; também usado como conjunção concessiva.",
-    "exemplos": [],
-    "notas": "Infinitivo e uso impessoal atestados em LS e Whitaker; marcadas construções comuns. | [dedupe] redirect → chunk_15836:15836:0 | [dedupe] redirect → chunk_15836:15836:0",
-    "raw_text": "{\"id\":\"chunk_15843:15843:0\",\"lemas\":[\"licet\",\"licēre\"],\"lema_canonico\":\"licet\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"impers.\"],\"definicao\":\"Ser permitido; pode-se. Verbo impessoal, constrói-se com infinitivo ou oração subordinada; também usado como conjunção concessiva.\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 5, 188\",\"Cic. Amer. 127\",\"Caes. B. Civ. 3, 27, 1\",\"Cic. Balb. 29\"],\"notas\":\"Infinitivo e uso impessoal atestados em LS e Whitaker; marcadas construções comuns.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_15843:15843:0\",\"lemas\":[\"licet\",\"licēre\"],\"lema_canonico\":\"licet\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"impers.\"],\"definicao\":\"Ser permitido; pode-se. Verbo impessoal, constrói-se com infinitivo ou oração subordinada; também usado como conjunção concessiva.\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 5, 188\",\"Cic. Amer. 127\",\"Caes. B. Civ. 3, 27, 1\",\"Cic. Balb. 29\"],\"notas\":\"Infinitivo e uso impessoal atestados em LS e Whitaker; marcadas construções comuns.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_15844-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15844",
-    "page_num": 15844,
-    "lemmas": [
-      "licet",
-      "licet"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Verbo impessoal: ser permitido, ser lícito; usado também como concessivo ('although') com subjuntivo.",
-    "exemplos": [],
-    "notas": "Classificação como verbo impessoal confirmada por Lewis & Short; Whitaker registra também uso conjuntivo/concessivo. | [dedupe] redirect → chunk_15836:15836:0 | [dedupe] redirect → chunk_15836:15836:0",
-    "raw_text": "{\"id\":\"chunk_15844:15844:0\",\"lemas\":[\"licet\",\"licēre\"],\"lema_canonico\":\"licet\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"impers.\"],\"definicao\":\"Verbo impessoal: ser permitido, ser lícito; usado também como concessivo ('although') com subjuntivo.\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 4, 54\"],\"notas\":\"Classificação como verbo impessoal confirmada por Lewis & Short; Whitaker registra também uso conjuntivo/concessivo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_15844:15844:0\",\"lemas\":[\"licet\",\"licēre\"],\"lema_canonico\":\"licet\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"impers.\"],\"definicao\":\"Verbo impessoal: ser permitido, ser lícito; usado também como concessivo ('although') com subjuntivo.\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 4, 54\"],\"notas\":\"Classificação como verbo impessoal confirmada por Lewis & Short; Whitaker registra também uso conjuntivo/concessivo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_15845-e1",
     "volume_id": "faria",
     "doc_name": "chunk_15845",
@@ -1166,28 +1012,6 @@
     "raw_json": "{\"id\":\"chunk_15851:15851:0\",\"lemas\":[\"licitatio\",\"licitātiō\"],\"lema_canonico\":\"licitatio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Arrematação, oferta de preço; o acto de licitar em vendas e leilões.\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 11, 15, 4\",\"Cic. Verr. 2, 2, 53\",\"Suet. Ner. 26\",\"Dig. 10, 2, 6\"],\"notas\":\"Grafia clássica confirmada; referências reunidas de LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_15852-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15852",
-    "page_num": 15852,
-    "lemmas": [
-      "lĭcĭtātor",
-      "lĭcĭtātor"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Lewis & Short marca como leitura antiga/errônea; trata-se de redirecionamento para 'illicitator'. | [ocr_fix 2025-08-17T19:49:46Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='licitator' → 'lĭcĭtātor'",
-    "raw_text": "{\"id\":\"chunk_15852:15852:0\",\"lemas\":[\"licitator\",\"lĭcĭtātor\"],\"lema_canonico\":\"licitator\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"illicitator\"],\"exemplos\":[],\"notas\":\"Lewis & Short marca como leitura antiga/errônea; trata-se de redirecionamento para 'illicitator'.\",\"flags\":[\"src_ls\",\"conf:med\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_15852:15852:0\",\"lemas\":[\"licitator\",\"lĭcĭtātor\"],\"lema_canonico\":\"licitator\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"illicitator\"],\"exemplos\":[],\"notas\":\"Lewis & Short marca como leitura antiga/errônea; trata-se de redirecionamento para 'illicitator'.\",\"flags\":[\"src_ls\",\"conf:med\",\"redirect_only\"]}"
-  },
-  {
     "id": "chunk_15853-e1",
     "volume_id": "faria",
     "doc_name": "chunk_15853",
@@ -1208,28 +1032,6 @@
     "notas": "Tratado como verbo deponente 1ª conjugação (licitārī) conforme Whitaker e LS.",
     "raw_text": "{\"id\":\"chunk_15853:15853:0\",\"lemas\":[\"licitor\",\"licitārī\"],\"lema_canonico\":\"licitor\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"Verbo deponente: fazer lance, oferecer preço; disputar, contender (em comércio e combate).\",\"aliases\":[],\"exemplos\":[\"Plaut. Merc. 2,3,104\"],\"notas\":\"Tratado como verbo deponente 1ª conjugação (licitārī) conforme Whitaker e LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_15853:15853:0\",\"lemas\":[\"licitor\",\"licitārī\"],\"lema_canonico\":\"licitor\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"Verbo deponente: fazer lance, oferecer preço; disputar, contender (em comércio e combate).\",\"aliases\":[],\"exemplos\":[\"Plaut. Merc. 2,3,104\"],\"notas\":\"Tratado como verbo deponente 1ª conjugação (licitārī) conforme Whitaker e LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_15854-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15854",
-    "page_num": 15854,
-    "lemmas": [
-      "liceor",
-      "liceor"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "verbo deponente ‘oferecer lance, licitar; fazer proposta em leilão’.",
-    "exemplos": [],
-    "notas": "Lĭcĕor atestado em LS; infinitivo liceri confirmado por Lat→Deu. | [dedupe] redirect → chunk_15842:15842:0 | [dedupe] redirect → chunk_15842:15842:0",
-    "raw_text": "{\"id\":\"chunk_15854:15854:8\",\"lemas\":[\"liceor\",\"liceri\"],\"lema_canonico\":\"liceor\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"verbo deponente ‘oferecer lance, licitar; fazer proposta em leilão’.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Lĭcĕor atestado em LS; infinitivo liceri confirmado por Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_15854:15854:8\",\"lemas\":[\"liceor\",\"liceri\"],\"lema_canonico\":\"liceor\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"verbo deponente ‘oferecer lance, licitar; fazer proposta em leilão’.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Lĭcĕor atestado em LS; infinitivo liceri confirmado por Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_15854-e2",
@@ -1298,28 +1100,6 @@
     "raw_json": "{\"id\":\"chunk_15854:15854:0\",\"lemas\":[\"essentia\",\"essentĭa\"],\"lema_canonico\":\"essentia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"o ser, a essência ou substância de uma coisa (translação do gr. οὐσία).\",\"aliases\":[],\"exemplos\":[\"Quint. 2, 14, 2\",\"Quint. 3, 6, 23\",\"Quint. 8, 3, 33\",\"Sen. Ep. 58, 6\"],\"notas\":\"Forma e acepções confirmadas por Lewis & Short e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_15854-e5",
-    "volume_id": "faria",
-    "doc_name": "chunk_15854",
-    "page_num": 15854,
-    "lemmas": [
-      "sum",
-      "sum"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "verbo 'ser/estar': existir, haver; auxiliar na formação de tempos compostos e passivos.",
-    "exemplos": [],
-    "notas": "Lemas e significados baseados em Lewis & Short/Whitaker; morfologia real (irregular, infinitivo 'esse') não se encaixa no vocabulário requerido — marcado em flags. | [dedupe] redirect → chunk_17241:17241:1 | [dedupe] redirect → chunk_17241:17241:1",
-    "raw_text": "{\"id\":\"chunk_15854:15854:1\",\"lemas\":[\"esse\",\"sum\",\"est\"],\"lema_canonico\":\"sum\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"verbo 'ser/estar': existir, haver; auxiliar na formação de tempos compostos e passivos.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Lemas e significados baseados em Lewis & Short/Whitaker; morfologia real (irregular, infinitivo 'esse') não se encaixa no vocabulário requerido — marcado em flags.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_15854:15854:1\",\"lemas\":[\"esse\",\"sum\",\"est\"],\"lema_canonico\":\"sum\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"verbo 'ser/estar': existir, haver; auxiliar na formação de tempos compostos e passivos.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Lemas e significados baseados em Lewis & Short/Whitaker; morfologia real (irregular, infinitivo 'esse') não se encaixa no vocabulário requerido — marcado em flags.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}"
-  },
-  {
     "id": "chunk_15854-e6",
     "volume_id": "faria",
     "doc_name": "chunk_15854",
@@ -1362,28 +1142,6 @@
     "notas": "Forma confirmada em Lewis & Short e Whitaker; normalizada a grafia e declinação.",
     "raw_text": "{\"id\":\"chunk_15854:15854:3\",\"lemas\":[\"liciatorium\",\"līcĭātōrĭum\"],\"lema_canonico\":\"liciatorium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"weaver's beam; the beam or part of a loom (late Latin).\",\"aliases\":[],\"exemplos\":[\"Vulg. 1 Reg. 17, 7\"],\"notas\":\"Forma confirmada em Lewis & Short e Whitaker; normalizada a grafia e declinação.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_15854:15854:3\",\"lemas\":[\"liciatorium\",\"līcĭātōrĭum\"],\"lema_canonico\":\"liciatorium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"weaver's beam; the beam or part of a loom (late Latin).\",\"aliases\":[],\"exemplos\":[\"Vulg. 1 Reg. 17, 7\"],\"notas\":\"Forma confirmada em Lewis & Short e Whitaker; normalizada a grafia e declinação.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_15854-e8",
-    "volume_id": "faria",
-    "doc_name": "chunk_15854",
-    "page_num": 15854,
-    "lemmas": [
-      "licitus",
-      "licitus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "lawful, permitted, allowed; legitimately permitted.",
-    "exemplos": [],
-    "notas": "Adjetivo atestado por Whitaker e Lewis & Short; formas femin./neut. implícitas. | [dedupe] redirect → chunk_15855:15855:0 | [dedupe] redirect → chunk_15855:15855:0",
-    "raw_text": "{\"id\":\"chunk_15854:15854:4\",\"lemas\":[\"licitus\",\"lĭcĭtus\"],\"lema_canonico\":\"licitus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"lawful, permitted, allowed; legitimately permitted.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Adjetivo atestado por Whitaker e Lewis & Short; formas femin./neut. implícitas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_15854:15854:4\",\"lemas\":[\"licitus\",\"lĭcĭtus\"],\"lema_canonico\":\"licitus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"lawful, permitted, allowed; legitimately permitted.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Adjetivo atestado por Whitaker e Lewis & Short; formas femin./neut. implícitas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_15854-e9",
@@ -1496,28 +1254,6 @@
     "raw_json": "{\"id\":\"chunk_15856:15856:0\",\"lemas\":[\"linea\"],\"lema_canonico\":\"linea\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"fio de linho; fio empregado por tecelões; cordão, fita, tecido; linha, corda\",\"aliases\":[],\"exemplos\":[\"Verg. G. 1, 285\",\"Verg. Buc. 8, 73\"],\"notas\":\"Corrigido OCR 'licinea'→'linea'; gênero ajustado para f.; definição baseada em LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_15856-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_15856",
-    "page_num": 15856,
-    "lemmas": [
-      "linea",
-      "linea"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "fio (de linho); linha; cordão, fita; (em pesca/arquitetura) fio, prumo, linha",
-    "exemplos": [],
-    "notas": "Entrada confirmada e normalizada a partir do OCR; formas e sentidos verificados em LS e Whitaker. | [dedupe] redirect → chunk_15856:15856:0 | [dedupe] redirect → chunk_15856:15856:0",
-    "raw_text": "{\"id\":\"chunk_15856:15856:1\",\"lemas\":[\"linea\"],\"lema_canonico\":\"linea\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"fio (de linho); linha; cordão, fita; (em pesca/arquitetura) fio, prumo, linha\",\"aliases\":[],\"exemplos\":[\"Verg. G. 1, 285\",\"Verg. Buc. 8, 73\"],\"notas\":\"Entrada confirmada e normalizada a partir do OCR; formas e sentidos verificados em LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_15856:15856:1\",\"lemas\":[\"linea\"],\"lema_canonico\":\"linea\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"fio (de linho); linha; cordão, fita; (em pesca/arquitetura) fio, prumo, linha\",\"aliases\":[],\"exemplos\":[\"Verg. G. 1, 285\",\"Verg. Buc. 8, 73\"],\"notas\":\"Entrada confirmada e normalizada a partir do OCR; formas e sentidos verificados em LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_15857-e1",
     "volume_id": "faria",
     "doc_name": "chunk_15857",
@@ -1560,28 +1296,6 @@
     "notas": "A forma 'licui' é perfeita atestada; relação entre vários infinitivos é complexa (liceō/licēre, liqueō, liquescō). Marquei como necessita revisão para atribuição precisa de lemas/morfologia.\n[ocr_pipeline 2025-08-16T23:14:11.413821Z] lemma_in='licēre' → 'liceo' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:10:19Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='liceo' → 'lĭcĕo'",
     "raw_text": "{\"id\":\"chunk_15858:15858:0\",\"lemas\":[\"licēre\",\"liqueō\",\"liquescō\"],\"lema_canonico\":\"licēre\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"licuī — forma de perfeito (1ª p. sg.) compartilhada por verbos como licēre ('ser permitido, ser lícito') e por formas de outros verbos relacionados; entrada trata de forma verbal, não de lema\",\"aliases\":[],\"exemplos\":[],\"notas\":\"A forma 'licui' é perfeita atestada; relação entre vários infinitivos é complexa (liceō/licēre, liqueō, liquescō). Marquei como necessita revisão para atribuição precisa de lemas/morfologia.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_15858:15858:0\",\"lemas\":[\"licēre\",\"liqueō\",\"liquescō\"],\"lema_canonico\":\"licēre\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"licuī — forma de perfeito (1ª p. sg.) compartilhada por verbos como licēre ('ser permitido, ser lícito') e por formas de outros verbos relacionados; entrada trata de forma verbal, não de lema\",\"aliases\":[],\"exemplos\":[],\"notas\":\"A forma 'licui' é perfeita atestada; relação entre vários infinitivos é complexa (liceō/licēre, liqueō, liquescō). Marquei como necessita revisão para atribuição precisa de lemas/morfologia.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_15859-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15859",
-    "page_num": 15859,
-    "lemmas": [
-      "licēre",
-      "licēre"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "ser lícito; ser permitido; pode-se; constrói-se com infin. ou subj.; perf. licuit.",
-    "exemplos": [],
-    "notas": "Normalizado para infinitivo licēre; confirmado por LS e Lat→Deu; marc. impers. | [dedupe] redirect → chunk_15854:15854:6 | [dedupe] redirect → chunk_15854:15854:6",
-    "raw_text": "{\"id\":\"chunk_15859:15859:0\",\"lemas\":[\"licēre\"],\"lema_canonico\":\"licēre\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"impers.\"],\"definicao\":\"ser lícito; ser permitido; pode-se; constrói-se com infin. ou subj.; perf. licuit.\",\"aliases\":[\"licet\"],\"exemplos\":[\"Cic. Att. 12, 23, 5\",\"Plaut. Men. 5, 9, 97\"],\"notas\":\"Normalizado para infinitivo licēre; confirmado por LS e Lat→Deu; marc. impers.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_15859:15859:0\",\"lemas\":[\"licēre\"],\"lema_canonico\":\"licēre\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"impers.\"],\"definicao\":\"ser lícito; ser permitido; pode-se; constrói-se com infin. ou subj.; perf. licuit.\",\"aliases\":[\"licet\"],\"exemplos\":[\"Cic. Att. 12, 23, 5\",\"Plaut. Men. 5, 9, 97\"],\"notas\":\"Normalizado para infinitivo licēre; confirmado por LS e Lat→Deu; marc. impers.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_15859-e2",
@@ -1650,28 +1364,6 @@
     "raw_json": "{\"id\":\"chunk_15860:15860:0\",\"lemas\":[\"Licymnia\"],\"lema_canonico\":\"Licymnia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Nome próprio feminino (Horácio).\",\"aliases\":[],\"exemplos\":[\"Hor. O. 2, 12, 13\"],\"notas\":\"Mantido conforme primeira passada; forma própria atestada em Horácio.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}"
   },
   {
-    "id": "chunk_15860-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_15860",
-    "page_num": 15860,
-    "lemmas": [
-      "laedo",
-      "laedo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Ferir, magoar, ofender; também danificar, prejudicar; arrematar/lesar em sentido técnico judicial/mercatorial em algumas ocorrências.",
-    "exemplos": [],
-    "notas": "Entrada original parecia conter erro de OCR ('līdŏ...'); corrigido para laedō com base em dicionários. | [dedupe] redirect → chunk_15304:15304:0 | [dedupe] redirect → chunk_15304:15304:0",
-    "raw_text": "{\"id\":\"chunk_15860:15860:1\",\"lemas\":[\"laedo\",\"laedō\"],\"lema_canonico\":\"laedo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Ferir, magoar, ofender; também danificar, prejudicar; arrematar/lesar em sentido técnico judicial/mercatorial em algumas ocorrências.\",\"aliases\":[],\"exemplos\":[\"Lucr. 5, 1001\"],\"notas\":\"Entrada original parecia conter erro de OCR ('līdŏ...'); corrigido para laedō com base em dicionários.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_15860:15860:1\",\"lemas\":[\"laedo\",\"laedō\"],\"lema_canonico\":\"laedo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Ferir, magoar, ofender; também danificar, prejudicar; arrematar/lesar em sentido técnico judicial/mercatorial em algumas ocorrências.\",\"aliases\":[],\"exemplos\":[\"Lucr. 5, 1001\"],\"notas\":\"Entrada original parecia conter erro de OCR ('līdŏ...'); corrigido para laedō com base em dicionários.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_15861-e1",
     "volume_id": "faria",
     "doc_name": "chunk_15861",
@@ -1714,28 +1406,6 @@
     "notas": "Grafia normalizada para lenōsus; sentido e attestações baseados em Whitaker e em passagens citadas.",
     "raw_text": "{\"id\":\"chunk_15862:15862:0\",\"lemas\":[\"lenōsus\",\"lenosus\"],\"lema_canonico\":\"lenōsus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"adj. que denota envolvimento com leno/lenam: 1) (lit.) relacionado a leno/lenas; 2) (fig.) lascivo, aquiescente a leno; em autores, também com sentidos de doença de baço ou arrogância em contextos isolados\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 7, 201\",\"Plaut. Cas. 305\"],\"notas\":\"Grafia normalizada para lenōsus; sentido e attestações baseados em Whitaker e em passagens citadas.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_15862:15862:0\",\"lemas\":[\"lenōsus\",\"lenosus\"],\"lema_canonico\":\"lenōsus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"adj. que denota envolvimento com leno/lenam: 1) (lit.) relacionado a leno/lenas; 2) (fig.) lascivo, aquiescente a leno; em autores, também com sentidos de doença de baço ou arrogância em contextos isolados\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 7, 201\",\"Plaut. Cas. 305\"],\"notas\":\"Grafia normalizada para lenōsus; sentido e attestações baseados em Whitaker e em passagens citadas.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_15863-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15863",
-    "page_num": 15863,
-    "lemmas": [
-      "ligamen",
-      "ligamen"
-    ],
-    "morfologia": "s. neut. 3ª (-is)",
-    "morph_render": "s. neut. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Laço, cordão, fita; ligadura, venda; também, vínculo ou enlace (uso poético/prosa).",
-    "exemplos": [],
-    "notas": "Entradas e exemplos unificados a partir de LS e Whitaker; lema apresentado na forma nominativa clássica. | [dedupe] redirect → chunk_15864:15864:0 | [dedupe] redirect → chunk_15864:15864:0",
-    "raw_text": "{\"id\":\"chunk_15863:15863:0\",\"lemas\":[\"ligamen\"],\"lema_canonico\":\"ligamen\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Laço, cordão, fita; ligadura, venda; também, vínculo ou enlace (uso poético/prosa).\",\"aliases\":[],\"exemplos\":[\"Prop. 2, 22, 15\",\"Ov. Met. 14, 230\",\"Col. 11, 2, 92\",\"Col. 12, 8, 1\",\"Col. 6, 6, 4\"],\"notas\":\"Entradas e exemplos unificados a partir de LS e Whitaker; lema apresentado na forma nominativa clássica.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_15863:15863:0\",\"lemas\":[\"ligamen\"],\"lema_canonico\":\"ligamen\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Laço, cordão, fita; ligadura, venda; também, vínculo ou enlace (uso poético/prosa).\",\"aliases\":[],\"exemplos\":[\"Prop. 2, 22, 15\",\"Ov. Met. 14, 230\",\"Col. 11, 2, 92\",\"Col. 12, 8, 1\",\"Col. 6, 6, 4\"],\"notas\":\"Entradas e exemplos unificados a partir de LS e Whitaker; lema apresentado na forma nominativa clássica.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_15864-e1",
@@ -1936,28 +1606,6 @@
     "raw_json": "{\"id\":\"chunk_15872:15872:0\",\"lemas\":[\"lignarius\",\"lignārius\"],\"lema_canonico\":\"lignarius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Relativo à madeira; (subst.) trabalhador da madeira, carpinteiro, comerciante ou transportador de madeira.\",\"aliases\":[],\"exemplos\":[\"Liv. 35, 41, 10\",\"Pall. 1, 6, 2\",\"Vulg. Isa. 44, 13\"],\"notas\":\"Unificado lema e sentidos a partir de Lewis & Short e Whitaker; grafia com macron normalizada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_15873-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15873",
-    "page_num": 15873,
-    "lemmas": [
-      "lignarius",
-      "lignarius"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "of or belonging to wood; a worker in wood, carpenter/joiner; timber‑merchant; also a wood‑carrier",
-    "exemplos": [],
-    "notas": "[dedupe] redirect → chunk_15872:15872:0 | [dedupe] redirect → chunk_15872:15872:0",
-    "raw_text": "{\"id\":\"chunk_15873:15873:0\",\"lemas\":[\"lignarius\"],\"lema_canonico\":\"lignarius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"of or belonging to wood; a worker in wood, carpenter/joiner; timber‑merchant; also a wood‑carrier\",\"aliases\":[],\"exemplos\":[\"Pall. 1, 6, 2\",\"Liv. 35, 41\",\"Hier. Ep. 108, 8\",\"Vulg. Isa. 44, 13\"],\"notas\":\"\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_15873:15873:0\",\"lemas\":[\"lignarius\"],\"lema_canonico\":\"lignarius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"of or belonging to wood; a worker in wood, carpenter/joiner; timber‑merchant; also a wood‑carrier\",\"aliases\":[],\"exemplos\":[\"Pall. 1, 6, 2\",\"Liv. 35, 41\",\"Hier. Ep. 108, 8\",\"Vulg. Isa. 44, 13\"],\"notas\":\"\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_15874-e1",
     "volume_id": "faria",
     "doc_name": "chunk_15874",
@@ -2000,28 +1648,6 @@
     "notas": "Ligneus (LS: lignĕus) é a forma atestada; ligneulus possivelmente dim. variante editorial.",
     "raw_text": "{\"id\":\"chunk_15875:15875:0\",\"lemas\":[\"ligneus\",\"ligneulus\"],\"lema_canonico\":\"ligneus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"De madeira; feito de madeira, lenhoso.\",\"aliases\":[],\"exemplos\":[\"Cic. Q. Fr. 3, 7, 2\"],\"notas\":\"Ligneus (LS: lignĕus) é a forma atestada; ligneulus possivelmente dim. variante editorial.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_15875:15875:0\",\"lemas\":[\"ligneus\",\"ligneulus\"],\"lema_canonico\":\"ligneus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"De madeira; feito de madeira, lenhoso.\",\"aliases\":[],\"exemplos\":[\"Cic. Q. Fr. 3, 7, 2\"],\"notas\":\"Ligneus (LS: lignĕus) é a forma atestada; ligneulus possivelmente dim. variante editorial.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_15876-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15876",
-    "page_num": 15876,
-    "lemmas": [
-      "ligneus",
-      "ligneus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "De madeira; lenhoso, semelhante a madeira; por extensão: seco, magro.",
-    "exemplos": [],
-    "notas": "Normalizada grafia e sentidos conforme LS e Whitaker. | [dedupe] redirect → chunk_15875:15875:0 | [dedupe] redirect → chunk_15875:15875:0",
-    "raw_text": "{\"id\":\"chunk_15876:15876:0\",\"lemas\":[\"ligneus\",\"lignĕus\"],\"lema_canonico\":\"ligneus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"De madeira; lenhoso, semelhante a madeira; por extensão: seco, magro.\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 5, 59\",\"Plin. H. Nat. 15, 86, 3\"],\"notas\":\"Normalizada grafia e sentidos conforme LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_15876:15876:0\",\"lemas\":[\"ligneus\",\"lignĕus\"],\"lema_canonico\":\"ligneus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"De madeira; lenhoso, semelhante a madeira; por extensão: seco, magro.\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 5, 59\",\"Plin. H. Nat. 15, 86, 3\"],\"notas\":\"Normalizada grafia e sentidos conforme LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_15877-e1",
@@ -2134,28 +1760,6 @@
     "raw_json": "{\"id\":\"chunk_15881:15881:0\",\"lemas\":[\"ligula\",\"lingula\"],\"lema_canonico\":\"ligula\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Pequena língua / língua de terra; pequeno utensílio (colherinha), ou lingueta de calçado.\",\"aliases\":[],\"exemplos\":[\"Caes. B. G. 3, 12\",\"Plin. H. Nat. 21, 84\"],\"notas\":\"Inclui variante lingula; sentidos e citações confirmados em LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_15882-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15882",
-    "page_num": 15882,
-    "lemmas": [
-      "ligumen",
-      "ligumen"
-    ],
-    "morfologia": "s. neut. 3ª (-is)",
-    "morph_render": "s. neut. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:low",
-    "needs_review": 1,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada parece ser variante gráfica/encaminhamento para legumen; falta confirmação em dicionários principais.",
-    "raw_text": "{\"id\":\"chunk_15882:15882:0\",\"lemas\":[\"ligumen\"],\"lema_canonico\":\"ligumen\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"legumen\"],\"exemplos\":[],\"notas\":\"Entrada parece ser variante gráfica/encaminhamento para legumen; falta confirmação em dicionários principais.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"redirect_only\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_15882:15882:0\",\"lemas\":[\"ligumen\"],\"lema_canonico\":\"ligumen\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"legumen\"],\"exemplos\":[],\"notas\":\"Entrada parece ser variante gráfica/encaminhamento para legumen; falta confirmação em dicionários principais.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"redirect_only\",\"needs_review\"]}"
-  },
-  {
     "id": "chunk_15883-e1",
     "volume_id": "faria",
     "doc_name": "chunk_15883",
@@ -2198,50 +1802,6 @@
     "notas": "Forma plural atestada em Lewis & Short (Lĭgŭres). | [ocr_fix 2025-08-17T19:49:44Z] match direto em LS por lemma/lemma_norm | lemma_in='Ligures' → 'Lĭgŭres'",
     "raw_text": "{\"id\":\"chunk_15883:15883:1\",\"lemas\":[\"Ligures\"],\"lema_canonico\":\"Ligures\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Os Ligures; povo da Ligúria (etnónimo).\",\"aliases\":[],\"exemplos\":[\"Cic. Agr. 2, 35\"],\"notas\":\"Forma plural atestada em Lewis & Short (Lĭgŭres).\",\"flags\":[\"src_ls\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_15883:15883:1\",\"lemas\":[\"Ligures\"],\"lema_canonico\":\"Ligures\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Os Ligures; povo da Ligúria (etnónimo).\",\"aliases\":[],\"exemplos\":[\"Cic. Agr. 2, 35\"],\"notas\":\"Forma plural atestada em Lewis & Short (Lĭgŭres).\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_15884-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15884",
-    "page_num": 15884,
-    "lemmas": [
-      "Lĭgŭres",
-      "Lĭgŭres"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Os Lígures, povo da Ligúria (Gentílico/etnónimo).",
-    "exemplos": [],
-    "notas": "Entrée confirmada em Lewis & Short (Lĭgŭres). | [dedupe] redirect → chunk_15883:15883:1 | [dedupe] redirect → chunk_15883:15883:1 | [ocr_fix 2025-08-17T19:53:51Z] match direto em LS por lemma/lemma_norm | lemma_in='Ligures' → 'Lĭgŭres'",
-    "raw_text": "{\"id\":\"chunk_15884:15884:0\",\"lemas\":[\"Ligures\",\"Lĭgŭres\"],\"lema_canonico\":\"Ligures\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Os Lígures, povo da Ligúria (Gentílico/etnónimo).\",\"aliases\":[],\"exemplos\":[\"Cic. Agr. 2, 95\"],\"notas\":\"Entrée confirmada em Lewis & Short (Lĭgŭres).\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_15884:15884:0\",\"lemas\":[\"Ligures\",\"Lĭgŭres\"],\"lema_canonico\":\"Ligures\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Os Lígures, povo da Ligúria (Gentílico/etnónimo).\",\"aliases\":[],\"exemplos\":[\"Cic. Agr. 2, 95\"],\"notas\":\"Entrée confirmada em Lewis & Short (Lĭgŭres).\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_15885-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15885",
-    "page_num": 15885,
-    "lemmas": [
-      "Litubĭum",
-      "Litubĭum"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Ligúria, região da península Itálica entre os Apeninos e o mar Mediterrâneo (topônimo).",
-    "exemplos": [],
-    "notas": "Entrada topônima; leitura do OCR confirmada parcialmente, mas verificação adicional recomendada.\n[ocr_pipeline 2025-08-16T23:14:10.583332Z] lemma_in='Līguria' → 'Litubĭum' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:10:18Z] match direto em LS por lemma/lemma_norm | lemma_in='Litubĭum' → 'Litubĭum' | [dedupe] redirect → chunk_15973:15973:0 | [dedupe] redirect → chunk_15973:15973:0",
-    "raw_text": "{\"id\":\"chunk_15885:15885:0\",\"lemas\":[\"Līguria\",\"Liguria\"],\"lema_canonico\":\"Līguria\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Ligúria, região da península Itálica entre os Apeninos e o mar Mediterrâneo (topônimo).\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 3, 48\"],\"notas\":\"Entrada topônima; leitura do OCR confirmada parcialmente, mas verificação adicional recomendada.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_15885:15885:0\",\"lemas\":[\"Līguria\",\"Liguria\"],\"lema_canonico\":\"Līguria\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Ligúria, região da península Itálica entre os Apeninos e o mar Mediterrâneo (topônimo).\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 3, 48\"],\"notas\":\"Entrada topônima; leitura do OCR confirmada parcialmente, mas verificação adicional recomendada.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
     "id": "chunk_15885-e2",
@@ -2530,28 +2090,6 @@
     "raw_json": "{\"id\":\"chunk_15896:15896:1\",\"lemas\":[\"limbŏlārĭus\",\"limbolarius\",\"limbularius\"],\"lema_canonico\":\"limbŏlārĭus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"maker of edgings or fringes for garments; a fringe-maker (textores limbolarii).\",\"aliases\":[],\"exemplos\":[\"Plaut. Aul. 3, 5, 45\",\"Inscr. Orell. 4213\"],\"notas\":\"Normalizado conforme Lewis & Short; variantes epigráficas/graphical attestation (limbulārius) incluídas.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_15896-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_15896",
-    "page_num": 15896,
-    "lemmas": [
-      "limatus",
-      "limatus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Particípio perfeito passivo de līmo; 'limado', 'polido', 'aperfeiçoado'.",
-    "exemplos": [],
-    "notas": "Marcada a natureza participial e adjetival; alinhado com līmātus (LS). | [dedupe] redirect → chunk_15904:15904:1 | [dedupe] redirect → chunk_15904:15904:1",
-    "raw_text": "{\"id\":\"chunk_15896:15896:0\",\"lemas\":[\"limatus\",\"limāta\",\"limatum\"],\"lema_canonico\":\"limatus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo de līmo; 'limado', 'polido', 'aperfeiçoado'.\",\"aliases\":[],\"exemplos\":[\"Plin. Ep. 1, 20, 21\",\"Cic. Br. 93\"],\"notas\":\"Marcada a natureza participial e adjetival; alinhado com līmātus (LS).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_15896:15896:0\",\"lemas\":[\"limatus\",\"limāta\",\"limatum\"],\"lema_canonico\":\"limatus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo de līmo; 'limado', 'polido', 'aperfeiçoado'.\",\"aliases\":[],\"exemplos\":[\"Plin. Ep. 1, 20, 21\",\"Cic. Br. 93\"],\"notas\":\"Marcada a natureza participial e adjetival; alinhado com līmātus (LS).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_15897-e1",
     "volume_id": "faria",
     "doc_name": "chunk_15897",
@@ -2750,50 +2288,6 @@
     "raw_json": "{\"id\":\"chunk_15904:15904:1\",\"lemas\":[\"līmātus\",\"līmātē\",\"līmātor\"],\"lema_canonico\":\"līmātus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio/adjetivo de līmō: polido, apurado, acabado; līmātē: advérbio 'de modo fino, polidamente'; līmātor: agente 'aquele que lima/poliu'.\",\"aliases\":[],\"exemplos\":[\"Cic. Or. 1, 39\",\"Quint. Inst. 2, 8, 4\",\"Plin. Ep. 1, 20, 21\"],\"notas\":\"Unificadas formas attestadas em LS e Lat→Deu; marca-se como part. perf. pass.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_15904-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_15904",
-    "page_num": 15904,
-    "lemmas": [
-      "Līmus",
-      "līmus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Substantivo com dois sentidos principais: 1) lama, lodo, limo; 2) peça de roupa (apron/vestis) com faixa oblíqua, usada em cerimônias (sentido técnico, atestado no LS).",
-    "exemplos": [],
-    "notas": "Homônimo com o adjetivo līmus ('obliquo, de lado'); entradas distintas confirmadas por LS e Whitaker. | [dedupe] redirect → chunk_15909:15909:0 | [dedupe] redirect → chunk_15909:15909:0 | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='līmus' → 'Līmus'",
-    "raw_text": "{\"id\":\"chunk_15904:15904:2\",\"lemas\":[\"līmus\",\"limi\"],\"lema_canonico\":\"līmus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Substantivo com dois sentidos principais: 1) lama, lodo, limo; 2) peça de roupa (apron/vestis) com faixa oblíqua, usada em cerimônias (sentido técnico, atestado no LS).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Homônimo com o adjetivo līmus ('obliquo, de lado'); entradas distintas confirmadas por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_15904:15904:2\",\"lemas\":[\"līmus\",\"limi\"],\"lema_canonico\":\"līmus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Substantivo com dois sentidos principais: 1) lama, lodo, limo; 2) peça de roupa (apron/vestis) com faixa oblíqua, usada em cerimônias (sentido técnico, atestado no LS).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Homônimo com o adjetivo līmus ('obliquo, de lado'); entradas distintas confirmadas por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_15905-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15905",
-    "page_num": 15905,
-    "lemmas": [
-      "līmō",
-      "līmō"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "(subst.) título de obra de Cícero (Leimōn/’The Meadow’); também cognomen romano",
-    "exemplos": [],
-    "notas": "Reconhecido como substantivo 3ª decl. (līmō, ōnis) conforme Lewis & Short e resumo Lat→Deu. | [dedupe] redirect → chunk_15905:15905:1 | [dedupe] redirect → chunk_15905:15905:1",
-    "raw_text": "{\"id\":\"chunk_15905:15905:0\",\"lemas\":[\"līmō\"],\"lema_canonico\":\"līmō\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"(subst.) título de obra de Cícero (Leimōn/’The Meadow’); também cognomen romano\",\"aliases\":[],\"exemplos\":[\"Suet. Vit. Ter.\"],\"notas\":\"Reconhecido como substantivo 3ª decl. (līmō, ōnis) conforme Lewis & Short e resumo Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_15905:15905:0\",\"lemas\":[\"līmō\"],\"lema_canonico\":\"līmō\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"(subst.) título de obra de Cícero (Leimōn/’The Meadow’); também cognomen romano\",\"aliases\":[],\"exemplos\":[\"Suet. Vit. Ter.\"],\"notas\":\"Reconhecido como substantivo 3ª decl. (līmō, ōnis) conforme Lewis & Short e resumo Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_15905-e2",
     "volume_id": "faria",
     "doc_name": "chunk_15905",
@@ -2904,28 +2398,6 @@
     "raw_json": "{\"id\":\"chunk_15909:15909:0\",\"lemas\":[\"limus\"],\"lema_canonico\":\"limus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"1) Lodo, lama, limo; 2) depósito, sedimento; 3) (fig.) mancha, impureza; (também) túnica/cinturão adornado de púrpura; como adj.: oblíquo, de lado.\",\"aliases\":[],\"exemplos\":[\"Verg. G. 1, 116\",\"Hor. S. 2, 4, 80\",\"Ov. P. 4, 2, 17, 70\"],\"notas\":\"Entrada reúne sentidos nominal e adjetival atestados em LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_15910-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15910",
-    "page_num": 15910,
-    "lemmas": [
-      "limus",
-      "limus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "an apron or girdle (often with a purple border) worn by attendants at sacrifices and certain magistrates; also ‘oblique glance’/askance in adjectival/other senses elsewhere",
-    "exemplos": [],
-    "notas": "Entry follows Lewis & Short and Whitaker: cultic garment sense attested in Vergil. | [dedupe] redirect → chunk_15909:15909:0 | [dedupe] redirect → chunk_15909:15909:0",
-    "raw_text": "{\"id\":\"chunk_15910:15910:0\",\"lemas\":[\"limus\",\"līmus\"],\"lema_canonico\":\"limus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"an apron or girdle (often with a purple border) worn by attendants at sacrifices and certain magistrates; also ‘oblique glance’/askance in adjectival/other senses elsewhere\",\"aliases\":[],\"exemplos\":[\"Verg. A. 12, 120\"],\"notas\":\"Entry follows Lewis & Short and Whitaker: cultic garment sense attested in Vergil.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_15910:15910:0\",\"lemas\":[\"limus\",\"līmus\"],\"lema_canonico\":\"limus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"an apron or girdle (often with a purple border) worn by attendants at sacrifices and certain magistrates; also ‘oblique glance’/askance in adjectival/other senses elsewhere\",\"aliases\":[],\"exemplos\":[\"Verg. A. 12, 120\"],\"notas\":\"Entry follows Lewis & Short and Whitaker: cultic garment sense attested in Vergil.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_15911-e1",
     "volume_id": "faria",
     "doc_name": "chunk_15911",
@@ -3012,28 +2484,6 @@
     "notas": "Forma e status toponímico confirmados em Lewis & Short e Lat→Deu.",
     "raw_text": "{\"id\":\"chunk_15914:15914:0\",\"lemas\":[\"Lindus\",\"Lindĭus\"],\"lema_canonico\":\"Lindus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Cidade de Lindos, na ilha de Rodes; também adj. Lindiius/Lindĭus, relativo a Lindus.\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 3, 54\"],\"notas\":\"Forma e status toponímico confirmados em Lewis & Short e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_15914:15914:0\",\"lemas\":[\"Lindus\",\"Lindĭus\"],\"lema_canonico\":\"Lindus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Cidade de Lindos, na ilha de Rodes; também adj. Lindiius/Lindĭus, relativo a Lindus.\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 3, 54\"],\"notas\":\"Forma e status toponímico confirmados em Lewis & Short e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_15915-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15915",
-    "page_num": 15915,
-    "lemmas": [
-      "linea",
-      "linea"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "1) Fio de linho, corda, linha (p.ex. linha de pesca, cordel de prumo); 2) traço, linha geométrica; 3) limite, demarcação; 4) corda marcando partida/chegada.",
-    "exemplos": [],
-    "notas": "Combina variantes 'linea'/'linia' e sentidos listados em LS/Whitaker. | [dedupe] redirect → chunk_15856:15856:0 | [dedupe] redirect → chunk_15856:15856:0",
-    "raw_text": "{\"id\":\"chunk_15915:15915:0\",\"lemas\":[\"linea\",\"linia\"],\"lema_canonico\":\"linea\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"1) Fio de linho, corda, linha (p.ex. linha de pesca, cordel de prumo); 2) traço, linha geométrica; 3) limite, demarcação; 4) corda marcando partida/chegada.\",\"aliases\":[],\"exemplos\":[\"Mart. 8, 78, 7\",\"Mart. 3, 58, 27\",\"Cic. Q. Fr. 3, 1, 2\",\"Hor. Ep. 1, 16, 79\",\"Quint. 2, 6, 2\"],\"notas\":\"Combina variantes 'linea'/'linia' e sentidos listados em LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_15915:15915:0\",\"lemas\":[\"linea\",\"linia\"],\"lema_canonico\":\"linea\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"1) Fio de linho, corda, linha (p.ex. linha de pesca, cordel de prumo); 2) traço, linha geométrica; 3) limite, demarcação; 4) corda marcando partida/chegada.\",\"aliases\":[],\"exemplos\":[\"Mart. 8, 78, 7\",\"Mart. 3, 58, 27\",\"Cic. Q. Fr. 3, 1, 2\",\"Hor. Ep. 1, 16, 79\",\"Quint. 2, 6, 2\"],\"notas\":\"Combina variantes 'linea'/'linia' e sentidos listados em LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_15916-e1",
@@ -3300,50 +2750,6 @@
     "raw_json": "{\"id\":\"chunk_15927:15927:0\",\"lemas\":[\"linguōsus\",\"linguosus\",\"linguōsa\",\"linguōsum\"],\"lema_canonico\":\"linguosus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"tagarela, loquaz; falador.\",\"aliases\":[],\"exemplos\":[\"Petr. 43, 3\"],\"notas\":\"Grafia com macron em ū confirmada pelo Lewis & Short; variantes de género incluídas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_15928-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15928",
-    "page_num": 15928,
-    "lemmas": [
-      "linea",
-      "linea"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "fio de linho; corda, linha; traço ou marca linear; figura/contorno; figuradamente, linha ou sequência.",
-    "exemplos": [],
-    "notas": "Inclui variante linia; normalizada a declinação 1ª f. | [dedupe] redirect → chunk_15856:15856:0 | [dedupe] redirect → chunk_15856:15856:0",
-    "raw_text": "{\"id\":\"chunk_15928:15928:0\",\"lemas\":[\"linea\",\"linia\"],\"lema_canonico\":\"linea\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"fio de linho; corda, linha; traço ou marca linear; figura/contorno; figuradamente, linha ou sequência.\",\"aliases\":[],\"exemplos\":[\"Plin. 9, 17\"],\"notas\":\"Inclui variante linia; normalizada a declinação 1ª f.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_15928:15928:0\",\"lemas\":[\"linea\",\"linia\"],\"lema_canonico\":\"linea\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"fio de linho; corda, linha; traço ou marca linear; figura/contorno; figuradamente, linha ou sequência.\",\"aliases\":[],\"exemplos\":[\"Plin. 9, 17\"],\"notas\":\"Inclui variante linia; normalizada a declinação 1ª f.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_15929-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15929",
-    "page_num": 15929,
-    "lemmas": [
-      "lineamentum",
-      "lineamentum"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Linha, traço ou marca; em geometria, contorno/forma; figurado, feição ou traço distintivo; no pl., desenhos ou obras de artistas.",
-    "exemplos": [],
-    "notas": "Unificado conforme Lewis & Short e Whitaker; variante com breves mantida. | [dedupe] redirect → chunk_15916:15916:0 | [dedupe] redirect → chunk_15916:15916:0",
-    "raw_text": "{\"id\":\"chunk_15929:15929:0\",\"lemas\":[\"lineamentum\",\"līnĕāmentum\"],\"lema_canonico\":\"lineamentum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Linha, traço ou marca; em geometria, contorno/forma; figurado, feição ou traço distintivo; no pl., desenhos ou obras de artistas.\",\"aliases\":[],\"exemplos\":[\"Cic. Or. 1, 41\",\"Cic. Acad. 2, 36\",\"Cic. N. D. 1, 18\",\"Cic. Verr. 2, 2, §89\",\"Cic. Div. 1, 13\",\"Liv. 21, 4\"],\"notas\":\"Unificado conforme Lewis & Short e Whitaker; variante com breves mantida.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_15929:15929:0\",\"lemas\":[\"lineamentum\",\"līnĕāmentum\"],\"lema_canonico\":\"lineamentum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Linha, traço ou marca; em geometria, contorno/forma; figurado, feição ou traço distintivo; no pl., desenhos ou obras de artistas.\",\"aliases\":[],\"exemplos\":[\"Cic. Or. 1, 41\",\"Cic. Acad. 2, 36\",\"Cic. N. D. 1, 18\",\"Cic. Verr. 2, 2, §89\",\"Cic. Div. 1, 13\",\"Liv. 21, 4\"],\"notas\":\"Unificado conforme Lewis & Short e Whitaker; variante com breves mantida.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_15930-e1",
     "volume_id": "faria",
     "doc_name": "chunk_15930",
@@ -3430,28 +2836,6 @@
     "notas": "Entrada como particípio/adjetivo; mantida forma em -us,-a,-um.",
     "raw_text": "{\"id\":\"chunk_15932:15932:0\",\"lemas\":[\"linitus\"],\"lema_canonico\":\"linitus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"untado, besuntado, ungido — particípio perf. pass. de linio/lino.\",\"aliases\":[],\"exemplos\":[\"Plin. 20, 12, 47\"],\"notas\":\"Entrada como particípio/adjetivo; mantida forma em -us,-a,-um.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_15932:15932:0\",\"lemas\":[\"linitus\"],\"lema_canonico\":\"linitus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"untado, besuntado, ungido — particípio perf. pass. de linio/lino.\",\"aliases\":[],\"exemplos\":[\"Plin. 20, 12, 47\"],\"notas\":\"Entrada como particípio/adjetivo; mantida forma em -us,-a,-um.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_15933-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15933",
-    "page_num": 15933,
-    "lemmas": [
-      "linio",
-      "linio"
-    ],
-    "morfologia": "v. 4ª (-īre)",
-    "morph_render": "v. 4ª (-īre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "untar, besuntar; cobrir, revestir; figuradamente, sujar, manchar",
-    "exemplos": [],
-    "notas": "Formas e significado confirmados em Lewis & Short e Whitaker. | [dedupe] redirect → chunk_15931:15931:0 | [dedupe] redirect → chunk_15931:15931:0",
-    "raw_text": "{\"id\":\"chunk_15933:15933:0\",\"lemas\":[\"linio\"],\"lema_canonico\":\"linio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"untar, besuntar; cobrir, revestir; figuradamente, sujar, manchar\",\"aliases\":[],\"exemplos\":[\"Verg. G. 4, 39\",\"Ov. P. 1, 5, 16\",\"Ov. F. 3, 760\"],\"notas\":\"Formas e significado confirmados em Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_15933:15933:0\",\"lemas\":[\"linio\"],\"lema_canonico\":\"linio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"untar, besuntar; cobrir, revestir; figuradamente, sujar, manchar\",\"aliases\":[],\"exemplos\":[\"Verg. G. 4, 39\",\"Ov. P. 1, 5, 16\",\"Ov. F. 3, 760\"],\"notas\":\"Formas e significado confirmados em Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_15934-e1",
@@ -3628,28 +3012,6 @@
     "notas": "'lithus' conservado como variante/erro de OCR; forma e uso verificados em LS/Whitaker.",
     "raw_text": "{\"id\":\"chunk_15941:15941:0\",\"lemas\":[\"linter\"],\"lema_canonico\":\"linter\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"barca pequena, esquife; também cuba, tina ou calha\",\"aliases\":[\"lithus\"],\"exemplos\":[\"Cic. At. 10, 10, 5\"],\"notas\":\"'lithus' conservado como variante/erro de OCR; forma e uso verificados em LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_15941:15941:0\",\"lemas\":[\"linter\"],\"lema_canonico\":\"linter\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"barca pequena, esquife; também cuba, tina ou calha\",\"aliases\":[\"lithus\"],\"exemplos\":[\"Cic. At. 10, 10, 5\"],\"notas\":\"'lithus' conservado como variante/erro de OCR; forma e uso verificados em LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_15942-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15942",
-    "page_num": 15942,
-    "lemmas": [
-      "linter",
-      "linter"
-    ],
-    "morfologia": "s. 3ª (-is)",
-    "morph_render": "s. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "barca pequena, esquife; também cuba, tina ou calha (uso literal e transferido)",
-    "exemplos": [],
-    "notas": "Genitivo linteris; gênero m./f. atestado nas fontes; entrada estava abreviada no OCR. | [dedupe] redirect → chunk_15941:15941:0 | [dedupe] redirect → chunk_15941:15941:0",
-    "raw_text": "{\"id\":\"chunk_15942:15942:0\",\"lemas\":[\"linter\"],\"lema_canonico\":\"linter\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"barca pequena, esquife; também cuba, tina ou calha (uso literal e transferido)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Genitivo linteris; gênero m./f. atestado nas fontes; entrada estava abreviada no OCR.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_15942:15942:0\",\"lemas\":[\"linter\"],\"lema_canonico\":\"linter\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"barca pequena, esquife; também cuba, tina ou calha (uso literal e transferido)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Genitivo linteris; gênero m./f. atestado nas fontes; entrada estava abreviada no OCR.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_15943-e1",
@@ -3850,28 +3212,6 @@
     "raw_json": "{\"id\":\"chunk_15951:15951:0\",\"lemas\":[\"Liternum\"],\"lema_canonico\":\"Liternum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Liternum: localidade da Campânia (cidade/possessio), também designa um praedium (estate) perto do rio Liternus.\",\"aliases\":[],\"exemplos\":[\"Liv. 22, 16\",\"Plin. 3, 5, 9\",\"Sen. Ep. 86\"],\"notas\":\"Topónimo e estate atestados em Lewis & Short; variante e referências adicionadas.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_15952-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15952",
-    "page_num": 15952,
-    "lemmas": [
-      "Liternum",
-      "Liternum"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "cidade/porto da Campânia (Liternum); também nome de um praedium atribuído a Scipio Africanus",
-    "exemplos": [],
-    "notas": "Corresponde a Līternum em Lewis & Short; unificadas formas e referências. | [dedupe] redirect → chunk_15951:15951:0 | [dedupe] redirect → chunk_15951:15951:0",
-    "raw_text": "{\"id\":\"chunk_15952:15952:0\",\"lemas\":[\"Liternum\",\"Līternum\"],\"lema_canonico\":\"Liternum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"cidade/porto da Campânia (Liternum); também nome de um praedium atribuído a Scipio Africanus\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 15, 714\",\"Plin. 3, 5, 9\",\"Liv. 22, 16\",\"Liv. 38, 52\",\"Liv. 38, 53\",\"Sil. 6, 654\",\"Sil. 8, 533\",\"Sen. Ep. 86\"],\"notas\":\"Corresponde a Līternum em Lewis & Short; unificadas formas e referências.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_15952:15952:0\",\"lemas\":[\"Liternum\",\"Līternum\"],\"lema_canonico\":\"Liternum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"cidade/porto da Campânia (Liternum); também nome de um praedium atribuído a Scipio Africanus\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 15, 714\",\"Plin. 3, 5, 9\",\"Liv. 22, 16\",\"Liv. 38, 52\",\"Liv. 38, 53\",\"Sil. 6, 654\",\"Sil. 8, 533\",\"Sen. Ep. 86\"],\"notas\":\"Corresponde a Līternum em Lewis & Short; unificadas formas e referências.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_15953-e1",
     "volume_id": "faria",
     "doc_name": "chunk_15953",
@@ -4004,28 +3344,6 @@
     "raw_json": "{\"id\":\"chunk_15958:15958:0\",\"lemas\":[\"litigosus\",\"lītīgōsus\"],\"lema_canonico\":\"litigosus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"que gosta de litígios; litigioso; em litígio, contencioso\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 2, 37\",\"Cic. De Or. 3, 106\",\"Cic. Fin. 5, 26\"],\"notas\":\"Padronizado lema; sentidos atestados nos exemplos citados.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_15959-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15959",
-    "page_num": 15959,
-    "lemmas": [
-      "litigium",
-      "litigium"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "disputa, litígio, contenda; litigation, quarrel",
-    "exemplos": [],
-    "notas": "Confirmado como litigium, -i n.; exemplos LS/Whitaker corroboram. | [dedupe] redirect → chunk_15957:15957:0 | [dedupe] redirect → chunk_15957:15957:0",
-    "raw_text": "{\"id\":\"chunk_15959:15959:0\",\"lemas\":[\"litigium\"],\"lema_canonico\":\"litigium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"disputa, litígio, contenda; litigation, quarrel\",\"aliases\":[],\"exemplos\":[\"Plaut. Cas. 561\"],\"notas\":\"Confirmado como litigium, -i n.; exemplos LS/Whitaker corroboram.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_15959:15959:0\",\"lemas\":[\"litigium\"],\"lema_canonico\":\"litigium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"disputa, litígio, contenda; litigation, quarrel\",\"aliases\":[],\"exemplos\":[\"Plaut. Cas. 561\"],\"notas\":\"Confirmado como litigium, -i n.; exemplos LS/Whitaker corroboram.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_15960-e1",
     "volume_id": "faria",
     "doc_name": "chunk_15960",
@@ -4046,28 +3364,6 @@
     "notas": "Forma e sentido alinhados com Lewis & Short e Whitaker; marcada como intr.",
     "raw_text": "{\"id\":\"chunk_15960:15960:0\",\"lemas\":[\"litigō\",\"litigare\"],\"lema_canonico\":\"litigō\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"Pleitear, litigar; disputar, contestar; mover ação em juízo.\",\"aliases\":[],\"exemplos\":[\"Cic. A. 13, 37, 2\"],\"notas\":\"Forma e sentido alinhados com Lewis & Short e Whitaker; marcada como intr.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_15960:15960:0\",\"lemas\":[\"litigō\",\"litigare\"],\"lema_canonico\":\"litigō\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"Pleitear, litigar; disputar, contestar; mover ação em juízo.\",\"aliases\":[],\"exemplos\":[\"Cic. A. 13, 37, 2\"],\"notas\":\"Forma e sentido alinhados com Lewis & Short e Whitaker; marcada como intr.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_15961-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15961",
-    "page_num": 15961,
-    "lemmas": [
-      "lito",
-      "lito"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "oferecer um sacrifício sob auspícios favoráveis; obter ou buscar presságios favoráveis (litare, to make an auspicious offering).",
-    "exemplos": [],
-    "notas": "Entrada harmonizada com Lewis & Short (litō, āvī, ātum) e Lat→Deu. | [dedupe] redirect → chunk_15949:15949:0 | [dedupe] redirect → chunk_15949:15949:0",
-    "raw_text": "{\"id\":\"chunk_15961:15961:0\",\"lemas\":[\"lito\",\"litō\"],\"lema_canonico\":\"lito\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"oferecer um sacrifício sob auspícios favoráveis; obter ou buscar presságios favoráveis (litare, to make an auspicious offering).\",\"aliases\":[],\"exemplos\":[\"Plaut. Poen. 2, 41\",\"Liv. 5, 38\",\"Suet. Caes. 81\"],\"notas\":\"Entrada harmonizada com Lewis & Short (litō, āvī, ātum) e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_15961:15961:0\",\"lemas\":[\"lito\",\"litō\"],\"lema_canonico\":\"lito\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"oferecer um sacrifício sob auspícios favoráveis; obter ou buscar presságios favoráveis (litare, to make an auspicious offering).\",\"aliases\":[],\"exemplos\":[\"Plaut. Poen. 2, 41\",\"Liv. 5, 38\",\"Suet. Caes. 81\"],\"notas\":\"Entrada harmonizada com Lewis & Short (litō, āvī, ātum) e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_15962-e1",
@@ -4134,28 +3430,6 @@
     "notas": "Unificadas variantes (lītĕra, litera, littera); declinação feminina 1ª. | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='littera' → 'littĕra'",
     "raw_text": "{\"id\":\"chunk_15964:15964:0\",\"lemas\":[\"littera\",\"litera\"],\"lema_canonico\":\"littera\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"1) letra (do alfabeto), caráter da escrita; 2) modo de escrever; 3) carta (poét.), obras literárias, registros\",\"aliases\":[],\"exemplos\":[\"Cic. Mil. 15\",\"Cic. Att. 7, 2, 23\",\"Ov. Met. 9, 515\"],\"notas\":\"Unificadas variantes (lītĕra, litera, littera); declinação feminina 1ª.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_15964:15964:0\",\"lemas\":[\"littera\",\"litera\"],\"lema_canonico\":\"littera\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"1) letra (do alfabeto), caráter da escrita; 2) modo de escrever; 3) carta (poét.), obras literárias, registros\",\"aliases\":[],\"exemplos\":[\"Cic. Mil. 15\",\"Cic. Att. 7, 2, 23\",\"Ov. Met. 9, 515\"],\"notas\":\"Unificadas variantes (lītĕra, litera, littera); declinação feminina 1ª.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_15965-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15965",
-    "page_num": 15965,
-    "lemmas": [
-      "littĕra",
-      "littĕra"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "(pl. litterae) letra; carta, epístola; documento; obra literária; instrução, cultura.",
-    "exemplos": [],
-    "notas": "Entrada unificada: variante litra reconhecida como forma popular; lema canónico littera. | [dedupe] redirect → chunk_15964:15964:0 | [dedupe] redirect → chunk_15964:15964:0 | [ocr_fix 2025-08-17T19:53:51Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='littera' → 'littĕra'",
-    "raw_text": "{\"id\":\"chunk_15965:15965:0\",\"lemas\":[\"littera\",\"litra\"],\"lema_canonico\":\"littera\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"(pl. litterae) letra; carta, epístola; documento; obra literária; instrução, cultura.\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 4, 14, 1\",\"Cic. Verr. 5, 56\",\"Cic. Div. 2, 5\",\"Cic. Verr. 4, 106\",\"Cic. Leg. 1, 5\",\"Cic. Br. 259\"],\"notas\":\"Entrada unificada: variante litra reconhecida como forma popular; lema canónico littera.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_15965:15965:0\",\"lemas\":[\"littera\",\"litra\"],\"lema_canonico\":\"littera\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"(pl. litterae) letra; carta, epístola; documento; obra literária; instrução, cultura.\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 4, 14, 1\",\"Cic. Verr. 5, 56\",\"Cic. Div. 2, 5\",\"Cic. Verr. 4, 106\",\"Cic. Leg. 1, 5\",\"Cic. Br. 259\"],\"notas\":\"Entrada unificada: variante litra reconhecida como forma popular; lema canónico littera.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:med\"]}"
   },
   {
     "id": "chunk_15966-e1",
@@ -4532,28 +3806,6 @@
     "raw_json": "{\"id\":\"chunk_15980:15980:0\",\"lemas\":[\"līvesco\",\"līvēscō\"],\"lema_canonico\":\"līvesco\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"tornar-se lívido, ficar negro-azulado; figurado: invejar, ficar enciumado.\",\"aliases\":[],\"exemplos\":[\"Lucr. 3, 527\",\"Lucr. 3, 528\",\"Claud. Rapt. Pros. 3, 27\"],\"notas\":\"Concorda com Lewis & Short; registrado como verbo intransitivo (v. n.).\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_15981-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15981",
-    "page_num": 15981,
-    "lemmas": [
-      "lĭno",
-      "lĭno"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "verbo 'ungir, besuntar' — 'līvi' é 1ª pessoa do singular do perfeito ('eu besuntei').",
-    "exemplos": [],
-    "notas": "Corrigida a entrada: 'Līvi' tratada como forma perfeita de līno; alinhada com dados de Lat→Deu. | [dedupe] redirect → chunk_15746:15746:0 | [dedupe] redirect → chunk_15746:15746:0 | [ocr_fix 2025-08-17T19:58:34Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='līno' → 'lĭno'",
-    "raw_text": "{\"id\":\"chunk_15981:15981:0\",\"lemas\":[\"līno\"],\"lema_canonico\":\"līno\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"verbo 'ungir, besuntar' — 'līvi' é 1ª pessoa do singular do perfeito ('eu besuntei').\",\"aliases\":[\"līvi\"],\"exemplos\":[\"Col. 12, 50, 17\"],\"notas\":\"Corrigida a entrada: 'Līvi' tratada como forma perfeita de līno; alinhada com dados de Lat→Deu.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_15981:15981:0\",\"lemas\":[\"līno\"],\"lema_canonico\":\"līno\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"verbo 'ungir, besuntar' — 'līvi' é 1ª pessoa do singular do perfeito ('eu besuntei').\",\"aliases\":[\"līvi\"],\"exemplos\":[\"Col. 12, 50, 17\"],\"notas\":\"Corrigida a entrada: 'Līvi' tratada como forma perfeita de līno; alinhada com dados de Lat→Deu.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_15982-e1",
     "volume_id": "faria",
     "doc_name": "chunk_15982",
@@ -4618,28 +3870,6 @@
     "notas": "Ampliação e normalização a partir de Lewis & Short; mantidas variantes de género.",
     "raw_text": "{\"id\":\"chunk_15984:15984:0\",\"lemas\":[\"lividus\",\"livida\",\"lividum\"],\"lema_canonico\":\"lividus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"de cor azulada / acinzentado; descolorido por contusões (black-and-blue); transf.: mortal; fig.: invejoso, malicioso\",\"aliases\":[],\"exemplos\":[\"Hor. C. 1, 8, 10\",\"Ov. H. 20, 82\",\"Juv. 6, 631\",\"Cic. Tusc. 4, 12, 28\"],\"notas\":\"Ampliação e normalização a partir de Lewis & Short; mantidas variantes de género.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_15984:15984:0\",\"lemas\":[\"lividus\",\"livida\",\"lividum\"],\"lema_canonico\":\"lividus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"de cor azulada / acinzentado; descolorido por contusões (black-and-blue); transf.: mortal; fig.: invejoso, malicioso\",\"aliases\":[],\"exemplos\":[\"Hor. C. 1, 8, 10\",\"Ov. H. 20, 82\",\"Juv. 6, 631\",\"Cic. Tusc. 4, 12, 28\"],\"notas\":\"Ampliação e normalização a partir de Lewis & Short; mantidas variantes de género.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_15985-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15985",
-    "page_num": 15985,
-    "lemmas": [
-      "lividus",
-      "lividus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "De cor azulada ou de chumbo; também, descolorido por contusões; figurado: invejoso, malicioso.",
-    "exemplos": [],
-    "notas": "Normalizada grafia e formas variantes segundo LS/Whitaker. | [dedupe] redirect → chunk_15984:15984:0 | [dedupe] redirect → chunk_15984:15984:0",
-    "raw_text": "{\"id\":\"chunk_15985:15985:0\",\"lemas\":[\"lividus\",\"livida\",\"lividum\"],\"lema_canonico\":\"lividus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"De cor azulada ou de chumbo; também, descolorido por contusões; figurado: invejoso, malicioso.\",\"aliases\":[],\"exemplos\":[\"Verg. En. 6, 320\",\"Ov. Her. 20, 82\",\"Hor. Ep. 2, 1, 89\"],\"notas\":\"Normalizada grafia e formas variantes segundo LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_15985:15985:0\",\"lemas\":[\"lividus\",\"livida\",\"lividum\"],\"lema_canonico\":\"lividus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"De cor azulada ou de chumbo; também, descolorido por contusões; figurado: invejoso, malicioso.\",\"aliases\":[],\"exemplos\":[\"Verg. En. 6, 320\",\"Ov. Her. 20, 82\",\"Hor. Ep. 2, 1, 89\"],\"notas\":\"Normalizada grafia e formas variantes segundo LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_15986-e1",
@@ -4840,28 +4070,6 @@
     "raw_json": "{\"id\":\"chunk_15994:15994:0\",\"lemas\":[\"loculus\",\"locululus\"],\"lema_canonico\":\"loculus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"pequeno lugar; compartimento; nicho; caixão, pequena arca\",\"aliases\":[],\"exemplos\":[\"Marc. 14, 13, 1\"],\"notas\":\"Unificadas formas e mantida a variante diminutiva locululus; lema canónico loculus.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_15995-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15995",
-    "page_num": 15995,
-    "lemmas": [
-      "loculus",
-      "loculus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Pequeno lugar; compartimento, nicho; também caixão/bahre (uso bíblico/Vulg.), gaveta ou caixa compartimentada.",
-    "exemplos": [],
-    "notas": "Consolidado a partir de Lewis & Short, Whitaker e Lat→Deu; ajustada a morfologia padrão. | [dedupe] redirect → chunk_15994:15994:0 | [dedupe] redirect → chunk_15994:15994:0",
-    "raw_text": "{\"id\":\"chunk_15995:15995:0\",\"lemas\":[\"loculus\"],\"lema_canonico\":\"loculus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Pequeno lugar; compartimento, nicho; também caixão/bahre (uso bíblico/Vulg.), gaveta ou caixa compartimentada.\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 7, 16, 16\",\"Vulg. Luc. 7, 14\"],\"notas\":\"Consolidado a partir de Lewis & Short, Whitaker e Lat→Deu; ajustada a morfologia padrão.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_15995:15995:0\",\"lemas\":[\"loculus\"],\"lema_canonico\":\"loculus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Pequeno lugar; compartimento, nicho; também caixão/bahre (uso bíblico/Vulg.), gaveta ou caixa compartimentada.\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 7, 16, 16\",\"Vulg. Luc. 7, 14\"],\"notas\":\"Consolidado a partir de Lewis & Short, Whitaker e Lat→Deu; ajustada a morfologia padrão.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_15995-e2",
     "volume_id": "faria",
     "doc_name": "chunk_15995",
@@ -4970,27 +4178,5 @@
     "notas": "Nome pronominal/pluralia tantum; normalizado conforme LS/Whitaker",
     "raw_text": "{\"id\":\"chunk_15998:15998:0\",\"lemas\":[\"locri\",\"Locri\"],\"lema_canonico\":\"locri\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[\"pluralia tantum\"],\"definicao\":\"Locros (cidade da Calábria, Brútio) ou seus habitantes\",\"aliases\":[],\"exemplos\":[\"Cic. Fin. 5, 87\",\"Cic. Nat. 2, 6\"],\"notas\":\"Nome pronominal/pluralia tantum; normalizado conforme LS/Whitaker\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_15998:15998:0\",\"lemas\":[\"locri\",\"Locri\"],\"lema_canonico\":\"locri\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[\"pluralia tantum\"],\"definicao\":\"Locros (cidade da Calábria, Brútio) ou seus habitantes\",\"aliases\":[],\"exemplos\":[\"Cic. Fin. 5, 87\",\"Cic. Nat. 2, 6\"],\"notas\":\"Nome pronominal/pluralia tantum; normalizado conforme LS/Whitaker\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_15999-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_15999",
-    "page_num": 15999,
-    "lemmas": [
-      "Locri",
-      "Locri"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:low",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "gentílico/adj. relativo a Locri; pessoa natural de Locri (fem. ou masc., dependendo do contexto)",
-    "exemplos": [],
-    "notas": "Entrada de topónimo/gentílico incerta na forma; preservada forma gráfica do primeiro passado; revisar contra fontes onomásticas. | [dedupe] redirect → chunk_15998:15998:0 | [dedupe] redirect → chunk_15998:15998:0",
-    "raw_text": "{\"id\":\"chunk_15999:15999:0\",\"lemas\":[\"Locri\"],\"lema_canonico\":\"Locri\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"gentílico/adj. relativo a Locri; pessoa natural de Locri (fem. ou masc., dependendo do contexto)\",\"aliases\":[],\"exemplos\":[\"T. Liv. 26, 26\",\"Catul. 66, 54\"],\"notas\":\"Entrada de topónimo/gentílico incerta na forma; preservada forma gráfica do primeiro passado; revisar contra fontes onomásticas.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_15999:15999:0\",\"lemas\":[\"Locri\"],\"lema_canonico\":\"Locri\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"gentílico/adj. relativo a Locri; pessoa natural de Locri (fem. ou masc., dependendo do contexto)\",\"aliases\":[],\"exemplos\":[\"T. Liv. 26, 26\",\"Catul. 66, 54\"],\"notas\":\"Entrada de topónimo/gentílico incerta na forma; preservada forma gráfica do primeiro passado; revisar contra fontes onomásticas.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   }
 ]

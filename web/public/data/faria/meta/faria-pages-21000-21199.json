@@ -308,28 +308,6 @@
     "raw_json": "{\"id\":\"chunk_21012:21012:0\",\"lemas\":[\"Pherae\"],\"lema_canonico\":\"Pherae\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Nome de várias cidades (plurale tantum): notadamente a Pherae da Tessália, residência de Admeto; também cidade da Messénia.\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 1, 53\",\"Plin. Nat. 4, 8, 15 §29\",\"Liv. 32, 13, 9\"],\"notas\":\"Forma plurale tantum com genitivo -ārum; alinhado a Lewis & Short.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_21013-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21013",
-    "page_num": 21013,
-    "lemmas": [
-      "Phўlăcē",
-      "Phўlăcē"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "habitantes de Pherae (gentílico, pl.)",
-    "exemplos": [],
-    "notas": "Entrada em plural (gentílico); morfologia plural não encaixa no vocabulário permitido\n[ocr_pipeline 2025-08-16T23:20:55.714182Z] lemma_in='Pheraei' → 'Phўlăcē' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:19:20Z] match direto em LS por lemma/lemma_norm | lemma_in='Phўlăcē' → 'Phўlăcē' | [dedupe] redirect → chunk_21185:21185:0 | [dedupe] redirect → chunk_21185:21185:0",
-    "raw_text": "{\"id\":\"chunk_21013:21013:0\",\"lemas\":[\"Pheraei\"],\"lema_canonico\":\"Pheraei\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"habitantes de Pherae (gentílico, pl.)\",\"aliases\":[],\"exemplos\":[\"Cic. Inv. 2, 141\"],\"notas\":\"Entrada em plural (gentílico); morfologia plural não encaixa no vocabulário permitido\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_21013:21013:0\",\"lemas\":[\"Pheraei\"],\"lema_canonico\":\"Pheraei\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"habitantes de Pherae (gentílico, pl.)\",\"aliases\":[],\"exemplos\":[\"Cic. Inv. 2, 141\"],\"notas\":\"Entrada em plural (gentílico); morfologia plural não encaixa no vocabulário permitido\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"morph_out_of_vocab\"]}"
-  },
-  {
     "id": "chunk_21014-e1",
     "volume_id": "faria",
     "doc_name": "chunk_21014",
@@ -506,28 +484,6 @@
     "raw_json": "{\"id\":\"chunk_21021:21021:0\",\"lemas\":[\"Pherinum\",\"Phērīnum\"],\"lema_canonico\":\"Pherinum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"castelo, praça-forte na Tessália (Thessaly); citado em Liv. 32, 14.\",\"aliases\":[],\"exemplos\":[\"Liv. 32, 14\"],\"notas\":\"Corroborado por Lewis & Short como topónimo Pherĭnum.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_21022-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21022",
-    "page_num": 21022,
-    "lemmas": [
-      "Pherĭnum",
-      "Pherĭnum"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "topónimo: praça-forte/fortaleza na Tessália (Thessaly), citado em Liv. 32, 14.",
-    "exemplos": [],
-    "notas": "Variante gráfica Pherinium registrada; lema canónico normalizado para Pherinum conforme LS. | [dedupe] redirect → chunk_21021:21021:0 | [dedupe] redirect → chunk_21021:21021:0 | [ocr_fix 2025-08-17T19:54:23Z] match direto em LS por lemma/lemma_norm | lemma_in='Pherinum' → 'Pherĭnum'",
-    "raw_text": "{\"id\":\"chunk_21022:21022:0\",\"lemas\":[\"Pherinium\",\"Pherīnium\",\"Pherinum\"],\"lema_canonico\":\"Pherinum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"topónimo: praça-forte/fortaleza na Tessália (Thessaly), citado em Liv. 32, 14.\",\"aliases\":[],\"exemplos\":[\"Liv. 32, 14\"],\"notas\":\"Variante gráfica Pherinium registrada; lema canónico normalizado para Pherinum conforme LS.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_21022:21022:0\",\"lemas\":[\"Pherinium\",\"Pherīnium\",\"Pherinum\"],\"lema_canonico\":\"Pherinum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"topónimo: praça-forte/fortaleza na Tessália (Thessaly), citado em Liv. 32, 14.\",\"aliases\":[],\"exemplos\":[\"Liv. 32, 14\"],\"notas\":\"Variante gráfica Pherinium registrada; lema canónico normalizado para Pherinum conforme LS.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_21023-e1",
     "volume_id": "faria",
     "doc_name": "chunk_21023",
@@ -548,28 +504,6 @@
     "notas": "Unificada com Lewis & Short e Whitaker; variantes diacríticas preservadas; distinto uso como objeto ritual/mitológico indicado. | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='phiala' → 'Phĭăla'",
     "raw_text": "{\"id\":\"chunk_21023:21023:0\",\"lemas\":[\"phiala\",\"phĭăla\"],\"lema_canonico\":\"phiala\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"recipiente raso e largo para beber; saucer, shallow drinking-vessel; também ‘phiala’ como turíbulo na Vulgata e como nome próprio mitológico em Ov. (sentidos separados)\",\"aliases\":[],\"exemplos\":[\"Juv. 5, 37\",\"Mart. 8, 33, 2\",\"Plin. 33, 12, 55 §156\",\"Vulg. 1 Par. 28, 17\",\"Ov. M. 3, 172\"],\"notas\":\"Unificada com Lewis & Short e Whitaker; variantes diacríticas preservadas; distinto uso como objeto ritual/mitológico indicado.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_21023:21023:0\",\"lemas\":[\"phiala\",\"phĭăla\"],\"lema_canonico\":\"phiala\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"recipiente raso e largo para beber; saucer, shallow drinking-vessel; também ‘phiala’ como turíbulo na Vulgata e como nome próprio mitológico em Ov. (sentidos separados)\",\"aliases\":[],\"exemplos\":[\"Juv. 5, 37\",\"Mart. 8, 33, 2\",\"Plin. 33, 12, 55 §156\",\"Vulg. 1 Par. 28, 17\",\"Ov. M. 3, 172\"],\"notas\":\"Unificada com Lewis & Short e Whitaker; variantes diacríticas preservadas; distinto uso como objeto ritual/mitológico indicado.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_21024-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21024",
-    "page_num": 21024,
-    "lemmas": [
-      "Phĭlae",
-      "Phĭlae"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Ilha pequena no Nilo, ao sul de Elephantine, com cidade homônima; atestada também em contextos mitológicos.",
-    "exemplos": [],
-    "notas": "Adotada forma canónica Philae e flexão conforme Lewis & Short. | [dedupe] redirect → chunk_21030:21030:0 | [dedupe] redirect → chunk_21030:21030:0 | [ocr_fix 2025-08-17T19:59:28Z] match direto em LS por lemma/lemma_norm | lemma_in='Philae' → 'Phĭlae'",
-    "raw_text": "{\"id\":\"chunk_21024:21024:0\",\"lemas\":[\"Philae\",\"Phĭlae\"],\"lema_canonico\":\"Philae\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Ilha pequena no Nilo, ao sul de Elephantine, com cidade homônima; atestada também em contextos mitológicos.\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 5, 9, 10, § 59\",\"Sen. Q. N. 4, 2, 3\",\"Luc. 10, 313\",\"Ov. Met. 3, 172\"],\"notas\":\"Adotada forma canónica Philae e flexão conforme Lewis & Short.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_21024:21024:0\",\"lemas\":[\"Philae\",\"Phĭlae\"],\"lema_canonico\":\"Philae\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Ilha pequena no Nilo, ao sul de Elephantine, com cidade homônima; atestada também em contextos mitológicos.\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 5, 9, 10, § 59\",\"Sen. Q. N. 4, 2, 3\",\"Luc. 10, 313\",\"Ov. Met. 3, 172\"],\"notas\":\"Adotada forma canónica Philae e flexão conforme Lewis & Short.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
     "id": "chunk_21025-e1",
@@ -746,28 +680,6 @@
     "notas": "Corrigido e normalizado ao latim clássico conforme Lewis & Short; acentuação moderna mantida como variante. | [ocr_fix 2025-08-17T19:59:28Z] match direto em LS por lemma/lemma_norm | lemma_in='Philadelphus' → 'Phĭlădelphus'",
     "raw_text": "{\"id\":\"chunk_21032:21032:0\",\"lemas\":[\"Philadelphus\",\"Philadélphus\"],\"lema_canonico\":\"Philadelphus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Nome próprio masculino (sobrenome/cognome), p.ex. Ptolemeu Filadelfo.\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 36, 7, 14, §67\",\"Gell. 6, 17, 3\",\"Cic. Phil. 13, 12, 26\",\"Cic. Att. 1, 11, 2\"],\"notas\":\"Corrigido e normalizado ao latim clássico conforme Lewis & Short; acentuação moderna mantida como variante.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_21032:21032:0\",\"lemas\":[\"Philadelphus\",\"Philadélphus\"],\"lema_canonico\":\"Philadelphus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Nome próprio masculino (sobrenome/cognome), p.ex. Ptolemeu Filadelfo.\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 36, 7, 14, §67\",\"Gell. 6, 17, 3\",\"Cic. Phil. 13, 12, 26\",\"Cic. Att. 1, 11, 2\"],\"notas\":\"Corrigido e normalizado ao latim clássico conforme Lewis & Short; acentuação moderna mantida como variante.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_21033-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21033",
-    "page_num": 21033,
-    "lemmas": [
-      "Philae",
-      "Philae"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "pequena ilha no Nilo (ao sul de Elephantine) e cidade do mesmo nome",
-    "exemplos": [],
-    "notas": "Adotada acepção insular conforme Lewis & Short; grafia com diacríticos preservada como variante. | [dedupe] redirect → chunk_21030:21030:0 | [dedupe] redirect → chunk_21030:21030:0",
-    "raw_text": "{\"id\":\"chunk_21033:21033:0\",\"lemas\":[\"Philae\",\"Phĭlae\"],\"lema_canonico\":\"Philae\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"pequena ilha no Nilo (ao sul de Elephantine) e cidade do mesmo nome\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 5, 9, 10 §59\",\"Sen. Q. N. 4, 2, 3\",\"Luc. 10, 313\"],\"notas\":\"Adotada acepção insular conforme Lewis & Short; grafia com diacríticos preservada como variante.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21033:21033:0\",\"lemas\":[\"Philae\",\"Phĭlae\"],\"lema_canonico\":\"Philae\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"pequena ilha no Nilo (ao sul de Elephantine) e cidade do mesmo nome\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 5, 9, 10 §59\",\"Sen. Q. N. 4, 2, 3\",\"Luc. 10, 313\"],\"notas\":\"Adotada acepção insular conforme Lewis & Short; grafia com diacríticos preservada como variante.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_21034-e1",
@@ -1078,28 +990,6 @@
     "raw_json": "{\"id\":\"chunk_21047:21047:0\",\"lemas\":[\"Philippi\"],\"lema_canonico\":\"Philippi\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[\"nom. pl.\"],\"definicao\":\"Moedas com a efígie de Filipe (inscrição Philippī em moedas).\",\"aliases\":[],\"exemplos\":[\"Hor. Ep. 2, 1, 234\"],\"notas\":\"Entrada referente a inscrição monetária no plural (Philippī). Morfologia plural fora do vocabulário padronizado.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}"
   },
   {
-    "id": "chunk_21048-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21048",
-    "page_num": 21048,
-    "lemmas": [
-      "Philippi",
-      "Philippi"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Philipos, cidade da Macedônia (plural toponym); local da famosa batalha em que Octavianus e Antonius derrotaram Brutus e Cassius.",
-    "exemplos": [],
-    "notas": "Entrada tratada como nome próprio plural (Philippi); lemas e referências verificadas em Lewis & Short e Whitaker. | [dedupe] redirect → chunk_21045:21045:0 | [dedupe] redirect → chunk_21045:21045:0",
-    "raw_text": "{\"id\":\"chunk_21048:21048:0\",\"lemas\":[\"Philippi\"],\"lema_canonico\":\"Philippi\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Philipos, cidade da Macedônia (plural toponym); local da famosa batalha em que Octavianus e Antonius derrotaram Brutus e Cassius.\",\"aliases\":[],\"exemplos\":[\"Liv. Epit. 124\",\"Vell. 2, 70, 1\",\"Flor. 4, 7\"],\"notas\":\"Entrada tratada como nome próprio plural (Philippi); lemas e referências verificadas em Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21048:21048:0\",\"lemas\":[\"Philippi\"],\"lema_canonico\":\"Philippi\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Philipos, cidade da Macedônia (plural toponym); local da famosa batalha em que Octavianus e Antonius derrotaram Brutus e Cassius.\",\"aliases\":[],\"exemplos\":[\"Liv. Epit. 124\",\"Vell. 2, 70, 1\",\"Flor. 4, 7\"],\"notas\":\"Entrada tratada como nome próprio plural (Philippi); lemas e referências verificadas em Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_21049-e1",
     "volume_id": "faria",
     "doc_name": "chunk_21049",
@@ -1230,28 +1120,6 @@
     "notas": "Lema e referências confirmadas em Lewis & Short. | [ocr_fix 2025-08-17T19:59:32Z] match direto em LS por lemma/lemma_norm | lemma_in='Philistus' → 'Philistus'",
     "raw_text": "{\"id\":\"chunk_21054:21054:0\",\"lemas\":[\"Philistus\"],\"lema_canonico\":\"Philistus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"historiador grego de Siracusa, imitador de Tucídides\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 2, 13, 57\",\"Cic. De Or. 2, 23, 94\",\"Cic. Brut. 17, 66\",\"Cic. Q. Fr. 2, 13, 4\",\"Nep. Dion. 3, 2\",\"Quint. 10, 1, 74\"],\"notas\":\"Lema e referências confirmadas em Lewis & Short.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_21054:21054:0\",\"lemas\":[\"Philistus\"],\"lema_canonico\":\"Philistus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"historiador grego de Siracusa, imitador de Tucídides\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 2, 13, 57\",\"Cic. De Or. 2, 23, 94\",\"Cic. Brut. 17, 66\",\"Cic. Q. Fr. 2, 13, 4\",\"Nep. Dion. 3, 2\",\"Quint. 10, 1, 74\"],\"notas\":\"Lema e referências confirmadas em Lewis & Short.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_21055-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21055",
-    "page_num": 21055,
-    "lemmas": [
-      "phiditia",
-      "phiditia"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Refeições públicas dos Lacedemônios (espécie de banquetes comunais espartanos).",
-    "exemplos": [],
-    "notas": "Variantes ortográficas atestadas (phīdĭtĭa, phīlĭtĭa etc.); escolha do lema canônico segundo Whitaker/LS. | [dedupe] redirect → chunk_21028:21028:0 | [dedupe] redirect → chunk_21028:21028:0",
-    "raw_text": "{\"id\":\"chunk_21055:21055:0\",\"lemas\":[\"phiditia\",\"philitia\",\"phiditium\",\"philitium\"],\"lema_canonico\":\"phiditia\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Refeições públicas dos Lacedemônios (espécie de banquetes comunais espartanos).\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 5, 34\",\"Cic. Tusc. 5, 98\"],\"notas\":\"Variantes ortográficas atestadas (phīdĭtĭa, phīlĭtĭa etc.); escolha do lema canônico segundo Whitaker/LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21055:21055:0\",\"lemas\":[\"phiditia\",\"philitia\",\"phiditium\",\"philitium\"],\"lema_canonico\":\"phiditia\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Refeições públicas dos Lacedemônios (espécie de banquetes comunais espartanos).\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 5, 34\",\"Cic. Tusc. 5, 98\"],\"notas\":\"Variantes ortográficas atestadas (phīdĭtĭa, phīlĭtĭa etc.); escolha do lema canônico segundo Whitaker/LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_21056-e1",
@@ -1694,28 +1562,6 @@
     "raw_json": "{\"id\":\"chunk_21075:21075:0\",\"lemas\":[\"Philopomēn\",\"Philopomen\",\"Philopomenes\"],\"lema_canonico\":\"Philopomēn\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Filopémen (Philopoemen), general grego, líder da Liga Acaica.\",\"aliases\":[],\"exemplos\":[\"T. Liv. 35, 25\"],\"notas\":\"Normalizado lema; genitivo indicado como -ēnis no OCR. Verificação adicional recomendada contra LS/Whitaker.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_21076-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21076",
-    "page_num": 21076,
-    "lemmas": [
-      "Phĭlădelphus",
-      "Phĭlădelphus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "nome próprio masculino (romano), Philorimachus; possível variante editorial/corrupção de Philŏrimachus/Filoromeu",
-    "exemplos": [],
-    "notas": "Forma incerta nos dicionários principais; mantida e registrada como nome próprio; revisar conforme LS/Whitaker.\n[ocr_pipeline 2025-08-16T23:16:17.681374Z] lemma_in='Philorimachus' → 'Phĭlădelphus' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:13:08Z] match direto em LS por lemma/lemma_norm | lemma_in='Phĭlădelphus' → 'Phĭlădelphus' | [dedupe] redirect → chunk_21032:21032:0 | [dedupe] redirect → chunk_21032:21032:0",
-    "raw_text": "{\"id\":\"chunk_21076:21076:0\",\"lemas\":[\"Philorimachus\"],\"lema_canonico\":\"Philorimachus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"nome próprio masculino (romano), Philorimachus; possível variante editorial/corrupção de Philŏrimachus/Filoromeu\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 15, 2, 4\"],\"notas\":\"Forma incerta nos dicionários principais; mantida e registrada como nome próprio; revisar conforme LS/Whitaker.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_21076:21076:0\",\"lemas\":[\"Philorimachus\"],\"lema_canonico\":\"Philorimachus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"nome próprio masculino (romano), Philorimachus; possível variante editorial/corrupção de Philŏrimachus/Filoromeu\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 15, 2, 4\"],\"notas\":\"Forma incerta nos dicionários principais; mantida e registrada como nome próprio; revisar conforme LS/Whitaker.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
     "id": "chunk_21077-e1",
     "volume_id": "faria",
     "doc_name": "chunk_21077",
@@ -1738,28 +1584,6 @@
     "raw_json": "{\"id\":\"chunk_21077:21077:0\",\"lemas\":[\"philosophia\"],\"lema_canonico\":\"philosophia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Filosofia; amor da sabedoria; disciplina/estudo da sabedoria. Transfer.: assunto ou questão filosófica; no pl.: doutrinas ou escolas filosóficas.\",\"aliases\":[],\"exemplos\":[\"Cic. Q. Fr. 1, 5, 11\",\"Cic. Off. 2, 2, 5\",\"Cic. Tusc. 5, 1, 1\",\"Cic. Ac. 1, 2, 4\",\"Cic. Fin. 3, 1, 2\",\"Nep. Epam. 3, 3\",\"Sen. Ep. 89, 2\"],\"notas\":\"Normalizada grafia e ampliada com sentidos e exemplos do Lewis & Short e Lat→Deu; OCR/first_pass usados apenas como pista.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_21078-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21078",
-    "page_num": 21078,
-    "lemmas": [
-      "philosophia",
-      "philosophia"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Filosofia; amor da sabedoria; disciplina/estudo da sabedoria. No plural, doutrinas ou escolas filosóficas (philosophiae).",
-    "exemplos": [],
-    "notas": "Entrada repetida no lote; harmonizada com Lewis & Short e Lat→Deu; OCR variantes normalizadas. | [dedupe] redirect → chunk_21077:21077:0 | [dedupe] redirect → chunk_21077:21077:0",
-    "raw_text": "{\"id\":\"chunk_21078:21078:0\",\"lemas\":[\"philosophia\"],\"lema_canonico\":\"philosophia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Filosofia; amor da sabedoria; disciplina/estudo da sabedoria. No plural, doutrinas ou escolas filosóficas (philosophiae).\",\"aliases\":[],\"exemplos\":[\"Cic. Off. 2, 51\",\"Cic. De Or. 3, 27, 107\",\"Cic. Tusc. 5, 1, 1\",\"Cic. Ac. 1, 2, 4\",\"Cic. Fin. 3, 1, 2\",\"Sen. Ep. 89, 2\",\"Vulg. Col. 2, 8\"],\"notas\":\"Entrada repetida no lote; harmonizada com Lewis & Short e Lat→Deu; OCR variantes normalizadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21078:21078:0\",\"lemas\":[\"philosophia\"],\"lema_canonico\":\"philosophia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Filosofia; amor da sabedoria; disciplina/estudo da sabedoria. No plural, doutrinas ou escolas filosóficas (philosophiae).\",\"aliases\":[],\"exemplos\":[\"Cic. Off. 2, 51\",\"Cic. De Or. 3, 27, 107\",\"Cic. Tusc. 5, 1, 1\",\"Cic. Ac. 1, 2, 4\",\"Cic. Fin. 3, 1, 2\",\"Sen. Ep. 89, 2\",\"Vulg. Col. 2, 8\"],\"notas\":\"Entrada repetida no lote; harmonizada com Lewis & Short e Lat→Deu; OCR variantes normalizadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_21079-e1",
     "volume_id": "faria",
     "doc_name": "chunk_21079",
@@ -1780,28 +1604,6 @@
     "notas": "Forma infinitiva deponente; atestado em Lat→Deu e dicionários latinos.",
     "raw_text": "{\"id\":\"chunk_21079:21079:0\",\"lemas\":[\"philosophari\",\"philosophārī\"],\"lema_canonico\":\"philosophari\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"filosofar; ser filósofo, comportar-se como filósofo (ver exemplos)\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 1, 89\",\"Plaut. Ps. 687\"],\"notas\":\"Forma infinitiva deponente; atestado em Lat→Deu e dicionários latinos.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_21079:21079:0\",\"lemas\":[\"philosophari\",\"philosophārī\"],\"lema_canonico\":\"philosophari\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"filosofar; ser filósofo, comportar-se como filósofo (ver exemplos)\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 1, 89\",\"Plaut. Ps. 687\"],\"notas\":\"Forma infinitiva deponente; atestado em Lat→Deu e dicionários latinos.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_21080-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21080",
-    "page_num": 21080,
-    "lemmas": [
-      "phĭlŏsŏphor",
-      "phĭlŏsŏphor"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "particípio presente plural de philosophor: 'filosofando, filosofantes' (relativo a filosofar/philosophari).",
-    "exemplos": [],
-    "notas": "Identificado como part. pres. de verb. deponente philosophor/philosophārī (Whitaker). Normalizada grafia. | [dedupe] redirect → chunk_21080:21080:0 | [dedupe] redirect → chunk_21080:21080:0 | [ocr_fix 2025-08-17T19:54:26Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='philosophor' → 'phĭlŏsŏphor'",
-    "raw_text": "{\"id\":\"chunk_21080:21080:1\",\"lemas\":[\"philosophantes\",\"philosophor\",\"philosophārī\"],\"lema_canonico\":\"philosophor\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"part. pres.\",\"dep.\"],\"definicao\":\"particípio presente plural de philosophor: 'filosofando, filosofantes' (relativo a filosofar/philosophari).\",\"aliases\":[],\"exemplos\":[\"Sen. Contr. 1, 3, 8\"],\"notas\":\"Identificado como part. pres. de verb. deponente philosophor/philosophārī (Whitaker). Normalizada grafia.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_21080:21080:1\",\"lemas\":[\"philosophantes\",\"philosophor\",\"philosophārī\"],\"lema_canonico\":\"philosophor\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"part. pres.\",\"dep.\"],\"definicao\":\"particípio presente plural de philosophor: 'filosofando, filosofantes' (relativo a filosofar/philosophari).\",\"aliases\":[],\"exemplos\":[\"Sen. Contr. 1, 3, 8\"],\"notas\":\"Identificado como part. pres. de verb. deponente philosophor/philosophārī (Whitaker). Normalizada grafia.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
     "id": "chunk_21080-e2",
@@ -2066,28 +1868,6 @@
     "notas": "Normalizada grafia a partir do OCR; genitivo -ae indica 1ª declinação masculina.",
     "raw_text": "{\"id\":\"chunk_21091:21091:0\",\"lemas\":[\"Phlyrides\",\"Phlŷrĭdes\"],\"lema_canonico\":\"Phlyrides\",\"morfologia\":\"s. masc. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"nome próprio masculino (filho de Filira), citado em Virgílio (Aeneis 3, 550).\",\"aliases\":[],\"exemplos\":[\"Verg. En. 3, 550\"],\"notas\":\"Normalizada grafia a partir do OCR; genitivo -ae indica 1ª declinação masculina.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_21091:21091:0\",\"lemas\":[\"Phlyrides\",\"Phlŷrĭdes\"],\"lema_canonico\":\"Phlyrides\",\"morfologia\":\"s. masc. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"nome próprio masculino (filho de Filira), citado em Virgílio (Aeneis 3, 550).\",\"aliases\":[],\"exemplos\":[\"Verg. En. 3, 550\"],\"notas\":\"Normalizada grafia a partir do OCR; genitivo -ae indica 1ª declinação masculina.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_21092-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21092",
-    "page_num": 21092,
-    "lemmas": [
-      "phīmus",
-      "phimus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "dice-box, cubilete; substantivo masculino (caixa para dados).",
-    "exemplos": [],
-    "notas": "Formas variantes atestadas (phimis, phimus, phimi); adotada forma canónica phimus. | [dedupe] redirect → chunk_21093:21093:0 | [dedupe] redirect → chunk_21093:21093:0 | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='phimus' → 'phīmus'",
-    "raw_text": "{\"id\":\"chunk_21092:21092:0\",\"lemas\":[\"phimis\",\"phimus\",\"phimi\"],\"lema_canonico\":\"phimus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"dice-box, cubilete; substantivo masculino (caixa para dados).\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 3, 93\"],\"notas\":\"Formas variantes atestadas (phimis, phimus, phimi); adotada forma canónica phimus.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21092:21092:0\",\"lemas\":[\"phimis\",\"phimus\",\"phimi\"],\"lema_canonico\":\"phimus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"dice-box, cubilete; substantivo masculino (caixa para dados).\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 3, 93\"],\"notas\":\"Formas variantes atestadas (phimis, phimus, phimi); adotada forma canónica phimus.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_21093-e1",
@@ -2530,28 +2310,6 @@
     "raw_json": "{\"id\":\"chunk_21112:21112:0\",\"lemas\":[\"Phobetor\",\"Phŏbētor\"],\"lema_canonico\":\"Phobetor\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"nome próprio masculino; filho de Morfeu (mitol.), citado em Ovídio\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 11, 640\"],\"notas\":\"Correção da grafia e do caso genitivo (−oris) conforme LS.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_21113-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21113",
-    "page_num": 21113,
-    "lemmas": [
-      "phoca",
-      "phoca"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Foca; seal, sea-dog, sea-calf (animal marinho).",
-    "exemplos": [],
-    "notas": "Unifiquei formas sing./plur. e variante 'phoces' conforme LS/Whitaker. | [dedupe] redirect → chunk_21114:21114:0 | [dedupe] redirect → chunk_21114:21114:0",
-    "raw_text": "{\"id\":\"chunk_21113:21113:0\",\"lemas\":[\"phoca\",\"phocae\",\"phoces\",\"phocis\"],\"lema_canonico\":\"phoca\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Foca; seal, sea-dog, sea-calf (animal marinho).\",\"aliases\":[],\"exemplos\":[\"Verg. G. 4, 432\",\"Ov. Met. 1, 200\",\"Ov. Met. 7, 388\",\"Plin. 9, 7, 6\",\"Val. Fl. 2, 319\"],\"notas\":\"Unifiquei formas sing./plur. e variante 'phoces' conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21113:21113:0\",\"lemas\":[\"phoca\",\"phocae\",\"phoces\",\"phocis\"],\"lema_canonico\":\"phoca\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Foca; seal, sea-dog, sea-calf (animal marinho).\",\"aliases\":[],\"exemplos\":[\"Verg. G. 4, 432\",\"Ov. Met. 1, 200\",\"Ov. Met. 7, 388\",\"Plin. 9, 7, 6\",\"Val. Fl. 2, 319\"],\"notas\":\"Unifiquei formas sing./plur. e variante 'phoces' conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_21114-e1",
     "volume_id": "faria",
     "doc_name": "chunk_21114",
@@ -2880,50 +2638,6 @@
     "notas": "Entrada incerta: forma plural/patronímica; não confirmada em LS/Whitaker. Mantida para revisão.",
     "raw_text": "{\"id\":\"chunk_21128:21128:0\",\"lemas\":[\"Phoebīdae\"],\"lema_canonico\":\"Phoebīdae\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[\"pl.\"],\"definicao\":\"Possivelmente patronímico/plural referente a descendentes de Phoebus; leitura incerta (entrada da 1ª passada não confirmada).\",\"aliases\":[],\"exemplos\":[\"Verg. En. 7, 773\"],\"notas\":\"Entrada incerta: forma plural/patronímica; não confirmada em LS/Whitaker. Mantida para revisão.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\",\"morph_out_of_vocab\"]}",
     "raw_json": "{\"id\":\"chunk_21128:21128:0\",\"lemas\":[\"Phoebīdae\"],\"lema_canonico\":\"Phoebīdae\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[\"pl.\"],\"definicao\":\"Possivelmente patronímico/plural referente a descendentes de Phoebus; leitura incerta (entrada da 1ª passada não confirmada).\",\"aliases\":[],\"exemplos\":[\"Verg. En. 7, 773\"],\"notas\":\"Entrada incerta: forma plural/patronímica; não confirmada em LS/Whitaker. Mantida para revisão.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\",\"morph_out_of_vocab\"]}"
-  },
-  {
-    "id": "chunk_21129-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21129",
-    "page_num": 21129,
-    "lemmas": [
-      "Phoebus",
-      "Phoebus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Phoebus: apelido poético de Apollo; por extensão, o Sol.",
-    "exemplos": [],
-    "notas": "Sentidos confirmados em Lewis & Short; forma nominal do deus do sol. | [dedupe] redirect → chunk_21126:21126:0 | [dedupe] redirect → chunk_21126:21126:0",
-    "raw_text": "{\"id\":\"chunk_21129:21129:0\",\"lemas\":[\"Phoebus\",\"Phoebas\"],\"lema_canonico\":\"Phoebus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Phoebus: apelido poético de Apollo; por extensão, o Sol.\",\"aliases\":[],\"exemplos\":[\"Verg. A. 3, 251\",\"Hor. C. 3, 21, 24\"],\"notas\":\"Sentidos confirmados em Lewis & Short; forma nominal do deus do sol.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21129:21129:0\",\"lemas\":[\"Phoebus\",\"Phoebas\"],\"lema_canonico\":\"Phoebus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Phoebus: apelido poético de Apollo; por extensão, o Sol.\",\"aliases\":[],\"exemplos\":[\"Verg. A. 3, 251\",\"Hor. C. 3, 21, 24\"],\"notas\":\"Sentidos confirmados em Lewis & Short; forma nominal do deus do sol.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_21130-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21130",
-    "page_num": 21130,
-    "lemmas": [
-      "Phoebus",
-      "Phoebus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Nome próprio masculino (atestado também como apelido de libertos e particulares); usado poet. como epíteto de Apolo.",
-    "exemplos": [],
-    "notas": "Entrada preserva uso onomástico atestado em Tacitus; distinção entre o teónimo e o antropónimo indicada. | [dedupe] redirect → chunk_21126:21126:0 | [dedupe] redirect → chunk_21126:21126:0 | [ocr_fix 2025-08-17T19:51:08Z] match direto em LS por lemma/lemma_norm | lemma_in='Phoebus' → 'Phoebus'",
-    "raw_text": "{\"id\":\"chunk_21130:21130:0\",\"lemas\":[\"Phoebus\"],\"lema_canonico\":\"Phoebus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Nome próprio masculino (atestado também como apelido de libertos e particulares); usado poet. como epíteto de Apolo.\",\"aliases\":[],\"exemplos\":[\"Tac. Ann. 16, 5\",\"Verg. A. 3, 251\"],\"notas\":\"Entrada preserva uso onomástico atestado em Tacitus; distinção entre o teónimo e o antropónimo indicada.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_21130:21130:0\",\"lemas\":[\"Phoebus\"],\"lema_canonico\":\"Phoebus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Nome próprio masculino (atestado também como apelido de libertos e particulares); usado poet. como epíteto de Apolo.\",\"aliases\":[],\"exemplos\":[\"Tac. Ann. 16, 5\",\"Verg. A. 3, 251\"],\"notas\":\"Entrada preserva uso onomástico atestado em Tacitus; distinção entre o teónimo e o antropónimo indicada.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:med\"]}"
   },
   {
     "id": "chunk_21131-e1",
@@ -3498,72 +3212,6 @@
     "raw_json": "{\"id\":\"chunk_21156:21156:0\",\"lemas\":[\"Phrixeus\"],\"lema_canonico\":\"Phrixeus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo a Phrixus; pertencente ou referente a Frixo (mitol.).\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 7, 7\"],\"notas\":\"Forma atestada em fontes lexicográficas é sobretudo Phrixus/Phrixeus; entrada baseada na 1ª passada e OCR.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_21157-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21157",
-    "page_num": 21157,
-    "lemmas": [
-      "Phrixus",
-      "Phrixus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Filho de Atamante e de Nephele; irmão de Helle; fugiu para a Cólquida no carneiro de velo de ouro; associado ao mito do Velocino de Ouro.",
-    "exemplos": [],
-    "notas": "Lema e relação mitológica confirmados em Lewis & Short; genitivo Phrixi. | [dedupe] redirect → chunk_21168:21168:0 | [dedupe] redirect → chunk_21168:21168:0 | [ocr_fix 2025-08-17T19:59:33Z] match direto em LS por lemma/lemma_norm | lemma_in='Phrixus' → 'Phrixus'",
-    "raw_text": "{\"id\":\"chunk_21157:21157:0\",\"lemas\":[\"Phrixus\",\"Phryxus\"],\"lema_canonico\":\"Phrixus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Filho de Atamante e de Nephele; irmão de Helle; fugiu para a Cólquida no carneiro de velo de ouro; associado ao mito do Velocino de Ouro.\",\"aliases\":[],\"exemplos\":[\"Hyg. Fab. 2\",\"Ov. Her. 18, 143\",\"Ov. Met. 7, 7\",\"Stat. Achill. 1, 28\"],\"notas\":\"Lema e relação mitológica confirmados em Lewis & Short; genitivo Phrixi.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_21157:21157:0\",\"lemas\":[\"Phrixus\",\"Phryxus\"],\"lema_canonico\":\"Phrixus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Filho de Atamante e de Nephele; irmão de Helle; fugiu para a Cólquida no carneiro de velo de ouro; associado ao mito do Velocino de Ouro.\",\"aliases\":[],\"exemplos\":[\"Hyg. Fab. 2\",\"Ov. Her. 18, 143\",\"Ov. Met. 7, 7\",\"Stat. Achill. 1, 28\"],\"notas\":\"Lema e relação mitológica confirmados em Lewis & Short; genitivo Phrixi.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_21158-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21158",
-    "page_num": 21158,
-    "lemmas": [
-      "Phrygius",
-      "Phrygius"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Frígio; relativo à Frígia (região do centro e oeste da Ásia Menor); também aplicado poeticamente aos troianos/frígios.",
-    "exemplos": [],
-    "notas": "Formas e sentido confirmados por Whitaker e Lat→Deu. | [dedupe] redirect → chunk_21163:21163:0 | [dedupe] redirect → chunk_21163:21163:0",
-    "raw_text": "{\"id\":\"chunk_21158:21158:0\",\"lemas\":[\"Phrygius\",\"Phrygia\",\"Phrygium\"],\"lema_canonico\":\"Phrygius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Frígio; relativo à Frígia (região do centro e oeste da Ásia Menor); também aplicado poeticamente aos troianos/frígios.\",\"aliases\":[\"Phrygia\",\"Phrygium\"],\"exemplos\":[],\"notas\":\"Formas e sentido confirmados por Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21158:21158:0\",\"lemas\":[\"Phrygius\",\"Phrygia\",\"Phrygium\"],\"lema_canonico\":\"Phrygius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Frígio; relativo à Frígia (região do centro e oeste da Ásia Menor); também aplicado poeticamente aos troianos/frígios.\",\"aliases\":[\"Phrygia\",\"Phrygium\"],\"exemplos\":[],\"notas\":\"Formas e sentido confirmados por Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_21159-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21159",
-    "page_num": 21159,
-    "lemmas": [
-      "Phrygius",
-      "Phrygius"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Frígio; relativo à Frígia; por extensão, (como gentílico) habitante da Frígia.",
-    "exemplos": [],
-    "notas": "Tratado primariamente como adjetivo (também usado como gentílico/nome de habitante). | [dedupe] redirect → chunk_21163:21163:0 | [dedupe] redirect → chunk_21163:21163:0",
-    "raw_text": "{\"id\":\"chunk_21159:21159:0\",\"lemas\":[\"Phrygius\"],\"lema_canonico\":\"Phrygius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Frígio; relativo à Frígia; por extensão, (como gentílico) habitante da Frígia.\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 1, 92\"],\"notas\":\"Tratado primariamente como adjetivo (também usado como gentílico/nome de habitante).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21159:21159:0\",\"lemas\":[\"Phrygius\"],\"lema_canonico\":\"Phrygius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Frígio; relativo à Frígia; por extensão, (como gentílico) habitante da Frígia.\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 1, 92\"],\"notas\":\"Tratado primariamente como adjetivo (também usado como gentílico/nome de habitante).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_21160-e1",
     "volume_id": "faria",
     "doc_name": "chunk_21160",
@@ -3584,28 +3232,6 @@
     "notas": "",
     "raw_text": "{\"id\":\"chunk_21160:21160:0\",\"lemas\":[\"Phrygia\",\"phrygia\"],\"lema_canonico\":\"Phrygia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Phrygia, region of central/western Asia Minor; poet. also used for Troy.\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 5, 135\",\"Prop. 4, 12, 63\"],\"notas\":\"\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_21160:21160:0\",\"lemas\":[\"Phrygia\",\"phrygia\"],\"lema_canonico\":\"Phrygia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Phrygia, region of central/western Asia Minor; poet. also used for Troy.\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 5, 135\",\"Prop. 4, 12, 63\"],\"notas\":\"\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_21161-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21161",
-    "page_num": 21161,
-    "lemmas": [
-      "Phrygia",
-      "Phrygia"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Região da Frígia (Ásia Menor); em uso poético aparece também como locativo plural (‘in Phrygiīs’/‘nas Frígidas’, cf. Verg. Aen. 9,617).",
-    "exemplos": [],
-    "notas": "Entrada primariamente topónima; conserva menção da forma locativa poética indicada no manuscrito. | [dedupe] redirect → chunk_21160:21160:0 | [dedupe] redirect → chunk_21160:21160:0",
-    "raw_text": "{\"id\":\"chunk_21161:21161:0\",\"lemas\":[\"Phrygia\"],\"lema_canonico\":\"Phrygia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Região da Frígia (Ásia Menor); em uso poético aparece também como locativo plural (‘in Phrygiīs’/‘nas Frígidas’, cf. Verg. Aen. 9,617).\",\"aliases\":[],\"exemplos\":[\"Verg. En. 9, 617\"],\"notas\":\"Entrada primariamente topónima; conserva menção da forma locativa poética indicada no manuscrito.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21161:21161:0\",\"lemas\":[\"Phrygia\"],\"lema_canonico\":\"Phrygia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Região da Frígia (Ásia Menor); em uso poético aparece também como locativo plural (‘in Phrygiīs’/‘nas Frígidas’, cf. Verg. Aen. 9,617).\",\"aliases\":[],\"exemplos\":[\"Verg. En. 9, 617\"],\"notas\":\"Entrada primariamente topónima; conserva menção da forma locativa poética indicada no manuscrito.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_21162-e1",
@@ -3674,28 +3300,6 @@
     "raw_json": "{\"id\":\"chunk_21163:21163:1\",\"lemas\":[\"phrygio\",\"phrygius\"],\"lema_canonico\":\"phrygio\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"(registro incerto) substantivo/adjetivo atestado em Faria: 'o que borda a ouro' (cit. Plaut. Aul. 508).\",\"aliases\":[],\"exemplos\":[\"Plaut. Au. 508\"],\"notas\":\"Leitura do OCR indica 'phrygio, ĭŏnis' — forma rara/ilegível e sem confirmação em dicionários principais; mantido da primeira passada para revisão.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_21164-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21164",
-    "page_num": 21164,
-    "lemmas": [
-      "Phrygius",
-      "Phrygius"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Frígio; pertencente à Frígia (região da Ásia Menor); às vezes aplicado com sentido ‘troiano’ em contextos poéticos.",
-    "exemplos": [],
-    "notas": "Unificadas formas nominativas attestadas; informação corroborada por Whitaker e Lat→Deu. | [dedupe] redirect → chunk_21163:21163:0 | [dedupe] redirect → chunk_21163:21163:0",
-    "raw_text": "{\"id\":\"chunk_21164:21164:0\",\"lemas\":[\"Phrygius\",\"Phrygia\",\"Phrygium\"],\"lema_canonico\":\"Phrygius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Frígio; pertencente à Frígia (região da Ásia Menor); às vezes aplicado com sentido ‘troiano’ em contextos poéticos.\",\"aliases\":[],\"exemplos\":[\"Verg. En. 7, 139\"],\"notas\":\"Unificadas formas nominativas attestadas; informação corroborada por Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21164:21164:0\",\"lemas\":[\"Phrygius\",\"Phrygia\",\"Phrygium\"],\"lema_canonico\":\"Phrygius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Frígio; pertencente à Frígia (região da Ásia Menor); às vezes aplicado com sentido ‘troiano’ em contextos poéticos.\",\"aliases\":[],\"exemplos\":[\"Verg. En. 7, 139\"],\"notas\":\"Unificadas formas nominativas attestadas; informação corroborada por Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_21165-e1",
     "volume_id": "faria",
     "doc_name": "chunk_21165",
@@ -3738,28 +3342,6 @@
     "notas": "Baseado em Lewis & Short para a identidade do rio e em formas genitivas registradas; adaptações ortográficas normalizadas. | [ocr_fix 2025-08-17T19:51:11Z] match direto em LS por lemma/lemma_norm | lemma_in='Phryx' → 'Phryx'",
     "raw_text": "{\"id\":\"chunk_21166:21166:0\",\"lemas\":[\"Phryx\",\"Phrygis\"],\"lema_canonico\":\"Phryx\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"nome geográfico/etnónimo: Phryx (Phrygis) — rio em Jónia (subindo na Lídia e desaguando no Hermo), por vezes chamado Hyllus; também forma para ‘frígio’.\",\"aliases\":[],\"exemplos\":[\"Liv. 37, 37, 9\",\"Plin. 5, 29, 31\",\"Strab. 13, 4, 5\"],\"notas\":\"Baseado em Lewis & Short para a identidade do rio e em formas genitivas registradas; adaptações ortográficas normalizadas.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_21166:21166:0\",\"lemas\":[\"Phryx\",\"Phrygis\"],\"lema_canonico\":\"Phryx\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"nome geográfico/etnónimo: Phryx (Phrygis) — rio em Jónia (subindo na Lídia e desaguando no Hermo), por vezes chamado Hyllus; também forma para ‘frígio’.\",\"aliases\":[],\"exemplos\":[\"Liv. 37, 37, 9\",\"Plin. 5, 29, 31\",\"Strab. 13, 4, 5\"],\"notas\":\"Baseado em Lewis & Short para a identidade do rio e em formas genitivas registradas; adaptações ortográficas normalizadas.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_21167-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21167",
-    "page_num": 21167,
-    "lemmas": [
-      "Phryx",
-      "Phryx"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 1,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada apresentada como remissão/variante para Phrixus no OCR/1ª passada; registrada como redirecionamento.\n[ocr_pipeline 2025-08-16T23:16:22.365261Z] lemma_in='Phryx' → 'Phryx' | motivo: match direto em LS por lemma/lemma_norm | [ocr_fix 2025-08-17T01:13:15Z] match direto em LS por lemma/lemma_norm | lemma_in='Phryx' → 'Phryx'",
-    "raw_text": "{\"id\":\"chunk_21167:21167:0\",\"lemas\":[\"Phryx\"],\"lema_canonico\":\"Phryx\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Phrixus\"],\"exemplos\":[],\"notas\":\"Entrada apresentada como remissão/variante para Phrixus no OCR/1ª passada; registrada como redirecionamento.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"redirect_only\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_21167:21167:0\",\"lemas\":[\"Phryx\"],\"lema_canonico\":\"Phryx\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Phrixus\"],\"exemplos\":[],\"notas\":\"Entrada apresentada como remissão/variante para Phrixus no OCR/1ª passada; registrada como redirecionamento.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"redirect_only\",\"needs_review\"]}"
   },
   {
     "id": "chunk_21168-e1",
@@ -4026,28 +3608,6 @@
     "raw_json": "{\"id\":\"chunk_21179:21179:0\",\"lemas\":[\"phylacis\"],\"lema_canonico\":\"phylacis\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"Relativo a Filace; 'Filácida' (adj. derivado de topónimo).\",\"aliases\":[],\"exemplos\":[\"Ov. H. 13, 35\"],\"notas\":\"Faria registra como adjetivo gen. -idis; dicionários externos atestam também forma semelhante como substantivo (phylaca), logo a entrada merece confirmação.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_21180-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21180",
-    "page_num": 21180,
-    "lemmas": [
-      "phĭlograecus",
-      "phĭlograecus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Gentílico/adjetivo relativo a Philae (Ilha/colónia egípcia); 'de Philae'",
-    "exemplos": [],
-    "notas": "Entrada rara; forma preservada da primeira passada. Necessita confirmação em dicionários principais.\n[ocr_pipeline 2025-08-16T23:21:00.102034Z] lemma_in='Phylaeus' → 'phĭlograecus' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:19:26Z] match direto em LS por lemma/lemma_norm | lemma_in='phĭlograecus' → 'phĭlograecus' | [dedupe] redirect → chunk_21074:21074:0 | [dedupe] redirect → chunk_21074:21074:0",
-    "raw_text": "{\"id\":\"chunk_21180:21180:0\",\"lemas\":[\"Phylaeus\",\"Phylaeus\"],\"lema_canonico\":\"Phylaeus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Gentílico/adjetivo relativo a Philae (Ilha/colónia egípcia); 'de Philae'\",\"aliases\":[],\"exemplos\":[\"Ov. Trist. 5, 14, 39\"],\"notas\":\"Entrada rara; forma preservada da primeira passada. Necessita confirmação em dicionários principais.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_21180:21180:0\",\"lemas\":[\"Phylaeus\",\"Phylaeus\"],\"lema_canonico\":\"Phylaeus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Gentílico/adjetivo relativo a Philae (Ilha/colónia egípcia); 'de Philae'\",\"aliases\":[],\"exemplos\":[\"Ov. Trist. 5, 14, 39\"],\"notas\":\"Entrada rara; forma preservada da primeira passada. Necessita confirmação em dicionários principais.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
     "id": "chunk_21181-e1",
     "volume_id": "faria",
     "doc_name": "chunk_21181",
@@ -4266,28 +3826,6 @@
     "notas": "Substantivo feminino 1ª declinação; também atestado como adjetivo 'physicus' (ver entradas relacionadas).",
     "raw_text": "{\"id\":\"chunk_21190:21190:0\",\"lemas\":[\"physica\",\"physicae\"],\"lema_canonico\":\"physica\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"física; ciências naturais, natural science\",\"aliases\":[],\"exemplos\":[\"Cic. Fin. 3, 72\"],\"notas\":\"Substantivo feminino 1ª declinação; também atestado como adjetivo 'physicus' (ver entradas relacionadas).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_21190:21190:0\",\"lemas\":[\"physica\",\"physicae\"],\"lema_canonico\":\"physica\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"física; ciências naturais, natural science\",\"aliases\":[],\"exemplos\":[\"Cic. Fin. 3, 72\"],\"notas\":\"Substantivo feminino 1ª declinação; também atestado como adjetivo 'physicus' (ver entradas relacionadas).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_21191-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21191",
-    "page_num": 21191,
-    "lemmas": [
-      "physica",
-      "physica"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "ciência natural, física; também nome coletivo/plural técnico para estudos naturais",
-    "exemplos": [],
-    "notas": "Entrada primária como substantivo f. 1ª; plural coletivos (neut. plur.) atestados em autores; escolha suportada por Whitaker e Lat→Deu. | [dedupe] redirect → chunk_21190:21190:0 | [dedupe] redirect → chunk_21190:21190:0",
-    "raw_text": "{\"id\":\"chunk_21191:21191:0\",\"lemas\":[\"physica\",\"physicum\"],\"lema_canonico\":\"physica\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"ciência natural, física; também nome coletivo/plural técnico para estudos naturais\",\"aliases\":[],\"exemplos\":[\"Cic. Fin. 1, 17\"],\"notas\":\"Entrada primária como substantivo f. 1ª; plural coletivos (neut. plur.) atestados em autores; escolha suportada por Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21191:21191:0\",\"lemas\":[\"physica\",\"physicum\"],\"lema_canonico\":\"physica\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"ciência natural, física; também nome coletivo/plural técnico para estudos naturais\",\"aliases\":[],\"exemplos\":[\"Cic. Fin. 1, 17\"],\"notas\":\"Entrada primária como substantivo f. 1ª; plural coletivos (neut. plur.) atestados em autores; escolha suportada por Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_21192-e1",

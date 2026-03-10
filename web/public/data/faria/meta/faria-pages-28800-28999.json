@@ -88,28 +88,6 @@
     "raw_json": "{\"id\":\"chunk_28803:28803:0\",\"lemas\":[\"tribularis\"],\"lema_canonico\":\"tribularis\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"adjectival/pertinential: relativo a tribūlo/tribus (segundo o OCR: 'relativo à tribo').\",\"aliases\":[],\"exemplos\":[\"Cic. Plane. 36\"],\"notas\":\"Forma atestada apenas no OCR/first pass; não confirmada nas referências fornecidas.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_28803-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_28803",
-    "page_num": 28803,
-    "lemmas": [
-      "trĭbŭlus",
-      "trĭbŭlus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "tribulus: planta espinhosa; caltrop. Por extensão: tribūlis/tribuli = companheiro de tribo, fellow tribesman (em alguns contextos).",
-    "exemplos": [],
-    "notas": "Corrigida entrada analógica 'tribulius/tribūli' para a forma atestada 'tribulus, tribuli' e variantes patrimoniais. | [dedupe] redirect → chunk_28802:28802:0 | [dedupe] redirect → chunk_28802:28802:0 | [ocr_fix 2025-08-17T19:55:22Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='tribulus' → 'trĭbŭlus'",
-    "raw_text": "{\"id\":\"chunk_28803:28803:1\",\"lemas\":[\"tribulus\",\"tribuli\"],\"lema_canonico\":\"tribulus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"tribulus: planta espinhosa; caltrop. Por extensão: tribūlis/tribuli = companheiro de tribo, fellow tribesman (em alguns contextos).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigida entrada analógica 'tribulius/tribūli' para a forma atestada 'tribulus, tribuli' e variantes patrimoniais.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_28803:28803:1\",\"lemas\":[\"tribulus\",\"tribuli\"],\"lema_canonico\":\"tribulus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"tribulus: planta espinhosa; caltrop. Por extensão: tribūlis/tribuli = companheiro de tribo, fellow tribesman (em alguns contextos).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigida entrada analógica 'tribulius/tribūli' para a forma atestada 'tribulus, tribuli' e variantes patrimoniais.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_28804-e1",
     "volume_id": "faria",
     "doc_name": "chunk_28804",
@@ -152,28 +130,6 @@
     "notas": "Unificado para trībŭlum (neutro); inclui forma correlata feminina trībŭla. | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='tribulum' → 'trībŭlum'",
     "raw_text": "{\"id\":\"chunk_28805:28805:0\",\"lemas\":[\"tribulum\",\"tribula\"],\"lema_canonico\":\"tribulum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"threshing-sledge; wooden platform studded with flint or iron teeth, used for thrashing grain\",\"aliases\":[],\"exemplos\":[\"Verg. G. 1, 164\",\"Varr. L. L. 5, §21\",\"Varr. R. R. 1, 22, 1\",\"Plin. 18, 30, 72\",\"Vulg. 1 Par. 20, 3\"],\"notas\":\"Unificado para trībŭlum (neutro); inclui forma correlata feminina trībŭla.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_28805:28805:0\",\"lemas\":[\"tribulum\",\"tribula\"],\"lema_canonico\":\"tribulum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"threshing-sledge; wooden platform studded with flint or iron teeth, used for thrashing grain\",\"aliases\":[],\"exemplos\":[\"Verg. G. 1, 164\",\"Varr. L. L. 5, §21\",\"Varr. R. R. 1, 22, 1\",\"Plin. 18, 30, 72\",\"Vulg. 1 Par. 20, 3\"],\"notas\":\"Unificado para trībŭlum (neutro); inclui forma correlata feminina trībŭla.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_28806-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28806",
-    "page_num": 28806,
-    "lemmas": [
-      "tribulus",
-      "tribulus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "spiny plant; caltrop (e.g. Tribulus terrestris); also a kind of water‑caltrop",
-    "exemplos": [],
-    "notas": "Entrada alinhada com Lewis & Short; removidas duplicações e OCR errôneas. | [dedupe] redirect → chunk_28802:28802:0 | [dedupe] redirect → chunk_28802:28802:0",
-    "raw_text": "{\"id\":\"chunk_28806:28806:0\",\"lemas\":[\"tribulus\"],\"lema_canonico\":\"tribulus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"spiny plant; caltrop (e.g. Tribulus terrestris); also a kind of water‑caltrop\",\"aliases\":[],\"exemplos\":[\"Verg. G. 1, 153\",\"Ov. M. 13, 803\",\"Plin. 21, 15\"],\"notas\":\"Entrada alinhada com Lewis & Short; removidas duplicações e OCR errôneas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28806:28806:0\",\"lemas\":[\"tribulus\"],\"lema_canonico\":\"tribulus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"spiny plant; caltrop (e.g. Tribulus terrestris); also a kind of water‑caltrop\",\"aliases\":[],\"exemplos\":[\"Verg. G. 1, 153\",\"Ov. M. 13, 803\",\"Plin. 21, 15\"],\"notas\":\"Entrada alinhada com Lewis & Short; removidas duplicações e OCR errôneas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_28807-e1",
@@ -396,28 +352,6 @@
     "raw_json": "{\"id\":\"chunk_28816:28816:0\",\"lemas\":[\"tributio\",\"trībūtio\",\"tributionis\"],\"lema_canonico\":\"tributio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Distribuição, divisão; também o pagamento de tributo (uso tardio).\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 1, 50\",\"Dig. 14, 4, 5\",\"Dig. 2, 14, 52\",\"Dig. 50, 4, 18\"],\"notas\":\"Unificadas grafias e sentidos segundo LS e Whitaker; genitivo apresentado como variante ('tributionis').\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_28817-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28817",
-    "page_num": 28817,
-    "lemmas": [
-      "tributum",
-      "tributum"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Tributo, imposto; por extensão, presente ou contribuição.",
-    "exemplos": [],
-    "notas": "Lema e sentidos verificados em Whitaker e Lat→Deu. | [dedupe] redirect → chunk_28813:28813:0 | [dedupe] redirect → chunk_28813:28813:0",
-    "raw_text": "{\"id\":\"chunk_28817:28817:0\",\"lemas\":[\"tributum\",\"trībūtum\",\"trĭbūtum\"],\"lema_canonico\":\"tributum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Tributo, imposto; por extensão, presente ou contribuição.\",\"aliases\":[],\"exemplos\":[\"Cic. Opt. 2, 74\",\"Marc. 10, 17, 1\"],\"notas\":\"Lema e sentidos verificados em Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28817:28817:0\",\"lemas\":[\"tributum\",\"trībūtum\",\"trĭbūtum\"],\"lema_canonico\":\"tributum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Tributo, imposto; por extensão, presente ou contribuição.\",\"aliases\":[],\"exemplos\":[\"Cic. Opt. 2, 74\",\"Marc. 10, 17, 1\"],\"notas\":\"Lema e sentidos verificados em Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_28818-e1",
     "volume_id": "faria",
     "doc_name": "chunk_28818",
@@ -438,28 +372,6 @@
     "notas": "Corrigida morfologia para adjetivo (tribuus, -a, -um) a partir do OCR e Whitaker.",
     "raw_text": "{\"id\":\"chunk_28818:28818:0\",\"lemas\":[\"tribuus\",\"tribua\",\"tribuum\"],\"lema_canonico\":\"tribuus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo a tribos; feito ou organizado por tribos\",\"aliases\":[],\"exemplos\":[\"Liv. 2, 56, 2\"],\"notas\":\"Corrigida morfologia para adjetivo (tribuus, -a, -um) a partir do OCR e Whitaker.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_28818:28818:0\",\"lemas\":[\"tribuus\",\"tribua\",\"tribuum\"],\"lema_canonico\":\"tribuus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo a tribos; feito ou organizado por tribos\",\"aliases\":[],\"exemplos\":[\"Liv. 2, 56, 2\"],\"notas\":\"Corrigida morfologia para adjetivo (tribuus, -a, -um) a partir do OCR e Whitaker.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_28818-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_28818",
-    "page_num": 28818,
-    "lemmas": [
-      "tribuus",
-      "tribuus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "relativo a tribos; feito ou organizado por tribos",
-    "exemplos": [],
-    "notas": "Duplicata do item anterior: mantida forma adjetival e referência a Livy. | [dedupe] redirect → chunk_28818:28818:0 | [dedupe] redirect → chunk_28818:28818:0",
-    "raw_text": "{\"id\":\"chunk_28818:28818:1\",\"lemas\":[\"tribuus\",\"tribua\",\"tribuum\"],\"lema_canonico\":\"tribuus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo a tribos; feito ou organizado por tribos\",\"aliases\":[],\"exemplos\":[\"Liv. 2, 56, 2\"],\"notas\":\"Duplicata do item anterior: mantida forma adjetival e referência a Livy.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28818:28818:1\",\"lemas\":[\"tribuus\",\"tribua\",\"tribuum\"],\"lema_canonico\":\"tribuus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo a tribos; feito ou organizado por tribos\",\"aliases\":[],\"exemplos\":[\"Liv. 2, 56, 2\"],\"notas\":\"Duplicata do item anterior: mantida forma adjetival e referência a Livy.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
   },
   {
     "id": "chunk_28819-e1",
@@ -594,28 +506,6 @@
     "raw_json": "{\"id\":\"chunk_28824:28824:0\",\"lemas\":[\"trīcēnī\",\"triceni\"],\"lema_canonico\":\"trīcēnī\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Numeral distributivo ‘trinta de cada vez, trinta cada um’.\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 2, 4, 26, § 58\"],\"notas\":\"Lema normalizado com macrons; classificado como adjetivo por falta de etiqueta 'num.' no vocabulário, marcando morph_out_of_vocab.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}"
   },
   {
-    "id": "chunk_28825-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28825",
-    "page_num": 28825,
-    "lemmas": [
-      "trīcēps",
-      "trīcēps"
-    ],
-    "morfologia": "adj. (3) 1T",
-    "morph_render": "adj. (3) 1T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "having three heads; triple-headed (lit.); also used substantively for a three‑headed creature or muscle.",
-    "exemplos": [],
-    "notas": "Grafia com macron conforme Lewis & Short; tratado como adjetivo 3ª decl. tipo ceps. | [dedupe] redirect → chunk_28829:28829:0 | [dedupe] redirect → chunk_28829:28829:0",
-    "raw_text": "{\"id\":\"chunk_28825:28825:0\",\"lemas\":[\"trīcēps\",\"triceps\"],\"lema_canonico\":\"trīcēps\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[],\"definicao\":\"having three heads; triple-headed (lit.); also used substantively for a three‑headed creature or muscle.\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 1, 10\"],\"notas\":\"Grafia com macron conforme Lewis & Short; tratado como adjetivo 3ª decl. tipo ceps.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28825:28825:0\",\"lemas\":[\"trīcēps\",\"triceps\"],\"lema_canonico\":\"trīcēps\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[],\"definicao\":\"having three heads; triple-headed (lit.); also used substantively for a three‑headed creature or muscle.\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 1, 10\"],\"notas\":\"Grafia com macron conforme Lewis & Short; tratado como adjetivo 3ª decl. tipo ceps.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_28826-e1",
     "volume_id": "faria",
     "doc_name": "chunk_28826",
@@ -724,28 +614,6 @@
     "notas": "Unificado com trīcēps; genitivo tricipitis attested in sources (LS).",
     "raw_text": "{\"id\":\"chunk_28829:28829:0\",\"lemas\":[\"triceps\",\"trīcēps\"],\"lema_canonico\":\"triceps\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[],\"definicao\":\"having three heads; also used substantively for a three‑headed thing (e.g., muscle, mythic creature)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Unificado com trīcēps; genitivo tricipitis attested in sources (LS).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_28829:28829:0\",\"lemas\":[\"triceps\",\"trīcēps\"],\"lema_canonico\":\"triceps\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[],\"definicao\":\"having three heads; also used substantively for a three‑headed thing (e.g., muscle, mythic creature)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Unificado com trīcēps; genitivo tricipitis attested in sources (LS).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_28830-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28830",
-    "page_num": 28830,
-    "lemmas": [
-      "triclinium",
-      "triclinium"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada apresentada como variante/redirect para triclinium; mantida citação. Vocábulo neutro 2ª decl. | [dedupe] redirect → chunk_28832:28832:0 | [dedupe] redirect → chunk_28832:28832:0",
-    "raw_text": "{\"id\":\"chunk_28830:28830:0\",\"lemas\":[\"triclīnia\",\"trīclīnium\",\"triclinium\"],\"lema_canonico\":\"triclinium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"triclinium\"],\"exemplos\":[\"Petr. 71, 10\"],\"notas\":\"Entrada apresentada como variante/redirect para triclinium; mantida citação. Vocábulo neutro 2ª decl.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_28830:28830:0\",\"lemas\":[\"triclīnia\",\"trīclīnium\",\"triclinium\"],\"lema_canonico\":\"triclinium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"triclinium\"],\"exemplos\":[\"Petr. 71, 10\"],\"notas\":\"Entrada apresentada como variante/redirect para triclinium; mantida citação. Vocábulo neutro 2ª decl.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"redirect_only\"]}"
   },
   {
     "id": "chunk_28831-e1",
@@ -946,28 +814,6 @@
     "raw_json": "{\"id\":\"chunk_28839:28839:0\",\"lemas\":[\"tridens\",\"trīdens\"],\"lema_canonico\":\"tridens\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Subst.: tridente, arma de três pontas; Adj.: com três dentes (de modo geral)\",\"aliases\":[],\"exemplos\":[\"Verg. Aen. 5, 133\"],\"notas\":\"Formas e sentidos confirmados por Lewis & Short e Whitaker; inclui tanto substantivo quanto adjetival.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_28840-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28840",
-    "page_num": 28840,
-    "lemmas": [
-      "tridens",
-      "tridens"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "a trident; (also adj.) three‑toothed, three‑pronged",
-    "exemplos": [],
-    "notas": "Unificadas a forma substantiva e a forma adjetival como homônimas; genitivo tridentis. | [dedupe] redirect → chunk_28839:28839:0 | [dedupe] redirect → chunk_28839:28839:0",
-    "raw_text": "{\"id\":\"chunk_28840:28840:0\",\"lemas\":[\"tridens\",\"tridentis\"],\"lema_canonico\":\"tridens\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"a trident; (also adj.) three‑toothed, three‑pronged\",\"aliases\":[],\"exemplos\":[\"Verg. G. 1, 13\"],\"notas\":\"Unificadas a forma substantiva e a forma adjetival como homônimas; genitivo tridentis.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28840:28840:0\",\"lemas\":[\"tridens\",\"tridentis\"],\"lema_canonico\":\"tridens\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"a trident; (also adj.) three‑toothed, three‑pronged\",\"aliases\":[],\"exemplos\":[\"Verg. G. 1, 13\"],\"notas\":\"Unificadas a forma substantiva e a forma adjetival como homônimas; genitivo tridentis.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_28841-e1",
     "volume_id": "faria",
     "doc_name": "chunk_28841",
@@ -1012,28 +858,6 @@
     "raw_json": "{\"id\":\"chunk_28842:28842:0\",\"lemas\":[\"triduum\",\"trīdŭum\"],\"lema_canonico\":\"triduum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Período de três dias; tríduo.\",\"aliases\":[],\"exemplos\":[\"Caes. B. G. 1, 38, 1\"],\"notas\":\"Grafia normalizada e corroborada por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_28843-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28843",
-    "page_num": 28843,
-    "lemmas": [
-      "trĭennĭum",
-      "trĭennĭum"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "a period of three years; pl. triennia: festivals held every three years",
-    "exemplos": [],
-    "notas": "First_pass gave 'Trīenia' (OCR confusion). Canonical form is triennium (pl. triennia); entry flagged para revisão por falta de confirmação externa.\n[ocr_pipeline 2025-08-16T23:19:08.347534Z] lemma_in='triennium' → 'trĭennĭum' | motivo: match direto em LS por lemma/lemma_norm | [ocr_fix 2025-08-17T01:16:58Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='trĭennĭum' → 'trĭennĭum' | [dedupe] redirect → chunk_28844:28844:0 | [dedupe] redirect → chunk_28844:28844:0",
-    "raw_text": "{\"id\":\"chunk_28843:28843:0\",\"lemas\":[\"triennium\",\"triennia\"],\"lema_canonico\":\"triennium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"a period of three years; pl. triennia: festivals held every three years\",\"aliases\":[\"Triennia\"],\"exemplos\":[\"Ov. Met. 9, 642\"],\"notas\":\"First_pass gave 'Trīenia' (OCR confusion). Canonical form is triennium (pl. triennia); entry flagged para revisão por falta de confirmação externa.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_28843:28843:0\",\"lemas\":[\"triennium\",\"triennia\"],\"lema_canonico\":\"triennium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"a period of three years; pl. triennia: festivals held every three years\",\"aliases\":[\"Triennia\"],\"exemplos\":[\"Ov. Met. 9, 642\"],\"notas\":\"First_pass gave 'Trīenia' (OCR confusion). Canonical form is triennium (pl. triennia); entry flagged para revisão por falta de confirmação externa.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
     "id": "chunk_28844-e1",
     "volume_id": "faria",
     "doc_name": "chunk_28844",
@@ -1054,50 +878,6 @@
     "notas": "Lema unificado e exemplos selecionados do LS; grafia com macron opcional preservada.",
     "raw_text": "{\"id\":\"chunk_28844:28844:0\",\"lemas\":[\"triennium\",\"trĭennĭum\"],\"lema_canonico\":\"triennium\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Espaço de três anos; triênio.\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 15, 16, 3\",\"Plaut. Mil. 2, 3, 79\",\"Caes. B. G. 4, 4\"],\"notas\":\"Lema unificado e exemplos selecionados do LS; grafia com macron opcional preservada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_28844:28844:0\",\"lemas\":[\"triennium\",\"trĭennĭum\"],\"lema_canonico\":\"triennium\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Espaço de três anos; triênio.\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 15, 16, 3\",\"Plaut. Mil. 2, 3, 79\",\"Caes. B. G. 4, 4\"],\"notas\":\"Lema unificado e exemplos selecionados do LS; grafia com macron opcional preservada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_28845-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28845",
-    "page_num": 28845,
-    "lemmas": [
-      "triens",
-      "triens"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "um terço; especialmente a terceira parte de um as (moeda) ou de uma medida líquida.",
-    "exemplos": [],
-    "notas": "Lema e sentidos confirmados por Lewis & Short e Whitaker. | [dedupe] redirect → chunk_28827:28827:1 | [dedupe] redirect → chunk_28827:28827:1",
-    "raw_text": "{\"id\":\"chunk_28845:28845:0\",\"lemas\":[\"triens\"],\"lema_canonico\":\"triens\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"um terço; especialmente a terceira parte de um as (moeda) ou de uma medida líquida.\",\"aliases\":[],\"exemplos\":[\"Hor. A. P. 328\",\"Cic. Att. 7, 8, 3\",\"Plin. 33, 3, 13\"],\"notas\":\"Lema e sentidos confirmados por Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28845:28845:0\",\"lemas\":[\"triens\"],\"lema_canonico\":\"triens\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"um terço; especialmente a terceira parte de um as (moeda) ou de uma medida líquida.\",\"aliases\":[],\"exemplos\":[\"Hor. A. P. 328\",\"Cic. Att. 7, 8, 3\",\"Plin. 33, 3, 13\"],\"notas\":\"Lema e sentidos confirmados por Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_28845-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_28845",
-    "page_num": 28845,
-    "lemmas": [
-      "tum",
-      "tum"
-    ],
-    "morfologia": "adv.",
-    "morph_render": "adv.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "advérbio de tempo/partícula coordenativa: então, naquele tempo; também além disso, portanto; usado correlativamente (tum... tum).",
-    "exemplos": [],
-    "notas": "Registro também como conjunção em uso clássico; priorizado 'adv.' como morfologia primária. | [dedupe] redirect → chunk_22686:22686:0 | [dedupe] redirect → chunk_22686:22686:0",
-    "raw_text": "{\"id\":\"chunk_28845:28845:1\",\"lemas\":[\"tum\"],\"lema_canonico\":\"tum\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"advérbio de tempo/partícula coordenativa: então, naquele tempo; também além disso, portanto; usado correlativamente (tum... tum).\",\"aliases\":[],\"exemplos\":[\"Cic. Brut. 89, 306\",\"Liv. 1, 4, 6\"],\"notas\":\"Registro também como conjunção em uso clássico; priorizado 'adv.' como morfologia primária.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28845:28845:1\",\"lemas\":[\"tum\"],\"lema_canonico\":\"tum\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"advérbio de tempo/partícula coordenativa: então, naquele tempo; também além disso, portanto; usado correlativamente (tum... tum).\",\"aliases\":[],\"exemplos\":[\"Cic. Brut. 89, 306\",\"Liv. 1, 4, 6\"],\"notas\":\"Registro também como conjunção em uso clássico; priorizado 'adv.' como morfologia primária.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_28846-e1",
@@ -1208,28 +988,6 @@
     "notas": "Substantive plural (festival name) attested in LS; treated as neuter plural-only—morphology marked to nearest allowed category.",
     "raw_text": "{\"id\":\"chunk_28849:28849:1\",\"lemas\":[\"trieterica\"],\"lema_canonico\":\"trieterica\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"(plur.) the triennial rites/festival of Bacchus (the Trieterica)\",\"aliases\":[],\"exemplos\":[\"Ov. Rem. 593\"],\"notas\":\"Substantive plural (festival name) attested in LS; treated as neuter plural-only—morphology marked to nearest allowed category.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}",
     "raw_json": "{\"id\":\"chunk_28849:28849:1\",\"lemas\":[\"trieterica\"],\"lema_canonico\":\"trieterica\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"(plur.) the triennial rites/festival of Bacchus (the Trieterica)\",\"aliases\":[],\"exemplos\":[\"Ov. Rem. 593\"],\"notas\":\"Substantive plural (festival name) attested in LS; treated as neuter plural-only—morphology marked to nearest allowed category.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}"
-  },
-  {
-    "id": "chunk_28850-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28850",
-    "page_num": 28850,
-    "lemmas": [
-      "trietericus",
-      "trietericus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "of or recurring every three years; triennial; of alternate years",
-    "exemplos": [],
-    "notas": "Normalizado para trietericus (LS/Whitaker). | [dedupe] redirect → chunk_28849:28849:0 | [dedupe] redirect → chunk_28849:28849:0",
-    "raw_text": "{\"id\":\"chunk_28850:28850:0\",\"lemas\":[\"trietericus\",\"trieterica\",\"trietericum\"],\"lema_canonico\":\"trietericus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"of or recurring every three years; triennial; of alternate years\",\"aliases\":[],\"exemplos\":[\"Verg. A. 4, 302\",\"Cic. Nat. 3, 85\"],\"notas\":\"Normalizado para trietericus (LS/Whitaker).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28850:28850:0\",\"lemas\":[\"trietericus\",\"trieterica\",\"trietericum\"],\"lema_canonico\":\"trietericus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"of or recurring every three years; triennial; of alternate years\",\"aliases\":[],\"exemplos\":[\"Verg. A. 4, 302\",\"Cic. Nat. 3, 85\"],\"notas\":\"Normalizado para trietericus (LS/Whitaker).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_28851-e1",
@@ -1518,50 +1276,6 @@
     "raw_json": "{\"id\":\"chunk_28863:28863:0\",\"lemas\":[\"Porta Trigemina\",\"Trigemina Porta\"],\"lema_canonico\":\"Porta Trigemina\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Porta Trigêmina — uma das portas da cidade de Roma.\",\"aliases\":[],\"exemplos\":[\"T. Liv. 4, 16, 2\"],\"notas\":\"Normalizado a forma do nome próprio; mantida referência a Tito Lívio.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}"
   },
   {
-    "id": "chunk_28864-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28864",
-    "page_num": 28864,
-    "lemmas": [
-      "trigeminus",
-      "trigeminus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Nascido de parto em que nascem três; triplo; também usado substantivado para os três irmãos nascidos no mesmo parto.",
-    "exemplos": [],
-    "notas": "Harmonizado com Lewis & Short e Whitaker; mantidas as formas feminina e neutra. | [dedupe] redirect → chunk_28023:28023:1 | [dedupe] redirect → chunk_28023:28023:1",
-    "raw_text": "{\"id\":\"chunk_28864:28864:0\",\"lemas\":[\"trigeminus\",\"trigemina\",\"trigeminum\"],\"lema_canonico\":\"trigeminus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Nascido de parto em que nascem três; triplo; também usado substantivado para os três irmãos nascidos no mesmo parto.\",\"aliases\":[],\"exemplos\":[\"Liv. 1, 24, 1\",\"Liv. 1, 25, 1\",\"Plaut. Mil. 3, 1, 123\",\"Plin. Nat. 7, 3, 3\"],\"notas\":\"Harmonizado com Lewis & Short e Whitaker; mantidas as formas feminina e neutra.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28864:28864:0\",\"lemas\":[\"trigeminus\",\"trigemina\",\"trigeminum\"],\"lema_canonico\":\"trigeminus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Nascido de parto em que nascem três; triplo; também usado substantivado para os três irmãos nascidos no mesmo parto.\",\"aliases\":[],\"exemplos\":[\"Liv. 1, 24, 1\",\"Liv. 1, 25, 1\",\"Plaut. Mil. 3, 1, 123\",\"Plin. Nat. 7, 3, 3\"],\"notas\":\"Harmonizado com Lewis & Short e Whitaker; mantidas as formas feminina e neutra.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_28865-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28865",
-    "page_num": 28865,
-    "lemmas": [
-      "trīgēsĭmus",
-      "trīgēsĭmus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "trigésimo; equivalente a trīcēsimus (30.º).",
-    "exemplos": [],
-    "notas": "Corresponde a trīgēsĭmus (Lewis & Short). Normalizada grafia para trigesimus. | [dedupe] redirect → chunk_28826:28826:0 | [dedupe] redirect → chunk_28826:28826:0 | [ocr_fix 2025-08-17T19:52:49Z] match direto em LS por lemma/lemma_norm | lemma_in='trigesimus' → 'trīgēsĭmus'",
-    "raw_text": "{\"id\":\"chunk_28865:28865:0\",\"lemas\":[\"trigesimus\"],\"lema_canonico\":\"trigesimus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"trigésimo; equivalente a trīcēsimus (30.º).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corresponde a trīgēsĭmus (Lewis & Short). Normalizada grafia para trigesimus.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_28865:28865:0\",\"lemas\":[\"trigesimus\"],\"lema_canonico\":\"trigesimus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"trigésimo; equivalente a trīcēsimus (30.º).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corresponde a trīgēsĭmus (Lewis & Short). Normalizada grafia para trigesimus.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_28866-e1",
     "volume_id": "faria",
     "doc_name": "chunk_28866",
@@ -1648,28 +1362,6 @@
     "notas": "Forma atestada em edição/ocr; não encontrada com confiança em principais léxicos consultados — revisão necessária.",
     "raw_text": "{\"id\":\"chunk_28869:28869:0\",\"lemas\":[\"trignus\",\"trisynus\"],\"lema_canonico\":\"trignus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"peixe (espécie de atum) — atestado em Plauto; identificação incerta\",\"aliases\":[\"trisynus\"],\"exemplos\":[\"Plaut. Capt. 851\"],\"notas\":\"Forma atestada em edição/ocr; não encontrada com confiança em principais léxicos consultados — revisão necessária.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_28869:28869:0\",\"lemas\":[\"trignus\",\"trisynus\"],\"lema_canonico\":\"trignus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"peixe (espécie de atum) — atestado em Plauto; identificação incerta\",\"aliases\":[\"trisynus\"],\"exemplos\":[\"Plaut. Capt. 851\"],\"notas\":\"Forma atestada em edição/ocr; não encontrada com confiança em principais léxicos consultados — revisão necessária.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_28870-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28870",
-    "page_num": 28870,
-    "lemmas": [
-      "tribunal",
-      "tribunal"
-    ],
-    "morfologia": "s. neut. 3ª (-is)",
-    "morph_render": "s. neut. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "estrado elevado; assento de julgamento; tribunal, judgement-seat.",
-    "exemplos": [],
-    "notas": "Unificação de formas substantiva/adjetival; adotado substantivo neutro 'tribunal' conforme Whitaker e Lat→Deu. | [dedupe] redirect → chunk_28807:28807:0 | [dedupe] redirect → chunk_28807:28807:0",
-    "raw_text": "{\"id\":\"chunk_28870:28870:0\",\"lemas\":[\"tribunal\",\"tribunalis\"],\"lema_canonico\":\"tribunal\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"estrado elevado; assento de julgamento; tribunal, judgement-seat.\",\"aliases\":[],\"exemplos\":[\"Cic. Brut. 84, 290\",\"Caes. B. C. 3, 20\"],\"notas\":\"Unificação de formas substantiva/adjetival; adotado substantivo neutro 'tribunal' conforme Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28870:28870:0\",\"lemas\":[\"tribunal\",\"tribunalis\"],\"lema_canonico\":\"tribunal\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"estrado elevado; assento de julgamento; tribunal, judgement-seat.\",\"aliases\":[],\"exemplos\":[\"Cic. Brut. 84, 290\",\"Caes. B. C. 3, 20\"],\"notas\":\"Unificação de formas substantiva/adjetival; adotado substantivo neutro 'tribunal' conforme Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_28871-e1",
@@ -2244,28 +1936,6 @@
     "raw_json": "{\"id\":\"chunk_28895:28895:0\",\"lemas\":[\"tripartitus\",\"tripertitus\"],\"lema_canonico\":\"tripartitus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"dividido em três partes; três vezes; tripartite, threefold.\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 2, 3, 5\",\"Tac. A. 2, 74\"],\"notas\":\"Corrigido POS: adjetivo (tripartītus/tripertītus) conforme LS/Whitaker; variante tripertītus atestada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_28896-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28896",
-    "page_num": 28896,
-    "lemmas": [
-      "tripartitus",
-      "tripartitus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "divided into three parts; threefold, tripartite",
-    "exemplos": [],
-    "notas": "Grafia variante (tripertitus) atestada em Lewis & Short; definição harmonizada com as fontes. | [dedupe] redirect → chunk_28895:28895:0 | [dedupe] redirect → chunk_28895:28895:0",
-    "raw_text": "{\"id\":\"chunk_28896:28896:0\",\"lemas\":[\"tripartitus\",\"tripertitus\"],\"lema_canonico\":\"tripartitus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"divided into three parts; threefold, tripartite\",\"aliases\":[\"tripertitus\"],\"exemplos\":[\"Cic. Sest. 129\"],\"notas\":\"Grafia variante (tripertitus) atestada em Lewis & Short; definição harmonizada com as fontes.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28896:28896:0\",\"lemas\":[\"tripartitus\",\"tripertitus\"],\"lema_canonico\":\"tripartitus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"divided into three parts; threefold, tripartite\",\"aliases\":[\"tripertitus\"],\"exemplos\":[\"Cic. Sest. 129\"],\"notas\":\"Grafia variante (tripertitus) atestada em Lewis & Short; definição harmonizada com as fontes.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_28897-e1",
     "volume_id": "faria",
     "doc_name": "chunk_28897",
@@ -2376,28 +2046,6 @@
     "raw_json": "{\"id\":\"chunk_28900:28900:0\",\"lemas\":[\"tripes\",\"trīpes\"],\"lema_canonico\":\"tripes\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[],\"definicao\":\"com três pés; três-pés, que tem três pés\",\"aliases\":[],\"exemplos\":[\"Liv. 40, 2, 4\",\"Hor. Sat. 1, 3, 13\"],\"notas\":\"Normalizada a etiqueta morfológica para adj. (3) 1T conforme fontes; removida leitura errônea 'ĕdis'.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_28901-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28901",
-    "page_num": 28901,
-    "lemmas": [
-      "Trītīa",
-      "Trītīa"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Topónimo: Trifília, cantão da Élida (histórico).",
-    "exemplos": [],
-    "notas": "Forma atestada em T. Liv.; mantida grafia clássica; base no OCR e first_pass.\n[ocr_pipeline 2025-08-16T23:18:59.647515Z] lemma_in='Triphyllia' → 'Trītīa' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:16:47Z] match direto em LS por lemma/lemma_norm | lemma_in='Trītīa' → 'Trītīa' | [dedupe] redirect → chunk_28929:28929:0 | [dedupe] redirect → chunk_28929:28929:0",
-    "raw_text": "{\"id\":\"chunk_28901:28901:0\",\"lemas\":[\"Triphyllia\"],\"lema_canonico\":\"Triphyllia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Topónimo: Trifília, cantão da Élida (histórico).\",\"aliases\":[],\"exemplos\":[\"T. Liv. 28, 8\"],\"notas\":\"Forma atestada em T. Liv.; mantida grafia clássica; base no OCR e first_pass.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}",
-    "raw_json": "{\"id\":\"chunk_28901:28901:0\",\"lemas\":[\"Triphyllia\"],\"lema_canonico\":\"Triphyllia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Topónimo: Trifília, cantão da Élida (histórico).\",\"aliases\":[],\"exemplos\":[\"T. Liv. 28, 8\"],\"notas\":\"Forma atestada em T. Liv.; mantida grafia clássica; base no OCR e first_pass.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}"
-  },
-  {
     "id": "chunk_28902-e1",
     "volume_id": "faria",
     "doc_name": "chunk_28902",
@@ -2462,28 +2110,6 @@
     "notas": "Entrada baseada no first_pass/OCR; leitura e análise inseguras quanto à forma e à declinação.",
     "raw_text": "{\"id\":\"chunk_28904:28904:0\",\"lemas\":[\"triplicis\"],\"lema_canonico\":\"triplicis\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"(prov.) Tabuinhas de cera compostas de três folhas (subent. codicillum).\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 34, 8, 1\"],\"notas\":\"Entrada baseada no first_pass/OCR; leitura e análise inseguras quanto à forma e à declinação.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_28904:28904:0\",\"lemas\":[\"triplicis\"],\"lema_canonico\":\"triplicis\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"(prov.) Tabuinhas de cera compostas de três folhas (subent. codicillum).\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 34, 8, 1\"],\"notas\":\"Entrada baseada no first_pass/OCR; leitura e análise inseguras quanto à forma e à declinação.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_28905-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28905",
-    "page_num": 28905,
-    "lemmas": [
-      "trīplex",
-      "trīplex"
-    ],
-    "morfologia": "adj. (3) 1T",
-    "morph_render": "adj. (3) 1T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Tríplice, triplo; relativo a três partes.",
-    "exemplos": [],
-    "notas": "Entrada ajustada para incluir lema nominativo (trīplex) e forma genitiva trīplicis. | [dedupe] redirect → chunk_28902:28902:0 | [dedupe] redirect → chunk_28902:28902:0",
-    "raw_text": "{\"id\":\"chunk_28905:28905:0\",\"lemas\":[\"trīplex\",\"trīplicis\"],\"lema_canonico\":\"trīplex\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[],\"definicao\":\"Tríplice, triplo; relativo a três partes.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada ajustada para incluir lema nominativo (trīplex) e forma genitiva trīplicis.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28905:28905:0\",\"lemas\":[\"trīplex\",\"trīplicis\"],\"lema_canonico\":\"trīplex\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[],\"definicao\":\"Tríplice, triplo; relativo a três partes.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada ajustada para incluir lema nominativo (trīplex) e forma genitiva trīplicis.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_28906-e1",
@@ -2574,28 +2200,6 @@
     "raw_json": "{\"id\":\"chunk_28908:28908:0\",\"lemas\":[\"tripolitanus\",\"tripolitānus\"],\"lema_canonico\":\"tripolitanus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo a Trípoli (na África) ou a região de Trípole (Tessália).\",\"aliases\":[],\"exemplos\":[\"Eutr. 8, 18\",\"T. Liv. 36, 10, 5\"],\"notas\":\"Grafia padronizada; acepções geográficas separadas.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_28909-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28909",
-    "page_num": 28909,
-    "lemmas": [
-      "Trĭpŏlis",
-      "Trĭpŏlis"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Nome próprio de várias regiões e cidades chamadas Trípole; p.ex. cantão da Tessália; cidade da Lacedónia (perto de Tegea).",
-    "exemplos": [],
-    "notas": "Correção da declinação para -is conforme Lewis & Short; mantida forma própria. | [dedupe] redirect → chunk_28907:28907:1 | [dedupe] redirect → chunk_28907:28907:1 | [ocr_fix 2025-08-17T19:52:50Z] match direto em LS por lemma/lemma_norm | lemma_in='Tripolis' → 'Trĭpŏlis'",
-    "raw_text": "{\"id\":\"chunk_28909:28909:0\",\"lemas\":[\"Tripolis\"],\"lema_canonico\":\"Tripolis\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Nome próprio de várias regiões e cidades chamadas Trípole; p.ex. cantão da Tessália; cidade da Lacedónia (perto de Tegea).\",\"aliases\":[],\"exemplos\":[\"Liv. 42, 53, 6\",\"Liv. 35, 27, 9\"],\"notas\":\"Correção da declinação para -is conforme Lewis & Short; mantida forma própria.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_28909:28909:0\",\"lemas\":[\"Tripolis\"],\"lema_canonico\":\"Tripolis\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Nome próprio de várias regiões e cidades chamadas Trípole; p.ex. cantão da Tessália; cidade da Lacedónia (perto de Tegea).\",\"aliases\":[],\"exemplos\":[\"Liv. 42, 53, 6\",\"Liv. 35, 27, 9\"],\"notas\":\"Correção da declinação para -is conforme Lewis & Short; mantida forma própria.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_28910-e1",
     "volume_id": "faria",
     "doc_name": "chunk_28910",
@@ -2638,28 +2242,6 @@
     "notas": "Combinação de entradas nominal e verbal; prioridade a LS/Whitaker para formas e sentidos.",
     "raw_text": "{\"id\":\"chunk_28911:28911:0\",\"lemas\":[\"tripudium\",\"tripudio\",\"tripudiare\"],\"lema_canonico\":\"tripudium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[\"v. 1ª (-āre)\"],\"definicao\":\"1) tripudium: dança solene/rito (frequentemente em honra de Marte); preságio favorável associado ao comportamento das aves sagradas. 2) tripudiare: verbo intr., dançar, saltar; fig.: regozijar‑se.\",\"aliases\":[],\"exemplos\":[\"Liv. 1, 20, 4\",\"Carm. (inscr.) Frat. Arv. Orell. 2271\",\"Sen. Tranq. 17, 4\"],\"notas\":\"Combinação de entradas nominal e verbal; prioridade a LS/Whitaker para formas e sentidos.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"morph_out_of_vocab\"]}",
     "raw_json": "{\"id\":\"chunk_28911:28911:0\",\"lemas\":[\"tripudium\",\"tripudio\",\"tripudiare\"],\"lema_canonico\":\"tripudium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[\"v. 1ª (-āre)\"],\"definicao\":\"1) tripudium: dança solene/rito (frequentemente em honra de Marte); preságio favorável associado ao comportamento das aves sagradas. 2) tripudiare: verbo intr., dançar, saltar; fig.: regozijar‑se.\",\"aliases\":[],\"exemplos\":[\"Liv. 1, 20, 4\",\"Carm. (inscr.) Frat. Arv. Orell. 2271\",\"Sen. Tranq. 17, 4\"],\"notas\":\"Combinação de entradas nominal e verbal; prioridade a LS/Whitaker para formas e sentidos.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"morph_out_of_vocab\"]}"
-  },
-  {
-    "id": "chunk_28912-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28912",
-    "page_num": 28912,
-    "lemmas": [
-      "tripudium",
-      "tripudium"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Dança solene/ritual (p.ex. dos Sálios); pulo ou salto; figuradamente, augúrio favorável.",
-    "exemplos": [],
-    "notas": "Normalizada morfologia para formato canônico; definições confirmadas por Lewis & Short e Whitaker. | [dedupe] redirect → chunk_28911:28911:0 | [dedupe] redirect → chunk_28911:28911:0",
-    "raw_text": "{\"id\":\"chunk_28912:28912:0\",\"lemas\":[\"tripudium\"],\"lema_canonico\":\"tripudium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Dança solene/ritual (p.ex. dos Sálios); pulo ou salto; figuradamente, augúrio favorável.\",\"aliases\":[],\"exemplos\":[\"Liv. 1, 20, 4\",\"Liv. 21, 42, 3\",\"Cic. Div. 2, 72\"],\"notas\":\"Normalizada morfologia para formato canônico; definições confirmadas por Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28912:28912:0\",\"lemas\":[\"tripudium\"],\"lema_canonico\":\"tripudium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Dança solene/ritual (p.ex. dos Sálios); pulo ou salto; figuradamente, augúrio favorável.\",\"aliases\":[],\"exemplos\":[\"Liv. 1, 20, 4\",\"Liv. 21, 42, 3\",\"Cic. Div. 2, 72\"],\"notas\":\"Normalizada morfologia para formato canônico; definições confirmadas por Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_28913-e1",
@@ -2772,50 +2354,6 @@
     "raw_json": "{\"id\":\"chunk_28917:28917:0\",\"lemas\":[\"triste\"],\"lema_canonico\":\"triste\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"Com tristeza; tristemente; também: severamente, duramente.\",\"aliases\":[],\"exemplos\":[\"Hor. Sat. 1, 8, 41\",\"Cic. C. M. 67\"],\"notas\":\"Corrigido para advérbio (não substantivo) conforme entradas lexicográficas; forma comparativa tristius mencionada.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_28918-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28918",
-    "page_num": 28918,
-    "lemmas": [
-      "tristis",
-      "tristis"
-    ],
-    "morfologia": "adj. (3) 3T",
-    "morph_render": "adj. (3) 3T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "adj. ‘triste, sombrio’; tristi = dat./abl. sg. de tristis (forma atestada)",
-    "exemplos": [],
-    "notas": "Corrige leitura que confundia com perfeito de fero; aqui é forma caseada do adjetivo tristis (atenção a leitura de abreviações). | [dedupe] redirect → chunk_28923:28923:0 | [dedupe] redirect → chunk_28923:28923:0",
-    "raw_text": "{\"id\":\"chunk_28918:28918:0\",\"lemas\":[\"tristis\",\"tristi\"],\"lema_canonico\":\"tristis\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"adj. ‘triste, sombrio’; tristi = dat./abl. sg. de tristis (forma atestada)\",\"aliases\":[],\"exemplos\":[\"Catul. 66, 30\"],\"notas\":\"Corrige leitura que confundia com perfeito de fero; aqui é forma caseada do adjetivo tristis (atenção a leitura de abreviações).\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28918:28918:0\",\"lemas\":[\"tristis\",\"tristi\"],\"lema_canonico\":\"tristis\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"adj. ‘triste, sombrio’; tristi = dat./abl. sg. de tristis (forma atestada)\",\"aliases\":[],\"exemplos\":[\"Catul. 66, 30\"],\"notas\":\"Corrige leitura que confundia com perfeito de fero; aqui é forma caseada do adjetivo tristis (atenção a leitura de abreviações).\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_28919-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28919",
-    "page_num": 28919,
-    "lemmas": [
-      "tristis",
-      "tristis"
-    ],
-    "morfologia": "adj. (3) 3T",
-    "morph_render": "adj. (3) 3T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Triste, melancólico; o plural neutro (tristia) pode ser usado substantivamente: tristezas, adversidades.",
-    "exemplos": [],
-    "notas": "Unificado como adjetivo trīstis com a forma neutra plural tristia; substantivização indicada. | [dedupe] redirect → chunk_28923:28923:0 | [dedupe] redirect → chunk_28923:28923:0",
-    "raw_text": "{\"id\":\"chunk_28919:28919:0\",\"lemas\":[\"tristis\",\"tristia\"],\"lema_canonico\":\"tristis\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"Triste, melancólico; o plural neutro (tristia) pode ser usado substantivamente: tristezas, adversidades.\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 15, 7\"],\"notas\":\"Unificado como adjetivo trīstis com a forma neutra plural tristia; substantivização indicada.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28919:28919:0\",\"lemas\":[\"tristis\",\"tristia\"],\"lema_canonico\":\"tristis\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"Triste, melancólico; o plural neutro (tristia) pode ser usado substantivamente: tristezas, adversidades.\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 15, 7\"],\"notas\":\"Unificado como adjetivo trīstis com a forma neutra plural tristia; substantivização indicada.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_28920-e1",
     "volume_id": "faria",
     "doc_name": "chunk_28920",
@@ -2904,28 +2442,6 @@
     "raw_json": "{\"id\":\"chunk_28923:28923:0\",\"lemas\":[\"tristis\",\"trīstis\"],\"lema_canonico\":\"tristis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"triste, melancólico; também: funesto, severo, austero; amargo, desagradável (var. semânticas atestadas).\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 1, 28, 59\",\"Verg. Georg. 2, 126\",\"Plaut. Cist. 1\"],\"notas\":\"Sentidos organizados a partir de LS; morfologia normalizada conforme Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_28924-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28924",
-    "page_num": 28924,
-    "lemmas": [
-      "tristĭtĭa",
-      "tristĭtĭa"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "tristeza, melancolia, aflição; também atestada a forma class. tristītas/‑ātis em autores",
-    "exemplos": [],
-    "notas": "Fontes divergem entre forma 1ª decl. (tristitia) e formalizações clássicas (tristĭtas, -ātis); marca-se necessidade de atenção.\n[ocr_pipeline 2025-08-16T23:28:29.808005Z] lemma_in='tristitia' → 'tristĭtĭa' | motivo: match direto em LS por lemma/lemma_norm | [ocr_fix 2025-08-17T01:29:35Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='tristĭtĭa' → 'tristĭtĭa' | [dedupe] redirect → chunk_28925:28925:0 | [dedupe] redirect → chunk_28925:28925:0",
-    "raw_text": "{\"id\":\"chunk_28924:28924:0\",\"lemas\":[\"tristitia\",\"tristitas\",\"tristitiae\"],\"lema_canonico\":\"tristitia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"tristeza, melancolia, aflição; também atestada a forma class. tristītas/‑ātis em autores\",\"aliases\":[],\"exemplos\":[\"Pac. Tr. 59\"],\"notas\":\"Fontes divergem entre forma 1ª decl. (tristitia) e formalizações clássicas (tristĭtas, -ātis); marca-se necessidade de atenção.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:low\"]}",
-    "raw_json": "{\"id\":\"chunk_28924:28924:0\",\"lemas\":[\"tristitia\",\"tristitas\",\"tristitiae\"],\"lema_canonico\":\"tristitia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"tristeza, melancolia, aflição; também atestada a forma class. tristītas/‑ātis em autores\",\"aliases\":[],\"exemplos\":[\"Pac. Tr. 59\"],\"notas\":\"Fontes divergem entre forma 1ª decl. (tristitia) e formalizações clássicas (tristĭtas, -ātis); marca-se necessidade de atenção.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:low\"]}"
-  },
-  {
     "id": "chunk_28925-e1",
     "volume_id": "faria",
     "doc_name": "chunk_28925",
@@ -2946,72 +2462,6 @@
     "notas": "Normalizada para forma clássica; sentidos alinhados com LS/Whitaker. | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='tristitia' → 'tristĭtĭa'",
     "raw_text": "{\"id\":\"chunk_28925:28925:0\",\"lemas\":[\"tristitia\"],\"lema_canonico\":\"tristitia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"tristeza, melancolia; também: gravidade, severidade, aflição.\",\"aliases\":[],\"exemplos\":[\"Cic. Or. 2, 17, 72\",\"Sall. Cat. 31, 1\"],\"notas\":\"Normalizada para forma clássica; sentidos alinhados com LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_28925:28925:0\",\"lemas\":[\"tristitia\"],\"lema_canonico\":\"tristitia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"tristeza, melancolia; também: gravidade, severidade, aflição.\",\"aliases\":[],\"exemplos\":[\"Cic. Or. 2, 17, 72\",\"Sall. Cat. 31, 1\"],\"notas\":\"Normalizada para forma clássica; sentidos alinhados com LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_28926-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28926",
-    "page_num": 28926,
-    "lemmas": [
-      "tellus",
-      "tellus"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "terra; solo, chão; país, região.",
-    "exemplos": [],
-    "notas": "Forma e sentido confirmados em Lewis & Short e Whitaker. | [dedupe] redirect → chunk_27882:27882:0 | [dedupe] redirect → chunk_27882:27882:0",
-    "raw_text": "{\"id\":\"chunk_28926:28926:0\",\"lemas\":[\"tellus\"],\"lema_canonico\":\"tellus\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"terra; solo, chão; país, região.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma e sentido confirmados em Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28926:28926:0\",\"lemas\":[\"tellus\"],\"lema_canonico\":\"tellus\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"terra; solo, chão; país, região.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma e sentido confirmados em Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_28926-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_28926",
-    "page_num": 28926,
-    "lemmas": [
-      "tristis",
-      "tristis"
-    ],
-    "morfologia": "adj. (3) 2T",
-    "morph_render": "adj. (3) 2T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "triste, melancólico; lúgubre, severo, sombrio.",
-    "exemplos": [],
-    "notas": "Forma em -is/-e confirmada em LS e Whitaker. | [dedupe] redirect → chunk_28923:28923:0 | [dedupe] redirect → chunk_28923:28923:0",
-    "raw_text": "{\"id\":\"chunk_28926:28926:1\",\"lemas\":[\"tristis\",\"triste\"],\"lema_canonico\":\"tristis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"triste, melancólico; lúgubre, severo, sombrio.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma em -is/-e confirmada em LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28926:28926:1\",\"lemas\":[\"tristis\",\"triste\"],\"lema_canonico\":\"tristis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"triste, melancólico; lúgubre, severo, sombrio.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma em -is/-e confirmada em LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_28926-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_28926",
-    "page_num": 28926,
-    "lemmas": [
-      "tristĭcŭlus",
-      "tristĭcŭlus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "substantivo composto atestado em Terêncio (possível diminutivo ou formação popular; relação a tristis + -tella/tellus).",
-    "exemplos": [],
-    "notas": "Leitura derivada do OCR/first_pass; forma incerta quanto à análise morfológica (necessita verificação em fontes primárias).\n[ocr_pipeline 2025-08-16T23:28:30.642742Z] lemma_in='tristitellus' → 'tristĭcŭlus' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:29:36Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='tristĭcŭlus' → 'tristĭcŭlus' | [dedupe] redirect → chunk_28920:28920:0 | [dedupe] redirect → chunk_28920:28920:0",
-    "raw_text": "{\"id\":\"chunk_28926:28926:2\",\"lemas\":[\"tristitellus\",\"tristitella\"],\"lema_canonico\":\"tristitellus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"substantivo composto atestado em Terêncio (possível diminutivo ou formação popular; relação a tristis + -tella/tellus).\",\"aliases\":[],\"exemplos\":[\"Ter. Heaut. 267\"],\"notas\":\"Leitura derivada do OCR/first_pass; forma incerta quanto à análise morfológica (necessita verificação em fontes primárias).\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_28926:28926:2\",\"lemas\":[\"tristitellus\",\"tristitella\"],\"lema_canonico\":\"tristitellus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"substantivo composto atestado em Terêncio (possível diminutivo ou formação popular; relação a tristis + -tella/tellus).\",\"aliases\":[],\"exemplos\":[\"Ter. Heaut. 267\"],\"notas\":\"Leitura derivada do OCR/first_pass; forma incerta quanto à análise morfológica (necessita verificação em fontes primárias).\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
     "id": "chunk_28927-e1",
@@ -3278,28 +2728,6 @@
     "raw_json": "{\"id\":\"chunk_28938:28938:0\",\"lemas\":[\"trītor\"],\"lema_canonico\":\"trītor\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"moedor, aquele que tritura; aplic. técnico a quem mói cores; termo pejorativo para escravo acorrentado\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 35, 11\",\"Plaut. Pers. 3, 3, 15\",\"Plaut. Pers. 5, 2, 17\"],\"notas\":\"Grafia e morfologia confirmadas em LS e Whitaker; unificado lema.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_28939-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28939",
-    "page_num": 28939,
-    "lemmas": [
-      "trītūra",
-      "trītūra"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "ação de esfregar, fricção; também debulha, aquilo que é debulhado (threshing)",
-    "exemplos": [],
-    "notas": "Entrada alinhada com Lewis & Short e Whitaker; inclui variantes gráficas. | [dedupe] redirect → chunk_28549:28549:7 | [dedupe] redirect → chunk_28549:28549:7",
-    "raw_text": "{\"id\":\"chunk_28939:28939:0\",\"lemas\":[\"trītūra\",\"tritura\"],\"lema_canonico\":\"trītūra\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"ação de esfregar, fricção; também debulha, aquilo que é debulhado (threshing)\",\"aliases\":[],\"exemplos\":[\"Verg. G. 1, 190\",\"Varr. L. L. 5\",\"Apul. M. 9\"],\"notas\":\"Entrada alinhada com Lewis & Short e Whitaker; inclui variantes gráficas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28939:28939:0\",\"lemas\":[\"trītūra\",\"tritura\"],\"lema_canonico\":\"trītūra\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"ação de esfregar, fricção; também debulha, aquilo que é debulhado (threshing)\",\"aliases\":[],\"exemplos\":[\"Verg. G. 1, 190\",\"Varr. L. L. 5\",\"Apul. M. 9\"],\"notas\":\"Entrada alinhada com Lewis & Short e Whitaker; inclui variantes gráficas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_28940-e1",
     "volume_id": "faria",
     "doc_name": "chunk_28940",
@@ -3342,28 +2770,6 @@
     "notas": "Tratado como substantivo de 4ª declinação conforme Lewis & Short; exemplificado pelas citações clássicas.",
     "raw_text": "{\"id\":\"chunk_28940:28940:1\",\"lemas\":[\"trītus\"],\"lema_canonico\":\"trītus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"substantivo (m.) derivado de tero: atrito, desgaste; atestado especialmente no abl. sing.\",\"aliases\":[],\"exemplos\":[\"Cic. N. D. 2, 9, 25\",\"Plin. Nat. 33, 4, 21, § 66\",\"Plin. Nat. 34, 12, 30, § 120\",\"Lact. 6, 4, 6\"],\"notas\":\"Tratado como substantivo de 4ª declinação conforme Lewis & Short; exemplificado pelas citações clássicas.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_28940:28940:1\",\"lemas\":[\"trītus\"],\"lema_canonico\":\"trītus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"substantivo (m.) derivado de tero: atrito, desgaste; atestado especialmente no abl. sing.\",\"aliases\":[],\"exemplos\":[\"Cic. N. D. 2, 9, 25\",\"Plin. Nat. 33, 4, 21, § 66\",\"Plin. Nat. 34, 12, 30, § 120\",\"Lact. 6, 4, 6\"],\"notas\":\"Tratado como substantivo de 4ª declinação conforme Lewis & Short; exemplificado pelas citações clássicas.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_28941-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28941",
-    "page_num": 28941,
-    "lemmas": [
-      "trītus",
-      "trītus"
-    ],
-    "morfologia": "s. masc. 4ª (-us)",
-    "morph_render": "s. masc. 4ª (-us)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "ato de friccionar, desgaste por atrito (substantivo, atestado sobretudo no abl. sg.).",
-    "exemplos": [],
-    "notas": "Substantivo 4ª declinação conforme LS; ocorrência especialmente atestada no abl. sg. | [dedupe] redirect → chunk_28940:28940:1 | [dedupe] redirect → chunk_28940:28940:1",
-    "raw_text": "{\"id\":\"chunk_28941:28941:0\",\"lemas\":[\"trītus\"],\"lema_canonico\":\"trītus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"ato de friccionar, desgaste por atrito (substantivo, atestado sobretudo no abl. sg.).\",\"aliases\":[],\"exemplos\":[\"Cic. N. D. 2, 9, 25\"],\"notas\":\"Substantivo 4ª declinação conforme LS; ocorrência especialmente atestada no abl. sg.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28941:28941:0\",\"lemas\":[\"trītus\"],\"lema_canonico\":\"trītus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"ato de friccionar, desgaste por atrito (substantivo, atestado sobretudo no abl. sg.).\",\"aliases\":[],\"exemplos\":[\"Cic. N. D. 2, 9, 25\"],\"notas\":\"Substantivo 4ª declinação conforme LS; ocorrência especialmente atestada no abl. sg.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_28942-e1",
@@ -3498,50 +2904,6 @@
     "raw_json": "{\"id\":\"chunk_28946:28946:0\",\"lemas\":[\"triumphare\",\"triūmphō\"],\"lema_canonico\":\"triumphare\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"celebrar triunfo; triunfar; também exultar (ocorre transitivo em construções poéticas e passivas)\",\"aliases\":[],\"exemplos\":[\"Cic. Phil. 11, 18\",\"Cic. Verr. 5, 121\",\"Verg. G. 3, 33\",\"Tac. Germ. 37\"],\"notas\":\"Infinitivo como lema canônico; sentidos e argumentos verificados em LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_28947-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28947",
-    "page_num": 28947,
-    "lemmas": [
-      "triumphus",
-      "triumphus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "triunfo; a entrada solene de um general vencedor em Roma; por extensão, vitória, triunfo (fig.)",
-    "exemplos": [],
-    "notas": "Formas e sentidos alinhados com LS, Whitaker e Lat→Deu. | [dedupe] redirect → chunk_28942:28942:1 | [dedupe] redirect → chunk_28942:28942:1",
-    "raw_text": "{\"id\":\"chunk_28947:28947:0\",\"lemas\":[\"triumphus\",\"triumpus\"],\"lema_canonico\":\"triumphus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"triunfo; a entrada solene de um general vencedor em Roma; por extensão, vitória, triunfo (fig.)\",\"aliases\":[],\"exemplos\":[\"T. Liv. 10, 46, 2\",\"Cic. Verr. 5, 100\"],\"notas\":\"Formas e sentidos alinhados com LS, Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28947:28947:0\",\"lemas\":[\"triumphus\",\"triumpus\"],\"lema_canonico\":\"triumphus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"triunfo; a entrada solene de um general vencedor em Roma; por extensão, vitória, triunfo (fig.)\",\"aliases\":[],\"exemplos\":[\"T. Liv. 10, 46, 2\",\"Cic. Verr. 5, 100\"],\"notas\":\"Formas e sentidos alinhados com LS, Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_28948-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28948",
-    "page_num": 28948,
-    "lemmas": [
-      "triumvir",
-      "triumvir"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "membro de uma comissão de três pessoas; triunviro",
-    "exemplos": [],
-    "notas": "Grafia e genitivo confirmadas; normalizado para forma lexical. | [dedupe] redirect → chunk_28791:28791:1 | [dedupe] redirect → chunk_28791:28791:1",
-    "raw_text": "{\"id\":\"chunk_28948:28948:0\",\"lemas\":[\"triumvir\"],\"lema_canonico\":\"triumvir\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"membro de uma comissão de três pessoas; triunviro\",\"aliases\":[],\"exemplos\":[\"T. Liv. 27, 21, 10\"],\"notas\":\"Grafia e genitivo confirmadas; normalizado para forma lexical.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28948:28948:0\",\"lemas\":[\"triumvir\"],\"lema_canonico\":\"triumvir\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"membro de uma comissão de três pessoas; triunviro\",\"aliases\":[],\"exemplos\":[\"T. Liv. 27, 21, 10\"],\"notas\":\"Grafia e genitivo confirmadas; normalizado para forma lexical.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_28949-e1",
     "volume_id": "faria",
     "doc_name": "chunk_28949",
@@ -3630,28 +2992,6 @@
     "raw_json": "{\"id\":\"chunk_28952:28952:0\",\"lemas\":[\"trivia\"],\"lema_canonico\":\"trivia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"epíteto de Diana (deusa das encruzilhadas); lugar das três vias, encruzilhada\",\"aliases\":[],\"exemplos\":[\"Verg. A. 6, 35\"],\"notas\":\"Identificada como substantivo feminino 1ª decl.; relacionada a 'trivium' e 'trivius'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_28952-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_28952",
-    "page_num": 28952,
-    "lemmas": [
-      "trivialis",
-      "trivialis"
-    ],
-    "morfologia": "adj. (3) 2T",
-    "morph_render": "adj. (3) 2T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "comum, pertencente a encruzilhadas; por extensão, vulgar, ordinário",
-    "exemplos": [],
-    "notas": "Segunda ocorrência do mesmo lema no material original; consolida definição baseada em fontes lexicográficas. | [dedupe] redirect → chunk_28953:28953:0 | [dedupe] redirect → chunk_28953:28953:0",
-    "raw_text": "{\"id\":\"chunk_28952:28952:1\",\"lemas\":[\"trivialis\"],\"lema_canonico\":\"trivialis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"comum, pertencente a encruzilhadas; por extensão, vulgar, ordinário\",\"aliases\":[],\"exemplos\":[\"Quint. 1, 4, 27\"],\"notas\":\"Segunda ocorrência do mesmo lema no material original; consolida definição baseada em fontes lexicográficas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28952:28952:1\",\"lemas\":[\"trivialis\"],\"lema_canonico\":\"trivialis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"comum, pertencente a encruzilhadas; por extensão, vulgar, ordinário\",\"aliases\":[],\"exemplos\":[\"Quint. 1, 4, 27\"],\"notas\":\"Segunda ocorrência do mesmo lema no material original; consolida definição baseada em fontes lexicográficas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_28953-e1",
     "volume_id": "faria",
     "doc_name": "chunk_28953",
@@ -3672,28 +3012,6 @@
     "notas": "Forma e sentido confirmados em LS e Whitaker; lema normalizado para 'trivialis'.",
     "raw_text": "{\"id\":\"chunk_28953:28953:0\",\"lemas\":[\"trivialis\",\"trīviālis\"],\"lema_canonico\":\"trivialis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"comum, trivial; que se encontra em todo lugar, ordinário; no uso post‑augustano: vulgar\",\"aliases\":[],\"exemplos\":[\"Quint. 1, 4, 27\",\"Juv. 7, 55\",\"Suet. Rhet. 6\"],\"notas\":\"Forma e sentido confirmados em LS e Whitaker; lema normalizado para 'trivialis'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_28953:28953:0\",\"lemas\":[\"trivialis\",\"trīviālis\"],\"lema_canonico\":\"trivialis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"comum, trivial; que se encontra em todo lugar, ordinário; no uso post‑augustano: vulgar\",\"aliases\":[],\"exemplos\":[\"Quint. 1, 4, 27\",\"Juv. 7, 55\",\"Suet. Rhet. 6\"],\"notas\":\"Forma e sentido confirmados em LS e Whitaker; lema normalizado para 'trivialis'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_28954-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28954",
-    "page_num": 28954,
-    "lemmas": [
-      "Trĭvīcum",
-      "Trĭvīcum"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Topónimo: Trívico, povoação da Apúlia (atestado em Horácio).",
-    "exemplos": [],
-    "notas": "Forma atestada apenas no corpus editorial; falta confirmação em dicionários padronizados.\n[ocr_pipeline 2025-08-16T23:22:24.643459Z] lemma_in='Trivicus' → 'Trĭvīcum' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:21:19Z] match direto em LS por lemma/lemma_norm | lemma_in='Trĭvīcum' → 'Trĭvīcum' | [dedupe] redirect → chunk_28954:28954:0 | [dedupe] redirect → chunk_28954:28954:0",
-    "raw_text": "{\"id\":\"chunk_28954:28954:2\",\"lemas\":[\"Trivicus\",\"Trīvicus\"],\"lema_canonico\":\"Trivicus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Topónimo: Trívico, povoação da Apúlia (atestado em Horácio).\",\"aliases\":[],\"exemplos\":[\"Hor. Sat. 1, 5, 79\"],\"notas\":\"Forma atestada apenas no corpus editorial; falta confirmação em dicionários padronizados.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_28954:28954:2\",\"lemas\":[\"Trivicus\",\"Trīvicus\"],\"lema_canonico\":\"Trivicus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Topónimo: Trívico, povoação da Apúlia (atestado em Horácio).\",\"aliases\":[],\"exemplos\":[\"Hor. Sat. 1, 5, 79\"],\"notas\":\"Forma atestada apenas no corpus editorial; falta confirmação em dicionários padronizados.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
     "id": "chunk_28954-e2",
@@ -3872,28 +3190,6 @@
     "raw_json": "{\"id\":\"chunk_28959:28959:1\",\"lemas\":[\"trochia\",\"trochea\"],\"lema_canonico\":\"trochia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"a pulley, sheave (roldana)\",\"aliases\":[],\"exemplos\":[\"Luc. 4, 902\"],\"notas\":\"Entrada atestada pelo OCR (Luc. 4,902); forma feminina tratada como 1ª declinação (ae).\",\"flags\":[\"src_whitaker\",\"src_ocr\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_28959-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_28959",
-    "page_num": 28959,
-    "lemmas": [
-      "e",
-      "e"
-    ],
-    "morfologia": "prep. com abl.",
-    "morph_render": "prep. com abl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "out of, from; by reason of; according to; because of (preposition with ablative)",
-    "exemplos": [],
-    "notas": "Interpretado como préposição (Whitaker, Lat→Deu). | [dedupe] redirect → chunk_17879:17879:0 | [dedupe] redirect → chunk_17879:17879:0",
-    "raw_text": "{\"id\":\"chunk_28959:28959:2\",\"lemas\":[\"e\"],\"lema_canonico\":\"e\",\"morfologia\":\"prep. com abl.\",\"morph_extra\":[],\"definicao\":\"out of, from; by reason of; according to; because of (preposition with ablative)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Interpretado como préposição (Whitaker, Lat→Deu).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28959:28959:2\",\"lemas\":[\"e\"],\"lema_canonico\":\"e\",\"morfologia\":\"prep. com abl.\",\"morph_extra\":[],\"definicao\":\"out of, from; by reason of; according to; because of (preposition with ablative)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Interpretado como préposição (Whitaker, Lat→Deu).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_28959-e4",
     "volume_id": "faria",
     "doc_name": "chunk_28959",
@@ -3914,28 +3210,6 @@
     "notas": "A primeira passada tratou como sufixo; fontes externas indicam vários usos (pron., numeral, sufixo). Mantida entrada para revisão.\n[ocr_pipeline 2025-08-16T23:28:30.021222Z] lemma_in='i' → 'I' | motivo: match direto em LS por lemma/lemma_norm | [ocr_fix 2025-08-17T01:29:35Z] match direto em LS por lemma/lemma_norm | lemma_in='I' → 'I'",
     "raw_text": "{\"id\":\"chunk_28959:28959:3\",\"lemas\":[\"i\"],\"lema_canonico\":\"i\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"(ambíguo — múltiplas funções em fontes: pron., numeral e sufixo); forma precisa necessita de revisão\",\"aliases\":[],\"exemplos\":[],\"notas\":\"A primeira passada tratou como sufixo; fontes externas indicam vários usos (pron., numeral, sufixo). Mantida entrada para revisão.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_28959:28959:3\",\"lemas\":[\"i\"],\"lema_canonico\":\"i\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"(ambíguo — múltiplas funções em fontes: pron., numeral e sufixo); forma precisa necessita de revisão\",\"aliases\":[],\"exemplos\":[],\"notas\":\"A primeira passada tratou como sufixo; fontes externas indicam vários usos (pron., numeral, sufixo). Mantida entrada para revisão.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_28960-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28960",
-    "page_num": 28960,
-    "lemmas": [
-      "trochus",
-      "trochus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "aro ou círculo metálico guarnecido de anéis (trundling-hoop), usado em jogos e exercícios",
-    "exemplos": [],
-    "notas": "Normalizada grafia e morfologia segundo LS e Whitaker; referências condensadas. | [dedupe] redirect → chunk_28959:28959:0 | [dedupe] redirect → chunk_28959:28959:0",
-    "raw_text": "{\"id\":\"chunk_28960:28960:0\",\"lemas\":[\"trochus\"],\"lema_canonico\":\"trochus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"aro ou círculo metálico guarnecido de anéis (trundling-hoop), usado em jogos e exercícios\",\"aliases\":[],\"exemplos\":[\"Hor. C. 3, 24, 57\",\"Prop. 3, 14 (4, 13), 6\",\"Ov. A. A. 3, 383\",\"Ov. Tr. 2, 486\",\"Mart. 14, 168, 2\"],\"notas\":\"Normalizada grafia e morfologia segundo LS e Whitaker; referências condensadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28960:28960:0\",\"lemas\":[\"trochus\"],\"lema_canonico\":\"trochus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"aro ou círculo metálico guarnecido de anéis (trundling-hoop), usado em jogos e exercícios\",\"aliases\":[],\"exemplos\":[\"Hor. C. 3, 24, 57\",\"Prop. 3, 14 (4, 13), 6\",\"Ov. A. A. 3, 383\",\"Ov. Tr. 2, 486\",\"Mart. 14, 168, 2\"],\"notas\":\"Normalizada grafia e morfologia segundo LS e Whitaker; referências condensadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_28961-e1",
@@ -4048,28 +3322,6 @@
     "raw_json": "{\"id\":\"chunk_28965:28965:0\",\"lemas\":[\"Troglodyta\",\"Troglodytae\"],\"lema_canonico\":\"Troglodyta\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"troglodita; habitante de cavernas (nome coletivo, usado em plural para povos cavernícolas).\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 2, 93\"],\"notas\":\"Entrada apresentada no plural; canonizei o lema singular da 1ª declinação.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}"
   },
   {
-    "id": "chunk_28966-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28966",
-    "page_num": 28966,
-    "lemmas": [
-      "Trogmi",
-      "Trogmi"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada funciona como redirecionamento para 'Trocmi' (Lewis & Short). | [ocr_fix 2025-08-17T19:55:19Z] match direto em LS por lemma/lemma_norm | lemma_in='Trogmi' → 'Trogmi'",
-    "raw_text": "{\"id\":\"chunk_28966:28966:0\",\"lemas\":[\"Trogmi\"],\"lema_canonico\":\"Trogmi\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Trocmi\"],\"exemplos\":[],\"notas\":\"Entrada funciona como redirecionamento para 'Trocmi' (Lewis & Short).\",\"flags\":[\"src_ls\",\"conf:med\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_28966:28966:0\",\"lemas\":[\"Trogmi\"],\"lema_canonico\":\"Trogmi\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Trocmi\"],\"exemplos\":[],\"notas\":\"Entrada funciona como redirecionamento para 'Trocmi' (Lewis & Short).\",\"flags\":[\"src_ls\",\"conf:med\",\"redirect_only\"]}"
-  },
-  {
     "id": "chunk_28967-e1",
     "volume_id": "faria",
     "doc_name": "chunk_28967",
@@ -4112,28 +3364,6 @@
     "notas": "Entrada plural/coletiva; lemma conservado como forma plural tradicional. | [ocr_fix 2025-08-17T20:00:57Z] match direto em LS por lemma/lemma_norm | lemma_in='Troiades' → 'Trōĭădes'",
     "raw_text": "{\"id\":\"chunk_28968:28968:0\",\"lemas\":[\"Troiades\",\"Trōiādes\"],\"lema_canonico\":\"Troiades\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[\"plural\"],\"definicao\":\"As Troianas; mulheres de Troia (nome coletivo/plural).\",\"aliases\":[],\"exemplos\":[\"Pers. 1, 4\"],\"notas\":\"Entrada plural/coletiva; lemma conservado como forma plural tradicional.\",\"flags\":[\"src_ls\",\"conf:med\",\"morph_out_of_vocab\"]}",
     "raw_json": "{\"id\":\"chunk_28968:28968:0\",\"lemas\":[\"Troiades\",\"Trōiādes\"],\"lema_canonico\":\"Troiades\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[\"plural\"],\"definicao\":\"As Troianas; mulheres de Troia (nome coletivo/plural).\",\"aliases\":[],\"exemplos\":[\"Pers. 1, 4\"],\"notas\":\"Entrada plural/coletiva; lemma conservado como forma plural tradicional.\",\"flags\":[\"src_ls\",\"conf:med\",\"morph_out_of_vocab\"]}"
-  },
-  {
-    "id": "chunk_28969-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28969",
-    "page_num": 28969,
-    "lemmas": [
-      "Trōĭus",
-      "Trōĭus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Troiano; relativo a Tróia.",
-    "exemplos": [],
-    "notas": "Conferido com Lewis & Short (Trōĭus, a, um). Variantes ortográficas incluídas. | [dedupe] redirect → chunk_28972:28972:0 | [dedupe] redirect → chunk_28972:28972:0 | [ocr_fix 2025-08-17T19:55:19Z] match direto em LS por lemma/lemma_norm | lemma_in='Trōius' → 'Trōĭus'",
-    "raw_text": "{\"id\":\"chunk_28969:28969:0\",\"lemas\":[\"Trōius\",\"Troius\",\"Trōiūs\"],\"lema_canonico\":\"Trōius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Troiano; relativo a Tróia.\",\"aliases\":[],\"exemplos\":[\"Cic. Br. 40\"],\"notas\":\"Conferido com Lewis & Short (Trōĭus, a, um). Variantes ortográficas incluídas.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"src_ocr\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_28969:28969:0\",\"lemas\":[\"Trōius\",\"Troius\",\"Trōiūs\"],\"lema_canonico\":\"Trōius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Troiano; relativo a Tróia.\",\"aliases\":[],\"exemplos\":[\"Cic. Br. 40\"],\"notas\":\"Conferido com Lewis & Short (Trōĭus, a, um). Variantes ortográficas incluídas.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"src_ocr\",\"conf:med\"]}"
   },
   {
     "id": "chunk_28970-e1",
@@ -4200,50 +3430,6 @@
     "notas": "Unificadas variantes gráficas (diereses/macrons) e convertida a morfologia para o formato do vocabulário permitido.",
     "raw_text": "{\"id\":\"chunk_28972:28972:0\",\"lemas\":[\"Trōĭus\",\"Trōïus\",\"Troius\"],\"lema_canonico\":\"Trōĭus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo a Tróia; troiano.\",\"aliases\":[],\"exemplos\":[\"Verg. En. 1, 596\"],\"notas\":\"Unificadas variantes gráficas (diereses/macrons) e convertida a morfologia para o formato do vocabulário permitido.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_28972:28972:0\",\"lemas\":[\"Trōĭus\",\"Trōïus\",\"Troius\"],\"lema_canonico\":\"Trōĭus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo a Tróia; troiano.\",\"aliases\":[],\"exemplos\":[\"Verg. En. 1, 596\"],\"notas\":\"Unificadas variantes gráficas (diereses/macrons) e convertida a morfologia para o formato do vocabulário permitido.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_28973-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28973",
-    "page_num": 28973,
-    "lemmas": [
-      "Trōĭa",
-      "Trōĭa"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Tróia; cidade da Frígia na Ásia Menor (capital da Tróade); também, segundo tradições, cidade fundada na Itália por Enéias; há referências a outra Troia no Epiro.",
-    "exemplos": [],
-    "notas": "Normalizado lema e morfologia segundo Lewis & Short. | [dedupe] redirect → chunk_28967:28967:0 | [dedupe] redirect → chunk_28967:28967:0 | [ocr_fix 2025-08-17T19:52:47Z] match direto em LS por lemma/lemma_norm | lemma_in='Troja' → 'Trōĭa'",
-    "raw_text": "{\"id\":\"chunk_28973:28973:0\",\"lemas\":[\"Troja\"],\"lema_canonico\":\"Troja\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Tróia; cidade da Frígia na Ásia Menor (capital da Tróade); também, segundo tradições, cidade fundada na Itália por Enéias; há referências a outra Troia no Epiro.\",\"aliases\":[],\"exemplos\":[\"Verg. En. 1, 1\",\"T. Liv. 1, 1, 3\",\"Verg. En. 3, 349\"],\"notas\":\"Normalizado lema e morfologia segundo Lewis & Short.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_28973:28973:0\",\"lemas\":[\"Troja\"],\"lema_canonico\":\"Troja\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Tróia; cidade da Frígia na Ásia Menor (capital da Tróade); também, segundo tradições, cidade fundada na Itália por Enéias; há referências a outra Troia no Epiro.\",\"aliases\":[],\"exemplos\":[\"Verg. En. 1, 1\",\"T. Liv. 1, 1, 3\",\"Verg. En. 3, 349\"],\"notas\":\"Normalizado lema e morfologia segundo Lewis & Short.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_28974-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28974",
-    "page_num": 28974,
-    "lemmas": [
-      "Trojanus",
-      "Trojanus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "relativo a Tróia; (subst. pl.) os troianos.",
-    "exemplos": [],
-    "notas": "Normalizado como adjetivo 1/2 decl.; entrada plural apresentada no original mantida nos exemplos. | [dedupe] redirect → chunk_28975:28975:0 | [dedupe] redirect → chunk_28975:28975:0",
-    "raw_text": "{\"id\":\"chunk_28974:28974:0\",\"lemas\":[\"Trojanus\",\"Trōjānus\",\"Trōiānus\"],\"lema_canonico\":\"Trojanus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo a Tróia; (subst. pl.) os troianos.\",\"aliases\":[\"Trojani (pl.)\"],\"exemplos\":[\"Cic. Phil. 2, 59\"],\"notas\":\"Normalizado como adjetivo 1/2 decl.; entrada plural apresentada no original mantida nos exemplos.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_28974:28974:0\",\"lemas\":[\"Trojanus\",\"Trōjānus\",\"Trōiānus\"],\"lema_canonico\":\"Trojanus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo a Tróia; (subst. pl.) os troianos.\",\"aliases\":[\"Trojani (pl.)\"],\"exemplos\":[\"Cic. Phil. 2, 59\"],\"notas\":\"Normalizado como adjetivo 1/2 decl.; entrada plural apresentada no original mantida nos exemplos.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
     "id": "chunk_28975-e1",
@@ -4398,28 +3584,6 @@
     "notas": "Incluído adjetivo derivado Trophoniānus como variante; morfologia ajustada a -ius (gen. -ii) conforme LS. | [ocr_fix 2025-08-17T19:52:47Z] match direto em LS por lemma/lemma_norm | lemma_in='Trophonius' → 'Trŏphōnĭus'",
     "raw_text": "{\"id\":\"chunk_28981:28981:0\",\"lemas\":[\"Trophonius\",\"Trophoniānus\"],\"lema_canonico\":\"Trophonius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Trofônio; herói béocio, filho de Apolo, que com Agamedes teria construído o templo de Apolo em Delfos; deidade oracular associada a uma caverna em Lebádia.\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 1, 47, 114\",\"Cic. Div. 1, 34, 74\"],\"notas\":\"Incluído adjetivo derivado Trophoniānus como variante; morfologia ajustada a -ius (gen. -ii) conforme LS.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_28981:28981:0\",\"lemas\":[\"Trophonius\",\"Trophoniānus\"],\"lema_canonico\":\"Trophonius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Trofônio; herói béocio, filho de Apolo, que com Agamedes teria construído o templo de Apolo em Delfos; deidade oracular associada a uma caverna em Lebádia.\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 1, 47, 114\",\"Cic. Div. 1, 34, 74\"],\"notas\":\"Incluído adjetivo derivado Trophoniānus como variante; morfologia ajustada a -ius (gen. -ii) conforme LS.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_28981-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_28981",
-    "page_num": 28981,
-    "lemmas": [
-      "Trŏphōnĭus",
-      "Trŏphōnĭus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Divindade/oráculo ligado a uma caverna subterrânea perto de Lebádia (Beócia), frequentemente identificada como Juppiter Trophonius; cultos e relatos em autores clássicos.",
-    "exemplos": [],
-    "notas": "Sentido divinal explicitado; variante honorífica adicionada como alias. | [dedupe] redirect → chunk_28981:28981:0 | [dedupe] redirect → chunk_28981:28981:0 | [ocr_fix 2025-08-17T19:52:48Z] match direto em LS por lemma/lemma_norm | lemma_in='Trophonius' → 'Trŏphōnĭus'",
-    "raw_text": "{\"id\":\"chunk_28981:28981:1\",\"lemas\":[\"Trophonius\"],\"lema_canonico\":\"Trophonius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Divindade/oráculo ligado a uma caverna subterrânea perto de Lebádia (Beócia), frequentemente identificada como Juppiter Trophonius; cultos e relatos em autores clássicos.\",\"aliases\":[\"Juppiter Trophonius\"],\"exemplos\":[\"Cic. Div. 1, 34, 74\",\"Liv. 45, 27, 8\"],\"notas\":\"Sentido divinal explicitado; variante honorífica adicionada como alias.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_28981:28981:1\",\"lemas\":[\"Trophonius\"],\"lema_canonico\":\"Trophonius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Divindade/oráculo ligado a uma caverna subterrânea perto de Lebádia (Beócia), frequentemente identificada como Juppiter Trophonius; cultos e relatos em autores clássicos.\",\"aliases\":[\"Juppiter Trophonius\"],\"exemplos\":[\"Cic. Div. 1, 34, 74\",\"Liv. 45, 27, 8\"],\"notas\":\"Sentido divinal explicitado; variante honorífica adicionada como alias.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
     "id": "chunk_28982-e1",
@@ -4642,28 +3806,6 @@
     "raw_json": "{\"id\":\"chunk_28991:28991:0\",\"lemas\":[\"truculentus\",\"truculenta\",\"truculentum\"],\"lema_canonico\":\"truculentus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"feroz, selvagem; áspero, severo, cruel\",\"aliases\":[],\"exemplos\":[\"Tac. An. 1, 25\",\"Cic. Sest. 119\"],\"notas\":\"Grafia e formas normalizadas conforme LS/Whitaker; adv.: truculentē/truculenter.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_28992-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28992",
-    "page_num": 28992,
-    "lemmas": [
-      "truculentus",
-      "truculentus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "savage, fierce, grim, harsh; also attested as a proper name/title (Plautus, Truculentus).",
-    "exemplos": [],
-    "notas": "Adjetivo 1/2 confirmado; incluída forma feminina/neutra canônica. | [dedupe] redirect → chunk_28991:28991:0 | [dedupe] redirect → chunk_28991:28991:0",
-    "raw_text": "{\"id\":\"chunk_28992:28992:0\",\"lemas\":[\"truculentus\",\"truculenta\",\"truculentum\"],\"lema_canonico\":\"truculentus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"savage, fierce, grim, harsh; also attested as a proper name/title (Plautus, Truculentus).\",\"aliases\":[],\"exemplos\":[\"Plaut. Bacch. 4, 5, 3\",\"Cic. Sest. 8, 19\"],\"notas\":\"Adjetivo 1/2 confirmado; incluída forma feminina/neutra canônica.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28992:28992:0\",\"lemas\":[\"truculentus\",\"truculenta\",\"truculentum\"],\"lema_canonico\":\"truculentus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"savage, fierce, grim, harsh; also attested as a proper name/title (Plautus, Truculentus).\",\"aliases\":[],\"exemplos\":[\"Plaut. Bacch. 4, 5, 3\",\"Cic. Sest. 8, 19\"],\"notas\":\"Adjetivo 1/2 confirmado; incluída forma feminina/neutra canônica.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_28993-e1",
     "volume_id": "faria",
     "doc_name": "chunk_28993",
@@ -4684,28 +3826,6 @@
     "notas": "Corroborado por LS e Whitaker; forma e citações normalizadas. | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='trudis' → 'trŭdis'",
     "raw_text": "{\"id\":\"chunk_28993:28993:0\",\"lemas\":[\"trudis\"],\"lema_canonico\":\"trudis\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"a pointed pole or pike (often iron-tipped).\",\"aliases\":[],\"exemplos\":[\"Verg. A. 5, 208\",\"Isid. Orig. 18, 7\"],\"notas\":\"Corroborado por LS e Whitaker; forma e citações normalizadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_28993:28993:0\",\"lemas\":[\"trudis\"],\"lema_canonico\":\"trudis\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"a pointed pole or pike (often iron-tipped).\",\"aliases\":[],\"exemplos\":[\"Verg. A. 5, 208\",\"Isid. Orig. 18, 7\"],\"notas\":\"Corroborado por LS e Whitaker; forma e citações normalizadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_28994-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28994",
-    "page_num": 28994,
-    "lemmas": [
-      "trudō",
-      "trudō"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "empurrar, forçar, impelir; afastar por empurrão",
-    "exemplos": [],
-    "notas": "Principalia partes e sentidos confirmados em LS e Whitaker (trūdō, trūdere, trūsī, trūsum). | [dedupe] redirect → chunk_27118:27118:1 | [dedupe] redirect → chunk_27118:27118:1",
-    "raw_text": "{\"id\":\"chunk_28994:28994:0\",\"lemas\":[\"trudō\",\"trudere\",\"trūsī\",\"trūsus\"],\"lema_canonico\":\"trudō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"empurrar, forçar, impelir; afastar por empurrão\",\"aliases\":[],\"exemplos\":[\"Verg. G. 1, 310\",\"Plaut. Capt. 3, 5, 92\",\"Cic. Tusc. 1, 71\"],\"notas\":\"Principalia partes e sentidos confirmados em LS e Whitaker (trūdō, trūdere, trūsī, trūsum).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28994:28994:0\",\"lemas\":[\"trudō\",\"trudere\",\"trūsī\",\"trūsus\"],\"lema_canonico\":\"trudō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"empurrar, forçar, impelir; afastar por empurrão\",\"aliases\":[],\"exemplos\":[\"Verg. G. 1, 310\",\"Plaut. Capt. 3, 5, 92\",\"Cic. Tusc. 1, 71\"],\"notas\":\"Principalia partes e sentidos confirmados em LS e Whitaker (trūdō, trūdere, trūsī, trūsum).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_28995-e1",

@@ -22,50 +22,6 @@
     "raw_json": "{\"id\":\"chunk_28400:28400:0\",\"lemas\":[\"Timotheus\"],\"lema_canonico\":\"Timotheus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"nome próprio: Timóteo. (1) músico de Mileto; (2) filho de Conão, restaurador dos muros de Atenas (biografia por Nepos).\",\"aliases\":[],\"exemplos\":[\"Cic. Leg. 2, 15, 39\",\"Quint. 2, 3, 3\",\"Macr. S. 5, 22\",\"Nep. Con. 1\"],\"notas\":\"Normalizado a partir do LS; mantive referências clássicas atestadas.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_28401-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28401",
-    "page_num": 28401,
-    "lemmas": [
-      "tĭmĕo",
-      "tĭmĕo"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "temer; 'timui' = perfeito indicativo, 1. pessoa singular de timeō.",
-    "exemplos": [],
-    "notas": "Forma 'timui' identificada como perfeito de timeō (conf. Lat→Deu). | [dedupe] redirect → chunk_28388:28388:0 | [dedupe] redirect → chunk_28388:28388:0 | [ocr_fix 2025-08-17T19:52:41Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='timeo' → 'tĭmĕo'",
-    "raw_text": "{\"id\":\"chunk_28401:28401:0\",\"lemas\":[\"timeo\"],\"lema_canonico\":\"timeo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"perf. ind. 1s\"],\"definicao\":\"temer; 'timui' = perfeito indicativo, 1. pessoa singular de timeō.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma 'timui' identificada como perfeito de timeō (conf. Lat→Deu).\",\"flags\":[\"src_latdeu\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_28401:28401:0\",\"lemas\":[\"timeo\"],\"lema_canonico\":\"timeo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"perf. ind. 1s\"],\"definicao\":\"temer; 'timui' = perfeito indicativo, 1. pessoa singular de timeō.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma 'timui' identificada como perfeito de timeō (conf. Lat→Deu).\",\"flags\":[\"src_latdeu\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_28402-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28402",
-    "page_num": 28402,
-    "lemmas": [
-      "tĭmor",
-      "tĭmor"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "medo, temor, apreensão.",
-    "exemplos": [],
-    "notas": "Entrada 'timuor' do OCR corrigida para timor; conferido com lemas tradicionais. | [dedupe] redirect → chunk_28399:28399:0 | [dedupe] redirect → chunk_28399:28399:0 | [ocr_fix 2025-08-17T19:52:41Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='timor' → 'tĭmor'",
-    "raw_text": "{\"id\":\"chunk_28402:28402:0\",\"lemas\":[\"timor\"],\"lema_canonico\":\"timor\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"medo, temor, apreensão.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada 'timuor' do OCR corrigida para timor; conferido com lemas tradicionais.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_28402:28402:0\",\"lemas\":[\"timor\"],\"lema_canonico\":\"timor\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"medo, temor, apreensão.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada 'timuor' do OCR corrigida para timor; conferido com lemas tradicionais.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_28403-e1",
     "volume_id": "faria",
     "doc_name": "chunk_28403",
@@ -196,28 +152,6 @@
     "notas": "Lema e sentidos confirmados por Lewis & Short e Lat→Deu; variante tinguo reconhecida.",
     "raw_text": "{\"id\":\"chunk_28408:28408:0\",\"lemas\":[\"tingo\",\"tinguo\"],\"lema_canonico\":\"tingo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Molhar, banhar; mergulhar em líquido; tingir, dar cor; figuradamente, impregnar ou imbuir.\",\"aliases\":[],\"exemplos\":[\"Cic. N. D. 3, 28, 70\",\"Ov. Met. 4, 343\",\"Hor. C. 2, 14, 27\",\"Plin. H. Nat. 6, 201\"],\"notas\":\"Lema e sentidos confirmados por Lewis & Short e Lat→Deu; variante tinguo reconhecida.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_28408:28408:0\",\"lemas\":[\"tingo\",\"tinguo\"],\"lema_canonico\":\"tingo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Molhar, banhar; mergulhar em líquido; tingir, dar cor; figuradamente, impregnar ou imbuir.\",\"aliases\":[],\"exemplos\":[\"Cic. N. D. 3, 28, 70\",\"Ov. Met. 4, 343\",\"Hor. C. 2, 14, 27\",\"Plin. H. Nat. 6, 201\"],\"notas\":\"Lema e sentidos confirmados por Lewis & Short e Lat→Deu; variante tinguo reconhecida.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_28409-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28409",
-    "page_num": 28409,
-    "lemmas": [
-      "tinia",
-      "tinia"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "mariposa, traça; verme da madeira; também ‘bicho de livros’ (bookworm).",
-    "exemplos": [],
-    "notas": "Atribuição como topónimo (rio) na primeira passada não confirmada; preferida leitura zoológica segundo Lat→Deu/Whitaker. | [dedupe] redirect → chunk_28410:28410:2 | [dedupe] redirect → chunk_28410:28410:2",
-    "raw_text": "{\"id\":\"chunk_28409:28409:0\",\"lemas\":[\"tinia\"],\"lema_canonico\":\"tinia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"mariposa, traça; verme da madeira; também ‘bicho de livros’ (bookworm).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Atribuição como topónimo (rio) na primeira passada não confirmada; preferida leitura zoológica segundo Lat→Deu/Whitaker.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_28409:28409:0\",\"lemas\":[\"tinia\"],\"lema_canonico\":\"tinia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"mariposa, traça; verme da madeira; também ‘bicho de livros’ (bookworm).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Atribuição como topónimo (rio) na primeira passada não confirmada; preferida leitura zoológica segundo Lat→Deu/Whitaker.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:med\"]}"
   },
   {
     "id": "chunk_28410-e1",
@@ -418,28 +352,6 @@
     "raw_json": "{\"id\":\"chunk_28416:28416:0\",\"lemas\":[\"tinius\",\"tĭnius\"],\"lema_canonico\":\"tinius\",\"morfologia\":\"s. fem. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Loureiro silvestre (suposta leitura editorial; não confirmada nas principais fontes).\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 10, 89\"],\"notas\":\"Forma e identificação herdadas da primeira passada; não localizada em LS/Whitaker/Lat→Deu; precisa de revisão crítica.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_28417-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28417",
-    "page_num": 28417,
-    "lemmas": [
-      "tingo",
-      "tingo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "tinxi: 1ª pessoa singular do perfeito indicativo ativo de tingō (tingere): 'eu tingi, eu molhei, eu mergulhei, eu tingi'",
-    "exemplos": [],
-    "notas": "Forma verbal (perf. ind. act.) de tingō; morfologia verbal específica (perf. ind.) não cabe no vocabulário padronizado. | [dedupe] redirect → chunk_28408:28408:0 | [dedupe] redirect → chunk_28408:28408:0",
-    "raw_text": "{\"id\":\"chunk_28417:28417:0\",\"lemas\":[\"tingo\",\"tinxi\"],\"lema_canonico\":\"tingo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"perf. ind. 1ª sg.\"],\"definicao\":\"tinxi: 1ª pessoa singular do perfeito indicativo ativo de tingō (tingere): 'eu tingi, eu molhei, eu mergulhei, eu tingi'\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma verbal (perf. ind. act.) de tingō; morfologia verbal específica (perf. ind.) não cabe no vocabulário padronizado.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_28417:28417:0\",\"lemas\":[\"tingo\",\"tinxi\"],\"lema_canonico\":\"tingo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"perf. ind. 1ª sg.\"],\"definicao\":\"tinxi: 1ª pessoa singular do perfeito indicativo ativo de tingō (tingere): 'eu tingi, eu molhei, eu mergulhei, eu tingi'\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma verbal (perf. ind. act.) de tingō; morfologia verbal específica (perf. ind.) não cabe no vocabulário padronizado.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}"
-  },
-  {
     "id": "chunk_28418-e1",
     "volume_id": "faria",
     "doc_name": "chunk_28418",
@@ -550,28 +462,6 @@
     "raw_json": "{\"id\":\"chunk_28422:28422:0\",\"lemas\":[\"Tiridates\",\"Tīrĭdātes\",\"Tirīdates\"],\"lema_canonico\":\"Tiridates\",\"morfologia\":\"s. masc. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Tiridates, nome de vários reis (notadamente da Armênia); atestado em autores latinos antigos.\",\"aliases\":[],\"exemplos\":[\"Hor. C. 1, 26, 5\",\"Suet. Ner. 13, 30\",\"Just. 42, 5\",\"Tac. Ann. 6, 32 sqq.\",\"Plin. HN 7, 39, §129\"],\"notas\":\"Formas diacríticas e variantes harmonizadas com Lewis & Short (Tīrĭdātes); declinação como substantivo masculino da 1ª declinação.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_28423-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28423",
-    "page_num": 28423,
-    "lemmas": [
-      "Tīro",
-      "tīrō"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Recruta; jovem soldado. Por extensão: principiante, noviço, aprendiz.",
-    "exemplos": [],
-    "notas": "Forma e sentido confirmados por Lewis & Short e Whitaker; morfologia normalizada para 3ª declinação. | [dedupe] redirect → chunk_24458:24458:1 | [dedupe] redirect → chunk_24458:24458:1 | [ocr_fix 2025-08-20T01:03:57Z] Correção automática de lema via LS | lemma_in='tīrō' → 'Tīro'",
-    "raw_text": "{\"id\":\"chunk_28423:28423:0\",\"lemas\":[\"tīrō\"],\"lema_canonico\":\"tīrō\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Recruta; jovem soldado. Por extensão: principiante, noviço, aprendiz.\",\"aliases\":[],\"exemplos\":[\"Caes. B. Civ. 3, 28, 3\",\"Cic. De Or. 1, 218\"],\"notas\":\"Forma e sentido confirmados por Lewis & Short e Whitaker; morfologia normalizada para 3ª declinação.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28423:28423:0\",\"lemas\":[\"tīrō\"],\"lema_canonico\":\"tīrō\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Recruta; jovem soldado. Por extensão: principiante, noviço, aprendiz.\",\"aliases\":[],\"exemplos\":[\"Caes. B. Civ. 3, 28, 3\",\"Cic. De Or. 1, 218\"],\"notas\":\"Forma e sentido confirmados por Lewis & Short e Whitaker; morfologia normalizada para 3ª declinação.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_28424-e1",
     "volume_id": "faria",
     "doc_name": "chunk_28424",
@@ -614,28 +504,6 @@
     "notas": "Sentidos confirmados em Lewis & Short e Lat→Deu; forma neutra da 2.ª declinação.",
     "raw_text": "{\"id\":\"chunk_28425:28425:0\",\"lemas\":[\"tirocinium\",\"tīrocinium\"],\"lema_canonico\":\"tirocinium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"1) primeiro serviço militar, período de recrutas; 2) inexperiência, início, tirocínio; 3) meton.: os recrutas, tropas inexperientes.\",\"aliases\":[],\"exemplos\":[\"Liv. 45, 37, 3\",\"Liv. 40, 35, 12\"],\"notas\":\"Sentidos confirmados em Lewis & Short e Lat→Deu; forma neutra da 2.ª declinação.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_28425:28425:0\",\"lemas\":[\"tirocinium\",\"tīrocinium\"],\"lema_canonico\":\"tirocinium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"1) primeiro serviço militar, período de recrutas; 2) inexperiência, início, tirocínio; 3) meton.: os recrutas, tropas inexperientes.\",\"aliases\":[],\"exemplos\":[\"Liv. 45, 37, 3\",\"Liv. 40, 35, 12\"],\"notas\":\"Sentidos confirmados em Lewis & Short e Lat→Deu; forma neutra da 2.ª declinação.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_28426-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28426",
-    "page_num": 28426,
-    "lemmas": [
-      "thyrsus",
-      "thyrsus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Haste/vara enrolada de videira/folhagem associada a Baco; thyrsus (do gr. thyrsos).",
-    "exemplos": [],
-    "notas": "Corrigido de leitura errônea 'v.' para substantivo; variantes 'tyrsus' atestadas no Lat.→Deu/Whitaker. | [dedupe] redirect → chunk_28334:28334:0 | [dedupe] redirect → chunk_28334:28334:0",
-    "raw_text": "{\"id\":\"chunk_28426:28426:0\",\"lemas\":[\"thyrsus\",\"tyrsus\"],\"lema_canonico\":\"thyrsus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Haste/vara enrolada de videira/folhagem associada a Baco; thyrsus (do gr. thyrsos).\",\"aliases\":[],\"exemplos\":[\"2 Macc. 10, 7\"],\"notas\":\"Corrigido de leitura errônea 'v.' para substantivo; variantes 'tyrsus' atestadas no Lat.→Deu/Whitaker.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28426:28426:0\",\"lemas\":[\"thyrsus\",\"tyrsus\"],\"lema_canonico\":\"thyrsus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Haste/vara enrolada de videira/folhagem associada a Baco; thyrsus (do gr. thyrsos).\",\"aliases\":[],\"exemplos\":[\"2 Macc. 10, 7\"],\"notas\":\"Corrigido de leitura errônea 'v.' para substantivo; variantes 'tyrsus' atestadas no Lat.→Deu/Whitaker.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_28427-e1",
@@ -924,28 +792,6 @@
     "raw_json": "{\"id\":\"chunk_28439:28439:0\",\"lemas\":[\"Titan\",\"Titanes\"],\"lema_canonico\":\"Titan\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Um dos Titãs; plural Titanes = os Titãs, raça de deuses/ gigantes pré-olímpicos.\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 14, 35\",\"Verg. En. 4, 119\",\"Lucr. 1, 504\"],\"notas\":\"Lema canónico normalizado para forma singular 'Titan' (incluir plural). Mantida nota sobre acusativo 'Titana'.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_28440-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28440",
-    "page_num": 28440,
-    "lemmas": [
-      "Tītan",
-      "Tītan"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Titã(s) — raça de deuses/ gigantes primordiais (os Titãs); usado tanto no singular como no plural referente mitológico.",
-    "exemplos": [],
-    "notas": "Padronizado para o lema em nominativo singular 'Titan' com variantes registradas; Whitaker atesta as formas e o sentido mitológico. | [dedupe] redirect → chunk_28439:28439:0 | [dedupe] redirect → chunk_28439:28439:0 | [ocr_fix 2025-08-17T19:55:14Z] match direto em LS por lemma/lemma_norm | lemma_in='Titan' → 'Tītan'",
-    "raw_text": "{\"id\":\"chunk_28440:28440:0\",\"lemas\":[\"Titan\"],\"lema_canonico\":\"Titan\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Titã(s) — raça de deuses/ gigantes primordiais (os Titãs); usado tanto no singular como no plural referente mitológico.\",\"aliases\":[\"Titanes\",\"Titânes\"],\"exemplos\":[\"Cic. Leg. 3, 5\",\"Hor. O. 3, 4, 43\"],\"notas\":\"Padronizado para o lema em nominativo singular 'Titan' com variantes registradas; Whitaker atesta as formas e o sentido mitológico.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_28440:28440:0\",\"lemas\":[\"Titan\"],\"lema_canonico\":\"Titan\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Titã(s) — raça de deuses/ gigantes primordiais (os Titãs); usado tanto no singular como no plural referente mitológico.\",\"aliases\":[\"Titanes\",\"Titânes\"],\"exemplos\":[\"Cic. Leg. 3, 5\",\"Hor. O. 3, 4, 43\"],\"notas\":\"Padronizado para o lema em nominativo singular 'Titan' com variantes registradas; Whitaker atesta as formas e o sentido mitológico.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_28441-e1",
     "volume_id": "faria",
     "doc_name": "chunk_28441",
@@ -1034,50 +880,6 @@
     "raw_json": "{\"id\":\"chunk_28443:28443:0\",\"lemas\":[\"Titaniacus\",\"Titanacus\"],\"lema_canonico\":\"Titaniacus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo aos Titãs; titânico, descendente de um Titã\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 7, 398\"],\"notas\":\"Grafia confirmada como adjetivo 1/2 (Whitaker) e atestado em Ovídio.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_28444-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28444",
-    "page_num": 28444,
-    "lemmas": [
-      "Titanis",
-      "Titanis"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Titânida, filha dos Titãs (p.ex. Circe, filha do Sol)",
-    "exemplos": [],
-    "notas": "Unificação das variantes genitivas OCR (-idis) para a forma escansiva da 3ª declinação; tratado como nome próprio/epíteto. | [dedupe] redirect → chunk_28442:28442:0 | [dedupe] redirect → chunk_28442:28442:0",
-    "raw_text": "{\"id\":\"chunk_28444:28444:0\",\"lemas\":[\"Titanis\"],\"lema_canonico\":\"Titanis\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Titânida, filha dos Titãs (p.ex. Circe, filha do Sol)\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 14, 14\"],\"notas\":\"Unificação das variantes genitivas OCR (-idis) para a forma escansiva da 3ª declinação; tratado como nome próprio/epíteto.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_28444:28444:0\",\"lemas\":[\"Titanis\"],\"lema_canonico\":\"Titanis\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Titânida, filha dos Titãs (p.ex. Circe, filha do Sol)\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 14, 14\"],\"notas\":\"Unificação das variantes genitivas OCR (-idis) para a forma escansiva da 3ª declinação; tratado como nome próprio/epíteto.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_28445-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28445",
-    "page_num": 28445,
-    "lemmas": [
-      "Titanus",
-      "Titanus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Titanus, um Titã; nome próprio referindo-se a um dos Titãs (também atestado como substantivo próprio, não apenas adjetivo).",
-    "exemplos": [],
-    "notas": "Whitaker registra 'Titanus' como substantivo próprio; primeira passada identificou adjetivalidade possivelmente por leitura equivocada do OCR. | [dedupe] redirect → chunk_28441:28441:0 | [dedupe] redirect → chunk_28441:28441:0",
-    "raw_text": "{\"id\":\"chunk_28445:28445:0\",\"lemas\":[\"Titanus\"],\"lema_canonico\":\"Titanus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Titanus, um Titã; nome próprio referindo-se a um dos Titãs (também atestado como substantivo próprio, não apenas adjetivo).\",\"aliases\":[],\"exemplos\":[\"Verg. En. 6, 580\"],\"notas\":\"Whitaker registra 'Titanus' como substantivo próprio; primeira passada identificou adjetivalidade possivelmente por leitura equivocada do OCR.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_28445:28445:0\",\"lemas\":[\"Titanus\"],\"lema_canonico\":\"Titanus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Titanus, um Titã; nome próprio referindo-se a um dos Titãs (também atestado como substantivo próprio, não apenas adjetivo).\",\"aliases\":[],\"exemplos\":[\"Verg. En. 6, 580\"],\"notas\":\"Whitaker registra 'Titanus' como substantivo próprio; primeira passada identificou adjetivalidade possivelmente por leitura equivocada do OCR.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_28446-e1",
     "volume_id": "faria",
     "doc_name": "chunk_28446",
@@ -1142,28 +944,6 @@
     "notas": "Correlacionado com Lewis & Short (Tīthōnus e variantes); lema e sentido confirmados. | [ocr_fix 2025-08-17T19:55:14Z] match direto em LS por lemma/lemma_norm | lemma_in='Tithonus' → 'Tīthōnus'",
     "raw_text": "{\"id\":\"chunk_28448:28448:0\",\"lemas\":[\"Tithonus\"],\"lema_canonico\":\"Tithonus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Titono, príncipe troiano, filho de Laomedonte, esposo de Aurora; recebeu imortalidade mas envelheceu e foi transformado em cigarra.\",\"aliases\":[\"Tīthōnus\",\"Tīthōnĭus\"],\"exemplos\":[\"Verg. En. 4, 585\"],\"notas\":\"Correlacionado com Lewis & Short (Tīthōnus e variantes); lema e sentido confirmados.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_28448:28448:0\",\"lemas\":[\"Tithonus\"],\"lema_canonico\":\"Tithonus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Titono, príncipe troiano, filho de Laomedonte, esposo de Aurora; recebeu imortalidade mas envelheceu e foi transformado em cigarra.\",\"aliases\":[\"Tīthōnus\",\"Tīthōnĭus\"],\"exemplos\":[\"Verg. En. 4, 585\"],\"notas\":\"Correlacionado com Lewis & Short (Tīthōnus e variantes); lema e sentido confirmados.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_28449-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28449",
-    "page_num": 28449,
-    "lemmas": [
-      "Tĭtĭus",
-      "Tĭtĭus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Titius — nome próprio masculino; pertencente à gens Titia; citado em vários autores (Tacitus, Cicero, Horace).",
-    "exemplos": [],
-    "notas": "Entradas e referências alinhadas com Lewis & Short; forma elem. confirmada. | [dedupe] redirect → chunk_28468:28468:0 | [dedupe] redirect → chunk_28468:28468:0 | [ocr_fix 2025-08-17T19:52:43Z] match direto em LS por lemma/lemma_norm | lemma_in='Titius' → 'Tĭtĭus'",
-    "raw_text": "{\"id\":\"chunk_28449:28449:0\",\"lemas\":[\"Titius\"],\"lema_canonico\":\"Titius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Titius — nome próprio masculino; pertencente à gens Titia; citado em vários autores (Tacitus, Cicero, Horace).\",\"aliases\":[],\"exemplos\":[\"Tac. Ann. 2, 85\",\"Cic. Brut. 62, 225\",\"Hor. C. 2, 6\",\"Hor. Ep. 1, 9, 1\"],\"notas\":\"Entradas e referências alinhadas com Lewis & Short; forma elem. confirmada.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_28449:28449:0\",\"lemas\":[\"Titius\"],\"lema_canonico\":\"Titius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Titius — nome próprio masculino; pertencente à gens Titia; citado em vários autores (Tacitus, Cicero, Horace).\",\"aliases\":[],\"exemplos\":[\"Tac. Ann. 2, 85\",\"Cic. Brut. 62, 225\",\"Hor. C. 2, 6\",\"Hor. Ep. 1, 9, 1\"],\"notas\":\"Entradas e referências alinhadas com Lewis & Short; forma elem. confirmada.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
     "id": "chunk_28450-e1",
@@ -1320,28 +1100,6 @@
     "raw_json": "{\"id\":\"chunk_28456:28456:0\",\"lemas\":[\"Titius\",\"Titia\",\"Titianus\",\"Titiensis\"],\"lema_canonico\":\"Titius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Titius — adjectivo: relativo a ou pertencente à gens Titia; Titian, of or belonging to a Titius.\",\"aliases\":[],\"exemplos\":[\"Cic. Mur. 8, 18\",\"Cic. Leg. 2, 6, 14\",\"Liv. 39, 44, 7\"],\"notas\":\"Adjetivalidade e exemplos extraídos e harmonizados com Lewis & Short.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_28457-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28457",
-    "page_num": 28457,
-    "lemmas": [
-      "Titius",
-      "Titius"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Titius — nome próprio masculino; membro da gens Titia (ex.: Titio, nome de família romana).",
-    "exemplos": [],
-    "notas": "Lema normalizado para Titius; variante ortográfica retida. | [dedupe] redirect → chunk_28468:28468:0 | [dedupe] redirect → chunk_28468:28468:0",
-    "raw_text": "{\"id\":\"chunk_28457:28457:0\",\"lemas\":[\"Titius\",\"Titivs\"],\"lema_canonico\":\"Titius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Titius — nome próprio masculino; membro da gens Titia (ex.: Titio, nome de família romana).\",\"aliases\":[],\"exemplos\":[\"Cic. Brut. 62, 225\"],\"notas\":\"Lema normalizado para Titius; variante ortográfica retida.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28457:28457:0\",\"lemas\":[\"Titius\",\"Titivs\"],\"lema_canonico\":\"Titius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Titius — nome próprio masculino; membro da gens Titia (ex.: Titio, nome de família romana).\",\"aliases\":[],\"exemplos\":[\"Cic. Brut. 62, 225\"],\"notas\":\"Lema normalizado para Titius; variante ortográfica retida.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_28458-e1",
     "volume_id": "faria",
     "doc_name": "chunk_28458",
@@ -1472,28 +1230,6 @@
     "notas": "Conjugação e sentidos alinhados com LS e Lat→Deu; marcado como intransitivo.",
     "raw_text": "{\"id\":\"chunk_28463:28463:0\",\"lemas\":[\"titubo\",\"titubare\"],\"lema_canonico\":\"titubo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"Vacilar, titubear; tropeçar; estender-se por 'gaguejar' ou 'hesitar' em uso figurado.\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 11, 90\",\"Ov. A. Am. 1, 598\",\"Cic. Flac. 22\"],\"notas\":\"Conjugação e sentidos alinhados com LS e Lat→Deu; marcado como intransitivo.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_firstpass\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_28463:28463:0\",\"lemas\":[\"titubo\",\"titubare\"],\"lema_canonico\":\"titubo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"Vacilar, titubear; tropeçar; estender-se por 'gaguejar' ou 'hesitar' em uso figurado.\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 11, 90\",\"Ov. A. Am. 1, 598\",\"Cic. Flac. 22\"],\"notas\":\"Conjugação e sentidos alinhados com LS e Lat→Deu; marcado como intransitivo.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_firstpass\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_28464-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28464",
-    "page_num": 28464,
-    "lemmas": [
-      "titulus",
-      "titulus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Inscrição, rótulo, título (de obra ou honorífico); placard, letreiro; pretexto, indicação.",
-    "exemplos": [],
-    "notas": "Sentidos condensados e harmonizados conforme Lewis & Short e Lat→Deu. | [dedupe] redirect → chunk_27742:27742:0 | [dedupe] redirect → chunk_27742:27742:0",
-    "raw_text": "{\"id\":\"chunk_28464:28464:0\",\"lemas\":[\"titulus\"],\"lema_canonico\":\"titulus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Inscrição, rótulo, título (de obra ou honorífico); placard, letreiro; pretexto, indicação.\",\"aliases\":[],\"exemplos\":[\"Liv. 28, 46, 16\",\"Hor. C. 4, 14, 4\",\"Ov. F. 4, 302\",\"Cic. Tusc. 5, 30\"],\"notas\":\"Sentidos condensados e harmonizados conforme Lewis & Short e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28464:28464:0\",\"lemas\":[\"titulus\"],\"lema_canonico\":\"titulus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Inscrição, rótulo, título (de obra ou honorífico); placard, letreiro; pretexto, indicação.\",\"aliases\":[],\"exemplos\":[\"Liv. 28, 46, 16\",\"Hor. C. 4, 14, 4\",\"Ov. F. 4, 302\",\"Cic. Tusc. 5, 30\"],\"notas\":\"Sentidos condensados e harmonizados conforme Lewis & Short e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_28465-e1",
@@ -1958,28 +1694,6 @@
     "raw_json": "{\"id\":\"chunk_28483:28483:0\",\"lemas\":[\"toleratus\"],\"lema_canonico\":\"toleratus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo de tolero; (como adjetivo) tolerado, suportável.\",\"aliases\":[],\"exemplos\":[\"Tac. Ann. 12, 11\"],\"notas\":\"Forma e função confirmadas por Lewis & Short, Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_28484-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28484",
-    "page_num": 28484,
-    "lemmas": [
-      "tŏlĕrātĭo",
-      "tŏlĕrātĭo"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Gentílico: povo do Lácio (Tolerenses).",
-    "exemplos": [],
-    "notas": "Corrigido de 'Toleránses' para a forma regular Tolerenses; leitura baseada no OCR e first_pass.\n[ocr_pipeline 2025-08-16T23:18:51.858527Z] lemma_in='Tolerenses' → 'tŏlĕrātĭo' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:16:36Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='tŏlĕrātĭo' → 'tŏlĕrātĭo' | [dedupe] redirect → chunk_28482:28482:0 | [dedupe] redirect → chunk_28482:28482:0",
-    "raw_text": "{\"id\":\"chunk_28484:28484:0\",\"lemas\":[\"Tolerenses\"],\"lema_canonico\":\"Tolerenses\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Gentílico: povo do Lácio (Tolerenses).\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 3, 69\"],\"notas\":\"Corrigido de 'Toleránses' para a forma regular Tolerenses; leitura baseada no OCR e first_pass.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}",
-    "raw_json": "{\"id\":\"chunk_28484:28484:0\",\"lemas\":[\"Tolerenses\"],\"lema_canonico\":\"Tolerenses\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Gentílico: povo do Lácio (Tolerenses).\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 3, 69\"],\"notas\":\"Corrigido de 'Toleránses' para a forma regular Tolerenses; leitura baseada no OCR e first_pass.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}"
-  },
-  {
     "id": "chunk_28485-e1",
     "volume_id": "faria",
     "doc_name": "chunk_28485",
@@ -2022,116 +1736,6 @@
     "notas": "Consolidei variantes (trāno, trānāre, trānātus; transno como variante) segundo LS/Whitaker.",
     "raw_text": "{\"id\":\"chunk_28485:28485:5\",\"lemas\":[\"trāno\",\"trānāre\",\"trānātō\",\"transno\"],\"lema_canonico\":\"trāno\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"Nadar através de algo; atravessar nadando (ex.: rio, mar); também usar em sentido figurado 'atravessar, passar adiante'.\",\"aliases\":[],\"exemplos\":[\"Liv. 2, 10, 11\",\"Caes. B. G. 1, 53\",\"Verg. G. 3, 270\"],\"notas\":\"Consolidei variantes (trāno, trānāre, trānātus; transno como variante) segundo LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_28485:28485:5\",\"lemas\":[\"trāno\",\"trānāre\",\"trānātō\",\"transno\"],\"lema_canonico\":\"trāno\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"Nadar através de algo; atravessar nadando (ex.: rio, mar); também usar em sentido figurado 'atravessar, passar adiante'.\",\"aliases\":[],\"exemplos\":[\"Liv. 2, 10, 11\",\"Caes. B. G. 1, 53\",\"Verg. G. 3, 270\"],\"notas\":\"Consolidei variantes (trāno, trānāre, trānātus; transno como variante) segundo LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_28485-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_28485",
-    "page_num": 28485,
-    "lemmas": [
-      "tum",
-      "tum"
-    ],
-    "morfologia": "adv.",
-    "morph_render": "adv.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Advérbio (e ocasionalmente conjunção) de tempo/ênfase: então, naquele tempo; além disso, por outro lado; usado em várias construções correlativas.",
-    "exemplos": [],
-    "notas": "Entrada tratada como advérbio principal; reconhece-se uso conjuntivo igualmente atestado (LS, Whitaker). | [dedupe] redirect → chunk_22686:22686:0 | [dedupe] redirect → chunk_22686:22686:0",
-    "raw_text": "{\"id\":\"chunk_28485:28485:6\",\"lemas\":[\"tum\"],\"lema_canonico\":\"tum\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"Advérbio (e ocasionalmente conjunção) de tempo/ênfase: então, naquele tempo; além disso, por outro lado; usado em várias construções correlativas.\",\"aliases\":[],\"exemplos\":[\"Cic. Rep. 2, 9, 16\",\"Plaut. Trin. 4, 2, 138\"],\"notas\":\"Entrada tratada como advérbio principal; reconhece-se uso conjuntivo igualmente atestado (LS, Whitaker).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28485:28485:6\",\"lemas\":[\"tum\"],\"lema_canonico\":\"tum\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"Advérbio (e ocasionalmente conjunção) de tempo/ênfase: então, naquele tempo; além disso, por outro lado; usado em várias construções correlativas.\",\"aliases\":[],\"exemplos\":[\"Cic. Rep. 2, 9, 16\",\"Plaut. Trin. 4, 2, 138\"],\"notas\":\"Entrada tratada como advérbio principal; reconhece-se uso conjuntivo igualmente atestado (LS, Whitaker).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_28485-e4",
-    "volume_id": "faria",
-    "doc_name": "chunk_28485",
-    "page_num": 28485,
-    "lemmas": [
-      "tardo",
-      "tardo"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Fazer demorar; atrasar, retardar; também demorar-se, tardar.",
-    "exemplos": [],
-    "notas": "Normalizada como verbo de 1ª conjugação conforme LS/Lat→Deu; macrons omitidos no lema canônico. | [dedupe] redirect → chunk_27765:27765:0 | [dedupe] redirect → chunk_27765:27765:0",
-    "raw_text": "{\"id\":\"chunk_28485:28485:0\",\"lemas\":[\"tardo\"],\"lema_canonico\":\"tardo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"Fazer demorar; atrasar, retardar; também demorar-se, tardar.\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 7, 5, 1\",\"Ov. H. 10, 20\",\"Cic. Att. 6, 8, 4\",\"Caes. B. G. 7, 26\"],\"notas\":\"Normalizada como verbo de 1ª conjugação conforme LS/Lat→Deu; macrons omitidos no lema canônico.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28485:28485:0\",\"lemas\":[\"tardo\"],\"lema_canonico\":\"tardo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"Fazer demorar; atrasar, retardar; também demorar-se, tardar.\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 7, 5, 1\",\"Ov. H. 10, 20\",\"Cic. Att. 6, 8, 4\",\"Caes. B. G. 7, 26\"],\"notas\":\"Normalizada como verbo de 1ª conjugação conforme LS/Lat→Deu; macrons omitidos no lema canônico.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_28485-e5",
-    "volume_id": "faria",
-    "doc_name": "chunk_28485",
-    "page_num": 28485,
-    "lemmas": [
-      "tento",
-      "tento"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Tocar, manusear; provar, experimentar; tentar, pôr à prova.",
-    "exemplos": [],
-    "notas": "Incluída variante tempto (LS); consolidado como verbo de 1ª conjugação. | [dedupe] redirect → chunk_27980:27980:1 | [dedupe] redirect → chunk_27980:27980:1",
-    "raw_text": "{\"id\":\"chunk_28485:28485:1\",\"lemas\":[\"tento\",\"tempto\"],\"lema_canonico\":\"tento\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"Tocar, manusear; provar, experimentar; tentar, pôr à prova.\",\"aliases\":[\"tempto\"],\"exemplos\":[\"Verg. G. 2, 247\",\"Cic. Leg. 2, 3, 6\",\"Col. 8, 11, 8\"],\"notas\":\"Incluída variante tempto (LS); consolidado como verbo de 1ª conjugação.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28485:28485:1\",\"lemas\":[\"tento\",\"tempto\"],\"lema_canonico\":\"tento\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"Tocar, manusear; provar, experimentar; tentar, pôr à prova.\",\"aliases\":[\"tempto\"],\"exemplos\":[\"Verg. G. 2, 247\",\"Cic. Leg. 2, 3, 6\",\"Col. 8, 11, 8\"],\"notas\":\"Incluída variante tempto (LS); consolidado como verbo de 1ª conjugação.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_28485-e6",
-    "volume_id": "faria",
-    "doc_name": "chunk_28485",
-    "page_num": 28485,
-    "lemmas": [
-      "teneo",
-      "teneo"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Segurar, manter, conservar; ter, possuir; compreender; preservar.",
-    "exemplos": [],
-    "notas": "Normalizada a paradigme canônica 'teneo, tenēre, tenuī, tentum' conforme LS/Whitaker. | [dedupe] redirect → chunk_27964:27964:0 | [dedupe] redirect → chunk_27964:27964:0",
-    "raw_text": "{\"id\":\"chunk_28485:28485:2\",\"lemas\":[\"teneo\"],\"lema_canonico\":\"teneo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"Segurar, manter, conservar; ter, possuir; compreender; preservar.\",\"aliases\":[],\"exemplos\":[\"Cic. (várias passagens)\",\"Fest. p. 252 Müll. (cit.)\"],\"notas\":\"Normalizada a paradigme canônica 'teneo, tenēre, tenuī, tentum' conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28485:28485:2\",\"lemas\":[\"teneo\"],\"lema_canonico\":\"teneo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"Segurar, manter, conservar; ter, possuir; compreender; preservar.\",\"aliases\":[],\"exemplos\":[\"Cic. (várias passagens)\",\"Fest. p. 252 Müll. (cit.)\"],\"notas\":\"Normalizada a paradigme canônica 'teneo, tenēre, tenuī, tentum' conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_28485-e7",
-    "volume_id": "faria",
-    "doc_name": "chunk_28485",
-    "page_num": 28485,
-    "lemmas": [
-      "tendo",
-      "tendo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Estender, esticar; dirigir; esforçar‑se; alargar, aplicar força; também ’tender’ no sentido de dirigir desejo/ação.",
-    "exemplos": [],
-    "notas": "Padronizado como tendō, tendere, tetendī/tetendi, tentum conforme LS; removida ambiguidade excessiva da primeira passada. | [dedupe] redirect → chunk_27954:27954:0 | [dedupe] redirect → chunk_27954:27954:0",
-    "raw_text": "{\"id\":\"chunk_28485:28485:3\",\"lemas\":[\"tendo\"],\"lema_canonico\":\"tendo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Estender, esticar; dirigir; esforçar‑se; alargar, aplicar força; também ’tender’ no sentido de dirigir desejo/ação.\",\"aliases\":[],\"exemplos\":[\"Cic. Off. 3, 17, 68\",\"Verg. A. (passim)\",\"Plaut. Most. 3, 2, 55\"],\"notas\":\"Padronizado como tendō, tendere, tetendī/tetendi, tentum conforme LS; removida ambiguidade excessiva da primeira passada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28485:28485:3\",\"lemas\":[\"tendo\"],\"lema_canonico\":\"tendo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Estender, esticar; dirigir; esforçar‑se; alargar, aplicar força; também ’tender’ no sentido de dirigir desejo/ação.\",\"aliases\":[],\"exemplos\":[\"Cic. Off. 3, 17, 68\",\"Verg. A. (passim)\",\"Plaut. Most. 3, 2, 55\"],\"notas\":\"Padronizado como tendō, tendere, tetendī/tetendi, tentum conforme LS; removida ambiguidade excessiva da primeira passada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_28486-e1",
@@ -2264,50 +1868,6 @@
     "notas": "Normalizado para Tolosa; referências alinhadas com LS/Whitaker. | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='Tolosa' → 'Tŏlōsa'",
     "raw_text": "{\"id\":\"chunk_28491:28491:0\",\"lemas\":[\"Tolosa\",\"Tolosā\"],\"lema_canonico\":\"Tolosa\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Cidade da Gália Narbonense (atual Toulouse).\",\"aliases\":[],\"exemplos\":[\"Caes. B. G. 3, 20\",\"Mart. 9, 100, 3\",\"Plin. 4, 19, 33 §109\",\"Cic. Font. 5, 9\"],\"notas\":\"Normalizado para Tolosa; referências alinhadas com LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_28491:28491:0\",\"lemas\":[\"Tolosa\",\"Tolosā\"],\"lema_canonico\":\"Tolosa\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Cidade da Gália Narbonense (atual Toulouse).\",\"aliases\":[],\"exemplos\":[\"Caes. B. G. 3, 20\",\"Mart. 9, 100, 3\",\"Plin. 4, 19, 33 §109\",\"Cic. Font. 5, 9\"],\"notas\":\"Normalizado para Tolosa; referências alinhadas com LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_28492-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28492",
-    "page_num": 28492,
-    "lemmas": [
-      "Tŏlōsa",
-      "Tŏlōsa"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "habitantes de Tolosa (coletivo, os Tolossanos).",
-    "exemplos": [],
-    "notas": "Padronizada acentuação macronal; genitivo plural -ōrum implícito na forma coletiva.\n[ocr_pipeline 2025-08-16T23:18:52.287286Z] lemma_in='Tolosānī' → 'Tŏlōsa' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:16:37Z] match direto em LS por lemma/lemma_norm | lemma_in='Tŏlōsa' → 'Tŏlōsa' | [dedupe] redirect → chunk_28491:28491:0 | [dedupe] redirect → chunk_28491:28491:0",
-    "raw_text": "{\"id\":\"chunk_28492:28492:0\",\"lemas\":[\"Tolosānī\",\"Tolosani\"],\"lema_canonico\":\"Tolosānī\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"habitantes de Tolosa (coletivo, os Tolossanos).\",\"aliases\":[\"Tolosani\"],\"exemplos\":[\"Plin. H. Nat. 3, 37\"],\"notas\":\"Padronizada acentuação macronal; genitivo plural -ōrum implícito na forma coletiva.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}",
-    "raw_json": "{\"id\":\"chunk_28492:28492:0\",\"lemas\":[\"Tolosānī\",\"Tolosani\"],\"lema_canonico\":\"Tolosānī\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"habitantes de Tolosa (coletivo, os Tolossanos).\",\"aliases\":[\"Tolosani\"],\"exemplos\":[\"Plin. H. Nat. 3, 37\"],\"notas\":\"Padronizada acentuação macronal; genitivo plural -ōrum implícito na forma coletiva.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}"
-  },
-  {
-    "id": "chunk_28493-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28493",
-    "page_num": 28493,
-    "lemmas": [
-      "tŏlĕrans",
-      "tŏlĕrans"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Relativo a Tolosa; tolosano.",
-    "exemplos": [],
-    "notas": "Mantida grafia com macron da primeira passada; falta confirmação externa específica.\n[ocr_pipeline 2025-08-16T23:22:20.695116Z] lemma_in='Tolosānus' → 'tŏlĕrans' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:21:14Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='tŏlĕrans' → 'tŏlĕrans' | [dedupe] redirect → chunk_28479:28479:0 | [dedupe] redirect → chunk_28479:28479:0",
-    "raw_text": "{\"id\":\"chunk_28493:28493:0\",\"lemas\":[\"Tolosānus\",\"Tolosanus\"],\"lema_canonico\":\"Tolosānus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo a Tolosa; tolosano.\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 3, 74\"],\"notas\":\"Mantida grafia com macron da primeira passada; falta confirmação externa específica.\",\"flags\":[\"src_firstpass\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_28493:28493:0\",\"lemas\":[\"Tolosānus\",\"Tolosanus\"],\"lema_canonico\":\"Tolosānus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo a Tolosa; tolosano.\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 3, 74\"],\"notas\":\"Mantida grafia com macron da primeira passada; falta confirmação externa específica.\",\"flags\":[\"src_firstpass\",\"conf:low\",\"needs_review\"]}"
   },
   {
     "id": "chunk_28494-e1",
@@ -2838,28 +2398,6 @@
     "raw_json": "{\"id\":\"chunk_28515:28515:1\",\"lemas\":[\"tonstricina\",\"tonstrix\"],\"lema_canonico\":\"tonstricina\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"mulher barbeira; mulher que tosquia/corta cabelo\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 5, 58\"],\"notas\":\"Forma confirmada em Whitaker; incluiu variante tonstrix.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_28515-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_28515",
-    "page_num": 28515,
-    "lemmas": [
-      "in",
-      "in"
-    ],
-    "morfologia": "prep. com abl.",
-    "morph_render": "prep. com abl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "preposição: em, dentro, sobre (com ablativo); também usada com acusativo para movimento para/para dentro",
-    "exemplos": [],
-    "notas": "Entrada abrange usos com abl. e acc.; escolha de morfologia limitada pelo vocabulário exigiu marcação. | [dedupe] redirect → chunk_13491:13491:0 | [dedupe] redirect → chunk_13491:13491:0",
-    "raw_text": "{\"id\":\"chunk_28515:28515:2\",\"lemas\":[\"in\"],\"lema_canonico\":\"in\",\"morfologia\":\"prep. com abl.\",\"morph_extra\":[],\"definicao\":\"preposição: em, dentro, sobre (com ablativo); também usada com acusativo para movimento para/para dentro\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada abrange usos com abl. e acc.; escolha de morfologia limitada pelo vocabulário exigiu marcação.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_28515:28515:2\",\"lemas\":[\"in\"],\"lema_canonico\":\"in\",\"morfologia\":\"prep. com abl.\",\"morph_extra\":[],\"definicao\":\"preposição: em, dentro, sobre (com ablativo); também usada com acusativo para movimento para/para dentro\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada abrange usos com abl. e acc.; escolha de morfologia limitada pelo vocabulário exigiu marcação.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}"
-  },
-  {
     "id": "chunk_28516-e1",
     "volume_id": "faria",
     "doc_name": "chunk_28516",
@@ -2924,28 +2462,6 @@
     "notas": "Registrado como particípio futuro de tondeo (Whitaker; Lat→Deu). Morfologia de particípio futuro não entra no vocabulário morfológico exigido → morph_out_of_vocab.",
     "raw_text": "{\"id\":\"chunk_28518:28518:0\",\"lemas\":[\"tonsurus\",\"tonsorus\"],\"lema_canonico\":\"tonsurus\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"part. fut. akt.\"],\"definicao\":\"Particípio futuro ativo relacionado a tondeo 'aquele que tosquia / há de tosquiar'; atestado também como substantivo 'barbeiro/tonsor' em textos tardios.\",\"aliases\":[],\"exemplos\":[\"Petr. 46, 7\"],\"notas\":\"Registrado como particípio futuro de tondeo (Whitaker; Lat→Deu). Morfologia de particípio futuro não entra no vocabulário morfológico exigido → morph_out_of_vocab.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"morph_out_of_vocab\"]}",
     "raw_json": "{\"id\":\"chunk_28518:28518:0\",\"lemas\":[\"tonsurus\",\"tonsorus\"],\"lema_canonico\":\"tonsurus\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"part. fut. akt.\"],\"definicao\":\"Particípio futuro ativo relacionado a tondeo 'aquele que tosquia / há de tosquiar'; atestado também como substantivo 'barbeiro/tonsor' em textos tardios.\",\"aliases\":[],\"exemplos\":[\"Petr. 46, 7\"],\"notas\":\"Registrado como particípio futuro de tondeo (Whitaker; Lat→Deu). Morfologia de particípio futuro não entra no vocabulário morfológico exigido → morph_out_of_vocab.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"morph_out_of_vocab\"]}"
-  },
-  {
-    "id": "chunk_28519-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28519",
-    "page_num": 28519,
-    "lemmas": [
-      "tonstrix",
-      "tonstrix"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Mulher que cose/usa/pareia cabelos; barbeira/cabeleireira feminina.",
-    "exemplos": [],
-    "notas": "Alinhado com Lewis & Short e Whitaker; forma feminina e declinação 3ª confirmadas. | [dedupe] redirect → chunk_28515:28515:0 | [dedupe] redirect → chunk_28515:28515:0",
-    "raw_text": "{\"id\":\"chunk_28519:28519:0\",\"lemas\":[\"tonstrix\"],\"lema_canonico\":\"tonstrix\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Mulher que cose/usa/pareia cabelos; barbeira/cabeleireira feminina.\",\"aliases\":[],\"exemplos\":[\"Plaut. Truc. 2,4,51\",\"Plaut. Truc. 4,2,59\",\"Plaut. Truc. 4,4,3\",\"Mart. 2,17,1\",\"Inscr. Grut. 594,3\"],\"notas\":\"Alinhado com Lewis & Short e Whitaker; forma feminina e declinação 3ª confirmadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28519:28519:0\",\"lemas\":[\"tonstrix\"],\"lema_canonico\":\"tonstrix\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Mulher que cose/usa/pareia cabelos; barbeira/cabeleireira feminina.\",\"aliases\":[],\"exemplos\":[\"Plaut. Truc. 2,4,51\",\"Plaut. Truc. 4,2,59\",\"Plaut. Truc. 4,4,3\",\"Mart. 2,17,1\",\"Inscr. Grut. 594,3\"],\"notas\":\"Alinhado com Lewis & Short e Whitaker; forma feminina e declinação 3ª confirmadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_28520-e1",
@@ -3322,28 +2838,6 @@
     "raw_json": "{\"id\":\"chunk_28536:28536:0\",\"lemas\":[\"tornus\"],\"lema_canonico\":\"tornus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Torno, instrumento do torneiro (lathe); sentido figurado em poesia 'arte, giro versal'.\",\"aliases\":[],\"exemplos\":[\"Verg. G. 2, 449\",\"Lucr. 4, 361\",\"Plin. 7, 56\"],\"notas\":\"Confirmado e ilustrado com atestados literários (LS, Whitaker, Lat→Deu).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_28537-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28537",
-    "page_num": 28537,
-    "lemmas": [
-      "tornus",
-      "tornus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "tornus: torno, ferramenta do torneiro; lathe, turner's lathe",
-    "exemplos": [],
-    "notas": "Entrada consolidada com LS/Whitaker; exemplos literários clássicos citados em LS. | [dedupe] redirect → chunk_28536:28536:0 | [dedupe] redirect → chunk_28536:28536:0",
-    "raw_text": "{\"id\":\"chunk_28537:28537:0\",\"lemas\":[\"tornus\"],\"lema_canonico\":\"tornus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"tornus: torno, ferramenta do torneiro; lathe, turner's lathe\",\"aliases\":[],\"exemplos\":[\"Lucr. 4, 361\",\"Plin. 7, 56\"],\"notas\":\"Entrada consolidada com LS/Whitaker; exemplos literários clássicos citados em LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28537:28537:0\",\"lemas\":[\"tornus\"],\"lema_canonico\":\"tornus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"tornus: torno, ferramenta do torneiro; lathe, turner's lathe\",\"aliases\":[],\"exemplos\":[\"Lucr. 4, 361\",\"Plin. 7, 56\"],\"notas\":\"Entrada consolidada com LS/Whitaker; exemplos literários clássicos citados em LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_28537-e2",
     "volume_id": "faria",
     "doc_name": "chunk_28537",
@@ -3388,28 +2882,6 @@
     "raw_json": "{\"id\":\"chunk_28538:28538:0\",\"lemas\":[\"Tornacus\"],\"lema_canonico\":\"Tornacus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo a Torone; natural ou habitante de Torone\",\"aliases\":[],\"exemplos\":[\"Tac. An. 5, 10\"],\"notas\":\"Derivado de Torone; atestado por citação fornecida na fonte primária.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_28539-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28539",
-    "page_num": 28539,
-    "lemmas": [
-      "Tŏrōnē",
-      "Tŏrōnē"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "relativo a Torone; adjetivo pátrio",
-    "exemplos": [],
-    "notas": "Conservada forma e referência da primeira passada/OCR; falta confirmação em dicionários externos fornecidos\n[ocr_pipeline 2025-08-16T23:20:00.091168Z] lemma_in='Tornicius' → 'Tŏrōnē' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:18:06Z] match direto em LS por lemma/lemma_norm | lemma_in='Tŏrōnē' → 'Tŏrōnē' | [dedupe] redirect → chunk_28538:28538:0 | [dedupe] redirect → chunk_28538:28538:0",
-    "raw_text": "{\"id\":\"chunk_28539:28539:0\",\"lemas\":[\"Tornicius\",\"Tornīcius\"],\"lema_canonico\":\"Tornicius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo a Torone; adjetivo pátrio\",\"aliases\":[],\"exemplos\":[\"T. Liv. 44, 11\"],\"notas\":\"Conservada forma e referência da primeira passada/OCR; falta confirmação em dicionários externos fornecidos\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_28539:28539:0\",\"lemas\":[\"Tornicius\",\"Tornīcius\"],\"lema_canonico\":\"Tornicius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo a Torone; adjetivo pátrio\",\"aliases\":[],\"exemplos\":[\"T. Liv. 44, 11\"],\"notas\":\"Conservada forma e referência da primeira passada/OCR; falta confirmação em dicionários externos fornecidos\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
     "id": "chunk_28540-e1",
     "volume_id": "faria",
     "doc_name": "chunk_28540",
@@ -3452,28 +2924,6 @@
     "notas": "Corrigido: entrada inicial tratava como substantivo; agora restituído ao verbo torpēre (LS, Whitaker).",
     "raw_text": "{\"id\":\"chunk_28541:28541:0\",\"lemas\":[\"torpeo\"],\"lema_canonico\":\"torpeo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"Estar ou ficar num estado de torpor; ser insensível, entorpecer, ficar imóvel.\",\"aliases\":[],\"exemplos\":[\"Liv. 21,56,7\",\"Verg. A. 9,499\",\"Ov. M. 13,541\"],\"notas\":\"Corrigido: entrada inicial tratava como substantivo; agora restituído ao verbo torpēre (LS, Whitaker).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_28541:28541:0\",\"lemas\":[\"torpeo\"],\"lema_canonico\":\"torpeo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"Estar ou ficar num estado de torpor; ser insensível, entorpecer, ficar imóvel.\",\"aliases\":[],\"exemplos\":[\"Liv. 21,56,7\",\"Verg. A. 9,499\",\"Ov. M. 13,541\"],\"notas\":\"Corrigido: entrada inicial tratava como substantivo; agora restituído ao verbo torpēre (LS, Whitaker).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_28542-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28542",
-    "page_num": 28542,
-    "lemmas": [
-      "torpeo",
-      "torpeo"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Estar entorpecido, dormente; estar inativo, apático, torpe (físico e moral).",
-    "exemplos": [],
-    "notas": "Forma e sentidos confirmados em Lewis & Short e Lat→Deu; acentuação editorializada para e longa. | [dedupe] redirect → chunk_28541:28541:0 | [dedupe] redirect → chunk_28541:28541:0",
-    "raw_text": "{\"id\":\"chunk_28542:28542:0\",\"lemas\":[\"torpeo\",\"torpēo\"],\"lema_canonico\":\"torpeo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"Estar entorpecido, dormente; estar inativo, apático, torpe (físico e moral).\",\"aliases\":[],\"exemplos\":[\"Liv. 21, 56, 7\",\"Liv. 21, 58, 9\",\"Hor. Sat. 2, 7, 95\",\"Plin. Nat. 7, 50, 51\"],\"notas\":\"Forma e sentidos confirmados em Lewis & Short e Lat→Deu; acentuação editorializada para e longa.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28542:28542:0\",\"lemas\":[\"torpeo\",\"torpēo\"],\"lema_canonico\":\"torpeo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"Estar entorpecido, dormente; estar inativo, apático, torpe (físico e moral).\",\"aliases\":[],\"exemplos\":[\"Liv. 21, 56, 7\",\"Liv. 21, 58, 9\",\"Hor. Sat. 2, 7, 95\",\"Plin. Nat. 7, 50, 51\"],\"notas\":\"Forma e sentidos confirmados em Lewis & Short e Lat→Deu; acentuação editorializada para e longa.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_28543-e1",
@@ -3608,28 +3058,6 @@
     "raw_json": "{\"id\":\"chunk_28547:28547:1\",\"lemas\":[\"Torquatus\"],\"lema_canonico\":\"Torquatus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Torquātus — cognomen (sobrenome) romano, p.ex. T. Manlius Torquatus; usado como nome de família e referido em autores históricos\",\"aliases\":[],\"exemplos\":[\"Gell. 9, 13, 19\",\"Cic. Fin. 1, 7, 23\",\"Liv. 7, 10\"],\"notas\":\"Entrada onomástica confirmada principalmente por Lewis & Short.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_28548-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28548",
-    "page_num": 28548,
-    "lemmas": [
-      "Torquatus",
-      "Torquatus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "sobrenome de T. Manlius (de quem tomou o torque); também adjetivo 'ornado com colar/torque'.",
-    "exemplos": [],
-    "notas": "Inclui uso onomástico e adjetival (LS + Whitaker). | [dedupe] redirect → chunk_28547:28547:1 | [dedupe] redirect → chunk_28547:28547:1",
-    "raw_text": "{\"id\":\"chunk_28548:28548:0\",\"lemas\":[\"Torquatus\",\"torquatus\"],\"lema_canonico\":\"Torquatus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"sobrenome de T. Manlius (de quem tomou o torque); também adjetivo 'ornado com colar/torque'.\",\"aliases\":[],\"exemplos\":[\"Liv. 7, 10\",\"Cic. Off. 3, 31\",\"Cic. Fin. 1, 7\"],\"notas\":\"Inclui uso onomástico e adjetival (LS + Whitaker).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28548:28548:0\",\"lemas\":[\"Torquatus\",\"torquatus\"],\"lema_canonico\":\"Torquatus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"sobrenome de T. Manlius (de quem tomou o torque); também adjetivo 'ornado com colar/torque'.\",\"aliases\":[],\"exemplos\":[\"Liv. 7, 10\",\"Cic. Off. 3, 31\",\"Cic. Fin. 1, 7\"],\"notas\":\"Inclui uso onomástico e adjetival (LS + Whitaker).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_28549-e1",
     "volume_id": "faria",
     "doc_name": "chunk_28549",
@@ -3650,50 +3078,6 @@
     "notas": "Forma e prosódia com macron conforme LS; atestada em Lat. tardio/Vulgata e em Whitaker.",
     "raw_text": "{\"id\":\"chunk_28549:28549:0\",\"lemas\":[\"tornātūra\",\"tornatura\"],\"lema_canonico\":\"tornātūra\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"obra do torneiro; trabalho feito no torno; turning, turnery (late Lat.).\",\"aliases\":[],\"exemplos\":[\"Vulg. 3 Reg. 6, 18\"],\"notas\":\"Forma e prosódia com macron conforme LS; atestada em Lat. tardio/Vulgata e em Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_28549:28549:0\",\"lemas\":[\"tornātūra\",\"tornatura\"],\"lema_canonico\":\"tornātūra\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"obra do torneiro; trabalho feito no torno; turning, turnery (late Lat.).\",\"aliases\":[],\"exemplos\":[\"Vulg. 3 Reg. 6, 18\"],\"notas\":\"Forma e prosódia com macron conforme LS; atestada em Lat. tardio/Vulgata e em Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_28549-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_28549",
-    "page_num": 28549,
-    "lemmas": [
-      "tornō",
-      "tornō"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "girar em torno num torno; trabalhar em torno; arredondar, apurar; metaf. moldear, alisar (to turn in a lathe; to round off; to fashion, smooth).",
-    "exemplos": [],
-    "notas": "Consolidação das formas verbais e prosódicas segundo LS e Whitaker (tornō, tornāre, tornāvī, tornātum). | [dedupe] redirect → chunk_28535:28535:0 | [dedupe] redirect → chunk_28535:28535:0",
-    "raw_text": "{\"id\":\"chunk_28549:28549:1\",\"lemas\":[\"tornō\",\"tornāre\"],\"lema_canonico\":\"tornō\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"girar em torno num torno; trabalhar em torno; arredondar, apurar; metaf. moldear, alisar (to turn in a lathe; to round off; to fashion, smooth).\",\"aliases\":[],\"exemplos\":[\"Cic. Univ. 6\",\"Cic. Rep. 1, 14, 22\",\"Plin. 11, 39, §227\",\"Plin. 36, 22, §159\",\"Hor. A. P. 441\",\"Aug. de Catechiz. 8\"],\"notas\":\"Consolidação das formas verbais e prosódicas segundo LS e Whitaker (tornō, tornāre, tornāvī, tornātum).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28549:28549:1\",\"lemas\":[\"tornō\",\"tornāre\"],\"lema_canonico\":\"tornō\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"girar em torno num torno; trabalhar em torno; arredondar, apurar; metaf. moldear, alisar (to turn in a lathe; to round off; to fashion, smooth).\",\"aliases\":[],\"exemplos\":[\"Cic. Univ. 6\",\"Cic. Rep. 1, 14, 22\",\"Plin. 11, 39, §227\",\"Plin. 36, 22, §159\",\"Hor. A. P. 441\",\"Aug. de Catechiz. 8\"],\"notas\":\"Consolidação das formas verbais e prosódicas segundo LS e Whitaker (tornō, tornāre, tornāvī, tornātum).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_28549-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_28549",
-    "page_num": 28549,
-    "lemmas": [
-      "tornus",
-      "tornus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "torno; instrumento do torneiro (lathe; turner's lathe).",
-    "exemplos": [],
-    "notas": "Confirmado por LS e Whitaker; sem exemplos no trecho OCR fornecido. | [dedupe] redirect → chunk_28536:28536:0 | [dedupe] redirect → chunk_28536:28536:0",
-    "raw_text": "{\"id\":\"chunk_28549:28549:2\",\"lemas\":[\"tornus\"],\"lema_canonico\":\"tornus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"torno; instrumento do torneiro (lathe; turner's lathe).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Confirmado por LS e Whitaker; sem exemplos no trecho OCR fornecido.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28549:28549:2\",\"lemas\":[\"tornus\"],\"lema_canonico\":\"tornus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"torno; instrumento do torneiro (lathe; turner's lathe).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Confirmado por LS e Whitaker; sem exemplos no trecho OCR fornecido.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_28549-e4",
@@ -3718,28 +3102,6 @@
     "raw_json": "{\"id\":\"chunk_28549:28549:8\",\"lemas\":[\"trituro\",\"trītūro\"],\"lema_canonico\":\"trituro\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"triturar, debulhar; no latim tardio: 'to thresh' (thresh).\",\"aliases\":[],\"exemplos\":[\"Vulg. 1 Cor. 9, 9\",\"Aug. Tract. in Johan. 4, §2\"],\"notas\":\"Lema e sentido ajustados segundo Lewis & Short e Lat→Deu; variante com macron incluída.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_28549-e5",
-    "volume_id": "faria",
-    "doc_name": "chunk_28549",
-    "page_num": 28549,
-    "lemmas": [
-      "tum",
-      "tum"
-    ],
-    "morfologia": "adv.",
-    "morph_render": "adv.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "advérbio temporal e conjuntivo: então, naquele tempo; também além disso, além do mais; usado em muitas locuções (tum demum, tum vero, tum etiam, etc.).",
-    "exemplos": [],
-    "notas": "Mantida e ampliada definição conforme Lewis & Short; marcado como adv. por ser o uso principal. | [dedupe] redirect → chunk_22686:22686:0 | [dedupe] redirect → chunk_22686:22686:0",
-    "raw_text": "{\"id\":\"chunk_28549:28549:9\",\"lemas\":[\"tum\"],\"lema_canonico\":\"tum\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"advérbio temporal e conjuntivo: então, naquele tempo; também além disso, além do mais; usado em muitas locuções (tum demum, tum vero, tum etiam, etc.).\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 9, 24, 35\",\"Plaut. passim\"],\"notas\":\"Mantida e ampliada definição conforme Lewis & Short; marcado como adv. por ser o uso principal.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28549:28549:9\",\"lemas\":[\"tum\"],\"lema_canonico\":\"tum\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"advérbio temporal e conjuntivo: então, naquele tempo; também além disso, além do mais; usado em muitas locuções (tum demum, tum vero, tum etiam, etc.).\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 9, 24, 35\",\"Plaut. passim\"],\"notas\":\"Mantida e ampliada definição conforme Lewis & Short; marcado como adv. por ser o uso principal.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_28549-e6",
     "volume_id": "faria",
     "doc_name": "chunk_28549",
@@ -3760,28 +3122,6 @@
     "notas": "Normalizada grafia do lema e paradigma conforme Lewis & Short; exemplos alinhados com LS.",
     "raw_text": "{\"id\":\"chunk_28549:28549:10\",\"lemas\":[\"torqueo\",\"torquĕo\"],\"lema_canonico\":\"torqueo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"torcer, dobrar; girar, fazer rodar; torcer membros (torturar); brandir/lançar (arma); figurado: sondar, examinar; poético: suportar.\",\"aliases\":[],\"exemplos\":[\"Cic. Leg. 2, 39\",\"Verg. G. 3, 38\",\"Hor. A. P. 435\"],\"notas\":\"Normalizada grafia do lema e paradigma conforme Lewis & Short; exemplos alinhados com LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_28549:28549:10\",\"lemas\":[\"torqueo\",\"torquĕo\"],\"lema_canonico\":\"torqueo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"torcer, dobrar; girar, fazer rodar; torcer membros (torturar); brandir/lançar (arma); figurado: sondar, examinar; poético: suportar.\",\"aliases\":[],\"exemplos\":[\"Cic. Leg. 2, 39\",\"Verg. G. 3, 38\",\"Hor. A. P. 435\"],\"notas\":\"Normalizada grafia do lema e paradigma conforme Lewis & Short; exemplos alinhados com LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_28549-e7",
-    "volume_id": "faria",
-    "doc_name": "chunk_28549",
-    "page_num": 28549,
-    "lemmas": [
-      "torqueo",
-      "torqueo"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "torcer, girar; torcer (membros), torturar; figurado: sondar, examinar; uso clássico e poeta (Verg., Cic., Hor.).",
-    "exemplos": [],
-    "notas": "Uniformizei grafia para torqueo (Whitaker/LS) e normalizei macrons conforme LS. | [dedupe] redirect → chunk_28549:28549:10 | [dedupe] redirect → chunk_28549:28549:10",
-    "raw_text": "{\"id\":\"chunk_28549:28549:3\",\"lemas\":[\"torqueo\",\"torquĕo\",\"torqueō\"],\"lema_canonico\":\"torqueo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"torcer, girar; torcer (membros), torturar; figurado: sondar, examinar; uso clássico e poeta (Verg., Cic., Hor.).\",\"aliases\":[],\"exemplos\":[\"Verg. A. 4, 220\",\"Cic. Ac. 2, 25, 80\",\"Hor. Sat. 2, 8, 87\"],\"notas\":\"Uniformizei grafia para torqueo (Whitaker/LS) e normalizei macrons conforme LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28549:28549:3\",\"lemas\":[\"torqueo\",\"torquĕo\",\"torqueō\"],\"lema_canonico\":\"torqueo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"torcer, girar; torcer (membros), torturar; figurado: sondar, examinar; uso clássico e poeta (Verg., Cic., Hor.).\",\"aliases\":[],\"exemplos\":[\"Verg. A. 4, 220\",\"Cic. Ac. 2, 25, 80\",\"Hor. Sat. 2, 8, 87\"],\"notas\":\"Uniformizei grafia para torqueo (Whitaker/LS) e normalizei macrons conforme LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_28549-e8",
@@ -4048,50 +3388,6 @@
     "raw_json": "{\"id\":\"chunk_28557:28557:0\",\"lemas\":[\"torriĭ\"],\"lema_canonico\":\"torriĭ\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"provável leitura corrupta/ocr de forma perfeita; possivelmente pretende referir-se a perfeito de torqueo (torsi) ou a outra forma errada — não confirmado\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada ambígua e provável erro de OCR; não foi possível identificar forma canónica com segurança. Preservada forma da primeira passada para revisão.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_28557-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_28557",
-    "page_num": 28557,
-    "lemmas": [
-      "torreo",
-      "torreo"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "assar, torrar, secar pelo calor; chamuscar, ardere/queimar; (intr.) ressecar-se",
-    "exemplos": [],
-    "notas": "Verbo confirmado por Lewis & Short, Whitaker e Lat→Deu; formas do perfeito e particípio incluídas. | [dedupe] redirect → chunk_28553:28553:0 | [dedupe] redirect → chunk_28553:28553:0",
-    "raw_text": "{\"id\":\"chunk_28557:28557:1\",\"lemas\":[\"torreo\",\"torrere\",\"torrui\",\"tostus\"],\"lema_canonico\":\"torreo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"assar, torrar, secar pelo calor; chamuscar, ardere/queimar; (intr.) ressecar-se\",\"aliases\":[],\"exemplos\":[\"Verg. A. 1, 179\",\"Ov. M. 14, 273\",\"Plin. 11, 20\"],\"notas\":\"Verbo confirmado por Lewis & Short, Whitaker e Lat→Deu; formas do perfeito e particípio incluídas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28557:28557:1\",\"lemas\":[\"torreo\",\"torrere\",\"torrui\",\"tostus\"],\"lema_canonico\":\"torreo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"assar, torrar, secar pelo calor; chamuscar, ardere/queimar; (intr.) ressecar-se\",\"aliases\":[],\"exemplos\":[\"Verg. A. 1, 179\",\"Ov. M. 14, 273\",\"Plin. 11, 20\"],\"notas\":\"Verbo confirmado por Lewis & Short, Whitaker e Lat→Deu; formas do perfeito e particípio incluídas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_28558-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28558",
-    "page_num": 28558,
-    "lemmas": [
-      "torqueo",
-      "torqueo"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Verbo: torcer, girar, contorcer; torsi é a 1ª pessoa do perf. ind. akt. (perfectum) de torqueo.",
-    "exemplos": [],
-    "notas": "Entrada orientada para o infinitivo do qual 'torsi' é perfeito; confirmação em Lat→Deu e LS. | [dedupe] redirect → chunk_28549:28549:10 | [dedupe] redirect → chunk_28549:28549:10",
-    "raw_text": "{\"id\":\"chunk_28558:28558:0\",\"lemas\":[\"torqueo\",\"torquēre\"],\"lema_canonico\":\"torqueo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"Verbo: torcer, girar, contorcer; torsi é a 1ª pessoa do perf. ind. akt. (perfectum) de torqueo.\",\"aliases\":[\"torsi\"],\"exemplos\":[],\"notas\":\"Entrada orientada para o infinitivo do qual 'torsi' é perfeito; confirmação em Lat→Deu e LS.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28558:28558:0\",\"lemas\":[\"torqueo\",\"torquēre\"],\"lema_canonico\":\"torqueo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"Verbo: torcer, girar, contorcer; torsi é a 1ª pessoa do perf. ind. akt. (perfectum) de torqueo.\",\"aliases\":[\"torsi\"],\"exemplos\":[],\"notas\":\"Entrada orientada para o infinitivo do qual 'torsi' é perfeito; confirmação em Lat→Deu e LS.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_28559-e1",
     "volume_id": "faria",
     "doc_name": "chunk_28559",
@@ -4158,28 +3454,6 @@
     "raw_json": "{\"id\":\"chunk_28561:28561:0\",\"lemas\":[\"tore.o\"],\"lema_canonico\":\"tore.o\",\"morfologia\":\"ADJ\",\"morph_extra\":[],\"definicao\":\"Entrada incerta, provável erro de OCR/edital (possível correspondência com torēo/torēus ou torreo).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Mantido conforme primeira passada devido à incerteza; provável corrupção por OCR. Revisão necessária.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\",\"morph_out_of_vocab\"]}"
   },
   {
-    "id": "chunk_28561-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_28561",
-    "page_num": 28561,
-    "lemmas": [
-      "torus",
-      "torus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "protuberância, saliência; nó ou inchaço; músculo, carne; leito, sofá; almofada, acolchoado.",
-    "exemplos": [],
-    "notas": "Conciliação LS/Whitaker/Lat→Deu; múltiplos sentidos listados. | [dedupe] redirect → chunk_28260:28260:0 | [dedupe] redirect → chunk_28260:28260:0",
-    "raw_text": "{\"id\":\"chunk_28561:28561:1\",\"lemas\":[\"torus\"],\"lema_canonico\":\"torus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"protuberância, saliência; nó ou inchaço; músculo, carne; leito, sofá; almofada, acolchoado.\",\"aliases\":[],\"exemplos\":[\"Verg. H. 9, 60\",\"Cic. Tusc. 2, 9\"],\"notas\":\"Conciliação LS/Whitaker/Lat→Deu; múltiplos sentidos listados.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28561:28561:1\",\"lemas\":[\"torus\"],\"lema_canonico\":\"torus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"protuberância, saliência; nó ou inchaço; músculo, carne; leito, sofá; almofada, acolchoado.\",\"aliases\":[],\"exemplos\":[\"Verg. H. 9, 60\",\"Cic. Tusc. 2, 9\"],\"notas\":\"Conciliação LS/Whitaker/Lat→Deu; múltiplos sentidos listados.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_28561-e3",
     "volume_id": "faria",
     "doc_name": "chunk_28561",
@@ -4202,28 +3476,6 @@
     "raw_json": "{\"id\":\"chunk_28561:28561:2\",\"lemas\":[\"torĕo\"],\"lema_canonico\":\"torĕo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"(entrada incerta) glossada na primeira passada como 'torcer‑se, contorcer‑se' (ex.: Lucr. 3,661); possível confusão com torreo/torreo (assar, tostar).\",\"aliases\":[],\"exemplos\":[\"Lucr. 3, 661\"],\"notas\":\"Forma e sentido não confirmados em fontes principais; pode ser leitura OCR/edição; requer verificação.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_28562-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28562",
-    "page_num": 28562,
-    "lemmas": [
-      "trītūra",
-      "trītūra"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Ação de esfregar; fricção/abrasão; moagem, debulhar ou trituração (threshing).",
-    "exemplos": [],
-    "notas": "Normalizado para trītūra conforme Lewis & Short; relacionado ao verbo triturare. | [dedupe] redirect → chunk_28549:28549:7 | [dedupe] redirect → chunk_28549:28549:7",
-    "raw_text": "{\"id\":\"chunk_28562:28562:4\",\"lemas\":[\"trītūra\",\"tritura\"],\"lema_canonico\":\"trītūra\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Ação de esfregar; fricção/abrasão; moagem, debulhar ou trituração (threshing).\",\"aliases\":[],\"exemplos\":[\"Varr. L. L. 5\",\"Verg. G. 1, 190\",\"App. M. 9\"],\"notas\":\"Normalizado para trītūra conforme Lewis & Short; relacionado ao verbo triturare.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28562:28562:4\",\"lemas\":[\"trītūra\",\"tritura\"],\"lema_canonico\":\"trītūra\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Ação de esfregar; fricção/abrasão; moagem, debulhar ou trituração (threshing).\",\"aliases\":[],\"exemplos\":[\"Varr. L. L. 5\",\"Verg. G. 1, 190\",\"App. M. 9\"],\"notas\":\"Normalizado para trītūra conforme Lewis & Short; relacionado ao verbo triturare.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_28562-e2",
     "volume_id": "faria",
     "doc_name": "chunk_28562",
@@ -4244,94 +3496,6 @@
     "notas": "Sustentado apenas pelo primeiro processamento e OCR; forma e exemplo mantidos mas requerem verificação em LS/Whitaker.",
     "raw_text": "{\"id\":\"chunk_28562:28562:0\",\"lemas\":[\"toritor\"],\"lema_canonico\":\"toritor\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"aquele que sujeita alguém à tortura; carrasco, algoz.\",\"aliases\":[],\"exemplos\":[\"Cic. Clu. 177\"],\"notas\":\"Sustentado apenas pelo primeiro processamento e OCR; forma e exemplo mantidos mas requerem verificação em LS/Whitaker.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_28562:28562:0\",\"lemas\":[\"toritor\"],\"lema_canonico\":\"toritor\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"aquele que sujeita alguém à tortura; carrasco, algoz.\",\"aliases\":[],\"exemplos\":[\"Cic. Clu. 177\"],\"notas\":\"Sustentado apenas pelo primeiro processamento e OCR; forma e exemplo mantidos mas requerem verificação em LS/Whitaker.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_28562-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_28562",
-    "page_num": 28562,
-    "lemmas": [
-      "tornātūra",
-      "tornātūra"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "trabalho de torneiro; ação de torneamento; peça torneada (Lat. tardio).",
-    "exemplos": [],
-    "notas": "Grafia regularizada para tornātūra conforme Lewis & Short e Whitaker. | [dedupe] redirect → chunk_28549:28549:0 | [dedupe] redirect → chunk_28549:28549:0",
-    "raw_text": "{\"id\":\"chunk_28562:28562:1\",\"lemas\":[\"tornātūra\",\"tornatura\"],\"lema_canonico\":\"tornātūra\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"trabalho de torneiro; ação de torneamento; peça torneada (Lat. tardio).\",\"aliases\":[],\"exemplos\":[\"Vulg. 3 Reg. 6, 18\"],\"notas\":\"Grafia regularizada para tornātūra conforme Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28562:28562:1\",\"lemas\":[\"tornātūra\",\"tornatura\"],\"lema_canonico\":\"tornātūra\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"trabalho de torneiro; ação de torneamento; peça torneada (Lat. tardio).\",\"aliases\":[],\"exemplos\":[\"Vulg. 3 Reg. 6, 18\"],\"notas\":\"Grafia regularizada para tornātūra conforme Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_28562-e4",
-    "volume_id": "faria",
-    "doc_name": "chunk_28562",
-    "page_num": 28562,
-    "lemmas": [
-      "torqueō",
-      "torqueō"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "girar, torcer; lançar, enrolar; torturar, atormentar; curvar, distorcer.",
-    "exemplos": [],
-    "notas": "Incluído infinitivo e forma de primeira pessoa; marcadores e sentidos confirmados por LS/Whitaker. | [dedupe] redirect → chunk_28549:28549:10 | [dedupe] redirect → chunk_28549:28549:10",
-    "raw_text": "{\"id\":\"chunk_28562:28562:2\",\"lemas\":[\"torqueō\",\"torquere\"],\"lema_canonico\":\"torqueō\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"girar, torcer; lançar, enrolar; torturar, atormentar; curvar, distorcer.\",\"aliases\":[],\"exemplos\":[\"Hor. S. 2, 8, 67\",\"Cic. Leg. 2, 15, 39\",\"Verg. A. 4, 220\"],\"notas\":\"Incluído infinitivo e forma de primeira pessoa; marcadores e sentidos confirmados por LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28562:28562:2\",\"lemas\":[\"torqueō\",\"torquere\"],\"lema_canonico\":\"torqueō\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"girar, torcer; lançar, enrolar; torturar, atormentar; curvar, distorcer.\",\"aliases\":[],\"exemplos\":[\"Hor. S. 2, 8, 67\",\"Cic. Leg. 2, 15, 39\",\"Verg. A. 4, 220\"],\"notas\":\"Incluído infinitivo e forma de primeira pessoa; marcadores e sentidos confirmados por LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_28562-e5",
-    "volume_id": "faria",
-    "doc_name": "chunk_28562",
-    "page_num": 28562,
-    "lemmas": [
-      "tortūra",
-      "tortūra"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "ato de torcer; torção; tormento, tortura (dor, angústia).",
-    "exemplos": [],
-    "notas": "Unificado grafia para tortūra conforme LS; coberto também por Whitaker. | [dedupe] redirect → chunk_28549:28549:5 | [dedupe] redirect → chunk_28549:28549:5",
-    "raw_text": "{\"id\":\"chunk_28562:28562:3\",\"lemas\":[\"tortūra\",\"tortura\"],\"lema_canonico\":\"tortūra\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"ato de torcer; torção; tormento, tortura (dor, angústia).\",\"aliases\":[],\"exemplos\":[\"Pall. Febr. 9, 8\",\"Veg. Vet. 1, 40\"],\"notas\":\"Unificado grafia para tortūra conforme LS; coberto também por Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28562:28562:3\",\"lemas\":[\"tortūra\",\"tortura\"],\"lema_canonico\":\"tortūra\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"ato de torcer; torção; tormento, tortura (dor, angústia).\",\"aliases\":[],\"exemplos\":[\"Pall. Febr. 9, 8\",\"Veg. Vet. 1, 40\"],\"notas\":\"Unificado grafia para tortūra conforme LS; coberto também por Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_28563-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28563",
-    "page_num": 28563,
-    "lemmas": [
-      "torus",
-      "torus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "torus/torulus/torulis: protuberância; colchão, almofada, enchimento; também brawn/mussel em sentidos antigos.",
-    "exemplos": [],
-    "notas": "Corrigida a classificação para 2ª declinação (masculino) com variantes; baseada em Whitaker e Lat→Deu. | [dedupe] redirect → chunk_28260:28260:0 | [dedupe] redirect → chunk_28260:28260:0",
-    "raw_text": "{\"id\":\"chunk_28563:28563:0\",\"lemas\":[\"torus\",\"torulis\"],\"lema_canonico\":\"torus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"torus/torulus/torulis: protuberância; colchão, almofada, enchimento; também brawn/mussel em sentidos antigos.\",\"aliases\":[],\"exemplos\":[\"Pacuv. Tr. 159\"],\"notas\":\"Corrigida a classificação para 2ª declinação (masculino) com variantes; baseada em Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28563:28563:0\",\"lemas\":[\"torus\",\"torulis\"],\"lema_canonico\":\"torus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"torus/torulus/torulis: protuberância; colchão, almofada, enchimento; também brawn/mussel em sentidos antigos.\",\"aliases\":[],\"exemplos\":[\"Pacuv. Tr. 159\"],\"notas\":\"Corrigida a classificação para 2ª declinação (masculino) com variantes; baseada em Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_28564-e1",
@@ -4422,28 +3586,6 @@
     "raw_json": "{\"id\":\"chunk_28567:28567:0\",\"lemas\":[\"torulus\"],\"lema_canonico\":\"torulus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"tufo ou trança de cabelos; saliência ou nervo carnudo (brawn); também, almofada, rolo acolchoado.\",\"aliases\":[],\"exemplos\":[\"Plaut. Amph. 144\"],\"notas\":\"Conciliação LS/Whitaker; grafia normalizada de torŭlus.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_28568-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28568",
-    "page_num": 28568,
-    "lemmas": [
-      "torus",
-      "torus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "torus, -ī, m.: protuberância, saliência; músculo, massa muscular; colchão, almofada; leito, cama; leito nupcial; meton.: casamento.",
-    "exemplos": [],
-    "notas": "Reescrita e normalização a partir do OCR; definições consolidadas com LS/Whitaker/Lat→Deu. | [dedupe] redirect → chunk_28260:28260:0 | [dedupe] redirect → chunk_28260:28260:0",
-    "raw_text": "{\"id\":\"chunk_28568:28568:0\",\"lemas\":[\"torus\"],\"lema_canonico\":\"torus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"torus, -ī, m.: protuberância, saliência; músculo, massa muscular; colchão, almofada; leito, cama; leito nupcial; meton.: casamento.\",\"aliases\":[],\"exemplos\":[\"Verg. En. 6, 674\",\"Verg. En. 12, 75\",\"Verg. En. 5, 388\",\"Verg. En. 6, 201\",\"Ov. Met. 1, 620\"],\"notas\":\"Reescrita e normalização a partir do OCR; definições consolidadas com LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28568:28568:0\",\"lemas\":[\"torus\"],\"lema_canonico\":\"torus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"torus, -ī, m.: protuberância, saliência; músculo, massa muscular; colchão, almofada; leito, cama; leito nupcial; meton.: casamento.\",\"aliases\":[],\"exemplos\":[\"Verg. En. 6, 674\",\"Verg. En. 12, 75\",\"Verg. En. 5, 388\",\"Verg. En. 6, 201\",\"Ov. Met. 1, 620\"],\"notas\":\"Reescrita e normalização a partir do OCR; definições consolidadas com LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_28569-e1",
     "volume_id": "faria",
     "doc_name": "chunk_28569",
@@ -4486,28 +3628,6 @@
     "notas": "Normalizado a partir de OCR confuso; inclusos os três gêneros e o advérbio atestado.",
     "raw_text": "{\"id\":\"chunk_28570:28570:0\",\"lemas\":[\"torvus\",\"torva\",\"torvum\"],\"lema_canonico\":\"torvus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"de aspecto ou caráter feroz, severo, ameaçador; olhos ou olhar penetrante; também usado adverbialmente (torvĭter).\",\"aliases\":[],\"exemplos\":[\"Verg. En. 7, 399\"],\"notas\":\"Normalizado a partir de OCR confuso; inclusos os três gêneros e o advérbio atestado.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_28570:28570:0\",\"lemas\":[\"torvus\",\"torva\",\"torvum\"],\"lema_canonico\":\"torvus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"de aspecto ou caráter feroz, severo, ameaçador; olhos ou olhar penetrante; também usado adverbialmente (torvĭter).\",\"aliases\":[],\"exemplos\":[\"Verg. En. 7, 399\"],\"notas\":\"Normalizado a partir de OCR confuso; inclusos os três gêneros e o advérbio atestado.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_28571-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28571",
-    "page_num": 28571,
-    "lemmas": [
-      "torvus",
-      "torvus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Torvus: que olha com expressão feroz/ameaçadora; severo, sombrio, selvagem; usado tanto no sentido literal (olhar) quanto figurado (caráter).",
-    "exemplos": [],
-    "notas": "Formas pluralizadas/variantes confirmadas em LS e Whitaker; definições resumidas dessas fontes. | [dedupe] redirect → chunk_28570:28570:0 | [dedupe] redirect → chunk_28570:28570:0",
-    "raw_text": "{\"id\":\"chunk_28571:28571:0\",\"lemas\":[\"torvus\",\"torva\",\"torvum\"],\"lema_canonico\":\"torvus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Torvus: que olha com expressão feroz/ameaçadora; severo, sombrio, selvagem; usado tanto no sentido literal (olhar) quanto figurado (caráter).\",\"aliases\":[],\"exemplos\":[\"Ov. M. 5, 92\",\"Verg. A. 3, 677\",\"Hor. Ep. 1, 19, 12\"],\"notas\":\"Formas pluralizadas/variantes confirmadas em LS e Whitaker; definições resumidas dessas fontes.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28571:28571:0\",\"lemas\":[\"torvus\",\"torva\",\"torvum\"],\"lema_canonico\":\"torvus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Torvus: que olha com expressão feroz/ameaçadora; severo, sombrio, selvagem; usado tanto no sentido literal (olhar) quanto figurado (caráter).\",\"aliases\":[],\"exemplos\":[\"Ov. M. 5, 92\",\"Verg. A. 3, 677\",\"Hor. Ep. 1, 19, 12\"],\"notas\":\"Formas pluralizadas/variantes confirmadas em LS e Whitaker; definições resumidas dessas fontes.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_28572-e1",
@@ -4554,28 +3674,6 @@
     "raw_json": "{\"id\":\"chunk_28573:28573:1\",\"lemas\":[\"tōtid\"],\"lema_canonico\":\"tōtid\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Forma dativa atestada apenas em fontes corrompidas; suposta dativa arcaica/poética de totus.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada incierta: forma não atestada em LS/Whitaker; mantida a leitura da primeira passada para revisão.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_28573-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_28573",
-    "page_num": 28573,
-    "lemmas": [
-      "tot",
-      "tot"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "Numeral/advérbio indeclinável: 'tantos, tão grande número'; usado frequentemente em correlação com quot, quotiens, quantum ou em construções correlativas.",
-    "exemplos": [],
-    "notas": "Numeral indeclinável tratado com morfologia próxima ('s. indecl.'); marcado morph_out_of_vocab por não haver etiqueta numeral específica no vocabulário permitido. | [dedupe] redirect → chunk_28549:28549:6 | [dedupe] redirect → chunk_28549:28549:6",
-    "raw_text": "{\"id\":\"chunk_28573:28573:0\",\"lemas\":[\"tot\"],\"lema_canonico\":\"tot\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Numeral/advérbio indeclinável: 'tantos, tão grande número'; usado frequentemente em correlação com quot, quotiens, quantum ou em construções correlativas.\",\"aliases\":[],\"exemplos\":[\"Cic. Fin. 1, 15 (quot homines, tot sententiae)\",\"Caes. B. G. 3, 10, 20\",\"Ov. M. 14\"],\"notas\":\"Numeral indeclinável tratado com morfologia próxima ('s. indecl.'); marcado morph_out_of_vocab por não haver etiqueta numeral específica no vocabulário permitido.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_28573:28573:0\",\"lemas\":[\"tot\"],\"lema_canonico\":\"tot\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Numeral/advérbio indeclinável: 'tantos, tão grande número'; usado frequentemente em correlação com quot, quotiens, quantum ou em construções correlativas.\",\"aliases\":[],\"exemplos\":[\"Cic. Fin. 1, 15 (quot homines, tot sententiae)\",\"Caes. B. G. 3, 10, 20\",\"Ov. M. 14\"],\"notas\":\"Numeral indeclinável tratado com morfologia próxima ('s. indecl.'); marcado morph_out_of_vocab por não haver etiqueta numeral específica no vocabulário permitido.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}"
-  },
-  {
     "id": "chunk_28574-e1",
     "volume_id": "faria",
     "doc_name": "chunk_28574",
@@ -4620,50 +3718,6 @@
     "raw_json": "{\"id\":\"chunk_28575:28575:0\",\"lemas\":[\"toties\"],\"lema_canonico\":\"toties\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"so often; so many times; that many times\",\"aliases\":[],\"exemplos\":[\"Cic. At. 7, 12, 3\",\"Cic. De Or. 1, 251\"],\"notas\":\"Forma adverbial confirmada; relaciona-se com num. tot (see parallels).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_28576-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28576",
-    "page_num": 28576,
-    "lemmas": [
-      "totus",
-      "totus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "totus (gen. totius): inteiro, todo, completo; totius é a forma genitiva de totus.",
-    "exemplos": [],
-    "notas": "Entrada retificada: totius é genitivo de totus (corrigido OCR). | [dedupe] redirect → chunk_28578:28578:0 | [dedupe] redirect → chunk_28578:28578:0",
-    "raw_text": "{\"id\":\"chunk_28576:28576:0\",\"lemas\":[\"totus\",\"totius\"],\"lema_canonico\":\"totus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"totus (gen. totius): inteiro, todo, completo; totius é a forma genitiva de totus.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada retificada: totius é genitivo de totus (corrigido OCR).\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28576:28576:0\",\"lemas\":[\"totus\",\"totius\"],\"lema_canonico\":\"totus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"totus (gen. totius): inteiro, todo, completo; totius é a forma genitiva de totus.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada retificada: totius é genitivo de totus (corrigido OCR).\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_28577-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28577",
-    "page_num": 28577,
-    "lemmas": [
-      "totus",
-      "totus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "totus, -a, -um: todo, inteiro, completo; totum = neutro nominativo/accusativo singular.",
-    "exemplos": [],
-    "notas": "Corrigido erro de OCR que confundia tōtum (perf. de tondeō) com totum 'todo'. | [dedupe] redirect → chunk_28578:28578:0 | [dedupe] redirect → chunk_28578:28578:0",
-    "raw_text": "{\"id\":\"chunk_28577:28577:0\",\"lemas\":[\"totus\",\"totum\"],\"lema_canonico\":\"totus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"totus, -a, -um: todo, inteiro, completo; totum = neutro nominativo/accusativo singular.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigido erro de OCR que confundia tōtum (perf. de tondeō) com totum 'todo'.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28577:28577:0\",\"lemas\":[\"totus\",\"totum\"],\"lema_canonico\":\"totus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"totus, -a, -um: todo, inteiro, completo; totum = neutro nominativo/accusativo singular.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigido erro de OCR que confundia tōtum (perf. de tondeō) com totum 'todo'.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_28578-e1",
     "volume_id": "faria",
     "doc_name": "chunk_28578",
@@ -4684,50 +3738,6 @@
     "notas": "Unificadas formas correntes (totus, tota, totum). Genitivo -ius assinalado conforme tradição.",
     "raw_text": "{\"id\":\"chunk_28578:28578:0\",\"lemas\":[\"totus\",\"tota\",\"totum\",\"tōtum\"],\"lema_canonico\":\"totus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"inteiro, todo, completo, total; por extensão, toda a totalidade, o todo (substantivado neutro tōtum, -i, n.)\",\"aliases\":[],\"exemplos\":[\"Cic. Tim. 22\"],\"notas\":\"Unificadas formas correntes (totus, tota, totum). Genitivo -ius assinalado conforme tradição.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_28578:28578:0\",\"lemas\":[\"totus\",\"tota\",\"totum\",\"tōtum\"],\"lema_canonico\":\"totus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"inteiro, todo, completo, total; por extensão, toda a totalidade, o todo (substantivado neutro tōtum, -i, n.)\",\"aliases\":[],\"exemplos\":[\"Cic. Tim. 22\"],\"notas\":\"Unificadas formas correntes (totus, tota, totum). Genitivo -ius assinalado conforme tradição.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_28579-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28579",
-    "page_num": 28579,
-    "lemmas": [
-      "totus",
-      "totus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Todo, inteiro; inteiro em sua totalidade; também usado em locuções adverbiais (ex toto, in totum).",
-    "exemplos": [],
-    "notas": "Normalizações de macron e breve incluídas; definição alinhada com LS/Whitaker. | [dedupe] redirect → chunk_28578:28578:0 | [dedupe] redirect → chunk_28578:28578:0",
-    "raw_text": "{\"id\":\"chunk_28579:28579:0\",\"lemas\":[\"totus\",\"tōtus\",\"tŏtus\"],\"lema_canonico\":\"totus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Todo, inteiro; inteiro em sua totalidade; também usado em locuções adverbiais (ex toto, in totum).\",\"aliases\":[],\"exemplos\":[\"Cic. Mil. 61\",\"Sen. Ir. 1, 12, 6\",\"Sen. Ep. 72, 6\"],\"notas\":\"Normalizações de macron e breve incluídas; definição alinhada com LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28579:28579:0\",\"lemas\":[\"totus\",\"tōtus\",\"tŏtus\"],\"lema_canonico\":\"totus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Todo, inteiro; inteiro em sua totalidade; também usado em locuções adverbiais (ex toto, in totum).\",\"aliases\":[],\"exemplos\":[\"Cic. Mil. 61\",\"Sen. Ir. 1, 12, 6\",\"Sen. Ep. 72, 6\"],\"notas\":\"Normalizações de macron e breve incluídas; definição alinhada com LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_28580-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28580",
-    "page_num": 28580,
-    "lemmas": [
-      "tōtus",
-      "tōtus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "todo, inteiro, total; também usado com sentido raro 'tão grande' (tŏtus).",
-    "exemplos": [],
-    "notas": "Normalizado grafia e lemas; incluídos exemplos e nota sobre sentido raro conforme LS. | [dedupe] redirect → chunk_28578:28578:0 | [dedupe] redirect → chunk_28578:28578:0",
-    "raw_text": "{\"id\":\"chunk_28580:28580:0\",\"lemas\":[\"tōtus\",\"tota\",\"tōtum\"],\"lema_canonico\":\"tōtus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"todo, inteiro, total; também usado com sentido raro 'tão grande' (tŏtus).\",\"aliases\":[],\"exemplos\":[\"Col. 5, 3, 5\",\"Lucr. 1, 984\",\"Caes. B. G. 7, 89\"],\"notas\":\"Normalizado grafia e lemas; incluídos exemplos e nota sobre sentido raro conforme LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28580:28580:0\",\"lemas\":[\"tōtus\",\"tota\",\"tōtum\"],\"lema_canonico\":\"tōtus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"todo, inteiro, total; também usado com sentido raro 'tão grande' (tŏtus).\",\"aliases\":[],\"exemplos\":[\"Col. 5, 3, 5\",\"Lucr. 1, 984\",\"Caes. B. G. 7, 89\"],\"notas\":\"Normalizado grafia e lemas; incluídos exemplos e nota sobre sentido raro conforme LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_28581-e1",
@@ -4860,28 +3870,6 @@
     "notas": "Normalizado para adjetivo 1/2 conforme Whitaker/Lat→Deu; entrada original como substantivo parece OCR errônea.",
     "raw_text": "{\"id\":\"chunk_28586:28586:0\",\"lemas\":[\"trabeatus\",\"trabeata\",\"trabeatum\"],\"lema_canonico\":\"trabeatus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"vestido com a trabea; que usa a toga trabea (toga com listas coloridas)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizado para adjetivo 1/2 conforme Whitaker/Lat→Deu; entrada original como substantivo parece OCR errônea.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_28586:28586:0\",\"lemas\":[\"trabeatus\",\"trabeata\",\"trabeatum\"],\"lema_canonico\":\"trabeatus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"vestido com a trabea; que usa a toga trabea (toga com listas coloridas)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizado para adjetivo 1/2 conforme Whitaker/Lat→Deu; entrada original como substantivo parece OCR errônea.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_28587-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28587",
-    "page_num": 28587,
-    "lemmas": [
-      "trabeatus",
-      "trabeatus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Vestido com a trabea; também como substantivo feminino trabeata, espécie de drama referido a cavaleiros.",
-    "exemplos": [],
-    "notas": "Unificação da grafia latina clássica e inclusão da substantivação registrada no LS. | [dedupe] redirect → chunk_28586:28586:0 | [dedupe] redirect → chunk_28586:28586:0",
-    "raw_text": "{\"id\":\"chunk_28587:28587:0\",\"lemas\":[\"trabeatus\",\"trabe-ata\"],\"lema_canonico\":\"trabeatus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Vestido com a trabea; também como substantivo feminino trabeata, espécie de drama referido a cavaleiros.\",\"aliases\":[\"trăbĕātus\",\"trăbĕ-āta\",\"trabe-āta\"],\"exemplos\":[\"Ov. F. 1, 37\",\"Ov. M. 14, 828\",\"Tac. Ann. 3, 2\",\"Suet. Dom. 14\",\"Val. Max. 2, 2, 9\",\"Stat. Silv. 4, 2, 32\",\"Suet. Gram. 21\"],\"notas\":\"Unificação da grafia latina clássica e inclusão da substantivação registrada no LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28587:28587:0\",\"lemas\":[\"trabeatus\",\"trabe-ata\"],\"lema_canonico\":\"trabeatus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Vestido com a trabea; também como substantivo feminino trabeata, espécie de drama referido a cavaleiros.\",\"aliases\":[\"trăbĕātus\",\"trăbĕ-āta\",\"trabe-āta\"],\"exemplos\":[\"Ov. F. 1, 37\",\"Ov. M. 14, 828\",\"Tac. Ann. 3, 2\",\"Suet. Dom. 14\",\"Val. Max. 2, 2, 9\",\"Stat. Silv. 4, 2, 32\",\"Suet. Gram. 21\"],\"notas\":\"Unificação da grafia latina clássica e inclusão da substantivação registrada no LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_28588-e1",

@@ -1,27 +1,5 @@
 [
   {
-    "id": "chunk_23600-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_23600",
-    "page_num": 23600,
-    "lemmas": [
-      "quintus",
-      "quintus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "ordinal: o quinto; também usado como prenome romano (Quintus, abreviado Q.).",
-    "exemplos": [],
-    "notas": "Abrange sentido ordinal e prenome conforme LS e Whitaker. | [dedupe] redirect → chunk_23550:23550:0 | [dedupe] redirect → chunk_23550:23550:0",
-    "raw_text": "{\"id\":\"chunk_23600:23600:0\",\"lemas\":[\"quintus\"],\"lema_canonico\":\"quintus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"ordinal: o quinto; também usado como prenome romano (Quintus, abreviado Q.).\",\"aliases\":[],\"exemplos\":[\"Cic. Inv. 1, 102\"],\"notas\":\"Abrange sentido ordinal e prenome conforme LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_23600:23600:0\",\"lemas\":[\"quintus\"],\"lema_canonico\":\"quintus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"ordinal: o quinto; também usado como prenome romano (Quintus, abreviado Q.).\",\"aliases\":[],\"exemplos\":[\"Cic. Inv. 1, 102\"],\"notas\":\"Abrange sentido ordinal e prenome conforme LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_23601-e1",
     "volume_id": "faria",
     "doc_name": "chunk_23601",
@@ -64,50 +42,6 @@
     "notas": "Corrigida a forma corrompida do OCR para quindecimus; confirmada por LS e Whitaker.",
     "raw_text": "{\"id\":\"chunk_23602:23602:0\",\"lemas\":[\"quindecimus\"],\"lema_canonico\":\"quindecimus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"décimo quinto (ordinal).\",\"aliases\":[],\"exemplos\":[\"Liv. 45, 33, 8\"],\"notas\":\"Corrigida a forma corrompida do OCR para quindecimus; confirmada por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_23602:23602:0\",\"lemas\":[\"quindecimus\"],\"lema_canonico\":\"quindecimus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"décimo quinto (ordinal).\",\"aliases\":[],\"exemplos\":[\"Liv. 45, 33, 8\"],\"notas\":\"Corrigida a forma corrompida do OCR para quindecimus; confirmada por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_23603-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_23603",
-    "page_num": 23603,
-    "lemmas": [
-      "e",
-      "e"
-    ],
-    "morfologia": "prep. com abl.",
-    "morph_render": "prep. com abl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "fora de, desde, por; por causa de; segundo; em consequência de (prep. + abl.).",
-    "exemplos": [],
-    "notas": "Normalizado para a forma prep. com abl.; inclui variante gráﬁca literária 'E'. | [dedupe] redirect → chunk_17879:17879:0 | [dedupe] redirect → chunk_17879:17879:0",
-    "raw_text": "{\"id\":\"chunk_23603:23603:0\",\"lemas\":[\"e\",\"E\"],\"lema_canonico\":\"e\",\"morfologia\":\"prep. com abl.\",\"morph_extra\":[],\"definicao\":\"fora de, desde, por; por causa de; segundo; em consequência de (prep. + abl.).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizado para a forma prep. com abl.; inclui variante gráﬁca literária 'E'.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_23603:23603:0\",\"lemas\":[\"e\",\"E\"],\"lema_canonico\":\"e\",\"morfologia\":\"prep. com abl.\",\"morph_extra\":[],\"definicao\":\"fora de, desde, por; por causa de; segundo; em consequência de (prep. + abl.).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizado para a forma prep. com abl.; inclui variante gráﬁca literária 'E'.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_23603-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_23603",
-    "page_num": 23603,
-    "lemmas": [
-      "quid",
-      "quid"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "quem? / o que?; quanto?; por que?; também indefinido: algo, alguém (interrog., relativo ou indefinido segundo o contexto).",
-    "exemplos": [],
-    "notas": "Lema unificado para 'quid' (correção de OCR 'qu/id'). Morfologia real: pronome; tag de morfologia ajustada fora do vocabulário disponível. | [dedupe] redirect → chunk_23526:23526:0 | [dedupe] redirect → chunk_23526:23526:0",
-    "raw_text": "{\"id\":\"chunk_23603:23603:1\",\"lemas\":[\"quid\"],\"lema_canonico\":\"quid\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"quem? / o que?; quanto?; por que?; também indefinido: algo, alguém (interrog., relativo ou indefinido segundo o contexto).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Lema unificado para 'quid' (correção de OCR 'qu/id'). Morfologia real: pronome; tag de morfologia ajustada fora do vocabulário disponível.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"conf:high\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_23603:23603:1\",\"lemas\":[\"quid\"],\"lema_canonico\":\"quid\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"quem? / o que?; quanto?; por que?; também indefinido: algo, alguém (interrog., relativo ou indefinido segundo o contexto).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Lema unificado para 'quid' (correção de OCR 'qu/id'). Morfologia real: pronome; tag de morfologia ajustada fora do vocabulário disponível.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"conf:high\",\"morph_out_of_vocab\"]}"
   },
   {
     "id": "chunk_23603-e3",
@@ -220,50 +154,6 @@
     "raw_json": "{\"id\":\"chunk_23607:23607:0\",\"lemas\":[\"Quirīnus\"],\"lema_canonico\":\"Quirīnus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Quirino, epíteto/divindade (Romulus apoteosado); adjet. relativo ao Quirinal; usado poeticamente como título (p.ex. para Augusto)\",\"aliases\":[],\"exemplos\":[\"Tac. Ann. 2, 30\"],\"notas\":\"Definição condensada a partir de Lewis & Short; forma de declinação normalizada.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_23608-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_23608",
-    "page_num": 23608,
-    "lemmas": [
-      "Quirinalis",
-      "Quirinalis"
-    ],
-    "morfologia": "adj. (3) 3T",
-    "morph_render": "adj. (3) 3T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Relativo ao Quirinal (colina de Roma); adjectivo (p. ex. collis Quirinalis).",
-    "exemplos": [],
-    "notas": "Aderido à forma e flexão de Lewis & Short e Whitaker; classificado como adjetivo da 3.ª declinação. | [dedupe] redirect → chunk_23606:23606:0 | [dedupe] redirect → chunk_23606:23606:0",
-    "raw_text": "{\"id\":\"chunk_23608:23608:0\",\"lemas\":[\"Quirinalis\",\"Quirīnālis\"],\"lema_canonico\":\"Quirinalis\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"Relativo ao Quirinal (colina de Roma); adjectivo (p. ex. collis Quirinalis).\",\"aliases\":[\"Quirinalis (subst. Quirinalia)\"],\"exemplos\":[\"Ov. Met. 14, 836\"],\"notas\":\"Aderido à forma e flexão de Lewis & Short e Whitaker; classificado como adjetivo da 3.ª declinação.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_23608:23608:0\",\"lemas\":[\"Quirinalis\",\"Quirīnālis\"],\"lema_canonico\":\"Quirinalis\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"Relativo ao Quirinal (colina de Roma); adjectivo (p. ex. collis Quirinalis).\",\"aliases\":[\"Quirinalis (subst. Quirinalia)\"],\"exemplos\":[\"Ov. Met. 14, 836\"],\"notas\":\"Aderido à forma e flexão de Lewis & Short e Whitaker; classificado como adjetivo da 3.ª declinação.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_23609-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_23609",
-    "page_num": 23609,
-    "lemmas": [
-      "Quĭrīnus",
-      "Quĭrīnus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Nome próprio; Romulus deificado (cultic name Quirinus); adjectival use 'of Quirinus/Quirinal' in poetry; applied to some emperors.",
-    "exemplos": [],
-    "notas": "Unido nome e forma adjetiva; adjetival forms incluídas como variantes. | [dedupe] redirect → chunk_23607:23607:0 | [dedupe] redirect → chunk_23607:23607:0 | [ocr_fix 2025-08-17T19:59:58Z] match direto em LS por lemma/lemma_norm | lemma_in='Quīrinus' → 'Quĭrīnus'",
-    "raw_text": "{\"id\":\"chunk_23609:23609:0\",\"lemas\":[\"Quīrinus\",\"Quīrīna\",\"Quīrīnum\"],\"lema_canonico\":\"Quīrinus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Nome próprio; Romulus deificado (cultic name Quirinus); adjectival use 'of Quirinus/Quirinal' in poetry; applied to some emperors.\",\"aliases\":[],\"exemplos\":[\"Ov. F. 2, 477\",\"Macr. Saturn. 15, 21\",\"Cic. Rep. 2, 20\",\"Suet. Aug. 22, 3\"],\"notas\":\"Unido nome e forma adjetiva; adjetival forms incluídas como variantes.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_23609:23609:0\",\"lemas\":[\"Quīrinus\",\"Quīrīna\",\"Quīrīnum\"],\"lema_canonico\":\"Quīrinus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Nome próprio; Romulus deificado (cultic name Quirinus); adjectival use 'of Quirinus/Quirinal' in poetry; applied to some emperors.\",\"aliases\":[],\"exemplos\":[\"Ov. F. 2, 477\",\"Macr. Saturn. 15, 21\",\"Cic. Rep. 2, 20\",\"Suet. Aug. 22, 3\"],\"notas\":\"Unido nome e forma adjetiva; adjetival forms incluídas como variantes.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_23610-e1",
     "volume_id": "faria",
     "doc_name": "chunk_23610",
@@ -374,28 +264,6 @@
     "raw_json": "{\"id\":\"chunk_23613:23613:0\",\"lemas\":[\"quīritāre\",\"quīritō\"],\"lema_canonico\":\"quīritāre\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"(depon.) clamar por socorro; invocar os Quirites; lamentar, bradar; em particular, proferir um clamor público\",\"aliases\":[],\"exemplos\":[\"Liv. 39, 8\"],\"notas\":\"Lema dado na forma do infinitivo; marcador 'dep.' por tratamento deponencial conforme LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_23614-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_23614",
-    "page_num": 23614,
-    "lemmas": [
-      "quis",
-      "quis"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "Pronomes interrogativo/indefinido: quem?, o que?, algum, qualquer; usado como interrog. e indef. em várias funções (substantivo e adjetivo).",
-    "exemplos": [],
-    "notas": "Entrada reúne formas masculina/feminina/neutra; morfologia real é 'pron.' (fora do vocabulário morfológico exigido) — marcação como 's. indecl.' por aproximação. | [dedupe] redirect → chunk_23500:23500:0 | [dedupe] redirect → chunk_23500:23500:0",
-    "raw_text": "{\"id\":\"chunk_23614:23614:0\",\"lemas\":[\"quis\",\"quae\",\"quid\",\"quod\"],\"lema_canonico\":\"quis\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Pronomes interrogativo/indefinido: quem?, o que?, algum, qualquer; usado como interrog. e indef. em várias funções (substantivo e adjetivo).\",\"aliases\":[],\"exemplos\":[\"Cic. Lael. 12, 42\",\"Cic. Cat. 1, 2, 12\",\"Cic. Nat. 3, 87\",\"Cic. Par. 44\"],\"notas\":\"Entrada reúne formas masculina/feminina/neutra; morfologia real é 'pron.' (fora do vocabulário morfológico exigido) — marcação como 's. indecl.' por aproximação.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_23614:23614:0\",\"lemas\":[\"quis\",\"quae\",\"quid\",\"quod\"],\"lema_canonico\":\"quis\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Pronomes interrogativo/indefinido: quem?, o que?, algum, qualquer; usado como interrog. e indef. em várias funções (substantivo e adjetivo).\",\"aliases\":[],\"exemplos\":[\"Cic. Lael. 12, 42\",\"Cic. Cat. 1, 2, 12\",\"Cic. Nat. 3, 87\",\"Cic. Par. 44\"],\"notas\":\"Entrada reúne formas masculina/feminina/neutra; morfologia real é 'pron.' (fora do vocabulário morfológico exigido) — marcação como 's. indecl.' por aproximação.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}"
-  },
-  {
     "id": "chunk_23615-e1",
     "volume_id": "faria",
     "doc_name": "chunk_23615",
@@ -460,28 +328,6 @@
     "notas": "Variante quippiam atestada (LS); lista de lemas normalizada e lema canônico=quispiam.",
     "raw_text": "{\"id\":\"chunk_23615:23615:1\",\"lemas\":[\"quispiam\",\"quaepiam\",\"quodpiam\",\"quidpiam\",\"quippiam\"],\"lema_canonico\":\"quispiam\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"pronome indefinido: ‘alguém, algum, qualquer; algo’; também usado com sentido partitivo (‘em alguma coisa’)\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 3, 111\",\"Cic. Nat. 3, 86\"],\"notas\":\"Variante quippiam atestada (LS); lista de lemas normalizada e lema canônico=quispiam.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_firstpass\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_23615:23615:1\",\"lemas\":[\"quispiam\",\"quaepiam\",\"quodpiam\",\"quidpiam\",\"quippiam\"],\"lema_canonico\":\"quispiam\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"pronome indefinido: ‘alguém, algum, qualquer; algo’; também usado com sentido partitivo (‘em alguma coisa’)\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 3, 111\",\"Cic. Nat. 3, 86\"],\"notas\":\"Variante quippiam atestada (LS); lista de lemas normalizada e lema canônico=quispiam.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_firstpass\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_23615-e4",
-    "volume_id": "faria",
-    "doc_name": "chunk_23615",
-    "page_num": 23615,
-    "lemmas": [
-      "quisquam",
-      "quisquam"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "pronome indefinido: ‘alguém, alguma coisa’; usado principalmente em frases negativas, interrogativas ou dubitativas",
-    "exemplos": [],
-    "notas": "Formas e sentido confirmados por LS e Lat→Deu; canônico quisquam. | [dedupe] redirect → chunk_23523:23523:0 | [dedupe] redirect → chunk_23523:23523:0",
-    "raw_text": "{\"id\":\"chunk_23615:23615:2\",\"lemas\":[\"quisquam\",\"quaequam\",\"quodquam\",\"quidquam\",\"quicquam\"],\"lema_canonico\":\"quisquam\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"pronome indefinido: ‘alguém, alguma coisa’; usado principalmente em frases negativas, interrogativas ou dubitativas\",\"aliases\":[],\"exemplos\":[\"Liv. 2, 9, 8\",\"Liv. 3, 45\",\"Cic. Tm. 18\"],\"notas\":\"Formas e sentido confirmados por LS e Lat→Deu; canônico quisquam.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_firstpass\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_23615:23615:2\",\"lemas\":[\"quisquam\",\"quaequam\",\"quodquam\",\"quidquam\",\"quicquam\"],\"lema_canonico\":\"quisquam\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"pronome indefinido: ‘alguém, alguma coisa’; usado principalmente em frases negativas, interrogativas ou dubitativas\",\"aliases\":[],\"exemplos\":[\"Liv. 2, 9, 8\",\"Liv. 3, 45\",\"Cic. Tm. 18\"],\"notas\":\"Formas e sentido confirmados por LS e Lat→Deu; canônico quisquam.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_firstpass\",\"conf:high\"]}"
   },
   {
     "id": "chunk_23616-e1",
@@ -572,28 +418,6 @@
     "raw_json": "{\"id\":\"chunk_23618:23618:0\",\"lemas\":[\"quius\"],\"lema_canonico\":\"quius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"(como atestado no OCR) particípio perfeito passivo atribuído a queo; leitura incerta — forma e análise não confirmadas por fontes externas.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Leitura proveniente da primeira passada / OCR; não encontrada em LS/Whitaker; precisa de verificação.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_23619-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_23619",
-    "page_num": 23619,
-    "lemmas": [
-      "queo",
-      "queo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "poder, ser capaz; conseguir (com formas irregulares que exprimem presença e capacidade).",
-    "exemplos": [],
-    "notas": "Verbs irregular; forms queō, quīre, quīvī, quitum attested. | [dedupe] redirect → chunk_23544:23544:0 | [dedupe] redirect → chunk_23544:23544:0",
-    "raw_text": "{\"id\":\"chunk_23619:23619:0\",\"lemas\":[\"queo\",\"quire\"],\"lema_canonico\":\"queo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"poder, ser capaz; conseguir (com formas irregulares que exprimem presença e capacidade).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Verbs irregular; forms queō, quīre, quīvī, quitum attested.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_23619:23619:0\",\"lemas\":[\"queo\",\"quire\"],\"lema_canonico\":\"queo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"poder, ser capaz; conseguir (com formas irregulares que exprimem presença e capacidade).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Verbs irregular; forms queō, quīre, quīvī, quitum attested.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"morph_out_of_vocab\"]}"
-  },
-  {
     "id": "chunk_23619-e2",
     "volume_id": "faria",
     "doc_name": "chunk_23619",
@@ -680,28 +504,6 @@
     "notas": "Sentidos e exemplos alinhados com Lewis & Short e Whitaker.",
     "raw_text": "{\"id\":\"chunk_23621:23621:0\",\"lemas\":[\"quo\"],\"lema_canonico\":\"quo\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"Advérbio/pronome: para onde; a que lugar; também 'por que/por que razão', e usado como conjunção em construções causais/trop.\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 8, 10\",\"Cic. Div. 2, 66\",\"Hor. C. 1, 38, 3\"],\"notas\":\"Sentidos e exemplos alinhados com Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_23621:23621:0\",\"lemas\":[\"quo\"],\"lema_canonico\":\"quo\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"Advérbio/pronome: para onde; a que lugar; também 'por que/por que razão', e usado como conjunção em construções causais/trop.\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 8, 10\",\"Cic. Div. 2, 66\",\"Hor. C. 1, 38, 3\"],\"notas\":\"Sentidos e exemplos alinhados com Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_23622-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_23622",
-    "page_num": 23622,
-    "lemmas": [
-      "quo",
-      "quo"
-    ],
-    "morfologia": "adv.",
-    "morph_render": "adv.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "adv./conj.: 'onde; para onde; por que razão; para que' — também usado em construções comparativas (quo... eo = quanto mais... tanto mais).",
-    "exemplos": [],
-    "notas": "Consolidei usos e referências; preferi grafia sem macron para lema, mantendo sentidos indicados por LS/Whitaker. | [dedupe] redirect → chunk_23621:23621:0 | [dedupe] redirect → chunk_23621:23621:0",
-    "raw_text": "{\"id\":\"chunk_23622:23622:0\",\"lemas\":[\"quo\"],\"lema_canonico\":\"quo\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"adv./conj.: 'onde; para onde; por que razão; para que' — também usado em construções comparativas (quo... eo = quanto mais... tanto mais).\",\"aliases\":[],\"exemplos\":[\"Cic. Lael. 86\",\"Cic. Fin. 3, 41\",\"Hor. Sat. 2, 1, 37\",\"Cic. Quint. 5\",\"Cic. Fin. 3, 43\",\"Cic. Amer. 121\",\"Cic. Or. 3, 33\",\"Cic. Verr. 4, 26\",\"Cic. Clu. 9, 140\",\"Cic. Fam. 7, 2, 1\"],\"notas\":\"Consolidei usos e referências; preferi grafia sem macron para lema, mantendo sentidos indicados por LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_23622:23622:0\",\"lemas\":[\"quo\"],\"lema_canonico\":\"quo\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"adv./conj.: 'onde; para onde; por que razão; para que' — também usado em construções comparativas (quo... eo = quanto mais... tanto mais).\",\"aliases\":[],\"exemplos\":[\"Cic. Lael. 86\",\"Cic. Fin. 3, 41\",\"Hor. Sat. 2, 1, 37\",\"Cic. Quint. 5\",\"Cic. Fin. 3, 43\",\"Cic. Amer. 121\",\"Cic. Or. 3, 33\",\"Cic. Verr. 4, 26\",\"Cic. Clu. 9, 140\",\"Cic. Fam. 7, 2, 1\"],\"notas\":\"Consolidei usos e referências; preferi grafia sem macron para lema, mantendo sentidos indicados por LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_23623-e1",
@@ -836,28 +638,6 @@
     "raw_json": "{\"id\":\"chunk_23627:23627:0\",\"lemas\":[\"quodammodo\",\"quodam\",\"modo\"],\"lema_canonico\":\"quodammodo\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"De algum modo; de certa maneira (equivalente a quodam modo).\",\"aliases\":[\"quodam modo\"],\"exemplos\":[\"Cic. Br. 261\"],\"notas\":\"Normalizado para a forma junta clássica 'quodammodo' (≃ 'quodam modo'); apoiado por edições e dicionários.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_23628-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_23628",
-    "page_num": 23628,
-    "lemmas": [
-      "qui",
-      "qui"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "Pron. relativo/indefinido: dat./abl. cui; here noting an archaic spelling attested as 'quôi' = cui.",
-    "exemplos": [],
-    "notas": "Entrada indica forma arcaica 'quôi' = cui; morfologia de pronome fora do vocabulário alvo.\n[ocr_pipeline 2025-08-16T23:17:06.641781Z] lemma_in='qui' → 'qui' | motivo: match direto em LS por lemma/lemma_norm | [ocr_fix 2025-08-17T01:14:14Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='qui' → 'qui' | [dedupe] redirect → chunk_23498:23498:2 | [dedupe] redirect → chunk_23498:23498:2",
-    "raw_text": "{\"id\":\"chunk_23628:23628:1\",\"lemas\":[\"qui\"],\"lema_canonico\":\"qui\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Pron. relativo/indefinido: dat./abl. cui; here noting an archaic spelling attested as 'quôi' = cui.\",\"aliases\":[\"quôi\"],\"exemplos\":[],\"notas\":\"Entrada indica forma arcaica 'quôi' = cui; morfologia de pronome fora do vocabulário alvo.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_23628:23628:1\",\"lemas\":[\"qui\"],\"lema_canonico\":\"qui\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Pron. relativo/indefinido: dat./abl. cui; here noting an archaic spelling attested as 'quôi' = cui.\",\"aliases\":[\"quôi\"],\"exemplos\":[],\"notas\":\"Entrada indica forma arcaica 'quôi' = cui; morfologia de pronome fora do vocabulário alvo.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\",\"morph_out_of_vocab\"]}"
-  },
-  {
     "id": "chunk_23628-e2",
     "volume_id": "faria",
     "doc_name": "chunk_23628",
@@ -922,28 +702,6 @@
     "notas": "Normalizada a forma listada por Whitaker; variantes ortográficas incluídas.",
     "raw_text": "{\"id\":\"chunk_23630:23630:0\",\"lemas\":[\"quoius\",\"quojus\"],\"lema_canonico\":\"quoius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Variante arcaica/alternativa de cuius — 'of whom?', 'whose?'.\",\"aliases\":[\"cuius\"],\"exemplos\":[],\"notas\":\"Normalizada a forma listada por Whitaker; variantes ortográficas incluídas.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_23630:23630:0\",\"lemas\":[\"quoius\",\"quojus\"],\"lema_canonico\":\"quoius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Variante arcaica/alternativa de cuius — 'of whom?', 'whose?'.\",\"aliases\":[\"cuius\"],\"exemplos\":[],\"notas\":\"Normalizada a forma listada por Whitaker; variantes ortográficas incluídas.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_23631-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_23631",
-    "page_num": 23631,
-    "lemmas": [
-      "cujus",
-      "cujus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "gen. de qui, quae, quod: de quem; cujo(a). Também usada como pronome relativo/interrogativo (of whom, whose).",
-    "exemplos": [],
-    "notas": "Grafias antigas/poéticas (quōjus) incluídas; removidas leituras corrompidas do OCR. | [dedupe] redirect → chunk_23629:23629:0 | [dedupe] redirect → chunk_23629:23629:0",
-    "raw_text": "{\"id\":\"chunk_23631:23631:0\",\"lemas\":[\"cujus\",\"quōjus\"],\"lema_canonico\":\"cujus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"gen. de qui, quae, quod: de quem; cujo(a). Também usada como pronome relativo/interrogativo (of whom, whose).\",\"aliases\":[],\"exemplos\":[\"Plaut. Curc. 1, 2, 18\",\"Plaut. Ps. 2, 4, 11\",\"Plaut. Rud. 2, 3, 2\",\"Plaut. Trin. 1, 2, 7\",\"Ter. Eun. 2, 3, 29\",\"Verg. Ecl. 3, 1\"],\"notas\":\"Grafias antigas/poéticas (quōjus) incluídas; removidas leituras corrompidas do OCR.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_23631:23631:0\",\"lemas\":[\"cujus\",\"quōjus\"],\"lema_canonico\":\"cujus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"gen. de qui, quae, quod: de quem; cujo(a). Também usada como pronome relativo/interrogativo (of whom, whose).\",\"aliases\":[],\"exemplos\":[\"Plaut. Curc. 1, 2, 18\",\"Plaut. Ps. 2, 4, 11\",\"Plaut. Rud. 2, 3, 2\",\"Plaut. Trin. 1, 2, 7\",\"Ter. Eun. 2, 3, 29\",\"Verg. Ecl. 3, 1\"],\"notas\":\"Grafias antigas/poéticas (quōjus) incluídas; removidas leituras corrompidas do OCR.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_23632-e1",
@@ -1210,28 +968,6 @@
     "raw_json": "{\"id\":\"chunk_23642:23642:1\",\"lemas\":[\"quoque\"],\"lema_canonico\":\"quoque\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"também, igualmente; partícula enclítica adicionada à palavra enfatizada (also, too).\",\"aliases\":[],\"exemplos\":[\"Caes. B. G. 1, 1\",\"Cic. Rab. Post. 12, 33\"],\"notas\":\"Forma registrada em LS como quŏque/quōque; funciona como adv. enclítico.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_23643-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_23643",
-    "page_num": 23643,
-    "lemmas": [
-      "quoque",
-      "quoque"
-    ],
-    "morfologia": "adv.",
-    "morph_render": "adv.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "também; igualmente; ainda.",
-    "exemplos": [],
-    "notas": "Grafia normalizada para quoque; variantes diacríticas preservadas. | [dedupe] redirect → chunk_23642:23642:1 | [dedupe] redirect → chunk_23642:23642:1",
-    "raw_text": "{\"id\":\"chunk_23643:23643:0\",\"lemas\":[\"quoque\",\"quŏque\",\"quōque\"],\"lema_canonico\":\"quoque\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"também; igualmente; ainda.\",\"aliases\":[],\"exemplos\":[\"Caes. B. Gall. 1, 1\",\"Cic. Verr. 3, 206\"],\"notas\":\"Grafia normalizada para quoque; variantes diacríticas preservadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_23643:23643:0\",\"lemas\":[\"quoque\",\"quŏque\",\"quōque\"],\"lema_canonico\":\"quoque\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"também; igualmente; ainda.\",\"aliases\":[],\"exemplos\":[\"Caes. B. Gall. 1, 1\",\"Cic. Verr. 3, 206\"],\"notas\":\"Grafia normalizada para quoque; variantes diacríticas preservadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_23644-e1",
     "volume_id": "faria",
     "doc_name": "chunk_23644",
@@ -1474,50 +1210,6 @@
     "raw_json": "{\"id\":\"chunk_23653:23653:0\",\"lemas\":[\"quotidianus\",\"quotidiano\"],\"lema_canonico\":\"quotidianus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"diário, quotidiano; habitual, comum\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Inclui variante quotidiano; adv. quotidie é forma adverbial relacionada.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_23654-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_23654",
-    "page_num": 23654,
-    "lemmas": [
-      "quotidianus",
-      "quotidianus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "diário, quotidiano; também: comum, habitual, ordinário.",
-    "exemplos": [],
-    "notas": "Formas listadas (masc./fem./neut.); definição suportada por Whitaker e Lat→Deu. | [dedupe] redirect → chunk_23653:23653:0 | [dedupe] redirect → chunk_23653:23653:0",
-    "raw_text": "{\"id\":\"chunk_23654:23654:0\",\"lemas\":[\"quotidianus\",\"quotidiana\",\"quotidianum\"],\"lema_canonico\":\"quotidianus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"diário, quotidiano; também: comum, habitual, ordinário.\",\"aliases\":[],\"exemplos\":[\"Caes. B. Gal. 3, 17\",\"Caes. B. Gal. 4\",\"Cic. Fam. 9, 21, 1\"],\"notas\":\"Formas listadas (masc./fem./neut.); definição suportada por Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_23654:23654:0\",\"lemas\":[\"quotidianus\",\"quotidiana\",\"quotidianum\"],\"lema_canonico\":\"quotidianus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"diário, quotidiano; também: comum, habitual, ordinário.\",\"aliases\":[],\"exemplos\":[\"Caes. B. Gal. 3, 17\",\"Caes. B. Gal. 4\",\"Cic. Fam. 9, 21, 1\"],\"notas\":\"Formas listadas (masc./fem./neut.); definição suportada por Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_23655-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_23655",
-    "page_num": 23655,
-    "lemmas": [
-      "quotidie",
-      "quotidie"
-    ],
-    "morfologia": "adv.",
-    "morph_render": "adv.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "diariamente; todos os dias",
-    "exemplos": [],
-    "notas": "[dedupe] redirect → chunk_23650:23650:0 | [dedupe] redirect → chunk_23650:23650:0",
-    "raw_text": "{\"id\":\"chunk_23655:23655:0\",\"lemas\":[\"quotidie\"],\"lema_canonico\":\"quotidie\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"diariamente; todos os dias\",\"aliases\":[],\"exemplos\":[\"Cic. Phil. 1, 5\"],\"notas\":\"\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_23655:23655:0\",\"lemas\":[\"quotidie\"],\"lema_canonico\":\"quotidie\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"diariamente; todos os dias\",\"aliases\":[],\"exemplos\":[\"Cic. Phil. 1, 5\"],\"notas\":\"\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_23656-e1",
     "volume_id": "faria",
     "doc_name": "chunk_23656",
@@ -1604,50 +1296,6 @@
     "notas": "Grafia e classificação confirmadas com Lewis & Short e Lat→Deu",
     "raw_text": "{\"id\":\"chunk_23659:23659:0\",\"lemas\":[\"quotumus\"],\"lema_canonico\":\"quotumus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"de que número; de que ordem (Plauto) — ‘of what number, on what day (by number)’\",\"aliases\":[],\"exemplos\":[\"Plaut. Ps. 962\"],\"notas\":\"Grafia e classificação confirmadas com Lewis & Short e Lat→Deu\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_23659:23659:0\",\"lemas\":[\"quotumus\"],\"lema_canonico\":\"quotumus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"de que número; de que ordem (Plauto) — ‘of what number, on what day (by number)’\",\"aliases\":[],\"exemplos\":[\"Plaut. Ps. 962\"],\"notas\":\"Grafia e classificação confirmadas com Lewis & Short e Lat→Deu\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_23660-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_23660",
-    "page_num": 23660,
-    "lemmas": [
-      "quotus",
-      "quotus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "de que número?/qual na ordem?; indica posição ou número (which in order; what number of).",
-    "exemplos": [],
-    "notas": "Atestado em LS e Whitaker; usado interrogativamente e em frases sobre ordem/quantidade. | [dedupe] redirect → chunk_23652:23652:0 | [dedupe] redirect → chunk_23652:23652:0",
-    "raw_text": "{\"id\":\"chunk_23660:23660:0\",\"lemas\":[\"quotus\",\"quota\",\"quotum\"],\"lema_canonico\":\"quotus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"de que número?/qual na ordem?; indica posição ou número (which in order; what number of).\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 2, 3, 94\",\"Hor. S. 2, 6, 44\"],\"notas\":\"Atestado em LS e Whitaker; usado interrogativamente e em frases sobre ordem/quantidade.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_23660:23660:0\",\"lemas\":[\"quotus\",\"quota\",\"quotum\"],\"lema_canonico\":\"quotus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"de que número?/qual na ordem?; indica posição ou número (which in order; what number of).\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 2, 3, 94\",\"Hor. S. 2, 6, 44\"],\"notas\":\"Atestado em LS e Whitaker; usado interrogativamente e em frases sobre ordem/quantidade.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_23661-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_23661",
-    "page_num": 23661,
-    "lemmas": [
-      "quotus",
-      "quotus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "de que número; quantos; (com -cumque) 'quantos quer que sejam', 'how manysoever'",
-    "exemplos": [],
-    "notas": "Unificadas variantes atestadas (quotuscumque, quotacumque, quotumcumque) e marcada forma-base 'quotus'. | [dedupe] redirect → chunk_23652:23652:0 | [dedupe] redirect → chunk_23652:23652:0",
-    "raw_text": "{\"id\":\"chunk_23661:23661:0\",\"lemas\":[\"quotus\",\"quotuscumque\",\"quotacumque\",\"quotumcumque\"],\"lema_canonico\":\"quotus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"de que número; quantos; (com -cumque) 'quantos quer que sejam', 'how manysoever'\",\"aliases\":[],\"exemplos\":[\"Tib. 2, 6, 54\"],\"notas\":\"Unificadas variantes atestadas (quotuscumque, quotacumque, quotumcumque) e marcada forma-base 'quotus'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_23661:23661:0\",\"lemas\":[\"quotus\",\"quotuscumque\",\"quotacumque\",\"quotumcumque\"],\"lema_canonico\":\"quotus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"de que número; quantos; (com -cumque) 'quantos quer que sejam', 'how manysoever'\",\"aliases\":[],\"exemplos\":[\"Tib. 2, 6, 54\"],\"notas\":\"Unificadas variantes atestadas (quotuscumque, quotacumque, quotumcumque) e marcada forma-base 'quotus'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_23661-e2",
@@ -1760,28 +1408,6 @@
     "raw_json": "{\"id\":\"chunk_23664:23664:0\",\"lemas\":[\"rabidus\",\"rabide\"],\"lema_canonico\":\"rabidus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"furious, raging, mad; adverb form rabide = rabidly, frenziedly\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 5, 16\",\"Lucr. 5, 892\"],\"notas\":\"Inclui forma adverbial rabide; lema canônico tomado como o adjetivo (rabidus)\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_23665-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_23665",
-    "page_num": 23665,
-    "lemmas": [
-      "rabidus",
-      "rabidus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Furioso, enfurecido, selvagem; usado também em sentido poético (espumante, em delírio).",
-    "exemplos": [],
-    "notas": "Unificado com as formas e sentidos atestados em Lewis & Short e Whitaker; normalizadas referências. | [dedupe] redirect → chunk_23664:23664:0 | [dedupe] redirect → chunk_23664:23664:0",
-    "raw_text": "{\"id\":\"chunk_23665:23665:0\",\"lemas\":[\"rabidus\",\"rabida\",\"rabidum\"],\"lema_canonico\":\"rabidus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Furioso, enfurecido, selvagem; usado também em sentido poético (espumante, em delírio).\",\"aliases\":[],\"exemplos\":[\"Verg. G. 2, 151\",\"Sen. Ira 1, 12, 5\",\"Verg. Aen. 6, 102\"],\"notas\":\"Unificado com as formas e sentidos atestados em Lewis & Short e Whitaker; normalizadas referências.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_23665:23665:0\",\"lemas\":[\"rabidus\",\"rabida\",\"rabidum\"],\"lema_canonico\":\"rabidus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Furioso, enfurecido, selvagem; usado também em sentido poético (espumante, em delírio).\",\"aliases\":[],\"exemplos\":[\"Verg. G. 2, 151\",\"Sen. Ira 1, 12, 5\",\"Verg. Aen. 6, 102\"],\"notas\":\"Unificado com as formas e sentidos atestados em Lewis & Short e Whitaker; normalizadas referências.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_23666-e1",
     "volume_id": "faria",
     "doc_name": "chunk_23666",
@@ -1826,28 +1452,6 @@
     "raw_json": "{\"id\":\"chunk_23667:23667:0\",\"lemas\":[\"rabies\",\"rabiēs\"],\"lema_canonico\":\"rabies\",\"morfologia\":\"s. fem. 5ª (-ei)\",\"morph_extra\":[],\"definicao\":\"1) raiva (doença); 2) fúria, violência, delírio.\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 5, 9\",\"Verg. Aen. 6, 49\",\"Lucr. 4, 1693\"],\"notas\":\"Grafia normalizada e declinação conforme Lewis & Short/Whitaker; genitivo variantes atestadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_23668-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_23668",
-    "page_num": 23668,
-    "lemmas": [
-      "rabio",
-      "rabio"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "rāvĕre; estar louco, delirar, enfurecer-se (uso poético e em prosa pós‑augústea).",
-    "exemplos": [],
-    "notas": "Normalizada para infinitivo -ēre conforme Lewis & Short e Lat→Deu; intranzitivo. | [dedupe] redirect → chunk_22356:22356:1 | [dedupe] redirect → chunk_22356:22356:1",
-    "raw_text": "{\"id\":\"chunk_23668:23668:0\",\"lemas\":[\"rabio\",\"răbĭo\"],\"lema_canonico\":\"rabio\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"rāvĕre; estar louco, delirar, enfurecer-se (uso poético e em prosa pós‑augústea).\",\"aliases\":[],\"exemplos\":[\"Sen. Ep. 29, 7\",\"Cic. Div. 1, 31, 66\",\"Varr. ap. Non. 40, 2\"],\"notas\":\"Normalizada para infinitivo -ēre conforme Lewis & Short e Lat→Deu; intranzitivo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_23668:23668:0\",\"lemas\":[\"rabio\",\"răbĭo\"],\"lema_canonico\":\"rabio\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"rāvĕre; estar louco, delirar, enfurecer-se (uso poético e em prosa pós‑augústea).\",\"aliases\":[],\"exemplos\":[\"Sen. Ep. 29, 7\",\"Cic. Div. 1, 31, 66\",\"Varr. ap. Non. 40, 2\"],\"notas\":\"Normalizada para infinitivo -ēre conforme Lewis & Short e Lat→Deu; intranzitivo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_23669-e1",
     "volume_id": "faria",
     "doc_name": "chunk_23669",
@@ -1890,50 +1494,6 @@
     "notas": "Adjetivo atestado em Lewis & Short; advérbio correspondente răbĭōsē citado por LS.",
     "raw_text": "{\"id\":\"chunk_23670:23670:0\",\"lemas\":[\"rabiosus\",\"rabiōsus\"],\"lema_canonico\":\"rabiosus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"rabid, raging; furioso, espantosamente furioso (aplic. a cães e homens).\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 7, 16, 1\"],\"notas\":\"Adjetivo atestado em Lewis & Short; advérbio correspondente răbĭōsē citado por LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_23670:23670:0\",\"lemas\":[\"rabiosus\",\"rabiōsus\"],\"lema_canonico\":\"rabiosus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"rabid, raging; furioso, espantosamente furioso (aplic. a cães e homens).\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 7, 16, 1\"],\"notas\":\"Adjetivo atestado em Lewis & Short; advérbio correspondente răbĭōsē citado por LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_23671-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_23671",
-    "page_num": 23671,
-    "lemmas": [
-      "rabiosus",
-      "rabiosus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "rabioso; feroz, furioso, enlouquecido",
-    "exemplos": [],
-    "notas": "Formas e significados alinhados com LS e Whitaker. | [dedupe] redirect → chunk_23670:23670:0 | [dedupe] redirect → chunk_23670:23670:0",
-    "raw_text": "{\"id\":\"chunk_23671:23671:0\",\"lemas\":[\"rabiosus\",\"rabiosa\",\"rabiosum\"],\"lema_canonico\":\"rabiosus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"rabioso; feroz, furioso, enlouquecido\",\"aliases\":[],\"exemplos\":[\"Hor. Ep. 2, 2, 75\",\"Cic. Tusc. 4, 50\",\"Plaut. Capt. 547\"],\"notas\":\"Formas e significados alinhados com LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_23671:23671:0\",\"lemas\":[\"rabiosus\",\"rabiosa\",\"rabiosum\"],\"lema_canonico\":\"rabiosus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"rabioso; feroz, furioso, enlouquecido\",\"aliases\":[],\"exemplos\":[\"Hor. Ep. 2, 2, 75\",\"Cic. Tusc. 4, 50\",\"Plaut. Capt. 547\"],\"notas\":\"Formas e significados alinhados com LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_23672-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_23672",
-    "page_num": 23672,
-    "lemmas": [
-      "Racilius",
-      "Racilius"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "de Rablírio (gentilício)",
-    "exemplos": [],
-    "notas": "Grafia e origem incertas; mantido conforme primeira passada e OCR\n[ocr_pipeline 2025-08-16T23:21:23.672172Z] lemma_in='Rablīriānus' → 'Racilius' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:19:57Z] match direto em LS por lemma/lemma_norm | lemma_in='Racilius' → 'Racilius' | [dedupe] redirect → chunk_23681:23681:0 | [dedupe] redirect → chunk_23681:23681:0",
-    "raw_text": "{\"id\":\"chunk_23672:23672:0\",\"lemas\":[\"Rablīriānus\"],\"lema_canonico\":\"Rablīriānus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"de Rablírio (gentilício)\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 1, 6, 1\"],\"notas\":\"Grafia e origem incertas; mantido conforme primeira passada e OCR\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_23672:23672:0\",\"lemas\":[\"Rablīriānus\"],\"lema_canonico\":\"Rablīriānus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"de Rablírio (gentilício)\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 1, 6, 1\"],\"notas\":\"Grafia e origem incertas; mantido conforme primeira passada e OCR\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
     "id": "chunk_23673-e1",
@@ -2398,28 +1958,6 @@
     "raw_json": "{\"id\":\"chunk_23688:23688:0\",\"lemas\":[\"radicula\"],\"lema_canonico\":\"radicula\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"pequena raiz; radícula\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 2, 136\"],\"notas\":\"Forma e declinação confirmadas por LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_23689-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_23689",
-    "page_num": 23689,
-    "lemmas": [
-      "radio",
-      "radio"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "radiare: emitir raios; irradiar; (trans.) munir de raios, tornar radiante",
-    "exemplos": [],
-    "notas": "Formas participiais (radiatus, radians) atestadas; normalizado a partir de LS/Whitaker/Lat→Deu | [dedupe] redirect → chunk_23682:23682:2 | [dedupe] redirect → chunk_23682:23682:2",
-    "raw_text": "{\"id\":\"chunk_23689:23689:0\",\"lemas\":[\"radio\"],\"lema_canonico\":\"radio\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"radiare: emitir raios; irradiar; (trans.) munir de raios, tornar radiante\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 2, 4\",\"Ov. Fast. 3, 4, 103\",\"Verg. G. 2, 389\"],\"notas\":\"Formas participiais (radiatus, radians) atestadas; normalizado a partir de LS/Whitaker/Lat→Deu\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_23689:23689:0\",\"lemas\":[\"radio\"],\"lema_canonico\":\"radio\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"radiare: emitir raios; irradiar; (trans.) munir de raios, tornar radiante\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 2, 4\",\"Ov. Fast. 3, 4, 103\",\"Verg. G. 2, 389\"],\"notas\":\"Formas participiais (radiatus, radians) atestadas; normalizado a partir de LS/Whitaker/Lat→Deu\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_23690-e1",
     "volume_id": "faria",
     "doc_name": "chunk_23690",
@@ -2440,28 +1978,6 @@
     "notas": "Formas e sentido alinhados com LS/Whitaker; exemplo plauteano conforme LS.",
     "raw_text": "{\"id\":\"chunk_23690:23690:0\",\"lemas\":[\"radiosus\",\"radiosa\",\"radiosum\"],\"lema_canonico\":\"radiosus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"que emite raios; radioso, resplandecente\",\"aliases\":[],\"exemplos\":[\"Plaut. Stich. 2, 2, 41\"],\"notas\":\"Formas e sentido alinhados com LS/Whitaker; exemplo plauteano conforme LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_23690:23690:0\",\"lemas\":[\"radiosus\",\"radiosa\",\"radiosum\"],\"lema_canonico\":\"radiosus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"que emite raios; radioso, resplandecente\",\"aliases\":[],\"exemplos\":[\"Plaut. Stich. 2, 2, 41\"],\"notas\":\"Formas e sentido alinhados com LS/Whitaker; exemplo plauteano conforme LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_23691-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_23691",
-    "page_num": 23691,
-    "lemmas": [
-      "radius",
-      "radius"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Haste, vara, raio (de roda), semidiametro; também peça de tear e outros objetos em forma de haste.",
-    "exemplos": [],
-    "notas": "Grafia normalizada (radius), sentidos resumidos a partir de LS, Whitaker e Lat→Deu. | [dedupe] redirect → chunk_23683:23683:0 | [dedupe] redirect → chunk_23683:23683:0",
-    "raw_text": "{\"id\":\"chunk_23691:23691:0\",\"lemas\":[\"radius\"],\"lema_canonico\":\"radius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Haste, vara, raio (de roda), semidiametro; também peça de tear e outros objetos em forma de haste.\",\"aliases\":[],\"exemplos\":[\"Liv. 34, 5, 11\",\"Cic. Tusc. 5, 64\",\"Verg. A. 6, 616\",\"Plin. Nat. 11, 257\",\"Verg. En. 9, 476\"],\"notas\":\"Grafia normalizada (radius), sentidos resumidos a partir de LS, Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_23691:23691:0\",\"lemas\":[\"radius\"],\"lema_canonico\":\"radius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Haste, vara, raio (de roda), semidiametro; também peça de tear e outros objetos em forma de haste.\",\"aliases\":[],\"exemplos\":[\"Liv. 34, 5, 11\",\"Cic. Tusc. 5, 64\",\"Verg. A. 6, 616\",\"Plin. Nat. 11, 257\",\"Verg. En. 9, 476\"],\"notas\":\"Grafia normalizada (radius), sentidos resumidos a partir de LS, Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_23692-e1",
@@ -2618,28 +2134,6 @@
     "raw_json": "{\"id\":\"chunk_23696:23696:1\",\"lemas\":[\"Raeti\",\"Rhaeti\",\"Raetia\",\"Rhaetia\",\"Raeticus\",\"Rhaeticus\",\"Raetius\",\"Raetus\"],\"lema_canonico\":\"Raeti\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[\"morph_out_of_vocab\"],\"definicao\":\"the Rætians, a mountain people north of the Po; also Raetia, the country; Raeticus, adjectival\",\"aliases\":[],\"exemplos\":[\"Plin. 3, 20, 24\",\"Plin. 3, 19, 23\",\"Liv. 5, 33\",\"Tac. H. 1, 68\",\"Hor. C. 4, 14\"],\"notas\":\"Formas e sentido ampliados a partir de Lewis & Short and Lat→Deu. Ethnic/plural lemma mapped to closest 2nd-declension tag; flagged morph_out_of_vocab.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\",\"morph_out_of_vocab\"]}"
   },
   {
-    "id": "chunk_23696-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_23696",
-    "page_num": 23696,
-    "lemmas": [
-      "Rhaeti",
-      "Rhaeti"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Formas variantes/etnónimo: ver Raeti/Rhaeti (povo rhaeto-alpino).",
-    "exemplos": [],
-    "notas": "Entradas variantes que redirecionam para Raeti; mantida indicação de equivalência conforme LS e Lat→Deu.",
-    "raw_text": "{\"id\":\"chunk_23696:23696:2\",\"lemas\":[\"Rhaeti\",\"Rhaetia\",\"Rhaeticus\",\"Rhaetus\"],\"lema_canonico\":\"Rhaeti\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Formas variantes/etnónimo: ver Raeti/Rhaeti (povo rhaeto-alpino).\",\"aliases\":[\"Raeti\"],\"exemplos\":[],\"notas\":\"Entradas variantes que redirecionam para Raeti; mantida indicação de equivalência conforme LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_23696:23696:2\",\"lemas\":[\"Rhaeti\",\"Rhaetia\",\"Rhaeticus\",\"Rhaetus\"],\"lema_canonico\":\"Rhaeti\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Formas variantes/etnónimo: ver Raeti/Rhaeti (povo rhaeto-alpino).\",\"aliases\":[\"Raeti\"],\"exemplos\":[],\"notas\":\"Entradas variantes que redirecionam para Raeti; mantida indicação de equivalência conforme LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\",\"redirect_only\"]}"
-  },
-  {
     "id": "chunk_23697-e1",
     "volume_id": "faria",
     "doc_name": "chunk_23697",
@@ -2728,28 +2222,6 @@
     "raw_json": "{\"id\":\"chunk_23700:23700:0\",\"lemas\":[\"ramenta\",\"ramentum\"],\"lema_canonico\":\"ramentum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"ramentum (freq. pl. ramenta): aparas, raspas, lascas, fragmentos; geralmente usado no plural\",\"aliases\":[],\"exemplos\":[\"Plaut. Bac. 513\"],\"notas\":\"Entrada para a forma plural ramenta vinculada ao lema ramentum; baseada em LS e Whitaker\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_23701-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_23701",
-    "page_num": 23701,
-    "lemmas": [
-      "ramentum",
-      "ramentum"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "aparas, raspas, lascas; shavings/chips (freq. plur.)",
-    "exemplos": [],
-    "notas": "Concorda com definições e exemplos em Lewis & Short e Whitaker | [dedupe] redirect → chunk_23700:23700:0 | [dedupe] redirect → chunk_23700:23700:0",
-    "raw_text": "{\"id\":\"chunk_23701:23701:0\",\"lemas\":[\"ramentum\"],\"lema_canonico\":\"ramentum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"aparas, raspas, lascas; shavings/chips (freq. plur.)\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 24, 6\",\"Plaut. Bac. 680\"],\"notas\":\"Concorda com definições e exemplos em Lewis & Short e Whitaker\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_23701:23701:0\",\"lemas\":[\"ramentum\"],\"lema_canonico\":\"ramentum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"aparas, raspas, lascas; shavings/chips (freq. plur.)\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 24, 6\",\"Plaut. Bac. 680\"],\"notas\":\"Concorda com definições e exemplos em Lewis & Short e Whitaker\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_23702-e1",
     "volume_id": "faria",
     "doc_name": "chunk_23702",
@@ -2770,28 +2242,6 @@
     "notas": "Normalizada grafia e morfologia conforme LS e Whitaker",
     "raw_text": "{\"id\":\"chunk_23702:23702:0\",\"lemas\":[\"ramosus\",\"rāmōsus\"],\"lema_canonico\":\"ramosus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"cheio de ramos; ramalhudo, muito ramificado\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 21, 89\",\"Ov. Met. 9, 733\"],\"notas\":\"Normalizada grafia e morfologia conforme LS e Whitaker\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_23702:23702:0\",\"lemas\":[\"ramosus\",\"rāmōsus\"],\"lema_canonico\":\"ramosus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"cheio de ramos; ramalhudo, muito ramificado\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 21, 89\",\"Ov. Met. 9, 733\"],\"notas\":\"Normalizada grafia e morfologia conforme LS e Whitaker\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_23703-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_23703",
-    "page_num": 23703,
-    "lemmas": [
-      "ramulus",
-      "ramulus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "pequeno ramo, raminho, galho pequeno; twig, little branch",
-    "exemplos": [],
-    "notas": "Normalizado a partir do OCR; forma e gênero confirmados por LS/Whitaker | [dedupe] redirect → chunk_23699:23699:0 | [dedupe] redirect → chunk_23699:23699:0",
-    "raw_text": "{\"id\":\"chunk_23703:23703:0\",\"lemas\":[\"ramulus\"],\"lema_canonico\":\"ramulus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"pequeno ramo, raminho, galho pequeno; twig, little branch\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 1, 54, 123\"],\"notas\":\"Normalizado a partir do OCR; forma e gênero confirmados por LS/Whitaker\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_23703:23703:0\",\"lemas\":[\"ramulus\"],\"lema_canonico\":\"ramulus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"pequeno ramo, raminho, galho pequeno; twig, little branch\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 1, 54, 123\"],\"notas\":\"Normalizado a partir do OCR; forma e gênero confirmados por LS/Whitaker\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_23704-e1",
@@ -2836,28 +2286,6 @@
     "notas": "Lema provavelmente corrompido por OCR; forma e sentidos não confirmados em dicionários principais",
     "raw_text": "{\"id\":\"chunk_23705:23705:0\",\"lemas\":[\"raina\"],\"lema_canonico\":\"raina\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Rā/rá: (como apresentado na fonte) divindade solar; também citado como 'rã do mar' (peixe) — leitura incerta\",\"aliases\":[],\"exemplos\":[\"Verg. G. 1, 378\",\"Cic. Nat. 2, 125\"],\"notas\":\"Lema provavelmente corrompido por OCR; forma e sentidos não confirmados em dicionários principais\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_23705:23705:0\",\"lemas\":[\"raina\"],\"lema_canonico\":\"raina\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Rā/rá: (como apresentado na fonte) divindade solar; também citado como 'rã do mar' (peixe) — leitura incerta\",\"aliases\":[],\"exemplos\":[\"Verg. G. 1, 378\",\"Cic. Nat. 2, 125\"],\"notas\":\"Lema provavelmente corrompido por OCR; forma e sentidos não confirmados em dicionários principais\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_23706-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_23706",
-    "page_num": 23706,
-    "lemmas": [
-      "rancidus",
-      "rancidus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "ranzoso; rancídeo, putrefato; figurado: desagradável, repulsivo",
-    "exemplos": [],
-    "notas": "Grafia e sentidos confirmados em LS e Whitaker | [dedupe] redirect → chunk_23682:23682:4 | [dedupe] redirect → chunk_23682:23682:4",
-    "raw_text": "{\"id\":\"chunk_23706:23706:0\",\"lemas\":[\"rancidus\",\"rancĭdus\"],\"lema_canonico\":\"rancidus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"ranzoso; rancídeo, putrefato; figurado: desagradável, repulsivo\",\"aliases\":[],\"exemplos\":[\"Hor. Sat. 2, 2, 89\",\"Plin. H. Nat. 22, 92\"],\"notas\":\"Grafia e sentidos confirmados em LS e Whitaker\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_23706:23706:0\",\"lemas\":[\"rancidus\",\"rancĭdus\"],\"lema_canonico\":\"rancidus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"ranzoso; rancídeo, putrefato; figurado: desagradável, repulsivo\",\"aliases\":[],\"exemplos\":[\"Hor. Sat. 2, 2, 89\",\"Plin. H. Nat. 22, 92\"],\"notas\":\"Grafia e sentidos confirmados em LS e Whitaker\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_23707-e1",
@@ -2970,28 +2398,6 @@
     "raw_json": "{\"id\":\"chunk_23710:23710:1\",\"lemas\":[\"do\",\"dare\"],\"lema_canonico\":\"do\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"dar; conceder, oferecer, entregar; também: dedicar, atribuir, causar; (ver formas principais: dedi, datum).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Lema normalizado ao presente e infinitivo; definições resumidas a partir de LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_23710-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_23710",
-    "page_num": 23710,
-    "lemmas": [
-      "desum",
-      "desum"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "faltar, estar ausente; deixar de ajudar; negligenciar (ver formas: defui, defuturus).",
-    "exemplos": [],
-    "notas": "Entrada tratada como verbo irregular derivado de esse; morfologia padronizada à forma disponível, marcar revisão se necessário. | [dedupe] redirect → chunk_7440:7440:4 | [dedupe] redirect → chunk_7440:7440:4",
-    "raw_text": "{\"id\":\"chunk_23710:23710:2\",\"lemas\":[\"desum\",\"deesse\"],\"lema_canonico\":\"desum\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"faltar, estar ausente; deixar de ajudar; negligenciar (ver formas: defui, defuturus).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada tratada como verbo irregular derivado de esse; morfologia padronizada à forma disponível, marcar revisão se necessário.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_23710:23710:2\",\"lemas\":[\"desum\",\"deesse\"],\"lema_canonico\":\"desum\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"faltar, estar ausente; deixar de ajudar; negligenciar (ver formas: defui, defuturus).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada tratada como verbo irregular derivado de esse; morfologia padronizada à forma disponível, marcar revisão se necessário.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_23710-e4",
     "volume_id": "faria",
     "doc_name": "chunk_23710",
@@ -3056,28 +2462,6 @@
     "notas": "Genitivo -ācis confirmado e grafia unificada; sentidos consolidados a partir de LS e Whitaker.",
     "raw_text": "{\"id\":\"chunk_23712:23712:0\",\"lemas\":[\"rapax\"],\"lema_canonico\":\"rapax\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[],\"definicao\":\"Que agarra ou devora; raivoso, rapace; também usado como substantivo para animal de rapina ou pessoa ávida de despojo.\",\"aliases\":[],\"exemplos\":[\"Lucr. 3, 650\",\"Ov. A. A. 1, 388\",\"Sen. Ep. 96, 36\",\"Cic. Pis.\",\"Catull. 15, 19\",\"Plin. Nat. 11, 45, 101\"],\"notas\":\"Genitivo -ācis confirmado e grafia unificada; sentidos consolidados a partir de LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_23712:23712:0\",\"lemas\":[\"rapax\"],\"lema_canonico\":\"rapax\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[],\"definicao\":\"Que agarra ou devora; raivoso, rapace; também usado como substantivo para animal de rapina ou pessoa ávida de despojo.\",\"aliases\":[],\"exemplos\":[\"Lucr. 3, 650\",\"Ov. A. A. 1, 388\",\"Sen. Ep. 96, 36\",\"Cic. Pis.\",\"Catull. 15, 19\",\"Plin. Nat. 11, 45, 101\"],\"notas\":\"Genitivo -ācis confirmado e grafia unificada; sentidos consolidados a partir de LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_23713-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_23713",
-    "page_num": 23713,
-    "lemmas": [
-      "rapax",
-      "rapax"
-    ],
-    "morfologia": "adj. (3) 1T",
-    "morph_render": "adj. (3) 1T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "rapace; ávido por saquear, preda dor",
-    "exemplos": [],
-    "notas": "Morfologia e sentido conforme LS e Whitaker (rapāx, rapācis) | [dedupe] redirect → chunk_23712:23712:0 | [dedupe] redirect → chunk_23712:23712:0",
-    "raw_text": "{\"id\":\"chunk_23713:23713:0\",\"lemas\":[\"rapax\"],\"lema_canonico\":\"rapax\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[],\"definicao\":\"rapace; ávido por saquear, preda dor\",\"aliases\":[],\"exemplos\":[\"Tac. Hist. 2, 43\",\"Tac. Hist. 3, 22\"],\"notas\":\"Morfologia e sentido conforme LS e Whitaker (rapāx, rapācis)\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_23713:23713:0\",\"lemas\":[\"rapax\"],\"lema_canonico\":\"rapax\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[],\"definicao\":\"rapace; ávido por saquear, preda dor\",\"aliases\":[],\"exemplos\":[\"Tac. Hist. 2, 43\",\"Tac. Hist. 3, 22\"],\"notas\":\"Morfologia e sentido conforme LS e Whitaker (rapāx, rapācis)\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_23714-e1",
@@ -3234,28 +2618,6 @@
     "raw_json": "{\"id\":\"chunk_23720:23720:0\",\"lemas\":[\"rapsī\"],\"lema_canonico\":\"rapsī\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[],\"definicao\":\"registro gráfico atípico referido como forma de futuro perfeito de rapio; identificação incerta — possível leitura corrupta ou variante\",\"aliases\":[],\"exemplos\":[\"Cic. Leg. 2, 22\"],\"notas\":\"Forma incerta frente a formas atestadas (rapuerō / raptūrus); mantida da primeira passada para revisão.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_23721-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_23721",
-    "page_num": 23721,
-    "lemmas": [
-      "raptus",
-      "raptus"
-    ],
-    "morfologia": "s. masc. 4ª (-us)",
-    "morph_render": "s. masc. 4ª (-us)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "particípio perfeito passivo de rapio; como substantivo/adjetivo: rapto, arranque, rapina, entusão, plunder, seizure",
-    "exemplos": [],
-    "notas": "Registro duplo: participial e substantival (4ª decl.). Indicada a função de part. perf. pass. | [dedupe] redirect → chunk_23727:23727:0 | [dedupe] redirect → chunk_23727:23727:0",
-    "raw_text": "{\"id\":\"chunk_23721:23721:0\",\"lemas\":[\"raptus\",\"rapta\",\"raptum\"],\"lema_canonico\":\"raptus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de rapio; como substantivo/adjetivo: rapto, arranque, rapina, entusão, plunder, seizure\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Registro duplo: participial e substantival (4ª decl.). Indicada a função de part. perf. pass.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_23721:23721:0\",\"lemas\":[\"raptus\",\"rapta\",\"raptum\"],\"lema_canonico\":\"raptus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de rapio; como substantivo/adjetivo: rapto, arranque, rapina, entusão, plunder, seizure\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Registro duplo: participial e substantival (4ª decl.). Indicada a função de part. perf. pass.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_23722-e1",
     "volume_id": "faria",
     "doc_name": "chunk_23722",
@@ -3388,28 +2750,6 @@
     "raw_json": "{\"id\":\"chunk_23727:23727:0\",\"lemas\":[\"raptus\",\"rapta\",\"raptum\"],\"lema_canonico\":\"raptus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio passado de rapiō (arrebatado); como substantivo (raptus, -ūs, m.): ato de arrastar com violência; rapto, roubo, sequestro; sentido médico: espasmo, cãibra.\",\"aliases\":[],\"exemplos\":[\"Ov. M. 3, 722\",\"Plin. Nat. 16, 42, §225\",\"Tac. Ann. 2, 52\"],\"notas\":\"Particípio e substantivo documentados; morfologia como substantivo 4ª (-us) com marcação de part. perf. pass..\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_23728-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_23728",
-    "page_num": 23728,
-    "lemmas": [
-      "raptus",
-      "raptus"
-    ],
-    "morfologia": "s. masc. 4ª (-us)",
-    "morph_render": "s. masc. 4ª (-us)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "carrying off by force; rapto, roubo, arrebatação; também particípio de rapio",
-    "exemplos": [],
-    "notas": "Entrada reconhecida tanto como substantivo (raptus, -ūs) quanto como particípio de rapio; definição condensada. | [dedupe] redirect → chunk_23727:23727:0 | [dedupe] redirect → chunk_23727:23727:0",
-    "raw_text": "{\"id\":\"chunk_23728:23728:0\",\"lemas\":[\"raptus\"],\"lema_canonico\":\"raptus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"carrying off by force; rapto, roubo, arrebatação; também particípio de rapio\",\"aliases\":[],\"exemplos\":[\"Tac. An. 2, 52\",\"Cic. Verr. 4, 107\"],\"notas\":\"Entrada reconhecida tanto como substantivo (raptus, -ūs) quanto como particípio de rapio; definição condensada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_23728:23728:0\",\"lemas\":[\"raptus\"],\"lema_canonico\":\"raptus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"carrying off by force; rapto, roubo, arrebatação; também particípio de rapio\",\"aliases\":[],\"exemplos\":[\"Tac. An. 2, 52\",\"Cic. Verr. 4, 107\"],\"notas\":\"Entrada reconhecida tanto como substantivo (raptus, -ūs) quanto como particípio de rapio; definição condensada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_23729-e1",
     "volume_id": "faria",
     "doc_name": "chunk_23729",
@@ -3520,28 +2860,6 @@
     "raw_json": "{\"id\":\"chunk_23733:23733:0\",\"lemas\":[\"rarefacio\"],\"lema_canonico\":\"rarefacio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[],\"definicao\":\"tornar raro/afinar; rarefazer, tornar menos denso.\",\"aliases\":[],\"exemplos\":[\"Lucr. 6, 233\",\"Lucr. 1, 648\"],\"notas\":\"Comp. rārē-făcĭo (LS) e entradas Lat→Deu; tratado como composto de -facio (3ª -iō).\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_23733-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_23733",
-    "page_num": 23733,
-    "lemmas": [
-      "rārēre",
-      "rārēre"
-    ],
-    "morfologia": "v. 3ª -iō (-ere)",
-    "morph_render": "v. 3ª -iō (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Forma perfeita (grafia do testemunho) tratada como referência/forma não-lemma; redireciona para rarefacĭo.",
-    "raw_text": "{\"id\":\"chunk_23733:23733:1\",\"lemas\":[\"rārēre\"],\"lema_canonico\":\"rārēre\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"rarefacio\"],\"exemplos\":[],\"notas\":\"Forma perfeita (grafia do testemunho) tratada como referência/forma não-lemma; redireciona para rarefacĭo.\",\"flags\":[\"src_ls\",\"conf:high\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_23733:23733:1\",\"lemas\":[\"rārēre\"],\"lema_canonico\":\"rārēre\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"rarefacio\"],\"exemplos\":[],\"notas\":\"Forma perfeita (grafia do testemunho) tratada como referência/forma não-lemma; redireciona para rarefacĭo.\",\"flags\":[\"src_ls\",\"conf:high\",\"redirect_only\"]}"
-  },
-  {
     "id": "chunk_23733-e3",
     "volume_id": "faria",
     "doc_name": "chunk_23733",
@@ -3650,28 +2968,6 @@
     "notas": "",
     "raw_text": "{\"id\":\"chunk_23737:23737:0\",\"lemas\":[\"rārus\",\"rāra\",\"rārum\"],\"lema_canonico\":\"rārus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"escasso, pouco denso; espaçado, disperso; raro, pouco frequente; (poét.) notável, extraordinário\",\"aliases\":[],\"exemplos\":[\"Verg. A. 4, 131\",\"Cic. Rep. 6, 20\",\"Cic. Fin. 2, 81\",\"Tac. A. 4, 33\",\"Hor. S. 2, 2, 26\"],\"notas\":\"\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_23737:23737:0\",\"lemas\":[\"rārus\",\"rāra\",\"rārum\"],\"lema_canonico\":\"rārus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"escasso, pouco denso; espaçado, disperso; raro, pouco frequente; (poét.) notável, extraordinário\",\"aliases\":[],\"exemplos\":[\"Verg. A. 4, 131\",\"Cic. Rep. 6, 20\",\"Cic. Fin. 2, 81\",\"Tac. A. 4, 33\",\"Hor. S. 2, 2, 26\"],\"notas\":\"\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_23738-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_23738",
-    "page_num": 23738,
-    "lemmas": [
-      "rado",
-      "rado"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "raspar, raspar fora; barbear; mover rente/arrancar pelo atrito",
-    "exemplos": [],
-    "notas": "Infinitivo radere e supino rasum confirmados; sentidos conforme LS e Lat→Deu. | [dedupe] redirect → chunk_23693:23693:0 | [dedupe] redirect → chunk_23693:23693:0",
-    "raw_text": "{\"id\":\"chunk_23738:23738:0\",\"lemas\":[\"rado\",\"rādō\",\"radere\"],\"lema_canonico\":\"rado\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"raspar, raspar fora; barbear; mover rente/arrancar pelo atrito\",\"aliases\":[],\"exemplos\":[\"Cic. Rosc. (cit. LS)\",\"Plin. 11, 37, §157\"],\"notas\":\"Infinitivo radere e supino rasum confirmados; sentidos conforme LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_23738:23738:0\",\"lemas\":[\"rado\",\"rādō\",\"radere\"],\"lema_canonico\":\"rado\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"raspar, raspar fora; barbear; mover rente/arrancar pelo atrito\",\"aliases\":[],\"exemplos\":[\"Cic. Rosc. (cit. LS)\",\"Plin. 11, 37, §157\"],\"notas\":\"Infinitivo radere e supino rasum confirmados; sentidos conforme LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_23739-e1",
@@ -4092,28 +3388,6 @@
     "raw_json": "{\"id\":\"chunk_23757:23757:0\",\"lemas\":[\"raucus\",\"rauca\",\"raucum\"],\"lema_canonico\":\"raucus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"rouco; de voz áspera, raucous, hoarse.\",\"aliases\":[],\"exemplos\":[\"Lucr. 6, 1189\"],\"notas\":\"Normalizado a partir de Whitaker e Lewis & Short; formas inclusas como variantes flexionais.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_23757-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_23757",
-    "page_num": 23757,
-    "lemmas": [
-      "raucus",
-      "raucus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "variante flexional/adjetival de raucus (rouco); NÃO atestado como verbo no grande léxico; provável leitura equivocada do OCR como verbo.",
-    "exemplos": [],
-    "notas": "OCR apresentou como verbo ('rauco, is, ire...') mas dicionários (Whitaker, LS) registram apenas formas adjetivais/variantais; corrigido para adjetivo. | [dedupe] redirect → chunk_23757:23757:0 | [dedupe] redirect → chunk_23757:23757:0 | [ocr_fix 2025-08-17T19:59:58Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='raucus' → 'raucus'",
-    "raw_text": "{\"id\":\"chunk_23757:23757:1\",\"lemas\":[\"rauco\"],\"lema_canonico\":\"raucus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"variante flexional/adjetival de raucus (rouco); NÃO atestado como verbo no grande léxico; provável leitura equivocada do OCR como verbo.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"OCR apresentou como verbo ('rauco, is, ire...') mas dicionários (Whitaker, LS) registram apenas formas adjetivais/variantais; corrigido para adjetivo.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"src_ocr\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_23757:23757:1\",\"lemas\":[\"rauco\"],\"lema_canonico\":\"raucus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"variante flexional/adjetival de raucus (rouco); NÃO atestado como verbo no grande léxico; provável leitura equivocada do OCR como verbo.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"OCR apresentou como verbo ('rauco, is, ire...') mas dicionários (Whitaker, LS) registram apenas formas adjetivais/variantais; corrigido para adjetivo.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"src_ocr\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_23758-e1",
     "volume_id": "faria",
     "doc_name": "chunk_23758",
@@ -4136,28 +3410,6 @@
     "raw_json": "{\"id\":\"chunk_23758:23758:0\",\"lemas\":[\"rauciosus\",\"rauciosus\",\"raucĭōsus\"],\"lema_canonico\":\"rauciosus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"cheio de rouquidão; que tem som rouco (formação derivada de raucus); atestado de forma medieval/poética (precisar confirmação em fontes clássicas).\",\"aliases\":[],\"exemplos\":[\"Catul. 64, 263\"],\"notas\":\"Entrada incerta; forma não atestada em LS/Whitaker como lema separado — possivelmente formação derivada ou leitura de OCR.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_23758-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_23758",
-    "page_num": 23758,
-    "lemmas": [
-      "raucus",
-      "raucus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "rouco; que tem voz áspera ou som rude (hoarse, raucous).",
-    "exemplos": [],
-    "notas": "Forma canónica atestada em Lewis & Short e Whitaker. | [dedupe] redirect → chunk_23757:23757:0 | [dedupe] redirect → chunk_23757:23757:0",
-    "raw_text": "{\"id\":\"chunk_23758:23758:1\",\"lemas\":[\"raucus\",\"rauca\",\"raucum\"],\"lema_canonico\":\"raucus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"rouco; que tem voz áspera ou som rude (hoarse, raucous).\",\"aliases\":[],\"exemplos\":[\"Verg. E. 1, 58\",\"Lucr. 6, 1189\"],\"notas\":\"Forma canónica atestada em Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_23758:23758:1\",\"lemas\":[\"raucus\",\"rauca\",\"raucum\"],\"lema_canonico\":\"raucus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"rouco; que tem voz áspera ou som rude (hoarse, raucous).\",\"aliases\":[],\"exemplos\":[\"Verg. E. 1, 58\",\"Lucr. 6, 1189\"],\"notas\":\"Forma canónica atestada em Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_23758-e3",
     "volume_id": "faria",
     "doc_name": "chunk_23758",
@@ -4178,28 +3430,6 @@
     "notas": "Verbo defeitivo; escolha de morfologia feita por aproximação ao inventário disponível (ver morph_out_of_vocab).",
     "raw_text": "{\"id\":\"chunk_23758:23758:2\",\"lemas\":[\"odi\",\"ōdi\"],\"lema_canonico\":\"odi\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"odiar; verbo defeitivo: forma perfeita ōdi com sentido presente; infinitivo histórico ōdisse.\",\"aliases\":[\"ōdisse\"],\"exemplos\":[],\"notas\":\"Verbo defeitivo; escolha de morfologia feita por aproximação ao inventário disponível (ver morph_out_of_vocab).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}",
     "raw_json": "{\"id\":\"chunk_23758:23758:2\",\"lemas\":[\"odi\",\"ōdi\"],\"lema_canonico\":\"odi\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"odiar; verbo defeitivo: forma perfeita ōdi com sentido presente; infinitivo histórico ōdisse.\",\"aliases\":[\"ōdisse\"],\"exemplos\":[],\"notas\":\"Verbo defeitivo; escolha de morfologia feita por aproximação ao inventário disponível (ver morph_out_of_vocab).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}"
-  },
-  {
-    "id": "chunk_23759-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_23759",
-    "page_num": 23759,
-    "lemmas": [
-      "raucus",
-      "raucus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "rouco; de voz áspera; por extensão: ruidoso, retumbante.",
-    "exemplos": [],
-    "notas": "Morfologia e sentidos confirmados por Lewis & Short e Whitaker. | [dedupe] redirect → chunk_23757:23757:0 | [dedupe] redirect → chunk_23757:23757:0",
-    "raw_text": "{\"id\":\"chunk_23759:23759:0\",\"lemas\":[\"raucus\"],\"lema_canonico\":\"raucus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"rouco; de voz áspera; por extensão: ruidoso, retumbante.\",\"aliases\":[],\"exemplos\":[\"Verg. Buc. 2, 12\",\"Cic. Fam. 9, 5\"],\"notas\":\"Morfologia e sentidos confirmados por Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_23759:23759:0\",\"lemas\":[\"raucus\"],\"lema_canonico\":\"raucus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"rouco; de voz áspera; por extensão: ruidoso, retumbante.\",\"aliases\":[],\"exemplos\":[\"Verg. Buc. 2, 12\",\"Cic. Fam. 9, 5\"],\"notas\":\"Morfologia e sentidos confirmados por Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_23760-e1",
@@ -4310,28 +3540,6 @@
     "notas": "Verbete Faria fundiu duas entradas por OCR. Separei como raucus + rūs; morfologia múltipla não cabe no vocabulário, por isso escolhida forma próxima e flag added.",
     "raw_text": "{\"id\":\"chunk_23764:23764:0\",\"lemas\":[\"raucus\",\"rūs\"],\"lema_canonico\":\"raucus\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Entrada corrompida que reúne duas palavras distintas: raucus, -a, -um (adj.) = rouco, áspero; rūs, rūris, n. (subs.) = campo, fazenda, propriedade rural.\",\"aliases\":[],\"exemplos\":[\"Plaut. Ep. 2, 1, 16\",\"Lucr. 5, 1248\"],\"notas\":\"Verbete Faria fundiu duas entradas por OCR. Separei como raucus + rūs; morfologia múltipla não cabe no vocabulário, por isso escolhida forma próxima e flag added.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"morph_out_of_vocab\"]}",
     "raw_json": "{\"id\":\"chunk_23764:23764:0\",\"lemas\":[\"raucus\",\"rūs\"],\"lema_canonico\":\"raucus\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Entrada corrompida que reúne duas palavras distintas: raucus, -a, -um (adj.) = rouco, áspero; rūs, rūris, n. (subs.) = campo, fazenda, propriedade rural.\",\"aliases\":[],\"exemplos\":[\"Plaut. Ep. 2, 1, 16\",\"Lucr. 5, 1248\"],\"notas\":\"Verbete Faria fundiu duas entradas por OCR. Separei como raucus + rūs; morfologia múltipla não cabe no vocabulário, por isso escolhida forma próxima e flag added.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"morph_out_of_vocab\"]}"
-  },
-  {
-    "id": "chunk_23764-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_23764",
-    "page_num": 23764,
-    "lemmas": [
-      "raucus",
-      "raucus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "rouco, áspero; de voz ou som (hoarse, raucous).",
-    "exemplos": [],
-    "notas": "Corroborado por Lewis & Short e Whitaker; normalizei grafia e morfologia. | [dedupe] redirect → chunk_23757:23757:0 | [dedupe] redirect → chunk_23757:23757:0",
-    "raw_text": "{\"id\":\"chunk_23764:23764:1\",\"lemas\":[\"raucus\"],\"lema_canonico\":\"raucus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"rouco, áspero; de voz ou som (hoarse, raucous).\",\"aliases\":[],\"exemplos\":[\"Plaut. Ep. 2, 1, 16\"],\"notas\":\"Corroborado por Lewis & Short e Whitaker; normalizei grafia e morfologia.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_23764:23764:1\",\"lemas\":[\"raucus\"],\"lema_canonico\":\"raucus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"rouco, áspero; de voz ou som (hoarse, raucous).\",\"aliases\":[],\"exemplos\":[\"Plaut. Ep. 2, 1, 16\"],\"notas\":\"Corroborado por Lewis & Short e Whitaker; normalizei grafia e morfologia.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_23764-e3",
@@ -4884,28 +4092,6 @@
     "raw_json": "{\"id\":\"chunk_23782:23782:0\",\"lemas\":[\"ressoar\"],\"lema_canonico\":\"ressoar\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"ressoar; retumbar; (trans.) emitir eco, repercutir (verificar forma latina: poss. resonāre/resōnō)\",\"aliases\":[],\"exemplos\":[\"Verg. G. 3, 222\",\"Lucr. 2, 287\"],\"notas\":\"Entrada em português possivelmente reflexo de lemma latino distinto (resonāre/resōnō). Necessita verificação lexical; morfologia atribuída provisoriamente.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\",\"morph_out_of_vocab\"]}"
   },
   {
-    "id": "chunk_23783-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_23783",
-    "page_num": 23783,
-    "lemmas": [
-      "rĕ-calfacĭo",
-      "rĕ-calfacĭo"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "aquecer de novo; tornar a fazer quente; fig.: reanimar, reviver",
-    "exemplos": [],
-    "notas": "LS registra rĕcălĕfăcio = recalfacio; unificadas variantes. | [dedupe] redirect → chunk_23787:23787:0 | [dedupe] redirect → chunk_23787:23787:0 | [ocr_fix 2025-08-17T19:51:43Z] match direto em LS por lemma/lemma_norm | lemma_in='recalfacio' → 'rĕ-calfacĭo'",
-    "raw_text": "{\"id\":\"chunk_23783:23783:0\",\"lemas\":[\"recalfacio\",\"recalefacio\"],\"lema_canonico\":\"recalfacio\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"aquecer de novo; tornar a fazer quente; fig.: reanimar, reviver\",\"aliases\":[],\"exemplos\":[\"Hor. Sat. 2, 1, 20\"],\"notas\":\"LS registra rĕcălĕfăcio = recalfacio; unificadas variantes.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_23783:23783:0\",\"lemas\":[\"recalfacio\",\"recalefacio\"],\"lema_canonico\":\"recalfacio\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"aquecer de novo; tornar a fazer quente; fig.: reanimar, reviver\",\"aliases\":[],\"exemplos\":[\"Hor. Sat. 2, 1, 20\"],\"notas\":\"LS registra rĕcălĕfăcio = recalfacio; unificadas variantes.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_23784-e1",
     "volume_id": "faria",
     "doc_name": "chunk_23784",
@@ -5060,50 +4246,6 @@
     "raw_json": "{\"id\":\"chunk_23787:23787:0\",\"lemas\":[\"recalfacio\",\"recalfacere\",\"recalfēcī\"],\"lema_canonico\":\"recalfacio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"to reheat, warm again\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 8, 443\"],\"notas\":\"Lema ajustado da 1ª pers. 'recalfĭo' para infinitivo composto (recalfacere) e forma canónica 'recalfacio'.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_23788-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_23788",
-    "page_num": 23788,
-    "lemmas": [
-      "rĕ-calfacĭo",
-      "rĕ-calfacĭo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "tornar a aquecer, reaquecer, aquecer de novo",
-    "exemplos": [],
-    "notas": "Lema e formas conferidas com Lat→Deu (recalfacere); normalizei perf. recalfēcī / part. recalfactus. | [dedupe] redirect → chunk_23787:23787:0 | [dedupe] redirect → chunk_23787:23787:0 | [ocr_fix 2025-08-17T19:53:22Z] match direto em LS por lemma/lemma_norm | lemma_in='recalfacio' → 'rĕ-calfacĭo'",
-    "raw_text": "{\"id\":\"chunk_23788:23788:0\",\"lemas\":[\"recalfacio\",\"recalfacere\"],\"lema_canonico\":\"recalfacio\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"tornar a aquecer, reaquecer, aquecer de novo\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Lema e formas conferidas com Lat→Deu (recalfacere); normalizei perf. recalfēcī / part. recalfactus.\",\"flags\":[\"src_latdeu\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_23788:23788:0\",\"lemas\":[\"recalfacio\",\"recalfacere\"],\"lema_canonico\":\"recalfacio\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"tornar a aquecer, reaquecer, aquecer de novo\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Lema e formas conferidas com Lat→Deu (recalfacere); normalizei perf. recalfēcī / part. recalfactus.\",\"flags\":[\"src_latdeu\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_23789-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_23789",
-    "page_num": 23789,
-    "lemmas": [
-      "rĕ-călĕo",
-      "rĕ-călĕo"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "tornar-se quente de novo; aquecer-se, ficar morno (perf. recaluī)",
-    "exemplos": [],
-    "notas": "Recaluī identificado como perfeito; lemma baseado em recaleō / recalēre atestado em fontes. | [dedupe] redirect → chunk_23785:23785:0 | [dedupe] redirect → chunk_23785:23785:0 | [ocr_fix 2025-08-17T19:51:43Z] match direto em LS por lemma/lemma_norm | lemma_in='recaleo' → 'rĕ-călĕo'",
-    "raw_text": "{\"id\":\"chunk_23789:23789:0\",\"lemas\":[\"recaleo\"],\"lema_canonico\":\"recaleo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"tornar-se quente de novo; aquecer-se, ficar morno (perf. recaluī)\",\"aliases\":[\"recalui\"],\"exemplos\":[],\"notas\":\"Recaluī identificado como perfeito; lemma baseado em recaleō / recalēre atestado em fontes.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_23789:23789:0\",\"lemas\":[\"recaleo\"],\"lema_canonico\":\"recaleo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"tornar-se quente de novo; aquecer-se, ficar morno (perf. recaluī)\",\"aliases\":[\"recalui\"],\"exemplos\":[],\"notas\":\"Recaluī identificado como perfeito; lemma baseado em recaleō / recalēre atestado em fontes.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_23790-e1",
     "volume_id": "faria",
     "doc_name": "chunk_23790",
@@ -5124,28 +4266,6 @@
     "notas": "Forma atestada em resumo Lat→Deu; relacionada a calvus.",
     "raw_text": "{\"id\":\"chunk_23790:23790:0\",\"lemas\":[\"recalvus\"],\"lema_canonico\":\"recalvus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"calvo; relativo à calvície\",\"aliases\":[],\"exemplos\":[\"Plaut. Rud. 317\"],\"notas\":\"Forma atestada em resumo Lat→Deu; relacionada a calvus.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_23790:23790:0\",\"lemas\":[\"recalvus\"],\"lema_canonico\":\"recalvus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"calvo; relativo à calvície\",\"aliases\":[],\"exemplos\":[\"Plaut. Rud. 317\"],\"notas\":\"Forma atestada em resumo Lat→Deu; relacionada a calvus.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_23791-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_23791",
-    "page_num": 23791,
-    "lemmas": [
-      "ranco",
-      "ranco"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada do LS: ranco definido como 'racco' — mantido como redirecionamento. | [ocr_fix 2025-08-17T19:53:22Z] match direto em LS por lemma/lemma_norm | lemma_in='ranco' → 'ranco'",
-    "raw_text": "{\"id\":\"chunk_23791:23791:1\",\"lemas\":[\"ranco\",\"racco\"],\"lema_canonico\":\"ranco\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"racco\"],\"exemplos\":[],\"notas\":\"Entrada do LS: ranco definido como 'racco' — mantido como redirecionamento.\",\"flags\":[\"src_ls\",\"conf:med\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_23791:23791:1\",\"lemas\":[\"ranco\",\"racco\"],\"lema_canonico\":\"ranco\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"racco\"],\"exemplos\":[],\"notas\":\"Entrada do LS: ranco definido como 'racco' — mantido como redirecionamento.\",\"flags\":[\"src_ls\",\"conf:med\",\"redirect_only\"]}"
   },
   {
     "id": "chunk_23791-e2",
@@ -5190,28 +4310,6 @@
     "notas": "Baseado no primeiro passado; OCR indica recanduī como perf. de recandĕsco — necessita verificação.",
     "raw_text": "{\"id\":\"chunk_23792:23792:0\",\"lemas\":[\"recandus\"],\"lema_canonico\":\"recandus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"(particípio/adjetivo) que foi aquecido de novo; participial derivado de recandescere (forma e sentido precisam de confirmação)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Baseado no primeiro passado; OCR indica recanduī como perf. de recandĕsco — necessita verificação.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_23792:23792:0\",\"lemas\":[\"recandus\"],\"lema_canonico\":\"recandus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"(particípio/adjetivo) que foi aquecido de novo; participial derivado de recandescere (forma e sentido precisam de confirmação)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Baseado no primeiro passado; OCR indica recanduī como perf. de recandĕsco — necessita verificação.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_23792-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_23792",
-    "page_num": 23792,
-    "lemmas": [
-      "rĕ-candesco",
-      "rĕ-candesco"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "tornar a arder; reavivar-se, tornar a gluir/arder (fig.: reencontrar brilho)",
-    "exemplos": [],
-    "notas": "Normalizado a partir de recandēscere (Lat→Deu); corrigida a forma do lema e conjugação. | [dedupe] redirect → chunk_23791:23791:0 | [dedupe] redirect → chunk_23791:23791:0 | [ocr_fix 2025-08-17T19:51:44Z] match direto em LS por lemma/lemma_norm | lemma_in='recandescō' → 'rĕ-candesco'",
-    "raw_text": "{\"id\":\"chunk_23792:23792:1\",\"lemas\":[\"recandescō\",\"recandescere\"],\"lema_canonico\":\"recandescō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"tornar a arder; reavivar-se, tornar a gluir/arder (fig.: reencontrar brilho)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizado a partir de recandēscere (Lat→Deu); corrigida a forma do lema e conjugação.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_23792:23792:1\",\"lemas\":[\"recandescō\",\"recandescere\"],\"lema_canonico\":\"recandescō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"tornar a arder; reavivar-se, tornar a gluir/arder (fig.: reencontrar brilho)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizado a partir de recandēscere (Lat→Deu); corrigida a forma do lema e conjugação.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
     "id": "chunk_23793-e1",
@@ -5278,72 +4376,6 @@
     "notas": "Mantidas as leituras exemplares e marcada origem como particípio.",
     "raw_text": "{\"id\":\"chunk_23795:23795:0\",\"lemas\":[\"recantatus\",\"recantata\",\"recantatum\"],\"lema_canonico\":\"recantatus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de recantō; como adj.: 1) enfeitiçado, desacreditado; 2) curado, afastado por encantamento\",\"aliases\":[],\"exemplos\":[\"Hor. O. 1, 16, 27\",\"Ov. Rem. 259\"],\"notas\":\"Mantidas as leituras exemplares e marcada origem como particípio.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_23795:23795:0\",\"lemas\":[\"recantatus\",\"recantata\",\"recantatum\"],\"lema_canonico\":\"recantatus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de recantō; como adj.: 1) enfeitiçado, desacreditado; 2) curado, afastado por encantamento\",\"aliases\":[],\"exemplos\":[\"Hor. O. 1, 16, 27\",\"Ov. Rem. 259\"],\"notas\":\"Mantidas as leituras exemplares e marcada origem como particípio.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_23796-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_23796",
-    "page_num": 23796,
-    "lemmas": [
-      "recessus",
-      "recessus"
-    ],
-    "morfologia": "s. masc. 4ª (-us)",
-    "morph_render": "s. masc. 4ª (-us)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "1) recuo, retirada, afastamento, refúgio; 2) particípio perfeito passivo de recēdō (recuado, retirado).",
-    "exemplos": [],
-    "notas": "Inclui tanto o substantivo quanto a forma verbal (PPP) atestada; exemplos conforme primeira passada. | [dedupe] redirect → chunk_23818:23818:0 | [dedupe] redirect → chunk_23818:23818:0",
-    "raw_text": "{\"id\":\"chunk_23796:23796:0\",\"lemas\":[\"recessus\"],\"lema_canonico\":\"recessus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"1) recuo, retirada, afastamento, refúgio; 2) particípio perfeito passivo de recēdō (recuado, retirado).\",\"aliases\":[],\"exemplos\":[\"Hor. I, 8? 887 (cit. na fonte)\",\"Ov. Met. 6, 212\"],\"notas\":\"Inclui tanto o substantivo quanto a forma verbal (PPP) atestada; exemplos conforme primeira passada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_23796:23796:0\",\"lemas\":[\"recessus\"],\"lema_canonico\":\"recessus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"1) recuo, retirada, afastamento, refúgio; 2) particípio perfeito passivo de recēdō (recuado, retirado).\",\"aliases\":[],\"exemplos\":[\"Hor. I, 8? 887 (cit. na fonte)\",\"Ov. Met. 6, 212\"],\"notas\":\"Inclui tanto o substantivo quanto a forma verbal (PPP) atestada; exemplos conforme primeira passada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_23797-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_23797",
-    "page_num": 23797,
-    "lemmas": [
-      "recedo",
-      "recedo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "intr. ‘retirar-se, recuar, afastar‑se; desaparecer, ir‑se embora’ (sentidos próprios e figurados).",
-    "exemplos": [],
-    "notas": "Infinitivo recēdere; forma apresentada uniformizada para recedo; distinta de recessus (part. / substan.). | [dedupe] redirect → chunk_23820:23820:0 | [dedupe] redirect → chunk_23820:23820:0",
-    "raw_text": "{\"id\":\"chunk_23797:23797:0\",\"lemas\":[\"recedo\"],\"lema_canonico\":\"recedo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"intr. ‘retirar-se, recuar, afastar‑se; desaparecer, ir‑se embora’ (sentidos próprios e figurados).\",\"aliases\":[],\"exemplos\":[\"Caes. B. G. 5, 43, 6\",\"Cic. Mur. 112\",\"Verg. En. 2, 300\",\"Cic. Tusc. 4, 40\",\"Verg. G. 4, 191\"],\"notas\":\"Infinitivo recēdere; forma apresentada uniformizada para recedo; distinta de recessus (part. / substan.).\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_23797:23797:0\",\"lemas\":[\"recedo\"],\"lema_canonico\":\"recedo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"intr. ‘retirar-se, recuar, afastar‑se; desaparecer, ir‑se embora’ (sentidos próprios e figurados).\",\"aliases\":[],\"exemplos\":[\"Caes. B. G. 5, 43, 6\",\"Cic. Mur. 112\",\"Verg. En. 2, 300\",\"Cic. Tusc. 4, 40\",\"Verg. G. 4, 191\"],\"notas\":\"Infinitivo recēdere; forma apresentada uniformizada para recedo; distinta de recessus (part. / substan.).\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_23797-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_23797",
-    "page_num": 23797,
-    "lemmas": [
-      "remora",
-      "remora"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "impedimento, atraso; demora; também (nome literário) que Remus dava a Roma",
-    "exemplos": [],
-    "notas": "Grafia normalizada; vogal breve segundo LS (Rĕmŏra) | [dedupe] redirect → chunk_24148:24148:0 | [dedupe] redirect → chunk_24148:24148:0",
-    "raw_text": "{\"id\":\"chunk_23797:23797:1\",\"lemas\":[\"remora\"],\"lema_canonico\":\"remora\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"impedimento, atraso; demora; também (nome literário) que Remus dava a Roma\",\"aliases\":[],\"exemplos\":[\"Enn. ap. Cic. Div. 1, 48, 107\"],\"notas\":\"Grafia normalizada; vogal breve segundo LS (Rĕmŏra)\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_23797:23797:1\",\"lemas\":[\"remora\"],\"lema_canonico\":\"remora\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"impedimento, atraso; demora; também (nome literário) que Remus dava a Roma\",\"aliases\":[],\"exemplos\":[\"Enn. ap. Cic. Div. 1, 48, 107\"],\"notas\":\"Grafia normalizada; vogal breve segundo LS (Rĕmŏra)\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_23798-e1",

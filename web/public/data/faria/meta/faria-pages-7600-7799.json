@@ -1,27 +1,5 @@
 [
   {
-    "id": "chunk_7600-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_7600",
-    "page_num": 7600,
-    "lemmas": [
-      "decido",
-      "decido"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "cair; decair; sucumbir, morrer; figuradamente: perder vigor",
-    "exemplos": [],
-    "notas": "Paradigma e transitividade retificados segundo LS/Lat→Deu (intransitivo). | [dedupe] redirect → chunk_7598:7598:0 | [dedupe] redirect → chunk_7598:7598:0",
-    "raw_text": "{\"id\":\"chunk_7600:7600:0\",\"lemas\":[\"decido\"],\"lema_canonico\":\"decido\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"cair; decair; sucumbir, morrer; figuradamente: perder vigor\",\"aliases\":[],\"exemplos\":[\"Cic. C. M. 71\",\"Caes. B. Gal. 1, 48, 6\",\"Verg. En. 5, 517\"],\"notas\":\"Paradigma e transitividade retificados segundo LS/Lat→Deu (intransitivo).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_7600:7600:0\",\"lemas\":[\"decido\"],\"lema_canonico\":\"decido\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"cair; decair; sucumbir, morrer; figuradamente: perder vigor\",\"aliases\":[],\"exemplos\":[\"Cic. C. M. 71\",\"Caes. B. Gal. 1, 48, 6\",\"Verg. En. 5, 517\"],\"notas\":\"Paradigma e transitividade retificados segundo LS/Lat→Deu (intransitivo).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_7601-e1",
     "volume_id": "faria",
     "doc_name": "chunk_7601",
@@ -242,30 +220,6 @@
     "raw_json": "{\"id\":\"chunk_7608:7608:0\",\"lemas\":[\"decumates\",\"decumātes\"],\"lema_canonico\":\"decumates\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[],\"definicao\":\"relativo a terras sujeitas ao dízimo; terras divididas em unidades de dez (tithe-land)\",\"aliases\":[],\"exemplos\":[\"Tac. G. 29\"],\"notas\":\"Normalizada conforme Lewis & Short/Whitaker (dĕcŭmātes).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_7609-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_7609",
-    "page_num": 7609,
-    "lemmas": [
-      "decimare",
-      "decimare"
-    ],
-    "morfologia": "v. 1ª (-āre), tr.",
-    "morph_render": "v. 1ª (-āre), tr.",
-    "morph_extra": [
-      "tr."
-    ],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "escolher por sorteio cada décimo homem para punição (dizimar); também cobrar/tomar a décima parte (dízimo), ofertar o décimo.",
-    "exemplos": [],
-    "notas": "Uniformizado lema e formas (decimāre, decimāvī, decimātus) segundo LS e Lat→Deu. | [dedupe] redirect → chunk_7604:7604:2 | [dedupe] redirect → chunk_7604:7604:2",
-    "raw_text": "{\"id\":\"chunk_7609:7609:0\",\"lemas\":[\"decimare\"],\"lema_canonico\":\"decimare\",\"morfologia\":\"v. 1ª (-āre), tr.\",\"morph_extra\":[],\"definicao\":\"escolher por sorteio cada décimo homem para punição (dizimar); também cobrar/tomar a décima parte (dízimo), ofertar o décimo.\",\"aliases\":[],\"exemplos\":[\"Suet. Aug. 24\",\"Festus p. 237, 25 Müll.\",\"Vulg. Matth. 23, 23\"],\"notas\":\"Uniformizado lema e formas (decimāre, decimāvī, decimātus) segundo LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_7609:7609:0\",\"lemas\":[\"decimare\"],\"lema_canonico\":\"decimare\",\"morfologia\":\"v. 1ª (-āre), tr.\",\"morph_extra\":[],\"definicao\":\"escolher por sorteio cada décimo homem para punição (dizimar); também cobrar/tomar a décima parte (dízimo), ofertar o décimo.\",\"aliases\":[],\"exemplos\":[\"Suet. Aug. 24\",\"Festus p. 237, 25 Müll.\",\"Vulg. Matth. 23, 23\"],\"notas\":\"Uniformizado lema e formas (decimāre, decimāvī, decimātus) segundo LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_7610-e1",
     "volume_id": "faria",
     "doc_name": "chunk_7610",
@@ -308,28 +262,6 @@
     "notas": "Considerado aqui como substantivo neutro (décima parte); forma e atestação conferidas por Whitaker/Lat→Deu. | [ocr_fix 2025-08-17T19:47:13Z] match direto em Gaffiot por lemma/lemma_norm | lemma_in='decimum' → 'dĕcĭmum'",
     "raw_text": "{\"id\":\"chunk_7611:7611:0\",\"lemas\":[\"decimum\"],\"lema_canonico\":\"decimum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"o décimo; a décima parte (substantivo neutro)\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 3, 112\",\"Cic. Verr. 3, 113\"],\"notas\":\"Considerado aqui como substantivo neutro (décima parte); forma e atestação conferidas por Whitaker/Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_7611:7611:0\",\"lemas\":[\"decimum\"],\"lema_canonico\":\"decimum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"o décimo; a décima parte (substantivo neutro)\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 3, 112\",\"Cic. Verr. 3, 113\"],\"notas\":\"Considerado aqui como substantivo neutro (décima parte); forma e atestação conferidas por Whitaker/Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_7612-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_7612",
-    "page_num": 7612,
-    "lemmas": [
-      "decimus",
-      "decimus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "décimo; também praenome romano Decimus",
-    "exemplos": [],
-    "notas": "Entrada unificada como adjetivo/ordinal e como nome próprio; forma e exemplos confirmados por LS/Whitaker. | [dedupe] redirect → chunk_7604:7604:0 | [dedupe] redirect → chunk_7604:7604:0",
-    "raw_text": "{\"id\":\"chunk_7612:7612:0\",\"lemas\":[\"decimus\"],\"lema_canonico\":\"decimus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"décimo; também praenome romano Decimus\",\"aliases\":[],\"exemplos\":[\"Caes. B. Gal. 1, 40, 15\",\"Ov. Met. 13, 530\"],\"notas\":\"Entrada unificada como adjetivo/ordinal e como nome próprio; forma e exemplos confirmados por LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_7612:7612:0\",\"lemas\":[\"decimus\"],\"lema_canonico\":\"decimus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"décimo; também praenome romano Decimus\",\"aliases\":[],\"exemplos\":[\"Caes. B. Gal. 1, 40, 15\",\"Ov. Met. 13, 530\"],\"notas\":\"Entrada unificada como adjetivo/ordinal e como nome próprio; forma e exemplos confirmados por LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_7613-e1",
@@ -442,28 +374,6 @@
     "notas": "Corrigido OCR e grafia conforme LS/Whitaker; padronizado o gentílico 'Decius'.",
     "raw_text": "{\"id\":\"chunk_7617:7617:0\",\"lemas\":[\"Decius\"],\"lema_canonico\":\"Decius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"nome próprio romano (gens Decia); notáveis membros: P. Decius Mus (pai e filho) e outros portadores do nome; também imperador Décio (249–251)\",\"aliases\":[],\"exemplos\":[\"Cic. Or. 3, 16\",\"Liv. 23, 10, 3\"],\"notas\":\"Corrigido OCR e grafia conforme LS/Whitaker; padronizado o gentílico 'Decius'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_7617:7617:0\",\"lemas\":[\"Decius\"],\"lema_canonico\":\"Decius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"nome próprio romano (gens Decia); notáveis membros: P. Decius Mus (pai e filho) e outros portadores do nome; também imperador Décio (249–251)\",\"aliases\":[],\"exemplos\":[\"Cic. Or. 3, 16\",\"Liv. 23, 10, 3\"],\"notas\":\"Corrigido OCR e grafia conforme LS/Whitaker; padronizado o gentílico 'Decius'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_7618-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_7618",
-    "page_num": 7618,
-    "lemmas": [
-      "Decius",
-      "Decius"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Nome próprio romano (praenomen/nomen gentile) — e.g. P. Decius Mus, famoso por se sacrificar pela pátria.",
-    "exemplos": [],
-    "notas": "Grafia e referências verificadas em Lewis & Short; inclui variante com diacríticos. | [dedupe] redirect → chunk_7617:7617:0 | [dedupe] redirect → chunk_7617:7617:0",
-    "raw_text": "{\"id\":\"chunk_7618:7618:0\",\"lemas\":[\"Decius\",\"Dĕcĭus\"],\"lema_canonico\":\"Decius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Nome próprio romano (praenomen/nomen gentile) — e.g. P. Decius Mus, famoso por se sacrificar pela pátria.\",\"aliases\":[],\"exemplos\":[\"Liv. 9, 30\"],\"notas\":\"Grafia e referências verificadas em Lewis & Short; inclui variante com diacríticos.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_7618:7618:0\",\"lemas\":[\"Decius\",\"Dĕcĭus\"],\"lema_canonico\":\"Decius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Nome próprio romano (praenomen/nomen gentile) — e.g. P. Decius Mus, famoso por se sacrificar pela pátria.\",\"aliases\":[],\"exemplos\":[\"Liv. 9, 30\"],\"notas\":\"Grafia e referências verificadas em Lewis & Short; inclui variante com diacríticos.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_7619-e1",
@@ -662,28 +572,6 @@
     "notas": "Mapeado como particípio perfeito passivo de declarare; morfologia primária indicada pelo infinitivo do verbo.",
     "raw_text": "{\"id\":\"chunk_7627:7627:0\",\"lemas\":[\"declaratus\"],\"lema_canonico\":\"declaratus\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo de declarare: declarado, anunciado, tornado conhecido.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Mapeado como particípio perfeito passivo de declarare; morfologia primária indicada pelo infinitivo do verbo.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_7627:7627:0\",\"lemas\":[\"declaratus\"],\"lema_canonico\":\"declaratus\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo de declarare: declarado, anunciado, tornado conhecido.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Mapeado como particípio perfeito passivo de declarare; morfologia primária indicada pelo infinitivo do verbo.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_7628-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_7628",
-    "page_num": 7628,
-    "lemmas": [
-      "dē-clāro",
-      "dē-clāro"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "declarar, tornar conhecido, manifestar; proclamar, anunciar; também exprimir ou significar (usar com acusativo ou oração indireta)",
-    "exemplos": [],
-    "notas": "Paradigma e uso sintático confirmados; lema normalizado sem macron nos lemas alternativos. | [dedupe] redirect → chunk_7624:7624:0 | [dedupe] redirect → chunk_7624:7624:0 | [ocr_fix 2025-08-17T19:57:16Z] match direto em LS por lemma/lemma_norm | lemma_in='declaro' → 'dē-clāro'",
-    "raw_text": "{\"id\":\"chunk_7628:7628:0\",\"lemas\":[\"declaro\",\"dēclārō\"],\"lema_canonico\":\"declaro\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"declarar, tornar conhecido, manifestar; proclamar, anunciar; também exprimir ou significar (usar com acusativo ou oração indireta)\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 2, 6\",\"Cic. Mur. 3, 3\",\"Cic. Fam. 4, 3, 1\",\"Cic. De Or. 3, 221\"],\"notas\":\"Paradigma e uso sintático confirmados; lema normalizado sem macron nos lemas alternativos.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_7628:7628:0\",\"lemas\":[\"declaro\",\"dēclārō\"],\"lema_canonico\":\"declaro\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"declarar, tornar conhecido, manifestar; proclamar, anunciar; também exprimir ou significar (usar com acusativo ou oração indireta)\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 2, 6\",\"Cic. Mur. 3, 3\",\"Cic. Fam. 4, 3, 1\",\"Cic. De Or. 3, 221\"],\"notas\":\"Paradigma e uso sintático confirmados; lema normalizado sem macron nos lemas alternativos.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
     "id": "chunk_7629-e1",
@@ -1126,50 +1014,6 @@
     "raw_json": "{\"id\":\"chunk_7646:7646:0\",\"lemas\":[\"decoquo\",\"dēcoquo\"],\"lema_canonico\":\"decoquo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\",\"intr.\"],\"definicao\":\"ferver, cozer; reduzir pela ebulição; fig.: amadurecer/sa zonar; arruinar, consumir (bens)\",\"aliases\":[],\"exemplos\":[\"Cat. Agr. 97, 98\",\"Hor. Sat. 2, 1, 74\",\"Cic. De Or. 3, 103\",\"Cic. Phil. 2, 44\"],\"notas\":\"Harmonizado formas e significados com Whitaker, LS e Lat→Deu; indicado como verbo transitivo e intransitivo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_7647-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_7647",
-    "page_num": 7647,
-    "lemmas": [
-      "decor",
-      "decor"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "beleza, formosura, graça; ornamento, elegância; no uso poético denota frequentemente beleza física",
-    "exemplos": [],
-    "notas": "Normalizado genitivo decoris; harmonizado com Lewis & Short e Whitaker. | [dedupe] redirect → chunk_7640:7640:0 | [dedupe] redirect → chunk_7640:7640:0",
-    "raw_text": "{\"id\":\"chunk_7647:7647:0\",\"lemas\":[\"decor\",\"dēcor\"],\"lema_canonico\":\"decor\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"beleza, formosura, graça; ornamento, elegância; no uso poético denota frequentemente beleza física\",\"aliases\":[],\"exemplos\":[\"Hor. Od. 2, 11, 6\",\"Hor. A. P. 157\",\"Quint. 9, 4, 145\"],\"notas\":\"Normalizado genitivo decoris; harmonizado com Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_7647:7647:0\",\"lemas\":[\"decor\",\"dēcor\"],\"lema_canonico\":\"decor\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"beleza, formosura, graça; ornamento, elegância; no uso poético denota frequentemente beleza física\",\"aliases\":[],\"exemplos\":[\"Hor. Od. 2, 11, 6\",\"Hor. A. P. 157\",\"Quint. 9, 4, 145\"],\"notas\":\"Normalizado genitivo decoris; harmonizado com Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_7648-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_7648",
-    "page_num": 7648,
-    "lemmas": [
-      "decor",
-      "decor"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "decoro; beleza, elegância, ornamento; também atestado como adjetivo arcaico/post‑clássico (forma adjetival paralela).",
-    "exemplos": [],
-    "notas": "Entrada atestada como substantivo (LS/Whitaker); adjetivalidade post‑clássica indicada nas fontes — morfologia substantiva preferida aqui. | [dedupe] redirect → chunk_7640:7640:0 | [dedupe] redirect → chunk_7640:7640:0",
-    "raw_text": "{\"id\":\"chunk_7648:7648:0\",\"lemas\":[\"decor\"],\"lema_canonico\":\"decor\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"decoro; beleza, elegância, ornamento; também atestado como adjetivo arcaico/post‑clássico (forma adjetival paralela).\",\"aliases\":[],\"exemplos\":[\"Hor. A. P. 157\",\"Ov. A. A. 3, 299\"],\"notas\":\"Entrada atestada como substantivo (LS/Whitaker); adjetivalidade post‑clássica indicada nas fontes — morfologia substantiva preferida aqui.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_7648:7648:0\",\"lemas\":[\"decor\"],\"lema_canonico\":\"decor\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"decoro; beleza, elegância, ornamento; também atestado como adjetivo arcaico/post‑clássico (forma adjetival paralela).\",\"aliases\":[],\"exemplos\":[\"Hor. A. P. 157\",\"Ov. A. A. 3, 299\"],\"notas\":\"Entrada atestada como substantivo (LS/Whitaker); adjetivalidade post‑clássica indicada nas fontes — morfologia substantiva preferida aqui.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}"
-  },
-  {
     "id": "chunk_7649-e1",
     "volume_id": "faria",
     "doc_name": "chunk_7649",
@@ -1212,28 +1056,6 @@
     "notas": "Mantido conforme primeira passada; possível confusão OCR com 'de' + 'cors' no Whitaker.\n[ocr_pipeline 2025-08-16T23:11:25.434132Z] lemma_in='decors' → 'daedăle' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:06:38Z] match direto em LS por lemma/lemma_norm | lemma_in='daedăle' → 'daedăle'",
     "raw_text": "{\"id\":\"chunk_7650:7650:0\",\"lemas\":[\"dēcors\",\"decors\"],\"lema_canonico\":\"decors\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"Advérbio: convenienter, eleganter; artisticē (uso clássico atestado em Faria: Cic. Or. 1,114; Cic. Poet. Div. 1,20).\",\"aliases\":[],\"exemplos\":[\"Cic. Or. 1, 114\",\"Cic. Poet. Div. 1, 20\"],\"notas\":\"Mantido conforme primeira passada; possível confusão OCR com 'de' + 'cors' no Whitaker.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_7650:7650:0\",\"lemas\":[\"dēcors\",\"decors\"],\"lema_canonico\":\"decors\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"Advérbio: convenienter, eleganter; artisticē (uso clássico atestado em Faria: Cic. Or. 1,114; Cic. Poet. Div. 1,20).\",\"aliases\":[],\"exemplos\":[\"Cic. Or. 1, 114\",\"Cic. Poet. Div. 1, 20\"],\"notas\":\"Mantido conforme primeira passada; possível confusão OCR com 'de' + 'cors' no Whitaker.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_7651-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_7651",
-    "page_num": 7651,
-    "lemmas": [
-      "decoro",
-      "decoro"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "decorar, ornar; fig. honrar, distinguir. Governa acusativo ou ablativo quando usado com sentido de 'embelezar' (cf. construções).",
-    "exemplos": [],
-    "notas": "Formas e exemplos confirmados em Lewis & Short e Whitaker. | [dedupe] redirect → chunk_7640:7640:1 | [dedupe] redirect → chunk_7640:7640:1",
-    "raw_text": "{\"id\":\"chunk_7651:7651:0\",\"lemas\":[\"decoro\"],\"lema_canonico\":\"decoro\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"decorar, ornar; fig. honrar, distinguir. Governa acusativo ou ablativo quando usado com sentido de 'embelezar' (cf. construções).\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 2, 112\",\"Cic. Balb. 16\"],\"notas\":\"Formas e exemplos confirmados em Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_7651:7651:0\",\"lemas\":[\"decoro\"],\"lema_canonico\":\"decoro\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"decorar, ornar; fig. honrar, distinguir. Governa acusativo ou ablativo quando usado com sentido de 'embelezar' (cf. construções).\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 2, 112\",\"Cic. Balb. 16\"],\"notas\":\"Formas e exemplos confirmados em Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_7652-e1",
@@ -1302,28 +1124,6 @@
     "raw_json": "{\"id\":\"chunk_7653:7653:2\",\"lemas\":[\"decerno\",\"decernere\"],\"lema_canonico\":\"decerno\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"decidir, decretar, ordenar; julgar, atribuir; votar/decidir a favor.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Formas do supino/particípio: dēcrētum/decretus; verbo transitivo principal.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_7653-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_7653",
-    "page_num": 7653,
-    "lemmas": [
-      "decorus",
-      "decorus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "apropriado, próprio; decente, decoroso; elegante, ornamentado.",
-    "exemplos": [],
-    "notas": "Também atesta-se como substantivo neutro decōrum, -i (o que convém, decoro). | [dedupe] redirect → chunk_7653:7653:0 | [dedupe] redirect → chunk_7653:7653:0",
-    "raw_text": "{\"id\":\"chunk_7653:7653:3\",\"lemas\":[\"decorus\",\"decōrum\"],\"lema_canonico\":\"decorus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"apropriado, próprio; decente, decoroso; elegante, ornamentado.\",\"aliases\":[],\"exemplos\":[\"Cic. Leg. 2, 8\",\"Liv. 2, 13\",\"Hor. Od. 3, 2, 13\",\"Tac. A. 1, 12\"],\"notas\":\"Também atesta-se como substantivo neutro decōrum, -i (o que convém, decoro).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_7653:7653:3\",\"lemas\":[\"decorus\",\"decōrum\"],\"lema_canonico\":\"decorus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"apropriado, próprio; decente, decoroso; elegante, ornamentado.\",\"aliases\":[],\"exemplos\":[\"Cic. Leg. 2, 8\",\"Liv. 2, 13\",\"Hor. Od. 3, 2, 13\",\"Tac. A. 1, 12\"],\"notas\":\"Também atesta-se como substantivo neutro decōrum, -i (o que convém, decoro).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_7653-e4",
     "volume_id": "faria",
     "doc_name": "chunk_7653",
@@ -1390,28 +1190,6 @@
     "raw_json": "{\"id\":\"chunk_7654:7654:0\",\"lemas\":[\"dēcrēvī\"],\"lema_canonico\":\"dēcrēvī\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"perf. ind. 1sg\"],\"definicao\":\"Forma do perfeito (1ª pessoa singular) que é homônima para os verbos dēcernō (decernere) e dēcrēscō (decrescere).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma perfeita compartilhada por decerno e decresco; atestado em LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_7655-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_7655",
-    "page_num": 7655,
-    "lemmas": [
-      "decreptus",
-      "decreptus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "decrépito, envelhecido; fraco por idade.",
-    "exemplos": [],
-    "notas": "Normalizada a grafia e rejeitada leitura OCR 'dēcrēptis'. | [dedupe] redirect → chunk_7585:7585:0 | [dedupe] redirect → chunk_7585:7585:0",
-    "raw_text": "{\"id\":\"chunk_7655:7655:0\",\"lemas\":[\"decreptus\",\"decrēptus\"],\"lema_canonico\":\"decreptus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"decrépito, envelhecido; fraco por idade.\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 1, 94\"],\"notas\":\"Normalizada a grafia e rejeitada leitura OCR 'dēcrēptis'.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_7655:7655:0\",\"lemas\":[\"decreptus\",\"decrēptus\"],\"lema_canonico\":\"decreptus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"decrépito, envelhecido; fraco por idade.\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 1, 94\"],\"notas\":\"Normalizada a grafia e rejeitada leitura OCR 'dēcrēptis'.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_7656-e1",
     "volume_id": "faria",
     "doc_name": "chunk_7656",
@@ -1454,28 +1232,6 @@
     "notas": "Normalizado forma e tradução conforme Lewis & Short; variantes grafadas e referências adicionadas.",
     "raw_text": "{\"id\":\"chunk_7657:7657:0\",\"lemas\":[\"decretorius\",\"dēcrētōrius\"],\"lema_canonico\":\"decretorius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"decisivo, relativo a uma decisão ou sentença definitiva; decisório\",\"aliases\":[],\"exemplos\":[\"Sen. Ep. 102, 24\",\"Sen. Clem. 1, 14\",\"Plin. 18, 29\",\"Quint. 10, 5, 20\"],\"notas\":\"Normalizado forma e tradução conforme Lewis & Short; variantes grafadas e referências adicionadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_7657:7657:0\",\"lemas\":[\"decretorius\",\"dēcrētōrius\"],\"lema_canonico\":\"decretorius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"decisivo, relativo a uma decisão ou sentença definitiva; decisório\",\"aliases\":[],\"exemplos\":[\"Sen. Ep. 102, 24\",\"Sen. Clem. 1, 14\",\"Plin. 18, 29\",\"Quint. 10, 5, 20\"],\"notas\":\"Normalizado forma e tradução conforme Lewis & Short; variantes grafadas e referências adicionadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_7658-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_7658",
-    "page_num": 7658,
-    "lemmas": [
-      "dēcrētum",
-      "dēcrētum"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Decisão, decreto; princípio, preceito, doutrina.",
-    "exemplos": [],
-    "notas": "Grafia e declinação alinhadas com Lewis & Short e Whitaker. | [dedupe] redirect → chunk_7653:7653:1 | [dedupe] redirect → chunk_7653:7653:1",
-    "raw_text": "{\"id\":\"chunk_7658:7658:0\",\"lemas\":[\"dēcrētum\"],\"lema_canonico\":\"dēcrētum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Decisão, decreto; princípio, preceito, doutrina.\",\"aliases\":[],\"exemplos\":[\"Cic. Mur. 29, 11\",\"Cic. Ac. 1, 27\",\"Cic. Ac. 1, 29\"],\"notas\":\"Grafia e declinação alinhadas com Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_7658:7658:0\",\"lemas\":[\"dēcrētum\"],\"lema_canonico\":\"dēcrētum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Decisão, decreto; princípio, preceito, doutrina.\",\"aliases\":[],\"exemplos\":[\"Cic. Mur. 29, 11\",\"Cic. Ac. 1, 27\",\"Cic. Ac. 1, 29\"],\"notas\":\"Grafia e declinação alinhadas com Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_7659-e1",
@@ -1610,28 +1366,6 @@
     "raw_json": "{\"id\":\"chunk_7663:7663:1\",\"lemas\":[\"decutio\"],\"lema_canonico\":\"decutio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"esfolar; privar da pele (registro tardio citado)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada tardia/raríssima proposta na primeira passada; leitura incerta do OCR/forma; mantém-se conforme first_pass para revisão.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_7664-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_7664",
-    "page_num": 7664,
-    "lemmas": [
-      "decumbo",
-      "decumbo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "deitar-se; tomar o leito; pôr-se à mesa; fig.: cair morto, sucumbir (em combate); ficar enfermo",
-    "exemplos": [],
-    "notas": "Normalizada conjugação clássica (decumbere, decubuī etc.); marcado como intransitivo. | [dedupe] redirect → chunk_7661:7661:0 | [dedupe] redirect → chunk_7661:7661:0",
-    "raw_text": "{\"id\":\"chunk_7664:7664:0\",\"lemas\":[\"decumbo\",\"decumbō\"],\"lema_canonico\":\"decumbo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"deitar-se; tomar o leito; pôr-se à mesa; fig.: cair morto, sucumbir (em combate); ficar enfermo\",\"aliases\":[],\"exemplos\":[\"Cat. Agr. 156, 4\",\"Cic. Tusc. 2, 41\"],\"notas\":\"Normalizada conjugação clássica (decumbere, decubuī etc.); marcado como intransitivo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_7664:7664:0\",\"lemas\":[\"decumbo\",\"decumbō\"],\"lema_canonico\":\"decumbo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"deitar-se; tomar o leito; pôr-se à mesa; fig.: cair morto, sucumbir (em combate); ficar enfermo\",\"aliases\":[],\"exemplos\":[\"Cat. Agr. 156, 4\",\"Cic. Tusc. 2, 41\"],\"notas\":\"Normalizada conjugação clássica (decumbere, decubuī etc.); marcado como intransitivo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_7665-e1",
     "volume_id": "faria",
     "doc_name": "chunk_7665",
@@ -1742,28 +1476,6 @@
     "raw_json": "{\"id\":\"chunk_7669:7669:0\",\"lemas\":[\"decurio\"],\"lema_canonico\":\"decurio\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"1) Dividir em decúrias; distribuir em decúrias (Liv. 22, 38). 2) (fig.) formar conluíos, conspirar (Cic. Sest. 34). Também substantivo decurio: decurion, comandante de decuria.\",\"aliases\":[],\"exemplos\":[\"Liv. 22, 38\",\"Cic. Sest. 34\"],\"notas\":\"Registro atestado como verbo e como substantivo em LS e Whitaker; lema mantido no verbo como na primeira passada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_7670-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_7670",
-    "page_num": 7670,
-    "lemmas": [
-      "decurio",
-      "decurio"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "decurião; chefe ou comandante de uma decúria (militar: comandante de decúria de cavalaria) e, em municipalia, membro do senado municipal (decurio, decurion).",
-    "exemplos": [],
-    "notas": "Unificado lema e acepções conforme LS, Whitaker e Lat→Deu. | [dedupe] redirect → chunk_7668:7668:0 | [dedupe] redirect → chunk_7668:7668:0",
-    "raw_text": "{\"id\":\"chunk_7670:7670:0\",\"lemas\":[\"decurio\"],\"lema_canonico\":\"decurio\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"decurião; chefe ou comandante de uma decúria (militar: comandante de decúria de cavalaria) e, em municipalia, membro do senado municipal (decurio, decurion).\",\"aliases\":[],\"exemplos\":[\"Cés. B. Gall. 3, 22, 2\",\"Cic. Sest. 10, 3\",\"Suet. Dom. 17\"],\"notas\":\"Unificado lema e acepções conforme LS, Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_7670:7670:0\",\"lemas\":[\"decurio\"],\"lema_canonico\":\"decurio\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"decurião; chefe ou comandante de uma decúria (militar: comandante de decúria de cavalaria) e, em municipalia, membro do senado municipal (decurio, decurion).\",\"aliases\":[],\"exemplos\":[\"Cés. B. Gall. 3, 22, 2\",\"Cic. Sest. 10, 3\",\"Suet. Dom. 17\"],\"notas\":\"Unificado lema e acepções conforme LS, Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_7671-e1",
     "volume_id": "faria",
     "doc_name": "chunk_7671",
@@ -1784,28 +1496,6 @@
     "notas": "Normalizado da forma flexionada 'decurrit' para o lema infinitivo 'decurrere'; atestado em Lat→Deu e Whitaker.",
     "raw_text": "{\"id\":\"chunk_7671:7671:0\",\"lemas\":[\"decurrere\"],\"lema_canonico\":\"decurrere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"correr para baixo; descer; percorrer; acabar; dirigir‑se a; transitar (verbo de movimento e de alcance)\",\"aliases\":[\"decurrit\"],\"exemplos\":[],\"notas\":\"Normalizado da forma flexionada 'decurrit' para o lema infinitivo 'decurrere'; atestado em Lat→Deu e Whitaker.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_7671:7671:0\",\"lemas\":[\"decurrere\"],\"lema_canonico\":\"decurrere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"correr para baixo; descer; percorrer; acabar; dirigir‑se a; transitar (verbo de movimento e de alcance)\",\"aliases\":[\"decurrit\"],\"exemplos\":[],\"notas\":\"Normalizado da forma flexionada 'decurrit' para o lema infinitivo 'decurrere'; atestado em Lat→Deu e Whitaker.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_7672-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_7672",
-    "page_num": 7672,
-    "lemmas": [
-      "decurro",
-      "decurro"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "correr para baixo; descer correndo; mover‑se rapidamente; executar uma marcha ou percurso; manobrar (military); percorrer, terminar, narrar; às vezes recorrer a (buscar auxílio).",
-    "exemplos": [],
-    "notas": "Inclui transitivo e intransitivo conforme LS e Lat→Deu; supino decursum normalizado. | [dedupe] redirect → chunk_7662:7662:0 | [dedupe] redirect → chunk_7662:7662:0",
-    "raw_text": "{\"id\":\"chunk_7672:7672:0\",\"lemas\":[\"decurro\"],\"lema_canonico\":\"decurro\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"intr.\",\"tr.\"],\"definicao\":\"correr para baixo; descer correndo; mover‑se rapidamente; executar uma marcha ou percurso; manobrar (military); percorrer, terminar, narrar; às vezes recorrer a (buscar auxílio).\",\"aliases\":[],\"exemplos\":[\"Cés. B. Gall. 2, 21, 1\",\"Cic. Fam. 11, 4, 3\",\"Liv. 26, 51, 8\",\"Verg. G. 2, 39\"],\"notas\":\"Inclui transitivo e intransitivo conforme LS e Lat→Deu; supino decursum normalizado.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_7672:7672:0\",\"lemas\":[\"decurro\"],\"lema_canonico\":\"decurro\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"intr.\",\"tr.\"],\"definicao\":\"correr para baixo; descer correndo; mover‑se rapidamente; executar uma marcha ou percurso; manobrar (military); percorrer, terminar, narrar; às vezes recorrer a (buscar auxílio).\",\"aliases\":[],\"exemplos\":[\"Cés. B. Gall. 2, 21, 1\",\"Cic. Fam. 11, 4, 3\",\"Liv. 26, 51, 8\",\"Verg. G. 2, 39\"],\"notas\":\"Inclui transitivo e intransitivo conforme LS e Lat→Deu; supino decursum normalizado.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_7673-e1",
@@ -1850,28 +1540,6 @@
     "notas": "Unificado o sentido nominal e verbal; marcado morph_extra por ser também particípio.",
     "raw_text": "{\"id\":\"chunk_7674:7674:0\",\"lemas\":[\"decursus\"],\"lema_canonico\":\"decursus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"substantivo: descida, curso descendente; declive; leito de água; manobra militar; curso/decorrer. Também particípio perfeito passivo de dēcurrō: 'tendo descido/corrido'.\",\"aliases\":[],\"exemplos\":[\"Lucr. 1, 284\",\"Ov. Met. 15, 266\",\"Verg. A. 12, 523\",\"Frontin. Strat. 1, 5, 6\",\"Tac. Ann. 2, 55\"],\"notas\":\"Unificado o sentido nominal e verbal; marcado morph_extra por ser também particípio.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_7674:7674:0\",\"lemas\":[\"decursus\"],\"lema_canonico\":\"decursus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"substantivo: descida, curso descendente; declive; leito de água; manobra militar; curso/decorrer. Também particípio perfeito passivo de dēcurrō: 'tendo descido/corrido'.\",\"aliases\":[],\"exemplos\":[\"Lucr. 1, 284\",\"Ov. Met. 15, 266\",\"Verg. A. 12, 523\",\"Frontin. Strat. 1, 5, 6\",\"Tac. Ann. 2, 55\"],\"notas\":\"Unificado o sentido nominal e verbal; marcado morph_extra por ser também particípio.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_7675-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_7675",
-    "page_num": 7675,
-    "lemmas": [
-      "decursus",
-      "decursus"
-    ],
-    "morfologia": "s. masc. 4ª (-us)",
-    "morph_render": "s. masc. 4ª (-us)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "descida, curso descendente; declive; corrente/queda de água; movimento/marcha militar; curso, decurso (de tempo)",
-    "exemplos": [],
-    "notas": "[dedupe] redirect → chunk_7674:7674:0 | [dedupe] redirect → chunk_7674:7674:0",
-    "raw_text": "{\"id\":\"chunk_7675:7675:0\",\"lemas\":[\"decursus\"],\"lema_canonico\":\"decursus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"descida, curso descendente; declive; corrente/queda de água; movimento/marcha militar; curso, decurso (de tempo)\",\"aliases\":[],\"exemplos\":[\"Verg. A. 12, 523\",\"Liv. 40, 9, 10\",\"Quint. 9, 4, 115\",\"Suet. Ner. 24\",\"Cic. De Or. 1\"],\"notas\":\"\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_7675:7675:0\",\"lemas\":[\"decursus\"],\"lema_canonico\":\"decursus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"descida, curso descendente; declive; corrente/queda de água; movimento/marcha militar; curso, decurso (de tempo)\",\"aliases\":[],\"exemplos\":[\"Verg. A. 12, 523\",\"Liv. 40, 9, 10\",\"Quint. 9, 4, 115\",\"Suet. Ner. 24\",\"Cic. De Or. 1\"],\"notas\":\"\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_7676-e1",
@@ -1984,28 +1652,6 @@
     "raw_json": "{\"id\":\"chunk_7680:7680:0\",\"lemas\":[\"decussō\",\"decusso\"],\"lema_canonico\":\"decussō\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"dividir em forma de X; cruzar em forma de X (decussate).\",\"aliases\":[],\"exemplos\":[\"Cic. Tim. 24\"],\"notas\":\"Lema alinhado com Lewis & Short e Whitaker; normalizada grafia sem macrons opcionais.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_7681-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_7681",
-    "page_num": 7681,
-    "lemmas": [
-      "decussus",
-      "decussus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Particípio perfeito passivo de decutio (decutere, decussi, decussus): derrubado, deslocado, desalojado; sacudido.",
-    "exemplos": [],
-    "notas": "Duplicata editorial da mesma entrada; consolidei a forma e os sentidos segundo LS e Whitaker. | [dedupe] redirect → chunk_7678:7678:0 | [dedupe] redirect → chunk_7678:7678:0",
-    "raw_text": "{\"id\":\"chunk_7681:7681:0\",\"lemas\":[\"decussus\"],\"lema_canonico\":\"decussus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo de decutio (decutere, decussi, decussus): derrubado, deslocado, desalojado; sacudido.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Duplicata editorial da mesma entrada; consolidei a forma e os sentidos segundo LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_7681:7681:0\",\"lemas\":[\"decussus\"],\"lema_canonico\":\"decussus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo de decutio (decutere, decussi, decussus): derrubado, deslocado, desalojado; sacudido.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Duplicata editorial da mesma entrada; consolidei a forma e os sentidos segundo LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_7682-e1",
     "volume_id": "faria",
     "doc_name": "chunk_7682",
@@ -2026,28 +1672,6 @@
     "notas": "Fontes em conflito: Whitaker registra forma de 3ª conj. (decutere), Lewis & Short atesta também dēcūtĭo (4ª) com significado distinto ('to flay'). Mantida a leitura transitiva de 3ª conj. conforme first_pass/Whitaker.",
     "raw_text": "{\"id\":\"chunk_7682:7682:0\",\"lemas\":[\"decutiō\",\"decutere\"],\"lema_canonico\":\"decutere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"sacudir, fazer cair; derrubar (verbo transitivo).\",\"aliases\":[],\"exemplos\":[\"Verg. En. 10, 718\",\"T. Liv. 33, 17, 9\"],\"notas\":\"Fontes em conflito: Whitaker registra forma de 3ª conj. (decutere), Lewis & Short atesta também dēcūtĭo (4ª) com significado distinto ('to flay'). Mantida a leitura transitiva de 3ª conj. conforme first_pass/Whitaker.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"src_firstpass\",\"conf:low\"]}",
     "raw_json": "{\"id\":\"chunk_7682:7682:0\",\"lemas\":[\"decutiō\",\"decutere\"],\"lema_canonico\":\"decutere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"sacudir, fazer cair; derrubar (verbo transitivo).\",\"aliases\":[],\"exemplos\":[\"Verg. En. 10, 718\",\"T. Liv. 33, 17, 9\"],\"notas\":\"Fontes em conflito: Whitaker registra forma de 3ª conj. (decutere), Lewis & Short atesta também dēcūtĭo (4ª) com significado distinto ('to flay'). Mantida a leitura transitiva de 3ª conj. conforme first_pass/Whitaker.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"src_firstpass\",\"conf:low\"]}"
-  },
-  {
-    "id": "chunk_7683-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_7683",
-    "page_num": 7683,
-    "lemmas": [
-      "dē-dĕcet",
-      "dē-dĕcet"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Verbo impessoal intr.: não convém; é indecoroso, fica mal.",
-    "exemplos": [],
-    "notas": "Forma perfeita dēdecuit confirmada; impessoalidade preservada. | [dedupe] redirect → chunk_7687:7687:0 | [dedupe] redirect → chunk_7687:7687:0 | [ocr_fix 2025-08-17T19:47:17Z] match direto em LS por lemma/lemma_norm | lemma_in='dedecet' → 'dē-dĕcet'",
-    "raw_text": "{\"id\":\"chunk_7683:7683:0\",\"lemas\":[\"dedecet\"],\"lema_canonico\":\"dedecet\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"Verbo impessoal intr.: não convém; é indecoroso, fica mal.\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 4, 55\",\"Ov. Am. 1, 7, 12\"],\"notas\":\"Forma perfeita dēdecuit confirmada; impessoalidade preservada.\",\"flags\":[\"src_latdeu\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_7683:7683:0\",\"lemas\":[\"dedecet\"],\"lema_canonico\":\"dedecet\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"Verbo impessoal intr.: não convém; é indecoroso, fica mal.\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 4, 55\",\"Ov. Am. 1, 7, 12\"],\"notas\":\"Forma perfeita dēdecuit confirmada; impessoalidade preservada.\",\"flags\":[\"src_latdeu\",\"conf:med\"]}"
   },
   {
     "id": "chunk_7684-e1",
@@ -2116,28 +1740,6 @@
     "raw_json": "{\"id\":\"chunk_7685:7685:1\",\"lemas\":[\"dedecoro\",\"dedecorare\"],\"lema_canonico\":\"dedecoro\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"Verbo transitivo: desonrar, difamar; tornar feio, desfigurar (sentido físico e moral).\",\"aliases\":[],\"exemplos\":[\"Prop. 3, 22, 36\",\"Cic. Off. 3, 6\"],\"notas\":\"Formas e significados confirmados por Faria, Whitaker e LS.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_7686-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_7686",
-    "page_num": 7686,
-    "lemmas": [
-      "dedecorus",
-      "dedecorus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "desonroso, vergonhoso; que causa desonra.",
-    "exemplos": [],
-    "notas": "Formas plural/variações incluídas; coerente com Whitaker e uso em literatura. | [dedupe] redirect → chunk_7685:7685:0 | [dedupe] redirect → chunk_7685:7685:0",
-    "raw_text": "{\"id\":\"chunk_7686:7686:0\",\"lemas\":[\"dedecorus\",\"dedecora\",\"dedecorum\"],\"lema_canonico\":\"dedecorus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"desonroso, vergonhoso; que causa desonra.\",\"aliases\":[],\"exemplos\":[\"Tac. Ann. 3, 32\"],\"notas\":\"Formas plural/variações incluídas; coerente com Whitaker e uso em literatura.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_7686:7686:0\",\"lemas\":[\"dedecorus\",\"dedecora\",\"dedecorum\"],\"lema_canonico\":\"dedecorus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"desonroso, vergonhoso; que causa desonra.\",\"aliases\":[],\"exemplos\":[\"Tac. Ann. 3, 32\"],\"notas\":\"Formas plural/variações incluídas; coerente com Whitaker e uso em literatura.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_7687-e1",
     "volume_id": "faria",
     "doc_name": "chunk_7687",
@@ -2204,30 +1806,6 @@
     "notas": "Correlacionado com lat. dēdīgnārī (depon.). Entrada portuguesa 'desdenhar' mapeada para dedignor.",
     "raw_text": "{\"id\":\"chunk_7688:7688:1\",\"lemas\":[\"dedignor\",\"dedignari\"],\"lema_canonico\":\"dedignor\",\"morfologia\":\"v. 1ª (-āre), dep.\",\"morph_extra\":[],\"definicao\":\"Recusar com desprezo; desprezar; mostrar-se indigno de algo.\",\"aliases\":[],\"exemplos\":[\"Verg. En. 4, 536\"],\"notas\":\"Correlacionado com lat. dēdīgnārī (depon.). Entrada portuguesa 'desdenhar' mapeada para dedignor.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_7688:7688:1\",\"lemas\":[\"dedignor\",\"dedignari\"],\"lema_canonico\":\"dedignor\",\"morfologia\":\"v. 1ª (-āre), dep.\",\"morph_extra\":[],\"definicao\":\"Recusar com desprezo; desprezar; mostrar-se indigno de algo.\",\"aliases\":[],\"exemplos\":[\"Verg. En. 4, 536\"],\"notas\":\"Correlacionado com lat. dēdīgnārī (depon.). Entrada portuguesa 'desdenhar' mapeada para dedignor.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_7688-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_7688",
-    "page_num": 7688,
-    "lemmas": [
-      "dedignor",
-      "dedignor"
-    ],
-    "morfologia": "v. 1ª (-āre), dep.",
-    "morph_render": "v. 1ª (-āre), dep.",
-    "morph_extra": [
-      "dep."
-    ],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Recusar com desprezo; recusar por dignidade; desprezar.",
-    "exemplos": [],
-    "notas": "Forma deponente confirmada em Whitaker e Lat→Deu; mantida referência a Virgílio. | [dedupe] redirect → chunk_7688:7688:1 | [dedupe] redirect → chunk_7688:7688:1",
-    "raw_text": "{\"id\":\"chunk_7688:7688:2\",\"lemas\":[\"dedignor\",\"dedignari\"],\"lema_canonico\":\"dedignor\",\"morfologia\":\"v. 1ª (-āre), dep.\",\"morph_extra\":[],\"definicao\":\"Recusar com desprezo; recusar por dignidade; desprezar.\",\"aliases\":[],\"exemplos\":[\"Verg. En. 4, 536\"],\"notas\":\"Forma deponente confirmada em Whitaker e Lat→Deu; mantida referência a Virgílio.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_7688:7688:2\",\"lemas\":[\"dedignor\",\"dedignari\"],\"lema_canonico\":\"dedignor\",\"morfologia\":\"v. 1ª (-āre), dep.\",\"morph_extra\":[],\"definicao\":\"Recusar com desprezo; recusar por dignidade; desprezar.\",\"aliases\":[],\"exemplos\":[\"Verg. En. 4, 536\"],\"notas\":\"Forma deponente confirmada em Whitaker e Lat→Deu; mantida referência a Virgílio.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_7689-e1",
@@ -2406,28 +1984,6 @@
     "raw_json": "{\"id\":\"chunk_7696:7696:0\",\"lemas\":[\"dedoleo\"],\"lema_canonico\":\"dedoleo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"Deixar de se afligir; pôr termo à dor.\",\"aliases\":[],\"exemplos\":[\"Ov. F. 3, 480\"],\"notas\":\"Forma e exemplo confirmados; seguiu-se Lat→Deu e correção do OCR.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_7697-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_7697",
-    "page_num": 7697,
-    "lemmas": [
-      "dē-dŏlĕo",
-      "dē-dŏlĕo"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Cessar de lamentar; pôr termo à própria dor.",
-    "exemplos": [],
-    "notas": "Entrada revista: dedolui é perfeito de dedoleo; classificação segundo Lat→Deu. | [dedupe] redirect → chunk_7696:7696:0 | [dedupe] redirect → chunk_7696:7696:0 | [ocr_fix 2025-08-17T19:47:17Z] match direto em LS por lemma/lemma_norm | lemma_in='dedoleo' → 'dē-dŏlĕo'",
-    "raw_text": "{\"id\":\"chunk_7697:7697:0\",\"lemas\":[\"dedoleo\"],\"lema_canonico\":\"dedoleo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"Cessar de lamentar; pôr termo à própria dor.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada revista: dedolui é perfeito de dedoleo; classificação segundo Lat→Deu.\",\"flags\":[\"src_latdeu\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_7697:7697:0\",\"lemas\":[\"dedoleo\"],\"lema_canonico\":\"dedoleo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"Cessar de lamentar; pôr termo à própria dor.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada revista: dedolui é perfeito de dedoleo; classificação segundo Lat→Deu.\",\"flags\":[\"src_latdeu\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_7698-e1",
     "volume_id": "faria",
     "doc_name": "chunk_7698",
@@ -2448,28 +2004,6 @@
     "notas": "Paradigma indicado (dēdūcō, dēdūxī, dēductus); sentidos reunidos das fontes.",
     "raw_text": "{\"id\":\"chunk_7698:7698:0\",\"lemas\":[\"dēdūcō\",\"deduco\"],\"lema_canonico\":\"dēdūcō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"levar/conduzir; fazer baixar; levar consigo; também: expulsar, fundar/assentar colonos, deduzir/explicar\",\"aliases\":[],\"exemplos\":[\"Ter. Eun. 538\"],\"notas\":\"Paradigma indicado (dēdūcō, dēdūxī, dēductus); sentidos reunidos das fontes.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_7698:7698:0\",\"lemas\":[\"dēdūcō\",\"deduco\"],\"lema_canonico\":\"dēdūcō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"levar/conduzir; fazer baixar; levar consigo; também: expulsar, fundar/assentar colonos, deduzir/explicar\",\"aliases\":[],\"exemplos\":[\"Ter. Eun. 538\"],\"notas\":\"Paradigma indicado (dēdūcō, dēdūxī, dēductus); sentidos reunidos das fontes.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_7699-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_7699",
-    "page_num": 7699,
-    "lemmas": [
-      "dēdūco",
-      "deduco"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "dēdūcō, dēdūcere: conduzir, levar; fazer descer, lançar (navios); retirar, desviar; compor, expor; também ‘guiar, escoltar’",
-    "exemplos": [],
-    "notas": "Normalizada a forma do infinitivo e a indicação de conjugação; exemplos verificados em LS/Whitaker. | [dedupe] redirect → chunk_7698:7698:0 | [dedupe] redirect → chunk_7698:7698:0 | [ocr_fix 2025-08-20T01:03:57Z] Correção automática de lema via Gaffiot | lemma_in='deduco' → 'dēdūco'",
-    "raw_text": "{\"id\":\"chunk_7699:7699:0\",\"lemas\":[\"deduco\",\"dēdūcō\"],\"lema_canonico\":\"deduco\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"dēdūcō, dēdūcere: conduzir, levar; fazer descer, lançar (navios); retirar, desviar; compor, expor; também ‘guiar, escoltar’\",\"aliases\":[],\"exemplos\":[\"Catull. 64, 313\",\"Caes. B. Gal. 4, 30, 3\",\"Cic. Div. 2, 69\",\"Cic. Verr. Pr. 25\",\"Liv. 6, 15, 10\",\"Caes. B. Gal. 5, 51, 2\",\"Caes. B. Gal. 5, 2, 2\",\"Cic. Fam. 10, 12, 2\",\"Ov. P. 1, 5, 13\"],\"notas\":\"Normalizada a forma do infinitivo e a indicação de conjugação; exemplos verificados em LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_7699:7699:0\",\"lemas\":[\"deduco\",\"dēdūcō\"],\"lema_canonico\":\"deduco\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"dēdūcō, dēdūcere: conduzir, levar; fazer descer, lançar (navios); retirar, desviar; compor, expor; também ‘guiar, escoltar’\",\"aliases\":[],\"exemplos\":[\"Catull. 64, 313\",\"Caes. B. Gal. 4, 30, 3\",\"Cic. Div. 2, 69\",\"Cic. Verr. Pr. 25\",\"Liv. 6, 15, 10\",\"Caes. B. Gal. 5, 51, 2\",\"Caes. B. Gal. 5, 2, 2\",\"Cic. Fam. 10, 12, 2\",\"Ov. P. 1, 5, 13\"],\"notas\":\"Normalizada a forma do infinitivo e a indicação de conjugação; exemplos verificados em LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_7700-e1",
@@ -2536,50 +2070,6 @@
     "notas": "Entrada corrigida para o infinitivo canónico; indicado que dēdūxī é a 1ª pessoa do singular do perfeito.",
     "raw_text": "{\"id\":\"chunk_7702:7702:1\",\"lemas\":[\"dēdūcō\"],\"lema_canonico\":\"dēdūcō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"perf. 1sg\"],\"definicao\":\"Forma perfeita (dēdūxī) do verbo dēdūcō: conduzir/levar/arrastar, trazer para baixo; aplicar-se também a sentidos figurados (deduzir, fundar colónias, etc.).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada corrigida para o infinitivo canónico; indicado que dēdūxī é a 1ª pessoa do singular do perfeito.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_7702:7702:1\",\"lemas\":[\"dēdūcō\"],\"lema_canonico\":\"dēdūcō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"perf. 1sg\"],\"definicao\":\"Forma perfeita (dēdūxī) do verbo dēdūcō: conduzir/levar/arrastar, trazer para baixo; aplicar-se também a sentidos figurados (deduzir, fundar colónias, etc.).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada corrigida para o infinitivo canónico; indicado que dēdūxī é a 1ª pessoa do singular do perfeito.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_7702-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_7702",
-    "page_num": 7702,
-    "lemmas": [
-      "deductus",
-      "deductus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Particípio passivo de dēdūcō; literalmente 'arrastado/baixado'; adjetivo: inclinado para baixo, atenuado; também 'voz fraca, estilo fino'.",
-    "exemplos": [],
-    "notas": "Combina leitura adjectival e participial conforme Lewis & Short e Whitaker. | [dedupe] redirect → chunk_7700:7700:0 | [dedupe] redirect → chunk_7700:7700:0",
-    "raw_text": "{\"id\":\"chunk_7702:7702:0\",\"lemas\":[\"deductus\",\"dēductus\"],\"lema_canonico\":\"deductus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio passivo de dēdūcō; literalmente 'arrastado/baixado'; adjetivo: inclinado para baixo, atenuado; também 'voz fraca, estilo fino'.\",\"aliases\":[],\"exemplos\":[\"Verg. Buc. 6, 5\"],\"notas\":\"Combina leitura adjectival e participial conforme Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_7702:7702:0\",\"lemas\":[\"deductus\",\"dēductus\"],\"lema_canonico\":\"deductus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio passivo de dēdūcō; literalmente 'arrastado/baixado'; adjetivo: inclinado para baixo, atenuado; também 'voz fraca, estilo fino'.\",\"aliases\":[],\"exemplos\":[\"Verg. Buc. 6, 5\"],\"notas\":\"Combina leitura adjectival e participial conforme Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_7703-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_7703",
-    "page_num": 7703,
-    "lemmas": [
-      "dē-sum",
-      "dē-sum"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "Formas do verbo dēsum, dēesse: dēerat = imperf. indic. 3 S. ‘faltava, estava ausente’; dēerit = fut. indic. 3 S. ‘faltará, estará ausente’.",
-    "exemplos": [],
-    "notas": "Entrada baseada em Lat→Deu/Whitaker; morfologia verbal irregular mapeada para categoria mais próxima (ver flags). | [dedupe] redirect → chunk_7440:7440:4 | [dedupe] redirect → chunk_7440:7440:4 | [ocr_fix 2025-08-17T19:47:34Z] match direto em LS por lemma/lemma_norm | lemma_in='desum' → 'dē-sum'",
-    "raw_text": "{\"id\":\"chunk_7703:7703:0\",\"lemas\":[\"deerat\",\"deerit\",\"desum\"],\"lema_canonico\":\"desum\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"impf. indic. 3 S.\",\"fut. indic. 3 S.\"],\"definicao\":\"Formas do verbo dēsum, dēesse: dēerat = imperf. indic. 3 S. ‘faltava, estava ausente’; dēerit = fut. indic. 3 S. ‘faltará, estará ausente’.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada baseada em Lat→Deu/Whitaker; morfologia verbal irregular mapeada para categoria mais próxima (ver flags).\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:med\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_7703:7703:0\",\"lemas\":[\"deerat\",\"deerit\",\"desum\"],\"lema_canonico\":\"desum\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"impf. indic. 3 S.\",\"fut. indic. 3 S.\"],\"definicao\":\"Formas do verbo dēsum, dēesse: dēerat = imperf. indic. 3 S. ‘faltava, estava ausente’; dēerit = fut. indic. 3 S. ‘faltará, estará ausente’.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada baseada em Lat→Deu/Whitaker; morfologia verbal irregular mapeada para categoria mais próxima (ver flags).\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:med\",\"morph_out_of_vocab\"]}"
   },
   {
     "id": "chunk_7704-e1",
@@ -2692,28 +2182,6 @@
     "raw_json": "{\"id\":\"chunk_7708:7708:0\",\"lemas\":[\"defatigo\",\"defatigare\"],\"lema_canonico\":\"defatigo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"fadigar, cansar, esgotar (transitivo)\",\"aliases\":[],\"exemplos\":[\"Cés. B. Gal. 7, 41, 2\",\"Cic. Leg. 3, 29\"],\"notas\":\"Inclui infinitivo variante defatigare (Lat→Deu). Normalizada ortografia a partir do first_pass.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_7708-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_7708",
-    "page_num": 7708,
-    "lemmas": [
-      "dē-fĕtiscor",
-      "dē-fĕtiscor"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "tornar-se cansado, ficar exausto (verbo deponente)",
-    "exemplos": [],
-    "notas": "Forma grafada 'defaticor/defatiscor' tratada como variante ortográfica de dēfătiscor/defetiscor (LS); marcada como deponente. | [dedupe] redirect → chunk_7708:7708:2 | [dedupe] redirect → chunk_7708:7708:2 | [ocr_fix 2025-08-17T19:57:18Z] match direto em LS por lemma/lemma_norm | lemma_in='defetiscor' → 'dē-fĕtiscor'",
-    "raw_text": "{\"id\":\"chunk_7708:7708:1\",\"lemas\":[\"defaticor\",\"defatiscor\",\"defetiscor\"],\"lema_canonico\":\"defetiscor\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"tornar-se cansado, ficar exausto (verbo deponente)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma grafada 'defaticor/defatiscor' tratada como variante ortográfica de dēfătiscor/defetiscor (LS); marcada como deponente.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_7708:7708:1\",\"lemas\":[\"defaticor\",\"defatiscor\",\"defetiscor\"],\"lema_canonico\":\"defetiscor\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"tornar-se cansado, ficar exausto (verbo deponente)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma grafada 'defaticor/defatiscor' tratada como variante ortográfica de dēfătiscor/defetiscor (LS); marcada como deponente.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_7708-e3",
     "volume_id": "faria",
     "doc_name": "chunk_7708",
@@ -2756,28 +2224,6 @@
     "notas": "Correlaciona-se com LS dēpĕciscor (var. dēpăciscor); supino depectus atestado.",
     "raw_text": "{\"id\":\"chunk_7708:7708:3\",\"lemas\":[\"depeciscor\",\"depecisci\",\"depaciscor\"],\"lema_canonico\":\"depeciscor\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"ajustar, pactuar; fazer um acordo (deponente)\",\"aliases\":[\"depaciscor\"],\"exemplos\":[],\"notas\":\"Correlaciona-se com LS dēpĕciscor (var. dēpăciscor); supino depectus atestado.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_7708:7708:3\",\"lemas\":[\"depeciscor\",\"depecisci\",\"depaciscor\"],\"lema_canonico\":\"depeciscor\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"ajustar, pactuar; fazer um acordo (deponente)\",\"aliases\":[\"depaciscor\"],\"exemplos\":[],\"notas\":\"Correlaciona-se com LS dēpĕciscor (var. dēpăciscor); supino depectus atestado.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_7708-e5",
-    "volume_id": "faria",
-    "doc_name": "chunk_7708",
-    "page_num": 7708,
-    "lemmas": [
-      "dē-fĕtiscor",
-      "dē-fĕtiscor"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "variante ortográfica apontando para defetiscor (tornar-se cansado)",
-    "exemplos": [],
-    "notas": "Registro como variante; normalizado para lema canônico defetiscor conforme LS. | [dedupe] redirect → chunk_7708:7708:2 | [dedupe] redirect → chunk_7708:7708:2 | [ocr_fix 2025-08-17T19:57:19Z] match direto em LS por lemma/lemma_norm | lemma_in='defetiscor' → 'dē-fĕtiscor'",
-    "raw_text": "{\"id\":\"chunk_7708:7708:4\",\"lemas\":[\"defaticior\",\"defătĭcior\",\"defetiscor\"],\"lema_canonico\":\"defetiscor\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"variante ortográfica apontando para defetiscor (tornar-se cansado)\",\"aliases\":[\"defetiscor\"],\"exemplos\":[],\"notas\":\"Registro como variante; normalizado para lema canônico defetiscor conforme LS.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_7708:7708:4\",\"lemas\":[\"defaticior\",\"defătĭcior\",\"defetiscor\"],\"lema_canonico\":\"defetiscor\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"variante ortográfica apontando para defetiscor (tornar-se cansado)\",\"aliases\":[\"defetiscor\"],\"exemplos\":[],\"notas\":\"Registro como variante; normalizado para lema canônico defetiscor conforme LS.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
     "id": "chunk_7709-e1",
@@ -2868,28 +2314,6 @@
     "raw_json": "{\"id\":\"chunk_7712:7712:0\",\"lemas\":[\"dēfectus\",\"defectus\"],\"lema_canonico\":\"dēfectus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"1) Subst.: defeito, falta, ausência; deserção, fracasso; diminuição, desaparecimento. 2) Particípio perfeito passivo de dēficiō: enfraquecido, debilitado.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Combina acepções nominal e participial; forma e sentido confirmados por LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_7713-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_7713",
-    "page_num": 7713,
-    "lemmas": [
-      "defectus",
-      "defectus"
-    ],
-    "morfologia": "s. masc. 4ª (-us)",
-    "morph_render": "s. masc. 4ª (-us)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "dēfectus: abandono, defeição; falta, desaparecimento; fraqueza, diminuição",
-    "exemplos": [],
-    "notas": "Mantida a declinação -ūs (4ª decl.); acepções reunidas a partir de LS/Whitaker. | [dedupe] redirect → chunk_7712:7712:0 | [dedupe] redirect → chunk_7712:7712:0",
-    "raw_text": "{\"id\":\"chunk_7713:7713:0\",\"lemas\":[\"defectus\",\"dēfectus\"],\"lema_canonico\":\"defectus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"dēfectus: abandono, defeição; falta, desaparecimento; fraqueza, diminuição\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 2, 50\",\"Curt. 7, 19, 39\",\"Plin. Nat. 20, 23, 96\"],\"notas\":\"Mantida a declinação -ūs (4ª decl.); acepções reunidas a partir de LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_7713:7713:0\",\"lemas\":[\"defectus\",\"dēfectus\"],\"lema_canonico\":\"defectus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"dēfectus: abandono, defeição; falta, desaparecimento; fraqueza, diminuição\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 2, 50\",\"Curt. 7, 19, 39\",\"Plin. Nat. 20, 23, 96\"],\"notas\":\"Mantida a declinação -ūs (4ª decl.); acepções reunidas a partir de LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_7714-e1",
     "volume_id": "faria",
     "doc_name": "chunk_7714",
@@ -2932,28 +2356,6 @@
     "notas": "Normalizado paradigma e regência; lema em infinitivo como canônico.",
     "raw_text": "{\"id\":\"chunk_7715:7715:0\",\"lemas\":[\"defendere\",\"defendo\"],\"lema_canonico\":\"defendere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Repelir, afastar; defender, proteger; também sustentar em juízo ou em argumento.\",\"aliases\":[],\"exemplos\":[\"Cés. B. Gal. 1, 44, 61\",\"Cíc. Or. 8, 71\",\"Cés. B. Gal. 3, 16, 3\",\"Quint. 43\",\"Cíc. Verr. 3, 211\",\"Verg. En. 8, 493\"],\"notas\":\"Normalizado paradigma e regência; lema em infinitivo como canônico.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_7715:7715:0\",\"lemas\":[\"defendere\",\"defendo\"],\"lema_canonico\":\"defendere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Repelir, afastar; defender, proteger; também sustentar em juízo ou em argumento.\",\"aliases\":[],\"exemplos\":[\"Cés. B. Gal. 1, 44, 61\",\"Cíc. Or. 8, 71\",\"Cés. B. Gal. 3, 16, 3\",\"Quint. 43\",\"Cíc. Verr. 3, 211\",\"Verg. En. 8, 493\"],\"notas\":\"Normalizado paradigma e regência; lema em infinitivo como canônico.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_7716-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_7716",
-    "page_num": 7716,
-    "lemmas": [
-      "defendo",
-      "defendo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Recusar/afastar; defender, proteger, guardar; justificar; repelir; em tribunal/retórica: pleitear em defesa.",
-    "exemplos": [],
-    "notas": "Paradigma completo fornecido; sentidos alinhados com LS/Whitaker. | [dedupe] redirect → chunk_7714:7714:0 | [dedupe] redirect → chunk_7714:7714:0",
-    "raw_text": "{\"id\":\"chunk_7716:7716:0\",\"lemas\":[\"defendo\",\"defendere\",\"defendi\",\"defensus\"],\"lema_canonico\":\"defendo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Recusar/afastar; defender, proteger, guardar; justificar; repelir; em tribunal/retórica: pleitear em defesa.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Paradigma completo fornecido; sentidos alinhados com LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_7716:7716:0\",\"lemas\":[\"defendo\",\"defendere\",\"defendi\",\"defensus\"],\"lema_canonico\":\"defendo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Recusar/afastar; defender, proteger, guardar; justificar; repelir; em tribunal/retórica: pleitear em defesa.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Paradigma completo fornecido; sentidos alinhados com LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_7717-e1",
@@ -3000,28 +2402,6 @@
     "raw_json": "{\"id\":\"chunk_7718:7718:0\",\"lemas\":[\"defensus\",\"defensa\",\"defensum\"],\"lema_canonico\":\"defensus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de defendere: defendido, protegido, amparado.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Particípio tratado como adjetivo 1/2; variantes de gênero incluídas.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_7718-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_7718",
-    "page_num": 7718,
-    "lemmas": [
-      "dēfervesco",
-      "dēfervesco"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "defervescere: aquecer/ferver e depois arrefecer; perfeito deferbui/defervui indicam 'arrefeceu', figuradamente 'a paixão esfriou'.",
-    "exemplos": [],
-    "notas": "Lema normalizado para o infinitivo; formas perfeitas incluídas como variantes. | [dedupe] redirect → chunk_7720:7720:0 | [dedupe] redirect → chunk_7720:7720:0 | [ocr_fix 2025-08-17T19:47:15Z] similaridade semântica FAISS (definição/gloss) + reranking por forma | lemma_in='defervesco' → 'dēfervesco'",
-    "raw_text": "{\"id\":\"chunk_7718:7718:1\",\"lemas\":[\"defervesco\"],\"lema_canonico\":\"defervesco\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"defervescere: aquecer/ferver e depois arrefecer; perfeito deferbui/defervui indicam 'arrefeceu', figuradamente 'a paixão esfriou'.\",\"aliases\":[\"defervui\",\"deferbui\"],\"exemplos\":[],\"notas\":\"Lema normalizado para o infinitivo; formas perfeitas incluídas como variantes.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_7718:7718:1\",\"lemas\":[\"defervesco\"],\"lema_canonico\":\"defervesco\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"defervescere: aquecer/ferver e depois arrefecer; perfeito deferbui/defervui indicam 'arrefeceu', figuradamente 'a paixão esfriou'.\",\"aliases\":[\"defervui\",\"deferbui\"],\"exemplos\":[],\"notas\":\"Lema normalizado para o infinitivo; formas perfeitas incluídas como variantes.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_7719-e1",
     "volume_id": "faria",
     "doc_name": "chunk_7719",
@@ -3064,50 +2444,6 @@
     "notas": "Paradigma regular adotado (defervēscere); variantes de perfeito indicadas em fontes, mas não como lemas.",
     "raw_text": "{\"id\":\"chunk_7720:7720:0\",\"lemas\":[\"defervesco\",\"dēfervēscō\"],\"lema_canonico\":\"defervesco\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"to cease to boil; to abate, calm down (literal and figurative)\",\"aliases\":[],\"exemplos\":[\"Cat. Agr. 96\",\"Cic. Tusc. 4, 78\"],\"notas\":\"Paradigma regular adotado (defervēscere); variantes de perfeito indicadas em fontes, mas não como lemas.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_7720:7720:0\",\"lemas\":[\"defervesco\",\"dēfervēscō\"],\"lema_canonico\":\"defervesco\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"to cease to boil; to abate, calm down (literal and figurative)\",\"aliases\":[],\"exemplos\":[\"Cat. Agr. 96\",\"Cic. Tusc. 4, 78\"],\"notas\":\"Paradigma regular adotado (defervēscere); variantes de perfeito indicadas em fontes, mas não como lemas.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_7721-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_7721",
-    "page_num": 7721,
-    "lemmas": [
-      "defensus",
-      "defensus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Particípio perfeito passivo de dēfendō: defendido; usado como adjetivo ‘protegido, defendido’; pode substantivar-se (‘o defendido’).",
-    "exemplos": [],
-    "notas": "Normalizado a forma e classificado como adj. 1/2 com marca de part. perf. pass. | [dedupe] redirect → chunk_7718:7718:0 | [dedupe] redirect → chunk_7718:7718:0",
-    "raw_text": "{\"id\":\"chunk_7721:7721:0\",\"lemas\":[\"defensus\",\"defensus, defensa, defensum\"],\"lema_canonico\":\"defensus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo de dēfendō: defendido; usado como adjetivo ‘protegido, defendido’; pode substantivar-se (‘o defendido’).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizado a forma e classificado como adj. 1/2 com marca de part. perf. pass.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_7721:7721:0\",\"lemas\":[\"defensus\",\"defensus, defensa, defensum\"],\"lema_canonico\":\"defensus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo de dēfendō: defendido; usado como adjetivo ‘protegido, defendido’; pode substantivar-se (‘o defendido’).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizado a forma e classificado como adj. 1/2 com marca de part. perf. pass.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_7722-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_7722",
-    "page_num": 7722,
-    "lemmas": [
-      "dē-fĕtiscor",
-      "dē-fĕtiscor"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "defetīscī (deponente): tornar-se fatigado, exaurir‑se, ficar exausto.",
-    "exemplos": [],
-    "notas": "Ver formas principais defetiscor, defetisci, defessus sum; deponente. | [dedupe] redirect → chunk_7708:7708:2 | [dedupe] redirect → chunk_7708:7708:2 | [ocr_fix 2025-08-17T19:47:16Z] match direto em LS por lemma/lemma_norm | lemma_in='defetiscor' → 'dē-fĕtiscor'",
-    "raw_text": "{\"id\":\"chunk_7722:7722:0\",\"lemas\":[\"defetiscor\"],\"lema_canonico\":\"defetiscor\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"defetīscī (deponente): tornar-se fatigado, exaurir‑se, ficar exausto.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Ver formas principais defetiscor, defetisci, defessus sum; deponente.\",\"flags\":[\"src_latdeu\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_7722:7722:0\",\"lemas\":[\"defetiscor\"],\"lema_canonico\":\"defetiscor\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"defetīscī (deponente): tornar-se fatigado, exaurir‑se, ficar exausto.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Ver formas principais defetiscor, defetisci, defessus sum; deponente.\",\"flags\":[\"src_latdeu\",\"conf:med\"]}"
   },
   {
     "id": "chunk_7723-e1",
@@ -3176,28 +2512,6 @@
     "raw_json": "{\"id\":\"chunk_7725:7725:0\",\"lemas\":[\"dēfingo\",\"defingo\"],\"lema_canonico\":\"dēfingo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"dēfingō, dēfingere, dēfīnxī, dēfictum — moldar, formar; representar, retratar; também fig.: desfigurar, deformar.\",\"aliases\":[],\"exemplos\":[\"Hor. Sat. 1, 10, 37\"],\"notas\":\"Lema normalizado para infinitivo; transitivo.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_7726-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_7726",
-    "page_num": 7726,
-    "lemmas": [
-      "definio",
-      "definio"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "to bound, limit, determine; to define, explain; to finish/terminate (rhetorical sense)",
-    "exemplos": [],
-    "notas": "Paradigma com variantes de supino (-īvī / -iī) reconhecido; sentidos alinhados com LS. | [dedupe] redirect → chunk_8450:8450:1 | [dedupe] redirect → chunk_8450:8450:1",
-    "raw_text": "{\"id\":\"chunk_7726:7726:0\",\"lemas\":[\"definio\",\"dēfīnīō\"],\"lema_canonico\":\"definio\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"to bound, limit, determine; to define, explain; to finish/terminate (rhetorical sense)\",\"aliases\":[],\"exemplos\":[\"Cic. Caec. 22\",\"Cic. Tusc. 2, 30\",\"Ces. B. Civ. 3, 82\",\"Cic. Or. 175\"],\"notas\":\"Paradigma com variantes de supino (-īvī / -iī) reconhecido; sentidos alinhados com LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_7726:7726:0\",\"lemas\":[\"definio\",\"dēfīnīō\"],\"lema_canonico\":\"definio\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"to bound, limit, determine; to define, explain; to finish/terminate (rhetorical sense)\",\"aliases\":[],\"exemplos\":[\"Cic. Caec. 22\",\"Cic. Tusc. 2, 30\",\"Ces. B. Civ. 3, 82\",\"Cic. Or. 175\"],\"notas\":\"Paradigma com variantes de supino (-īvī / -iī) reconhecido; sentidos alinhados com LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_7727-e1",
     "volume_id": "faria",
     "doc_name": "chunk_7727",
@@ -3218,28 +2532,6 @@
     "notas": "Adverbial derivada de dēfīnītus; exemplo preservado da primeira passada.",
     "raw_text": "{\"id\":\"chunk_7727:7727:0\",\"lemas\":[\"dēfinite\",\"definite\"],\"lema_canonico\":\"dēfinite\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"de modo determinado/preciso; distintamente, expressamente.\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 2, 118\"],\"notas\":\"Adverbial derivada de dēfīnītus; exemplo preservado da primeira passada.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_firstpass\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_7727:7727:0\",\"lemas\":[\"dēfinite\",\"definite\"],\"lema_canonico\":\"dēfinite\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"de modo determinado/preciso; distintamente, expressamente.\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 2, 118\"],\"notas\":\"Adverbial derivada de dēfīnītus; exemplo preservado da primeira passada.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_firstpass\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_7728-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_7728",
-    "page_num": 7728,
-    "lemmas": [
-      "definitio",
-      "definitio"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "bounding; a limit; a definition, explanation",
-    "exemplos": [],
-    "notas": "Alineado com LS e Whitaker; normalizada grafia sem macrons opcionais no lema. | [dedupe] redirect → chunk_8451:8451:0 | [dedupe] redirect → chunk_8451:8451:0",
-    "raw_text": "{\"id\":\"chunk_7728:7728:0\",\"lemas\":[\"definitio\",\"dēfīnītĭo\"],\"lema_canonico\":\"definitio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"bounding; a limit; a definition, explanation\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 1, 189\",\"Cic. Clu. 5\"],\"notas\":\"Alineado com LS e Whitaker; normalizada grafia sem macrons opcionais no lema.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_7728:7728:0\",\"lemas\":[\"definitio\",\"dēfīnītĭo\"],\"lema_canonico\":\"definitio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"bounding; a limit; a definition, explanation\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 1, 189\",\"Cic. Clu. 5\"],\"notas\":\"Alineado com LS e Whitaker; normalizada grafia sem macrons opcionais no lema.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_7729-e1",
@@ -3462,28 +2754,6 @@
     "raw_json": "{\"id\":\"chunk_7736:7736:0\",\"lemas\":[\"defleo\",\"dēflēō\"],\"lema_canonico\":\"defleo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"tr.\",\"intr.\"],\"definicao\":\"to weep for, bewail; to lament; to weep abundantly\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 3, 9\",\"Tac. Ann. 16, 13\"],\"notas\":\"Forma e sentidos confirmados; marcação transitiva/intransitiva mantida.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_7737-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_7737",
-    "page_num": 7737,
-    "lemmas": [
-      "dēfīnītus",
-      "dēfīnītus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Particípio passado de dēfīnīre: definido, determinado; preciso, limitado.",
-    "exemplos": [],
-    "notas": "Corrige leitura OCR; forma e sentido confirmados por LS e Lat→Deu. | [dedupe] redirect → chunk_7730:7730:0 | [dedupe] redirect → chunk_7730:7730:0",
-    "raw_text": "{\"id\":\"chunk_7737:7737:0\",\"lemas\":[\"dēfīnītus\",\"definitus\"],\"lema_canonico\":\"dēfīnītus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio passado de dēfīnīre: definido, determinado; preciso, limitado.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrige leitura OCR; forma e sentido confirmados por LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_7737:7737:0\",\"lemas\":[\"dēfīnītus\",\"definitus\"],\"lema_canonico\":\"dēfīnītus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio passado de dēfīnīre: definido, determinado; preciso, limitado.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrige leitura OCR; forma e sentido confirmados por LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_7738-e1",
     "volume_id": "faria",
     "doc_name": "chunk_7738",
@@ -3594,50 +2864,6 @@
     "raw_json": "{\"id\":\"chunk_7742:7742:0\",\"lemas\":[\"dēflōrescō\",\"defloresco\"],\"lema_canonico\":\"dēflōrescō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Perder as flores; desflorir, murchar (sentido próprio e figurado).\",\"aliases\":[],\"exemplos\":[\"Catul. 62, 43\",\"Cic. Cael. 44\"],\"notas\":\"Unificada ortografia e classificação como verbo intransitivo; confirmada por dicionários.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_7743-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_7743",
-    "page_num": 7743,
-    "lemmas": [
-      "dēfluō",
-      "dēfluō"
-    ],
-    "morfologia": "v. 3ª -ere",
-    "morph_render": "v. 3ª -ere",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Fluir para baixo; escorrer, escoar; também: afastar-se, desaparecer; originar-se de (sentidos principais).",
-    "exemplos": [],
-    "notas": "Forma verbal com variantes adjetivais defluus/deflua confirmada por Whitaker e Lat→Deu. | [dedupe] redirect → chunk_7744:7744:1 | [dedupe] redirect → chunk_7744:7744:1",
-    "raw_text": "{\"id\":\"chunk_7743:7743:0\",\"lemas\":[\"dēfluō\",\"defluo\"],\"lema_canonico\":\"dēfluō\",\"morfologia\":\"v. 3ª -ere\",\"morph_extra\":[],\"definicao\":\"Fluir para baixo; escorrer, escoar; também: afastar-se, desaparecer; originar-se de (sentidos principais).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma verbal com variantes adjetivais defluus/deflua confirmada por Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_7743:7743:0\",\"lemas\":[\"dēfluō\",\"defluo\"],\"lema_canonico\":\"dēfluō\",\"morfologia\":\"v. 3ª -ere\",\"morph_extra\":[],\"definicao\":\"Fluir para baixo; escorrer, escoar; também: afastar-se, desaparecer; originar-se de (sentidos principais).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma verbal com variantes adjetivais defluus/deflua confirmada por Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_7744-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_7744",
-    "page_num": 7744,
-    "lemmas": [
-      "dēfīgo",
-      "dēfīgō"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Verbo dēfīgō (dēfīgere), formar-se: fixar, cravar, atar; particípio/perfeito: dēfīxī (ou dēfixus como particípio).",
-    "exemplos": [],
-    "notas": "Baseado em Lat→Deu e Whitaker: entries para dēfīgere/dēfīgō/dēfīxī/dēfīxum; normalizei lema e marquei particípio. | [dedupe] redirect → chunk_7731:7731:0 | [dedupe] redirect → chunk_7731:7731:0 | [ocr_fix 2025-08-20T01:03:57Z] Correção automática de lema via Gaffiot | lemma_in='dēfīgō' → 'dēfīgo'",
-    "raw_text": "{\"id\":\"chunk_7744:7744:4\",\"lemas\":[\"dēfīgō\",\"dēfixus\"],\"lema_canonico\":\"dēfīgō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Verbo dēfīgō (dēfīgere), formar-se: fixar, cravar, atar; particípio/perfeito: dēfīxī (ou dēfixus como particípio).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Baseado em Lat→Deu e Whitaker: entries para dēfīgere/dēfīgō/dēfīxī/dēfīxum; normalizei lema e marquei particípio.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_7744:7744:4\",\"lemas\":[\"dēfīgō\",\"dēfixus\"],\"lema_canonico\":\"dēfīgō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Verbo dēfīgō (dēfīgere), formar-se: fixar, cravar, atar; particípio/perfeito: dēfīxī (ou dēfixus como particípio).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Baseado em Lat→Deu e Whitaker: entries para dēfīgere/dēfīgō/dēfīxī/dēfīxum; normalizei lema e marquei particípio.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_7744-e2",
     "volume_id": "faria",
     "doc_name": "chunk_7744",
@@ -3724,50 +2950,6 @@
     "notas": "Forma nominal atestada em Whitaker como substantivo derivado do verbo; gênero/declinação conforme essa fonte.",
     "raw_text": "{\"id\":\"chunk_7744:7744:2\",\"lemas\":[\"defluio\"],\"lema_canonico\":\"defluio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Substantivo derivado de defluere: ato de fluir, defluxão; forma registrada como nome (archaic/derivative).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma nominal atestada em Whitaker como substantivo derivado do verbo; gênero/declinação conforme essa fonte.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_7744:7744:2\",\"lemas\":[\"defluio\"],\"lema_canonico\":\"defluio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Substantivo derivado de defluere: ato de fluir, defluxão; forma registrada como nome (archaic/derivative).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma nominal atestada em Whitaker como substantivo derivado do verbo; gênero/declinação conforme essa fonte.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_7744-e6",
-    "volume_id": "faria",
-    "doc_name": "chunk_7744",
-    "page_num": 7744,
-    "lemmas": [
-      "defluio",
-      "defluio"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Variante nominal referindo-se ao ato de fluir; equivalente a defluio (substantivo derivado de defluere).",
-    "exemplos": [],
-    "notas": "Entrada refletindo a variante documentada em Whitaker; não conflita com a forma verbal defluo, mas requer verificação de testemunhos adicionais. | [dedupe] redirect → chunk_7744:7744:2 | [dedupe] redirect → chunk_7744:7744:2",
-    "raw_text": "{\"id\":\"chunk_7744:7744:3\",\"lemas\":[\"defluio\"],\"lema_canonico\":\"defluio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Variante nominal referindo-se ao ato de fluir; equivalente a defluio (substantivo derivado de defluere).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada refletindo a variante documentada em Whitaker; não conflita com a forma verbal defluo, mas requer verificação de testemunhos adicionais.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_7744:7744:3\",\"lemas\":[\"defluio\"],\"lema_canonico\":\"defluio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Variante nominal referindo-se ao ato de fluir; equivalente a defluio (substantivo derivado de defluere).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada refletindo a variante documentada em Whitaker; não conflita com a forma verbal defluo, mas requer verificação de testemunhos adicionais.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_7745-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_7745",
-    "page_num": 7745,
-    "lemmas": [
-      "dēfŏdĭo",
-      "defodio"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "cavar; escavar; enterrar, sepultar; também inserir, embutir (transitivo)",
-    "exemplos": [],
-    "notas": "Lema e sentidos confirmados em Lat→Deu e Whitaker (dēfodio/defodio). Normalizada grafia sem macron. | [dedupe] redirect → chunk_7744:7744:5 | [dedupe] redirect → chunk_7744:7744:5 | [ocr_fix 2025-08-20T01:03:57Z] Correção automática de lema via Gaffiot | lemma_in='defodio' → 'dēfŏdĭo'",
-    "raw_text": "{\"id\":\"chunk_7745:7745:0\",\"lemas\":[\"defodio\",\"dēfodio\"],\"lema_canonico\":\"defodio\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"cavar; escavar; enterrar, sepultar; também inserir, embutir (transitivo)\",\"aliases\":[],\"exemplos\":[\"Hor. Sat. 1, 1, 127\",\"Cic. Div. 1, 33\"],\"notas\":\"Lema e sentidos confirmados em Lat→Deu e Whitaker (dēfodio/defodio). Normalizada grafia sem macron.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_7745:7745:0\",\"lemas\":[\"defodio\",\"dēfodio\"],\"lema_canonico\":\"defodio\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"cavar; escavar; enterrar, sepultar; também inserir, embutir (transitivo)\",\"aliases\":[],\"exemplos\":[\"Hor. Sat. 1, 1, 127\",\"Cic. Div. 1, 33\"],\"notas\":\"Lema e sentidos confirmados em Lat→Deu e Whitaker (dēfodio/defodio). Normalizada grafia sem macron.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_7746-e1",
@@ -4122,28 +3304,6 @@
     "raw_json": "{\"id\":\"chunk_7761:7761:0\",\"lemas\":[\"dēfringo\"],\"lema_canonico\":\"dēfringo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"dēfringere: romper, quebrar; arrancar rompendo (sentido próprio e figurado).\",\"aliases\":[],\"exemplos\":[\"Cic. Caec. 66, 108\"],\"notas\":\"\",\"flags\":[\"src_latdeu\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_7761-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_7761",
-    "page_num": 7761,
-    "lemmas": [
-      "dēfrūdo",
-      "dēfrūdo"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Redirecionamento para dēfraudō (forma variante dēfrūdō = dēfraudō). | [ocr_fix 2025-08-17T19:47:20Z] match direto em LS por lemma/lemma_norm | lemma_in='dēfrūdō' → 'dēfrūdo'",
-    "raw_text": "{\"id\":\"chunk_7761:7761:1\",\"lemas\":[\"dēfrūdō\"],\"lema_canonico\":\"dēfrūdō\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"dēfraudō\"],\"exemplos\":[],\"notas\":\"Redirecionamento para dēfraudō (forma variante dēfrūdō = dēfraudō).\",\"flags\":[\"src_ls\",\"conf:med\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_7761:7761:1\",\"lemas\":[\"dēfrūdō\"],\"lema_canonico\":\"dēfrūdō\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"dēfraudō\"],\"exemplos\":[],\"notas\":\"Redirecionamento para dēfraudō (forma variante dēfrūdō = dēfraudō).\",\"flags\":[\"src_ls\",\"conf:med\",\"redirect_only\"]}"
-  },
-  {
     "id": "chunk_7762-e1",
     "volume_id": "faria",
     "doc_name": "chunk_7762",
@@ -4406,28 +3566,6 @@
     "notas": "Conflito entre fontes sobre sentido/forma; conservei a leitura transitiva do first_pass.\n[ocr_pipeline 2025-08-16T23:11:26.291087Z] lemma_in='degero' → 'dē-gĕro' | motivo: match direto em LS por lemma/lemma_norm | [ocr_fix 2025-08-17T01:06:39Z] match direto em LS por lemma/lemma_norm | lemma_in='dē-gĕro' → 'dē-gĕro'",
     "raw_text": "{\"id\":\"chunk_7773:7773:0\",\"lemas\":[\"degero\",\"dēgero\"],\"lema_canonico\":\"degero\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"Deferível leitura: 'degero' atesta sentido transitivo 'levar, transportar, carregar' em tradição impressa; há leituras alternativas (dego/degere) com sentidos intransitivos (passar o tempo, viver).\",\"aliases\":[],\"exemplos\":[\"Plaut. Men. 804\"],\"notas\":\"Conflito entre fontes sobre sentido/forma; conservei a leitura transitiva do first_pass.\",\"flags\":[\"src_firstpass\",\"src_latdeu\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_7773:7773:0\",\"lemas\":[\"degero\",\"dēgero\"],\"lema_canonico\":\"degero\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"Deferível leitura: 'degero' atesta sentido transitivo 'levar, transportar, carregar' em tradição impressa; há leituras alternativas (dego/degere) com sentidos intransitivos (passar o tempo, viver).\",\"aliases\":[],\"exemplos\":[\"Plaut. Men. 804\"],\"notas\":\"Conflito entre fontes sobre sentido/forma; conservei a leitura transitiva do first_pass.\",\"flags\":[\"src_firstpass\",\"src_latdeu\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_7774-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_7774",
-    "page_num": 7774,
-    "lemmas": [
-      "de",
-      "de"
-    ],
-    "morfologia": "prep. com abl.",
-    "morph_render": "prep. com abl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "prep. + abl.: down from, away from; of, concerning; about; from (in space, motion, origin); also used as prefix.",
-    "exemplos": [],
-    "notas": "Entrada normalizada como preposição com ablativo conforme LS e Whitaker. | [dedupe] redirect → chunk_27922:27922:0 | [dedupe] redirect → chunk_27922:27922:0",
-    "raw_text": "{\"id\":\"chunk_7774:7774:0\",\"lemas\":[\"de\"],\"lema_canonico\":\"de\",\"morfologia\":\"prep. com abl.\",\"morph_extra\":[],\"definicao\":\"prep. + abl.: down from, away from; of, concerning; about; from (in space, motion, origin); also used as prefix.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada normalizada como preposição com ablativo conforme LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_7774:7774:0\",\"lemas\":[\"de\"],\"lema_canonico\":\"de\",\"morfologia\":\"prep. com abl.\",\"morph_extra\":[],\"definicao\":\"prep. + abl.: down from, away from; of, concerning; about; from (in space, motion, origin); also used as prefix.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada normalizada como preposição com ablativo conforme LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_7774-e2",

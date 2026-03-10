@@ -264,28 +264,6 @@
     "raw_json": "{\"id\":\"chunk_30407:30407:1\",\"lemas\":[\"vōvī\",\"vovi\"],\"lema_canonico\":\"vōvī\",\"morfologia\":\"perf. de voveō\",\"morph_extra\":[],\"definicao\":\"perfeito de voveō: 'eu vovei / prometi'\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma perifrástica de perfeito conhecida; não há entrada lexical independente nas fontes principais. Mantido da primeira passada.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_30408-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_30408",
-    "page_num": 30408,
-    "lemmas": [
-      "vox",
-      "vox"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "voz, som produzido pela fala; por extensão: palavra, expressão, opinião; também tom ou som de instrumento/animal",
-    "exemplos": [],
-    "notas": "Lema canonical 'vox' com variante plural 'voces' listada; sentidos e citações alinhados com LS/Whitaker. | [dedupe] redirect → chunk_30292:30292:0 | [dedupe] redirect → chunk_30292:30292:0",
-    "raw_text": "{\"id\":\"chunk_30408:30408:0\",\"lemas\":[\"vox\",\"voces\"],\"lema_canonico\":\"vox\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"voz, som produzido pela fala; por extensão: palavra, expressão, opinião; também tom ou som de instrumento/animal\",\"aliases\":[],\"exemplos\":[\"Cic. C. M. 14\",\"Cæs. B. Gal. 1, 39, 11\",\"Cic. Lae. 37\",\"Cic. De Or. 3, 197\",\"Hor. O. 1, 10, 3\"],\"notas\":\"Lema canonical 'vox' com variante plural 'voces' listada; sentidos e citações alinhados com LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_30408:30408:0\",\"lemas\":[\"vox\",\"voces\"],\"lema_canonico\":\"vox\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"voz, som produzido pela fala; por extensão: palavra, expressão, opinião; também tom ou som de instrumento/animal\",\"aliases\":[],\"exemplos\":[\"Cic. C. M. 14\",\"Cæs. B. Gal. 1, 39, 11\",\"Cic. Lae. 37\",\"Cic. De Or. 3, 197\",\"Hor. O. 1, 10, 3\"],\"notas\":\"Lema canonical 'vox' com variante plural 'voces' listada; sentidos e citações alinhados com LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_30409-e1",
     "volume_id": "faria",
     "doc_name": "chunk_30409",
@@ -528,50 +506,6 @@
     "raw_json": "{\"id\":\"chunk_30418:30418:1\",\"lemas\":[\"vulgo\",\"vulgō\"],\"lema_canonico\":\"vulgo\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"Advérbio de vulgus: em grande número; em público, abertamente; comumente; em todos os lugares, por toda parte.\",\"aliases\":[],\"exemplos\":[\"Caes. B. Gal. 1, 39, 5\",\"Cic. Verr. 4, 64\",\"Cic. Att. 16, 10, 1\",\"Verg. Buc. 4, 25\"],\"notas\":\"Tratado como advérbio derivado de vulgus; acepções harmonizadas com LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_30419-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_30419",
-    "page_num": 30419,
-    "lemmas": [
-      "vulgō",
-      "vulgō"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "tornar público, espalhar, divulgar; também: prostituir; no passivo, pôr-se ao nível de outros",
-    "exemplos": [],
-    "notas": "Forma variante volgō mantida; classificação verbal padronizada. | [dedupe] redirect → chunk_30318:30318:0 | [dedupe] redirect → chunk_30318:30318:0",
-    "raw_text": "{\"id\":\"chunk_30419:30419:0\",\"lemas\":[\"vulgō\",\"volgō\"],\"lema_canonico\":\"vulgō\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"tornar público, espalhar, divulgar; também: prostituir; no passivo, pôr-se ao nível de outros\",\"aliases\":[],\"exemplos\":[\"Liv. 3, 24, 7\",\"Liv. 1, 4, 7\",\"Liv. 3, 35, 6\"],\"notas\":\"Forma variante volgō mantida; classificação verbal padronizada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_30419:30419:0\",\"lemas\":[\"vulgō\",\"volgō\"],\"lema_canonico\":\"vulgō\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"tornar público, espalhar, divulgar; também: prostituir; no passivo, pôr-se ao nível de outros\",\"aliases\":[],\"exemplos\":[\"Liv. 3, 24, 7\",\"Liv. 1, 4, 7\",\"Liv. 3, 35, 6\"],\"notas\":\"Forma variante volgō mantida; classificação verbal padronizada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_30420-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_30420",
-    "page_num": 30420,
-    "lemmas": [
-      "vulgus",
-      "vulgus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "a multidão, o povo; a massa, o vulgo; público",
-    "exemplos": [],
-    "notas": "Grafia variante 'volgus' mantida; gênero ajustado conforme LS e Lat→Deu. | [dedupe] redirect → chunk_30319:30319:1 | [dedupe] redirect → chunk_30319:30319:1",
-    "raw_text": "{\"id\":\"chunk_30420:30420:0\",\"lemas\":[\"vulgus\",\"volgus\"],\"lema_canonico\":\"vulgus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"a multidão, o povo; a massa, o vulgo; público\",\"aliases\":[],\"exemplos\":[\"Cic. Planc. 4, 9\",\"Cic. Att. 2, 22, 3\",\"Caes. B. G. 6, 14, 6\",\"Verg. Aen. 2, 99\",\"Lucr. 2, 920–921\",\"Liv. 6, 34, 5\"],\"notas\":\"Grafia variante 'volgus' mantida; gênero ajustado conforme LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_30420:30420:0\",\"lemas\":[\"vulgus\",\"volgus\"],\"lema_canonico\":\"vulgus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"a multidão, o povo; a massa, o vulgo; público\",\"aliases\":[],\"exemplos\":[\"Cic. Planc. 4, 9\",\"Cic. Att. 2, 22, 3\",\"Caes. B. G. 6, 14, 6\",\"Verg. Aen. 2, 99\",\"Lucr. 2, 920–921\",\"Liv. 6, 34, 5\"],\"notas\":\"Grafia variante 'volgus' mantida; gênero ajustado conforme LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_30421-e1",
     "volume_id": "faria",
     "doc_name": "chunk_30421",
@@ -592,28 +526,6 @@
     "notas": "Confirmado em Lewis & Short e Whitaker; sentido tardio atestado.",
     "raw_text": "{\"id\":\"chunk_30421:30421:0\",\"lemas\":[\"vulnerabilis\"],\"lema_canonico\":\"vulnerabilis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"vulnerável; que pode ser ferido ou lesado\",\"aliases\":[],\"exemplos\":[\"Sen. Ep. 82, 24\"],\"notas\":\"Confirmado em Lewis & Short e Whitaker; sentido tardio atestado.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_30421:30421:0\",\"lemas\":[\"vulnerabilis\"],\"lema_canonico\":\"vulnerabilis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"vulnerável; que pode ser ferido ou lesado\",\"aliases\":[],\"exemplos\":[\"Sen. Ep. 82, 24\"],\"notas\":\"Confirmado em Lewis & Short e Whitaker; sentido tardio atestado.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_30422-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_30422",
-    "page_num": 30422,
-    "lemmas": [
-      "vulnerarius",
-      "vulnerarius"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Relativo a feridas; adj. usado também como substantivo masculino 'vulnerarius' = cirurgião.",
-    "exemplos": [],
-    "notas": "Forma e sentidos confirmados em LS e Whitaker; variante 'voln-' preservada como atestação lexical em LS. | [dedupe] redirect → chunk_30423:30423:0 | [dedupe] redirect → chunk_30423:30423:0",
-    "raw_text": "{\"id\":\"chunk_30422:30422:0\",\"lemas\":[\"vulnerarius\"],\"lema_canonico\":\"vulnerarius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo a feridas; adj. usado também como substantivo masculino 'vulnerarius' = cirurgião.\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 23, 4, 40\",\"Plin. Nat. 29, 1, 6\"],\"notas\":\"Forma e sentidos confirmados em LS e Whitaker; variante 'voln-' preservada como atestação lexical em LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_30422:30422:0\",\"lemas\":[\"vulnerarius\"],\"lema_canonico\":\"vulnerarius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo a feridas; adj. usado também como substantivo masculino 'vulnerarius' = cirurgião.\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 23, 4, 40\",\"Plin. Nat. 29, 1, 6\"],\"notas\":\"Forma e sentidos confirmados em LS e Whitaker; variante 'voln-' preservada como atestação lexical em LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_30423-e1",
@@ -770,28 +682,6 @@
     "raw_json": "{\"id\":\"chunk_30429:30429:0\",\"lemas\":[\"Vulpinius\"],\"lema_canonico\":\"Vulpinius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"nome próprio masculino (Vulpínio)\",\"aliases\":[],\"exemplos\":[\"Pers. 5, 190\"],\"notas\":\"Entrada preservada do first_pass; confirmação em dicionários consultados não localizada no material fornecido.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}"
   },
   {
-    "id": "chunk_30430-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_30430",
-    "page_num": 30430,
-    "lemmas": [
-      "vulpes",
-      "vulpes"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Raposa; figuradamente astúcia, artimanha, dissimulação.",
-    "exemplos": [],
-    "notas": "Grafia e declinação confirmadas em LS/Whitaker/Lat→Deu. | [dedupe] redirect → chunk_30327:30327:0 | [dedupe] redirect → chunk_30327:30327:0",
-    "raw_text": "{\"id\":\"chunk_30430:30430:0\",\"lemas\":[\"vulpes\",\"vulpis\"],\"lema_canonico\":\"vulpes\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Raposa; figuradamente astúcia, artimanha, dissimulação.\",\"aliases\":[],\"exemplos\":[\"Hor. Ep. 1, 7, 31\",\"Hor. A. P. 437\"],\"notas\":\"Grafia e declinação confirmadas em LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_30430:30430:0\",\"lemas\":[\"vulpes\",\"vulpis\"],\"lema_canonico\":\"vulpes\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Raposa; figuradamente astúcia, artimanha, dissimulação.\",\"aliases\":[],\"exemplos\":[\"Hor. Ep. 1, 7, 31\",\"Hor. A. P. 437\"],\"notas\":\"Grafia e declinação confirmadas em LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_30431-e1",
     "volume_id": "faria",
     "doc_name": "chunk_30431",
@@ -836,72 +726,6 @@
     "raw_json": "{\"id\":\"chunk_30432:30432:0\",\"lemas\":[\"vulpio\",\"vulpĭo\",\"volpio\"],\"lema_canonico\":\"vulpio\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"astuto como a raposa; raposa astuta (figur.: pessoa ladina)\",\"aliases\":[],\"exemplos\":[\"App. Mag. p. 328, 32\"],\"notas\":\"Lema normalizado para 'vulpio' com variantes; ver LS (vulpĭo, volp-).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_30433-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_30433",
-    "page_num": 30433,
-    "lemmas": [
-      "vulpes",
-      "vulpes"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "raposa",
-    "exemplos": [],
-    "notas": "Corrigido OCR: 'vulps' → vulpes; forma e declinação confirmadas. | [dedupe] redirect → chunk_30327:30327:0 | [dedupe] redirect → chunk_30327:30327:0",
-    "raw_text": "{\"id\":\"chunk_30433:30433:0\",\"lemas\":[\"vulpes\"],\"lema_canonico\":\"vulpes\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"raposa\",\"aliases\":[\"vulps\"],\"exemplos\":[],\"notas\":\"Corrigido OCR: 'vulps' → vulpes; forma e declinação confirmadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_30433:30433:0\",\"lemas\":[\"vulpes\"],\"lema_canonico\":\"vulpes\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"raposa\",\"aliases\":[\"vulps\"],\"exemplos\":[],\"notas\":\"Corrigido OCR: 'vulps' → vulpes; forma e declinação confirmadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_30434-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_30434",
-    "page_num": 30434,
-    "lemmas": [
-      "vello",
-      "vello"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "arrancar, puxar, depilar; extrair, arrancar plantas ou pelos",
-    "exemplos": [],
-    "notas": "Lema normalizado para 'vello' (cf. Lewis & Short, Whitaker, Lat→Deu); inclui formas perf. e sup. registradas. | [dedupe] redirect → chunk_29719:29719:0 | [dedupe] redirect → chunk_29719:29719:0",
-    "raw_text": "{\"id\":\"chunk_30434:30434:0\",\"lemas\":[\"vello\",\"vellere\",\"velli\",\"vulsus\"],\"lema_canonico\":\"vello\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"arrancar, puxar, depilar; extrair, arrancar plantas ou pelos\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Lema normalizado para 'vello' (cf. Lewis & Short, Whitaker, Lat→Deu); inclui formas perf. e sup. registradas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_30434:30434:0\",\"lemas\":[\"vello\",\"vellere\",\"velli\",\"vulsus\"],\"lema_canonico\":\"vello\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"arrancar, puxar, depilar; extrair, arrancar plantas ou pelos\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Lema normalizado para 'vello' (cf. Lewis & Short, Whitaker, Lat→Deu); inclui formas perf. e sup. registradas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_30434-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_30434",
-    "page_num": 30434,
-    "lemmas": [
-      "vello",
-      "vello"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "arrancar, puxar, desarraigar; depilar",
-    "exemplos": [],
-    "notas": "Entrada consolidada com variantes do perfeito (velli/volsi/vulsi) e particípio vulsus; harmonizada com fontes. | [dedupe] redirect → chunk_29719:29719:0 | [dedupe] redirect → chunk_29719:29719:0",
-    "raw_text": "{\"id\":\"chunk_30434:30434:1\",\"lemas\":[\"vello\",\"vellere\",\"velli\",\"vulsi\",\"vulsus\"],\"lema_canonico\":\"vello\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"arrancar, puxar, desarraigar; depilar\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada consolidada com variantes do perfeito (velli/volsi/vulsi) e particípio vulsus; harmonizada com fontes.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_30434:30434:1\",\"lemas\":[\"vello\",\"vellere\",\"velli\",\"vulsi\",\"vulsus\"],\"lema_canonico\":\"vello\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"arrancar, puxar, desarraigar; depilar\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada consolidada com variantes do perfeito (velli/volsi/vulsi) e particípio vulsus; harmonizada com fontes.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_30434-e3",
     "volume_id": "faria",
     "doc_name": "chunk_30434",
@@ -922,28 +746,6 @@
     "notas": "Item refere-se a formas do perfeito de vello (vulsi/volsi); estas não são lemas independentes — revisão necessária.",
     "raw_text": "{\"id\":\"chunk_30434:30434:2\",\"lemas\":[\"vulsi\",\"volsi\"],\"lema_canonico\":\"vulsi\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Item refere-se a formas do perfeito de vello (vulsi/volsi); estas não são lemas independentes — revisão necessária.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_30434:30434:2\",\"lemas\":[\"vulsi\",\"volsi\"],\"lema_canonico\":\"vulsi\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Item refere-se a formas do perfeito de vello (vulsi/volsi); estas não são lemas independentes — revisão necessária.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_30435-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_30435",
-    "page_num": 30435,
-    "lemmas": [
-      "vello",
-      "vello"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Forma e particípio perfeito relacionado ao verbo vello (vellere): arrancar, zupfen, ausreißen.",
-    "exemplos": [],
-    "notas": "‘Vulsi’ here treated as perfect/PPP of vello; normalized to infinitive vello as canonical lemma. | [dedupe] redirect → chunk_29719:29719:0 | [dedupe] redirect → chunk_29719:29719:0",
-    "raw_text": "{\"id\":\"chunk_30435:30435:0\",\"lemas\":[\"vello\",\"vulsi\"],\"lema_canonico\":\"vello\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Forma e particípio perfeito relacionado ao verbo vello (vellere): arrancar, zupfen, ausreißen.\",\"aliases\":[],\"exemplos\":[\"T. Liv. 22, 35, 1\"],\"notas\":\"‘Vulsi’ here treated as perfect/PPP of vello; normalized to infinitive vello as canonical lemma.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_30435:30435:0\",\"lemas\":[\"vello\",\"vulsi\"],\"lema_canonico\":\"vello\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Forma e particípio perfeito relacionado ao verbo vello (vellere): arrancar, zupfen, ausreißen.\",\"aliases\":[],\"exemplos\":[\"T. Liv. 22, 35, 1\"],\"notas\":\"‘Vulsi’ here treated as perfect/PPP of vello; normalized to infinitive vello as canonical lemma.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_30436-e1",
@@ -1210,28 +1012,6 @@
     "raw_json": "{\"id\":\"chunk_30446:30446:0\",\"lemas\":[\"vult\"],\"lema_canonico\":\"vult\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"3rd pers. sing. present indicative active of volō, velle — to want, wish, be willing; to desire\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma pessoal de volo/velle; correlacionada com entradas Whitaker e Lat→Deu.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_30446-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_30446",
-    "page_num": 30446,
-    "lemmas": [
-      "vultur",
-      "vultur"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "vulture; (figurative) a grasping or avaricious person; (technical) a throw in dice (attested)",
-    "exemplos": [],
-    "notas": "Lema e sentidos confirmados in Lewis & Short and Whitaker; gen. s. vulturis. | [dedupe] redirect → chunk_30442:30442:0 | [dedupe] redirect → chunk_30442:30442:0",
-    "raw_text": "{\"id\":\"chunk_30446:30446:1\",\"lemas\":[\"vultur\"],\"lema_canonico\":\"vultur\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"vulture; (figurative) a grasping or avaricious person; (technical) a throw in dice (attested)\",\"aliases\":[],\"exemplos\":[\"Plin. 10, 6, 7 §19\",\"Liv. 41, 21\",\"Verg. A. 6, 597\",\"Cic. Pis. 35\",\"Plaut. Curc. 357\"],\"notas\":\"Lema e sentidos confirmados in Lewis & Short and Whitaker; gen. s. vulturis.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_30446:30446:1\",\"lemas\":[\"vultur\"],\"lema_canonico\":\"vultur\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"vulture; (figurative) a grasping or avaricious person; (technical) a throw in dice (attested)\",\"aliases\":[],\"exemplos\":[\"Plin. 10, 6, 7 §19\",\"Liv. 41, 21\",\"Verg. A. 6, 597\",\"Cic. Pis. 35\",\"Plaut. Curc. 357\"],\"notas\":\"Lema e sentidos confirmados in Lewis & Short and Whitaker; gen. s. vulturis.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_30447-e1",
     "volume_id": "faria",
     "doc_name": "chunk_30447",
@@ -1254,28 +1034,6 @@
     "raw_json": "{\"id\":\"chunk_30447:30447:0\",\"lemas\":[\"vulturanus\",\"vulturānus\"],\"lema_canonico\":\"vulturanus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo ao monte Vultur; gentílico de Vultur.\",\"aliases\":[],\"exemplos\":[\"T. Liv. 34, 45, 1\"],\"notas\":\"Normalizado como adjetivo gentilício (1/2); forma canónica vulturanus.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_30448-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_30448",
-    "page_num": 30448,
-    "lemmas": [
-      "vulturinus",
-      "vulturinus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "relativo a abutre; vulturino, pertencente ou semelhante a um abutre",
-    "exemplos": [],
-    "notas": "Desfiz a fusão equivocada com Vulturnus (vento/rios); entrada tratada como adjetivo conforme LS/Whitaker. | [dedupe] redirect → chunk_30445:30445:0 | [dedupe] redirect → chunk_30445:30445:0",
-    "raw_text": "{\"id\":\"chunk_30448:30448:0\",\"lemas\":[\"vulturinus\"],\"lema_canonico\":\"vulturinus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo a abutre; vulturino, pertencente ou semelhante a um abutre\",\"aliases\":[],\"exemplos\":[\"Plin. 29, 6\"],\"notas\":\"Desfiz a fusão equivocada com Vulturnus (vento/rios); entrada tratada como adjetivo conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_30448:30448:0\",\"lemas\":[\"vulturinus\"],\"lema_canonico\":\"vulturinus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo a abutre; vulturino, pertencente ou semelhante a um abutre\",\"aliases\":[],\"exemplos\":[\"Plin. 29, 6\"],\"notas\":\"Desfiz a fusão equivocada com Vulturnus (vento/rios); entrada tratada como adjetivo conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_30449-e1",
     "volume_id": "faria",
     "doc_name": "chunk_30449",
@@ -1296,50 +1054,6 @@
     "notas": "Corrigida a forma do OCR para Vulturnus; entrada confirmada em Lewis & Short e Whitaker.",
     "raw_text": "{\"id\":\"chunk_30449:30449:0\",\"lemas\":[\"Vulturnus\"],\"lema_canonico\":\"Vulturnus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Vulturnus: rio da Campânia (mod. Volturno); também adjetivo 'vulturnus, -a, -um' relativo ao Vulturnus\",\"aliases\":[],\"exemplos\":[\"Liv. 8, 11\"],\"notas\":\"Corrigida a forma do OCR para Vulturnus; entrada confirmada em Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_30449:30449:0\",\"lemas\":[\"Vulturnus\"],\"lema_canonico\":\"Vulturnus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Vulturnus: rio da Campânia (mod. Volturno); também adjetivo 'vulturnus, -a, -um' relativo ao Vulturnus\",\"aliases\":[],\"exemplos\":[\"Liv. 8, 11\"],\"notas\":\"Corrigida a forma do OCR para Vulturnus; entrada confirmada em Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_30450-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_30450",
-    "page_num": 30450,
-    "lemmas": [
-      "vultus",
-      "vultus"
-    ],
-    "morfologia": "s. masc. 4ª (-us)",
-    "morph_render": "s. masc. 4ª (-us)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "rosto, fisionomia, aparência, expressão (visage, mien); também plural coletivo e usos figurados.",
-    "exemplos": [],
-    "notas": "Forma 'voltus' registrada como variante; lematizado para 'vultus' (LS/Whitaker). | [dedupe] redirect → chunk_30440:30440:1 | [dedupe] redirect → chunk_30440:30440:1",
-    "raw_text": "{\"id\":\"chunk_30450:30450:0\",\"lemas\":[\"vultus\",\"voltus\"],\"lema_canonico\":\"vultus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"rosto, fisionomia, aparência, expressão (visage, mien); também plural coletivo e usos figurados.\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 3, 221\",\"Ov. Met. 5, 59\",\"Plin. H. Nat. 33, 5\",\"Verg. A. 5, 848\",\"Lucr. 4, 1213\"],\"notas\":\"Forma 'voltus' registrada como variante; lematizado para 'vultus' (LS/Whitaker).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_firstpass\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_30450:30450:0\",\"lemas\":[\"vultus\",\"voltus\"],\"lema_canonico\":\"vultus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"rosto, fisionomia, aparência, expressão (visage, mien); também plural coletivo e usos figurados.\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 3, 221\",\"Ov. Met. 5, 59\",\"Plin. H. Nat. 33, 5\",\"Verg. A. 5, 848\",\"Lucr. 4, 1213\"],\"notas\":\"Forma 'voltus' registrada como variante; lematizado para 'vultus' (LS/Whitaker).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_firstpass\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_30451-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_30451",
-    "page_num": 30451,
-    "lemmas": [
-      "vulva",
-      "vulva"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "vulva, volva: invólucro; matrice, útero (também: matriz de porca, prato culinário)",
-    "exemplos": [],
-    "notas": "Forma principal 'vulva' com variante 'volva' conforme LS/Whitaker; sentidos resumidos. | [dedupe] redirect → chunk_30376:30376:0 | [dedupe] redirect → chunk_30376:30376:0",
-    "raw_text": "{\"id\":\"chunk_30451:30451:0\",\"lemas\":[\"vulva\",\"volva\"],\"lema_canonico\":\"vulva\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"vulva, volva: invólucro; matrice, útero (também: matriz de porca, prato culinário)\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 11, 209\",\"Hor. Ep. 1, 15, 41\"],\"notas\":\"Forma principal 'vulva' com variante 'volva' conforme LS/Whitaker; sentidos resumidos.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_30451:30451:0\",\"lemas\":[\"vulva\",\"volva\"],\"lema_canonico\":\"vulva\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"vulva, volva: invólucro; matrice, útero (também: matriz de porca, prato culinário)\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 11, 209\",\"Hor. Ep. 1, 15, 41\"],\"notas\":\"Forma principal 'vulva' com variante 'volva' conforme LS/Whitaker; sentidos resumidos.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_30452-e1",
@@ -1628,28 +1342,6 @@
     "raw_json": "{\"id\":\"chunk_30464:30464:0\",\"lemas\":[\"xenon\"],\"lema_canonico\":\"xenon\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"hospedaria; estalagem, caravançará; hospital/asilo para estrangeiros; hospice.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Lema e genitivo normalizados (xenon, xenonis); gênero masculino confirmado.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_30464-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_30464",
-    "page_num": 30464,
-    "lemmas": [
-      "xĕnōn",
-      "xĕnōn"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada abreviada/encaminhamento para Xenôn/Xenon; preservada forma abreviada do original. | [dedupe] redirect → chunk_30464:30464:0 | [dedupe] redirect → chunk_30464:30464:0 | [ocr_fix 2025-08-17T19:53:03Z] match direto em LS por lemma/lemma_norm | lemma_in='xenon' → 'xĕnōn'",
-    "raw_text": "{\"id\":\"chunk_30464:30464:1\",\"lemas\":[\"Xenŏn.\"],\"lema_canonico\":\"xenon\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Xenôn\"],\"exemplos\":[],\"notas\":\"Entrada abreviada/encaminhamento para Xenôn/Xenon; preservada forma abreviada do original.\",\"flags\":[\"src_firstpass\",\"src_ls\",\"conf:med\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_30464:30464:1\",\"lemas\":[\"Xenŏn.\"],\"lema_canonico\":\"xenon\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Xenôn\"],\"exemplos\":[],\"notas\":\"Entrada abreviada/encaminhamento para Xenôn/Xenon; preservada forma abreviada do original.\",\"flags\":[\"src_firstpass\",\"src_ls\",\"conf:med\",\"redirect_only\"]}"
-  },
-  {
     "id": "chunk_30465-e1",
     "volume_id": "faria",
     "doc_name": "chunk_30465",
@@ -1736,28 +1428,6 @@
     "notas": "Fragmento possivelmente residual do parêntese \"(-hus)\" em Xenophonteus; não é um lema claro.",
     "raw_text": "{\"id\":\"chunk_30467:30467:1\",\"lemas\":[\"hus\"],\"lema_canonico\":\"hus\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"UNKNOWN\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Fragmento possivelmente residual do parêntese \\\"(-hus)\\\" em Xenophonteus; não é um lema claro.\",\"flags\":[\"src_firstpass\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_30467:30467:1\",\"lemas\":[\"hus\"],\"lema_canonico\":\"hus\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"UNKNOWN\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Fragmento possivelmente residual do parêntese \\\"(-hus)\\\" em Xenophonteus; não é um lema claro.\",\"flags\":[\"src_firstpass\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_30468-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_30468",
-    "page_num": 30468,
-    "lemmas": [
-      "xerampelina",
-      "xerampelina"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "dark red garments (pl.); a term for dark-red cloth or garments",
-    "exemplos": [],
-    "notas": "Whitaker/Lat→Deu recordam como 'dark red garments' (pl.); OCR/first_pass registra leitura colorida (verde) em Juvenal — sentido controverso. | [dedupe] redirect → chunk_30468:30468:0 | [dedupe] redirect → chunk_30468:30468:0",
-    "raw_text": "{\"id\":\"chunk_30468:30468:1\",\"lemas\":[\"xerampelina\",\"xerampelīna\"],\"lema_canonico\":\"xerampelina\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"dark red garments (pl.); a term for dark-red cloth or garments\",\"aliases\":[],\"exemplos\":[\"Juv. 6, 518\"],\"notas\":\"Whitaker/Lat→Deu recordam como 'dark red garments' (pl.); OCR/first_pass registra leitura colorida (verde) em Juvenal — sentido controverso.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_firstpass\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_30468:30468:1\",\"lemas\":[\"xerampelina\",\"xerampelīna\"],\"lema_canonico\":\"xerampelina\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"dark red garments (pl.); a term for dark-red cloth or garments\",\"aliases\":[],\"exemplos\":[\"Juv. 6, 518\"],\"notas\":\"Whitaker/Lat→Deu recordam como 'dark red garments' (pl.); OCR/first_pass registra leitura colorida (verde) em Juvenal — sentido controverso.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_firstpass\",\"conf:high\"]}"
   },
   {
     "id": "chunk_30468-e2",
@@ -1890,28 +1560,6 @@
     "notas": "Mantida a leitura da primeira passada; morfologia original (-ārum) era genitivo plural e não cabe diretamente no vocabulário normalizado.",
     "raw_text": "{\"id\":\"chunk_30472:30472:0\",\"lemas\":[\"Xynias\"],\"lema_canonico\":\"Xynias\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Topônimo feminino plural (cidade Xynias/Xinias na Tessália); forma indicada no OCR como gen. plural '-ārum'\",\"aliases\":[],\"exemplos\":[\"T. Liv. 32, 13, 14\"],\"notas\":\"Mantida a leitura da primeira passada; morfologia original (-ārum) era genitivo plural e não cabe diretamente no vocabulário normalizado.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\",\"morph_out_of_vocab\"]}",
     "raw_json": "{\"id\":\"chunk_30472:30472:0\",\"lemas\":[\"Xynias\"],\"lema_canonico\":\"Xynias\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Topônimo feminino plural (cidade Xynias/Xinias na Tessália); forma indicada no OCR como gen. plural '-ārum'\",\"aliases\":[],\"exemplos\":[\"T. Liv. 32, 13, 14\"],\"notas\":\"Mantida a leitura da primeira passada; morfologia original (-ārum) era genitivo plural e não cabe diretamente no vocabulário normalizado.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\",\"morph_out_of_vocab\"]}"
-  },
-  {
-    "id": "chunk_30473-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_30473",
-    "page_num": 30473,
-    "lemmas": [
-      "xystus",
-      "xystus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "passeio/galeria coberta com colunas; local coberto para exercícios (usado no inverno).",
-    "exemplos": [],
-    "notas": "Inclui variantes xystus/xysti; significado conforme Whitaker. | [dedupe] redirect → chunk_30474:30474:0 | [dedupe] redirect → chunk_30474:30474:0 | [ocr_fix 2025-08-17T19:53:03Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='xystus' → 'xystus'",
-    "raw_text": "{\"id\":\"chunk_30473:30473:0\",\"lemas\":[\"xystus\",\"xysti\"],\"lema_canonico\":\"xystus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"passeio/galeria coberta com colunas; local coberto para exercícios (usado no inverno).\",\"aliases\":[],\"exemplos\":[\"Suet. Aug. 55\"],\"notas\":\"Inclui variantes xystus/xysti; significado conforme Whitaker.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_30473:30473:0\",\"lemas\":[\"xystus\",\"xysti\"],\"lema_canonico\":\"xystus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"passeio/galeria coberta com colunas; local coberto para exercícios (usado no inverno).\",\"aliases\":[],\"exemplos\":[\"Suet. Aug. 55\"],\"notas\":\"Inclui variantes xystus/xysti; significado conforme Whitaker.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}"
   },
   {
     "id": "chunk_30474-e1",
@@ -2288,28 +1936,6 @@
     "raw_json": "{\"id\":\"chunk_30489:30489:0\",\"lemas\":[\"zelotypus\",\"zelotypa\",\"zelotypum\"],\"lema_canonico\":\"zelotypus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"invejoso; ciumento (adj.). Pode também aparecer substancializado como 'zelotypus' m.\",\"aliases\":[],\"exemplos\":[\"Marc. 1, 93, 13\"],\"notas\":\"Unificadas variantes adjectivais; substantivação atestada em usos contextuais (mantida como nota).\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_30490-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_30490",
-    "page_num": 30490,
-    "lemmas": [
-      "zelotypus",
-      "zelotypus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "invejoso, ciumento.",
-    "exemplos": [],
-    "notas": "Entrada paralela contendo outra citação evidenciando uso literário; variantes mantidas. | [dedupe] redirect → chunk_30489:30489:0 | [dedupe] redirect → chunk_30489:30489:0",
-    "raw_text": "{\"id\":\"chunk_30490:30490:0\",\"lemas\":[\"zelotypus\",\"zelotypa\",\"zelotypum\"],\"lema_canonico\":\"zelotypus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"invejoso, ciumento.\",\"aliases\":[],\"exemplos\":[\"Juv. 5, 45\"],\"notas\":\"Entrada paralela contendo outra citação evidenciando uso literário; variantes mantidas.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_30490:30490:0\",\"lemas\":[\"zelotypus\",\"zelotypa\",\"zelotypum\"],\"lema_canonico\":\"zelotypus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"invejoso, ciumento.\",\"aliases\":[],\"exemplos\":[\"Juv. 5, 45\"],\"notas\":\"Entrada paralela contendo outra citação evidenciando uso literário; variantes mantidas.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_30491-e1",
     "volume_id": "faria",
     "doc_name": "chunk_30491",
@@ -2354,28 +1980,6 @@
     "raw_json": "{\"id\":\"chunk_30492:30492:0\",\"lemas\":[\"Zēnŏbĭa\",\"Zenobia\",\"Zenóbia\"],\"lema_canonico\":\"Zēnŏbĭa\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Zenóbia, rainha de Palmira, esposa de Odenato; também nome de outra figura (filha de Mitrídates, rei da Armênia).\",\"aliases\":[],\"exemplos\":[\"Treb. Poll. Tyrann. 14, 23\",\"Vop. Aurel. 22 sq.\",\"Eutr. 9, 9\",\"Tac. A. 12, 44\"],\"notas\":\"Unifiquei variantes e referências conforme Lewis & Short; mantida informação dupla (rainha e outra figura homônima).\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_30493-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_30493",
-    "page_num": 30493,
-    "lemmas": [
-      "Zephyrus",
-      "Zephyrus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "Zephyrus: o Vento Oeste (nome próprio); ova: ovos (subst. neutro, pl.).",
-    "exemplos": [],
-    "notas": "Entrada composta; separadas em Zephyrus (gen. Zephyri) e ova (pl.). | [dedupe] redirect → chunk_30496:30496:0 | [dedupe] redirect → chunk_30496:30496:0",
-    "raw_text": "{\"id\":\"chunk_30493:30493:3\",\"lemas\":[\"Zephyrus\",\"ova\"],\"lema_canonico\":\"Zephyrus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[\"note: contains also 'ova' (s. neut. 2ª, pl.)\"],\"definicao\":\"Zephyrus: o Vento Oeste (nome próprio); ova: ovos (subst. neutro, pl.).\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 10, 167\"],\"notas\":\"Entrada composta; separadas em Zephyrus (gen. Zephyri) e ova (pl.).\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_30493:30493:3\",\"lemas\":[\"Zephyrus\",\"ova\"],\"lema_canonico\":\"Zephyrus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[\"note: contains also 'ova' (s. neut. 2ª, pl.)\"],\"definicao\":\"Zephyrus: o Vento Oeste (nome próprio); ova: ovos (subst. neutro, pl.).\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 10, 167\"],\"notas\":\"Entrada composta; separadas em Zephyrus (gen. Zephyri) e ova (pl.).\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\",\"morph_out_of_vocab\"]}"
-  },
-  {
     "id": "chunk_30493-e2",
     "volume_id": "faria",
     "doc_name": "chunk_30493",
@@ -2418,28 +2022,6 @@
     "notas": "Infinitivo como lema canónico; verbo atestado como defectivo/poético (LS) e listado no Lat→Deu.",
     "raw_text": "{\"id\":\"chunk_30493:30493:1\",\"lemas\":[\"ovare\",\"ovo\"],\"lema_canonico\":\"ovare\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"ovare — regozijar, alegrar-se; celebrar em triunfo (verbo defectivo/poético em certos usos).\",\"aliases\":[],\"exemplos\":[\"Stat. Sil. 4, 1, 8\",\"Suet. Claud. 1\"],\"notas\":\"Infinitivo como lema canónico; verbo atestado como defectivo/poético (LS) e listado no Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_30493:30493:1\",\"lemas\":[\"ovare\",\"ovo\"],\"lema_canonico\":\"ovare\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"ovare — regozijar, alegrar-se; celebrar em triunfo (verbo defectivo/poético em certos usos).\",\"aliases\":[],\"exemplos\":[\"Stat. Sil. 4, 1, 8\",\"Suet. Claud. 1\"],\"notas\":\"Infinitivo como lema canónico; verbo atestado como defectivo/poético (LS) e listado no Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_30493-e4",
-    "volume_id": "faria",
-    "doc_name": "chunk_30493",
-    "page_num": 30493,
-    "lemmas": [
-      "Zephyrus",
-      "Zephyrus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Zéfiro — vento oeste; forma latina do grego Zephyros.",
-    "exemplos": [],
-    "notas": "Entrada redundante no lote; homologada à outra entrada de Zephyrus. | [dedupe] redirect → chunk_30496:30496:0 | [dedupe] redirect → chunk_30496:30496:0",
-    "raw_text": "{\"id\":\"chunk_30493:30493:2\",\"lemas\":[\"Zephyrus\"],\"lema_canonico\":\"Zephyrus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Zéfiro — vento oeste; forma latina do grego Zephyros.\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 10, 167\"],\"notas\":\"Entrada redundante no lote; homologada à outra entrada de Zephyrus.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_30493:30493:2\",\"lemas\":[\"Zephyrus\"],\"lema_canonico\":\"Zephyrus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Zéfiro — vento oeste; forma latina do grego Zephyros.\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 10, 167\"],\"notas\":\"Entrada redundante no lote; homologada à outra entrada de Zephyrus.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_30494-e1",

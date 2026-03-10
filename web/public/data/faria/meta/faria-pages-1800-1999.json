@@ -286,28 +286,6 @@
     "raw_json": "{\"id\":\"chunk_1812:1812:0\",\"lemas\":[\"Androgeneus\",\"Androgenea\",\"Androgeneum\"],\"lema_canonico\":\"Androgeneus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Pertaining to Androgeon (Androgeus); used adjectivally (e.g. 'caedis', Cat. 64, 77).\",\"aliases\":[],\"exemplos\":[\"Cat. 64, 77\"],\"notas\":\"Adjetivo registrado em Lewis & Short; normalizada forma latina clássica.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_1813-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_1813",
-    "page_num": 1813,
-    "lemmas": [
-      "Androgeon",
-      "Androgeon"
-    ],
-    "morfologia": "s. 3ª (-is)",
-    "morph_render": "s. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "nome próprio masculino; Androgeon (filho de Minos), citado em autores clássicos",
-    "exemplos": [],
-    "notas": "Forma grega/latinizada e variantes unificadas; morfologia segundo LS (gen. -ōnis). | [dedupe] redirect → chunk_1811:1811:0 | [dedupe] redirect → chunk_1811:1811:0",
-    "raw_text": "{\"id\":\"chunk_1813:1813:0\",\"lemas\":[\"Androgeon\",\"Androgeos\",\"Androgeus\"],\"lema_canonico\":\"Androgeon\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"nome próprio masculino; Androgeon (filho de Minos), citado em autores clássicos\",\"aliases\":[\"Androgeos\",\"Androgeus\"],\"exemplos\":[\"Verg. Aen. 2, 371\",\"Ov. Met. 7, 458\"],\"notas\":\"Forma grega/latinizada e variantes unificadas; morfologia segundo LS (gen. -ōnis).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_1813:1813:0\",\"lemas\":[\"Androgeon\",\"Androgeos\",\"Androgeus\"],\"lema_canonico\":\"Androgeon\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"nome próprio masculino; Androgeon (filho de Minos), citado em autores clássicos\",\"aliases\":[\"Androgeos\",\"Androgeus\"],\"exemplos\":[\"Verg. Aen. 2, 371\",\"Ov. Met. 7, 458\"],\"notas\":\"Forma grega/latinizada e variantes unificadas; morfologia segundo LS (gen. -ōnis).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_1813-e2",
     "volume_id": "faria",
     "doc_name": "chunk_1813",
@@ -814,28 +792,6 @@
     "raw_json": "{\"id\":\"chunk_1835:1835:0\",\"lemas\":[\"Angrivarii\"],\"lema_canonico\":\"Angrivarii\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Tribo germânica junto ao bosque Teutoburgo, nas margens do Weser (atacada por Tácito).\",\"aliases\":[],\"exemplos\":[\"Tac. Germ. 33\",\"Tac. Ann. 2, 8\"],\"notas\":\"Forma e referências alinhadas com Lewis & Short; a marcação morfológica caiu fora do vocabulário estrito (plurais tribal names gen. -ōrum).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}"
   },
   {
-    "id": "chunk_1836-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_1836",
-    "page_num": 1836,
-    "lemmas": [
-      "anguen",
-      "anguen"
-    ],
-    "morfologia": "s. 3ª (-is)",
-    "morph_render": "s. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada atestada em Lewis & Short sem definição (marca 'init.'); tratada como redirecionamento para anguis. | [ocr_fix 2025-08-17T19:44:35Z] match direto em LS por lemma/lemma_norm | lemma_in='anguen' → 'anguen'",
-    "raw_text": "{\"id\":\"chunk_1836:1836:0\",\"lemas\":[\"anguen\"],\"lema_canonico\":\"anguen\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"anguis\"],\"exemplos\":[],\"notas\":\"Entrada atestada em Lewis & Short sem definição (marca 'init.'); tratada como redirecionamento para anguis.\",\"flags\":[\"src_ls\",\"conf:med\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_1836:1836:0\",\"lemas\":[\"anguen\"],\"lema_canonico\":\"anguen\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"anguis\"],\"exemplos\":[],\"notas\":\"Entrada atestada em Lewis & Short sem definição (marca 'init.'); tratada como redirecionamento para anguis.\",\"flags\":[\"src_ls\",\"conf:med\",\"redirect_only\"]}"
-  },
-  {
     "id": "chunk_1837-e1",
     "volume_id": "faria",
     "doc_name": "chunk_1837",
@@ -1210,28 +1166,6 @@
     "raw_json": "{\"id\":\"chunk_1851:1851:2\",\"lemas\":[\"angustio\",\"angustiāre\",\"angustiō\"],\"lema_canonico\":\"angustiāre\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"tr.\",\"intr.\"],\"definicao\":\"Verbo de 1ª conjugação: apertar, estreitar; figurado, causar angústia, constranger; também usado intransitivamente ‘estar em aperto’.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Formas e usos confirmados por Lewis & Short e Whitaker; inclui usos transitivos e intransitivos.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_1852-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_1852",
-    "page_num": 1852,
-    "lemmas": [
-      "anguste",
-      "anguste"
-    ],
-    "morfologia": "adv.",
-    "morph_render": "adv.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "de modo estreito; restritamente; escassamente; estreitamente",
-    "exemplos": [],
-    "notas": "Forma advérbial atestada em Whitaker e Lat→Deu; harmonizei com variantes. | [dedupe] redirect → chunk_1850:1850:0 | [dedupe] redirect → chunk_1850:1850:0",
-    "raw_text": "{\"id\":\"chunk_1852:1852:2\",\"lemas\":[\"anguste\",\"angustē\"],\"lema_canonico\":\"anguste\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"de modo estreito; restritamente; escassamente; estreitamente\",\"aliases\":[],\"exemplos\":[\"Col. 4, 16, 1\",\"Col. 4, 22, 3\",\"Caes. B. C. 3, 2\"],\"notas\":\"Forma advérbial atestada em Whitaker e Lat→Deu; harmonizei com variantes.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_1852:1852:2\",\"lemas\":[\"anguste\",\"angustē\"],\"lema_canonico\":\"anguste\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"de modo estreito; restritamente; escassamente; estreitamente\",\"aliases\":[],\"exemplos\":[\"Col. 4, 16, 1\",\"Col. 4, 22, 3\",\"Caes. B. C. 3, 2\"],\"notas\":\"Forma advérbial atestada em Whitaker e Lat→Deu; harmonizei com variantes.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_1852-e2",
     "volume_id": "faria",
     "doc_name": "chunk_1852",
@@ -1274,28 +1208,6 @@
     "notas": "Distinção entre o sing. neutro e o pl. poético preservada conforme LS/Whitaker.",
     "raw_text": "{\"id\":\"chunk_1852:1852:1\",\"lemas\":[\"angustum\",\"angusta\"],\"lema_canonico\":\"angustum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Subst. neutro sing.: angustum — estreiteza, passagem estreita; situação difícil. Subst. neutro pl.: angusta, -ōrum — passagens estreitas, lugares apertados (uso poético).\",\"aliases\":[],\"exemplos\":[\"T. Liv. 27, 46, 2\",\"Caes. B. G. 2, 25, 1\",\"Verg. A. 2, 332\",\"Lucr. 4, 530\"],\"notas\":\"Distinção entre o sing. neutro e o pl. poético preservada conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_1852:1852:1\",\"lemas\":[\"angustum\",\"angusta\"],\"lema_canonico\":\"angustum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Subst. neutro sing.: angustum — estreiteza, passagem estreita; situação difícil. Subst. neutro pl.: angusta, -ōrum — passagens estreitas, lugares apertados (uso poético).\",\"aliases\":[],\"exemplos\":[\"T. Liv. 27, 46, 2\",\"Caes. B. G. 2, 25, 1\",\"Verg. A. 2, 332\",\"Lucr. 4, 530\"],\"notas\":\"Distinção entre o sing. neutro e o pl. poético preservada conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_1853-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_1853",
-    "page_num": 1853,
-    "lemmas": [
-      "angustia",
-      "angustia"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Passagem estreita, desfiladeiro; fig.: dificuldade, aperto, angústia; também uso coletivo/abstrato em textos pós-clássicos.",
-    "exemplos": [],
-    "notas": "Formas no plural e uso figurado confirmados por Lewis & Short e Whitaker. | [dedupe] redirect → chunk_1851:1851:0 | [dedupe] redirect → chunk_1851:1851:0",
-    "raw_text": "{\"id\":\"chunk_1853:1853:0\",\"lemas\":[\"angustia\",\"angustiae\"],\"lema_canonico\":\"angustia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Passagem estreita, desfiladeiro; fig.: dificuldade, aperto, angústia; também uso coletivo/abstrato em textos pós-clássicos.\",\"aliases\":[],\"exemplos\":[\"Cic. Fin. 1, 61\",\"Cic. Or. 187\",\"Caes. B. G. 1, 39\"],\"notas\":\"Formas no plural e uso figurado confirmados por Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_1853:1853:0\",\"lemas\":[\"angustia\",\"angustiae\"],\"lema_canonico\":\"angustia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Passagem estreita, desfiladeiro; fig.: dificuldade, aperto, angústia; também uso coletivo/abstrato em textos pós-clássicos.\",\"aliases\":[],\"exemplos\":[\"Cic. Fin. 1, 61\",\"Cic. Or. 187\",\"Caes. B. G. 1, 39\"],\"notas\":\"Formas no plural e uso figurado confirmados por Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_1853-e2",
@@ -1384,28 +1296,6 @@
     "notas": "Reconhecido como substantivo de 4ª declinação (Lewis & Short). Correção de leitura de 'part. pass.' no OCR.",
     "raw_text": "{\"id\":\"chunk_1855:1855:0\",\"lemas\":[\"anhelitus\",\"anhēlītus\"],\"lema_canonico\":\"anhelitus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"Dificuldade de respirar; ofegação, respiração ofegante; também exalação/vapor; às vezes sentido patológico (asma).\",\"aliases\":[],\"exemplos\":[\"Plaut. As. 2, 2, 61\",\"Cic. Off. 1, 36\",\"Verg. A. 5, 432\"],\"notas\":\"Reconhecido como substantivo de 4ª declinação (Lewis & Short). Correção de leitura de 'part. pass.' no OCR.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_1855:1855:0\",\"lemas\":[\"anhelitus\",\"anhēlītus\"],\"lema_canonico\":\"anhelitus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"Dificuldade de respirar; ofegação, respiração ofegante; também exalação/vapor; às vezes sentido patológico (asma).\",\"aliases\":[],\"exemplos\":[\"Plaut. As. 2, 2, 61\",\"Cic. Off. 1, 36\",\"Verg. A. 5, 432\"],\"notas\":\"Reconhecido como substantivo de 4ª declinação (Lewis & Short). Correção de leitura de 'part. pass.' no OCR.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_1856-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_1856",
-    "page_num": 1856,
-    "lemmas": [
-      "anhelitus",
-      "anhelitus"
-    ],
-    "morfologia": "s. masc. 4ª (-us)",
-    "morph_render": "s. masc. 4ª (-us)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Respiração difícil, ofegar; também: suspiro, exalação, vapor; por extensão, asma",
-    "exemplos": [],
-    "notas": "Forma gen. -ūs confirmada por LS/Whitaker; sentidos resumidos. | [dedupe] redirect → chunk_1855:1855:0 | [dedupe] redirect → chunk_1855:1855:0",
-    "raw_text": "{\"id\":\"chunk_1856:1856:0\",\"lemas\":[\"anhelitus\",\"anhēlītus\"],\"lema_canonico\":\"anhelitus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"Respiração difícil, ofegar; também: suspiro, exalação, vapor; por extensão, asma\",\"aliases\":[],\"exemplos\":[\"Plaut. As. 2, 2, 61\",\"Cic. Off. 1, 36, 131\",\"Verg. A. 5, 432\"],\"notas\":\"Forma gen. -ūs confirmada por LS/Whitaker; sentidos resumidos.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_1856:1856:0\",\"lemas\":[\"anhelitus\",\"anhēlītus\"],\"lema_canonico\":\"anhelitus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"Respiração difícil, ofegar; também: suspiro, exalação, vapor; por extensão, asma\",\"aliases\":[],\"exemplos\":[\"Plaut. As. 2, 2, 61\",\"Cic. Off. 1, 36, 131\",\"Verg. A. 5, 432\"],\"notas\":\"Forma gen. -ūs confirmada por LS/Whitaker; sentidos resumidos.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_1857-e1",
@@ -1716,28 +1606,6 @@
     "raw_json": "{\"id\":\"chunk_1869:1869:0\",\"lemas\":[\"anīlitās\",\"anilitas\"],\"lema_canonico\":\"anīlitās\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Velhice de mulher; anilidade (muito rara)\",\"aliases\":[],\"exemplos\":[\"Catull. 61, 158\"],\"notas\":\"Grafia com macron conforme LS; variante anilitas incluida.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_1869-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_1869",
-    "page_num": 1869,
-    "lemmas": [
-      "aniliter",
-      "aniliter"
-    ],
-    "morfologia": "adv.",
-    "morph_render": "adv.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Advérbio: ao modo de uma velha; como uma velha (comportamento, opinião)",
-    "exemplos": [],
-    "notas": "Forma atestada em autores; significado conforme LS/Whitaker. | [dedupe] redirect → chunk_1868:1868:1 | [dedupe] redirect → chunk_1868:1868:1",
-    "raw_text": "{\"id\":\"chunk_1869:1869:1\",\"lemas\":[\"aniliter\"],\"lema_canonico\":\"aniliter\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"Advérbio: ao modo de uma velha; como uma velha (comportamento, opinião)\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 3, 92\"],\"notas\":\"Forma atestada em autores; significado conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_1869:1869:1\",\"lemas\":[\"aniliter\"],\"lema_canonico\":\"aniliter\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"Advérbio: ao modo de uma velha; como uma velha (comportamento, opinião)\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 3, 92\"],\"notas\":\"Forma atestada em autores; significado conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_1869-e3",
     "volume_id": "faria",
     "doc_name": "chunk_1869",
@@ -1868,28 +1736,6 @@
     "notas": "Entrada original era forma perfeita 'animadverti'; normalizado para o lema infinitivo 'animadverto'.",
     "raw_text": "{\"id\":\"chunk_1874:1874:0\",\"lemas\":[\"animadverto\"],\"lema_canonico\":\"animadverto\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"dirigir a atenção para; notar, observar; também: censurar, punir; (perf. animadvertī = 'reparei, notei').\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada original era forma perfeita 'animadverti'; normalizado para o lema infinitivo 'animadverto'.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_1874:1874:0\",\"lemas\":[\"animadverto\"],\"lema_canonico\":\"animadverto\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"dirigir a atenção para; notar, observar; também: censurar, punir; (perf. animadvertī = 'reparei, notei').\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada original era forma perfeita 'animadverti'; normalizado para o lema infinitivo 'animadverto'.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_1875-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_1875",
-    "page_num": 1875,
-    "lemmas": [
-      "animadverto",
-      "animadverto"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Dirigir a atenção a algo; notar, perceber; também censurar, punir; observar, reparar (usar com acc., acc. + inf., ut, in/ ad + acc.).",
-    "exemplos": [],
-    "notas": "Regência e sentidos alinhados com Lewis & Short; forma verbal apresentada como animadverto (animadvertĕre). | [dedupe] redirect → chunk_1874:1874:0 | [dedupe] redirect → chunk_1874:1874:0",
-    "raw_text": "{\"id\":\"chunk_1875:1875:0\",\"lemas\":[\"animadverto\",\"animadvertere\"],\"lema_canonico\":\"animadverto\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Dirigir a atenção a algo; notar, perceber; também censurar, punir; observar, reparar (usar com acc., acc. + inf., ut, in/ ad + acc.).\",\"aliases\":[],\"exemplos\":[\"Ter. Phorm. 3, 1, 3\",\"Cic. Off. 2, 20\",\"Cic. Fam. 11, 27\"],\"notas\":\"Regência e sentidos alinhados com Lewis & Short; forma verbal apresentada como animadverto (animadvertĕre).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_1875:1875:0\",\"lemas\":[\"animadverto\",\"animadvertere\"],\"lema_canonico\":\"animadverto\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Dirigir a atenção a algo; notar, perceber; também censurar, punir; observar, reparar (usar com acc., acc. + inf., ut, in/ ad + acc.).\",\"aliases\":[],\"exemplos\":[\"Ter. Phorm. 3, 1, 3\",\"Cic. Off. 2, 20\",\"Cic. Fam. 11, 27\"],\"notas\":\"Regência e sentidos alinhados com Lewis & Short; forma verbal apresentada como animadverto (animadvertĕre).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_1876-e1",
@@ -2088,28 +1934,6 @@
     "notas": "Agrupadas formas adjetivais e advérbio correspondente; grafia com macron indicada em fontes (anīmosē) mas lista mantiene formas comuns.",
     "raw_text": "{\"id\":\"chunk_1884:1884:0\",\"lemas\":[\"animosus\",\"animosa\",\"animosum\",\"animose\"],\"lema_canonico\":\"animosus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Adj.: corajoso, animoso; enérgico, ardente; também aplicado a vento/ mar: tempestuoso, furioso. Adv. (animōsē/animose): corajosamente, com ardor.\",\"aliases\":[],\"exemplos\":[\"Cic. Off. 1, 92\",\"Sen. Ep. 73, 5\"],\"notas\":\"Agrupadas formas adjetivais e advérbio correspondente; grafia com macron indicada em fontes (anīmosē) mas lista mantiene formas comuns.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_1884:1884:0\",\"lemas\":[\"animosus\",\"animosa\",\"animosum\",\"animose\"],\"lema_canonico\":\"animosus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Adj.: corajoso, animoso; enérgico, ardente; também aplicado a vento/ mar: tempestuoso, furioso. Adv. (animōsē/animose): corajosamente, com ardor.\",\"aliases\":[],\"exemplos\":[\"Cic. Off. 1, 92\",\"Sen. Ep. 73, 5\"],\"notas\":\"Agrupadas formas adjetivais e advérbio correspondente; grafia com macron indicada em fontes (anīmosē) mas lista mantiene formas comuns.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_1885-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_1885",
-    "page_num": 1885,
-    "lemmas": [
-      "animosus",
-      "animosus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "courageous, spirited; also full of air/windy; passionate, ardent",
-    "exemplos": [],
-    "notas": "Conciliação LS/Whitaker: distingue sentidos relativos a anima (vento/areia) e animus (coragem). Grafia normalizada. | [dedupe] redirect → chunk_1884:1884:0 | [dedupe] redirect → chunk_1884:1884:0",
-    "raw_text": "{\"id\":\"chunk_1885:1885:0\",\"lemas\":[\"animosus\",\"animosa\",\"animosum\"],\"lema_canonico\":\"animosus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"courageous, spirited; also full of air/windy; passionate, ardent\",\"aliases\":[],\"exemplos\":[\"Cic. Mil. 92\",\"Sen. Prov. 5, 5\",\"Ov. Met. 6, 206\",\"Tac. H. 1, 24\"],\"notas\":\"Conciliação LS/Whitaker: distingue sentidos relativos a anima (vento/areia) e animus (coragem). Grafia normalizada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_1885:1885:0\",\"lemas\":[\"animosus\",\"animosa\",\"animosum\"],\"lema_canonico\":\"animosus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"courageous, spirited; also full of air/windy; passionate, ardent\",\"aliases\":[],\"exemplos\":[\"Cic. Mil. 92\",\"Sen. Prov. 5, 5\",\"Ov. Met. 6, 206\",\"Tac. H. 1, 24\"],\"notas\":\"Conciliação LS/Whitaker: distingue sentidos relativos a anima (vento/areia) e animus (coragem). Grafia normalizada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_1886-e1",
@@ -2464,28 +2288,6 @@
     "raw_json": "{\"id\":\"chunk_1897:1897:0\",\"lemas\":[\"annecto\"],\"lema_canonico\":\"annecto\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"ligar, atar, unir; juntar, acrescentar (transitivo)\",\"aliases\":[\"annectō\"],\"exemplos\":[\"Cic. Nat. 2, 136\",\"Tac. Ann. 4, 28\"],\"notas\":\"Normalizada para annecto, annectere, annexi, annectum; verbo composto de an- + necto.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_1898-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_1898",
-    "page_num": 1898,
-    "lemmas": [
-      "annexus",
-      "annexus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Particípio perfeito passivo/adjetivo dos verbos annecto / adnecto — ligado, unido, anexado; contiguous, related.",
-    "exemplos": [],
-    "notas": "Inclui variante adnexus; removidas marcas breves do OCR e padronizado conforme Whitaker/Lat→Deu. | [dedupe] redirect → chunk_1897:1897:3 | [dedupe] redirect → chunk_1897:1897:3",
-    "raw_text": "{\"id\":\"chunk_1898:1898:0\",\"lemas\":[\"annexus\",\"adnexus\"],\"lema_canonico\":\"annexus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo/adjetivo dos verbos annecto / adnecto — ligado, unido, anexado; contiguous, related.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Inclui variante adnexus; removidas marcas breves do OCR e padronizado conforme Whitaker/Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_1898:1898:0\",\"lemas\":[\"annexus\",\"adnexus\"],\"lema_canonico\":\"annexus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo/adjetivo dos verbos annecto / adnecto — ligado, unido, anexado; contiguous, related.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Inclui variante adnexus; removidas marcas breves do OCR e padronizado conforme Whitaker/Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_1899-e1",
     "volume_id": "faria",
     "doc_name": "chunk_1899",
@@ -2550,28 +2352,6 @@
     "notas": "Uniformizado lema e variante conforme Lewis & Short; referência normalizada para Aulus Gellius.",
     "raw_text": "{\"id\":\"chunk_1901:1901:0\",\"lemas\":[\"Annianus\",\"Anniānus\"],\"lema_canonico\":\"Annianus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Aniano; nome próprio/pertinente a Annius (poeta romano citado por Aulus Gellius).\",\"aliases\":[],\"exemplos\":[\"A. Gell. 6, 7\"],\"notas\":\"Uniformizado lema e variante conforme Lewis & Short; referência normalizada para Aulus Gellius.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_1901:1901:0\",\"lemas\":[\"Annianus\",\"Anniānus\"],\"lema_canonico\":\"Annianus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Aniano; nome próprio/pertinente a Annius (poeta romano citado por Aulus Gellius).\",\"aliases\":[],\"exemplos\":[\"A. Gell. 6, 7\"],\"notas\":\"Uniformizado lema e variante conforme Lewis & Short; referência normalizada para Aulus Gellius.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_1902-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_1902",
-    "page_num": 1902,
-    "lemmas": [
-      "Annĭbal",
-      "Annĭbal"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada remissiva: forma Annĭbal registrada por L&S como variante de Hannibal. | [ocr_fix 2025-08-17T19:44:35Z] match direto em LS por lemma/lemma_norm | lemma_in='Annibal' → 'Annĭbal'",
-    "raw_text": "{\"id\":\"chunk_1902:1902:0\",\"lemas\":[\"Annibal\",\"Hannibal\"],\"lema_canonico\":\"Annibal\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Hannibal\"],\"exemplos\":[],\"notas\":\"Entrada remissiva: forma Annĭbal registrada por L&S como variante de Hannibal.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_1902:1902:0\",\"lemas\":[\"Annibal\",\"Hannibal\"],\"lema_canonico\":\"Annibal\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Hannibal\"],\"exemplos\":[],\"notas\":\"Entrada remissiva: forma Annĭbal registrada por L&S como variante de Hannibal.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\",\"redirect_only\"]}"
   },
   {
     "id": "chunk_1903-e1",
@@ -2798,28 +2578,6 @@
     "raw_json": "{\"id\":\"chunk_1910:1910:0\",\"lemas\":[\"annixus\",\"adnixus\"],\"lema_canonico\":\"annixus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito de annitor / adnitor: apoiar‑se, encostar‑se; esforçar‑se, empenhar‑se; usado também adjectivalmente (vehement, strenuous).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Inclui variante com ad‑; harmonizado com LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_1910-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_1910",
-    "page_num": 1910,
-    "lemmas": [
-      "annus",
-      "annus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Ano; ano civil/agrícola; idade, tempo de vida; produto anual.",
-    "exemplos": [],
-    "notas": "Entrada original apresentava formas flexionadas (annō, annōs); corrigido para o lema canónico 'annus'. | [dedupe] redirect → chunk_1925:1925:0 | [dedupe] redirect → chunk_1925:1925:0 | [ocr_fix 2025-08-17T19:44:39Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='annus' → 'annus'",
-    "raw_text": "{\"id\":\"chunk_1910:1910:1\",\"lemas\":[\"annus\"],\"lema_canonico\":\"annus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Ano; ano civil/agrícola; idade, tempo de vida; produto anual.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada original apresentava formas flexionadas (annō, annōs); corrigido para o lema canónico 'annus'.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_1910:1910:1\",\"lemas\":[\"annus\"],\"lema_canonico\":\"annus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Ano; ano civil/agrícola; idade, tempo de vida; produto anual.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada original apresentava formas flexionadas (annō, annōs); corrigido para o lema canónico 'annus'.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_1911-e1",
     "volume_id": "faria",
     "doc_name": "chunk_1911",
@@ -3018,28 +2776,6 @@
     "raw_json": "{\"id\":\"chunk_1918:1918:0\",\"lemas\":[\"annuarius\",\"anularius\"],\"lema_canonico\":\"annuarius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"1) annuarius: adj. 'anual, relativo a um ano'; como substantivo, 'pensão anual, anuidade'. 2) anulārius/anularius: subst. 'fabricante de anéis' (cf. Cic. Ac. 2, 86).\",\"aliases\":[],\"exemplos\":[\"Cic. Ac. 2, 86\"],\"notas\":\"Reuni duas entradas (annuarius e anulārius) que aparecem juntas nas fontes; preservei ambas as leituras.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_1919-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_1919",
-    "page_num": 1919,
-    "lemmas": [
-      "anulatus",
-      "anulatus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Provido de anel; anelado; figuradamente, preso por grilhão, enlaçado; fettered.",
-    "exemplos": [],
-    "notas": "Lemas e sentidos harmonizados com Lewis & Short e Whitaker; variante com duplicação de n mantida. | [dedupe] redirect → chunk_2062:2062:0 | [dedupe] redirect → chunk_2062:2062:0",
-    "raw_text": "{\"id\":\"chunk_1919:1919:0\",\"lemas\":[\"anulatus\",\"annulatus\",\"ānŭlātus\"],\"lema_canonico\":\"anulatus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Provido de anel; anelado; figuradamente, preso por grilhão, enlaçado; fettered.\",\"aliases\":[],\"exemplos\":[\"Plaut. Poen. 5, 2, 21\"],\"notas\":\"Lemas e sentidos harmonizados com Lewis & Short e Whitaker; variante com duplicação de n mantida.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_1919:1919:0\",\"lemas\":[\"anulatus\",\"annulatus\",\"ānŭlātus\"],\"lema_canonico\":\"anulatus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Provido de anel; anelado; figuradamente, preso por grilhão, enlaçado; fettered.\",\"aliases\":[],\"exemplos\":[\"Plaut. Poen. 5, 2, 21\"],\"notas\":\"Lemas e sentidos harmonizados com Lewis & Short e Whitaker; variante com duplicação de n mantida.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_1920-e1",
     "volume_id": "faria",
     "doc_name": "chunk_1920",
@@ -3128,28 +2864,6 @@
     "raw_json": "{\"id\":\"chunk_1923:1923:0\",\"lemas\":[\"annuō\",\"adnuō\",\"annuere\",\"adnuere\"],\"lema_canonico\":\"annuō\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"Fazer um sinal afirmativo com a cabeça; anuir, consentir; também: ratificar, aprovar.\",\"aliases\":[],\"exemplos\":[\"Sen. Vit. 28\"],\"notas\":\"Registro da variante com / sem d (adnuō) e normalização das partes principais conforme LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_1924-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_1924",
-    "page_num": 1924,
-    "lemmas": [
-      "annuō",
-      "annuō"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "1) Fazer sinal afirmativo com a cabeça; aprovar. 2) Afirmar, consentir; designar por sinal.",
-    "exemplos": [],
-    "notas": "Entrada duplicada à anterior em sentido; unifiquei lema e formas, confirmadas por LS e Whitaker. | [dedupe] redirect → chunk_1923:1923:0 | [dedupe] redirect → chunk_1923:1923:0",
-    "raw_text": "{\"id\":\"chunk_1924:1924:0\",\"lemas\":[\"annuō\",\"adnuō\",\"annuere\",\"adnuere\"],\"lema_canonico\":\"annuō\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"1) Fazer sinal afirmativo com a cabeça; aprovar. 2) Afirmar, consentir; designar por sinal.\",\"aliases\":[],\"exemplos\":[\"Cic. Cat. 3, 10\",\"Cic. Quint. 18\"],\"notas\":\"Entrada duplicada à anterior em sentido; unifiquei lema e formas, confirmadas por LS e Whitaker.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_1924:1924:0\",\"lemas\":[\"annuō\",\"adnuō\",\"annuere\",\"adnuere\"],\"lema_canonico\":\"annuō\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"1) Fazer sinal afirmativo com a cabeça; aprovar. 2) Afirmar, consentir; designar por sinal.\",\"aliases\":[],\"exemplos\":[\"Cic. Cat. 3, 10\",\"Cic. Quint. 18\"],\"notas\":\"Entrada duplicada à anterior em sentido; unifiquei lema e formas, confirmadas por LS e Whitaker.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_1925-e1",
     "volume_id": "faria",
     "doc_name": "chunk_1925",
@@ -3214,28 +2928,6 @@
     "notas": "Inclui tanto o uso adjetival quanto o substantivo neutro (pl. annua). Base: Whitaker + LS.",
     "raw_text": "{\"id\":\"chunk_1927:1927:0\",\"lemas\":[\"annuus\",\"annua\",\"annuum\"],\"lema_canonico\":\"annuus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Adjetivo: relativo a um ano, que dura um ano, anual. (Como substantivo neutro, annuum/annua designa rendimento anual, pensão — geralmente no pl.)\",\"aliases\":[],\"exemplos\":[\"Sen. Ben. 1, 9, 4\"],\"notas\":\"Inclui tanto o uso adjetival quanto o substantivo neutro (pl. annua). Base: Whitaker + LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_1927:1927:0\",\"lemas\":[\"annuus\",\"annua\",\"annuum\"],\"lema_canonico\":\"annuus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Adjetivo: relativo a um ano, que dura um ano, anual. (Como substantivo neutro, annuum/annua designa rendimento anual, pensão — geralmente no pl.)\",\"aliases\":[],\"exemplos\":[\"Sen. Ben. 1, 9, 4\"],\"notas\":\"Inclui tanto o uso adjetival quanto o substantivo neutro (pl. annua). Base: Whitaker + LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_1928-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_1928",
-    "page_num": 1928,
-    "lemmas": [
-      "annuus",
-      "annuus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Que dura ou se repete anualmente; relativo a um ano; anual.",
-    "exemplos": [],
-    "notas": "Corrigi OCR (aimūs → annuus); reconheci também o substantivo annuum (annuēnum) distinto em outras fontes. | [dedupe] redirect → chunk_1927:1927:0 | [dedupe] redirect → chunk_1927:1927:0",
-    "raw_text": "{\"id\":\"chunk_1928:1928:0\",\"lemas\":[\"annuus\",\"annua\",\"annuum\",\"annuum (s.)\"],\"lema_canonico\":\"annuus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Que dura ou se repete anualmente; relativo a um ano; anual.\",\"aliases\":[],\"exemplos\":[\"Cic. Sest. 137\",\"Cic. Inv. 1, 34\"],\"notas\":\"Corrigi OCR (aimūs → annuus); reconheci também o substantivo annuum (annuēnum) distinto em outras fontes.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_1928:1928:0\",\"lemas\":[\"annuus\",\"annua\",\"annuum\",\"annuum (s.)\"],\"lema_canonico\":\"annuus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Que dura ou se repete anualmente; relativo a um ano; anual.\",\"aliases\":[],\"exemplos\":[\"Cic. Sest. 137\",\"Cic. Inv. 1, 34\"],\"notas\":\"Corrigi OCR (aimūs → annuus); reconheci também o substantivo annuum (annuēnum) distinto em outras fontes.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"conf:high\"]}"
   },
   {
     "id": "chunk_1929-e1",
@@ -3304,28 +2996,6 @@
     "notas": "Conferido com Whitaker (anquīrō, anquīrere) e Lat→Deu; normalizei grafia sem macron em lema_canonico.",
     "raw_text": "{\"id\":\"chunk_1931:1931:0\",\"lemas\":[\"anquiro\",\"anquirō\"],\"lema_canonico\":\"anquiro\",\"morfologia\":\"v. 3ª (-ere), tr.\",\"morph_extra\":[],\"definicao\":\"procurar, pesquisar; examinar; em linguagem jurídica, investigar, acusar, promover ação\",\"aliases\":[],\"exemplos\":[\"Cic. Off. 1, 11\",\"T. Liv. 6, 20, 12\",\"T. Liv. 2, 52, 5\"],\"notas\":\"Conferido com Whitaker (anquīrō, anquīrere) e Lat→Deu; normalizei grafia sem macron em lema_canonico.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_1931:1931:0\",\"lemas\":[\"anquiro\",\"anquirō\"],\"lema_canonico\":\"anquiro\",\"morfologia\":\"v. 3ª (-ere), tr.\",\"morph_extra\":[],\"definicao\":\"procurar, pesquisar; examinar; em linguagem jurídica, investigar, acusar, promover ação\",\"aliases\":[],\"exemplos\":[\"Cic. Off. 1, 11\",\"T. Liv. 6, 20, 12\",\"T. Liv. 2, 52, 5\"],\"notas\":\"Conferido com Whitaker (anquīrō, anquīrere) e Lat→Deu; normalizei grafia sem macron em lema_canonico.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_1932-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_1932",
-    "page_num": 1932,
-    "lemmas": [
-      "anquirō",
-      "anquirō"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "anquīsīvī: perfeito ativo, indicativo, 1.ª pessoa de anquirō, anquirere — procurar, investigar, examinar; acusar.",
-    "exemplos": [],
-    "notas": "Registro do perfeito como forma; lema canónico é o infinitivo anquirō. | [dedupe] redirect → chunk_1931:1931:0 | [dedupe] redirect → chunk_1931:1931:0",
-    "raw_text": "{\"id\":\"chunk_1932:1932:0\",\"lemas\":[\"anquirō\",\"anquīsīvī\"],\"lema_canonico\":\"anquirō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"anquīsīvī: perfeito ativo, indicativo, 1.ª pessoa de anquirō, anquirere — procurar, investigar, examinar; acusar.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Registro do perfeito como forma; lema canónico é o infinitivo anquirō.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_1932:1932:0\",\"lemas\":[\"anquirō\",\"anquīsīvī\"],\"lema_canonico\":\"anquirō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"anquīsīvī: perfeito ativo, indicativo, 1.ª pessoa de anquirō, anquirere — procurar, investigar, examinar; acusar.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Registro do perfeito como forma; lema canónico é o infinitivo anquirō.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_1933-e1",
@@ -3504,50 +3174,6 @@
     "raw_json": "{\"id\":\"chunk_1938:1938:0\",\"lemas\":[\"ante\"],\"lema_canonico\":\"ante\",\"morfologia\":\"prep. com acc.\",\"morph_extra\":[\"adv.\"],\"definicao\":\"Preposição (com acusativo) e advérbio: antes de, diante de; no tempo, anteriormente; em espaço, em frente a; também usado figuradamente (comparativo/ponderativo).\",\"aliases\":[],\"exemplos\":[\"Cæs. B. G. 7, 79, 4\",\"Cæs. B. G. 7, 3, 3\",\"Verg. En. 1, 347\",\"Lucr. 3, 67\",\"Ov. F. 1, 503\"],\"notas\":\"Entrada ampliada para incluir uso advérbial; preferida a regência com acusativo (LS/Whitaker).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_1939-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_1939",
-    "page_num": 1939,
-    "lemmas": [
-      "ante",
-      "ante"
-    ],
-    "morfologia": "prep. com acc.",
-    "morph_render": "prep. com acc.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "antes; em frente de, perante (preposição com acusativo); também advérbio: antes, anteriormente, em frente",
-    "exemplos": [],
-    "notas": "Conciliada a dupla função adv./prep.; seleção da etiqueta 'prep. com acc.' por ser uma das categorias exigidas. | [dedupe] redirect → chunk_1938:1938:0 | [dedupe] redirect → chunk_1938:1938:0",
-    "raw_text": "{\"id\":\"chunk_1939:1939:0\",\"lemas\":[\"ante\"],\"lema_canonico\":\"ante\",\"morfologia\":\"prep. com acc.\",\"morph_extra\":[],\"definicao\":\"antes; em frente de, perante (preposição com acusativo); também advérbio: antes, anteriormente, em frente\",\"aliases\":[],\"exemplos\":[\"Cic. Ac. 2, 125\",\"Cic. Tusc. 1, 99\",\"Caes. B. Civ. 3, 105, 2\"],\"notas\":\"Conciliada a dupla função adv./prep.; seleção da etiqueta 'prep. com acc.' por ser uma das categorias exigidas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_1939:1939:0\",\"lemas\":[\"ante\"],\"lema_canonico\":\"ante\",\"morfologia\":\"prep. com acc.\",\"morph_extra\":[],\"definicao\":\"antes; em frente de, perante (preposição com acusativo); também advérbio: antes, anteriormente, em frente\",\"aliases\":[],\"exemplos\":[\"Cic. Ac. 2, 125\",\"Cic. Tusc. 1, 99\",\"Caes. B. Civ. 3, 105, 2\"],\"notas\":\"Conciliada a dupla função adv./prep.; seleção da etiqueta 'prep. com acc.' por ser uma das categorias exigidas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_1939-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_1939",
-    "page_num": 1939,
-    "lemmas": [
-      "antes",
-      "antes"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Fileiras, filas — por ex. de vinhas, plantas ou tropas; ordens, estacas de plantações.",
-    "exemplos": [],
-    "notas": "Confirmado como substantivo plural de 3ª declinação (LS, Whitaker, Lat→Deu). | [dedupe] redirect → chunk_1889:1889:0 | [dedupe] redirect → chunk_1889:1889:0",
-    "raw_text": "{\"id\":\"chunk_1939:1939:1\",\"lemas\":[\"antes\"],\"lema_canonico\":\"antes\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Fileiras, filas — por ex. de vinhas, plantas ou tropas; ordens, estacas de plantações.\",\"aliases\":[],\"exemplos\":[\"Verg. G. 2, 417\",\"Col. 10, 376\"],\"notas\":\"Confirmado como substantivo plural de 3ª declinação (LS, Whitaker, Lat→Deu).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_1939:1939:1\",\"lemas\":[\"antes\"],\"lema_canonico\":\"antes\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Fileiras, filas — por ex. de vinhas, plantas ou tropas; ordens, estacas de plantações.\",\"aliases\":[],\"exemplos\":[\"Verg. G. 2, 417\",\"Col. 10, 376\"],\"notas\":\"Confirmado como substantivo plural de 3ª declinação (LS, Whitaker, Lat→Deu).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_1940-e1",
     "volume_id": "faria",
     "doc_name": "chunk_1940",
@@ -3702,28 +3328,6 @@
     "raw_json": "{\"id\":\"chunk_1945:1945:1\",\"lemas\":[\"antecapiō\",\"antecapiō\"],\"lema_canonico\":\"antecapiō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"tomar antes; antecipar; preceder\",\"aliases\":[],\"exemplos\":[\"Sal. B. Jug. 50, 1\",\"Sal. C. Cat. 55, 1\"],\"notas\":\"Forma e paradigmas harmonizados com Lat→Deu; marquei transitividade.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_1946-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_1946",
-    "page_num": 1946,
-    "lemmas": [
-      "antecaptus",
-      "antecaptus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "particípio passivo de antecapiō: tomado/prevenido (antes), capturado anteriormente.",
-    "exemplos": [],
-    "notas": "Grafia alinhada com Whitaker/Lat→Deu; tratado como particípio-adjetivo. | [dedupe] redirect → chunk_1941:1941:0 | [dedupe] redirect → chunk_1941:1941:0",
-    "raw_text": "{\"id\":\"chunk_1946:1946:0\",\"lemas\":[\"antecaptus\"],\"lema_canonico\":\"antecaptus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio passivo de antecapiō: tomado/prevenido (antes), capturado anteriormente.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Grafia alinhada com Whitaker/Lat→Deu; tratado como particípio-adjetivo.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_1946:1946:0\",\"lemas\":[\"antecaptus\"],\"lema_canonico\":\"antecaptus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio passivo de antecapiō: tomado/prevenido (antes), capturado anteriormente.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Grafia alinhada com Whitaker/Lat→Deu; tratado como particípio-adjetivo.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_1947-e1",
     "volume_id": "faria",
     "doc_name": "chunk_1947",
@@ -3832,28 +3436,6 @@
     "notas": "Unifica formas variantes registradas; corresponde ao registro comparado Whitaker/Lat→Deu/LS.",
     "raw_text": "{\"id\":\"chunk_1951:1951:0\",\"lemas\":[\"anteceptus\",\"antecaptus\"],\"lema_canonico\":\"anteceptus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio passivo de antecapiō; variantes gráficas equivalentes (anteceptus = antecaptus).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Unifica formas variantes registradas; corresponde ao registro comparado Whitaker/Lat→Deu/LS.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_1951:1951:0\",\"lemas\":[\"anteceptus\",\"antecaptus\"],\"lema_canonico\":\"anteceptus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio passivo de antecapiō; variantes gráficas equivalentes (anteceptus = antecaptus).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Unifica formas variantes registradas; corresponde ao registro comparado Whitaker/Lat→Deu/LS.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_1952-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_1952",
-    "page_num": 1952,
-    "lemmas": [
-      "antecedo",
-      "antecedo"
-    ],
-    "morfologia": "v. 3ª -ere",
-    "morph_render": "v. 3ª -ere",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "preceder, ir adiante; alcançar antes; sobressair, superar (perf. antecessi).",
-    "exemplos": [],
-    "notas": "Corrigido para o lema do infinitivo; incluiu forma perfeita citada. | [dedupe] redirect → chunk_1948:1948:0 | [dedupe] redirect → chunk_1948:1948:0",
-    "raw_text": "{\"id\":\"chunk_1952:1952:0\",\"lemas\":[\"antecedo\",\"antecessi\"],\"lema_canonico\":\"antecedo\",\"morfologia\":\"v. 3ª -ere\",\"morph_extra\":[],\"definicao\":\"preceder, ir adiante; alcançar antes; sobressair, superar (perf. antecessi).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigido para o lema do infinitivo; incluiu forma perfeita citada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_1952:1952:0\",\"lemas\":[\"antecedo\",\"antecessi\"],\"lema_canonico\":\"antecedo\",\"morfologia\":\"v. 3ª -ere\",\"morph_extra\":[],\"definicao\":\"preceder, ir adiante; alcançar antes; sobressair, superar (perf. antecessi).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigido para o lema do infinitivo; incluiu forma perfeita citada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_1953-e1",
@@ -4384,28 +3966,6 @@
     "raw_json": "{\"id\":\"chunk_1971:1971:0\",\"lemas\":[\"Antennae\"],\"lema_canonico\":\"Antennae\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"cidade feminina dos Sabinos no Lácio antigo (substantivo próprio)\",\"aliases\":[],\"exemplos\":[\"Varr. L. Lat. 5, 58\"],\"notas\":\"Correcção de OCR e unificação das formas apresentadas; forma plural coletiva mantida implícita.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_1972-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_1972",
-    "page_num": 1972,
-    "lemmas": [
-      "antenna",
-      "antenna"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "verga transversal da vela (yardarm, sail-yard); por extensão: antena (órgão)",
-    "exemplos": [],
-    "notas": "inclui variante arcaica antemna atestada em Lewis & Short | [dedupe] redirect → chunk_1970:1970:0 | [dedupe] redirect → chunk_1970:1970:0",
-    "raw_text": "{\"id\":\"chunk_1972:1972:0\",\"lemas\":[\"antenna\",\"antemna\",\"antena\"],\"lema_canonico\":\"antenna\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"verga transversal da vela (yardarm, sail-yard); por extensão: antena (órgão)\",\"aliases\":[],\"exemplos\":[\"Caes. B. G. 3, 14\"],\"notas\":\"inclui variante arcaica antemna atestada em Lewis & Short\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_1972:1972:0\",\"lemas\":[\"antenna\",\"antemna\",\"antena\"],\"lema_canonico\":\"antenna\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"verga transversal da vela (yardarm, sail-yard); por extensão: antena (órgão)\",\"aliases\":[],\"exemplos\":[\"Caes. B. G. 3, 14\"],\"notas\":\"inclui variante arcaica antemna atestada em Lewis & Short\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_1973-e1",
     "volume_id": "faria",
     "doc_name": "chunk_1973",
@@ -4426,28 +3986,6 @@
     "notas": "Normalizado morfologia para formato do catálogo; baseado em Lewis & Short. | [ocr_fix 2025-08-17T19:44:36Z] match direto em LS por lemma/lemma_norm | lemma_in='Antenor' → 'Antēnor'",
     "raw_text": "{\"id\":\"chunk_1973:1973:0\",\"lemas\":[\"Antenor\"],\"lema_canonico\":\"Antenor\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Antenor, chefe troiano; ligado à tradição de restauração de Helena e, nas fontes, associado à fundação de Patavium (Pádua).\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 13, 201\"],\"notas\":\"Normalizado morfologia para formato do catálogo; baseado em Lewis & Short.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_1973:1973:0\",\"lemas\":[\"Antenor\"],\"lema_canonico\":\"Antenor\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Antenor, chefe troiano; ligado à tradição de restauração de Helena e, nas fontes, associado à fundação de Patavium (Pádua).\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 13, 201\"],\"notas\":\"Normalizado morfologia para formato do catálogo; baseado em Lewis & Short.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_1974-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_1974",
-    "page_num": 1974,
-    "lemmas": [
-      "antĕcessus",
-      "antĕcessus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "relativo a Antenor (adjetivo gentílico/derivado)",
-    "exemplos": [],
-    "notas": "Forma atestada apenas na fonte do verbete; correção a partir do OCR.\n[ocr_pipeline 2025-08-16T23:23:10.731062Z] lemma_in='Antenoreus' → 'antĕcessus' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:22:20Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='antĕcessus' → 'antĕcessus' | [dedupe] redirect → chunk_1954:1954:1 | [dedupe] redirect → chunk_1954:1954:1",
-    "raw_text": "{\"id\":\"chunk_1974:1974:0\",\"lemas\":[\"Antenoreus\"],\"lema_canonico\":\"Antenoreus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo a Antenor (adjetivo gentílico/derivado)\",\"aliases\":[],\"exemplos\":[\"Marc. 1, 77\"],\"notas\":\"Forma atestada apenas na fonte do verbete; correção a partir do OCR.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_1974:1974:0\",\"lemas\":[\"Antenoreus\"],\"lema_canonico\":\"Antenoreus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo a Antenor (adjetivo gentílico/derivado)\",\"aliases\":[],\"exemplos\":[\"Marc. 1, 77\"],\"notas\":\"Forma atestada apenas na fonte do verbete; correção a partir do OCR.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
     "id": "chunk_1975-e1",
@@ -4714,28 +4252,6 @@
     "raw_json": "{\"id\":\"chunk_1984:1984:0\",\"lemas\":[\"Anteros\",\"Antĕrōs\"],\"lema_canonico\":\"Anteros\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Nome próprio masculino: Anteros, divindade do amor correspondido; também indivíduo chamado Anteros (p.ex. escravo de Ático).\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 3, 60\",\"Cic. Att. 9, 14, 3\"],\"notas\":\"Grafia alinhada a Lewis & Short (Antĕrōs).\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_1985-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_1985",
-    "page_num": 1985,
-    "lemmas": [
-      "antes",
-      "antes"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "fileiras; linhas, p. ex. de videiras ou plantas; também fileiras de soldados",
-    "exemplos": [],
-    "notas": "Declinação ajustada conforme Lewis & Short e Whitaker (plural/uso colet.). | [dedupe] redirect → chunk_1889:1889:0 | [dedupe] redirect → chunk_1889:1889:0",
-    "raw_text": "{\"id\":\"chunk_1985:1985:0\",\"lemas\":[\"antes\"],\"lema_canonico\":\"antes\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"fileiras; linhas, p. ex. de videiras ou plantas; também fileiras de soldados\",\"aliases\":[],\"exemplos\":[\"Verg. G. 2, 417\",\"Col. 10, 376\"],\"notas\":\"Declinação ajustada conforme Lewis & Short e Whitaker (plural/uso colet.).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_1985:1985:0\",\"lemas\":[\"antes\"],\"lema_canonico\":\"antes\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"fileiras; linhas, p. ex. de videiras ou plantas; também fileiras de soldados\",\"aliases\":[],\"exemplos\":[\"Verg. G. 2, 417\",\"Col. 10, 376\"],\"notas\":\"Declinação ajustada conforme Lewis & Short e Whitaker (plural/uso colet.).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_1986-e1",
     "volume_id": "faria",
     "doc_name": "chunk_1986",
@@ -4824,50 +4340,6 @@
     "raw_json": "{\"id\":\"chunk_1988:1988:0\",\"lemas\":[\"antestor\",\"antestor\"],\"lema_canonico\":\"antestor\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"Verbo deponente: chamar como testemunha; convocar (como testemunha) especialmente antes da abertura do processo.\",\"aliases\":[],\"exemplos\":[\"Cic. Mil. 68\"],\"notas\":\"Correlacionado com Lewis & Short (sentido jurídico) e com formas deponente antestārī, antestātus.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_1989-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_1989",
-    "page_num": 1989,
-    "lemmas": [
-      "antĕfĕro",
-      "antĕfĕro"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "antetuli: perfeito de antefero 'preferir, colocar à frente; antecipar'.",
-    "exemplos": [],
-    "notas": "Corrigida leitura OCR 'antentŭlĭ' → 'antetuli'; lema apresentado como antefero (infinitivo) com a forma perfeita antetuli. | [dedupe] redirect → chunk_1956:1956:0 | [dedupe] redirect → chunk_1956:1956:0 | [ocr_fix 2025-08-17T19:44:38Z] match direto em Gaffiot por lemma/lemma_norm | lemma_in='antefero' → 'antĕfĕro'",
-    "raw_text": "{\"id\":\"chunk_1989:1989:0\",\"lemas\":[\"antefero\",\"antetuli\"],\"lema_canonico\":\"antefero\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"antetuli: perfeito de antefero 'preferir, colocar à frente; antecipar'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigida leitura OCR 'antentŭlĭ' → 'antetuli'; lema apresentado como antefero (infinitivo) com a forma perfeita antetuli.\",\"flags\":[\"src_latdeu\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_1989:1989:0\",\"lemas\":[\"antefero\",\"antetuli\"],\"lema_canonico\":\"antefero\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"antetuli: perfeito de antefero 'preferir, colocar à frente; antecipar'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigida leitura OCR 'antentŭlĭ' → 'antetuli'; lema apresentado como antefero (infinitivo) com a forma perfeita antetuli.\",\"flags\":[\"src_latdeu\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_1990-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_1990",
-    "page_num": 1990,
-    "lemmas": [
-      "antevenio",
-      "antevenio"
-    ],
-    "morfologia": "v. 4ª (-īre)",
-    "morph_render": "v. 4ª (-īre)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "anteveni: perfeito de antevenio — chegar antes, antecipar; prevenir; exceder, superar.",
-    "exemplos": [],
-    "notas": "Normalizada forma perfeita 'anteveni' a partir do OCR; corresponde ao perfeito de antevenire. | [dedupe] redirect → chunk_1991:1991:0 | [dedupe] redirect → chunk_1991:1991:0",
-    "raw_text": "{\"id\":\"chunk_1990:1990:0\",\"lemas\":[\"antevenio\",\"anteveni\"],\"lema_canonico\":\"antevenio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"anteveni: perfeito de antevenio — chegar antes, antecipar; prevenir; exceder, superar.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizada forma perfeita 'anteveni' a partir do OCR; corresponde ao perfeito de antevenire.\",\"flags\":[\"src_latdeu\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_1990:1990:0\",\"lemas\":[\"antevenio\",\"anteveni\"],\"lema_canonico\":\"antevenio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"anteveni: perfeito de antevenio — chegar antes, antecipar; prevenir; exceder, superar.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizada forma perfeita 'anteveni' a partir do OCR; corresponde ao perfeito de antevenire.\",\"flags\":[\"src_latdeu\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_1991-e1",
     "volume_id": "faria",
     "doc_name": "chunk_1991",
@@ -4910,28 +4382,6 @@
     "notas": "Entrada é forma flexionada (perfeito); não há etiqueta específica no vocabulário exigido; marcado para revisão.\n[ocr_pipeline 2025-08-16T23:23:11.649878Z] lemma_in='anteverti' → 'antĕversĭo' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:22:22Z] match direto em LS por lemma/lemma_norm | lemma_in='antĕversĭo' → 'antĕversĭo'",
     "raw_text": "{\"id\":\"chunk_1992:1992:0\",\"lemas\":[\"anteverti\"],\"lema_canonico\":\"anteverti\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Forma de perfeito do verbo antevertō (anteverto).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada é forma flexionada (perfeito); não há etiqueta específica no vocabulário exigido; marcado para revisão.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"morph_out_of_vocab\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_1992:1992:0\",\"lemas\":[\"anteverti\"],\"lema_canonico\":\"anteverti\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Forma de perfeito do verbo antevertō (anteverto).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada é forma flexionada (perfeito); não há etiqueta específica no vocabulário exigido; marcado para revisão.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"morph_out_of_vocab\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_1992-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_1992",
-    "page_num": 1992,
-    "lemmas": [
-      "antĕverto",
-      "antĕverto"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Ir na frente, preceder; prevenir, antecipar; transitivamente, prevenir ou preferir algo a outra coisa.",
-    "exemplos": [],
-    "notas": "Paradigma e acepções alinhadas com Lewis & Short; variantes preservadas. | [dedupe] redirect → chunk_1992:1992:2 | [dedupe] redirect → chunk_1992:1992:2 | [ocr_fix 2025-08-17T19:55:56Z] similaridade semântica FAISS (definição/gloss) + reranking por forma | lemma_in='anteverto' → 'antĕverto'",
-    "raw_text": "{\"id\":\"chunk_1992:1992:1\",\"lemas\":[\"anteverto\",\"antevertere\"],\"lema_canonico\":\"anteverto\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Ir na frente, preceder; prevenir, antecipar; transitivamente, prevenir ou preferir algo a outra coisa.\",\"aliases\":[],\"exemplos\":[\"Ter. Eun. 738\",\"Cic. Mil. 45\",\"Apul. Met. 1, 10\",\"Caes. B. G. 7, 7, 3\"],\"notas\":\"Paradigma e acepções alinhadas com Lewis & Short; variantes preservadas.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_1992:1992:1\",\"lemas\":[\"anteverto\",\"antevertere\"],\"lema_canonico\":\"anteverto\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Ir na frente, preceder; prevenir, antecipar; transitivamente, prevenir ou preferir algo a outra coisa.\",\"aliases\":[],\"exemplos\":[\"Ter. Eun. 738\",\"Cic. Mil. 45\",\"Apul. Met. 1, 10\",\"Caes. B. G. 7, 7, 3\"],\"notas\":\"Paradigma e acepções alinhadas com Lewis & Short; variantes preservadas.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
     "id": "chunk_1992-e3",

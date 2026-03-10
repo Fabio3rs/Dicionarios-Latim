@@ -44,28 +44,6 @@
     "raw_json": "{\"id\":\"chunk_201:201:0\",\"lemas\":[\"academicus\"],\"lema_canonico\":\"academicus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Acadêmicos, filósofos da Academia (forma plural 'academici', usados por Cícero)\",\"aliases\":[],\"exemplos\":[\"Cic. Fin. 2,34\"],\"notas\":\"Entrada plural normalizada ao lema 'academicus'; gen./declinação conformes ao Lat→Deu e Whitaker.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_202-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_202",
-    "page_num": 202,
-    "lemmas": [
-      "academicus",
-      "academicus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "acadêmico, relativo à Academia",
-    "exemplos": [],
-    "notas": "Normalizado ortograficamente e na abreviatura da citação; confirmações em LS e Whitaker. | [dedupe] redirect → chunk_200:200:0 | [dedupe] redirect → chunk_200:200:0",
-    "raw_text": "{\"id\":\"chunk_202:202:0\",\"lemas\":[\"academicus\",\"academica\",\"academicum\"],\"lema_canonico\":\"academicus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"acadêmico, relativo à Academia\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 13,19,3\"],\"notas\":\"Normalizado ortograficamente e na abreviatura da citação; confirmações em LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_202:202:0\",\"lemas\":[\"academicus\",\"academica\",\"academicum\"],\"lema_canonico\":\"academicus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"acadêmico, relativo à Academia\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 13,19,3\"],\"notas\":\"Normalizado ortograficamente e na abreviatura da citação; confirmações em LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_203-e1",
     "volume_id": "faria",
     "doc_name": "chunk_203",
@@ -946,28 +924,6 @@
     "raw_json": "{\"id\":\"chunk_239:239:0\",\"lemas\":[\"accidens\",\"accidēns\"],\"lema_canonico\":\"accidens\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[\"part. pres.\"],\"definicao\":\"(Part. pres. de accidō) Acontecimento acidental; qualidade não essencial, circunstância, acaso.\",\"aliases\":[],\"exemplos\":[\"Quint. 5, 10, 23\",\"Dig. 35, 2, 51\",\"Sen. Const. 9, 1\"],\"notas\":\"Entrada reconhece uso como particípio presente e substantivo/adjetivo; grafia com ē marcada para clareza segundo LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_240-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_240",
-    "page_num": 240,
-    "lemmas": [
-      "accidō",
-      "accidō"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "cair; acontecer, suceder (verbo intransitivo).",
-    "exemplos": [],
-    "notas": "Perfeito attested as accidī (perf. 1ª sing.) — alinhado com Lat→Deu. | [dedupe] redirect → chunk_241:241:0 | [dedupe] redirect → chunk_241:241:0",
-    "raw_text": "{\"id\":\"chunk_240:240:0\",\"lemas\":[\"accidō\"],\"lema_canonico\":\"accidō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"cair; acontecer, suceder (verbo intransitivo).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Perfeito attested as accidī (perf. 1ª sing.) — alinhado com Lat→Deu.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_240:240:0\",\"lemas\":[\"accidō\"],\"lema_canonico\":\"accidō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"cair; acontecer, suceder (verbo intransitivo).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Perfeito attested as accidī (perf. 1ª sing.) — alinhado com Lat→Deu.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_241-e1",
     "volume_id": "faria",
     "doc_name": "chunk_241",
@@ -1144,28 +1100,6 @@
     "raw_json": "{\"id\":\"chunk_246:246:1\",\"lemas\":[\"accingo\",\"accingō\",\"adcingō\"],\"lema_canonico\":\"accingō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"cingir; armar, equipar; (refl.) preparar-se, começar\",\"aliases\":[],\"exemplos\":[\"Verg. A. (En.) 6, 570\",\"Tac. Hist. 2, 89\",\"Liv. 4, 2, 7 (cit. em Cic.)\"],\"notas\":\"Infinitivo padrão accingere representado por accingō; incluída variante adcingō; transitivo primário.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_247-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_247",
-    "page_num": 247,
-    "lemmas": [
-      "accingō",
-      "accingō"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "cingir, equipar; preparar‑se, aprontar‑se (perfeito: accīnxi).",
-    "exemplos": [],
-    "notas": "Perfeito accinxi confirmado; grafia normalizada a partir do OCR. | [dedupe] redirect → chunk_246:246:1 | [dedupe] redirect → chunk_246:246:1",
-    "raw_text": "{\"id\":\"chunk_247:247:0\",\"lemas\":[\"accingō\"],\"lema_canonico\":\"accingō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"cingir, equipar; preparar‑se, aprontar‑se (perfeito: accīnxi).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Perfeito accinxi confirmado; grafia normalizada a partir do OCR.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_firstpass\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_247:247:0\",\"lemas\":[\"accingō\"],\"lema_canonico\":\"accingō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"cingir, equipar; preparar‑se, aprontar‑se (perfeito: accīnxi).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Perfeito accinxi confirmado; grafia normalizada a partir do OCR.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_firstpass\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_248-e1",
     "volume_id": "faria",
     "doc_name": "chunk_248",
@@ -1296,28 +1230,6 @@
     "notas": "Entradas 'ab' e sua variante 'abs' consolidadas; formas históricas (ap, af) atestadas em LS.",
     "raw_text": "{\"id\":\"chunk_249:249:0\",\"lemas\":[\"ab\",\"abs\"],\"lema_canonico\":\"ab\",\"morfologia\":\"prep. com abl.\",\"morph_extra\":[],\"definicao\":\"Preposição com ablativo: de, desde, por (agente), a partir de; indica origem, separação, causa, tempo ou ponto de partida.\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 5, 3, 1\",\"Caes. B. G. 1, 7\",\"Liv. 21, 9, 3\",\"Verg. E. 8, 68\",\"Cic. Phil. 2, 41\",\"Plin. 2, 47\"],\"notas\":\"Entradas 'ab' e sua variante 'abs' consolidadas; formas históricas (ap, af) atestadas em LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_249:249:0\",\"lemas\":[\"ab\",\"abs\"],\"lema_canonico\":\"ab\",\"morfologia\":\"prep. com abl.\",\"morph_extra\":[],\"definicao\":\"Preposição com ablativo: de, desde, por (agente), a partir de; indica origem, separação, causa, tempo ou ponto de partida.\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 5, 3, 1\",\"Caes. B. G. 1, 7\",\"Liv. 21, 9, 3\",\"Verg. E. 8, 68\",\"Cic. Phil. 2, 41\",\"Plin. 2, 47\"],\"notas\":\"Entradas 'ab' e sua variante 'abs' consolidadas; formas históricas (ap, af) atestadas em LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_249-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_249",
-    "page_num": 249,
-    "lemmas": [
-      "accipio",
-      "accipio"
-    ],
-    "morfologia": "v. 3ª -iō (-ere)",
-    "morph_render": "v. 3ª -iō (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Tomar para si, receber, aceitar; perceber, ouvir; compreender, interpretar; sofrer, experimentar.",
-    "exemplos": [],
-    "notas": "Forma variante medieval/class. 'adcipio' atestada; perfeito 'accepi', supino 'acceptum'. Morfologia alinhada com LS/Whitaker/Lat→Deu. | [dedupe] redirect → chunk_226:226:1 | [dedupe] redirect → chunk_226:226:1",
-    "raw_text": "{\"id\":\"chunk_249:249:1\",\"lemas\":[\"accipio\",\"adcipio\"],\"lema_canonico\":\"accipio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"Tomar para si, receber, aceitar; perceber, ouvir; compreender, interpretar; sofrer, experimentar.\",\"aliases\":[],\"exemplos\":[\"T. Liv. 26, 45, 6\",\"Cic. Phil. 8, 28\",\"Cic. Arch. 18\",\"Cic. Tusc. 5, 56\"],\"notas\":\"Forma variante medieval/class. 'adcipio' atestada; perfeito 'accepi', supino 'acceptum'. Morfologia alinhada com LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_249:249:1\",\"lemas\":[\"accipio\",\"adcipio\"],\"lema_canonico\":\"accipio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"Tomar para si, receber, aceitar; perceber, ouvir; compreender, interpretar; sofrer, experimentar.\",\"aliases\":[],\"exemplos\":[\"T. Liv. 26, 45, 6\",\"Cic. Phil. 8, 28\",\"Cic. Arch. 18\",\"Cic. Tusc. 5, 56\"],\"notas\":\"Forma variante medieval/class. 'adcipio' atestada; perfeito 'accepi', supino 'acceptum'. Morfologia alinhada com LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_249-e3",
@@ -1694,28 +1606,6 @@
     "raw_json": "{\"id\":\"chunk_264:264:0\",\"lemas\":[\"accola\"],\"lema_canonico\":\"accola\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"habitante vizinho; aquele que mora perto (também usado com gênero comum)\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 2, 4, 50\"],\"notas\":\"Gênero comum atestado em LS; forma de 1ª declinação confirmada por fontes.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_265-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_265",
-    "page_num": 265,
-    "lemmas": [
-      "accŏlo",
-      "accolo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "habitar junto de, morar nas proximidades de; residir perto de",
-    "exemplos": [],
-    "notas": "Paradigma corrigido para 3ª conjugação (…-coluī, -cultum) conforme Lat→Deu e Whitaker; manutenção da transitividade como intr. conforme fontes. | [dedupe] redirect → chunk_266:266:0 | [dedupe] redirect → chunk_266:266:0 | [ocr_fix 2025-08-20T01:03:57Z] Correção automática de lema via Gaffiot | lemma_in='accolo' → 'accŏlo'",
-    "raw_text": "{\"id\":\"chunk_265:265:0\",\"lemas\":[\"accolo\",\"adcolo\"],\"lema_canonico\":\"accolo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"habitar junto de, morar nas proximidades de; residir perto de\",\"aliases\":[],\"exemplos\":[\"Cic. Rep. 6, 19\"],\"notas\":\"Paradigma corrigido para 3ª conjugação (…-coluī, -cultum) conforme Lat→Deu e Whitaker; manutenção da transitividade como intr. conforme fontes.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_265:265:0\",\"lemas\":[\"accolo\",\"adcolo\"],\"lema_canonico\":\"accolo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"habitar junto de, morar nas proximidades de; residir perto de\",\"aliases\":[],\"exemplos\":[\"Cic. Rep. 6, 19\"],\"notas\":\"Paradigma corrigido para 3ª conjugação (…-coluī, -cultum) conforme Lat→Deu e Whitaker; manutenção da transitividade como intr. conforme fontes.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_266-e1",
     "volume_id": "faria",
     "doc_name": "chunk_266",
@@ -1870,28 +1760,6 @@
     "raw_json": "{\"id\":\"chunk_269:269:3\",\"lemas\":[\"accommodus\",\"accommoda\",\"accommodum\"],\"lema_canonico\":\"accommodus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Adequado, conveniente, apropriado; variante poética/regular do adjetivo.\",\"aliases\":[],\"exemplos\":[\"Verg. A. (passim)\"],\"notas\":\"Declinação completa e uso poético atestados em Whitaker/LS/Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_270-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_270",
-    "page_num": 270,
-    "lemmas": [
-      "accommodus",
-      "accommodus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "apropriado, conveniente, adaptado a; frequentemente com dativo.",
-    "exemplos": [],
-    "notas": "Variantes com prefixo ad- atestadas; regência com dativo observada na fonte. | [dedupe] redirect → chunk_269:269:3 | [dedupe] redirect → chunk_269:269:3",
-    "raw_text": "{\"id\":\"chunk_270:270:0\",\"lemas\":[\"accommodus\",\"adcommodus\"],\"lema_canonico\":\"accommodus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"apropriado, conveniente, adaptado a; frequentemente com dativo.\",\"aliases\":[],\"exemplos\":[\"Verg. Ge. 11, 522\"],\"notas\":\"Variantes com prefixo ad- atestadas; regência com dativo observada na fonte.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_270:270:0\",\"lemas\":[\"accommodus\",\"adcommodus\"],\"lema_canonico\":\"accommodus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"apropriado, conveniente, adaptado a; frequentemente com dativo.\",\"aliases\":[],\"exemplos\":[\"Verg. Ge. 11, 522\"],\"notas\":\"Variantes com prefixo ad- atestadas; regência com dativo observada na fonte.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_271-e1",
     "volume_id": "faria",
     "doc_name": "chunk_271",
@@ -1912,28 +1780,6 @@
     "notas": "Corrigida a forma: accredō (pres.) com perfeito accredidī; partes attestas em Whitaker/Lat→Deu. | [ocr_fix 2025-08-20T01:03:57Z] Correção automática de lema via Gaffiot | lemma_in='accredō' → 'accrēdo'",
     "raw_text": "{\"id\":\"chunk_271:271:0\",\"lemas\":[\"accredō\",\"accredere\"],\"lema_canonico\":\"accredō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"dar crédito a; crer; confiar; pôr fé em. Perf.: accredidī.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigida a forma: accredō (pres.) com perfeito accredidī; partes attestas em Whitaker/Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_271:271:0\",\"lemas\":[\"accredō\",\"accredere\"],\"lema_canonico\":\"accredō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"dar crédito a; crer; confiar; pôr fé em. Perf.: accredidī.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigida a forma: accredō (pres.) com perfeito accredidī; partes attestas em Whitaker/Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_272-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_272",
-    "page_num": 272,
-    "lemmas": [
-      "accrēdo",
-      "accredo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "estar inclinado a crer; dar crédito, acreditar em; confiar (geralmente com dativo)",
-    "exemplos": [],
-    "notas": "Grafia clássica 'accredo' confirmada; forma variante 'adcredo' admitida. | [dedupe] redirect → chunk_271:271:0 | [dedupe] redirect → chunk_271:271:0 | [ocr_fix 2025-08-20T01:03:57Z] Correção automática de lema via Gaffiot | lemma_in='accredo' → 'accrēdo'",
-    "raw_text": "{\"id\":\"chunk_272:272:0\",\"lemas\":[\"accredo\",\"adcredo\"],\"lema_canonico\":\"accredo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"estar inclinado a crer; dar crédito, acreditar em; confiar (geralmente com dativo)\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 6, 20, 8\"],\"notas\":\"Grafia clássica 'accredo' confirmada; forma variante 'adcredo' admitida.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_272:272:0\",\"lemas\":[\"accredo\",\"adcredo\"],\"lema_canonico\":\"accredo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"estar inclinado a crer; dar crédito, acreditar em; confiar (geralmente com dativo)\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 6, 20, 8\"],\"notas\":\"Grafia clássica 'accredo' confirmada; forma variante 'adcredo' admitida.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_272-e2",
@@ -2022,72 +1868,6 @@
     "notas": "Consolidação de variantes (accubītio/accubitatio) a partir de LS e Whitaker.",
     "raw_text": "{\"id\":\"chunk_273:273:0\",\"lemas\":[\"accubītio\",\"accubītātio\",\"accubitionis\",\"accubitatio\"],\"lema_canonico\":\"accubītio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Ato de reclinar-se à mesa; participação em banquetes; por extensão, o sofá ou leito usado para reclinar-se.\",\"aliases\":[],\"exemplos\":[\"Cic. de Sen. 13, 45\",\"Cic. N. D. 1, 34, 94\",\"Lampr. Sev. 34\",\"Non. 193, 30\"],\"notas\":\"Consolidação de variantes (accubītio/accubitatio) a partir de LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_273:273:0\",\"lemas\":[\"accubītio\",\"accubītātio\",\"accubitionis\",\"accubitatio\"],\"lema_canonico\":\"accubītio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Ato de reclinar-se à mesa; participação em banquetes; por extensão, o sofá ou leito usado para reclinar-se.\",\"aliases\":[],\"exemplos\":[\"Cic. de Sen. 13, 45\",\"Cic. N. D. 1, 34, 94\",\"Lampr. Sev. 34\",\"Non. 193, 30\"],\"notas\":\"Consolidação de variantes (accubītio/accubitatio) a partir de LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_274-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_274",
-    "page_num": 274,
-    "lemmas": [
-      "c",
-      "c"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Abbreviation C. for the praenomen Gaius; also the Roman numeral centum = 100.",
-    "exemplos": [],
-    "notas": "Entrada unificou sentidos abreviatura praenomen / numeral; atestado em LS e Whitaker. | [dedupe] redirect → chunk_3835:3835:1 | [dedupe] redirect → chunk_3835:3835:1",
-    "raw_text": "{\"id\":\"chunk_274:274:0\",\"lemas\":[\"c\"],\"lema_canonico\":\"c\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Abbreviation C. for the praenomen Gaius; also the Roman numeral centum = 100.\",\"aliases\":[],\"exemplos\":[\"C. (abbrev. for Gaius)\",\"C = 100 (Roman numeral)\"],\"notas\":\"Entrada unificou sentidos abreviatura praenomen / numeral; atestado em LS e Whitaker.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_274:274:0\",\"lemas\":[\"c\"],\"lema_canonico\":\"c\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Abbreviation C. for the praenomen Gaius; also the Roman numeral centum = 100.\",\"aliases\":[],\"exemplos\":[\"C. (abbrev. for Gaius)\",\"C = 100 (Roman numeral)\"],\"notas\":\"Entrada unificou sentidos abreviatura praenomen / numeral; atestado em LS e Whitaker.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_274-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_274",
-    "page_num": 274,
-    "lemmas": [
-      "m",
-      "m"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Abbreviation M' for the praenomen Manius (also M. for Marcus in some contexts); also the Roman numeral M = 1000.",
-    "exemplos": [],
-    "notas": "Consolidado usos onomástico e numeral conforme Whitaker and LS. | [dedupe] redirect → chunk_16315:16315:1 | [dedupe] redirect → chunk_16315:16315:1",
-    "raw_text": "{\"id\":\"chunk_274:274:1\",\"lemas\":[\"m\"],\"lema_canonico\":\"m\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Abbreviation M' for the praenomen Manius (also M. for Marcus in some contexts); also the Roman numeral M = 1000.\",\"aliases\":[],\"exemplos\":[\"M' = Manius\",\"M = 1000 (Roman numeral)\"],\"notas\":\"Consolidado usos onomástico e numeral conforme Whitaker and LS.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_274:274:1\",\"lemas\":[\"m\"],\"lema_canonico\":\"m\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Abbreviation M' for the praenomen Manius (also M. for Marcus in some contexts); also the Roman numeral M = 1000.\",\"aliases\":[],\"exemplos\":[\"M' = Manius\",\"M = 1000 (Roman numeral)\"],\"notas\":\"Consolidado usos onomástico e numeral conforme Whitaker and LS.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_274-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_274",
-    "page_num": 274,
-    "lemmas": [
-      "ac",
-      "ac"
-    ],
-    "morfologia": "conj.",
-    "morph_render": "conj.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Conjunction meaning 'and', 'and also', 'and besides' (variant of atque).",
-    "exemplos": [],
-    "notas": "Forma conjuntiva confirmada em LS e Whitaker. | [dedupe] redirect → chunk_198:198:1 | [dedupe] redirect → chunk_198:198:1",
-    "raw_text": "{\"id\":\"chunk_274:274:2\",\"lemas\":[\"ac\"],\"lema_canonico\":\"ac\",\"morfologia\":\"conj.\",\"morph_extra\":[],\"definicao\":\"Conjunction meaning 'and', 'and also', 'and besides' (variant of atque).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma conjuntiva confirmada em LS e Whitaker.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_274:274:2\",\"lemas\":[\"ac\"],\"lema_canonico\":\"ac\",\"morfologia\":\"conj.\",\"morph_extra\":[],\"definicao\":\"Conjunction meaning 'and', 'and also', 'and besides' (variant of atque).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma conjuntiva confirmada em LS e Whitaker.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
   },
   {
     "id": "chunk_274-e4",
@@ -2198,28 +1978,6 @@
     "notas": "Entrada vernácula para equivalência latina; mantida como glossário português -> latim",
     "raw_text": "{\"id\":\"chunk_274:274:7\",\"lemas\":[\"banquete\"],\"lema_canonico\":\"banquete\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"termo vernáculo: banquete; glossa para lat. accubitus/accubitio (uso explicativo, não lema latino)\",\"aliases\":[\"accubitus\",\"accubitio\"],\"exemplos\":[\"Cic. C. M. 45\"],\"notas\":\"Entrada vernácula para equivalência latina; mantida como glossário português -> latim\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_274:274:7\",\"lemas\":[\"banquete\"],\"lema_canonico\":\"banquete\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"termo vernáculo: banquete; glossa para lat. accubitus/accubitio (uso explicativo, não lema latino)\",\"aliases\":[\"accubitus\",\"accubitio\"],\"exemplos\":[\"Cic. C. M. 45\"],\"notas\":\"Entrada vernácula para equivalência latina; mantida como glossário português -> latim\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_275-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_275",
-    "page_num": 275,
-    "lemmas": [
-      "accubo",
-      "accubo"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "deitar‑se; reclinar‑se (especialmente à mesa); fig. repousar; estender, prolongar",
-    "exemplos": [],
-    "notas": "Variante gráfica adcubo retida; normalizada a forma e macrons conforme Lat→Deu e fontes. | [dedupe] redirect → chunk_274:274:5",
-    "raw_text": "{\"id\":\"chunk_275:275:0\",\"lemas\":[\"accubo\",\"adcubo\"],\"lema_canonico\":\"accubo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"deitar‑se; reclinar‑se (especialmente à mesa); fig. repousar; estender, prolongar\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 4, 3\",\"Hor. 4, 12, 18\",\"Verg. G. 3, 333\"],\"notas\":\"Variante gráfica adcubo retida; normalizada a forma e macrons conforme Lat→Deu e fontes.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_275:275:0\",\"lemas\":[\"accubo\",\"adcubo\"],\"lema_canonico\":\"accubo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"deitar‑se; reclinar‑se (especialmente à mesa); fig. repousar; estender, prolongar\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 4, 3\",\"Hor. 4, 12, 18\",\"Verg. G. 3, 333\"],\"notas\":\"Variante gráfica adcubo retida; normalizada a forma e macrons conforme Lat→Deu e fontes.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_275-e2",
@@ -2464,72 +2222,6 @@
     "raw_json": "{\"id\":\"chunk_284:284:0\",\"lemas\":[\"accurro\",\"accurrō\"],\"lema_canonico\":\"accurro\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"to run to or toward, hasten to (come running); figuratively, to occur or arise suddenly.\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 5, 106\",\"Cic. Div. 2, 138\"],\"notas\":\"Perfeitos variantes atestadas (−cucurrī, −accurrī/−accurrī) mencionadas nas fontes.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_285-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_285",
-    "page_num": 285,
-    "lemmas": [
-      "ad",
-      "ad"
-    ],
-    "morfologia": "prep. com acc.",
-    "morph_render": "prep. com acc.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Preposição de direção/alcance: a, para, até; também sentido de proximidade, acerca de; com numerais: cerca de/aproximadamente.",
-    "exemplos": [],
-    "notas": "Sintetizada a variedade de valores (direção, aproximação, proximidade) conforme LS e Whitaker. | [dedupe] redirect → chunk_23499:23499:0 | [dedupe] redirect → chunk_23499:23499:0",
-    "raw_text": "{\"id\":\"chunk_285:285:0\",\"lemas\":[\"ad\"],\"lema_canonico\":\"ad\",\"morfologia\":\"prep. com acc.\",\"morph_extra\":[],\"definicao\":\"Preposição de direção/alcance: a, para, até; também sentido de proximidade, acerca de; com numerais: cerca de/aproximadamente.\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 15, 3, 1\",\"Caes. B. Gal. 1, 22, 2\",\"Sall. B. Jug. 101, 10\"],\"notas\":\"Sintetizada a variedade de valores (direção, aproximação, proximidade) conforme LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_285:285:0\",\"lemas\":[\"ad\"],\"lema_canonico\":\"ad\",\"morfologia\":\"prep. com acc.\",\"morph_extra\":[],\"definicao\":\"Preposição de direção/alcance: a, para, até; também sentido de proximidade, acerca de; com numerais: cerca de/aproximadamente.\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 15, 3, 1\",\"Caes. B. Gal. 1, 22, 2\",\"Sall. B. Jug. 101, 10\"],\"notas\":\"Sintetizada a variedade de valores (direção, aproximação, proximidade) conforme LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_285-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_285",
-    "page_num": 285,
-    "lemmas": [
-      "accurrō",
-      "accurrō"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Correr para, apressar‑se, acudir; aproximar‑se correndo; também trans.: acudir em auxílio.",
-    "exemplos": [],
-    "notas": "Perfeito atestado como accucurrī (raro) e também accurri; harmonizado com LS/Whitaker/Lat→Deu. | [dedupe] redirect → chunk_284:284:0 | [dedupe] redirect → chunk_284:284:0",
-    "raw_text": "{\"id\":\"chunk_285:285:1\",\"lemas\":[\"accurrō\",\"accurrere\",\"accurro\"],\"lema_canonico\":\"accurrō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"intr.\",\"tr.\"],\"definicao\":\"Correr para, apressar‑se, acudir; aproximar‑se correndo; também trans.: acudir em auxílio.\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 2, 20\",\"Cic. Verr. 2, 5, 3\",\"Caes. B. G. 1, 22\"],\"notas\":\"Perfeito atestado como accucurrī (raro) e também accurri; harmonizado com LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_285:285:1\",\"lemas\":[\"accurrō\",\"accurrere\",\"accurro\"],\"lema_canonico\":\"accurrō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"intr.\",\"tr.\"],\"definicao\":\"Correr para, apressar‑se, acudir; aproximar‑se correndo; também trans.: acudir em auxílio.\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 2, 20\",\"Cic. Verr. 2, 5, 3\",\"Caes. B. G. 1, 22\"],\"notas\":\"Perfeito atestado como accucurrī (raro) e também accurri; harmonizado com LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_285-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_285",
-    "page_num": 285,
-    "lemmas": [
-      "aro",
-      "aro"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "arar, lavrar, cultivar a terra; também fig.: sulcar (de navis) ou viver da agricultura",
-    "exemplos": [],
-    "notas": "Normalizado para lema arō (infinitivo arare); formas e referências confirmadas em LS/Whitaker/Lat→Deu. | [dedupe] redirect → chunk_2534:2534:0 | [dedupe] redirect → chunk_2534:2534:0",
-    "raw_text": "{\"id\":\"chunk_285:285:2\",\"lemas\":[\"aro\",\"arare\"],\"lema_canonico\":\"aro\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"arar, lavrar, cultivar a terra; também fig.: sulcar (de navis) ou viver da agricultura\",\"aliases\":[],\"exemplos\":[\"Plaut. Merc. 2, 3, 21\",\"Ter. Heaut. 1, 1, 17\",\"Cato, R. R. 61, 1\",\"Ov. A. A. 2, 118\"],\"notas\":\"Normalizado para lema arō (infinitivo arare); formas e referências confirmadas em LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_285:285:2\",\"lemas\":[\"aro\",\"arare\"],\"lema_canonico\":\"aro\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"arar, lavrar, cultivar a terra; também fig.: sulcar (de navis) ou viver da agricultura\",\"aliases\":[],\"exemplos\":[\"Plaut. Merc. 2, 3, 21\",\"Ter. Heaut. 1, 1, 17\",\"Cato, R. R. 61, 1\",\"Ov. A. A. 2, 118\"],\"notas\":\"Normalizado para lema arō (infinitivo arare); formas e referências confirmadas em LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_286-e1",
     "volume_id": "faria",
     "doc_name": "chunk_286",
@@ -2748,28 +2440,6 @@
     "notas": "Forma atestada como particípio e como substantivo; classificação como 2ª declinação masc. conforme Whitaker/Lat→Deu.",
     "raw_text": "{\"id\":\"chunk_295:295:0\",\"lemas\":[\"accusatus\"],\"lema_canonico\":\"accusatus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de accusō; também substantivo: 'acusado'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma atestada como particípio e como substantivo; classificação como 2ª declinação masc. conforme Whitaker/Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_295:295:0\",\"lemas\":[\"accusatus\"],\"lema_canonico\":\"accusatus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de accusō; também substantivo: 'acusado'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma atestada como particípio e como substantivo; classificação como 2ª declinação masc. conforme Whitaker/Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_296-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_296",
-    "page_num": 296,
-    "lemmas": [
-      "accuso",
-      "accuso"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "acusar, incriminar; imputar culpa.",
-    "exemplos": [],
-    "notas": "Forma frequentativa accūsō e paradigma regularizados conforme Whitaker/Lat→Deu. | [dedupe] redirect → chunk_297:297:0 | [dedupe] redirect → chunk_297:297:0",
-    "raw_text": "{\"id\":\"chunk_296:296:0\",\"lemas\":[\"accuso\",\"accūsō\"],\"lema_canonico\":\"accuso\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"acusar, incriminar; imputar culpa.\",\"aliases\":[],\"exemplos\":[\"Plaut. Most. 712\"],\"notas\":\"Forma frequentativa accūsō e paradigma regularizados conforme Whitaker/Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_296:296:0\",\"lemas\":[\"accuso\",\"accūsō\"],\"lema_canonico\":\"accuso\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"acusar, incriminar; imputar culpa.\",\"aliases\":[],\"exemplos\":[\"Plaut. Most. 712\"],\"notas\":\"Forma frequentativa accūsō e paradigma regularizados conforme Whitaker/Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_297-e1",
@@ -3256,28 +2926,6 @@
     "raw_json": "{\"id\":\"chunk_314:314:0\",\"lemas\":[\"acervo\"],\"lema_canonico\":\"acervo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"verbo 1ª conj.: ajuntar em montões, amontoar, acumular\",\"aliases\":[],\"exemplos\":[\"Liv. 5, 48, 3\",\"Sen. Ben. 2, 29, 5\"],\"notas\":\"Formas principais acervō, acervāre, acervāvī, acervātum confirmadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_314-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_314",
-    "page_num": 314,
-    "lemmas": [
-      "acervus",
-      "acervus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "monte, pilha; grande quantidade, aglomerado; pira funerária",
-    "exemplos": [],
-    "notas": "Sentidos e forma confirmados em LS e Whitaker. | [dedupe] redirect → chunk_315:315:0 | [dedupe] redirect → chunk_315:315:0",
-    "raw_text": "{\"id\":\"chunk_314:314:1\",\"lemas\":[\"acervus\"],\"lema_canonico\":\"acervus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"monte, pilha; grande quantidade, aglomerado; pira funerária\",\"aliases\":[],\"exemplos\":[\"Verg. G. 1, 185\"],\"notas\":\"Sentidos e forma confirmados em LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_314:314:1\",\"lemas\":[\"acervus\"],\"lema_canonico\":\"acervus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"monte, pilha; grande quantidade, aglomerado; pira funerária\",\"aliases\":[],\"exemplos\":[\"Verg. G. 1, 185\"],\"notas\":\"Sentidos e forma confirmados em LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_315-e1",
     "volume_id": "faria",
     "doc_name": "chunk_315",
@@ -3386,28 +3034,6 @@
     "notas": "Entrada baseada na 1ª passada e OCR; não confirmada em LS/Whitaker.",
     "raw_text": "{\"id\":\"chunk_319:319:0\",\"lemas\":[\"Acestaeus\"],\"lema_canonico\":\"Acestaeus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Adj. relativo a Segesta (de Segesta).\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 3, 91\"],\"notas\":\"Entrada baseada na 1ª passada e OCR; não confirmada em LS/Whitaker.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_319:319:0\",\"lemas\":[\"Acestaeus\"],\"lema_canonico\":\"Acestaeus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Adj. relativo a Segesta (de Segesta).\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 3, 91\"],\"notas\":\"Entrada baseada na 1ª passada e OCR; não confirmada em LS/Whitaker.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_320-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_320",
-    "page_num": 320,
-    "lemmas": [
-      "Ăcestēs",
-      "Ăcestēs"
-    ],
-    "morfologia": "adj. (3) 3T",
-    "morph_render": "adj. (3) 3T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Adj. gentilício: relativo a Segesta.",
-    "exemplos": [],
-    "notas": "Classificação como adjetivo gentilício preservada da 1ª passada; fonte externa não confirma univocamente.\n[ocr_pipeline 2025-08-16T23:08:16.170612Z] lemma_in='Acestes' → 'Ăcestēs' | motivo: match direto em LS por lemma/lemma_norm | [ocr_fix 2025-08-17T01:02:26Z] match direto em LS por lemma/lemma_norm | lemma_in='Ăcestēs' → 'Ăcestēs' | [dedupe] redirect → chunk_321:321:0 | [dedupe] redirect → chunk_321:321:0",
-    "raw_text": "{\"id\":\"chunk_320:320:0\",\"lemas\":[\"Acestes\"],\"lema_canonico\":\"Acestes\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"Adj. gentilício: relativo a Segesta.\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 3, 83\"],\"notas\":\"Classificação como adjetivo gentilício preservada da 1ª passada; fonte externa não confirma univocamente.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_320:320:0\",\"lemas\":[\"Acestes\"],\"lema_canonico\":\"Acestes\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"Adj. gentilício: relativo a Segesta.\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 3, 83\"],\"notas\":\"Classificação como adjetivo gentilício preservada da 1ª passada; fonte externa não confirma univocamente.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
     "id": "chunk_321-e1",
@@ -3696,50 +3322,6 @@
     "raw_json": "{\"id\":\"chunk_331:331:0\",\"lemas\":[\"Achaeus\",\"Achāeus\"],\"lema_canonico\":\"Achaeus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Nome próprio: (1) Aqueu, descendente/representante dos Achaei; (2) personagem lendário/rei (var. atestaçõess míticas).\",\"aliases\":[],\"exemplos\":[\"Serv. En. 1, 242\",\"Ov. Ib. 299\"],\"notas\":\"Entrée baseada em Lewis & Short; mantidas as duas acepções atestadas.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_332-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_332",
-    "page_num": 332,
-    "lemmas": [
-      "Ăchāia",
-      "Ăchāia"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Acaia: região do N. do Peloponeso; poeticamente, Grécia; depois, província romana denominada Achaia.",
-    "exemplos": [],
-    "notas": "Correções de referência e ortografia; entrada apoiada em Lewis & Short. | [dedupe] redirect → chunk_325:325:1 | [dedupe] redirect → chunk_325:325:1 | [ocr_fix 2025-08-17T19:43:51Z] match direto em LS por lemma/lemma_norm | lemma_in='Achaia' → 'Ăchāia'",
-    "raw_text": "{\"id\":\"chunk_332:332:0\",\"lemas\":[\"Achaia\",\"Achāia\"],\"lema_canonico\":\"Achaia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Acaia: região do N. do Peloponeso; poeticamente, Grécia; depois, província romana denominada Achaia.\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 4, 12\",\"Ov. Met. 13, 325\",\"Cic. Fam. 15, 15, 2\"],\"notas\":\"Correções de referência e ortografia; entrada apoiada em Lewis & Short.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_332:332:0\",\"lemas\":[\"Achaia\",\"Achāia\"],\"lema_canonico\":\"Achaia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Acaia: região do N. do Peloponeso; poeticamente, Grécia; depois, província romana denominada Achaia.\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 4, 12\",\"Ov. Met. 13, 325\",\"Cic. Fam. 15, 15, 2\"],\"notas\":\"Correções de referência e ortografia; entrada apoiada em Lewis & Short.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_333-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_333",
-    "page_num": 333,
-    "lemmas": [
-      "Ăchāia",
-      "Ăchāia"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Achaia, a província/região da Grécia (Acaia); também atestada em referências poéticas (p.ex. Ovídio).",
-    "exemplos": [],
-    "notas": "Corrigida morfologia para 1ª declinação conforme Lewis & Short; entrada tratada como topônimo/região. | [dedupe] redirect → chunk_325:325:1 | [dedupe] redirect → chunk_325:325:1 | [ocr_fix 2025-08-17T19:43:53Z] match direto em LS por lemma/lemma_norm | lemma_in='Achaia' → 'Ăchāia'",
-    "raw_text": "{\"id\":\"chunk_333:333:0\",\"lemas\":[\"Achaia\"],\"lema_canonico\":\"Achaia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Achaia, a província/região da Grécia (Acaia); também atestada em referências poéticas (p.ex. Ovídio).\",\"aliases\":[],\"exemplos\":[\"Ov. Her. 3, 71\"],\"notas\":\"Corrigida morfologia para 1ª declinação conforme Lewis & Short; entrada tratada como topônimo/região.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_333:333:0\",\"lemas\":[\"Achaia\"],\"lema_canonico\":\"Achaia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Achaia, a província/região da Grécia (Acaia); também atestada em referências poéticas (p.ex. Ovídio).\",\"aliases\":[],\"exemplos\":[\"Ov. Her. 3, 71\"],\"notas\":\"Corrigida morfologia para 1ª declinação conforme Lewis & Short; entrada tratada como topônimo/região.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_334-e1",
     "volume_id": "faria",
     "doc_name": "chunk_334",
@@ -3782,28 +3364,6 @@
     "notas": "Interpretada a terminação -idis/-is como forma de 3ª declinação atestada em fontes poéticas; normalizado lema sem diacrítico. | [ocr_fix 2025-08-17T19:43:53Z] similaridade semântica FAISS (definição/gloss) + reranking por forma | lemma_in='Achais' → 'Achāĭa' | [ocr_fix 2025-08-20T01:03:57Z] Correção automática de lema via LS | lemma_in='Achāĭa' → 'Ăchāia'",
     "raw_text": "{\"id\":\"chunk_335:335:0\",\"lemas\":[\"Achais\",\"Achaïs\"],\"lema_canonico\":\"Achais\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Forma feminina referente a Achaia; usada poeticamente para ‘a Acaia’ / ‘a Acaica’ (de Achaia).\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 5, 577\",\"Ov. Met. 15, 293\"],\"notas\":\"Interpretada a terminação -idis/-is como forma de 3ª declinação atestada em fontes poéticas; normalizado lema sem diacrítico.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_335:335:0\",\"lemas\":[\"Achais\",\"Achaïs\"],\"lema_canonico\":\"Achais\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Forma feminina referente a Achaia; usada poeticamente para ‘a Acaia’ / ‘a Acaica’ (de Achaia).\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 5, 577\",\"Ov. Met. 15, 293\"],\"notas\":\"Interpretada a terminação -idis/-is como forma de 3ª declinação atestada em fontes poéticas; normalizado lema sem diacrítico.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_336-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_336",
-    "page_num": 336,
-    "lemmas": [
-      "Achāĭcus",
-      "Achāĭcus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Achaicus (achaico): relativo à Achaia; adjetivo formado a partir de Achaia.",
-    "exemplos": [],
-    "notas": "Unificado lema na forma clássica 'achaicus'; corrigida indicação de classe adjectival para (1/2). | [dedupe] redirect → chunk_334:334:0 | [dedupe] redirect → chunk_334:334:0 | [ocr_fix 2025-08-17T19:43:53Z] similaridade semântica FAISS (definição/gloss) + reranking por forma | lemma_in='achaicus' → 'Achāĭcus'",
-    "raw_text": "{\"id\":\"chunk_336:336:0\",\"lemas\":[\"achius\",\"achaicus\"],\"lema_canonico\":\"achaicus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Achaicus (achaico): relativo à Achaia; adjetivo formado a partir de Achaia.\",\"aliases\":[],\"exemplos\":[\"Verg. Cat. 5, 1\"],\"notas\":\"Unificado lema na forma clássica 'achaicus'; corrigida indicação de classe adjectival para (1/2).\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_336:336:0\",\"lemas\":[\"achius\",\"achaicus\"],\"lema_canonico\":\"achaicus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Achaicus (achaico): relativo à Achaia; adjetivo formado a partir de Achaia.\",\"aliases\":[],\"exemplos\":[\"Verg. Cat. 5, 1\"],\"notas\":\"Unificado lema na forma clássica 'achaicus'; corrigida indicação de classe adjectival para (1/2).\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
     "id": "chunk_337-e1",
@@ -3982,28 +3542,6 @@
     "raw_json": "{\"id\":\"chunk_344:344:0\",\"lemas\":[\"Achelous\",\"Acheloüs\"],\"lema_canonico\":\"Achelous\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Aquelôo: (1) rio da Acarnânia e Etólia (hoje Aspropótamo); (2) o deus do rio; (3) água do rio, por extensão.\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 4, 5\",\"Ov. Met. 9, 96\",\"Ov. F. 5, 343\",\"Macr. Sat. 5, 18, 3\"],\"notas\":\"Lema e sentidos verificados em Lewis & Short; grafia alternativa Acheloüs preservada.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_345-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_345",
-    "page_num": 345,
-    "lemmas": [
-      "Ăchĕron",
-      "Ăchĕron"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "The river Acheron (in Epirus) and hence the river-god; figuratively, the lower world/the infernal stream.",
-    "exemplos": [],
-    "notas": "Genitive attested -ontis/-āntis; normalizado para decl. 3ª. | [dedupe] redirect → chunk_347:347:0 | [dedupe] redirect → chunk_347:347:0 | [ocr_fix 2025-08-17T19:43:51Z] match direto em LS por lemma/lemma_norm | lemma_in='Acheron' → 'Ăchĕron'",
-    "raw_text": "{\"id\":\"chunk_345:345:0\",\"lemas\":[\"Acheron\"],\"lema_canonico\":\"Acheron\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"The river Acheron (in Epirus) and hence the river-god; figuratively, the lower world/the infernal stream.\",\"aliases\":[],\"exemplos\":[\"Liv. 8, 24, 3\",\"Cic. Nat. Deor. 3, 17\",\"Hor. O. 1, 3, 36\",\"Verg. A. 6, 295\"],\"notas\":\"Genitive attested -ontis/-āntis; normalizado para decl. 3ª.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_345:345:0\",\"lemas\":[\"Acheron\"],\"lema_canonico\":\"Acheron\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"The river Acheron (in Epirus) and hence the river-god; figuratively, the lower world/the infernal stream.\",\"aliases\":[],\"exemplos\":[\"Liv. 8, 24, 3\",\"Cic. Nat. Deor. 3, 17\",\"Hor. O. 1, 3, 36\",\"Verg. A. 6, 295\"],\"notas\":\"Genitive attested -ontis/-āntis; normalizado para decl. 3ª.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_346-e1",
     "volume_id": "faria",
     "doc_name": "chunk_346",
@@ -4068,28 +3606,6 @@
     "notas": "Normalizado para a forma clássica Acheron (gen. Acherontis); variantes com/sem macron preservadas. | [ocr_fix 2025-08-20T01:03:57Z] Correção automática de lema via LS | lemma_in='Acheron' → 'Ăchĕron'",
     "raw_text": "{\"id\":\"chunk_347:347:0\",\"lemas\":[\"Acheron\",\"Acherōs\",\"Acheros\"],\"lema_canonico\":\"Acheron\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Acheronte: rio (mitológico) que deságua no mundo inferior; também usado para o mundo inferior.\",\"aliases\":[],\"exemplos\":[\"Liv. 8, 24, 11\"],\"notas\":\"Normalizado para a forma clássica Acheron (gen. Acherontis); variantes com/sem macron preservadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_firstpass\",\"src_ocr\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_347:347:0\",\"lemas\":[\"Acheron\",\"Acherōs\",\"Acheros\"],\"lema_canonico\":\"Acheron\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Acheronte: rio (mitológico) que deságua no mundo inferior; também usado para o mundo inferior.\",\"aliases\":[],\"exemplos\":[\"Liv. 8, 24, 11\"],\"notas\":\"Normalizado para a forma clássica Acheron (gen. Acherontis); variantes com/sem macron preservadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_firstpass\",\"src_ocr\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_348-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_348",
-    "page_num": 348,
-    "lemmas": [
-      "Ăchĕron",
-      "Ăchĕron"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Acheronte, o rio infernal (topónimo mitológico).",
-    "exemplos": [],
-    "notas": "Corrigido genitivo e grafia para a forma clássica Acheron; conserva a variante Achernus registrada no primeiro passe. | [dedupe] redirect → chunk_347:347:0 | [dedupe] redirect → chunk_347:347:0 | [ocr_fix 2025-08-17T19:43:49Z] match direto em LS por lemma/lemma_norm | lemma_in='Acheron' → 'Ăchĕron'",
-    "raw_text": "{\"id\":\"chunk_348:348:0\",\"lemas\":[\"Acheron\",\"Achernus\"],\"lema_canonico\":\"Acheron\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Acheronte, o rio infernal (topónimo mitológico).\",\"aliases\":[],\"exemplos\":[\"Plaut. Cat. 689\"],\"notas\":\"Corrigido genitivo e grafia para a forma clássica Acheron; conserva a variante Achernus registrada no primeiro passe.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_348:348:0\",\"lemas\":[\"Acheron\",\"Achernus\"],\"lema_canonico\":\"Acheron\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Acheronte, o rio infernal (topónimo mitológico).\",\"aliases\":[],\"exemplos\":[\"Plaut. Cat. 689\"],\"notas\":\"Corrigido genitivo e grafia para a forma clássica Acheron; conserva a variante Achernus registrada no primeiro passe.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
     "id": "chunk_349-e1",
@@ -4224,50 +3740,6 @@
     "raw_json": "{\"id\":\"chunk_354:354:0\",\"lemas\":[\"Achillas\"],\"lema_canonico\":\"Achillas\",\"morfologia\":\"s. masc. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"General egípcio que assassinou Pompeu (nome próprio).\",\"aliases\":[],\"exemplos\":[\"Caes. B. C. 3, 104\"],\"notas\":\"Forma nominativa Achillas, genitivo Achillae; confirmado por Whitaker e Lewis & Short.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_354-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_354",
-    "page_num": 354,
-    "lemmas": [
-      "Ăchilla",
-      "Achilla"
-    ],
-    "morfologia": "s. masc. 1ª (-ae)",
-    "morph_render": "s. masc. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Vocativo/variante remissiva para Achillas; tratado como redirecionamento. | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='Achilla' → 'Ăchilla'",
-    "raw_text": "{\"id\":\"chunk_354:354:1\",\"lemas\":[\"Achilla\"],\"lema_canonico\":\"Achilla\",\"morfologia\":\"s. masc. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Achillas\"],\"exemplos\":[],\"notas\":\"Vocativo/variante remissiva para Achillas; tratado como redirecionamento.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_354:354:1\",\"lemas\":[\"Achilla\"],\"lema_canonico\":\"Achilla\",\"morfologia\":\"s. masc. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Achillas\"],\"exemplos\":[],\"notas\":\"Vocativo/variante remissiva para Achillas; tratado como redirecionamento.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\",\"redirect_only\"]}"
-  },
-  {
-    "id": "chunk_355-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_355",
-    "page_num": 355,
-    "lemmas": [
-      "Achillas",
-      "Achillas"
-    ],
-    "morfologia": "s. masc. 1ª (-ae)",
-    "morph_render": "s. masc. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Achillas — the Egyptian who murdered Pompey (Caes. B. C. 3, 104).",
-    "exemplos": [],
-    "notas": "Normalizado forma e referência; confirmado por Whitaker e LS. | [dedupe] redirect → chunk_354:354:0 | [dedupe] redirect → chunk_354:354:0",
-    "raw_text": "{\"id\":\"chunk_355:355:0\",\"lemas\":[\"Achillas\"],\"lema_canonico\":\"Achillas\",\"morfologia\":\"s. masc. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Achillas — the Egyptian who murdered Pompey (Caes. B. C. 3, 104).\",\"aliases\":[],\"exemplos\":[\"Caes. B. C. 3, 104\"],\"notas\":\"Normalizado forma e referência; confirmado por Whitaker e LS.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_355:355:0\",\"lemas\":[\"Achillas\"],\"lema_canonico\":\"Achillas\",\"morfologia\":\"s. masc. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Achillas — the Egyptian who murdered Pompey (Caes. B. C. 3, 104).\",\"aliases\":[],\"exemplos\":[\"Caes. B. C. 3, 104\"],\"notas\":\"Normalizado forma e referência; confirmado por Whitaker e LS.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_356-e1",
     "volume_id": "faria",
     "doc_name": "chunk_356",
@@ -4354,28 +3826,6 @@
     "notas": "Genitivo clássico em -idis; corrigida desinência para forma patronímica grega. | [ocr_fix 2025-08-17T19:43:49Z] match direto em LS por lemma/lemma_norm | lemma_in='Achillides' → 'Ăchillīdes'",
     "raw_text": "{\"id\":\"chunk_359:359:0\",\"lemas\":[\"Achillides\"],\"lema_canonico\":\"Achillides\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Descendente de Aquiles (patronímico, = Ἀχιλλείδης).\",\"aliases\":[],\"exemplos\":[\"Ov. Her. 3, 8\"],\"notas\":\"Genitivo clássico em -idis; corrigida desinência para forma patronímica grega.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_359:359:0\",\"lemas\":[\"Achillides\"],\"lema_canonico\":\"Achillides\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Descendente de Aquiles (patronímico, = Ἀχιλλείδης).\",\"aliases\":[],\"exemplos\":[\"Ov. Her. 3, 8\"],\"notas\":\"Genitivo clássico em -idis; corrigida desinência para forma patronímica grega.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_360-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_360",
-    "page_num": 360,
-    "lemmas": [
-      "Achina",
-      "Achina"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Remissão para Acina (vide); tratado como variante/entrada redirecionadora. | [ocr_fix 2025-08-17T19:43:49Z] match direto em Gaffiot por lemma/lemma_norm | lemma_in='Achina' → 'Achina'",
-    "raw_text": "{\"id\":\"chunk_360:360:0\",\"lemas\":[\"Achina\"],\"lema_canonico\":\"Achina\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Acina\"],\"exemplos\":[],\"notas\":\"Remissão para Acina (vide); tratado como variante/entrada redirecionadora.\",\"flags\":[\"src_whitaker\",\"conf:med\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_360:360:0\",\"lemas\":[\"Achina\"],\"lema_canonico\":\"Achina\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Acina\"],\"exemplos\":[],\"notas\":\"Remissão para Acina (vide); tratado como variante/entrada redirecionadora.\",\"flags\":[\"src_whitaker\",\"conf:med\",\"redirect_only\"]}"
   },
   {
     "id": "chunk_361-e1",
@@ -5060,28 +4510,6 @@
     "raw_json": "{\"id\":\"chunk_386:386:2\",\"lemas\":[\"acquiro\",\"adquiro\"],\"lema_canonico\":\"acquiro\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"adquirir, obter; ajuntar, aumentar; ganhar (vantagens, riquezas)\",\"aliases\":[],\"exemplos\":[\"Cic. Cat. 3, 28\",\"Verg. En. 4, 175\",\"Tac. Ann. 16, 17\",\"Cic. Fam. 6, 11, 2\",\"Cic. De Or. 3, 131\",\"Sen. Contr. 1, pr. 14\"],\"notas\":\"Normalizada a forma efetuando preferência por 'acquiro' (var. adquiro); formas sincopadas preservadas.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_386-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_386",
-    "page_num": 386,
-    "lemmas": [
-      "aconitum",
-      "aconitum"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Planta venenosa (aconite, wolfbane); também usada como substantivo vegetal/medicinal.",
-    "exemplos": [],
-    "notas": "Lemas e forma canónica alinhados com Whitaker; OCR corrige variantes gráficas. | [dedupe] redirect → chunk_384:384:0 | [dedupe] redirect → chunk_384:384:0",
-    "raw_text": "{\"id\":\"chunk_386:386:0\",\"lemas\":[\"aconitum\",\"aconiton\",\"aconitis\"],\"lema_canonico\":\"aconitum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Planta venenosa (aconite, wolfbane); também usada como substantivo vegetal/medicinal.\",\"aliases\":[],\"exemplos\":[\"Verg. (uso farmacol./poético)\",\"Ov. Her. 19\",\"Ov. Her. 20\"],\"notas\":\"Lemas e forma canónica alinhados com Whitaker; OCR corrige variantes gráficas.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_386:386:0\",\"lemas\":[\"aconitum\",\"aconiton\",\"aconitis\"],\"lema_canonico\":\"aconitum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Planta venenosa (aconite, wolfbane); também usada como substantivo vegetal/medicinal.\",\"aliases\":[],\"exemplos\":[\"Verg. (uso farmacol./poético)\",\"Ov. Her. 19\",\"Ov. Her. 20\"],\"notas\":\"Lemas e forma canónica alinhados com Whitaker; OCR corrige variantes gráficas.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_386-e3",
     "volume_id": "faria",
     "doc_name": "chunk_386",
@@ -5146,28 +4574,6 @@
     "notas": "Forma do perfeito confirmada em Lat→Deu e Whitaker; vinculada ao verbo acquīrō, acquirere.",
     "raw_text": "{\"id\":\"chunk_387:387:1\",\"lemas\":[\"acquisivi\"],\"lema_canonico\":\"acquisivi\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"pretérito perfeito indicativo de acquīrō: 'adquiri, obtive, consegui'\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma do perfeito confirmada em Lat→Deu e Whitaker; vinculada ao verbo acquīrō, acquirere.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_387:387:1\",\"lemas\":[\"acquisivi\"],\"lema_canonico\":\"acquisivi\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"pretérito perfeito indicativo de acquīrō: 'adquiri, obtive, consegui'\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma do perfeito confirmada em Lat→Deu e Whitaker; vinculada ao verbo acquīrō, acquirere.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_387-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_387",
-    "page_num": 387,
-    "lemmas": [
-      "Achradina",
-      "Achradina"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada redirecionada para Achradina (variante grafémica Acradinia → Achradina) conforme Lewis & Short. | [dedupe] redirect → chunk_365:365:0 | [dedupe] redirect → chunk_365:365:0",
-    "raw_text": "{\"id\":\"chunk_387:387:2\",\"lemas\":[\"Acradinia\",\"Achradina\"],\"lema_canonico\":\"Achradina\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Achradina\"],\"exemplos\":[\"Cic. Verr. 2, 4, 53\",\"Liv. 25, 24, 10\"],\"notas\":\"Entrada redirecionada para Achradina (variante grafémica Acradinia → Achradina) conforme Lewis & Short.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_387:387:2\",\"lemas\":[\"Acradinia\",\"Achradina\"],\"lema_canonico\":\"Achradina\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Achradina\"],\"exemplos\":[\"Cic. Verr. 2, 4, 53\",\"Liv. 25, 24, 10\"],\"notas\":\"Entrada redirecionada para Achradina (variante grafémica Acradinia → Achradina) conforme Lewis & Short.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"redirect_only\"]}"
   },
   {
     "id": "chunk_388-e1",
@@ -5302,28 +4708,6 @@
     "raw_json": "{\"id\":\"chunk_393:393:0\",\"lemas\":[\"acratophoron\",\"acratophoros\"],\"lema_canonico\":\"acratophoron\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"vasilha grega para vinho não misturado (ácra ton = não misturado); citado em Cic. Fin. 3, 15\",\"aliases\":[],\"exemplos\":[\"Cic. Fin. 3, 15\"],\"notas\":\"Forma grega -on tratada como neutro de 2ª declinação; mantida variante grafada em fontes latinas.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"src_ocr\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_393-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_393",
-    "page_num": 393,
-    "lemmas": [
-      "acer",
-      "acer"
-    ],
-    "morfologia": "adj. (3) 3T",
-    "morph_render": "adj. (3) 3T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "1) adj.: agudo, pontiagudo, penetrante; vigoroso, veemente (ācer, ācris, ācre). 2) também nome substantivado: acer (aceris), ácer, o freixo/árvore de bordo (maple), e uso adverbial ācriter/ācrius.",
-    "exemplos": [],
-    "notas": "Reconciliadas as acepções adjetival e substantival; observação sobre uso adverbial explicada (ācriter/ācrius). | [dedupe] redirect → chunk_299:299:0 | [dedupe] redirect → chunk_299:299:0",
-    "raw_text": "{\"id\":\"chunk_393:393:1\",\"lemas\":[\"acer\"],\"lema_canonico\":\"acer\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"1) adj.: agudo, pontiagudo, penetrante; vigoroso, veemente (ācer, ācris, ācre). 2) também nome substantivado: acer (aceris), ácer, o freixo/árvore de bordo (maple), e uso adverbial ācriter/ācrius.\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 5, 15\",\"Lucr. 4, 304\",\"Ov. Am. 1, 11, 28\"],\"notas\":\"Reconciliadas as acepções adjetival e substantival; observação sobre uso adverbial explicada (ācriter/ācrius).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"src_firstpass\"]}",
-    "raw_json": "{\"id\":\"chunk_393:393:1\",\"lemas\":[\"acer\"],\"lema_canonico\":\"acer\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"1) adj.: agudo, pontiagudo, penetrante; vigoroso, veemente (ācer, ācris, ācre). 2) também nome substantivado: acer (aceris), ácer, o freixo/árvore de bordo (maple), e uso adverbial ācriter/ācrius.\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 5, 15\",\"Lucr. 4, 304\",\"Ov. Am. 1, 11, 28\"],\"notas\":\"Reconciliadas as acepções adjetival e substantival; observação sobre uso adverbial explicada (ācriter/ācrius).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"src_firstpass\"]}"
-  },
-  {
     "id": "chunk_394-e1",
     "volume_id": "faria",
     "doc_name": "chunk_394",
@@ -5432,28 +4816,6 @@
     "notas": "Forma plural feminina; adotei a citação e descrição segundo Lewis & Short.",
     "raw_text": "{\"id\":\"chunk_398:398:0\",\"lemas\":[\"Acrillae\"],\"lema_canonico\":\"Acrillae\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"town in Sicily (on the road from Syracuse to Agrigentum)\",\"aliases\":[],\"exemplos\":[\"Liv. 24, 35, 8\"],\"notas\":\"Forma plural feminina; adotei a citação e descrição segundo Lewis & Short.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_398:398:0\",\"lemas\":[\"Acrillae\"],\"lema_canonico\":\"Acrillae\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"town in Sicily (on the road from Syracuse to Agrigentum)\",\"aliases\":[],\"exemplos\":[\"Liv. 24, 35, 8\"],\"notas\":\"Forma plural feminina; adotei a citação e descrição segundo Lewis & Short.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_399-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_399",
-    "page_num": 399,
-    "lemmas": [
-      "acrimonia",
-      "acrimonia"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "pungência, acidez; por extensão: amargura, dureza ou austeridade de caráter; vigor, vivacidade (uso figurado).",
-    "exemplos": [],
-    "notas": "Grafia normalizada a partir do OCR; sentidos alinhados com LS e Lat→Deu. | [dedupe] redirect → chunk_397:397:0 | [dedupe] redirect → chunk_397:397:0",
-    "raw_text": "{\"id\":\"chunk_399:399:0\",\"lemas\":[\"acrimonia\"],\"lema_canonico\":\"acrimonia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"pungência, acidez; por extensão: amargura, dureza ou austeridade de caráter; vigor, vivacidade (uso figurado).\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. pr. 52\",\"Cic. Inv. 2, 143\"],\"notas\":\"Grafia normalizada a partir do OCR; sentidos alinhados com LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_399:399:0\",\"lemas\":[\"acrimonia\"],\"lema_canonico\":\"acrimonia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"pungência, acidez; por extensão: amargura, dureza ou austeridade de caráter; vigor, vivacidade (uso figurado).\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. pr. 52\",\"Cic. Inv. 2, 143\"],\"notas\":\"Grafia normalizada a partir do OCR; sentidos alinhados com LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_399-e2",

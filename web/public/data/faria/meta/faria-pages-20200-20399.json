@@ -44,28 +44,6 @@
     "raw_json": "{\"id\":\"chunk_20201:20201:0\",\"lemas\":[\"percerberesco\",\"percērberēsco\"],\"lema_canonico\":\"percerberesco\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"(segundo a primeira passada) Tornar‑se frequente; espalhar‑se, tornar‑se público.\",\"aliases\":[],\"exemplos\":[\"Tac. Ann. 12, 6\",\"Cic. Verr. 4, 94\"],\"notas\":\"Entrada rara/contestável; mantida a forma e sentidos da primeira passada mas sem confirmação em dicionários padrão.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_20202-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20202",
-    "page_num": 20202,
-    "lemmas": [
-      "percălĕfīo",
-      "percălĕfīo"
-    ],
-    "morfologia": "-",
-    "morph_render": "-",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "(registro) forma perf. apresentada como perf. de 'percerebrēsco' segundo OCR; necessita confirmação.",
-    "exemplos": [],
-    "notas": "Preservada a forma do OCR; não encontrada confirmação nas fontes fornecidas.\n[ocr_pipeline 2025-08-16T23:15:49.668874Z] lemma_in='percerepi' → 'percălĕfīo' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:12:31Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='percălĕfīo' → 'percălĕfīo' | [dedupe] redirect → chunk_20204:20204:0 | [dedupe] redirect → chunk_20204:20204:0",
-    "raw_text": "{\"id\":\"chunk_20202:20202:0\",\"lemas\":[\"percerepi\"],\"lema_canonico\":\"percerepi\",\"morfologia\":\"-\",\"morph_extra\":[],\"definicao\":\"(registro) forma perf. apresentada como perf. de 'percerebrēsco' segundo OCR; necessita confirmação.\",\"aliases\":[\"percerebrēscō\"],\"exemplos\":[],\"notas\":\"Preservada a forma do OCR; não encontrada confirmação nas fontes fornecidas.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_20202:20202:0\",\"lemas\":[\"percerepi\"],\"lema_canonico\":\"percerepi\",\"morfologia\":\"-\",\"morph_extra\":[],\"definicao\":\"(registro) forma perf. apresentada como perf. de 'percerebrēsco' segundo OCR; necessita confirmação.\",\"aliases\":[\"percerebrēscō\"],\"exemplos\":[],\"notas\":\"Preservada a forma do OCR; não encontrada confirmação nas fontes fornecidas.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
     "id": "chunk_20203-e1",
     "volume_id": "faria",
     "doc_name": "chunk_20203",
@@ -352,28 +330,6 @@
     "raw_json": "{\"id\":\"chunk_20214:20214:0\",\"lemas\":[\"percŭri\"],\"lema_canonico\":\"percŭri\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"forma do OCR registrada como perf. de percurro; entrada preservada para verificação.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"OCR: 'percŭri, perf. de percŭrro.' Sugestão provável: percurro, percurrere (v. 3), mas não confirmada aqui.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_20215-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20215",
-    "page_num": 20215,
-    "lemmas": [
-      "percurro",
-      "percurro"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Percorrer; atravessar; percorrer rapidamente (fig.), expor por ordem; correr através (intr.).",
-    "exemplos": [],
-    "notas": "Formas perfeitas/supino normalizadas; alinhado com Lat→Deu e dicionários tradicionais. | [dedupe] redirect → chunk_20206:20206:0 | [dedupe] redirect → chunk_20206:20206:0",
-    "raw_text": "{\"id\":\"chunk_20215:20215:0\",\"lemas\":[\"percurro\",\"percurrere\",\"percurrī\",\"percursum\"],\"lema_canonico\":\"percurro\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Percorrer; atravessar; percorrer rapidamente (fig.), expor por ordem; correr através (intr.).\",\"aliases\":[],\"exemplos\":[\"Caes. B. Civ. 1, 15, 10\",\"Cic. De Or. 1, 218\",\"Cic. De Or. 1, 205\",\"Lucr. 6, 655\",\"Cic. Verr. 3, 100\",\"Ter. And. 355\"],\"notas\":\"Formas perfeitas/supino normalizadas; alinhado com Lat→Deu e dicionários tradicionais.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_20215:20215:0\",\"lemas\":[\"percurro\",\"percurrere\",\"percurrī\",\"percursum\"],\"lema_canonico\":\"percurro\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Percorrer; atravessar; percorrer rapidamente (fig.), expor por ordem; correr através (intr.).\",\"aliases\":[],\"exemplos\":[\"Caes. B. Civ. 1, 15, 10\",\"Cic. De Or. 1, 218\",\"Cic. De Or. 1, 205\",\"Lucr. 6, 655\",\"Cic. Verr. 3, 100\",\"Ter. And. 355\"],\"notas\":\"Formas perfeitas/supino normalizadas; alinhado com Lat→Deu e dicionários tradicionais.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_20216-e1",
     "volume_id": "faria",
     "doc_name": "chunk_20216",
@@ -396,50 +352,6 @@
     "raw_json": "{\"id\":\"chunk_20216:20216:0\",\"lemas\":[\"percussio\"],\"lema_canonico\":\"percussio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Ação de bater, golpe; batida; em música/retórica: o tempo ou compasso (a beating, striking; beat/time).\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 3, 26, 62\",\"Cic. Off. 3, 19, 75\",\"Cic. De Or. 3, 47, 182\",\"Quint. 9, 4, 51\"],\"notas\":\"Corrigida a definição errônea de ‘percorrer’; gênero feminino e sentido musical atestados por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_20217-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20217",
-    "page_num": 20217,
-    "lemmas": [
-      "percussio",
-      "percussio"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Ação de percutir; golpe, batida; em uso técnico-literário: compasso, tempo em música e retórica; ocasionalmente atestado com sentidos figurados em textos de Cícero.",
-    "exemplos": [],
-    "notas": "Rejeitada leitura errônea 'ação de percorrer' (confusão com percurrĕre); mantidas citações ciceronianas relevantes. | [dedupe] redirect → chunk_20216:20216:0 | [dedupe] redirect → chunk_20216:20216:0",
-    "raw_text": "{\"id\":\"chunk_20217:20217:0\",\"lemas\":[\"percussio\"],\"lema_canonico\":\"percussio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Ação de percutir; golpe, batida; em uso técnico-literário: compasso, tempo em música e retórica; ocasionalmente atestado com sentidos figurados em textos de Cícero.\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 3, 26, 62\",\"Cic. Tusc. 4, 31\",\"Cic. De Or. 3, 47, 182\",\"Quint. 11, 3, 108\"],\"notas\":\"Rejeitada leitura errônea 'ação de percorrer' (confusão com percurrĕre); mantidas citações ciceronianas relevantes.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_20217:20217:0\",\"lemas\":[\"percussio\"],\"lema_canonico\":\"percussio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Ação de percutir; golpe, batida; em uso técnico-literário: compasso, tempo em música e retórica; ocasionalmente atestado com sentidos figurados em textos de Cícero.\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 3, 26, 62\",\"Cic. Tusc. 4, 31\",\"Cic. De Or. 3, 47, 182\",\"Quint. 11, 3, 108\"],\"notas\":\"Rejeitada leitura errônea 'ação de percorrer' (confusão com percurrĕre); mantidas citações ciceronianas relevantes.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_20218-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20218",
-    "page_num": 20218,
-    "lemmas": [
-      "percurro",
-      "percurro"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Correr por; percorrer, passar rapidamente por; examinar ou narrar em sequência; deslocar-se rapidamente de ponta a ponta.",
-    "exemplos": [],
-    "notas": "Conferido com Lat→Deu e Whitaker (percurrere); formas perfeitas/supinas normalizadas. | [dedupe] redirect → chunk_20206:20206:0 | [dedupe] redirect → chunk_20206:20206:0",
-    "raw_text": "{\"id\":\"chunk_20218:20218:0\",\"lemas\":[\"percurro\",\"percurrō\"],\"lema_canonico\":\"percurro\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\",\"intr.\"],\"definicao\":\"Correr por; percorrer, passar rapidamente por; examinar ou narrar em sequência; deslocar-se rapidamente de ponta a ponta.\",\"aliases\":[],\"exemplos\":[\"Plin. Pan. 12, 11\",\"T. Liv. 23, 42, 10\"],\"notas\":\"Conferido com Lat→Deu e Whitaker (percurrere); formas perfeitas/supinas normalizadas.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_20218:20218:0\",\"lemas\":[\"percurro\",\"percurrō\"],\"lema_canonico\":\"percurro\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\",\"intr.\"],\"definicao\":\"Correr por; percorrer, passar rapidamente por; examinar ou narrar em sequência; deslocar-se rapidamente de ponta a ponta.\",\"aliases\":[],\"exemplos\":[\"Plin. Pan. 12, 11\",\"T. Liv. 23, 42, 10\"],\"notas\":\"Conferido com Lat→Deu e Whitaker (percurrere); formas perfeitas/supinas normalizadas.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_20219-e1",
     "volume_id": "faria",
     "doc_name": "chunk_20219",
@@ -460,50 +372,6 @@
     "notas": "Atestado por Lewis & Short e Lat→Deu; forma tratada como adjetivo (a, um) derivada do particípio.",
     "raw_text": "{\"id\":\"chunk_20219:20219:0\",\"lemas\":[\"percursus\"],\"lema_canonico\":\"percursus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo de percurrō; 'percorrido, atravessado, passado rapidamente'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Atestado por Lewis & Short e Lat→Deu; forma tratada como adjetivo (a, um) derivada do particípio.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_20219:20219:0\",\"lemas\":[\"percursus\"],\"lema_canonico\":\"percursus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo de percurrō; 'percorrido, atravessado, passado rapidamente'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Atestado por Lewis & Short e Lat→Deu; forma tratada como adjetivo (a, um) derivada do particípio.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_20220-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20220",
-    "page_num": 20220,
-    "lemmas": [
-      "percutio",
-      "percutio"
-    ],
-    "morfologia": "v. 3ª -iō (-ere)",
-    "morph_render": "v. 3ª -iō (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Bater, golpear; transpassar, perfurar; causar grande choque ou abalo. (perf. percussi; sup. percussum).",
-    "exemplos": [],
-    "notas": "Formas e significados confirmados por Whitaker, Lewis & Short e Lat→Deu. | [dedupe] redirect → chunk_20207:20207:0 | [dedupe] redirect → chunk_20207:20207:0",
-    "raw_text": "{\"id\":\"chunk_20220:20220:0\",\"lemas\":[\"percutio\",\"percutere\",\"percussi\",\"percussus\"],\"lema_canonico\":\"percutio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[],\"definicao\":\"Bater, golpear; transpassar, perfurar; causar grande choque ou abalo. (perf. percussi; sup. percussum).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Formas e significados confirmados por Whitaker, Lewis & Short e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_20220:20220:0\",\"lemas\":[\"percutio\",\"percutere\",\"percussi\",\"percussus\"],\"lema_canonico\":\"percutio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[],\"definicao\":\"Bater, golpear; transpassar, perfurar; causar grande choque ou abalo. (perf. percussi; sup. percussum).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Formas e significados confirmados por Whitaker, Lewis & Short e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_20221-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20221",
-    "page_num": 20221,
-    "lemmas": [
-      "percussio",
-      "percussio"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "1) Percussão, pancada, golpe. 2) Por extensão, em música e retórica: batida, tempo ou compasso (marked beat/time).",
-    "exemplos": [],
-    "notas": "Versão padronizada do lema com sentidos próprio e transferido conforme LS/Whitaker. | [dedupe] redirect → chunk_20216:20216:0 | [dedupe] redirect → chunk_20216:20216:0",
-    "raw_text": "{\"id\":\"chunk_20221:20221:0\",\"lemas\":[\"percussio\"],\"lema_canonico\":\"percussio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"1) Percussão, pancada, golpe. 2) Por extensão, em música e retórica: batida, tempo ou compasso (marked beat/time).\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 3, 26, 62\",\"Cic. Off. 3, 19, 75\",\"Cic. De Or. 3, 47, 182\",\"Quint. 11, 3, 108\"],\"notas\":\"Versão padronizada do lema com sentidos próprio e transferido conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_20221:20221:0\",\"lemas\":[\"percussio\"],\"lema_canonico\":\"percussio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"1) Percussão, pancada, golpe. 2) Por extensão, em música e retórica: batida, tempo ou compasso (marked beat/time).\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 3, 26, 62\",\"Cic. Off. 3, 19, 75\",\"Cic. De Or. 3, 47, 182\",\"Quint. 11, 3, 108\"],\"notas\":\"Versão padronizada do lema com sentidos próprio e transferido conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_20222-e1",
@@ -550,28 +418,6 @@
     "raw_json": "{\"id\":\"chunk_20223:20223:0\",\"lemas\":[\"percussus\"],\"lema_canonico\":\"percussus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo de percutiō, percutere; como substantivo (percussus, -ūs, m.) ‘golpe, batida’; usado também como particípio com sentido ‘atingido, ferido’.\",\"aliases\":[],\"exemplos\":[\"percutio, percutere, percussi, percussus\",\"Ov. P. 2, 7, 40\",\"Sen. Q. N. 2, 6, 3\",\"Plin. Nat. 7, 51\"],\"notas\":\"Entrada unifica forma participial e substantivada (–ūs) conforme LS, Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_20224-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20224",
-    "page_num": 20224,
-    "lemmas": [
-      "percussio",
-      "percussio"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Percussão, ação de bater; golpe, pancada; figurado: pulsação, pancada; em música e retórica, tempo/compasso.",
-    "exemplos": [],
-    "notas": "Corrigido gênero feminino (LS) e unificada grafia; inclui exemplos clássicos citados no LS. | [dedupe] redirect → chunk_20216:20216:0 | [dedupe] redirect → chunk_20216:20216:0",
-    "raw_text": "{\"id\":\"chunk_20224:20224:0\",\"lemas\":[\"percussio\"],\"lema_canonico\":\"percussio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Percussão, ação de bater; golpe, pancada; figurado: pulsação, pancada; em música e retórica, tempo/compasso.\",\"aliases\":[],\"exemplos\":[\"Ov. P. 2, 7, 40\",\"Sen. Ira 3, 25, 3\",\"Cic. Tusc. 3, 26, 62\",\"Quint. 9, 4, 51\"],\"notas\":\"Corrigido gênero feminino (LS) e unificada grafia; inclui exemplos clássicos citados no LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_20224:20224:0\",\"lemas\":[\"percussio\"],\"lema_canonico\":\"percussio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Percussão, ação de bater; golpe, pancada; figurado: pulsação, pancada; em música e retórica, tempo/compasso.\",\"aliases\":[],\"exemplos\":[\"Ov. P. 2, 7, 40\",\"Sen. Ira 3, 25, 3\",\"Cic. Tusc. 3, 26, 62\",\"Quint. 9, 4, 51\"],\"notas\":\"Corrigido gênero feminino (LS) e unificada grafia; inclui exemplos clássicos citados no LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_20225-e1",
     "volume_id": "faria",
     "doc_name": "chunk_20225",
@@ -614,28 +460,6 @@
     "notas": "Formas supinas e perf. regularizadas (percutere, percussi, percussus) segundo LS/Whitaker.",
     "raw_text": "{\"id\":\"chunk_20226:20226:0\",\"lemas\":[\"percutio\"],\"lema_canonico\":\"percutio\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"bater, golpear; ferir, atravessar com golpe; também fig. impressionar, comover; cunhar (moeda); tocar (cordas)\",\"aliases\":[],\"exemplos\":[\"T. Liv. 2, 19, 8\",\"Cic. De Or. 2, 197\",\"Cic. Nat. 3, 57\",\"Ov. Am. 3, 12, 40\",\"Suet. Aug. 49\",\"Cic. Br. 305\",\"Cic. Flac. 46\"],\"notas\":\"Formas supinas e perf. regularizadas (percutere, percussi, percussus) segundo LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_20226:20226:0\",\"lemas\":[\"percutio\"],\"lema_canonico\":\"percutio\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"bater, golpear; ferir, atravessar com golpe; também fig. impressionar, comover; cunhar (moeda); tocar (cordas)\",\"aliases\":[],\"exemplos\":[\"T. Liv. 2, 19, 8\",\"Cic. De Or. 2, 197\",\"Cic. Nat. 3, 57\",\"Ov. Am. 3, 12, 40\",\"Suet. Aug. 49\",\"Cic. Br. 305\",\"Cic. Flac. 46\"],\"notas\":\"Formas supinas e perf. regularizadas (percutere, percussi, percussus) segundo LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_20227-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20227",
-    "page_num": 20227,
-    "lemmas": [
-      "perditus",
-      "perditus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "arruinado; perdido; degradado; financeiro ou moralmente arruinado; desesperado",
-    "exemplos": [],
-    "notas": "Unificadas formas substantivas/adjetivais; escolheu-se perditus como lema canônico (atestado em LS/Whitaker/Lat→Deu). | [dedupe] redirect → chunk_20240:20240:0 | [dedupe] redirect → chunk_20240:20240:0",
-    "raw_text": "{\"id\":\"chunk_20227:20227:0\",\"lemas\":[\"perditus\",\"perdita\",\"perditum\",\"perditius\"],\"lema_canonico\":\"perditus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"arruinado; perdido; degradado; financeiro ou moralmente arruinado; desesperado\",\"aliases\":[],\"exemplos\":[\"Luc. 1, 692\"],\"notas\":\"Unificadas formas substantivas/adjetivais; escolheu-se perditus como lema canônico (atestado em LS/Whitaker/Lat→Deu).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_20227:20227:0\",\"lemas\":[\"perditus\",\"perdita\",\"perditum\",\"perditius\"],\"lema_canonico\":\"perditus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"arruinado; perdido; degradado; financeiro ou moralmente arruinado; desesperado\",\"aliases\":[],\"exemplos\":[\"Luc. 1, 692\"],\"notas\":\"Unificadas formas substantivas/adjetivais; escolheu-se perditus como lema canônico (atestado em LS/Whitaker/Lat→Deu).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_20228-e1",
@@ -968,28 +792,6 @@
     "raw_json": "{\"id\":\"chunk_20242:20242:0\",\"lemas\":[\"perditūrmus\"],\"lema_canonico\":\"perditūrmus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"(entrada duvidosa) indicado no original como 'Que dura muito tempo' — possível corrupção (ver perditūrus / perdurus)\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 2, 85\"],\"notas\":\"forma aparentemente errônea no OCR/primeira passada; preservada aqui para revisão (possível lematização como perdūrus/perditūrus).\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_20243-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20243",
-    "page_num": 20243,
-    "lemmas": [
-      "ile",
-      "ile"
-    ],
-    "morfologia": "s. neut. 3ª (-is)",
-    "morph_render": "s. neut. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "parte inferior do abdome; região da virilha, flancos; entranhas (freq. no pl.)",
-    "exemplos": [],
-    "notas": "Unifiquei formas canônicas (ile, ilis, ilium/ilum) conforme LS e Whitaker. | [dedupe] redirect → chunk_14893:14893:0 | [dedupe] redirect → chunk_14893:14893:0",
-    "raw_text": "{\"id\":\"chunk_20243:20243:0\",\"lemas\":[\"ile\",\"ilis\",\"ilium\",\"ilum\"],\"lema_canonico\":\"ile\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"parte inferior do abdome; região da virilha, flancos; entranhas (freq. no pl.)\",\"aliases\":[],\"exemplos\":[\"Verg. A. 7,499\",\"Hor. Epod. 3,4\"],\"notas\":\"Unifiquei formas canônicas (ile, ilis, ilium/ilum) conforme LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_20243:20243:0\",\"lemas\":[\"ile\",\"ilis\",\"ilium\",\"ilum\"],\"lema_canonico\":\"ile\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"parte inferior do abdome; região da virilha, flancos; entranhas (freq. no pl.)\",\"aliases\":[],\"exemplos\":[\"Verg. A. 7,499\",\"Hor. Epod. 3,4\"],\"notas\":\"Unifiquei formas canônicas (ile, ilis, ilium/ilum) conforme LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_20243-e2",
     "volume_id": "faria",
     "doc_name": "chunk_20243",
@@ -1010,28 +812,6 @@
     "notas": "Normalizada a forma perdives, lemma e tema segundo Whitaker e LS.",
     "raw_text": "{\"id\":\"chunk_20243:20243:1\",\"lemas\":[\"perdives\",\"perdīves\"],\"lema_canonico\":\"perdives\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[],\"definicao\":\"muito rico, riquíssimo\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 6,1,3\"],\"notas\":\"Normalizada a forma perdives, lemma e tema segundo Whitaker e LS.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_20243:20243:1\",\"lemas\":[\"perdives\",\"perdīves\"],\"lema_canonico\":\"perdives\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[],\"definicao\":\"muito rico, riquíssimo\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 6,1,3\"],\"notas\":\"Normalizada a forma perdives, lemma e tema segundo Whitaker e LS.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_20244-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20244",
-    "page_num": 20244,
-    "lemmas": [
-      "perdix",
-      "perdix"
-    ],
-    "morfologia": "s. 3ª (-is)",
-    "morph_render": "s. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "perdiz; também nome próprio mitológico (Perdix)",
-    "exemplos": [],
-    "notas": "Entrada correspondente a mesma palavra; referência editorial conservada tal qual. | [dedupe] redirect → chunk_20229:20229:0 | [dedupe] redirect → chunk_20229:20229:0",
-    "raw_text": "{\"id\":\"chunk_20244:20244:0\",\"lemas\":[\"perdix\",\"Perdix\"],\"lema_canonico\":\"perdix\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"perdiz; também nome próprio mitológico (Perdix)\",\"aliases\":[],\"exemplos\":[\"Marc. 3, 85, 15\"],\"notas\":\"Entrada correspondente a mesma palavra; referência editorial conservada tal qual.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_20244:20244:0\",\"lemas\":[\"perdix\",\"Perdix\"],\"lema_canonico\":\"perdix\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"perdiz; também nome próprio mitológico (Perdix)\",\"aliases\":[],\"exemplos\":[\"Marc. 3, 85, 15\"],\"notas\":\"Entrada correspondente a mesma palavra; referência editorial conservada tal qual.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_20245-e1",
@@ -1144,28 +924,6 @@
     "raw_json": "{\"id\":\"chunk_20249:20249:0\",\"lemas\":[\"perdoctus\",\"perdocta\",\"perdoctum\"],\"lema_canonico\":\"perdoctus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo de perdocēre; adjetivo: 1) muito instruído, muito douto; 2) bem ensinado, bem amestrado.\",\"aliases\":[],\"exemplos\":[\"Cic. Balb. 60\",\"Plaut. Mil. 258\"],\"notas\":\"Concilia leitura da 1ª passada com entradas de Whitaker/LS; perdocēre (perdocuī/perdoctus) é a forma verbal subjacente.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_20250-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20250",
-    "page_num": 20250,
-    "lemmas": [
-      "perdoctus",
-      "perdoctus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Particípio perfeito passivo de perdocēre; adjetivo: muito instruído, muito douto; bem instruído, bem amestrado.",
-    "exemplos": [],
-    "notas": "Entrada normalizada para o particípio/adjetivo; formas flexionais (perdocti, perdoctum etc.) derivam deste lema. | [dedupe] redirect → chunk_20249:20249:0 | [dedupe] redirect → chunk_20249:20249:0",
-    "raw_text": "{\"id\":\"chunk_20250:20250:0\",\"lemas\":[\"perdoctus\",\"perdocta\",\"perdoctum\"],\"lema_canonico\":\"perdoctus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo de perdocēre; adjetivo: muito instruído, muito douto; bem instruído, bem amestrado.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada normalizada para o particípio/adjetivo; formas flexionais (perdocti, perdoctum etc.) derivam deste lema.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_20250:20250:0\",\"lemas\":[\"perdoctus\",\"perdocta\",\"perdoctum\"],\"lema_canonico\":\"perdoctus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo de perdocēre; adjetivo: muito instruído, muito douto; bem instruído, bem amestrado.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada normalizada para o particípio/adjetivo; formas flexionais (perdocti, perdoctum etc.) derivam deste lema.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_20251-e1",
     "volume_id": "faria",
     "doc_name": "chunk_20251",
@@ -1210,28 +968,6 @@
     "raw_json": "{\"id\":\"chunk_20251:20251:1\",\"lemas\":[\"perdolo\",\"perdolare\",\"perdolavi\",\"perdolatus\"],\"lema_canonico\":\"perdolo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"(senso atestado apenas em fontes tardias/menos seguras) verbo transitivo: talhar, aplainar; possivelmente distinto de perdoleō.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada presente na primeira passada e em Whitaker (perdolatus); falta confirmação consistente em LS/Lat→Deu — manter sob revisão.\",\"flags\":[\"src_firstpass\",\"src_whitaker\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_20251-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_20251",
-    "page_num": 20251,
-    "lemmas": [
-      "per-dŏlĕo",
-      "per-dŏlĕo"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "sentir profunda dor, sofrer intensamente; (uso impessoal em textos)",
-    "exemplos": [],
-    "notas": "Normalizado para o lema verbal perdoleo (perdolēre) a partir de formas perf. e particípios; baseado em Lat→Deu. | [dedupe] redirect → chunk_20251:20251:0 | [dedupe] redirect → chunk_20251:20251:0 | [ocr_fix 2025-08-17T19:59:20Z] match direto em LS por lemma/lemma_norm | lemma_in='perdoleo' → 'per-dŏlĕo'",
-    "raw_text": "{\"id\":\"chunk_20251:20251:7\",\"lemas\":[\"perdoleo\"],\"lema_canonico\":\"perdoleo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"sentir profunda dor, sofrer intensamente; (uso impessoal em textos)\",\"aliases\":[\"perdoluit\",\"perdoluerit\",\"perdolui\",\"perdolutum\"],\"exemplos\":[\"Ter. Eun. 154\"],\"notas\":\"Normalizado para o lema verbal perdoleo (perdolēre) a partir de formas perf. e particípios; baseado em Lat→Deu.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_20251:20251:7\",\"lemas\":[\"perdoleo\"],\"lema_canonico\":\"perdoleo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"sentir profunda dor, sofrer intensamente; (uso impessoal em textos)\",\"aliases\":[\"perdoluit\",\"perdoluerit\",\"perdolui\",\"perdolutum\"],\"exemplos\":[\"Ter. Eun. 154\"],\"notas\":\"Normalizado para o lema verbal perdoleo (perdolēre) a partir de formas perf. e particípios; baseado em Lat→Deu.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_20251-e4",
     "volume_id": "faria",
     "doc_name": "chunk_20251",
@@ -1254,28 +990,6 @@
     "notas": "Normalizado como PPP de persolvere; marcardo LS sobre leitura corrupta.",
     "raw_text": "{\"id\":\"chunk_20251:20251:2\",\"lemas\":[\"persoluta\",\"persolutus\",\"persolvere\"],\"lema_canonico\":\"persolutus\",\"morfologia\":\"part. perf. pass.\",\"morph_extra\":[],\"definicao\":\"particípio perfeito passivo de persolvere; forma feminina (persolūta). LS registra persŏlūta como leitura corrupta para pesoluta (Plin.).\",\"aliases\":[\"pesoluta\"],\"exemplos\":[\"Plin. 21, 33, 108, § 184\"],\"notas\":\"Normalizado como PPP de persolvere; marcardo LS sobre leitura corrupta.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_20251:20251:2\",\"lemas\":[\"persoluta\",\"persolutus\",\"persolvere\"],\"lema_canonico\":\"persolutus\",\"morfologia\":\"part. perf. pass.\",\"morph_extra\":[],\"definicao\":\"particípio perfeito passivo de persolvere; forma feminina (persolūta). LS registra persŏlūta como leitura corrupta para pesoluta (Plin.).\",\"aliases\":[\"pesoluta\"],\"exemplos\":[\"Plin. 21, 33, 108, § 184\"],\"notas\":\"Normalizado como PPP de persolvere; marcardo LS sobre leitura corrupta.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_20251-e5",
-    "volume_id": "faria",
-    "doc_name": "chunk_20251",
-    "page_num": 20251,
-    "lemmas": [
-      "persolvo",
-      "persolvo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "persolvere: pagar; dissolver, esclarecer; cumprir, prestar; também 'sofrer, expiar' em contextos específicos.",
-    "exemplos": [],
-    "notas": "Paradigma incluído conforme LS/Whitaker/Lat→Deu. | [dedupe] redirect → chunk_20702:20702:0 | [dedupe] redirect → chunk_20702:20702:0",
-    "raw_text": "{\"id\":\"chunk_20251:20251:3\",\"lemas\":[\"persolvo\",\"persolvere\",\"persolvi\",\"persolutus\"],\"lema_canonico\":\"persolvo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"persolvere: pagar; dissolver, esclarecer; cumprir, prestar; também 'sofrer, expiar' em contextos específicos.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Paradigma incluído conforme LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_20251:20251:3\",\"lemas\":[\"persolvo\",\"persolvere\",\"persolvi\",\"persolutus\"],\"lema_canonico\":\"persolvo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"persolvere: pagar; dissolver, esclarecer; cumprir, prestar; também 'sofrer, expiar' em contextos específicos.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Paradigma incluído conforme LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_20251-e6",
@@ -1454,72 +1168,6 @@
     "raw_json": "{\"id\":\"chunk_20256:20256:0\",\"lemas\":[\"perdormio\"],\"lema_canonico\":\"perdormio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"verbo: dormir completamente, dormir profundamente; perdormīvī = forma perfeita 'eu dormi profundamente'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"First_pass registrava a forma perfeita perdormīvī; ici o lema foi normalizado para o infinitivo (perdormio).\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_20257-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20257",
-    "page_num": 20257,
-    "lemmas": [
-      "per",
-      "per"
-    ],
-    "morfologia": "prep. com acc.",
-    "morph_render": "prep. com acc.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "através de, por meio de; durante (tempo), por; denota movimento através ou extensão por todo o espaço",
-    "exemplos": [],
-    "notas": "Préposição comum; definição alinhada com Lewis & Short e Whitaker | [dedupe] redirect → chunk_20107:20107:0 | [dedupe] redirect → chunk_20107:20107:0",
-    "raw_text": "{\"id\":\"chunk_20257:20257:0\",\"lemas\":[\"per\"],\"lema_canonico\":\"per\",\"morfologia\":\"prep. com acc.\",\"morph_extra\":[],\"definicao\":\"através de, por meio de; durante (tempo), por; denota movimento através ou extensão por todo o espaço\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Préposição comum; definição alinhada com Lewis & Short e Whitaker\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_20257:20257:0\",\"lemas\":[\"per\"],\"lema_canonico\":\"per\",\"morfologia\":\"prep. com acc.\",\"morph_extra\":[],\"definicao\":\"através de, por meio de; durante (tempo), por; denota movimento através ou extensão por todo o espaço\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Préposição comum; definição alinhada com Lewis & Short e Whitaker\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_20257-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_20257",
-    "page_num": 20257,
-    "lemmas": [
-      "dormiō",
-      "dormiō"
-    ],
-    "morfologia": "v. 4ª (-īre)",
-    "morph_render": "v. 4ª (-īre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "dormir; repousar; adormecer",
-    "exemplos": [],
-    "notas": "Formas principais dormiō, dormīre, dormīvī, dormītus confirmadas por LS e Whitaker | [dedupe] redirect → chunk_8993:8993:0",
-    "raw_text": "{\"id\":\"chunk_20257:20257:1\",\"lemas\":[\"dormiō\",\"dormīre\"],\"lema_canonico\":\"dormiō\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"dormir; repousar; adormecer\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Formas principais dormiō, dormīre, dormīvī, dormītus confirmadas por LS e Whitaker\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_20257:20257:1\",\"lemas\":[\"dormiō\",\"dormīre\"],\"lema_canonico\":\"dormiō\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"dormir; repousar; adormecer\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Formas principais dormiō, dormīre, dormīvī, dormītus confirmadas por LS e Whitaker\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_20257-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_20257",
-    "page_num": 20257,
-    "lemmas": [
-      "dormĭo",
-      "dormĭo"
-    ],
-    "morfologia": "v. 4ª (-īre)",
-    "morph_render": "v. 4ª (-īre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "dormir profundamente; dormir demais (per- intensivo + dormiō)",
-    "exemplos": [],
-    "notas": "Composto por per- + dormiō; exemplo de Plauto atestado no OCR | [dedupe] redirect → chunk_20256:20256:0 | [ocr_fix 2025-08-17T18:30:10Z] similaridade semântica FAISS (definição/gloss) + reranking por forma | lemma_in='perdormiō' → 'dormĭo' | [ocr_fix 2025-08-17T19:54:19Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='dormĭo' → 'dormĭo'",
-    "raw_text": "{\"id\":\"chunk_20257:20257:2\",\"lemas\":[\"perdormiō\",\"perdormīre\"],\"lema_canonico\":\"perdormiō\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"dormir profundamente; dormir demais (per- intensivo + dormiō)\",\"aliases\":[],\"exemplos\":[\"Plaut. Men. 928\"],\"notas\":\"Composto por per- + dormiō; exemplo de Plauto atestado no OCR\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}",
-    "raw_json": "{\"id\":\"chunk_20257:20257:2\",\"lemas\":[\"perdormiō\",\"perdormīre\"],\"lema_canonico\":\"perdormiō\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"dormir profundamente; dormir demais (per- intensivo + dormiō)\",\"aliases\":[],\"exemplos\":[\"Plaut. Men. 928\"],\"notas\":\"Composto por per- + dormiō; exemplo de Plauto atestado no OCR\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}"
-  },
-  {
     "id": "chunk_20258-e1",
     "volume_id": "faria",
     "doc_name": "chunk_20258",
@@ -1672,28 +1320,6 @@
     "notas": "Forma e leitura baseadas no first_pass; forma rara/medieval e pouco atestada — necessita verificação em fontes externas.",
     "raw_text": "{\"id\":\"chunk_20264:20264:0\",\"lemas\":[\"perdŭvĭlis\",\"perduvilis\"],\"lema_canonico\":\"perduvilis\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"inimigo (registro possivelmente raro ou medieval)\",\"aliases\":[],\"exemplos\":[\"Cic. Or. 1, 37\"],\"notas\":\"Forma e leitura baseadas no first_pass; forma rara/medieval e pouco atestada — necessita verificação em fontes externas.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_20264:20264:0\",\"lemas\":[\"perdŭvĭlis\",\"perduvilis\"],\"lema_canonico\":\"perduvilis\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"inimigo (registro possivelmente raro ou medieval)\",\"aliases\":[],\"exemplos\":[\"Cic. Or. 1, 37\"],\"notas\":\"Forma e leitura baseadas no first_pass; forma rara/medieval e pouco atestada — necessita verificação em fontes externas.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_20264-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_20264",
-    "page_num": 20264,
-    "lemmas": [
-      "perdĭtus",
-      "perdĭtus"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "forma arcaica do presente do subjuntivo de perdo (interpretada como equivalente a 'perdam')",
-    "exemplos": [],
-    "notas": "Entrada pouquíssimo atestada; escolha de morfologia como v. 3ª (-ere) por aproximação (ver necessidade de revisão).\n[ocr_pipeline 2025-08-16T23:20:44.665943Z] lemma_in='perdūrim' → 'perdĭtus' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:19:06Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='perdĭtus' → 'perdĭtus' | [dedupe] redirect → chunk_20240:20240:0 | [dedupe] redirect → chunk_20240:20240:0",
-    "raw_text": "{\"id\":\"chunk_20264:20264:1\",\"lemas\":[\"perdūrim\",\"perdurim\"],\"lema_canonico\":\"perdūrim\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"forma arcaica do presente do subjuntivo de perdo (interpretada como equivalente a 'perdam')\",\"aliases\":[],\"exemplos\":[\"Plaut. Aul. 664\"],\"notas\":\"Entrada pouquíssimo atestada; escolha de morfologia como v. 3ª (-ere) por aproximação (ver necessidade de revisão).\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_20264:20264:1\",\"lemas\":[\"perdūrim\",\"perdurim\"],\"lema_canonico\":\"perdūrim\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"forma arcaica do presente do subjuntivo de perdo (interpretada como equivalente a 'perdam')\",\"aliases\":[],\"exemplos\":[\"Plaut. Aul. 664\"],\"notas\":\"Entrada pouquíssimo atestada; escolha de morfologia como v. 3ª (-ere) por aproximação (ver necessidade de revisão).\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\",\"morph_out_of_vocab\"]}"
   },
   {
     "id": "chunk_20265-e1",
@@ -2048,28 +1674,6 @@
     "raw_json": "{\"id\":\"chunk_20280:20280:0\",\"lemas\":[\"pereloquens\",\"perēloquēns\",\"pereloquente\"],\"lema_canonico\":\"pereloquens\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[],\"definicao\":\"muito eloquente; dotado de grande eloquência\",\"aliases\":[],\"exemplos\":[\"Cic. Br. 247\"],\"notas\":\"Unificação de variantes atestadas; Whitaker indica uma terminação (1T).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_20281-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20281",
-    "page_num": 20281,
-    "lemmas": [
-      "perennis",
-      "perennis"
-    ],
-    "morfologia": "adj. (3) 3T",
-    "morph_render": "adj. (3) 3T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "perene; contínuo, perpétuo, sempreduradouro",
-    "exemplos": [],
-    "notas": "'perennia' tratado como forma/variante (pl. neut.) de perennis; corrigido de leitura errônea de first_pass. | [dedupe] redirect → chunk_20137:20137:0 | [dedupe] redirect → chunk_20137:20137:0",
-    "raw_text": "{\"id\":\"chunk_20281:20281:0\",\"lemas\":[\"perennis\",\"perennia\"],\"lema_canonico\":\"perennis\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"perene; contínuo, perpétuo, sempreduradouro\",\"aliases\":[],\"exemplos\":[],\"notas\":\"'perennia' tratado como forma/variante (pl. neut.) de perennis; corrigido de leitura errônea de first_pass.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_20281:20281:0\",\"lemas\":[\"perennis\",\"perennia\"],\"lema_canonico\":\"perennis\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"perene; contínuo, perpétuo, sempreduradouro\",\"aliases\":[],\"exemplos\":[],\"notas\":\"'perennia' tratado como forma/variante (pl. neut.) de perennis; corrigido de leitura errônea de first_pass.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_20282-e1",
     "volume_id": "faria",
     "doc_name": "chunk_20282",
@@ -2268,28 +1872,6 @@
     "raw_json": "{\"id\":\"chunk_20288:20288:1\",\"lemas\":[\"perna\",\"pernae\"],\"lema_canonico\":\"perna\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"a haunch or ham; the thigh or ham (esp. of swine), a leg of pork; also used figuratively for objects of similar shape.\",\"aliases\":[],\"exemplos\":[\"Cato, R. R. 158\",\"Plaut. Pers. 1, 3, 25\",\"Hor. S. 2, 2, 117\",\"Mart. 10, 48, 17\",\"Tert. (cit. LS)\"],\"notas\":\"Lemma and senses aligned with Lewis & Short and Whitaker; examples selected from classical attestations.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_20289-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20289",
-    "page_num": 20289,
-    "lemmas": [
-      "perennis",
-      "perennis"
-    ],
-    "morfologia": "adj. (3) 2T",
-    "morph_render": "adj. (3) 2T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "perene; que dura todo o ano, contínuo, duradouro; transfer.: eterno, ininterrupto",
-    "exemplos": [],
-    "notas": "Forma e acepções confirmadas por Lewis & Short e Whitaker; marcado como adjetivo de 3ª classe, 2 terminações. | [dedupe] redirect → chunk_20137:20137:0 | [dedupe] redirect → chunk_20137:20137:0",
-    "raw_text": "{\"id\":\"chunk_20289:20289:0\",\"lemas\":[\"perennis\",\"perēnnis\"],\"lema_canonico\":\"perennis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"perene; que dura todo o ano, contínuo, duradouro; transfer.: eterno, ininterrupto\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 16, 73\",\"Hor. C. 3, 30, 1\",\"Caes. B. G. 8, 43\",\"Cic. Prov. 23\"],\"notas\":\"Forma e acepções confirmadas por Lewis & Short e Whitaker; marcado como adjetivo de 3ª classe, 2 terminações.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_20289:20289:0\",\"lemas\":[\"perennis\",\"perēnnis\"],\"lema_canonico\":\"perennis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"perene; que dura todo o ano, contínuo, duradouro; transfer.: eterno, ininterrupto\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 16, 73\",\"Hor. C. 3, 30, 1\",\"Caes. B. G. 8, 43\",\"Cic. Prov. 23\"],\"notas\":\"Forma e acepções confirmadas por Lewis & Short e Whitaker; marcado como adjetivo de 3ª classe, 2 terminações.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_20290-e1",
     "volume_id": "faria",
     "doc_name": "chunk_20290",
@@ -2354,72 +1936,6 @@
     "notas": "Lema/forma pouco atestada nas fontes principais; mantida a forma da 1ª passada para revisão.",
     "raw_text": "{\"id\":\"chunk_20292:20292:0\",\"lemas\":[\"peremno\",\"perēmno\"],\"lema_canonico\":\"peremno\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"(registro incerto) durar um ano; prolongar-se (atestado em citações atribuídas a Macr. e Ov.)\",\"aliases\":[],\"exemplos\":[\"Macr. Saturn. 1, 12, 61\",\"Ovíd. F. 1, 721\"],\"notas\":\"Lema/forma pouco atestada nas fontes principais; mantida a forma da 1ª passada para revisão.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_20292:20292:0\",\"lemas\":[\"peremno\",\"perēmno\"],\"lema_canonico\":\"peremno\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"(registro incerto) durar um ano; prolongar-se (atestado em citações atribuídas a Macr. e Ov.)\",\"aliases\":[],\"exemplos\":[\"Macr. Saturn. 1, 12, 61\",\"Ovíd. F. 1, 721\"],\"notas\":\"Lema/forma pouco atestada nas fontes principais; mantida a forma da 1ª passada para revisão.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_20293-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20293",
-    "page_num": 20293,
-    "lemmas": [
-      "pereo",
-      "pereo"
-    ],
-    "morfologia": "v. 4ª (-īre)",
-    "morph_render": "v. 4ª (-īre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "perecer, morrer; desaparecer, perder‑se; figur.: consumir‑se (de amor), estar perdido.",
-    "exemplos": [],
-    "notas": "Infinitivo perīre (conjug. 4ª); entradas e exemplos verificados em LS e Lat→Deu. | [dedupe] redirect → chunk_20431:20431:0 | [dedupe] redirect → chunk_20431:20431:0",
-    "raw_text": "{\"id\":\"chunk_20293:20293:0\",\"lemas\":[\"pereo\"],\"lema_canonico\":\"pereo\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"perecer, morrer; desaparecer, perder‑se; figur.: consumir‑se (de amor), estar perdido.\",\"aliases\":[],\"exemplos\":[\"Plaut. Curc. 532\",\"Cic. Dej. 2, 51\",\"Cic. Cat. 2, 21\",\"Ov. Her. 17, 83\",\"Verg. Buc. 10, 10\"],\"notas\":\"Infinitivo perīre (conjug. 4ª); entradas e exemplos verificados em LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_20293:20293:0\",\"lemas\":[\"pereo\"],\"lema_canonico\":\"pereo\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"perecer, morrer; desaparecer, perder‑se; figur.: consumir‑se (de amor), estar perdido.\",\"aliases\":[],\"exemplos\":[\"Plaut. Curc. 532\",\"Cic. Dej. 2, 51\",\"Cic. Cat. 2, 21\",\"Ov. Her. 17, 83\",\"Verg. Buc. 10, 10\"],\"notas\":\"Infinitivo perīre (conjug. 4ª); entradas e exemplos verificados em LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_20293-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_20293",
-    "page_num": 20293,
-    "lemmas": [
-      "per",
-      "per"
-    ],
-    "morfologia": "prep. com acc.",
-    "morph_render": "prep. com acc.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "prep.: através de, por meio de; durante (do tempo).",
-    "exemplos": [],
-    "notas": "Entrada tratada como preposição, não como prefixo derivacional; confirmada por LS e Whitaker. | [dedupe] redirect → chunk_20107:20107:0 | [dedupe] redirect → chunk_20107:20107:0",
-    "raw_text": "{\"id\":\"chunk_20293:20293:1\",\"lemas\":[\"per\"],\"lema_canonico\":\"per\",\"morfologia\":\"prep. com acc.\",\"morph_extra\":[],\"definicao\":\"prep.: através de, por meio de; durante (do tempo).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada tratada como preposição, não como prefixo derivacional; confirmada por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_20293:20293:1\",\"lemas\":[\"per\"],\"lema_canonico\":\"per\",\"morfologia\":\"prep. com acc.\",\"morph_extra\":[],\"definicao\":\"prep.: através de, por meio de; durante (do tempo).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada tratada como preposição, não como prefixo derivacional; confirmada por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_20293-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_20293",
-    "page_num": 20293,
-    "lemmas": [
-      "fretus",
-      "fretus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "confiando em, apoiado em, dependente de (constr. com ablativo); também forma substantival frētus 'confiança'.",
-    "exemplos": [],
-    "notas": "Formas e significados verificados em LS, Whitaker e Lat→Deu; incluídas variantes canônicas. | [dedupe] redirect → chunk_11384:11384:0 | [dedupe] redirect → chunk_11384:11384:0",
-    "raw_text": "{\"id\":\"chunk_20293:20293:2\",\"lemas\":[\"fretus\",\"freta\",\"fretum\"],\"lema_canonico\":\"fretus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"confiando em, apoiado em, dependente de (constr. com ablativo); também forma substantival frētus 'confiança'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Formas e significados verificados em LS, Whitaker e Lat→Deu; incluídas variantes canônicas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_20293:20293:2\",\"lemas\":[\"fretus\",\"freta\",\"fretum\"],\"lema_canonico\":\"fretus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"confiando em, apoiado em, dependente de (constr. com ablativo); também forma substantival frētus 'confiança'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Formas e significados verificados em LS, Whitaker e Lat→Deu; incluídas variantes canônicas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_20293-e4",
@@ -2530,28 +2046,6 @@
     "notas": "Normalizado a forma canónica e incluída citação do OCR.",
     "raw_text": "{\"id\":\"chunk_20297:20297:0\",\"lemas\":[\"pereruditus\",\"pererudita\",\"pereruditum\"],\"lema_canonico\":\"pereruditus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"muito instruído; very learned\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 4, 15, 2\"],\"notas\":\"Normalizado a forma canónica e incluída citação do OCR.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_20297:20297:0\",\"lemas\":[\"pereruditus\",\"pererudita\",\"pereruditum\"],\"lema_canonico\":\"pereruditus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"muito instruído; very learned\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 4, 15, 2\"],\"notas\":\"Normalizado a forma canónica e incluída citação do OCR.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_20297-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_20297",
-    "page_num": 20297,
-    "lemmas": [
-      "pereruditus",
-      "pereruditus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "muito instruído; very learned",
-    "exemplos": [],
-    "notas": "Entrada harmonizada com a anterior; normalizada acentuação removida para lema canónico. | [dedupe] redirect → chunk_20297:20297:0 | [dedupe] redirect → chunk_20297:20297:0",
-    "raw_text": "{\"id\":\"chunk_20297:20297:1\",\"lemas\":[\"pereruditus\"],\"lema_canonico\":\"pereruditus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"muito instruído; very learned\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 4, 15, 2\"],\"notas\":\"Entrada harmonizada com a anterior; normalizada acentuação removida para lema canónico.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_20297:20297:1\",\"lemas\":[\"pereruditus\"],\"lema_canonico\":\"pereruditus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"muito instruído; very learned\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 4, 15, 2\"],\"notas\":\"Entrada harmonizada com a anterior; normalizada acentuação removida para lema canónico.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_20297-e3",
@@ -2950,28 +2444,6 @@
     "raw_json": "{\"id\":\"chunk_20314:20314:4\",\"lemas\":[\"perferens\",\"perferens, -entis\"],\"lema_canonico\":\"perferens\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"Particípio presente de perferō (perferre, pertulī, perlātum): “o que suporta; que traz consigo”; usado adjectivalmente.\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 2, 184\"],\"notas\":\"Corrigido de 'perfēns' → 'perferens' (pres. part. de perferō).\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_20314-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_20314",
-    "page_num": 20314,
-    "lemmas": [
-      "per",
-      "per"
-    ],
-    "morfologia": "prep. com acc.",
-    "morph_render": "prep. com acc.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "prep. que denota movimento através de um espaço, extensão ao longo de; também durante (tempo); por, mediante",
-    "exemplos": [],
-    "notas": "Corrigida: não é prefixo independente aqui, é preposição com acusativo (Whitaker, Lat→Deu). | [dedupe] redirect → chunk_20107:20107:0 | [dedupe] redirect → chunk_20107:20107:0",
-    "raw_text": "{\"id\":\"chunk_20314:20314:0\",\"lemas\":[\"per\"],\"lema_canonico\":\"per\",\"morfologia\":\"prep. com acc.\",\"morph_extra\":[],\"definicao\":\"prep. que denota movimento através de um espaço, extensão ao longo de; também durante (tempo); por, mediante\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigida: não é prefixo independente aqui, é preposição com acusativo (Whitaker, Lat→Deu).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_20314:20314:0\",\"lemas\":[\"per\"],\"lema_canonico\":\"per\",\"morfologia\":\"prep. com acc.\",\"morph_extra\":[],\"definicao\":\"prep. que denota movimento através de um espaço, extensão ao longo de; também durante (tempo); por, mediante\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigida: não é prefixo independente aqui, é preposição com acusativo (Whitaker, Lat→Deu).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_20314-e3",
     "volume_id": "faria",
     "doc_name": "chunk_20314",
@@ -3014,28 +2486,6 @@
     "notas": "Tratado como adjetivo/particípio em -ēns (forma fēns) atestada em Whitaker; não plenamente registrado como lema independente em LS — confiança mediana.",
     "raw_text": "{\"id\":\"chunk_20314:20314:2\",\"lemas\":[\"fēns\",\"fens\"],\"lema_canonico\":\"fēns\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[],\"definicao\":\"forma/adjetivo/particípio relacionado a for (fāri) com sentido de 'sofrente, paciente' em contextos como perfēns (que sofre)\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 2, 184\"],\"notas\":\"Tratado como adjetivo/particípio em -ēns (forma fēns) atestada em Whitaker; não plenamente registrado como lema independente em LS — confiança mediana.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_20314:20314:2\",\"lemas\":[\"fēns\",\"fens\"],\"lema_canonico\":\"fēns\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[],\"definicao\":\"forma/adjetivo/particípio relacionado a for (fāri) com sentido de 'sofrente, paciente' em contextos como perfēns (que sofre)\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 2, 184\"],\"notas\":\"Tratado como adjetivo/particípio em -ēns (forma fēns) atestada em Whitaker; não plenamente registrado como lema independente em LS — confiança mediana.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_20314-e5",
-    "volume_id": "faria",
-    "doc_name": "chunk_20314",
-    "page_num": 20314,
-    "lemmas": [
-      "fari",
-      "fari"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "verbo deponente: falar, dizer; também anunciar, profetizar",
-    "exemplos": [],
-    "notas": "Formas e particípios (fatus) confirmados por Lewis & Short e Lat→Deu; indicado como deponente. | [dedupe] redirect → chunk_10762:10762:1 | [dedupe] redirect → chunk_10762:10762:1",
-    "raw_text": "{\"id\":\"chunk_20314:20314:3\",\"lemas\":[\"for\",\"fari\",\"fatus\"],\"lema_canonico\":\"fari\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"verbo deponente: falar, dizer; também anunciar, profetizar\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Formas e particípios (fatus) confirmados por Lewis & Short e Lat→Deu; indicado como deponente.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_20314:20314:3\",\"lemas\":[\"for\",\"fari\",\"fatus\"],\"lema_canonico\":\"fari\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"verbo deponente: falar, dizer; também anunciar, profetizar\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Formas e particípios (fatus) confirmados por Lewis & Short e Lat→Deu; indicado como deponente.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_20315-e1",
@@ -3456,28 +2906,6 @@
     "raw_json": "{\"id\":\"chunk_20333:20333:0\",\"lemas\":[\"perforatus\",\"perforātus\"],\"lema_canonico\":\"perforatus\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"participle perfect passive of perforō (perforāre): pierced, bored through, transfixed\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Identificado como PPP de perforō (perforāre); Lat→Deu and Whitaker attest perforatus for perforō.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_20334-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20334",
-    "page_num": 20334,
-    "lemmas": [
-      "perfringo",
-      "perfringo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "to break through, to break or dash in pieces, to shatter (classical)",
-    "exemplos": [],
-    "notas": "Normalizado para perfringo (perfringere, perfrēgī, perfrāctum) conforme Lewis & Short and Lat→Deu. | [dedupe] redirect → chunk_20346:20346:0 | [dedupe] redirect → chunk_20346:20346:0",
-    "raw_text": "{\"id\":\"chunk_20334:20334:0\",\"lemas\":[\"perfringo\"],\"lema_canonico\":\"perfringo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"to break through, to break or dash in pieces, to shatter (classical)\",\"aliases\":[],\"exemplos\":[\"Liv. 21, 36\",\"Ov. Met. 12, 274\"],\"notas\":\"Normalizado para perfringo (perfringere, perfrēgī, perfrāctum) conforme Lewis & Short and Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_20334:20334:0\",\"lemas\":[\"perfringo\"],\"lema_canonico\":\"perfringo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"to break through, to break or dash in pieces, to shatter (classical)\",\"aliases\":[],\"exemplos\":[\"Liv. 21, 36\",\"Ov. Met. 12, 274\"],\"notas\":\"Normalizado para perfringo (perfringere, perfrēgī, perfrāctum) conforme Lewis & Short and Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_20335-e1",
     "volume_id": "faria",
     "doc_name": "chunk_20335",
@@ -3544,28 +2972,6 @@
     "raw_json": "{\"id\":\"chunk_20337:20337:0\",\"lemas\":[\"perfrictus\",\"perfricta\",\"perfrictum\"],\"lema_canonico\":\"perfrictus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito (passivo) de perfricō — esfregado, bem limado/abrasado\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Preferida leitura perfrictus (part. de perfrico) conforme Whitaker e Lewis & Short; correção de possível confusão com perfringō.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_20338-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20338",
-    "page_num": 20338,
-    "lemmas": [
-      "perfringo",
-      "perfringo"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada corresponde ao perfeito/forma reduzida; redireciona para lemma perfringo. | [ocr_fix 2025-08-17T19:50:55Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='perfringo' → 'perfringo'",
-    "raw_text": "{\"id\":\"chunk_20338:20338:0\",\"lemas\":[\"perfrīngō\"],\"lema_canonico\":\"perfringo\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"perfringo\"],\"exemplos\":[],\"notas\":\"Entrada corresponde ao perfeito/forma reduzida; redireciona para lemma perfringo.\",\"flags\":[\"src_firstpass\",\"src_ls\",\"conf:med\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_20338:20338:0\",\"lemas\":[\"perfrīngō\"],\"lema_canonico\":\"perfringo\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"perfringo\"],\"exemplos\":[],\"notas\":\"Entrada corresponde ao perfeito/forma reduzida; redireciona para lemma perfringo.\",\"flags\":[\"src_firstpass\",\"src_ls\",\"conf:med\",\"redirect_only\"]}"
-  },
-  {
     "id": "chunk_20339-e1",
     "volume_id": "faria",
     "doc_name": "chunk_20339",
@@ -3588,28 +2994,6 @@
     "raw_json": "{\"id\":\"chunk_20339:20339:0\",\"lemas\":[\"perfrequens\",\"perfrēquēns\"],\"lema_canonico\":\"perfrequens\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[],\"definicao\":\"muito frequentado, muito cheio, muito concorrido\",\"aliases\":[],\"exemplos\":[\"T. Liv. 41, 1, 5\"],\"notas\":\"Normalizada grafia para perfrequens; confirmado por Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_20340-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20340",
-    "page_num": 20340,
-    "lemmas": [
-      "perfrictus",
-      "perfrictus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "particípio perfeito passivo de perfrico; esfregado, raspado, limpo por fricção",
-    "exemplos": [],
-    "notas": "Forma reconstruída a partir de perfrīctiātus (OCR). Revisar variantes (‑frictus/‑frictatus).\n[ocr_pipeline 2025-08-16T23:15:58.073675Z] lemma_in='perfrictus' → 'perfrictus' | motivo: match direto em LS por lemma/lemma_norm | [ocr_fix 2025-08-17T01:12:42Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='perfrictus' → 'perfrictus' | [dedupe] redirect → chunk_20337:20337:0 | [dedupe] redirect → chunk_20337:20337:0",
-    "raw_text": "{\"id\":\"chunk_20340:20340:0\",\"lemas\":[\"perfrictus\",\"perfricta\",\"perfrictum\"],\"lema_canonico\":\"perfrictus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de perfrico; esfregado, raspado, limpo por fricção\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma reconstruída a partir de perfrīctiātus (OCR). Revisar variantes (‑frictus/‑frictatus).\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_20340:20340:0\",\"lemas\":[\"perfrictus\",\"perfricta\",\"perfrictum\"],\"lema_canonico\":\"perfrictus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de perfrico; esfregado, raspado, limpo por fricção\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma reconstruída a partir de perfrīctiātus (OCR). Revisar variantes (‑frictus/‑frictatus).\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
     "id": "chunk_20340-e2",
     "volume_id": "faria",
     "doc_name": "chunk_20340",
@@ -3630,50 +3014,6 @@
     "notas": "Paradigma normalizado e variantes de supino/particípio anotadas.",
     "raw_text": "{\"id\":\"chunk_20340:20340:1\",\"lemas\":[\"perfrico\"],\"lema_canonico\":\"perfrico\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"esfregar completamente; raspar, limpar por fricção; fig.: esfregar o rosto (perder a vergonha)\",\"aliases\":[],\"exemplos\":[\"Plin. H. N. 28, 190\",\"Cic. Pis. 61\",\"Cic. Tusc. 3, 41\"],\"notas\":\"Paradigma normalizado e variantes de supino/particípio anotadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_20340:20340:1\",\"lemas\":[\"perfrico\"],\"lema_canonico\":\"perfrico\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"esfregar completamente; raspar, limpar por fricção; fig.: esfregar o rosto (perder a vergonha)\",\"aliases\":[],\"exemplos\":[\"Plin. H. N. 28, 190\",\"Cic. Pis. 61\",\"Cic. Tusc. 3, 41\"],\"notas\":\"Paradigma normalizado e variantes de supino/particípio anotadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_20341-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20341",
-    "page_num": 20341,
-    "lemmas": [
-      "perfrictus",
-      "perfrictus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "particípio perfeito passivo de perfrico; usado como adjetivo 'perfricto, esfregado, atritado'.",
-    "exemplos": [],
-    "notas": "Particípio atestado em Lewis & Short e Lat→Deu; corrigida grafia e explicitação como adjetivo participial. | [dedupe] redirect → chunk_20337:20337:0 | [dedupe] redirect → chunk_20337:20337:0",
-    "raw_text": "{\"id\":\"chunk_20341:20341:0\",\"lemas\":[\"perfrictus\",\"perfricta\",\"perfrictum\"],\"lema_canonico\":\"perfrictus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de perfrico; usado como adjetivo 'perfricto, esfregado, atritado'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Particípio atestado em Lewis & Short e Lat→Deu; corrigida grafia e explicitação como adjetivo participial.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_20341:20341:0\",\"lemas\":[\"perfrictus\",\"perfricta\",\"perfrictum\"],\"lema_canonico\":\"perfrictus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de perfrico; usado como adjetivo 'perfricto, esfregado, atritado'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Particípio atestado em Lewis & Short e Lat→Deu; corrigida grafia e explicitação como adjetivo participial.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_20342-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20342",
-    "page_num": 20342,
-    "lemmas": [
-      "perfrico",
-      "perfrico"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "esfregar fortemente, friccionar; limpar por fricção; figurado, afastar a vergonha.",
-    "exemplos": [],
-    "notas": "Lemas e particípio confirmados por Lat→Deu e Whitaker; unify formas perfeitas conforme testemunhos lexicográficos. | [dedupe] redirect → chunk_20340:20340:1 | [dedupe] redirect → chunk_20340:20340:1",
-    "raw_text": "{\"id\":\"chunk_20342:20342:0\",\"lemas\":[\"perfrico\",\"perfricare\",\"perfricavi\",\"perfrictus\"],\"lema_canonico\":\"perfrico\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"esfregar fortemente, friccionar; limpar por fricção; figurado, afastar a vergonha.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Lemas e particípio confirmados por Lat→Deu e Whitaker; unify formas perfeitas conforme testemunhos lexicográficos.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_20342:20342:0\",\"lemas\":[\"perfrico\",\"perfricare\",\"perfricavi\",\"perfrictus\"],\"lema_canonico\":\"perfrico\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"esfregar fortemente, friccionar; limpar por fricção; figurado, afastar a vergonha.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Lemas e particípio confirmados por Lat→Deu e Whitaker; unify formas perfeitas conforme testemunhos lexicográficos.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_20343-e1",
@@ -3764,72 +3104,6 @@
     "raw_json": "{\"id\":\"chunk_20346:20346:0\",\"lemas\":[\"perfringo\",\"perfringō\",\"perfringere\"],\"lema_canonico\":\"perfringo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"quebrar, romper; reduzir em pedaços; transpor ou forçar passagem através de algo; (fig.) destruir, abater.\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 5, 89\",\"Caes. B.G. 1, 25\",\"Plaut. Mil. 1,1,26\",\"Liv. 21,36,8\",\"Ov. Met. 12,274\"],\"notas\":\"Paradigma e acepções verificados em Lewis & Short; exemplos expandidos e grafia normalizada.\",\"flags\":[\"src_ls\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_20347-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20347",
-    "page_num": 20347,
-    "lemmas": [
-      "perfrictus",
-      "perfrictus"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Particípio perfeito passivo baseado em perfricare (em algumas tradições também ligado a perfringo); significa 'esfregado/alisado por fricção'.",
-    "exemplos": [],
-    "notas": "Particípio atestado em Whitaker e Lat→Deu; morfologia representada como verbo + marca de particípio (morph_out_of_vocab não usado pois marcadores extras explicam) | [dedupe] redirect → chunk_20337:20337:0 | [dedupe] redirect → chunk_20337:20337:0",
-    "raw_text": "{\"id\":\"chunk_20347:20347:0\",\"lemas\":[\"perfrictus\",\"perfrīctus\"],\"lema_canonico\":\"perfrictus\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo baseado em perfricare (em algumas tradições também ligado a perfringo); significa 'esfregado/alisado por fricção'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Particípio atestado em Whitaker e Lat→Deu; morfologia representada como verbo + marca de particípio (morph_out_of_vocab não usado pois marcadores extras explicam)\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_20347:20347:0\",\"lemas\":[\"perfrictus\",\"perfrīctus\"],\"lema_canonico\":\"perfrictus\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo baseado em perfricare (em algumas tradições também ligado a perfringo); significa 'esfregado/alisado por fricção'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Particípio atestado em Whitaker e Lat→Deu; morfologia representada como verbo + marca de particípio (morph_out_of_vocab não usado pois marcadores extras explicam)\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_20347-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_20347",
-    "page_num": 20347,
-    "lemmas": [
-      "perfringo",
-      "perfringo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Quebrar através; frangar, despedaçar, rasgar; verbo da 3ª conjugação com formas perfrēgī, perfrāctus (cf. Lewis & Short).",
-    "exemplos": [],
-    "notas": "Léxico e exemplos segundo Lewis & Short; conserva separação de perfringo e perfricare families. | [dedupe] redirect → chunk_20346:20346:0 | [dedupe] redirect → chunk_20346:20346:0",
-    "raw_text": "{\"id\":\"chunk_20347:20347:1\",\"lemas\":[\"perfringo\",\"perfrīngō\"],\"lema_canonico\":\"perfringo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Quebrar através; frangar, despedaçar, rasgar; verbo da 3ª conjugação com formas perfrēgī, perfrāctus (cf. Lewis & Short).\",\"aliases\":[],\"exemplos\":[\"Liv. 21, 36, 8\",\"Plaut. Mil. 1, 1, 26\"],\"notas\":\"Léxico e exemplos segundo Lewis & Short; conserva separação de perfringo e perfricare families.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_20347:20347:1\",\"lemas\":[\"perfringo\",\"perfrīngō\"],\"lema_canonico\":\"perfringo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Quebrar através; frangar, despedaçar, rasgar; verbo da 3ª conjugação com formas perfrēgī, perfrāctus (cf. Lewis & Short).\",\"aliases\":[],\"exemplos\":[\"Liv. 21, 36, 8\",\"Plaut. Mil. 1, 1, 26\"],\"notas\":\"Léxico e exemplos segundo Lewis & Short; conserva separação de perfringo e perfricare families.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_20347-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_20347",
-    "page_num": 20347,
-    "lemmas": [
-      "perfrico",
-      "perfrico"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Verbo transitivo raro: esfregar vigorosamente, alisar por fricção (perfricāre, perfricō, perfricuī, perfrictum).",
-    "exemplos": [],
-    "notas": "Atestado em Whitaker e no resumo Lat→Deu; confirma particípio perfrictus associado a esta conjugação. | [dedupe] redirect → chunk_20340:20340:1 | [dedupe] redirect → chunk_20340:20340:1",
-    "raw_text": "{\"id\":\"chunk_20347:20347:2\",\"lemas\":[\"perfrico\",\"perfricare\"],\"lema_canonico\":\"perfrico\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"Verbo transitivo raro: esfregar vigorosamente, alisar por fricção (perfricāre, perfricō, perfricuī, perfrictum).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Atestado em Whitaker e no resumo Lat→Deu; confirma particípio perfrictus associado a esta conjugação.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_20347:20347:2\",\"lemas\":[\"perfrico\",\"perfricare\"],\"lema_canonico\":\"perfrico\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"Verbo transitivo raro: esfregar vigorosamente, alisar por fricção (perfricāre, perfricō, perfricuī, perfrictum).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Atestado em Whitaker e no resumo Lat→Deu; confirma particípio perfrictus associado a esta conjugação.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_20348-e1",
     "volume_id": "faria",
     "doc_name": "chunk_20348",
@@ -3850,28 +3124,6 @@
     "notas": "Classificado como particípio perfeito passivo; morfologia verbal aproximada (v. 3ª) com morph_extra indicado.",
     "raw_text": "{\"id\":\"chunk_20348:20348:0\",\"lemas\":[\"perfractus\",\"perfrāctus\"],\"lema_canonico\":\"perfractus\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de perfringō — quebrado, rompido; (ppp de perfringere)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Classificado como particípio perfeito passivo; morfologia verbal aproximada (v. 3ª) com morph_extra indicado.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_20348:20348:0\",\"lemas\":[\"perfractus\",\"perfrāctus\"],\"lema_canonico\":\"perfractus\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de perfringō — quebrado, rompido; (ppp de perfringere)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Classificado como particípio perfeito passivo; morfologia verbal aproximada (v. 3ª) com morph_extra indicado.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_20349-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20349",
-    "page_num": 20349,
-    "lemmas": [
-      "per-frŭor",
-      "per-frŭor"
-    ],
-    "morfologia": "v. 4ª (-īre)",
-    "morph_render": "v. 4ª (-īre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "gozar plenamente, usufruir muito; verbo deponente que se constrói com ablativo.",
-    "exemplos": [],
-    "notas": "Atestado por Lat→Deu como deponente (perfruor, perfrui, perfructus sum); construção com ablativo mantida. | [dedupe] redirect → chunk_20350:20350:0 | [dedupe] redirect → chunk_20350:20350:0 | [ocr_fix 2025-08-17T19:50:59Z] match direto em LS por lemma/lemma_norm | lemma_in='perfruor' → 'per-frŭor'",
-    "raw_text": "{\"id\":\"chunk_20349:20349:0\",\"lemas\":[\"perfruor\",\"perfrui\",\"perfructus\"],\"lema_canonico\":\"perfruor\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[\"dep.\",\"intr.\"],\"definicao\":\"gozar plenamente, usufruir muito; verbo deponente que se constrói com ablativo.\",\"aliases\":[],\"exemplos\":[\"Cic. Pis. 45\",\"Cic. Or. 1, 8\"],\"notas\":\"Atestado por Lat→Deu como deponente (perfruor, perfrui, perfructus sum); construção com ablativo mantida.\",\"flags\":[\"src_latdeu\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_20349:20349:0\",\"lemas\":[\"perfruor\",\"perfrui\",\"perfructus\"],\"lema_canonico\":\"perfruor\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[\"dep.\",\"intr.\"],\"definicao\":\"gozar plenamente, usufruir muito; verbo deponente que se constrói com ablativo.\",\"aliases\":[],\"exemplos\":[\"Cic. Pis. 45\",\"Cic. Or. 1, 8\"],\"notas\":\"Atestado por Lat→Deu como deponente (perfruor, perfrui, perfructus sum); construção com ablativo mantida.\",\"flags\":[\"src_latdeu\",\"conf:med\"]}"
   },
   {
     "id": "chunk_20350-e1",
@@ -3916,50 +3168,6 @@
     "notas": "Gênero masculino da 1ª declinação conforme Lewis & Short; sentido 'deserter, transfuga'. | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='perfuga' → 'perfŭga'",
     "raw_text": "{\"id\":\"chunk_20351:20351:0\",\"lemas\":[\"perfuga\"],\"lema_canonico\":\"perfuga\",\"morfologia\":\"s. masc. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"desertor; aquele que passa ao inimigo (transfuga).\",\"aliases\":[],\"exemplos\":[\"Caes. B. G. 3, 18, 6\"],\"notas\":\"Gênero masculino da 1ª declinação conforme Lewis & Short; sentido 'deserter, transfuga'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_20351:20351:0\",\"lemas\":[\"perfuga\"],\"lema_canonico\":\"perfuga\",\"morfologia\":\"s. masc. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"desertor; aquele que passa ao inimigo (transfuga).\",\"aliases\":[],\"exemplos\":[\"Caes. B. G. 3, 18, 6\"],\"notas\":\"Gênero masculino da 1ª declinação conforme Lewis & Short; sentido 'deserter, transfuga'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_20352-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20352",
-    "page_num": 20352,
-    "lemmas": [
-      "perfugio",
-      "perfugio"
-    ],
-    "morfologia": "v. 3ª -iō (-ere)",
-    "morph_render": "v. 3ª -iō (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "fugir para, procurar refúgio; desertar, passar para o lado de; também 'procurar desculpa'.",
-    "exemplos": [],
-    "notas": "Formas e sentido confirmados por Lat→Deu e Whitaker; indicado como verbo com perfeito perfugi. | [dedupe] redirect → chunk_20330:20330:0 | [dedupe] redirect → chunk_20330:20330:0",
-    "raw_text": "{\"id\":\"chunk_20352:20352:0\",\"lemas\":[\"perfugio\",\"perfugere\",\"perfugi\",\"perfugitum\"],\"lema_canonico\":\"perfugio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[\"intr.\",\"tr.\"],\"definicao\":\"fugir para, procurar refúgio; desertar, passar para o lado de; também 'procurar desculpa'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Formas e sentido confirmados por Lat→Deu e Whitaker; indicado como verbo com perfeito perfugi.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_20352:20352:0\",\"lemas\":[\"perfugio\",\"perfugere\",\"perfugi\",\"perfugitum\"],\"lema_canonico\":\"perfugio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[\"intr.\",\"tr.\"],\"definicao\":\"fugir para, procurar refúgio; desertar, passar para o lado de; também 'procurar desculpa'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Formas e sentido confirmados por Lat→Deu e Whitaker; indicado como verbo com perfeito perfugi.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_20353-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20353",
-    "page_num": 20353,
-    "lemmas": [
-      "perfugio",
-      "perfugio"
-    ],
-    "morfologia": "v. 3ª -iō (-ere)",
-    "morph_render": "v. 3ª -iō (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "(v.) refugiar‑se, escapar‑se para; desertar. (s.) perfugium: refúgio, asilo, desculpa",
-    "exemplos": [],
-    "notas": "Versão alternativa do mesmo lema; formas e sentidos confirmados por Whitaker e LS. | [dedupe] redirect → chunk_20330:20330:0 | [dedupe] redirect → chunk_20330:20330:0",
-    "raw_text": "{\"id\":\"chunk_20353:20353:0\",\"lemas\":[\"perfugio\",\"perfugiō\",\"perfugium\"],\"lema_canonico\":\"perfugio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[\"s. neut. 2ª (-i)\"],\"definicao\":\"(v.) refugiar‑se, escapar‑se para; desertar. (s.) perfugium: refúgio, asilo, desculpa\",\"aliases\":[],\"exemplos\":[\"C. Nep. Dion. 5, 1\",\"Cæs. B. C. 3, 61\"],\"notas\":\"Versão alternativa do mesmo lema; formas e sentidos confirmados por Whitaker e LS.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_20353:20353:0\",\"lemas\":[\"perfugio\",\"perfugiō\",\"perfugium\"],\"lema_canonico\":\"perfugio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[\"s. neut. 2ª (-i)\"],\"definicao\":\"(v.) refugiar‑se, escapar‑se para; desertar. (s.) perfugium: refúgio, asilo, desculpa\",\"aliases\":[],\"exemplos\":[\"C. Nep. Dion. 5, 1\",\"Cæs. B. C. 3, 61\"],\"notas\":\"Versão alternativa do mesmo lema; formas e sentidos confirmados por Whitaker e LS.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
   },
   {
     "id": "chunk_20354-e1",
@@ -4292,50 +3500,6 @@
     "raw_json": "{\"id\":\"chunk_20367:20367:0\",\"lemas\":[\"Pergamas\",\"Pergamās\"],\"lema_canonico\":\"Pergamas\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo a Pérgamo (cidade).\",\"aliases\":[],\"exemplos\":[\"Verg. En. 3, 110\"],\"notas\":\"Grafia normalizada sem macron como forma canónica; atestado em passagens latinas.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}"
   },
   {
-    "id": "chunk_20368-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20368",
-    "page_num": 20368,
-    "lemmas": [
-      "Pergămum",
-      "Pergămum"
-    ],
-    "morfologia": "s. fem. 2ª (-i)",
-    "morph_render": "s. fem. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "cidade de Pérgamo (topônimo); forma latina do nome grego Pergamum.",
-    "exemplos": [],
-    "notas": "Topônimo; género feminino conforme uso toponímico; precisa confirmação adicional.\n[ocr_pipeline 2025-08-16T23:15:53.012872Z] lemma_in='Pergamus' → 'Pergămum' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:12:35Z] match direto em LS por lemma/lemma_norm | lemma_in='Pergămum' → 'Pergămum' | [dedupe] redirect → chunk_20364:20364:0 | [dedupe] redirect → chunk_20364:20364:0",
-    "raw_text": "{\"id\":\"chunk_20368:20368:0\",\"lemas\":[\"Pergamus\",\"Pergamum\"],\"lema_canonico\":\"Pergamus\",\"morfologia\":\"s. fem. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"cidade de Pérgamo (topônimo); forma latina do nome grego Pergamum.\",\"aliases\":[\"Pergamum\"],\"exemplos\":[],\"notas\":\"Topônimo; género feminino conforme uso toponímico; precisa confirmação adicional.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_20368:20368:0\",\"lemas\":[\"Pergamus\",\"Pergamum\"],\"lema_canonico\":\"Pergamus\",\"morfologia\":\"s. fem. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"cidade de Pérgamo (topônimo); forma latina do nome grego Pergamum.\",\"aliases\":[\"Pergamum\"],\"exemplos\":[],\"notas\":\"Topônimo; género feminino conforme uso toponímico; precisa confirmação adicional.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_20369-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20369",
-    "page_num": 20369,
-    "lemmas": [
-      "Pergămum",
-      "Pergămum"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Pergamo (cidade); também Pergamus/Pergamum, cidade da Ásia Menor, capital do reino de Pérgamo.",
-    "exemplos": [],
-    "notas": "Forma original 'Pergamīni' parece variante/forma do léxico; lema canonizado para Pergamus/Pergamum; conferir genitivo e gênero em fontes primárias.\n[ocr_pipeline 2025-08-16T23:15:55.082334Z] lemma_in='Pergamus' → 'Pergămum' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:12:38Z] match direto em LS por lemma/lemma_norm | lemma_in='Pergămum' → 'Pergămum' | [dedupe] redirect → chunk_20364:20364:0 | [dedupe] redirect → chunk_20364:20364:0",
-    "raw_text": "{\"id\":\"chunk_20369:20369:0\",\"lemas\":[\"Pergamīni\",\"Pergamus\",\"Pergamum\"],\"lema_canonico\":\"Pergamus\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Pergamo (cidade); também Pergamus/Pergamum, cidade da Ásia Menor, capital do reino de Pérgamo.\",\"aliases\":[\"Pergamum\",\"Pergamus\"],\"exemplos\":[\"T. Liv. 27, 19, 1\",\"Verg. En. 3, 133\"],\"notas\":\"Forma original 'Pergamīni' parece variante/forma do léxico; lema canonizado para Pergamus/Pergamum; conferir genitivo e gênero em fontes primárias.\",\"flags\":[\"src_firstpass\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_20369:20369:0\",\"lemas\":[\"Pergamīni\",\"Pergamus\",\"Pergamum\"],\"lema_canonico\":\"Pergamus\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Pergamo (cidade); também Pergamus/Pergamum, cidade da Ásia Menor, capital do reino de Pérgamo.\",\"aliases\":[\"Pergamum\",\"Pergamus\"],\"exemplos\":[\"T. Liv. 27, 19, 1\",\"Verg. En. 3, 133\"],\"notas\":\"Forma original 'Pergamīni' parece variante/forma do léxico; lema canonizado para Pergamus/Pergamum; conferir genitivo e gênero em fontes primárias.\",\"flags\":[\"src_firstpass\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
     "id": "chunk_20370-e1",
     "volume_id": "faria",
     "doc_name": "chunk_20370",
@@ -4644,28 +3808,6 @@
     "raw_json": "{\"id\":\"chunk_20383:20383:0\",\"lemas\":[\"perhibeo\",\"perhibeō\",\"perhibēre\"],\"lema_canonico\":\"perhibeo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"1) apresentar, oferecer; 2) dizer, relatar, mencionar; 3) chamar, designar.\",\"aliases\":[],\"exemplos\":[\"Cic. At. 1, 1, 4\",\"Varr. R. Rust. 2, 5, 11\",\"Verg. En. 8, 135\",\"Cic. poet. Div. 2, 12\"],\"notas\":\"Paradigma normalizado para perhibēre, perhibuī, perhibitum; acepções conciliadas com LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_20384-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20384",
-    "page_num": 20384,
-    "lemmas": [
-      "perhibeo",
-      "perhibeo"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "dizer, relatar, mencionar; atribuir, considerar; oferecer, apresentar",
-    "exemplos": [],
-    "notas": "[dedupe] redirect → chunk_20383:20383:0 | [dedupe] redirect → chunk_20383:20383:0",
-    "raw_text": "{\"id\":\"chunk_20384:20384:0\",\"lemas\":[\"perhibeo\",\"perhibere\"],\"lema_canonico\":\"perhibeo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"dizer, relatar, mencionar; atribuir, considerar; oferecer, apresentar\",\"aliases\":[],\"exemplos\":[],\"notas\":\"\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_20384:20384:0\",\"lemas\":[\"perhibeo\",\"perhibere\"],\"lema_canonico\":\"perhibeo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"dizer, relatar, mencionar; atribuir, considerar; oferecer, apresentar\",\"aliases\":[],\"exemplos\":[],\"notas\":\"\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_20385-e1",
     "volume_id": "faria",
     "doc_name": "chunk_20385",
@@ -4774,28 +3916,6 @@
     "notas": "Flexões e definição alinhadas com Whitaker; mantida citação clássica. | [ocr_fix 2025-08-17T19:50:55Z] match direto em LS por lemma/lemma_norm | lemma_in='perhorridus' → 'pĕr-horrĭdus'",
     "raw_text": "{\"id\":\"chunk_20389:20389:0\",\"lemas\":[\"perhorridus\",\"perhorrida\",\"perhorridum\"],\"lema_canonico\":\"perhorridus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"terrível, espantoso, muito horrível\",\"aliases\":[],\"exemplos\":[\"T. Liv. 22, 16, 4\"],\"notas\":\"Flexões e definição alinhadas com Whitaker; mantida citação clássica.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_20389:20389:0\",\"lemas\":[\"perhorridus\",\"perhorrida\",\"perhorridum\"],\"lema_canonico\":\"perhorridus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"terrível, espantoso, muito horrível\",\"aliases\":[],\"exemplos\":[\"T. Liv. 22, 16, 4\"],\"notas\":\"Flexões e definição alinhadas com Whitaker; mantida citação clássica.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_20390-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20390",
-    "page_num": 20390,
-    "lemmas": [
-      "perhorrui",
-      "perhorrui"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 1,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "(forma perfeita) perfe. indic. de perhorrēscere — ‘tremer de horror, estremecer’",
-    "exemplos": [],
-    "notas": "Entrada originalmente apresentada como forma perfeita; apontado o infinitivo correspondente. Ver perhorrescere.",
-    "raw_text": "{\"id\":\"chunk_20390:20390:0\",\"lemas\":[\"perhorrui\"],\"lema_canonico\":\"perhorrui\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"(forma perfeita) perfe. indic. de perhorrēscere — ‘tremer de horror, estremecer’\",\"aliases\":[\"perhorrescere\",\"perhorrēscere\"],\"exemplos\":[],\"notas\":\"Entrada originalmente apresentada como forma perfeita; apontado o infinitivo correspondente. Ver perhorrescere.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_firstpass\",\"src_ocr\",\"conf:high\",\"needs_review\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_20390:20390:0\",\"lemas\":[\"perhorrui\"],\"lema_canonico\":\"perhorrui\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"(forma perfeita) perfe. indic. de perhorrēscere — ‘tremer de horror, estremecer’\",\"aliases\":[\"perhorrescere\",\"perhorrēscere\"],\"exemplos\":[],\"notas\":\"Entrada originalmente apresentada como forma perfeita; apontado o infinitivo correspondente. Ver perhorrescere.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_firstpass\",\"src_ocr\",\"conf:high\",\"needs_review\",\"redirect_only\"]}"
   },
   {
     "id": "chunk_20391-e1",
@@ -4908,72 +4028,6 @@
     "raw_json": "{\"id\":\"chunk_20394:20394:0\",\"lemas\":[\"periculatio\",\"perīculātiō\"],\"lema_canonico\":\"periculatio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"ensaio, experiência, tentativa\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 2, 161\"],\"notas\":\"Lema e caso genitivo/declinação normalizados para -ōnis; verificado no OCR como perīcŭlātĭō.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_20395-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20395",
-    "page_num": 20395,
-    "lemmas": [
-      "periculum",
-      "periculum"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "perigo; risco; prova, tentativa, ensaio",
-    "exemplos": [],
-    "notas": "Corrigido gênero/declinação de 'periculus' (entrada OCR corrupta); adotado periculum n. conforme LS/Whitaker. | [dedupe] redirect → chunk_20401:20401:0 | [dedupe] redirect → chunk_20401:20401:0",
-    "raw_text": "{\"id\":\"chunk_20395:20395:0\",\"lemas\":[\"periculum\"],\"lema_canonico\":\"periculum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"perigo; risco; prova, tentativa, ensaio\",\"aliases\":[],\"exemplos\":[\"Ter. Eun. 3, 2, 23\",\"Cic. Verr. 1, 12, 34\"],\"notas\":\"Corrigido gênero/declinação de 'periculus' (entrada OCR corrupta); adotado periculum n. conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_20395:20395:0\",\"lemas\":[\"periculum\"],\"lema_canonico\":\"periculum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"perigo; risco; prova, tentativa, ensaio\",\"aliases\":[],\"exemplos\":[\"Ter. Eun. 3, 2, 23\",\"Cic. Verr. 1, 12, 34\"],\"notas\":\"Corrigido gênero/declinação de 'periculus' (entrada OCR corrupta); adotado periculum n. conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_20395-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_20395",
-    "page_num": 20395,
-    "lemmas": [
-      "pera",
-      "pera"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "sacola, alforje; bolsa pendente ao ombro para provisões do dia (também atrelada a cínicos)",
-    "exemplos": [],
-    "notas": "Confirmado como substantivo da 1ª declinação; grafia e significado segundo LS e Whitaker. | [dedupe] redirect → chunk_20108:20108:0 | [dedupe] redirect → chunk_20108:20108:0",
-    "raw_text": "{\"id\":\"chunk_20395:20395:1\",\"lemas\":[\"pera\"],\"lema_canonico\":\"pera\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"sacola, alforje; bolsa pendente ao ombro para provisões do dia (também atrelada a cínicos)\",\"aliases\":[],\"exemplos\":[\"Phaedr. 4, 10, 1\",\"Mart. 4, 53, 3\"],\"notas\":\"Confirmado como substantivo da 1ª declinação; grafia e significado segundo LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_20395:20395:1\",\"lemas\":[\"pera\"],\"lema_canonico\":\"pera\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"sacola, alforje; bolsa pendente ao ombro para provisões do dia (também atrelada a cínicos)\",\"aliases\":[],\"exemplos\":[\"Phaedr. 4, 10, 1\",\"Mart. 4, 53, 3\"],\"notas\":\"Confirmado como substantivo da 1ª declinação; grafia e significado segundo LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_20395-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_20395",
-    "page_num": 20395,
-    "lemmas": [
-      "periculum",
-      "periculum"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "um ensaio/prova; perigo, risco; tentativa, exame",
-    "exemplos": [],
-    "notas": "Retificado definição (remoção de hipótese de diminutivo improcedente); padronizado segundo LS/Whitaker. | [dedupe] redirect → chunk_20401:20401:0 | [dedupe] redirect → chunk_20401:20401:0",
-    "raw_text": "{\"id\":\"chunk_20395:20395:2\",\"lemas\":[\"periculum\"],\"lema_canonico\":\"periculum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"um ensaio/prova; perigo, risco; tentativa, exame\",\"aliases\":[],\"exemplos\":[\"Plaut. As. 3, 3, 27\",\"Caes. B. G. 4, 21\"],\"notas\":\"Retificado definição (remoção de hipótese de diminutivo improcedente); padronizado segundo LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_20395:20395:2\",\"lemas\":[\"periculum\"],\"lema_canonico\":\"periculum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"um ensaio/prova; perigo, risco; tentativa, exame\",\"aliases\":[],\"exemplos\":[\"Plaut. As. 3, 3, 27\",\"Caes. B. G. 4, 21\"],\"notas\":\"Retificado definição (remoção de hipótese de diminutivo improcedente); padronizado segundo LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_20396-e1",
     "volume_id": "faria",
     "doc_name": "chunk_20396",
@@ -5038,27 +4092,5 @@
     "notas": "Forma provavelmente corrompida por OCR; Whitaker não reconhece a variante. Mantida informação onomástica mas requer revisão filológica.",
     "raw_text": "{\"id\":\"chunk_20398:20398:0\",\"lemas\":[\"Perīclēmemĕnys\"],\"lema_canonico\":\"Perīclēmemĕnys\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"entrada provavelmente referente a nome próprio mitológico (Periclymenus) ou variante; dados incertos\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 12, 536\",\"Plin. H. Nat. 34, 91\"],\"notas\":\"Forma provavelmente corrompida por OCR; Whitaker não reconhece a variante. Mantida informação onomástica mas requer revisão filológica.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_20398:20398:0\",\"lemas\":[\"Perīclēmemĕnys\"],\"lema_canonico\":\"Perīclēmemĕnys\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"entrada provavelmente referente a nome próprio mitológico (Periclymenus) ou variante; dados incertos\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 12, 536\",\"Plin. H. Nat. 34, 91\"],\"notas\":\"Forma provavelmente corrompida por OCR; Whitaker não reconhece a variante. Mantida informação onomástica mas requer revisão filológica.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_20399-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_20399",
-    "page_num": 20399,
-    "lemmas": [
-      "perlĭbenter",
-      "perlĭbenter"
-    ],
-    "morfologia": "adv.",
-    "morph_render": "adv.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "perigosamente, com risco",
-    "exemplos": [],
-    "notas": "Grafia normalizada a partir do OCR; forma adverbial atestada em fontes tardias/epigráficas (verificar ocorrência clássica).\n[ocr_pipeline 2025-08-16T23:15:54.039826Z] lemma_in='periclitose' → 'perlĭbenter' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:12:37Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='perlĭbenter' → 'perlĭbenter' | [dedupe] redirect → chunk_20462:20462:0 | [dedupe] redirect → chunk_20462:20462:0",
-    "raw_text": "{\"id\":\"chunk_20399:20399:0\",\"lemas\":[\"periclitose\",\"perīclitōsē\"],\"lema_canonico\":\"periclitose\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"perigosamente, com risco\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 8, 2, 3\"],\"notas\":\"Grafia normalizada a partir do OCR; forma adverbial atestada em fontes tardias/epigráficas (verificar ocorrência clássica).\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_20399:20399:0\",\"lemas\":[\"periclitose\",\"perīclitōsē\"],\"lema_canonico\":\"periclitose\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"perigosamente, com risco\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 8, 2, 3\"],\"notas\":\"Grafia normalizada a partir do OCR; forma adverbial atestada em fontes tardias/epigráficas (verificar ocorrência clássica).\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   }
 ]

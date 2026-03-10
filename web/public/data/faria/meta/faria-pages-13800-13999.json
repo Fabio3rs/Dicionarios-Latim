@@ -22,28 +22,6 @@
     "raw_json": "{\"id\":\"chunk_13800:13800:0\",\"lemas\":[\"indicium\"],\"lema_canonico\":\"indicium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"indicação, notícia, denúncia; sinal, indício, prova\",\"aliases\":[],\"exemplos\":[\"Sen. Contr. 9, 3, 1\",\"Cic. Cat. 3, 13, 11\"],\"notas\":\"Padronizada morfologia para segunda declinação neutra; sentidos ampliados conforme LS/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_13801-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_13801",
-    "page_num": 13801,
-    "lemmas": [
-      "indicium",
-      "indicium"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "indicação, informação, revelação; indício, sinal, prova",
-    "exemplos": [],
-    "notas": "Entrada duplicada de 'indicium' normalizada à forma canónica e morfologia consistente. | [dedupe] redirect → chunk_13800:13800:0 | [dedupe] redirect → chunk_13800:13800:0",
-    "raw_text": "{\"id\":\"chunk_13801:13801:0\",\"lemas\":[\"indicium\"],\"lema_canonico\":\"indicium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"indicação, informação, revelação; indício, sinal, prova\",\"aliases\":[],\"exemplos\":[\"Cic. Cat. 3, 13, 11\",\"Cic. Clu. 30\"],\"notas\":\"Entrada duplicada de 'indicium' normalizada à forma canónica e morfologia consistente.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_13801:13801:0\",\"lemas\":[\"indicium\"],\"lema_canonico\":\"indicium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"indicação, informação, revelação; indício, sinal, prova\",\"aliases\":[],\"exemplos\":[\"Cic. Cat. 3, 13, 11\",\"Cic. Clu. 30\"],\"notas\":\"Entrada duplicada de 'indicium' normalizada à forma canónica e morfologia consistente.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_13802-e1",
     "volume_id": "faria",
     "doc_name": "chunk_13802",
@@ -88,28 +66,6 @@
     "raw_json": "{\"id\":\"chunk_13803:13803:2\",\"lemas\":[\"indicus\",\"indica\",\"indicum\"],\"lema_canonico\":\"indicus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Da Índia; indiano; relativo a produtos ou características indianas (ex.: marfim indiano).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizado a forma adjetival clássica (cf. Whitaker, Lewis & Short).\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_13803-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_13803",
-    "page_num": 13803,
-    "lemmas": [
-      "in-dĭco",
-      "in-dĭco"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Declarar, anunciar, tornar conhecido; indicar, apontar.",
-    "exemplos": [],
-    "notas": "Preferida a análise como indicāre (v. 1ª). Exemplos extraídos do trecho OCR que descreve usos clássicos. | [dedupe] redirect → chunk_13802:13802:0 | [dedupe] redirect → chunk_13802:13802:0 | [ocr_fix 2025-08-17T19:58:16Z] match direto em LS por lemma/lemma_norm | lemma_in='indico' → 'in-dĭco'",
-    "raw_text": "{\"id\":\"chunk_13803:13803:3\",\"lemas\":[\"indico\"],\"lema_canonico\":\"indico\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"Declarar, anunciar, tornar conhecido; indicar, apontar.\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 4, 727\",\"Caes. B. Gal. 5, 56, 1\",\"Plaut. Ps. 546\"],\"notas\":\"Preferida a análise como indicāre (v. 1ª). Exemplos extraídos do trecho OCR que descreve usos clássicos.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_13803:13803:3\",\"lemas\":[\"indico\"],\"lema_canonico\":\"indico\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"Declarar, anunciar, tornar conhecido; indicar, apontar.\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 4, 727\",\"Caes. B. Gal. 5, 56, 1\",\"Plaut. Ps. 546\"],\"notas\":\"Preferida a análise como indicāre (v. 1ª). Exemplos extraídos do trecho OCR que descreve usos clássicos.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_13803-e3",
     "volume_id": "faria",
     "doc_name": "chunk_13803",
@@ -130,28 +86,6 @@
     "notas": "Forma clássica indicō (3ª conj.) confirmada; corrigido OCR e normalizada a partir de LS. | [ocr_fix 2025-08-17T19:58:17Z] match direto em LS por lemma/lemma_norm | lemma_in='indico' → 'in-dĭco'",
     "raw_text": "{\"id\":\"chunk_13803:13803:0\",\"lemas\":[\"indico\"],\"lema_canonico\":\"indico\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Proclamar, declarar, anunciar; também notificar, prescrever; indicar (dar sinal).\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 4, 727\",\"Caes. B. Gal. 5, 56, 1\",\"Tac. Hist. 3, 88\",\"Plaut. Ps. 546\"],\"notas\":\"Forma clássica indicō (3ª conj.) confirmada; corrigido OCR e normalizada a partir de LS.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_13803:13803:0\",\"lemas\":[\"indico\"],\"lema_canonico\":\"indico\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Proclamar, declarar, anunciar; também notificar, prescrever; indicar (dar sinal).\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 4, 727\",\"Caes. B. Gal. 5, 56, 1\",\"Tac. Hist. 3, 88\",\"Plaut. Ps. 546\"],\"notas\":\"Forma clássica indicō (3ª conj.) confirmada; corrigido OCR e normalizada a partir de LS.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_13803-e4",
-    "volume_id": "faria",
-    "doc_name": "chunk_13803",
-    "page_num": 13803,
-    "lemmas": [
-      "in-dĭco",
-      "in-dĭco"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Proclamar, declarar, anunciar; notificar, prescrever; dar sinal (de dança).",
-    "exemplos": [],
-    "notas": "Entrada retificada (removida classificação espúria como 1ª conj.); mantidas citações mencionadas na 1ª passada. | [dedupe] redirect → chunk_13803:13803:0 | [dedupe] redirect → chunk_13803:13803:0 | [ocr_fix 2025-08-17T19:58:17Z] match direto em LS por lemma/lemma_norm | lemma_in='indico' → 'in-dĭco'",
-    "raw_text": "{\"id\":\"chunk_13803:13803:1\",\"lemas\":[\"indico\"],\"lema_canonico\":\"indico\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Proclamar, declarar, anunciar; notificar, prescrever; dar sinal (de dança).\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 4, 727\",\"Plaut. Ps. 546\"],\"notas\":\"Entrada retificada (removida classificação espúria como 1ª conj.); mantidas citações mencionadas na 1ª passada.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_13803:13803:1\",\"lemas\":[\"indico\"],\"lema_canonico\":\"indico\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Proclamar, declarar, anunciar; notificar, prescrever; dar sinal (de dança).\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 4, 727\",\"Plaut. Ps. 546\"],\"notas\":\"Entrada retificada (removida classificação espúria como 1ª conj.); mantidas citações mencionadas na 1ª passada.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
     "id": "chunk_13804-e1",
@@ -218,28 +152,6 @@
     "notas": "Unificadas variantes gráficas (indictus/indīctus) e sentidos conforme Lewis & Short; exemplos preservados.",
     "raw_text": "{\"id\":\"chunk_13805:13805:0\",\"lemas\":[\"indictus\",\"indīctus\"],\"lema_canonico\":\"indictus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"adjetivo/particípio: 1) não dito, não mencionado; 2) não alegado/apresentado em juízo; 3) (fig.) inefável, não pronunciável\",\"aliases\":[],\"exemplos\":[\"Hor. O. 3, 25, 8\",\"Cic. Ver. 2, 75\",\"Apul. Fl. 1, 51\"],\"notas\":\"Unificadas variantes gráficas (indictus/indīctus) e sentidos conforme Lewis & Short; exemplos preservados.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_13805:13805:0\",\"lemas\":[\"indictus\",\"indīctus\"],\"lema_canonico\":\"indictus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"adjetivo/particípio: 1) não dito, não mencionado; 2) não alegado/apresentado em juízo; 3) (fig.) inefável, não pronunciável\",\"aliases\":[],\"exemplos\":[\"Hor. O. 3, 25, 8\",\"Cic. Ver. 2, 75\",\"Apul. Fl. 1, 51\"],\"notas\":\"Unificadas variantes gráficas (indictus/indīctus) e sentidos conforme Lewis & Short; exemplos preservados.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_13806-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_13806",
-    "page_num": 13806,
-    "lemmas": [
-      "Indicus",
-      "Indicus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Relativo à Índia; índico, indiano.",
-    "exemplos": [],
-    "notas": "Adjetivo com substantivo relacionado Indĭcum (n.) 'indigo' atestado em Plínio; forma canônica Indicus. | [dedupe] redirect → chunk_13803:13803:2 | [dedupe] redirect → chunk_13803:13803:2",
-    "raw_text": "{\"id\":\"chunk_13806:13806:0\",\"lemas\":[\"Indicus\",\"Indica\",\"Indicum\"],\"lema_canonico\":\"Indicus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo à Índia; índico, indiano.\",\"aliases\":[],\"exemplos\":[\"Ter. Eun. 3, 1, 23\",\"Plin. 33, 13, §163\"],\"notas\":\"Adjetivo com substantivo relacionado Indĭcum (n.) 'indigo' atestado em Plínio; forma canônica Indicus.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_13806:13806:0\",\"lemas\":[\"Indicus\",\"Indica\",\"Indicum\"],\"lema_canonico\":\"Indicus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo à Índia; índico, indiano.\",\"aliases\":[],\"exemplos\":[\"Ter. Eun. 3, 1, 23\",\"Plin. 33, 13, §163\"],\"notas\":\"Adjetivo com substantivo relacionado Indĭcum (n.) 'indigo' atestado em Plínio; forma canônica Indicus.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_13807-e1",
@@ -594,28 +506,6 @@
     "raw_json": "{\"id\":\"chunk_13821:13821:1\",\"lemas\":[\"indignatiuncula\"],\"lema_canonico\":\"indignatiuncula\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"diminutivo de indignatio: pequena indignação, leve sentimento de cólera\",\"aliases\":[],\"exemplos\":[\"Plin. Ep. 6, 17, 1\",\"Cic. Inv. 1, 100\"],\"notas\":\"Atestado em Lewis & Short; forma listed como indīgnātiuncula -ae f. em Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_13822-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_13822",
-    "page_num": 13822,
-    "lemmas": [
-      "indignatiuncula",
-      "indignatiuncula"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "ligeira indignação; pequeno acesso de ira (ex.: indignatiunculam capere).",
-    "exemplos": [],
-    "notas": "Grafia normalizada; confirmado em Lewis & Short. | [dedupe] redirect → chunk_13821:13821:1 | [dedupe] redirect → chunk_13821:13821:1",
-    "raw_text": "{\"id\":\"chunk_13822:13822:0\",\"lemas\":[\"indignatiuncula\"],\"lema_canonico\":\"indignatiuncula\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"ligeira indignação; pequeno acesso de ira (ex.: indignatiunculam capere).\",\"aliases\":[],\"exemplos\":[\"Plin. Ep. 6, 17, 1\"],\"notas\":\"Grafia normalizada; confirmado em Lewis & Short.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_13822:13822:0\",\"lemas\":[\"indignatiuncula\"],\"lema_canonico\":\"indignatiuncula\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"ligeira indignação; pequeno acesso de ira (ex.: indignatiunculam capere).\",\"aliases\":[],\"exemplos\":[\"Plin. Ep. 6, 17, 1\"],\"notas\":\"Grafia normalizada; confirmado em Lewis & Short.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_13823-e1",
     "volume_id": "faria",
     "doc_name": "chunk_13823",
@@ -726,28 +616,6 @@
     "raw_json": "{\"id\":\"chunk_13827:13827:0\",\"lemas\":[\"indignus\",\"indigna\",\"indignum\"],\"lema_canonico\":\"indignus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"não digno, indigno; que não merece; indecoroso, vergonhoso, intolerável (sentidos próprios e figurados)\",\"aliases\":[],\"exemplos\":[\"Cés. B. Gal. 7, 17, 3\",\"Cic. Vat. 39\",\"Cic. Verr. 4, 147\"],\"notas\":\"Formas e sentidos confirmados por Whitaker e Lat→Deu; entrada padronizada para as três formas de gênero.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_13828-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_13828",
-    "page_num": 13828,
-    "lemmas": [
-      "indigus",
-      "indigus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "necessitado, carente; poetic./post-Aug.: desejoso de algo (governa gen. ou abl.; também usado em absoluto)",
-    "exemplos": [],
-    "notas": "Regência com genitivo ou ablativo indicada conforme LS/Whitaker. | [dedupe] redirect → chunk_13778:13778:0 | [dedupe] redirect → chunk_13778:13778:0",
-    "raw_text": "{\"id\":\"chunk_13828:13828:0\",\"lemas\":[\"indigus\"],\"lema_canonico\":\"indigus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"necessitado, carente; poetic./post-Aug.: desejoso de algo (governa gen. ou abl.; também usado em absoluto)\",\"aliases\":[],\"exemplos\":[\"Verg. G. 2, 428\",\"Luc. 9, 254\"],\"notas\":\"Regência com genitivo ou ablativo indicada conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_13828:13828:0\",\"lemas\":[\"indigus\"],\"lema_canonico\":\"indigus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"necessitado, carente; poetic./post-Aug.: desejoso de algo (governa gen. ou abl.; também usado em absoluto)\",\"aliases\":[],\"exemplos\":[\"Verg. G. 2, 428\",\"Luc. 9, 254\"],\"notas\":\"Regência com genitivo ou ablativo indicada conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_13829-e1",
     "volume_id": "faria",
     "doc_name": "chunk_13829",
@@ -834,28 +702,6 @@
     "notas": "Entrada harmonizada como deponente; particípio indicado 'indeptus' mantido como forma histórica.",
     "raw_text": "{\"id\":\"chunk_13831:13831:1\",\"lemas\":[\"indipiscor\",\"indipisco\"],\"lema_canonico\":\"indipiscor\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"Verbo deponente: obter, alcançar, adquirir; também ‘começar’ (transf.).\",\"aliases\":[],\"exemplos\":[\"Plaut. Rud. 5, 2, 28\",\"Liv. 26, 39, 12\",\"Lucr. 3, 212\"],\"notas\":\"Entrada harmonizada como deponente; particípio indicado 'indeptus' mantido como forma histórica.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_13831:13831:1\",\"lemas\":[\"indipiscor\",\"indipisco\"],\"lema_canonico\":\"indipiscor\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"Verbo deponente: obter, alcançar, adquirir; também ‘começar’ (transf.).\",\"aliases\":[],\"exemplos\":[\"Plaut. Rud. 5, 2, 28\",\"Liv. 26, 39, 12\",\"Lucr. 3, 212\"],\"notas\":\"Entrada harmonizada como deponente; particípio indicado 'indeptus' mantido como forma histórica.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_13832-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_13832",
-    "page_num": 13832,
-    "lemmas": [
-      "indipiscor",
-      "indipiscor"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Verbo deponente: obter, alcançar, conseguir; também ‘começar’ em usos transferidos (sentidos atestados em autores antigos).",
-    "exemplos": [],
-    "notas": "Forma e sentido reconciliados com Lewis & Short; marcado como deponente em morph_extra. | [dedupe] redirect → chunk_13831:13831:1 | [dedupe] redirect → chunk_13831:13831:1",
-    "raw_text": "{\"id\":\"chunk_13832:13832:0\",\"lemas\":[\"indipiscor\"],\"lema_canonico\":\"indipiscor\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"Verbo deponente: obter, alcançar, conseguir; também ‘começar’ em usos transferidos (sentidos atestados em autores antigos).\",\"aliases\":[],\"exemplos\":[\"Plaut. Rud. 5, 2, 28\",\"Lucr. 3, 212\"],\"notas\":\"Forma e sentido reconciliados com Lewis & Short; marcado como deponente em morph_extra.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_13832:13832:0\",\"lemas\":[\"indipiscor\"],\"lema_canonico\":\"indipiscor\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"Verbo deponente: obter, alcançar, conseguir; também ‘começar’ em usos transferidos (sentidos atestados em autores antigos).\",\"aliases\":[],\"exemplos\":[\"Plaut. Rud. 5, 2, 28\",\"Lucr. 3, 212\"],\"notas\":\"Forma e sentido reconciliados com Lewis & Short; marcado como deponente em morph_extra.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_13833-e1",
@@ -1034,28 +880,6 @@
     "raw_json": "{\"id\":\"chunk_13839:13839:1\",\"lemas\":[\"indisposite\"],\"lema_canonico\":\"indisposite\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"indisposite: desordenadamente, sem regularidade.\",\"aliases\":[],\"exemplos\":[\"Sén. Ep. 124, 19\"],\"notas\":\"Advérbio derivado de indispositus; forma e exemplo atestados em Whitaker e em fonte citada.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_13839-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_13839",
-    "page_num": 13839,
-    "lemmas": [
-      "E",
-      "E"
-    ],
-    "morfologia": "prep. com abl.",
-    "morph_render": "prep. com abl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "preposição com ablativo: de, a partir de; por causa de; segundo.",
-    "exemplos": [],
-    "notas": "Fontes divergentes: Whitaker lista 'e' como prep. com abl.; outra fonte (Lat→Deu resumo) sugeria leitura distinta (-ē como desinência). Resolvido aqui como preposição; ver conflito nas flags.\n[ocr_pipeline 2025-08-16T23:25:39.611935Z] lemma_in='e' → 'E' | motivo: match direto em LS por lemma/lemma_norm | [ocr_fix 2025-08-17T01:25:42Z] match direto em LS por lemma/lemma_norm | lemma_in='E' → 'E' | [dedupe] redirect → chunk_17879:17879:0 | [dedupe] redirect → chunk_17879:17879:0",
-    "raw_text": "{\"id\":\"chunk_13839:13839:2\",\"lemas\":[\"e\"],\"lema_canonico\":\"e\",\"morfologia\":\"prep. com abl.\",\"morph_extra\":[],\"definicao\":\"preposição com ablativo: de, a partir de; por causa de; segundo.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Fontes divergentes: Whitaker lista 'e' como prep. com abl.; outra fonte (Lat→Deu resumo) sugeria leitura distinta (-ē como desinência). Resolvido aqui como preposição; ver conflito nas flags.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:low\"]}",
-    "raw_json": "{\"id\":\"chunk_13839:13839:2\",\"lemas\":[\"e\"],\"lema_canonico\":\"e\",\"morfologia\":\"prep. com abl.\",\"morph_extra\":[],\"definicao\":\"preposição com ablativo: de, a partir de; por causa de; segundo.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Fontes divergentes: Whitaker lista 'e' como prep. com abl.; outra fonte (Lat→Deu resumo) sugeria leitura distinta (-ē como desinência). Resolvido aqui como preposição; ver conflito nas flags.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:low\"]}"
-  },
-  {
     "id": "chunk_13840-e1",
     "volume_id": "faria",
     "doc_name": "chunk_13840",
@@ -1098,28 +922,6 @@
     "notas": "Lemma normalized to indissolubilis with neuter indissolubile; attested in LS/Whitaker.",
     "raw_text": "{\"id\":\"chunk_13841:13841:0\",\"lemas\":[\"indissolubilis\",\"indissolubile\"],\"lema_canonico\":\"indissolubilis\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"not dissolvable; indissoluble, indestructible; (fig.) imperishable\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 11, 81\",\"Cic. Tim. 40\"],\"notas\":\"Lemma normalized to indissolubilis with neuter indissolubile; attested in LS/Whitaker.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_13841:13841:0\",\"lemas\":[\"indissolubilis\",\"indissolubile\"],\"lema_canonico\":\"indissolubilis\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"not dissolvable; indissoluble, indestructible; (fig.) imperishable\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 11, 81\",\"Cic. Tim. 40\"],\"notas\":\"Lemma normalized to indissolubilis with neuter indissolubile; attested in LS/Whitaker.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_13842-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_13842",
-    "page_num": 13842,
-    "lemmas": [
-      "in-distinctus",
-      "in-distinctus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Não distinto; não separado, confuso; obscuro; modesto, sem ostentação.",
-    "exemplos": [],
-    "notas": "Unificado a partir de entradas e exemplos; classificação como adjetivo 1/2 (indistinctus, -a, -um). | [dedupe] redirect → chunk_13843:13843:0 | [dedupe] redirect → chunk_13843:13843:0 | [ocr_fix 2025-08-17T19:58:17Z] match direto em LS por lemma/lemma_norm | lemma_in='indistinctus' → 'in-distinctus'",
-    "raw_text": "{\"id\":\"chunk_13842:13842:0\",\"lemas\":[\"indistinctus\",\"indistincta\",\"indistinctum\"],\"lema_canonico\":\"indistinctus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Não distinto; não separado, confuso; obscuro; modesto, sem ostentação.\",\"aliases\":[],\"exemplos\":[\"Catul. 64, 283\",\"Tac. Ann. 6, 8\"],\"notas\":\"Unificado a partir de entradas e exemplos; classificação como adjetivo 1/2 (indistinctus, -a, -um).\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_13842:13842:0\",\"lemas\":[\"indistinctus\",\"indistincta\",\"indistinctum\"],\"lema_canonico\":\"indistinctus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Não distinto; não separado, confuso; obscuro; modesto, sem ostentação.\",\"aliases\":[],\"exemplos\":[\"Catul. 64, 283\",\"Tac. Ann. 6, 8\"],\"notas\":\"Unificado a partir de entradas e exemplos; classificação como adjetivo 1/2 (indistinctus, -a, -um).\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
     "id": "chunk_13843-e1",
@@ -1540,28 +1342,6 @@
     "raw_json": "{\"id\":\"chunk_13860:13860:0\",\"lemas\":[\"Indutiomarus\",\"Inductiomarus\",\"Indutiomārus\"],\"lema_canonico\":\"Indutiomarus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"nome próprio: chefe dos Trēviri, adversário de César\",\"aliases\":[],\"exemplos\":[\"Caes. B. G. 5, 3\",\"Cic. Font. 17\"],\"notas\":\"Nome próprio gaulês atestado em Caesar; variantes grafadas por fontes clássicas.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_13861-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_13861",
-    "page_num": 13861,
-    "lemmas": [
-      "induco",
-      "induco"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Levar, conduzir, introduzir; também: persuadir, induzir; revestir, causar, representar (vários usos transitivos e figurados).",
-    "exemplos": [],
-    "notas": "Lema e sentidos confirmados por fontes externas (Whitaker, Lat→Deu); normalizada a forma canónica indūcō, -ere. | [dedupe] redirect → chunk_13847:13847:0 | [dedupe] redirect → chunk_13847:13847:0",
-    "raw_text": "{\"id\":\"chunk_13861:13861:0\",\"lemas\":[\"induco\",\"indūcō\"],\"lema_canonico\":\"induco\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"Levar, conduzir, introduzir; também: persuadir, induzir; revestir, causar, representar (vários usos transitivos e figurados).\",\"aliases\":[],\"exemplos\":[\"T. Liv. 31, 28, 2\",\"Cés. B. Civ. 3, 12, 8\",\"Cic. Or. 1, 85\",\"Cic. Sull. 83\",\"Cic. Att. 7, 3, 8\",\"Verg. En. 8, 457\",\"Cés. B. Gal. 2, 33, 2\",\"Cic. Att. 13, 14, 1\",\"Cic. Att. 1, 20, 4\",\"Cic. Pis. 1, 11\",\"Cic. Off. 2, 15, 53\",\"Cic. Tusc. 5, 115\",\"Plaut. Capt. 149\",\"Ter. And. 883\"],\"notas\":\"Lema e sentidos confirmados por fontes externas (Whitaker, Lat→Deu); normalizada a forma canónica indūcō, -ere.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_13861:13861:0\",\"lemas\":[\"induco\",\"indūcō\"],\"lema_canonico\":\"induco\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"Levar, conduzir, introduzir; também: persuadir, induzir; revestir, causar, representar (vários usos transitivos e figurados).\",\"aliases\":[],\"exemplos\":[\"T. Liv. 31, 28, 2\",\"Cés. B. Civ. 3, 12, 8\",\"Cic. Or. 1, 85\",\"Cic. Sull. 83\",\"Cic. Att. 7, 3, 8\",\"Verg. En. 8, 457\",\"Cés. B. Gal. 2, 33, 2\",\"Cic. Att. 13, 14, 1\",\"Cic. Att. 1, 20, 4\",\"Cic. Pis. 1, 11\",\"Cic. Off. 2, 15, 53\",\"Cic. Tusc. 5, 115\",\"Plaut. Capt. 149\",\"Ter. And. 883\"],\"notas\":\"Lema e sentidos confirmados por fontes externas (Whitaker, Lat→Deu); normalizada a forma canónica indūcō, -ere.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_13862-e1",
     "volume_id": "faria",
     "doc_name": "chunk_13862",
@@ -1604,28 +1384,6 @@
     "notas": "Entrada conferida com Lewis & Short; genitivo '-ōris' corresponde à 3.ª declinação.",
     "raw_text": "{\"id\":\"chunk_13863:13863:0\",\"lemas\":[\"inductor\",\"indūctor\"],\"lema_canonico\":\"inductor\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"aquele que introduz; também castigador, castigador (atum: Plauto)\",\"aliases\":[],\"exemplos\":[\"Plaut. As. 551\"],\"notas\":\"Entrada conferida com Lewis & Short; genitivo '-ōris' corresponde à 3.ª declinação.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_13863:13863:0\",\"lemas\":[\"inductor\",\"indūctor\"],\"lema_canonico\":\"inductor\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"aquele que introduz; também castigador, castigador (atum: Plauto)\",\"aliases\":[],\"exemplos\":[\"Plaut. As. 551\"],\"notas\":\"Entrada conferida com Lewis & Short; genitivo '-ōris' corresponde à 3.ª declinação.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_13864-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_13864",
-    "page_num": 13864,
-    "lemmas": [
-      "inductus",
-      "inductus"
-    ],
-    "morfologia": "s. 3ª (-is)",
-    "morph_render": "s. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "1) particípio passado de induco: conduzido, trazido; 2) (substantivado, raro) 'inducement, persuasion' (persuasio)",
-    "exemplos": [],
-    "notas": "Inclui dupla valência: adjetival/particípio e substantivado raro (LS). | [dedupe] redirect → chunk_13865:13865:0 | [dedupe] redirect → chunk_13865:13865:0",
-    "raw_text": "{\"id\":\"chunk_13864:13864:0\",\"lemas\":[\"inductus\"],\"lema_canonico\":\"inductus\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"1) particípio passado de induco: conduzido, trazido; 2) (substantivado, raro) 'inducement, persuasion' (persuasio)\",\"aliases\":[],\"exemplos\":[\"Cic. Fragm. ap. Quint. 5, 10, 69\"],\"notas\":\"Inclui dupla valência: adjetival/particípio e substantivado raro (LS).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_13864:13864:0\",\"lemas\":[\"inductus\"],\"lema_canonico\":\"inductus\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"1) particípio passado de induco: conduzido, trazido; 2) (substantivado, raro) 'inducement, persuasion' (persuasio)\",\"aliases\":[],\"exemplos\":[\"Cic. Fragm. ap. Quint. 5, 10, 69\"],\"notas\":\"Inclui dupla valência: adjetival/particípio e substantivado raro (LS).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_13865-e1",
@@ -1782,28 +1540,6 @@
     "raw_json": "{\"id\":\"chunk_13871:13871:0\",\"lemas\":[\"indultus\"],\"lema_canonico\":\"indultus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de indulgeo: que concedeu/cedeu; mostrado indulgência\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigido OCR/first_pass 'indúlsus' → 'indultus' (perf. pass. de indulgeo) conforme Lat→Deu.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_13872-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_13872",
-    "page_num": 13872,
-    "lemmas": [
-      "induco",
-      "induco"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "induco, inducere: conduzir para dentro; introduzir, levar; causar, induzir; convencer; trazer à tona.",
-    "exemplos": [],
-    "notas": "Entrada original refere-se à forma perfeita 'induxi'. Lemma normalizado para o infinitivo (induco). | [dedupe] redirect → chunk_13847:13847:0 | [dedupe] redirect → chunk_13847:13847:0",
-    "raw_text": "{\"id\":\"chunk_13872:13872:0\",\"lemas\":[\"induco\"],\"lema_canonico\":\"induco\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"induco, inducere: conduzir para dentro; introduzir, levar; causar, induzir; convencer; trazer à tona.\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. D. 2, 52\"],\"notas\":\"Entrada original refere-se à forma perfeita 'induxi'. Lemma normalizado para o infinitivo (induco).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_13872:13872:0\",\"lemas\":[\"induco\"],\"lema_canonico\":\"induco\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"induco, inducere: conduzir para dentro; introduzir, levar; causar, induzir; convencer; trazer à tona.\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. D. 2, 52\"],\"notas\":\"Entrada original refere-se à forma perfeita 'induxi'. Lemma normalizado para o infinitivo (induco).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_13873-e1",
     "volume_id": "faria",
     "doc_name": "chunk_13873",
@@ -1890,28 +1626,6 @@
     "notas": "Normalizado para a forma do infinitivo (indurare); primeiras-passadas corrigiram OCR das terminações.",
     "raw_text": "{\"id\":\"chunk_13876:13876:0\",\"lemas\":[\"induro\"],\"lema_canonico\":\"induro\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"indurō, indurāre: tornar duro, endurecer (sentido físico e figurado).\",\"aliases\":[],\"exemplos\":[\"Ov. Trist. 3, 9, 14\",\"Liv. 30, 18\"],\"notas\":\"Normalizado para a forma do infinitivo (indurare); primeiras-passadas corrigiram OCR das terminações.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_13876:13876:0\",\"lemas\":[\"induro\"],\"lema_canonico\":\"induro\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"indurō, indurāre: tornar duro, endurecer (sentido físico e figurado).\",\"aliases\":[],\"exemplos\":[\"Ov. Trist. 3, 9, 14\",\"Liv. 30, 18\"],\"notas\":\"Normalizado para a forma do infinitivo (indurare); primeiras-passadas corrigiram OCR das terminações.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_13877-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_13877",
-    "page_num": 13877,
-    "lemmas": [
-      "induresco",
-      "induresco"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "indurescō, indurēscere: tornar-se duro, endurecer; ficar rígido.",
-    "exemplos": [],
-    "notas": "Entrada representava a forma perfeita (indūri / indurui); lemma apresentado no infinitivo para normalização. | [dedupe] redirect → chunk_13875:13875:0 | [dedupe] redirect → chunk_13875:13875:0",
-    "raw_text": "{\"id\":\"chunk_13877:13877:0\",\"lemas\":[\"induresco\"],\"lema_canonico\":\"induresco\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"indurescō, indurēscere: tornar-se duro, endurecer; ficar rígido.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada representava a forma perfeita (indūri / indurui); lemma apresentado no infinitivo para normalização.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_13877:13877:0\",\"lemas\":[\"induresco\"],\"lema_canonico\":\"induresco\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"indurescō, indurēscere: tornar-se duro, endurecer; ficar rígido.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada representava a forma perfeita (indūri / indurui); lemma apresentado no infinitivo para normalização.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_13878-e1",
@@ -2090,28 +1804,6 @@
     "raw_json": "{\"id\":\"chunk_13885:13885:0\",\"lemas\":[\"indutiae\"],\"lema_canonico\":\"indutiae\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"tréguas, armistício; pausa nas hostilidades (plur.; termo jurídico-militar)\",\"aliases\":[],\"exemplos\":[\"Cic. Phil. 8, 20\",\"Plaut. Amph. 389\",\"Apul. Met. 2, 26\"],\"notas\":\"Forma plural feminina de primeira declinação; respeita uso clássico.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_13886-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_13886",
-    "page_num": 13886,
-    "lemmas": [
-      "indutus",
-      "indutus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "particípio perfeito passivo de induō (indūere): vestido, trajado, revestido",
-    "exemplos": [],
-    "notas": "Entrada adjectival/participial (forma clássica indūtus) consolidada com LS. | [dedupe] redirect → chunk_13874:13874:0 | [dedupe] redirect → chunk_13874:13874:0",
-    "raw_text": "{\"id\":\"chunk_13886:13886:0\",\"lemas\":[\"indutus\"],\"lema_canonico\":\"indutus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de induō (indūere): vestido, trajado, revestido\",\"aliases\":[],\"exemplos\":[\"Varr. L. L. 5, §131\",\"Symm. Ep. 3, 10\",\"Amm. 24, 2, 5\"],\"notas\":\"Entrada adjectival/participial (forma clássica indūtus) consolidada com LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_13886:13886:0\",\"lemas\":[\"indutus\"],\"lema_canonico\":\"indutus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de induō (indūere): vestido, trajado, revestido\",\"aliases\":[],\"exemplos\":[\"Varr. L. L. 5, §131\",\"Symm. Ep. 3, 10\",\"Amm. 24, 2, 5\"],\"notas\":\"Entrada adjectival/participial (forma clássica indūtus) consolidada com LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_13887-e1",
     "volume_id": "faria",
     "doc_name": "chunk_13887",
@@ -2154,28 +1846,6 @@
     "notas": "Entrada alinhada ao lema verbal (infinitivo) com formas perfeitas atestadas.",
     "raw_text": "{\"id\":\"chunk_13888:13888:0\",\"lemas\":[\"inducere\",\"induco\"],\"lema_canonico\":\"inducere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"(induco, inducere, induxi, inductum) 1) conduzir para dentro, introduzir; 2) levar, trazer; 3) causar, induzir, persuadir; 4) vestir, cobrir; usos variados em autores clássicos.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada alinhada ao lema verbal (infinitivo) com formas perfeitas atestadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_13888:13888:0\",\"lemas\":[\"inducere\",\"induco\"],\"lema_canonico\":\"inducere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"(induco, inducere, induxi, inductum) 1) conduzir para dentro, introduzir; 2) levar, trazer; 3) causar, induzir, persuadir; 4) vestir, cobrir; usos variados em autores clássicos.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada alinhada ao lema verbal (infinitivo) com formas perfeitas atestadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_13888-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_13888",
-    "page_num": 13888,
-    "lemmas": [
-      "inducere",
-      "inducere"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Registro de formas perfeitas/variais: induxi, induxit, induxis — perfeitos de inducere (forma induxi) e variantes editoriais/medievais/poéticas atestadas em dramaturgia e épica.",
-    "exemplos": [],
-    "notas": "Forma perfeita (induxi) e variantes citadas conforme testemunhos métricos; lemma apontado para inducere. | [dedupe] redirect → chunk_13888:13888:0 | [dedupe] redirect → chunk_13888:13888:0",
-    "raw_text": "{\"id\":\"chunk_13888:13888:1\",\"lemas\":[\"inducere\"],\"lema_canonico\":\"inducere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Registro de formas perfeitas/variais: induxi, induxit, induxis — perfeitos de inducere (forma induxi) e variantes editoriais/medievais/poéticas atestadas em dramaturgia e épica.\",\"aliases\":[\"induxi\",\"induxit\",\"induxis\"],\"exemplos\":[\"Ter. And. 833\",\"Plaut. Capt. 1041\"],\"notas\":\"Forma perfeita (induxi) e variantes citadas conforme testemunhos métricos; lemma apontado para inducere.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_13888:13888:1\",\"lemas\":[\"inducere\"],\"lema_canonico\":\"inducere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Registro de formas perfeitas/variais: induxi, induxit, induxis — perfeitos de inducere (forma induxi) e variantes editoriais/medievais/poéticas atestadas em dramaturgia e épica.\",\"aliases\":[\"induxi\",\"induxit\",\"induxis\"],\"exemplos\":[\"Ter. And. 833\",\"Plaut. Capt. 1041\"],\"notas\":\"Forma perfeita (induxi) e variantes citadas conforme testemunhos métricos; lemma apontado para inducere.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_13889-e1",
@@ -2662,28 +2332,6 @@
     "raw_json": "{\"id\":\"chunk_13906:13906:0\",\"lemas\":[\"ineptus\",\"inepta\",\"ineptum\"],\"lema_canonico\":\"ineptus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"impróprio, inconveniente; sem tato; tolo, ridículo, sem gosto\",\"aliases\":[],\"exemplos\":[\"Cic. Or. 2, 4, 17\",\"Ter. And. 1, 5, 22\",\"Hor. S. 1, 3, 49\"],\"notas\":\"Normalizado a partir de Lewis & Short, Whitaker e Lat→Deu; inclui variantes de gênero.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_13906-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_13906",
-    "page_num": 13906,
-    "lemmas": [
-      "ineptus",
-      "ineptus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "(adjetivo) impróprio, tolo, inepto; entrada verbal atestada no OCR é erro editorial/ocr",
-    "exemplos": [],
-    "notas": "Corrigido erro de OCR/edição: a forma apresentada como verbo ('ineptus, -is, īre') não é atestada; tratado como adjetivo conforme LS/Whitaker. | [dedupe] redirect → chunk_13906:13906:0 | [dedupe] redirect → chunk_13906:13906:0",
-    "raw_text": "{\"id\":\"chunk_13906:13906:1\",\"lemas\":[\"ineptus\",\"inepta\",\"ineptum\"],\"lema_canonico\":\"ineptus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"(adjetivo) impróprio, tolo, inepto; entrada verbal atestada no OCR é erro editorial/ocr\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigido erro de OCR/edição: a forma apresentada como verbo ('ineptus, -is, īre') não é atestada; tratado como adjetivo conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_13906:13906:1\",\"lemas\":[\"ineptus\",\"inepta\",\"ineptum\"],\"lema_canonico\":\"ineptus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"(adjetivo) impróprio, tolo, inepto; entrada verbal atestada no OCR é erro editorial/ocr\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigido erro de OCR/edição: a forma apresentada como verbo ('ineptus, -is, īre') não é atestada; tratado como adjetivo conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_13906-e3",
     "volume_id": "faria",
     "doc_name": "chunk_13906",
@@ -2704,28 +2352,6 @@
     "notas": "Separado de entrada contígua no OCR; forma e sentido confirmados por Whitaker e Lat→Deu.",
     "raw_text": "{\"id\":\"chunk_13906:13906:2\",\"lemas\":[\"inexcitabilis\"],\"lema_canonico\":\"inexcitabilis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"que não pode ser despertado; letárgico, insensível, não excitável\",\"aliases\":[],\"exemplos\":[\"Ter. Ad. 934\",\"Sen. Ep. 83, 15\"],\"notas\":\"Separado de entrada contígua no OCR; forma e sentido confirmados por Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_13906:13906:2\",\"lemas\":[\"inexcitabilis\"],\"lema_canonico\":\"inexcitabilis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"que não pode ser despertado; letárgico, insensível, não excitável\",\"aliases\":[],\"exemplos\":[\"Ter. Ad. 934\",\"Sen. Ep. 83, 15\"],\"notas\":\"Separado de entrada contígua no OCR; forma e sentido confirmados por Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_13907-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_13907",
-    "page_num": 13907,
-    "lemmas": [
-      "ineptus",
-      "ineptus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "impróprio, inconveniente; sem senso do que é adequado; tolo, estúpido; inapto",
-    "exemplos": [],
-    "notas": "Consolidado com Lewis & Short e Whitaker; correções de OCR aplicadas. | [dedupe] redirect → chunk_13906:13906:0 | [dedupe] redirect → chunk_13906:13906:0",
-    "raw_text": "{\"id\":\"chunk_13907:13907:0\",\"lemas\":[\"ineptus\",\"inepta\",\"ineptum\"],\"lema_canonico\":\"ineptus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"impróprio, inconveniente; sem senso do que é adequado; tolo, estúpido; inapto\",\"aliases\":[],\"exemplos\":[\"Cic. Or. 29\",\"Verg. En. 7, 623\",\"Cic. Tull. 176\"],\"notas\":\"Consolidado com Lewis & Short e Whitaker; correções de OCR aplicadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_13907:13907:0\",\"lemas\":[\"ineptus\",\"inepta\",\"ineptum\"],\"lema_canonico\":\"ineptus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"impróprio, inconveniente; sem senso do que é adequado; tolo, estúpido; inapto\",\"aliases\":[],\"exemplos\":[\"Cic. Or. 29\",\"Verg. En. 7, 623\",\"Cic. Tull. 176\"],\"notas\":\"Consolidado com Lewis & Short e Whitaker; correções de OCR aplicadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_13907-e2",
@@ -2948,28 +2574,6 @@
     "raw_json": "{\"id\":\"chunk_13915:13915:0\",\"lemas\":[\"inexpertus\",\"inexperta\",\"inexpertum\"],\"lema_canonico\":\"inexpertus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"inexperiente, não provado, sem prática\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 12, 317\"],\"notas\":\"Sentido corrigido (não 'adormecido'); alinhado a Whitaker/Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_13916-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_13916",
-    "page_num": 13916,
-    "lemmas": [
-      "inexpertus",
-      "inexpertus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Inexperiente; não acostumado a, não habituado a; não experimentado.",
-    "exemplos": [],
-    "notas": "Formas e acepções confirmadas por Whitaker; referências padronizadas. | [dedupe] redirect → chunk_13915:13915:0 | [dedupe] redirect → chunk_13915:13915:0",
-    "raw_text": "{\"id\":\"chunk_13916:13916:0\",\"lemas\":[\"inexpertus\",\"inexperta\",\"inexpertum\"],\"lema_canonico\":\"inexpertus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Inexperiente; não acostumado a, não habituado a; não experimentado.\",\"aliases\":[],\"exemplos\":[\"Hor. Ep. 1, 18, 86\",\"T. Liv. 23, 18, 10\",\"Verg. Aen. 4, 415\",\"Statius, Silvae 4, 5, 11\"],\"notas\":\"Formas e acepções confirmadas por Whitaker; referências padronizadas.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_13916:13916:0\",\"lemas\":[\"inexpertus\",\"inexperta\",\"inexpertum\"],\"lema_canonico\":\"inexpertus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Inexperiente; não acostumado a, não habituado a; não experimentado.\",\"aliases\":[],\"exemplos\":[\"Hor. Ep. 1, 18, 86\",\"T. Liv. 23, 18, 10\",\"Verg. Aen. 4, 415\",\"Statius, Silvae 4, 5, 11\"],\"notas\":\"Formas e acepções confirmadas por Whitaker; referências padronizadas.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_13917-e1",
     "volume_id": "faria",
     "doc_name": "chunk_13917",
@@ -3034,28 +2638,6 @@
     "notas": "Conferido com Whitaker e com resumo Lat→Deu; normalizada grafia e formas.",
     "raw_text": "{\"id\":\"chunk_13919:13919:0\",\"lemas\":[\"inexpletus\",\"inexplētus\"],\"lema_canonico\":\"inexpletus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Não saciado; insaciável, não preenchido (sentido literal e figurado).\",\"aliases\":[],\"exemplos\":[\"Stac. Theb. 2, 518\",\"Stac. Theb. 6, 703\"],\"notas\":\"Conferido com Whitaker e com resumo Lat→Deu; normalizada grafia e formas.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_13919:13919:0\",\"lemas\":[\"inexpletus\",\"inexplētus\"],\"lema_canonico\":\"inexpletus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Não saciado; insaciável, não preenchido (sentido literal e figurado).\",\"aliases\":[],\"exemplos\":[\"Stac. Theb. 2, 518\",\"Stac. Theb. 6, 703\"],\"notas\":\"Conferido com Whitaker e com resumo Lat→Deu; normalizada grafia e formas.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_13920-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_13920",
-    "page_num": 13920,
-    "lemmas": [
-      "inexplicabilis",
-      "inexplicabilis"
-    ],
-    "morfologia": "adj. (3) 3T",
-    "morph_render": "adj. (3) 3T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "que não pode ser explicado; também: que não se pode desatar, impraticável, impossível, interminável",
-    "exemplos": [],
-    "notas": "Consolidação de sentidos atestados em fontes; citações normalizadas. | [dedupe] redirect → chunk_13917:13917:0 | [dedupe] redirect → chunk_13917:13917:0",
-    "raw_text": "{\"id\":\"chunk_13920:13920:0\",\"lemas\":[\"inexplicabilis\",\"inexplicabile\"],\"lema_canonico\":\"inexplicabilis\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"que não pode ser explicado; também: que não se pode desatar, impraticável, impossível, interminável\",\"aliases\":[],\"exemplos\":[\"Cic. Or. 13, 131\",\"Cic. Att. 8, 3, 6\",\"Liv. 37, 52, 9\",\"Liv. 40, 33, 2\",\"Plin. Nat. 23, 32\",\"Tac. Ann. 3, 73\"],\"notas\":\"Consolidação de sentidos atestados em fontes; citações normalizadas.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_13920:13920:0\",\"lemas\":[\"inexplicabilis\",\"inexplicabile\"],\"lema_canonico\":\"inexplicabilis\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"que não pode ser explicado; também: que não se pode desatar, impraticável, impossível, interminável\",\"aliases\":[],\"exemplos\":[\"Cic. Or. 13, 131\",\"Cic. Att. 8, 3, 6\",\"Liv. 37, 52, 9\",\"Liv. 40, 33, 2\",\"Plin. Nat. 23, 32\",\"Tac. Ann. 3, 73\"],\"notas\":\"Consolidação de sentidos atestados em fontes; citações normalizadas.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_13921-e1",
@@ -3188,28 +2770,6 @@
     "notas": "Lemas no masculino/feminino e neutro fornecidos; grafia normalizada.",
     "raw_text": "{\"id\":\"chunk_13926:13926:0\",\"lemas\":[\"inexsuperabilis\",\"inexsuperabile\"],\"lema_canonico\":\"inexsuperabilis\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"insuperável; intransitável (lit.); (fig.) invencível, imbatível\",\"aliases\":[],\"exemplos\":[\"T. Liv. 5,36,61\",\"T. Liv. 8,9,18\"],\"notas\":\"Lemas no masculino/feminino e neutro fornecidos; grafia normalizada.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_13926:13926:0\",\"lemas\":[\"inexsuperabilis\",\"inexsuperabile\"],\"lema_canonico\":\"inexsuperabilis\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"insuperável; intransitável (lit.); (fig.) invencível, imbatível\",\"aliases\":[],\"exemplos\":[\"T. Liv. 5,36,61\",\"T. Liv. 8,9,18\"],\"notas\":\"Lemas no masculino/feminino e neutro fornecidos; grafia normalizada.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_13927-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_13927",
-    "page_num": 13927,
-    "lemmas": [
-      "inextricabilis",
-      "inextricabilis"
-    ],
-    "morfologia": "adj. (3) 3T",
-    "morph_render": "adj. (3) 3T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "de que não se pode sair; inextricável; (fig.) intratável, irresolúvel",
-    "exemplos": [],
-    "notas": "Forma neutra acrescentada (inextricabile); confirmada por Whitaker/Lat→Deu; dica OCR corrigida. | [dedupe] redirect → chunk_13923:13923:0 | [dedupe] redirect → chunk_13923:13923:0",
-    "raw_text": "{\"id\":\"chunk_13927:13927:0\",\"lemas\":[\"inextricabilis\",\"inextricabile\"],\"lema_canonico\":\"inextricabilis\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"de que não se pode sair; inextricável; (fig.) intratável, irresolúvel\",\"aliases\":[],\"exemplos\":[\"Verg. A. 6,27?\",\"Plin. H. N. 20,232\",\"Plin. H. N. 21,32\"],\"notas\":\"Forma neutra acrescentada (inextricabile); confirmada por Whitaker/Lat→Deu; dica OCR corrigida.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_13927:13927:0\",\"lemas\":[\"inextricabilis\",\"inextricabile\"],\"lema_canonico\":\"inextricabilis\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"de que não se pode sair; inextricável; (fig.) intratável, irresolúvel\",\"aliases\":[],\"exemplos\":[\"Verg. A. 6,27?\",\"Plin. H. N. 20,232\",\"Plin. H. N. 21,32\"],\"notas\":\"Forma neutra acrescentada (inextricabile); confirmada por Whitaker/Lat→Deu; dica OCR corrigida.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_13928-e1",
@@ -3542,28 +3102,6 @@
     "raw_json": "{\"id\":\"chunk_13942:13942:0\",\"lemas\":[\"infantulus\",\"infantula\"],\"lema_canonico\":\"infantulus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"pequeno menino; bebé, criancinha (também fem. infantula para menina).\",\"aliases\":[],\"exemplos\":[\"Apul. Met. 8, 15\"],\"notas\":\"Entrada original dava forma oblíqua 'infantulis' — normalizado para os lemas nominativos. Gênero feminino incluído como variante.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_13942-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_13942",
-    "page_num": 13942,
-    "lemmas": [
-      "inferio",
-      "inferio"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Registro aparentemente redirecionador ('infērio = infērior'); tratado como apontamento para 'inferior'.",
-    "raw_text": "{\"id\":\"chunk_13942:13942:1\",\"lemas\":[\"inferio\"],\"lema_canonico\":\"inferio\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"inferior\"],\"exemplos\":[],\"notas\":\"Registro aparentemente redirecionador ('infērio = infērior'); tratado como apontamento para 'inferior'.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_13942:13942:1\",\"lemas\":[\"inferio\"],\"lema_canonico\":\"inferio\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"inferior\"],\"exemplos\":[],\"notas\":\"Registro aparentemente redirecionador ('infērio = infērior'); tratado como apontamento para 'inferior'.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\",\"redirect_only\"]}"
-  },
-  {
     "id": "chunk_13943-e1",
     "volume_id": "faria",
     "doc_name": "chunk_13943",
@@ -3718,28 +3256,6 @@
     "raw_json": "{\"id\":\"chunk_13949:13949:0\",\"lemas\":[\"infectus\",\"infecta\",\"infectum\"],\"lema_canonico\":\"infectus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"1) Não feito, não realizado, inacabado (clássico). 2) Tingido, corado, impregnado; participle/adj. com sentido de pintura/tintura (pós‑augusteio).\",\"aliases\":[],\"exemplos\":[\"Cato R.R. 2, 1\",\"Plaut. Am. 3, 2, 3\",\"Ter. Eun. 1, 1, 8\",\"Plin. 8, 48, 73\"],\"notas\":\"Reconciliado o duplo senso (particípio passivo de inficio e adjetivo de tintura) com LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_13950-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_13950",
-    "page_num": 13950,
-    "lemmas": [
-      "infectus",
-      "infectus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Não feito, não realizado; incompleto, não concluído; bruto, não trabalhado; também: impossível (fig.).",
-    "exemplos": [],
-    "notas": "Unificado sentido adjetival com base em LS e Whitaker; variantes canônicas incluídas. | [dedupe] redirect → chunk_13949:13949:0 | [dedupe] redirect → chunk_13949:13949:0",
-    "raw_text": "{\"id\":\"chunk_13950:13950:0\",\"lemas\":[\"infectus\",\"infecta\",\"infectum\"],\"lema_canonico\":\"infectus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Não feito, não realizado; incompleto, não concluído; bruto, não trabalhado; também: impossível (fig.).\",\"aliases\":[],\"exemplos\":[\"Cic. Top. 4, 22\",\"Caes. B. Civ. 1, 32, 4\",\"Verg. A. 10, 528\",\"Sall. B. Jug. 76, 1\"],\"notas\":\"Unificado sentido adjetival com base em LS e Whitaker; variantes canônicas incluídas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_13950:13950:0\",\"lemas\":[\"infectus\",\"infecta\",\"infectum\"],\"lema_canonico\":\"infectus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Não feito, não realizado; incompleto, não concluído; bruto, não trabalhado; também: impossível (fig.).\",\"aliases\":[],\"exemplos\":[\"Cic. Top. 4, 22\",\"Caes. B. Civ. 1, 32, 4\",\"Verg. A. 10, 528\",\"Sall. B. Jug. 76, 1\"],\"notas\":\"Unificado sentido adjetival com base em LS e Whitaker; variantes canônicas incluídas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_13950-e2",
     "volume_id": "faria",
     "doc_name": "chunk_13950",
@@ -3760,28 +3276,6 @@
     "notas": "Entrada substantival atestada em Lewis & Short (post-August.).",
     "raw_text": "{\"id\":\"chunk_13950:13950:1\",\"lemas\":[\"infectus\"],\"lema_canonico\":\"infectus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"(substantivo, tardio) ação de tingir; tingimento.\",\"aliases\":[],\"exemplos\":[\"Plin. 8, 48, 73\"],\"notas\":\"Entrada substantival atestada em Lewis & Short (post-August.).\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_13950:13950:1\",\"lemas\":[\"infectus\"],\"lema_canonico\":\"infectus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"(substantivo, tardio) ação de tingir; tingimento.\",\"aliases\":[],\"exemplos\":[\"Plin. 8, 48, 73\"],\"notas\":\"Entrada substantival atestada em Lewis & Short (post-August.).\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_13950-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_13950",
-    "page_num": 13950,
-    "lemmas": [
-      "infectus",
-      "infectus"
-    ],
-    "morfologia": "v. 3ª -iō (-ere)",
-    "morph_render": "v. 3ª -iō (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Particípio perfeito passivo de inficio: tingido; corrompido, contaminado; usado também como adjetivo com sentido passivo.",
-    "exemplos": [],
-    "notas": "Relaciona-se explicitamente ao verbo inficio (inficere, infeci, infectus). | [dedupe] redirect → chunk_13949:13949:0 | [dedupe] redirect → chunk_13949:13949:0",
-    "raw_text": "{\"id\":\"chunk_13950:13950:2\",\"lemas\":[\"infectus\"],\"lema_canonico\":\"infectus\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo de inficio: tingido; corrompido, contaminado; usado também como adjetivo com sentido passivo.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Relaciona-se explicitamente ao verbo inficio (inficere, infeci, infectus).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_13950:13950:2\",\"lemas\":[\"infectus\"],\"lema_canonico\":\"infectus\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo de inficio: tingido; corrompido, contaminado; usado também como adjetivo com sentido passivo.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Relaciona-se explicitamente ao verbo inficio (inficere, infeci, infectus).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_13951-e1",
@@ -3936,28 +3430,6 @@
     "notas": "Incluído advérbio infensē; exemplos selecionados de Lewis & Short e Whitaker.",
     "raw_text": "{\"id\":\"chunk_13957:13957:0\",\"lemas\":[\"infensus\",\"infensa\",\"infensum\",\"infensē\"],\"lema_canonico\":\"infensus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Hostil, inimical; irado, enfurecido. Com dat.: hostil a alguém; com in + acc.: hostil para com alguém/alguma coisa. (Também atestado o advérbio infensē: hostilmente, amargamente.)\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 2, 2, 61\",\"Verg. A. 11, 122\",\"Tac. Ann. 13, 411\"],\"notas\":\"Incluído advérbio infensē; exemplos selecionados de Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_13957:13957:0\",\"lemas\":[\"infensus\",\"infensa\",\"infensum\",\"infensē\"],\"lema_canonico\":\"infensus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Hostil, inimical; irado, enfurecido. Com dat.: hostil a alguém; com in + acc.: hostil para com alguém/alguma coisa. (Também atestado o advérbio infensē: hostilmente, amargamente.)\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 2, 2, 61\",\"Verg. A. 11, 122\",\"Tac. Ann. 13, 411\"],\"notas\":\"Incluído advérbio infensē; exemplos selecionados de Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_13958-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_13958",
-    "page_num": 13958,
-    "lemmas": [
-      "infensus",
-      "infensus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "hostile, inimical; enraged, bitterly hostile; (with dat. or in + acc. usage attested)",
-    "exemplos": [],
-    "notas": "Adj. de 1ª/2ª declinação; adverbial variante infensē atestada em fontes. | [dedupe] redirect → chunk_13957:13957:0 | [dedupe] redirect → chunk_13957:13957:0",
-    "raw_text": "{\"id\":\"chunk_13958:13958:0\",\"lemas\":[\"infensus\",\"infensē\"],\"lema_canonico\":\"infensus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"hostile, inimical; enraged, bitterly hostile; (with dat. or in + acc. usage attested)\",\"aliases\":[],\"exemplos\":[\"Verg. A. 11, 122\",\"Tac. Ann. 1, 81\"],\"notas\":\"Adj. de 1ª/2ª declinação; adverbial variante infensē atestada em fontes.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_13958:13958:0\",\"lemas\":[\"infensus\",\"infensē\"],\"lema_canonico\":\"infensus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"hostile, inimical; enraged, bitterly hostile; (with dat. or in + acc. usage attested)\",\"aliases\":[],\"exemplos\":[\"Verg. A. 11, 122\",\"Tac. Ann. 1, 81\"],\"notas\":\"Adj. de 1ª/2ª declinação; adverbial variante infensē atestada em fontes.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_13959-e1",
@@ -4202,28 +3674,6 @@
     "raw_json": "{\"id\":\"chunk_13968:13968:0\",\"lemas\":[\"inferne\"],\"lema_canonico\":\"inferne\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"para baixo; inferiormente; por baixo; no sentido de regiões inferiores/infernais (infernalmente).\",\"aliases\":[],\"exemplos\":[\"Lucr. 6, 597\"],\"notas\":\"Unificada grafia sem acento diacrítico; confirmado por LS e Whitaker. \",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_13969-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_13969",
-    "page_num": 13969,
-    "lemmas": [
-      "inferi",
-      "inferi"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Os que estão abaixo; os habitantes da região inferior/da outra vida; os mortos; a região inferior (abaixo, a morada dos mortos).",
-    "exemplos": [],
-    "notas": "Forma plural de inferus; normalizado segundo LS e Whitaker. | [dedupe] redirect → chunk_13961:13961:0 | [dedupe] redirect → chunk_13961:13961:0",
-    "raw_text": "{\"id\":\"chunk_13969:13969:0\",\"lemas\":[\"inferi\"],\"lema_canonico\":\"inferi\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Os que estão abaixo; os habitantes da região inferior/da outra vida; os mortos; a região inferior (abaixo, a morada dos mortos).\",\"aliases\":[],\"exemplos\":[\"Prop. 2, 1, 37\"],\"notas\":\"Forma plural de inferus; normalizado segundo LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_13969:13969:0\",\"lemas\":[\"inferi\"],\"lema_canonico\":\"inferi\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Os que estão abaixo; os habitantes da região inferior/da outra vida; os mortos; a região inferior (abaixo, a morada dos mortos).\",\"aliases\":[],\"exemplos\":[\"Prop. 2, 1, 37\"],\"notas\":\"Forma plural de inferus; normalizado segundo LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_13970-e1",
     "volume_id": "faria",
     "doc_name": "chunk_13970",
@@ -4266,116 +3716,6 @@
     "notas": "Normalizado a forma infinitiva e indicação de conjugação conforme LS/Lat→Deu.",
     "raw_text": "{\"id\":\"chunk_13971:13971:3\",\"lemas\":[\"infrio\",\"infriāre\"],\"lema_canonico\":\"infrio\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"to rub into, crumble into, strew upon; transitive verb (Cato, Plin., Varr.).\",\"aliases\":[],\"exemplos\":[\"Cato, R.R. 156\",\"Cato, R.R. 79\",\"Plin. 20, 13, §140\",\"Varr. ap. Non. 220, 11\"],\"notas\":\"Normalizado a forma infinitiva e indicação de conjugação conforme LS/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_13971:13971:3\",\"lemas\":[\"infrio\",\"infriāre\"],\"lema_canonico\":\"infrio\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"to rub into, crumble into, strew upon; transitive verb (Cato, Plin., Varr.).\",\"aliases\":[],\"exemplos\":[\"Cato, R.R. 156\",\"Cato, R.R. 79\",\"Plin. 20, 13, §140\",\"Varr. ap. Non. 220, 11\"],\"notas\":\"Normalizado a forma infinitiva e indicação de conjugação conforme LS/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_13971-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_13971",
-    "page_num": 13971,
-    "lemmas": [
-      "infero",
-      "infero"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "levar, trazer; enterrar; apresentar; fig.: inspirar, causar, inferir; refl./pass.: avançar, dirigir‑se",
-    "exemplos": [],
-    "notas": "Verbo de forma irregular (īnferre, intulī, illātum) tratado aqui como infinitivo -ere; formas normalizadas. | [dedupe] redirect → chunk_13960:13960:0 | [dedupe] redirect → chunk_13960:13960:0",
-    "raw_text": "{\"id\":\"chunk_13971:13971:0\",\"lemas\":[\"infero\"],\"lema_canonico\":\"infero\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"levar, trazer; enterrar; apresentar; fig.: inspirar, causar, inferir; refl./pass.: avançar, dirigir‑se\",\"aliases\":[],\"exemplos\":[\"Caes. B. Gall. 2, 26, 1\",\"T. Liv. 32, 24, 5\",\"Cic. Leg. 2, 64\",\"T. Liv. 33, 16, 8\",\"Cic. Tusc. 1, 73, 6\"],\"notas\":\"Verbo de forma irregular (īnferre, intulī, illātum) tratado aqui como infinitivo -ere; formas normalizadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_13971:13971:0\",\"lemas\":[\"infero\"],\"lema_canonico\":\"infero\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"levar, trazer; enterrar; apresentar; fig.: inspirar, causar, inferir; refl./pass.: avançar, dirigir‑se\",\"aliases\":[],\"exemplos\":[\"Caes. B. Gall. 2, 26, 1\",\"T. Liv. 32, 24, 5\",\"Cic. Leg. 2, 64\",\"T. Liv. 33, 16, 8\",\"Cic. Tusc. 1, 73, 6\"],\"notas\":\"Verbo de forma irregular (īnferre, intulī, illātum) tratado aqui como infinitivo -ere; formas normalizadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_13971-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_13971",
-    "page_num": 13971,
-    "lemmas": [
-      "inferi",
-      "inferi"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "os debaixo; os mortos; os habitantes do mundo inferior",
-    "exemplos": [],
-    "notas": "Substantivo plural (ōrum) atestado em LS/Whitaker; forma lemática conservada como 'inferi'. | [dedupe] redirect → chunk_13961:13961:0 | [dedupe] redirect → chunk_13961:13961:0",
-    "raw_text": "{\"id\":\"chunk_13971:13971:1\",\"lemas\":[\"inferi\"],\"lema_canonico\":\"inferi\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"os debaixo; os mortos; os habitantes do mundo inferior\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Substantivo plural (ōrum) atestado em LS/Whitaker; forma lemática conservada como 'inferi'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_13971:13971:1\",\"lemas\":[\"inferi\"],\"lema_canonico\":\"inferi\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"os debaixo; os mortos; os habitantes do mundo inferior\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Substantivo plural (ōrum) atestado em LS/Whitaker; forma lemática conservada como 'inferi'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_13971-e4",
-    "volume_id": "faria",
-    "doc_name": "chunk_13971",
-    "page_num": 13971,
-    "lemmas": [
-      "inferus",
-      "inferus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "situado abaixo; subterrâneo; de posição inferior; vil; (compar.: inferior; sup.: infimus)",
-    "exemplos": [],
-    "notas": "Apresentadas positiva, comparativa e superlativa; grafia normalizada. | [dedupe] redirect → chunk_13959:13959:0 | [dedupe] redirect → chunk_13959:13959:0",
-    "raw_text": "{\"id\":\"chunk_13971:13971:2\",\"lemas\":[\"inferus\",\"inferior\",\"infimus\"],\"lema_canonico\":\"inferus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"situado abaixo; subterrâneo; de posição inferior; vil; (compar.: inferior; sup.: infimus)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Apresentadas positiva, comparativa e superlativa; grafia normalizada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_13971:13971:2\",\"lemas\":[\"inferus\",\"inferior\",\"infimus\"],\"lema_canonico\":\"inferus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"situado abaixo; subterrâneo; de posição inferior; vil; (compar.: inferior; sup.: infimus)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Apresentadas positiva, comparativa e superlativa; grafia normalizada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_13972-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_13972",
-    "page_num": 13972,
-    "lemmas": [
-      "inferus",
-      "inferus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "mais baixo; situado por baixo; relativo ao mundo inferior; como substantivo (pl.) infēri: habitantes do mundo inferior, os mortos.",
-    "exemplos": [],
-    "notas": "Entrada inclui uso adjectival e referência substantiva plural (infēri). | [dedupe] redirect → chunk_13959:13959:0 | [dedupe] redirect → chunk_13959:13959:0",
-    "raw_text": "{\"id\":\"chunk_13972:13972:0\",\"lemas\":[\"inferus\",\"infēri\"],\"lema_canonico\":\"inferus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"mais baixo; situado por baixo; relativo ao mundo inferior; como substantivo (pl.) infēri: habitantes do mundo inferior, os mortos.\",\"aliases\":[],\"exemplos\":[\"Plaut. Merc. 5, 1, 1\",\"Cic. Tusc. 1, 5, 10\",\"Liv. 26, 32\"],\"notas\":\"Entrada inclui uso adjectival e referência substantiva plural (infēri).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_13972:13972:0\",\"lemas\":[\"inferus\",\"infēri\"],\"lema_canonico\":\"inferus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"mais baixo; situado por baixo; relativo ao mundo inferior; como substantivo (pl.) infēri: habitantes do mundo inferior, os mortos.\",\"aliases\":[],\"exemplos\":[\"Plaut. Merc. 5, 1, 1\",\"Cic. Tusc. 1, 5, 10\",\"Liv. 26, 32\"],\"notas\":\"Entrada inclui uso adjectival e referência substantiva plural (infēri).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_13973-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_13973",
-    "page_num": 13973,
-    "lemmas": [
-      "inferus",
-      "inferus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "que está abaixo; situado mais embaixo; relativo às regiões inferiores; também vil, inferior (compar.: inferior; sup.: infimus/imus).",
-    "exemplos": [],
-    "notas": "Normalizada a forma canónica como 'inferus'; 'infer' mantido como variante breve. | [dedupe] redirect → chunk_13959:13959:0 | [dedupe] redirect → chunk_13959:13959:0",
-    "raw_text": "{\"id\":\"chunk_13973:13973:0\",\"lemas\":[\"infernus\",\"infer\",\"inferus\"],\"lema_canonico\":\"inferus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"que está abaixo; situado mais embaixo; relativo às regiões inferiores; também vil, inferior (compar.: inferior; sup.: infimus/imus).\",\"aliases\":[],\"exemplos\":[\"Cic. Lael. 12\"],\"notas\":\"Normalizada a forma canónica como 'inferus'; 'infer' mantido como variante breve.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_13973:13973:0\",\"lemas\":[\"infernus\",\"infer\",\"inferus\"],\"lema_canonico\":\"inferus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"que está abaixo; situado mais embaixo; relativo às regiões inferiores; também vil, inferior (compar.: inferior; sup.: infimus/imus).\",\"aliases\":[],\"exemplos\":[\"Cic. Lael. 12\"],\"notas\":\"Normalizada a forma canónica como 'inferus'; 'infer' mantido como variante breve.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_13974-e1",
@@ -4486,72 +3826,6 @@
     "notas": "Formas comparativa/superlativa e variantes confirmadas (Whitaker, LS).",
     "raw_text": "{\"id\":\"chunk_13978:13978:0\",\"lemas\":[\"infestus\",\"infesta\",\"infestum\",\"infestior\",\"infestissimus\"],\"lema_canonico\":\"infestus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Hostil, dirigido contra (com dat.); exposto ao perigo, perigoso; perturbado, infestado, inquieto.\",\"aliases\":[],\"exemplos\":[\"Cic. Cat. 4, 21\",\"Liv. 10, 46, 9\"],\"notas\":\"Formas comparativa/superlativa e variantes confirmadas (Whitaker, LS).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_13978:13978:0\",\"lemas\":[\"infestus\",\"infesta\",\"infestum\",\"infestior\",\"infestissimus\"],\"lema_canonico\":\"infestus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Hostil, dirigido contra (com dat.); exposto ao perigo, perigoso; perturbado, infestado, inquieto.\",\"aliases\":[],\"exemplos\":[\"Cic. Cat. 4, 21\",\"Liv. 10, 46, 9\"],\"notas\":\"Formas comparativa/superlativa e variantes confirmadas (Whitaker, LS).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_13978-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_13978",
-    "page_num": 13978,
-    "lemmas": [
-      "infestus",
-      "infestus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Dirigido contra; hostil; por extensão, ameaçado, perigoso, infestado.",
-    "exemplos": [],
-    "notas": "Entrada alternativa/parcelar do adjectivo infestus; alinhada com Whitaker e LS. | [dedupe] redirect → chunk_13978:13978:0 | [dedupe] redirect → chunk_13978:13978:0",
-    "raw_text": "{\"id\":\"chunk_13978:13978:1\",\"lemas\":[\"infestus\",\"infesta\",\"infestum\"],\"lema_canonico\":\"infestus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Dirigido contra; hostil; por extensão, ameaçado, perigoso, infestado.\",\"aliases\":[],\"exemplos\":[\"Cic. Cat. 4, 21\",\"T. Liv. 10, 46, 9\"],\"notas\":\"Entrada alternativa/parcelar do adjectivo infestus; alinhada com Whitaker e LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_13978:13978:1\",\"lemas\":[\"infestus\",\"infesta\",\"infestum\"],\"lema_canonico\":\"infestus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Dirigido contra; hostil; por extensão, ameaçado, perigoso, infestado.\",\"aliases\":[],\"exemplos\":[\"Cic. Cat. 4, 21\",\"T. Liv. 10, 46, 9\"],\"notas\":\"Entrada alternativa/parcelar do adjectivo infestus; alinhada com Whitaker e LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_13979-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_13979",
-    "page_num": 13979,
-    "lemmas": [
-      "infectia",
-      "infectia"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada funciona como remissiva para 'infectia' (plural nominativo 'infectiae').",
-    "raw_text": "{\"id\":\"chunk_13979:13979:0\",\"lemas\":[\"infectia\",\"infectiae\"],\"lema_canonico\":\"infectia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"infectia\"],\"exemplos\":[],\"notas\":\"Entrada funciona como remissiva para 'infectia' (plural nominativo 'infectiae').\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_13979:13979:0\",\"lemas\":[\"infectia\",\"infectiae\"],\"lema_canonico\":\"infectia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"infectia\"],\"exemplos\":[],\"notas\":\"Entrada funciona como remissiva para 'infectia' (plural nominativo 'infectiae').\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"redirect_only\"]}"
-  },
-  {
-    "id": "chunk_13980-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_13980",
-    "page_num": 13980,
-    "lemmas": [
-      "infectus",
-      "infectus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "1) not made, undone, unfinished (participle/adjective); 2) (post‑Augustan) a dyeing, act of dyeing",
-    "exemplos": [],
-    "notas": "Unificadas acepções: adjetivo/particípio clássico + substantivo post‑august. (tintura), conforme LS/Whitaker. | [dedupe] redirect → chunk_13949:13949:0 | [dedupe] redirect → chunk_13949:13949:0",
-    "raw_text": "{\"id\":\"chunk_13980:13980:0\",\"lemas\":[\"infectus\"],\"lema_canonico\":\"infectus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"1) not made, undone, unfinished (participle/adjective); 2) (post‑Augustan) a dyeing, act of dyeing\",\"aliases\":[],\"exemplos\":[\"Cato, R.R. 2, 1\",\"Plaut. Am. 3, 2, 3\",\"Cic. Inv. 2, 27, 80\",\"Plin. 8, 48, 73\"],\"notas\":\"Unificadas acepções: adjetivo/particípio clássico + substantivo post‑august. (tintura), conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_13980:13980:0\",\"lemas\":[\"infectus\"],\"lema_canonico\":\"infectus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"1) not made, undone, unfinished (participle/adjective); 2) (post‑Augustan) a dyeing, act of dyeing\",\"aliases\":[],\"exemplos\":[\"Cato, R.R. 2, 1\",\"Plaut. Am. 3, 2, 3\",\"Cic. Inv. 2, 27, 80\",\"Plin. 8, 48, 73\"],\"notas\":\"Unificadas acepções: adjetivo/particípio clássico + substantivo post‑august. (tintura), conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_13981-e1",
@@ -4818,50 +4092,6 @@
     "raw_json": "{\"id\":\"chunk_13991:13991:0\",\"lemas\":[\"infinitas\",\"infīnĭtas\"],\"lema_canonico\":\"infinitas\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"boundlessness, endlessness, infinity; vast or endless extent.\",\"aliases\":[],\"exemplos\":[\"Cic. N. D. 1, 26, 73\",\"Cic. Tusc. 5, 36\",\"Plin. 2, 2, 1, § 3\"],\"notas\":\"Normalizada a forma e declinação conforme Lewis & Short; macrons preservados na variante.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_13992-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_13992",
-    "page_num": 13992,
-    "lemmas": [
-      "infīnītē",
-      "infīnītē"
-    ],
-    "morfologia": "adv.",
-    "morph_render": "adv.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "infinitamente; sem fim, imensamente; indefinidamente",
-    "exemplos": [],
-    "notas": "Adverbial formado a partir de infinitus; grafia normalizada e exemplos verificados. | [dedupe] redirect → chunk_13994:13994:0 | [dedupe] redirect → chunk_13994:13994:0",
-    "raw_text": "{\"id\":\"chunk_13992:13992:0\",\"lemas\":[\"infīnītē\",\"infinite\"],\"lema_canonico\":\"infīnītē\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"infinitamente; sem fim, imensamente; indefinidamente\",\"aliases\":[],\"exemplos\":[\"Cic. Or. 228\",\"Cic. De Or. 2, 66\"],\"notas\":\"Adverbial formado a partir de infinitus; grafia normalizada e exemplos verificados.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_13992:13992:0\",\"lemas\":[\"infīnītē\",\"infinite\"],\"lema_canonico\":\"infīnītē\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"infinitamente; sem fim, imensamente; indefinidamente\",\"aliases\":[],\"exemplos\":[\"Cic. Or. 228\",\"Cic. De Or. 2, 66\"],\"notas\":\"Adverbial formado a partir de infinitus; grafia normalizada e exemplos verificados.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_13993-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_13993",
-    "page_num": 13993,
-    "lemmas": [
-      "infinitas",
-      "infinitas"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "boundlessness, infinity; endless extent (noun).",
-    "exemplos": [],
-    "notas": "Both infinitio and infinitas attested; infinitas chosen as canonical per LS usage. | [dedupe] redirect → chunk_13991:13991:0 | [dedupe] redirect → chunk_13991:13991:0",
-    "raw_text": "{\"id\":\"chunk_13993:13993:0\",\"lemas\":[\"infinitio\",\"infinitas\"],\"lema_canonico\":\"infinitas\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"boundlessness, infinity; endless extent (noun).\",\"aliases\":[],\"exemplos\":[\"Cic. Fin. 1, 6, 21\"],\"notas\":\"Both infinitio and infinitas attested; infinitas chosen as canonical per LS usage.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_13993:13993:0\",\"lemas\":[\"infinitio\",\"infinitas\"],\"lema_canonico\":\"infinitas\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"boundlessness, infinity; endless extent (noun).\",\"aliases\":[],\"exemplos\":[\"Cic. Fin. 1, 6, 21\"],\"notas\":\"Both infinitio and infinitas attested; infinitas chosen as canonical per LS usage.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_13994-e1",
     "volume_id": "faria",
     "doc_name": "chunk_13994",
@@ -4948,28 +4178,6 @@
     "notas": "Adverbial form related to adj. infirmus; macronized variant recorded (infirmē).",
     "raw_text": "{\"id\":\"chunk_13997:13997:0\",\"lemas\":[\"infirme\",\"infirmē\"],\"lema_canonico\":\"infirme\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"weakly, infirmly; lacking vigor or firmness.\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 15, 3, 1\"],\"notas\":\"Adverbial form related to adj. infirmus; macronized variant recorded (infirmē).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_13997:13997:0\",\"lemas\":[\"infirme\",\"infirmē\"],\"lema_canonico\":\"infirme\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"weakly, infirmly; lacking vigor or firmness.\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 15, 3, 1\"],\"notas\":\"Adverbial form related to adj. infirmus; macronized variant recorded (infirmē).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_13998-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_13998",
-    "page_num": 13998,
-    "lemmas": [
-      "infirmitas",
-      "infirmitas"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "want of strength; weakness, feebleness; infirmity, indisposition, sickness; figuratively weakness of character",
-    "exemplos": [],
-    "notas": "Infirmitās (gen. -ātis) com usos literais e figurados; ver LS. | [dedupe] redirect → chunk_13996:13996:0 | [dedupe] redirect → chunk_13996:13996:0",
-    "raw_text": "{\"id\":\"chunk_13998:13998:0\",\"lemas\":[\"infirmitas\"],\"lema_canonico\":\"infirmitas\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"want of strength; weakness, feebleness; infirmity, indisposition, sickness; figuratively weakness of character\",\"aliases\":[],\"exemplos\":[\"Cic. de Sen. 10, 33\",\"Suet. Tib. 72\"],\"notas\":\"Infirmitās (gen. -ātis) com usos literais e figurados; ver LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_13998:13998:0\",\"lemas\":[\"infirmitas\"],\"lema_canonico\":\"infirmitas\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"want of strength; weakness, feebleness; infirmity, indisposition, sickness; figuratively weakness of character\",\"aliases\":[],\"exemplos\":[\"Cic. de Sen. 10, 33\",\"Suet. Tib. 72\"],\"notas\":\"Infirmitās (gen. -ātis) com usos literais e figurados; ver LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_13999-e1",

@@ -154,28 +154,6 @@
     "raw_json": "{\"id\":\"chunk_6804:6804:0\",\"lemas\":[\"correptē\",\"correpte\"],\"lema_canonico\":\"correptē\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"brevemente; de modo curto (cf. dicere aliquid)\",\"aliases\":[],\"exemplos\":[\"Gell. 6, 9\",\"Ov. Pont. 4, 12, 13\"],\"notas\":\"Normalizada grafia e comparativo correptius sustentado por LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_6805-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_6805",
-    "page_num": 6805,
-    "lemmas": [
-      "caruncula",
-      "caruncula"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "pequeno pedaço de carne; pedaço de tecido; excrescência carnosa (termo médico).",
-    "exemplos": [],
-    "notas": "Lema confirmado e normalizado segundo LS/Whitaker/Lat→Deu. | [dedupe] redirect → chunk_4365:4365:0 | [dedupe] redirect → chunk_4365:4365:0",
-    "raw_text": "{\"id\":\"chunk_6805:6805:0\",\"lemas\":[\"caruncula\",\"carunculae\"],\"lema_canonico\":\"caruncula\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"pequeno pedaço de carne; pedaço de tecido; excrescência carnosa (termo médico).\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 2, 24, 52\",\"Cels. 2, 7\",\"Cels. 8, 4\",\"Val. Max. 3, 7\"],\"notas\":\"Lema confirmado e normalizado segundo LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_6805:6805:0\",\"lemas\":[\"caruncula\",\"carunculae\"],\"lema_canonico\":\"caruncula\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"pequeno pedaço de carne; pedaço de tecido; excrescência carnosa (termo médico).\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 2, 24, 52\",\"Cels. 2, 7\",\"Cels. 8, 4\",\"Val. Max. 3, 7\"],\"notas\":\"Lema confirmado e normalizado segundo LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_6805-e2",
     "volume_id": "faria",
     "doc_name": "chunk_6805",
@@ -284,28 +262,6 @@
     "notas": "Unificado e normalizado segundo Lewis & Short e Lat→Deu; removidas formas verbais indevidas oriundas do OCR.",
     "raw_text": "{\"id\":\"chunk_6809:6809:0\",\"lemas\":[\"correctio\",\"corrēctio\"],\"lema_canonico\":\"correctio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"emenda, melhoria, retificação; especialmente, figura retórica de 'recall' e substituição de palavra (Lat. = Gr. ἐπανόρθωσις)\",\"aliases\":[],\"exemplos\":[\"Cic. Fin. 4, 9, 21\",\"Cic. Ac. 1, 12, 43\",\"Cic. Off. 3, 2, 7\",\"Cic. de Or. 3, 53, 204\",\"Suet. Tib. 42\"],\"notas\":\"Unificado e normalizado segundo Lewis & Short e Lat→Deu; removidas formas verbais indevidas oriundas do OCR.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_6809:6809:0\",\"lemas\":[\"correctio\",\"corrēctio\"],\"lema_canonico\":\"correctio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"emenda, melhoria, retificação; especialmente, figura retórica de 'recall' e substituição de palavra (Lat. = Gr. ἐπανόρθωσις)\",\"aliases\":[],\"exemplos\":[\"Cic. Fin. 4, 9, 21\",\"Cic. Ac. 1, 12, 43\",\"Cic. Off. 3, 2, 7\",\"Cic. de Or. 3, 53, 204\",\"Suet. Tib. 42\"],\"notas\":\"Unificado e normalizado segundo Lewis & Short e Lat→Deu; removidas formas verbais indevidas oriundas do OCR.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_6809-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_6809",
-    "page_num": 6809,
-    "lemmas": [
-      "corruptĭo",
-      "corruptĭo"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Entrada corrupta possivelmente resultante de OCR; nenhum verbo clássico 'corrīdō' atestado com o sentido dado.",
-    "exemplos": [],
-    "notas": "Registro provável de conflagração OCR entre substantivo e verbo no original Faria; requer verificação na fonte impressa.\n[ocr_pipeline 2025-08-16T23:24:22.504719Z] lemma_in='corrīdō' → 'corruptĭo' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:24:00Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='corruptĭo' → 'corruptĭo' | [dedupe] redirect → chunk_6833:6833:0 | [dedupe] redirect → chunk_6833:6833:0",
-    "raw_text": "{\"id\":\"chunk_6809:6809:1\",\"lemas\":[\"corrīdō\"],\"lema_canonico\":\"corrīdō\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Entrada corrupta possivelmente resultante de OCR; nenhum verbo clássico 'corrīdō' atestado com o sentido dado.\",\"aliases\":[],\"exemplos\":[\"Luc. Phars. 4, 83? (citação suspeita)\"],\"notas\":\"Registro provável de conflagração OCR entre substantivo e verbo no original Faria; requer verificação na fonte impressa.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_6809:6809:1\",\"lemas\":[\"corrīdō\"],\"lema_canonico\":\"corrīdō\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Entrada corrupta possivelmente resultante de OCR; nenhum verbo clássico 'corrīdō' atestado com o sentido dado.\",\"aliases\":[],\"exemplos\":[\"Luc. Phars. 4, 83? (citação suspeita)\"],\"notas\":\"Registro provável de conflagração OCR entre substantivo e verbo no original Faria; requer verificação na fonte impressa.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
     "id": "chunk_6810-e1",
@@ -440,28 +396,6 @@
     "raw_json": "{\"id\":\"chunk_6815:6815:0\",\"lemas\":[\"corrivatus\",\"corrivo\",\"corrivare\",\"corrivavi\",\"corrivatus\"],\"lema_canonico\":\"corrivo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"part. perf. pass. de corrivo (conduzir/canalizar água; recolher, ajuntar)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Particípio passivo atestado; forma e sentido respaldados por Whitaker.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_6816-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_6816",
-    "page_num": 6816,
-    "lemmas": [
-      "correctus",
-      "correctus"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "(entrada possivelmente corrompida) — ver corrigo: corrigere, correxi, correctum; significados clássicos: endireitar, corrigir, reformar",
-    "exemplos": [],
-    "notas": "Entrada original aparenta erro tipográfico/OCR (morfologia 1ª conj. no OCR). Mantido lema padrão 3ª conjugação; requer verificação da citação sobre sentido hidrográfico.\n[ocr_pipeline 2025-08-16T23:10:58.421282Z] lemma_in='corrigo' → 'correctus' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:06:02Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='correctus' → 'correctus' | [dedupe] redirect → chunk_6803:6803:0 | [dedupe] redirect → chunk_6803:6803:0",
-    "raw_text": "{\"id\":\"chunk_6816:6816:0\",\"lemas\":[\"corrigo\",\"corrigere\",\"correxi\",\"correctus\"],\"lema_canonico\":\"corrigo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"(entrada possivelmente corrompida) — ver corrigo: corrigere, correxi, correctum; significados clássicos: endireitar, corrigir, reformar\",\"aliases\":[],\"exemplos\":[\"Sen. H. Nat. 3, 19, 4\"],\"notas\":\"Entrada original aparenta erro tipográfico/OCR (morfologia 1ª conj. no OCR). Mantido lema padrão 3ª conjugação; requer verificação da citação sobre sentido hidrográfico.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_6816:6816:0\",\"lemas\":[\"corrigo\",\"corrigere\",\"correxi\",\"correctus\"],\"lema_canonico\":\"corrigo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"(entrada possivelmente corrompida) — ver corrigo: corrigere, correxi, correctum; significados clássicos: endireitar, corrigir, reformar\",\"aliases\":[],\"exemplos\":[\"Sen. H. Nat. 3, 19, 4\"],\"notas\":\"Entrada original aparenta erro tipográfico/OCR (morfologia 1ª conj. no OCR). Mantido lema padrão 3ª conjugação; requer verificação da citação sobre sentido hidrográfico.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
     "id": "chunk_6817-e1",
     "volume_id": "faria",
     "doc_name": "chunk_6817",
@@ -482,28 +416,6 @@
     "notas": "Formas e sentidos confirmados por Whitaker e Lat→Deu.",
     "raw_text": "{\"id\":\"chunk_6817:6817:0\",\"lemas\":[\"corroboro\",\"corroborare\",\"corroboravi\",\"corroboratus\"],\"lema_canonico\":\"corroboro\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"fortalecer, reforçar; confirmar, corroborar\",\"aliases\":[],\"exemplos\":[\"Cic. Fin. 5, 58\",\"Cic. Cat. 1, 38\"],\"notas\":\"Formas e sentidos confirmados por Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_6817:6817:0\",\"lemas\":[\"corroboro\",\"corroborare\",\"corroboravi\",\"corroboratus\"],\"lema_canonico\":\"corroboro\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"fortalecer, reforçar; confirmar, corroborar\",\"aliases\":[],\"exemplos\":[\"Cic. Fin. 5, 58\",\"Cic. Cat. 1, 38\"],\"notas\":\"Formas e sentidos confirmados por Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_6818-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_6818",
-    "page_num": 6818,
-    "lemmas": [
-      "corrodo",
-      "corrodo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "roer, corroer; consumir por desgaste (fig. e lit.)",
-    "exemplos": [],
-    "notas": "Formas do paradigma: corrōdere, corrōdō, corrōsī, corrōsum. | [dedupe] redirect → chunk_6820:6820:2 | [dedupe] redirect → chunk_6820:6820:2",
-    "raw_text": "{\"id\":\"chunk_6818:6818:0\",\"lemas\":[\"corrodo\"],\"lema_canonico\":\"corrodo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"roer, corroer; consumir por desgaste (fig. e lit.)\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 2, 59\"],\"notas\":\"Formas do paradigma: corrōdere, corrōdō, corrōsī, corrōsum.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_6818:6818:0\",\"lemas\":[\"corrodo\"],\"lema_canonico\":\"corrodo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"roer, corroer; consumir por desgaste (fig. e lit.)\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 2, 59\"],\"notas\":\"Formas do paradigma: corrōdere, corrōdō, corrōsī, corrōsum.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_6819-e1",
@@ -548,28 +460,6 @@
     "notas": "Entrada isolada (corrogas) normalizada para o lema corrogo; corrogas mantida como variante inflectida (2ª sg. pres. ind.). | [ocr_fix 2025-08-17T19:46:44Z] similaridade semântica FAISS (definição/gloss) + reranking por forma; comprovado por Latin→German | lemma_in='corrogo' → 'corrŏgo'",
     "raw_text": "{\"id\":\"chunk_6820:6820:0\",\"lemas\":[\"corrogo\",\"corrogas\"],\"lema_canonico\":\"corrogo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"Forma flexionada e verbo base: corrogo ‘reunir/conseguir por súplica; convidar; solicitar’ (corrogo, corrogāre, corrogāvī, corrogātum).\",\"aliases\":[],\"exemplos\":[\"Quint. 10, 1, 18\",\"Cic. Phil. 3, 20\",\"Cic. Verr. 3, 184\"],\"notas\":\"Entrada isolada (corrogas) normalizada para o lema corrogo; corrogas mantida como variante inflectida (2ª sg. pres. ind.).\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_6820:6820:0\",\"lemas\":[\"corrogo\",\"corrogas\"],\"lema_canonico\":\"corrogo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"Forma flexionada e verbo base: corrogo ‘reunir/conseguir por súplica; convidar; solicitar’ (corrogo, corrogāre, corrogāvī, corrogātum).\",\"aliases\":[],\"exemplos\":[\"Quint. 10, 1, 18\",\"Cic. Phil. 3, 20\",\"Cic. Verr. 3, 184\"],\"notas\":\"Entrada isolada (corrogas) normalizada para o lema corrogo; corrogas mantida como variante inflectida (2ª sg. pres. ind.).\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_6820-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_6820",
-    "page_num": 6820,
-    "lemmas": [
-      "corrŏgo",
-      "corrŏgo"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "corrogo, corrogāre, corrogāvī, corrogātum — alcançar por súplica; conseguir mediante pedidos; convidar/reunir; solicitar amplamente.",
-    "exemplos": [],
-    "notas": "Normalizado do original; definições alinhadas com Lat→Deu (corrogāre) e corpus citado no first_pass. | [dedupe] redirect → chunk_6820:6820:0 | [dedupe] redirect → chunk_6820:6820:0 | [ocr_fix 2025-08-17T19:46:44Z] similaridade semântica FAISS (definição/gloss) + reranking por forma; comprovado por Latin→German | lemma_in='corrogo' → 'corrŏgo'",
-    "raw_text": "{\"id\":\"chunk_6820:6820:1\",\"lemas\":[\"corrogo\"],\"lema_canonico\":\"corrogo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"corrogo, corrogāre, corrogāvī, corrogātum — alcançar por súplica; conseguir mediante pedidos; convidar/reunir; solicitar amplamente.\",\"aliases\":[],\"exemplos\":[\"Quint. 10, 1, 18\",\"Cic. Phil. 3, 20\",\"Cic. Verr. 3, 184\"],\"notas\":\"Normalizado do original; definições alinhadas com Lat→Deu (corrogāre) e corpus citado no first_pass.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_6820:6820:1\",\"lemas\":[\"corrogo\"],\"lema_canonico\":\"corrogo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"corrogo, corrogāre, corrogāvī, corrogātum — alcançar por súplica; conseguir mediante pedidos; convidar/reunir; solicitar amplamente.\",\"aliases\":[],\"exemplos\":[\"Quint. 10, 1, 18\",\"Cic. Phil. 3, 20\",\"Cic. Verr. 3, 184\"],\"notas\":\"Normalizado do original; definições alinhadas com Lat→Deu (corrogāre) e corpus citado no first_pass.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
     "id": "chunk_6820-e3",
@@ -790,28 +680,6 @@
     "notas": "Padronizado para corruere (infinitivo); marcado como intr. e tr. conforme dicionários.",
     "raw_text": "{\"id\":\"chunk_6829:6829:0\",\"lemas\":[\"corruo\",\"corruere\",\"corrūi\"],\"lema_canonico\":\"corruere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"intr.\",\"tr.\"],\"definicao\":\"desabar, ruir; precipitar‑se (intr.); precipitar, fazer cair (tr.); (por extensão) acumular, amontar\",\"aliases\":[],\"exemplos\":[\"Cic. Top. 15\",\"Ov. Met. 8, 777\",\"Cic. Cl. 1, 84\",\"Catul. 68, 5\",\"Lucr. 5, 368\"],\"notas\":\"Padronizado para corruere (infinitivo); marcado como intr. e tr. conforme dicionários.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_6829:6829:0\",\"lemas\":[\"corruo\",\"corruere\",\"corrūi\"],\"lema_canonico\":\"corruere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"intr.\",\"tr.\"],\"definicao\":\"desabar, ruir; precipitar‑se (intr.); precipitar, fazer cair (tr.); (por extensão) acumular, amontar\",\"aliases\":[],\"exemplos\":[\"Cic. Top. 15\",\"Ov. Met. 8, 777\",\"Cic. Cl. 1, 84\",\"Catul. 68, 5\",\"Lucr. 5, 368\"],\"notas\":\"Padronizado para corruere (infinitivo); marcado como intr. e tr. conforme dicionários.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_6830-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_6830",
-    "page_num": 6830,
-    "lemmas": [
-      "corrumpo",
-      "corrumpō"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "corrumpō, corrumpere — perfeito corrūpī: corromper; estragar, perverter; subornar, seduzir, destruir.",
-    "exemplos": [],
-    "notas": "Entrada focada na forma perfeita corrūpī; lema canónico dado como o verbo no infinitivo. | [dedupe] redirect → chunk_6827:6827:0 | [dedupe] redirect → chunk_6827:6827:0 | [ocr_fix 2025-08-20T01:03:57Z] Correção automática de lema via Gaffiot | lemma_in='corrumpō' → 'corrumpo'",
-    "raw_text": "{\"id\":\"chunk_6830:6830:0\",\"lemas\":[\"corrumpō\",\"corrumpere\",\"corrūpī\"],\"lema_canonico\":\"corrumpō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"corrumpō, corrumpere — perfeito corrūpī: corromper; estragar, perverter; subornar, seduzir, destruir.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada focada na forma perfeita corrūpī; lema canónico dado como o verbo no infinitivo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_6830:6830:0\",\"lemas\":[\"corrumpō\",\"corrumpere\",\"corrūpī\"],\"lema_canonico\":\"corrumpō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"corrumpō, corrumpere — perfeito corrūpī: corromper; estragar, perverter; subornar, seduzir, destruir.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada focada na forma perfeita corrūpī; lema canónico dado como o verbo no infinitivo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_6831-e1",
@@ -1122,28 +990,6 @@
     "raw_json": "{\"id\":\"chunk_6844:6844:0\",\"lemas\":[\"Cortonensis\"],\"lema_canonico\":\"Cortonensis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"Relativo a Cortona (adjetivo, -ensis).\",\"aliases\":[],\"exemplos\":[\"T. Liv. 22, 4, 27\"],\"notas\":\"Normalizada a forma sem macron (Cortonensis). Ausência de confirmação em LS/Whitaker; base principal: primeira passada + OCR.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_6845-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_6845",
-    "page_num": 6845,
-    "lemmas": [
-      "Cortōna",
-      "Cortōna"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Antiga cidade da Etrúria (Cortōna).",
-    "exemplos": [],
-    "notas": "[dedupe] redirect → chunk_6842:6842:0 | [dedupe] redirect → chunk_6842:6842:0 | [ocr_fix 2025-08-17T19:46:45Z] match direto em LS por lemma/lemma_norm | lemma_in='Cortona' → 'Cortōna'",
-    "raw_text": "{\"id\":\"chunk_6845:6845:0\",\"lemas\":[\"Cortona\"],\"lema_canonico\":\"Cortona\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Antiga cidade da Etrúria (Cortōna).\",\"aliases\":[],\"exemplos\":[\"T. Liv. 6, 4, 9\"],\"notas\":\"\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_6845:6845:0\",\"lemas\":[\"Cortona\"],\"lema_canonico\":\"Cortona\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Antiga cidade da Etrúria (Cortōna).\",\"aliases\":[],\"exemplos\":[\"T. Liv. 6, 4, 9\"],\"notas\":\"\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_6845-e2",
     "volume_id": "faria",
     "doc_name": "chunk_6845",
@@ -1386,28 +1232,6 @@
     "raw_json": "{\"id\":\"chunk_6855:6855:0\",\"lemas\":[\"Corybantes\"],\"lema_canonico\":\"Corybantes\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Corybantes, os sacerdotes dançantes de Cibele (mitologia); nome próprio coletivo.\",\"aliases\":[],\"exemplos\":[\"Hor. O. 1, 16, 81\"],\"notas\":\"Lemma mantido na forma grega-latina; declinação de origem grega, revisar se necessário.\",\"flags\":[\"src_firstpass\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_6856-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_6856",
-    "page_num": 6856,
-    "lemmas": [
-      "cors",
-      "cors"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Relativo aos Coribantes; coribantício (referente aos Coribantes).",
-    "exemplos": [],
-    "notas": "Grafia normalizada de Corybantīus; entrada pouco atestada em dicionários principais.\n[ocr_pipeline 2025-08-16T23:10:59.490628Z] lemma_in='Corybantius' → 'cors' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:06:03Z] match direto em LS por lemma/lemma_norm | lemma_in='cors' → 'cors' | [dedupe] redirect → chunk_6844:6844:0 | [dedupe] redirect → chunk_6844:6844:0",
-    "raw_text": "{\"id\":\"chunk_6856:6856:0\",\"lemas\":[\"Corybantius\",\"Corybantia\",\"Corybantium\"],\"lema_canonico\":\"Corybantius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo aos Coribantes; coribantício (referente aos Coribantes).\",\"aliases\":[],\"exemplos\":[\"Verg. En. 3, 111\"],\"notas\":\"Grafia normalizada de Corybantīus; entrada pouco atestada em dicionários principais.\",\"flags\":[\"src_firstpass\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_6856:6856:0\",\"lemas\":[\"Corybantius\",\"Corybantia\",\"Corybantium\"],\"lema_canonico\":\"Corybantius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo aos Coribantes; coribantício (referente aos Coribantes).\",\"aliases\":[],\"exemplos\":[\"Verg. En. 3, 111\"],\"notas\":\"Grafia normalizada de Corybantīus; entrada pouco atestada em dicionários principais.\",\"flags\":[\"src_firstpass\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
     "id": "chunk_6857-e1",
     "volume_id": "faria",
     "doc_name": "chunk_6857",
@@ -1516,28 +1340,6 @@
     "notas": "Atestado em Whitaker e Lat→Deu como substantivo raro da 2ª declinação.",
     "raw_text": "{\"id\":\"chunk_6860:6860:1\",\"lemas\":[\"corycus\",\"korykos\"],\"lema_canonico\":\"corycus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Saco de pancadas; saco de areia (de origem grega korykos).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Atestado em Whitaker e Lat→Deu como substantivo raro da 2ª declinação.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_6860:6860:1\",\"lemas\":[\"corycus\",\"korykos\"],\"lema_canonico\":\"corycus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Saco de pancadas; saco de areia (de origem grega korykos).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Atestado em Whitaker e Lat→Deu como substantivo raro da 2ª declinação.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_6861-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_6861",
-    "page_num": 6861,
-    "lemmas": [
-      "corycus",
-      "corycus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "saco cheio de areia (saco de pancadas) usado por atletas para exercício.",
-    "exemplos": [],
-    "notas": "Termo confirmado em Whitaker e Lat→Deu; genitivo atestado 'coryci'. | [dedupe] redirect → chunk_6860:6860:1 | [dedupe] redirect → chunk_6860:6860:1",
-    "raw_text": "{\"id\":\"chunk_6861:6861:0\",\"lemas\":[\"corycus\"],\"lema_canonico\":\"corycus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"saco cheio de areia (saco de pancadas) usado por atletas para exercício.\",\"aliases\":[],\"exemplos\":[\"Hyg. Cl. Phil. 13, 26\"],\"notas\":\"Termo confirmado em Whitaker e Lat→Deu; genitivo atestado 'coryci'.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_6861:6861:0\",\"lemas\":[\"corycus\"],\"lema_canonico\":\"corycus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"saco cheio de areia (saco de pancadas) usado por atletas para exercício.\",\"aliases\":[],\"exemplos\":[\"Hyg. Cl. Phil. 13, 26\"],\"notas\":\"Termo confirmado em Whitaker e Lat→Deu; genitivo atestado 'coryci'.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_6862-e1",
@@ -1958,28 +1760,6 @@
     "raw_json": "{\"id\":\"chunk_6879:6879:0\",\"lemas\":[\"Coscōnius\"],\"lema_canonico\":\"Coscōnius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Nome de família romano (gens Cosconia); notável indivíduo C. Cosconius, citado por Cícero.\",\"aliases\":[],\"exemplos\":[\"Cic. Brut. 69, 242\",\"Varro L. L. 6, §39\"],\"notas\":\"Grafia e identificação confirmadas em Lewis & Short; forma própria (gentilício) tratada como substantivo próprio.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_6880-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_6880",
-    "page_num": 6880,
-    "lemmas": [
-      "con-servus",
-      "con-servus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "escravo companheiro; companheiro na servidão (fellow‑slave).",
-    "exemplos": [],
-    "notas": "'coservus' tratado como variante/erro de grafia redirecionando para conservus. | [dedupe] redirect → chunk_6057:6057:5 | [dedupe] redirect → chunk_6057:6057:5 | [ocr_fix 2025-08-17T19:46:50Z] match direto em LS por lemma/lemma_norm | lemma_in='conservus' → 'con-servus'",
-    "raw_text": "{\"id\":\"chunk_6880:6880:0\",\"lemas\":[\"conservus\",\"coservus\"],\"lema_canonico\":\"conservus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"escravo companheiro; companheiro na servidão (fellow‑slave).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"'coservus' tratado como variante/erro de grafia redirecionando para conservus.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_6880:6880:0\",\"lemas\":[\"conservus\",\"coservus\"],\"lema_canonico\":\"conservus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"escravo companheiro; companheiro na servidão (fellow‑slave).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"'coservus' tratado como variante/erro de grafia redirecionando para conservus.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_6881-e1",
     "volume_id": "faria",
     "doc_name": "chunk_6881",
@@ -2066,28 +1846,6 @@
     "notas": "Forma confirmada; tratado como vocábulo greco-latino 'κόσμος'. | [ocr_fix 2025-08-17T19:57:06Z] match direto em Gaffiot por lemma/lemma_norm | lemma_in='cosmos' → 'cosmos'",
     "raw_text": "{\"id\":\"chunk_6884:6884:0\",\"lemas\":[\"cosmos\"],\"lema_canonico\":\"cosmos\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"o mundo; universo.\",\"aliases\":[],\"exemplos\":[\"Apul. Mund. 22\"],\"notas\":\"Forma confirmada; tratado como vocábulo greco-latino 'κόσμος'.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_6884:6884:0\",\"lemas\":[\"cosmos\"],\"lema_canonico\":\"cosmos\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"o mundo; universo.\",\"aliases\":[],\"exemplos\":[\"Apul. Mund. 22\"],\"notas\":\"Forma confirmada; tratado como vocábulo greco-latino 'κόσμος'.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_6884-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_6884",
-    "page_num": 6884,
-    "lemmas": [
-      "cōs",
-      "cōs"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Abreviatura de cōnsulēs (cos.) e consulātus (cos.).",
-    "exemplos": [],
-    "notas": "Entrada trata-se de abreviatura; não confundir com cōs (cōtis) ou insula Cōs. | [dedupe] redirect → chunk_6873:6873:1 | [dedupe] redirect → chunk_6873:6873:1 | [ocr_fix 2025-08-17T19:57:08Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='cos.' → 'cōs'",
-    "raw_text": "{\"id\":\"chunk_6884:6884:1\",\"lemas\":[\"cos.\"],\"lema_canonico\":\"cos.\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Abreviatura de cōnsulēs (cos.) e consulātus (cos.).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada trata-se de abreviatura; não confundir com cōs (cōtis) ou insula Cōs.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_6884:6884:1\",\"lemas\":[\"cos.\"],\"lema_canonico\":\"cos.\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Abreviatura de cōnsulēs (cos.) e consulātus (cos.).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada trata-se de abreviatura; não confundir com cōs (cōtis) ou insula Cōs.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}"
   },
   {
     "id": "chunk_6885-e1",
@@ -2288,28 +2046,6 @@
     "raw_json": "{\"id\":\"chunk_6892:6892:0\",\"lemas\":[\"costa\"],\"lema_canonico\":\"costa\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"I — sentido próprio: costela. II — sentido figurado: flanco, lado.\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 11, 207\",\"Verg. Aen. 8, 463\"],\"notas\":\"Corrigida referência Virgílio para Aeneis (Aen.) e normalizada morfologia conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_6893-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_6893",
-    "page_num": 6893,
-    "lemmas": [
-      "costa",
-      "costa"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "costa: costela; lado, flanco, dorso; costela com carne; quilha/quilha de navio; lados de recipiente. costus: variante/forma ligada tanto a planta aromática (per Whitaker) quanto a grafias antigas da mesma palavra.",
-    "exemplos": [],
-    "notas": "Combina acepções segundo Lewis & Short (costa ribs/side) e Whitaker (costus planta). | [dedupe] redirect → chunk_6892:6892:0 | [dedupe] redirect → chunk_6892:6892:0",
-    "raw_text": "{\"id\":\"chunk_6893:6893:0\",\"lemas\":[\"costa\",\"costus\"],\"lema_canonico\":\"costa\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"costa: costela; lado, flanco, dorso; costela com carne; quilha/quilha de navio; lados de recipiente. costus: variante/forma ligada tanto a planta aromática (per Whitaker) quanto a grafias antigas da mesma palavra.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Combina acepções segundo Lewis & Short (costa ribs/side) e Whitaker (costus planta).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_6893:6893:0\",\"lemas\":[\"costa\",\"costus\"],\"lema_canonico\":\"costa\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"costa: costela; lado, flanco, dorso; costela com carne; quilha/quilha de navio; lados de recipiente. costus: variante/forma ligada tanto a planta aromática (per Whitaker) quanto a grafias antigas da mesma palavra.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Combina acepções segundo Lewis & Short (costa ribs/side) e Whitaker (costus planta).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_6894-e1",
     "volume_id": "faria",
     "doc_name": "chunk_6894",
@@ -2440,28 +2176,6 @@
     "notas": "entrada 'cotid.' interpretada como abreviação de cotidiē; alinhado com registros léxicos",
     "raw_text": "{\"id\":\"chunk_6899:6899:0\",\"lemas\":[\"cotidie\"],\"lema_canonico\":\"cotidie\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"diariamente; todo dia (adv., forma clássica cotidiē)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"entrada 'cotid.' interpretada como abreviação de cotidiē; alinhado com registros léxicos\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_6899:6899:0\",\"lemas\":[\"cotidie\"],\"lema_canonico\":\"cotidie\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"diariamente; todo dia (adv., forma clássica cotidiē)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"entrada 'cotid.' interpretada como abreviação de cotidiē; alinhado com registros léxicos\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_6900-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_6900",
-    "page_num": 6900,
-    "lemmas": [
-      "cotyla",
-      "cotyla"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Pequeno cálice ou copo; unidade de medida líquida (cotyla = 6 cyathi = 1 hemina = 1/2 sextarius ≈ 1/2 pinta).",
-    "exemplos": [],
-    "notas": "[dedupe] redirect → chunk_6914:6914:0 | [dedupe] redirect → chunk_6914:6914:0",
-    "raw_text": "{\"id\":\"chunk_6900:6900:0\",\"lemas\":[\"cotila\",\"cotyla\"],\"lema_canonico\":\"cotyla\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Pequeno cálice ou copo; unidade de medida líquida (cotyla = 6 cyathi = 1 hemina = 1/2 sextarius ≈ 1/2 pinta).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"\",\"flags\":[\"src_whitaker\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_6900:6900:0\",\"lemas\":[\"cotila\",\"cotyla\"],\"lema_canonico\":\"cotyla\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Pequeno cálice ou copo; unidade de medida líquida (cotyla = 6 cyathi = 1 hemina = 1/2 sextarius ≈ 1/2 pinta).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"\",\"flags\":[\"src_whitaker\",\"conf:med\"]}"
   },
   {
     "id": "chunk_6901-e1",
@@ -2596,28 +2310,6 @@
     "raw_json": "{\"id\":\"chunk_6906:6906:0\",\"lemas\":[\"cotidianus\",\"cotidiana\",\"cotidianum\"],\"lema_canonico\":\"cotidianus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Diário, quotidiano; figuradamente: habitual, comum, ordinário.\",\"aliases\":[\"quotidianus\"],\"exemplos\":[\"Cés. B. Gal. 3, 17, 48\",\"Cic. Fam. 9, 21, 1\"],\"notas\":\"Grafia alternativa quotidianus/quotidianus registrada; unificadas formas de gênero.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_6907-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_6907",
-    "page_num": 6907,
-    "lemmas": [
-      "cotidie",
-      "cotidie"
-    ],
-    "morfologia": "adv.",
-    "morph_render": "adv.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Diariamente; todos os dias; dia a dia.",
-    "exemplos": [],
-    "notas": "Grafia com q- (quotidie) também atestada; entrada confirmada por Whitaker e Lewis & Short. | [dedupe] redirect → chunk_6899:6899:0 | [dedupe] redirect → chunk_6899:6899:0",
-    "raw_text": "{\"id\":\"chunk_6907:6907:0\",\"lemas\":[\"cotidie\",\"quotidie\"],\"lema_canonico\":\"cotidie\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"Diariamente; todos os dias; dia a dia.\",\"aliases\":[],\"exemplos\":[\"Cic. Phil. 1, 5\"],\"notas\":\"Grafia com q- (quotidie) também atestada; entrada confirmada por Whitaker e Lewis & Short.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_6907:6907:0\",\"lemas\":[\"cotidie\",\"quotidie\"],\"lema_canonico\":\"cotidie\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"Diariamente; todos os dias; dia a dia.\",\"aliases\":[],\"exemplos\":[\"Cic. Phil. 1, 5\"],\"notas\":\"Grafia com q- (quotidie) também atestada; entrada confirmada por Whitaker e Lewis & Short.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_6908-e1",
     "volume_id": "faria",
     "doc_name": "chunk_6908",
@@ -2660,28 +2352,6 @@
     "notas": "Adjetivo reconstruído da forma feminina 'cotana' presente no OCR/first_pass; Whitaker registra equivalente adjetival.",
     "raw_text": "{\"id\":\"chunk_6909:6909:0\",\"lemas\":[\"cotanus\",\"cotana\",\"cotanum\"],\"lema_canonico\":\"cotanus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo a cotis/cotes (pedra para afiar, rocha)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Adjetivo reconstruído da forma feminina 'cotana' presente no OCR/first_pass; Whitaker registra equivalente adjetival.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_6909:6909:0\",\"lemas\":[\"cotanus\",\"cotana\",\"cotanum\"],\"lema_canonico\":\"cotanus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo a cotis/cotes (pedra para afiar, rocha)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Adjetivo reconstruído da forma feminina 'cotana' presente no OCR/first_pass; Whitaker registra equivalente adjetival.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_6910-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_6910",
-    "page_num": 6910,
-    "lemmas": [
-      "cotyla",
-      "cotyla"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "pequeno copo, recipiente; medida líquida (cotyla)",
-    "exemplos": [],
-    "notas": "Entrada normalizada a partir de 'cotúia, v. cotyla' (first_pass). | [dedupe] redirect → chunk_6914:6914:0 | [dedupe] redirect → chunk_6914:6914:0",
-    "raw_text": "{\"id\":\"chunk_6910:6910:0\",\"lemas\":[\"cotyla\"],\"lema_canonico\":\"cotyla\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"pequeno copo, recipiente; medida líquida (cotyla)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada normalizada a partir de 'cotúia, v. cotyla' (first_pass).\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_6910:6910:0\",\"lemas\":[\"cotyla\"],\"lema_canonico\":\"cotyla\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"pequeno copo, recipiente; medida líquida (cotyla)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada normalizada a partir de 'cotúia, v. cotyla' (first_pass).\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
     "id": "chunk_6911-e1",
@@ -2814,28 +2484,6 @@
     "notas": "Unidas variantes cotyla/cotula; valor conforme Whitaker/LS.",
     "raw_text": "{\"id\":\"chunk_6914:6914:0\",\"lemas\":[\"cotyla\",\"cotula\"],\"lema_canonico\":\"cotyla\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Pequeno vaso/taça; medida de líquidos = 6 cyathi = 1 hemina = 1/2 sextarius (≈1/2 pint).\",\"aliases\":[\"cotula\"],\"exemplos\":[\"Marc. 7, 81\"],\"notas\":\"Unidas variantes cotyla/cotula; valor conforme Whitaker/LS.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_6914:6914:0\",\"lemas\":[\"cotyla\",\"cotula\"],\"lema_canonico\":\"cotyla\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Pequeno vaso/taça; medida de líquidos = 6 cyathi = 1 hemina = 1/2 sextarius (≈1/2 pint).\",\"aliases\":[\"cotula\"],\"exemplos\":[\"Marc. 7, 81\"],\"notas\":\"Unidas variantes cotyla/cotula; valor conforme Whitaker/LS.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_6915-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_6915",
-    "page_num": 6915,
-    "lemmas": [
-      "cotyla",
-      "cotyla"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "pequeno copo; unidade de medida líquida (≈6 cyathi = 1 hemina = meio sextarius; cerca de 1/2 pinta).",
-    "exemplos": [],
-    "notas": "[dedupe] redirect → chunk_6914:6914:0 | [dedupe] redirect → chunk_6914:6914:0",
-    "raw_text": "{\"id\":\"chunk_6915:6915:0\",\"lemas\":[\"cotyla\"],\"lema_canonico\":\"cotyla\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"pequeno copo; unidade de medida líquida (≈6 cyathi = 1 hemina = meio sextarius; cerca de 1/2 pinta).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"\",\"flags\":[\"src_whitaker\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_6915:6915:0\",\"lemas\":[\"cotyla\"],\"lema_canonico\":\"cotyla\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"pequeno copo; unidade de medida líquida (≈6 cyathi = 1 hemina = meio sextarius; cerca de 1/2 pinta).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"\",\"flags\":[\"src_whitaker\",\"conf:med\"]}"
   },
   {
     "id": "chunk_6915-e2",
@@ -3014,116 +2662,6 @@
     "raw_json": "{\"id\":\"chunk_6921:6921:0\",\"lemas\":[\"covinarius\"],\"lema_canonico\":\"covinarius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"soldado que combatia de um carro (Tacitus).\",\"aliases\":[],\"exemplos\":[\"Tac. Agr. 35, 36\"],\"notas\":\"Entrada respaldada por Lewis & Short (cŏvīnārĭus).\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_6922-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_6922",
-    "page_num": 6922,
-    "lemmas": [
-      "co",
-      "co"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:low",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "prefixo (variante de con-) com valor de 'com', 'junto', intensivo; usado antes de certas consoantes/vogais.",
-    "exemplos": [],
-    "notas": "Replicado e normalizado do first_pass; falta confirmação em dicionários fornecidos. | [dedupe] redirect → chunk_5421:5421:0 | [dedupe] redirect → chunk_5421:5421:0",
-    "raw_text": "{\"id\":\"chunk_6922:6922:13\",\"lemas\":[\"co\"],\"lema_canonico\":\"co\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"prefixo (variante de con-) com valor de 'com', 'junto', intensivo; usado antes de certas consoantes/vogais.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Replicado e normalizado do first_pass; falta confirmação em dicionários fornecidos.\",\"flags\":[\"src_firstpass\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_6922:6922:13\",\"lemas\":[\"co\"],\"lema_canonico\":\"co\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"prefixo (variante de con-) com valor de 'com', 'junto', intensivo; usado antes de certas consoantes/vogais.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Replicado e normalizado do first_pass; falta confirmação em dicionários fornecidos.\",\"flags\":[\"src_firstpass\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_6922-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_6922",
-    "page_num": 6922,
-    "lemmas": [
-      "Cōs",
-      "cos"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "1) flint, flint-stone, whetstone, hone; any hard stone. 2) abbreviation for consul (abb. cos., cons.).",
-    "exemplos": [],
-    "notas": "Duplo sentido (substantivo 'cotis' e abreviatura de consul) confirmado por LS e Whitaker. | [dedupe] redirect → chunk_6874:6874:0 | [dedupe] redirect → chunk_6874:6874:0 | [ocr_fix 2025-08-20T01:03:57Z] Correção automática de lema via LS | lemma_in='cos' → 'Cōs'",
-    "raw_text": "{\"id\":\"chunk_6922:6922:14\",\"lemas\":[\"cos\"],\"lema_canonico\":\"cos\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"1) flint, flint-stone, whetstone, hone; any hard stone. 2) abbreviation for consul (abb. cos., cons.).\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 1, 17, 33\"],\"notas\":\"Duplo sentido (substantivo 'cotis' e abreviatura de consul) confirmado por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_6922:6922:14\",\"lemas\":[\"cos\"],\"lema_canonico\":\"cos\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"1) flint, flint-stone, whetstone, hone; any hard stone. 2) abbreviation for consul (abb. cos., cons.).\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 1, 17, 33\"],\"notas\":\"Duplo sentido (substantivo 'cotis' e abreviatura de consul) confirmado por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_6922-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_6922",
-    "page_num": 6922,
-    "lemmas": [
-      "cŏtana",
-      "cŏtana"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "adjetivo atestado em alguns léxicos (variante gráfica); significado preciso incerto/raremente atestado.",
-    "exemplos": [],
-    "notas": "Whitaker registra cotana como adj. (1/2); forma pode ser variante gráfica ou rara. | [dedupe] redirect → chunk_6903:6903:0 | [dedupe] redirect → chunk_6903:6903:0 | [ocr_fix 2025-08-17T19:57:09Z] match direto em Gaffiot por lemma/lemma_norm | lemma_in='cotana' → 'cŏtana'",
-    "raw_text": "{\"id\":\"chunk_6922:6922:15\",\"lemas\":[\"cotana\"],\"lema_canonico\":\"cotana\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"adjetivo atestado em alguns léxicos (variante gráfica); significado preciso incerto/raremente atestado.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Whitaker registra cotana como adj. (1/2); forma pode ser variante gráfica ou rara.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_6922:6922:15\",\"lemas\":[\"cotana\"],\"lema_canonico\":\"cotana\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"adjetivo atestado em alguns léxicos (variante gráfica); significado preciso incerto/raremente atestado.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Whitaker registra cotana como adj. (1/2); forma pode ser variante gráfica ou rara.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_6922-e4",
-    "volume_id": "faria",
-    "doc_name": "chunk_6922",
-    "page_num": 6922,
-    "lemmas": [
-      "cotidie",
-      "cotidie"
-    ],
-    "morfologia": "adv.",
-    "morph_render": "adv.",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "diariamente; todo dia, dia a dia.",
-    "exemplos": [],
-    "notas": "Correção do manuscrito 'cotídianō*' para a forma atestada 'cotidiē'. | [dedupe] redirect → chunk_6899:6899:0 | [dedupe] redirect → chunk_6899:6899:0",
-    "raw_text": "{\"id\":\"chunk_6922:6922:16\",\"lemas\":[\"cotidie\"],\"lema_canonico\":\"cotidie\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"diariamente; todo dia, dia a dia.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Correção do manuscrito 'cotídianō*' para a forma atestada 'cotidiē'.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_6922:6922:16\",\"lemas\":[\"cotidie\"],\"lema_canonico\":\"cotidie\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"diariamente; todo dia, dia a dia.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Correção do manuscrito 'cotídianō*' para a forma atestada 'cotidiē'.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_6922-e5",
-    "volume_id": "faria",
-    "doc_name": "chunk_6922",
-    "page_num": 6922,
-    "lemmas": [
-      "covinarius",
-      "covinarius"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "soldier who fought from a chariot (rare; attested in Tacitus).",
-    "exemplos": [],
-    "notas": "Lewis & Short registra cŏvīnārĭus; forma é rara, mas atestada em Tacitus. | [dedupe] redirect → chunk_6921:6921:0 | [dedupe] redirect → chunk_6921:6921:0",
-    "raw_text": "{\"id\":\"chunk_6922:6922:17\",\"lemas\":[\"covinarius\"],\"lema_canonico\":\"covinarius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"soldier who fought from a chariot (rare; attested in Tacitus).\",\"aliases\":[],\"exemplos\":[\"Tac. Agr. 35-36\"],\"notas\":\"Lewis & Short registra cŏvīnārĭus; forma é rara, mas atestada em Tacitus.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_6922:6922:17\",\"lemas\":[\"covinarius\"],\"lema_canonico\":\"covinarius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"soldier who fought from a chariot (rare; attested in Tacitus).\",\"aliases\":[],\"exemplos\":[\"Tac. Agr. 35-36\"],\"notas\":\"Lewis & Short registra cŏvīnārĭus; forma é rara, mas atestada em Tacitus.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_6922-e6",
     "volume_id": "faria",
     "doc_name": "chunk_6922",
@@ -3166,116 +2704,6 @@
     "notas": "Incluídas variantes atestadas (cosmēta / cosmētēs); alinhado com LS, Whitaker e Lat→Deu.",
     "raw_text": "{\"id\":\"chunk_6922:6922:1\",\"lemas\":[\"cosmēta\",\"cosmētēs\",\"cosmeta\",\"cosmetes\"],\"lema_canonico\":\"cosmēta\",\"morfologia\":\"s. masc. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"escravo encarregado do adorno/vestuário da senhora; valete responsável pela ornamentação da sua senhora\",\"aliases\":[],\"exemplos\":[\"Juv. 6, 477\"],\"notas\":\"Incluídas variantes atestadas (cosmēta / cosmētēs); alinhado com LS, Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_6922:6922:1\",\"lemas\":[\"cosmēta\",\"cosmētēs\",\"cosmeta\",\"cosmetes\"],\"lema_canonico\":\"cosmēta\",\"morfologia\":\"s. masc. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"escravo encarregado do adorno/vestuário da senhora; valete responsável pela ornamentação da sua senhora\",\"aliases\":[],\"exemplos\":[\"Juv. 6, 477\"],\"notas\":\"Incluídas variantes atestadas (cosmēta / cosmētēs); alinhado com LS, Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_6922-e8",
-    "volume_id": "faria",
-    "doc_name": "chunk_6922",
-    "page_num": 6922,
-    "lemmas": [
-      "comans",
-      "comans"
-    ],
-    "morfologia": "adj. (3) 1T",
-    "morph_render": "adj. (3) 1T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "peludo; de cabelos longos; provido de folhagem; emplumado; com ramos ou adorno fluente (poético)",
-    "exemplos": [],
-    "notas": "Uniformizado com entradas de Whitaker e LS; forma adjectival do tipo comans, antis (particípio/adjetivo). | [dedupe] redirect → chunk_5579:5579:5 | [dedupe] redirect → chunk_5579:5579:5",
-    "raw_text": "{\"id\":\"chunk_6922:6922:2\",\"lemas\":[\"comans\",\"cŏmans\"],\"lema_canonico\":\"comans\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[],\"definicao\":\"peludo; de cabelos longos; provido de folhagem; emplumado; com ramos ou adorno fluente (poético)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Uniformizado com entradas de Whitaker e LS; forma adjectival do tipo comans, antis (particípio/adjetivo).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_6922:6922:2\",\"lemas\":[\"comans\",\"cŏmans\"],\"lema_canonico\":\"comans\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[],\"definicao\":\"peludo; de cabelos longos; provido de folhagem; emplumado; com ramos ou adorno fluente (poético)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Uniformizado com entradas de Whitaker e LS; forma adjectival do tipo comans, antis (particípio/adjetivo).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_6922-e9",
-    "volume_id": "faria",
-    "doc_name": "chunk_6922",
-    "page_num": 6922,
-    "lemmas": [
-      "vinarius",
-      "vinarius"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "relativo ao vinho; também subst. vīnārĭus, ii, m., vendedor de vinho, tavernista.",
-    "exemplos": [],
-    "notas": "Corrigida ortografia (removido 'vinari.us'); inclui tanto uso adjetival quanto substantival conforme LS/Whitaker. | [dedupe] redirect → chunk_30093:30093:0 | [dedupe] redirect → chunk_30093:30093:0",
-    "raw_text": "{\"id\":\"chunk_6922:6922:18\",\"lemas\":[\"vinarius\",\"vinaria\",\"vinarium\"],\"lema_canonico\":\"vinarius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo ao vinho; também subst. vīnārĭus, ii, m., vendedor de vinho, tavernista.\",\"aliases\":[],\"exemplos\":[\"Plaut. As. 2, 4, 30\",\"Suet. Claud. 40\"],\"notas\":\"Corrigida ortografia (removido 'vinari.us'); inclui tanto uso adjetival quanto substantival conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_6922:6922:18\",\"lemas\":[\"vinarius\",\"vinaria\",\"vinarium\"],\"lema_canonico\":\"vinarius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo ao vinho; também subst. vīnārĭus, ii, m., vendedor de vinho, tavernista.\",\"aliases\":[],\"exemplos\":[\"Plaut. As. 2, 4, 30\",\"Suet. Claud. 40\"],\"notas\":\"Corrigida ortografia (removido 'vinari.us'); inclui tanto uso adjetival quanto substantival conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_6922-e10",
-    "volume_id": "faria",
-    "doc_name": "chunk_6922",
-    "page_num": 6922,
-    "lemmas": [
-      "vis",
-      "vis"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "força, vigor, poder; violência; termo usado sobretudo no singular (mas com plur. e alguns casos oblíquos irregulares).",
-    "exemplos": [],
-    "notas": "Uniformizado com evidências de LS e Whitaker; mantida ênfase no uso singular. | [dedupe] redirect → chunk_17532:17532:3 | [dedupe] redirect → chunk_17532:17532:3",
-    "raw_text": "{\"id\":\"chunk_6922:6922:19\",\"lemas\":[\"vis\"],\"lema_canonico\":\"vis\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"força, vigor, poder; violência; termo usado sobretudo no singular (mas com plur. e alguns casos oblíquos irregulares).\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 1, 70\",\"Lucr. 3, 265\"],\"notas\":\"Uniformizado com evidências de LS e Whitaker; mantida ênfase no uso singular.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_6922:6922:19\",\"lemas\":[\"vis\"],\"lema_canonico\":\"vis\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"força, vigor, poder; violência; termo usado sobretudo no singular (mas com plur. e alguns casos oblíquos irregulares).\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 1, 70\",\"Lucr. 3, 265\"],\"notas\":\"Uniformizado com evidências de LS e Whitaker; mantida ênfase no uso singular.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_6922-e11",
-    "volume_id": "faria",
-    "doc_name": "chunk_6922",
-    "page_num": 6922,
-    "lemmas": [
-      "comptus",
-      "comptus"
-    ],
-    "morfologia": "s. masc. 4ª (-us)",
-    "morph_render": "s. masc. 4ª (-us)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "comptus (comtus): ornamentum capitis; coma composita, capillum ornatum; também adj. ‘adornatus, ornatus’",
-    "exemplos": [],
-    "notas": "Unificadas formas variantes (comptus = comptus = comtus); entrada contempla substantivo primário; adj. acepções implícitas. | [dedupe] redirect → chunk_5855:5855:0 | [dedupe] redirect → chunk_5855:5855:0",
-    "raw_text": "{\"id\":\"chunk_6922:6922:3\",\"lemas\":[\"comptus\",\"comtus\",\"compta\",\"comptum\"],\"lema_canonico\":\"comptus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"comptus (comtus): ornamentum capitis; coma composita, capillum ornatum; também adj. ‘adornatus, ornatus’\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 10, 63\"],\"notas\":\"Unificadas formas variantes (comptus = comptus = comtus); entrada contempla substantivo primário; adj. acepções implícitas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_6922:6922:3\",\"lemas\":[\"comptus\",\"comtus\",\"compta\",\"comptum\"],\"lema_canonico\":\"comptus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"comptus (comtus): ornamentum capitis; coma composita, capillum ornatum; também adj. ‘adornatus, ornatus’\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 10, 63\"],\"notas\":\"Unificadas formas variantes (comptus = comptus = comtus); entrada contempla substantivo primário; adj. acepções implícitas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_6922-e12",
-    "volume_id": "faria",
-    "doc_name": "chunk_6922",
-    "page_num": 6922,
-    "lemmas": [
-      "cōmo",
-      "cōmo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "penteare; ornare, disponere capillos; providere, curare; formar, arregimentar",
-    "exemplos": [],
-    "notas": "Formas perf. e sup. indicadas (compsi, comptum); grafia clássica com macron sobre o o inicial. | [dedupe] redirect → chunk_5741:5741:0 | [dedupe] redirect → chunk_5741:5741:0",
-    "raw_text": "{\"id\":\"chunk_6922:6922:4\",\"lemas\":[\"cōmo\",\"comere\",\"compsi\",\"comptum\"],\"lema_canonico\":\"cōmo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"penteare; ornare, disponere capillos; providere, curare; formar, arregimentar\",\"aliases\":[],\"exemplos\":[\"Lucr. 1, 950\",\"Plau. (passim)\"],\"notas\":\"Formas perf. e sup. indicadas (compsi, comptum); grafia clássica com macron sobre o o inicial.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_6922:6922:4\",\"lemas\":[\"cōmo\",\"comere\",\"compsi\",\"comptum\"],\"lema_canonico\":\"cōmo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"penteare; ornare, disponere capillos; providere, curare; formar, arregimentar\",\"aliases\":[],\"exemplos\":[\"Lucr. 1, 950\",\"Plau. (passim)\"],\"notas\":\"Formas perf. e sup. indicadas (compsi, comptum); grafia clássica com macron sobre o o inicial.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_6922-e13",
@@ -3344,28 +2772,6 @@
     "raw_json": "{\"id\":\"chunk_6922:6922:7\",\"lemas\":[\"cōnformō\",\"conformāre\",\"conformāvī\",\"conformātum\"],\"lema_canonico\":\"cōnformō\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"formare, figere; dar forma, modelar; adaptar, conformar, instruire (trans.)\",\"aliases\":[],\"exemplos\":[\"Cic. N. D.\",\"Cic. Fam.\"],\"notas\":\"Conjugação e formas perfeitas conforme LS e Lat→Deu; exemplos atestados por autores clássicos.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_6922-e16",
-    "volume_id": "faria",
-    "doc_name": "chunk_6922",
-    "page_num": 6922,
-    "lemmas": [
-      "correptio",
-      "correptio"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "seizure, attack (onset of disease); reproof, rebuke, censure; shortening (in prosody)",
-    "exemplos": [],
-    "notas": "Consolidei variantes; sentido múltiplo confirmado por LS/Whitaker/Lat→Deu. | [dedupe] redirect → chunk_6805:6805:1 | [dedupe] redirect → chunk_6805:6805:1",
-    "raw_text": "{\"id\":\"chunk_6922:6922:8\",\"lemas\":[\"correptio\",\"correptĭo\"],\"lema_canonico\":\"correptio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"seizure, attack (onset of disease); reproof, rebuke, censure; shortening (in prosody)\",\"aliases\":[],\"exemplos\":[\"Gell. 20, 10, 8\",\"Scrib. Comp. 171\",\"Quint. 7, 9, 13\",\"Vitr. 9, 9\"],\"notas\":\"Consolidei variantes; sentido múltiplo confirmado por LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_6922:6922:8\",\"lemas\":[\"correptio\",\"correptĭo\"],\"lema_canonico\":\"correptio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"seizure, attack (onset of disease); reproof, rebuke, censure; shortening (in prosody)\",\"aliases\":[],\"exemplos\":[\"Gell. 20, 10, 8\",\"Scrib. Comp. 171\",\"Quint. 7, 9, 13\",\"Vitr. 9, 9\"],\"notas\":\"Consolidei variantes; sentido múltiplo confirmado por LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_6922-e17",
     "volume_id": "faria",
     "doc_name": "chunk_6922",
@@ -3386,50 +2792,6 @@
     "notas": "Entrada tratada como o verbo tardio atestado por LS; forma classificada como 1ª conj. intransitiva.",
     "raw_text": "{\"id\":\"chunk_6922:6922:9\",\"lemas\":[\"correpto\"],\"lema_canonico\":\"correpto\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"verb (freq., late): to creep, to crawl, to crawl in; chiefly intransitive\",\"aliases\":[],\"exemplos\":[\"Juvenc. 2, 192\"],\"notas\":\"Entrada tratada como o verbo tardio atestado por LS; forma classificada como 1ª conj. intransitiva.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_6922:6922:9\",\"lemas\":[\"correpto\"],\"lema_canonico\":\"correpto\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"verb (freq., late): to creep, to crawl, to crawl in; chiefly intransitive\",\"aliases\":[],\"exemplos\":[\"Juvenc. 2, 192\"],\"notas\":\"Entrada tratada como o verbo tardio atestado por LS; forma classificada como 1ª conj. intransitiva.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_6922-e18",
-    "volume_id": "faria",
-    "doc_name": "chunk_6922",
-    "page_num": 6922,
-    "lemmas": [
-      "correptor",
-      "correptor"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "a reprover, censurer; (rare) may be a variant reading for corrector in some MSS",
-    "exemplos": [],
-    "notas": "LS registra leitura rara; editoral variants (corrector) notated. | [dedupe] redirect → chunk_6806:6806:0 | [dedupe] redirect → chunk_6806:6806:0",
-    "raw_text": "{\"id\":\"chunk_6922:6922:10\",\"lemas\":[\"correptor\"],\"lema_canonico\":\"correptor\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"a reprover, censurer; (rare) may be a variant reading for corrector in some MSS\",\"aliases\":[],\"exemplos\":[\"Sen. Ira\"],\"notas\":\"LS registra leitura rara; editoral variants (corrector) notated.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_6922:6922:10\",\"lemas\":[\"correptor\"],\"lema_canonico\":\"correptor\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"a reprover, censurer; (rare) may be a variant reading for corrector in some MSS\",\"aliases\":[],\"exemplos\":[\"Sen. Ira\"],\"notas\":\"LS registra leitura rara; editoral variants (corrector) notated.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_6922-e19",
-    "volume_id": "faria",
-    "doc_name": "chunk_6922",
-    "page_num": 6922,
-    "lemmas": [
-      "corripio",
-      "corripio"
-    ],
-    "morfologia": "v. 3ª -iō (-ere)",
-    "morph_render": "v. 3ª -iō (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "to seize violently, take hold of; to attack, overtake; to rebuke, chastise; to hasten, pass quickly (transitive senses predominant)",
-    "exemplos": [],
-    "notas": "Conservei as leituras principais (pres., perf., sup.) atestadas por LS e Lat→Deu. | [dedupe] redirect → chunk_6812:6812:0 | [dedupe] redirect → chunk_6812:6812:0",
-    "raw_text": "{\"id\":\"chunk_6922:6922:11\",\"lemas\":[\"corripio\",\"corripere\"],\"lema_canonico\":\"corripio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"to seize violently, take hold of; to attack, overtake; to rebuke, chastise; to hasten, pass quickly (transitive senses predominant)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Conservei as leituras principais (pres., perf., sup.) atestadas por LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_6922:6922:11\",\"lemas\":[\"corripio\",\"corripere\"],\"lema_canonico\":\"corripio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"to seize violently, take hold of; to attack, overtake; to rebuke, chastise; to hasten, pass quickly (transitive senses predominant)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Conservei as leituras principais (pres., perf., sup.) atestadas por LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_6922-e20",
@@ -3960,28 +3322,6 @@
     "raw_json": "{\"id\":\"chunk_6944:6944:1\",\"lemas\":[\"Crateis\",\"Crateïs\"],\"lema_canonico\":\"Crateis\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"nome próprio feminino (Crateide), ninfa citada em Homero; também pessoa mencionada por Plínio.\",\"aliases\":[],\"exemplos\":[\"Hom. Od. 12, 143\",\"Hom. Od. 12, 749\",\"Plin. Nat. 5, 73\"],\"notas\":\"Genitivo -idis confirmado; acentuação iônica (Crateïs) preservada como variante editorial. Não indicar etimologia com cratis sem evidência.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}"
   },
   {
-    "id": "chunk_6945-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_6945",
-    "page_num": 6945,
-    "lemmas": [
-      "cratēr",
-      "cratēr"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "vaso grande para misturar vinho com água; vasilha; pia de fonte; cratera (vulcão); taça (constelação).",
-    "exemplos": [],
-    "notas": "Grafia e genitivo harmonizados com Lewis & Short (crātēr, ēris). | [dedupe] redirect → chunk_6946:6946:0 | [dedupe] redirect → chunk_6946:6946:0",
-    "raw_text": "{\"id\":\"chunk_6945:6945:0\",\"lemas\":[\"cratēr\",\"crater\"],\"lema_canonico\":\"cratēr\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"vaso grande para misturar vinho com água; vasilha; pia de fonte; cratera (vulcão); taça (constelação).\",\"aliases\":[],\"exemplos\":[\"Verg. Aen. 1, 728\",\"Verg. Aen. 6, 225\",\"Plin. Ep. 5, 6, 23\",\"Luc. F. 701\",\"Ov. F. 2, 206\"],\"notas\":\"Grafia e genitivo harmonizados com Lewis & Short (crātēr, ēris).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_6945:6945:0\",\"lemas\":[\"cratēr\",\"crater\"],\"lema_canonico\":\"cratēr\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"vaso grande para misturar vinho com água; vasilha; pia de fonte; cratera (vulcão); taça (constelação).\",\"aliases\":[],\"exemplos\":[\"Verg. Aen. 1, 728\",\"Verg. Aen. 6, 225\",\"Plin. Ep. 5, 6, 23\",\"Luc. F. 701\",\"Ov. F. 2, 206\"],\"notas\":\"Grafia e genitivo harmonizados com Lewis & Short (crātēr, ēris).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_6946-e1",
     "volume_id": "faria",
     "doc_name": "chunk_6946",
@@ -4026,50 +3366,6 @@
     "raw_json": "{\"id\":\"chunk_6947:6947:0\",\"lemas\":[\"crātēra\",\"cratera\"],\"lema_canonico\":\"cratera\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"a mixing-vessel for wine and water; also a cup/constellation (the Cup) and a bowl-shaped depression.\",\"aliases\":[\"crātēr\"],\"exemplos\":[\"Cic. Verr. 4, 131\",\"Cic. Arat. 219\"],\"notas\":\"Forma feminina crātēra per LS; cross-reference to crātēr noted in traditional lexica.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_6948-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_6948",
-    "page_num": 6948,
-    "lemmas": [
-      "Crates",
-      "Crates"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "anthroponymic Greek name (e.g. a physician/philosopher attested in classical sources).",
-    "exemplos": [],
-    "notas": "normalizada grafia sem diacríticos; identificado com entries de LS. | [dedupe] redirect → chunk_6949:6949:0 | [dedupe] redirect → chunk_6949:6949:0",
-    "raw_text": "{\"id\":\"chunk_6948:6948:0\",\"lemas\":[\"Crates\"],\"lema_canonico\":\"Crates\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"anthroponymic Greek name (e.g. a physician/philosopher attested in classical sources).\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 12, 13, 1\"],\"notas\":\"normalizada grafia sem diacríticos; identificado com entries de LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_6948:6948:0\",\"lemas\":[\"Crates\"],\"lema_canonico\":\"Crates\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"anthroponymic Greek name (e.g. a physician/philosopher attested in classical sources).\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 12, 13, 1\"],\"notas\":\"normalizada grafia sem diacríticos; identificado com entries de LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_6948-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_6948",
-    "page_num": 6948,
-    "lemmas": [
-      "crătes",
-      "crates"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "entrada é referência cruzada para cratis (treliça, vime, fascine); definido como redirect_only. | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='crates' → 'crătes'",
-    "raw_text": "{\"id\":\"chunk_6948:6948:1\",\"lemas\":[\"crates\"],\"lema_canonico\":\"crates\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"cratis\"],\"exemplos\":[],\"notas\":\"entrada é referência cruzada para cratis (treliça, vime, fascine); definido como redirect_only.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_6948:6948:1\",\"lemas\":[\"crates\"],\"lema_canonico\":\"crates\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"cratis\"],\"exemplos\":[],\"notas\":\"entrada é referência cruzada para cratis (treliça, vime, fascine); definido como redirect_only.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\",\"redirect_only\"]}"
-  },
-  {
     "id": "chunk_6949-e1",
     "volume_id": "faria",
     "doc_name": "chunk_6949",
@@ -4090,28 +3386,6 @@
     "notas": "Proper-name form attested in LS; distinct from the noun cratis (wickerwork).",
     "raw_text": "{\"id\":\"chunk_6949:6949:0\",\"lemas\":[\"Crătes\",\"Crates\"],\"lema_canonico\":\"Crates\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Crates, Greek proper name (philosopher of the Academy).\",\"aliases\":[],\"exemplos\":[\"Cic. Ac. 1, 34\"],\"notas\":\"Proper-name form attested in LS; distinct from the noun cratis (wickerwork).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_6949:6949:0\",\"lemas\":[\"Crătes\",\"Crates\"],\"lema_canonico\":\"Crates\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Crates, Greek proper name (philosopher of the Academy).\",\"aliases\":[],\"exemplos\":[\"Cic. Ac. 1, 34\"],\"notas\":\"Proper-name form attested in LS; distinct from the noun cratis (wickerwork).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_6949-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_6949",
-    "page_num": 6949,
-    "lemmas": [
-      "cratis",
-      "cratis"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "wicker-work, a hurdle or wicker frame; bundle of brush or fascine; a bush-harrow or similar agricultural implement.",
-    "exemplos": [],
-    "notas": "Form and senses per Lewis & Short and Whitaker; LS notes occasional confusion with nominative 'crătes'. | [dedupe] redirect → chunk_6944:6944:0 | [dedupe] redirect → chunk_6944:6944:0",
-    "raw_text": "{\"id\":\"chunk_6949:6949:1\",\"lemas\":[\"crātis\",\"cratis\"],\"lema_canonico\":\"cratis\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"wicker-work, a hurdle or wicker frame; bundle of brush or fascine; a bush-harrow or similar agricultural implement.\",\"aliases\":[],\"exemplos\":[\"Verg. A. 11, 64\",\"Hor. Epod. 2, 45\"],\"notas\":\"Form and senses per Lewis & Short and Whitaker; LS notes occasional confusion with nominative 'crătes'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_6949:6949:1\",\"lemas\":[\"crātis\",\"cratis\"],\"lema_canonico\":\"cratis\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"wicker-work, a hurdle or wicker frame; bundle of brush or fascine; a bush-harrow or similar agricultural implement.\",\"aliases\":[],\"exemplos\":[\"Verg. A. 11, 64\",\"Hor. Epod. 2, 45\"],\"notas\":\"Form and senses per Lewis & Short and Whitaker; LS notes occasional confusion with nominative 'crătes'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_6950-e1",
@@ -4200,28 +3474,6 @@
     "notas": "Proper name per Lewis & Short; ensure not confused with cratis (noun). | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='Cratīnus' → 'Crătīnus'",
     "raw_text": "{\"id\":\"chunk_6952:6952:0\",\"lemas\":[\"Cratīnus\",\"Cratinus\"],\"lema_canonico\":\"Cratīnus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Cratinus, celebrated Athenian comic poet of the Old Comedy (contemporary of Eupolis and Aristophanes).\",\"aliases\":[],\"exemplos\":[\"Hor. Ep. 1, 19, 1\",\"Hor. Sat. 1, 4, 1\",\"Hor. Pers. 1, 123\",\"Quint. 10, 1, 65\"],\"notas\":\"Proper name per Lewis & Short; ensure not confused with cratis (noun).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_6952:6952:0\",\"lemas\":[\"Cratīnus\",\"Cratinus\"],\"lema_canonico\":\"Cratīnus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Cratinus, celebrated Athenian comic poet of the Old Comedy (contemporary of Eupolis and Aristophanes).\",\"aliases\":[],\"exemplos\":[\"Hor. Ep. 1, 19, 1\",\"Hor. Sat. 1, 4, 1\",\"Hor. Pers. 1, 123\",\"Quint. 10, 1, 65\"],\"notas\":\"Proper name per Lewis & Short; ensure not confused with cratis (noun).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_6953-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_6953",
-    "page_num": 6953,
-    "lemmas": [
-      "catillus",
-      "catillus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "pequena tigela, pratela; ornamento de bainha; mós superior (upper millstone)",
-    "exemplos": [],
-    "notas": "Formas e sentidos atestados em Lewis & Short e Whitaker; lema mantido na forma masc. -us. | [dedupe] redirect → chunk_4468:4468:1 | [dedupe] redirect → chunk_4468:4468:1",
-    "raw_text": "{\"id\":\"chunk_6953:6953:0\",\"lemas\":[\"catillus\"],\"lema_canonico\":\"catillus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"pequena tigela, pratela; ornamento de bainha; mós superior (upper millstone)\",\"aliases\":[],\"exemplos\":[\"Cato, R. R. 84\",\"Hor. S. 2, 4, 75\",\"Col. 12, 57, 1\",\"Plin. 33, 12, 54\"],\"notas\":\"Formas e sentidos atestados em Lewis & Short e Whitaker; lema mantido na forma masc. -us.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_6953:6953:0\",\"lemas\":[\"catillus\"],\"lema_canonico\":\"catillus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"pequena tigela, pratela; ornamento de bainha; mós superior (upper millstone)\",\"aliases\":[],\"exemplos\":[\"Cato, R. R. 84\",\"Hor. S. 2, 4, 75\",\"Col. 12, 57, 1\",\"Plin. 33, 12, 54\"],\"notas\":\"Formas e sentidos atestados em Lewis & Short e Whitaker; lema mantido na forma masc. -us.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_6953-e2",
@@ -4334,28 +3586,6 @@
     "raw_json": "{\"id\":\"chunk_6954:6954:0\",\"lemas\":[\"Cratippus\",\"Crătippus\"],\"lema_canonico\":\"Cratippus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"proper name: a Peripatetic philosopher of Athens mentioned by Cicero\",\"aliases\":[],\"exemplos\":[\"Cic. Off. 1, 1, 1\",\"Cic. Off. 2, 2, 8\",\"Cic. Div. 1, 3, 5\",\"Cic. Fam. 16, 21, 3\"],\"notas\":\"Lema e frequentes referências verificadas em Lewis & Short.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_6955-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_6955",
-    "page_num": 6955,
-    "lemmas": [
-      "cratis",
-      "cratis"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Objeto de vimes entrelaçados; treliça, grade, grelha; harrow (instrumento agrícola); feixe de varas (fascines). Frequentemente usado no plural (plurale tantum); acus. sing. cratem; variante cratim atestada.",
-    "exemplos": [],
-    "notas": "Unificado conforme Lewis & Short / Whitaker; mantida referência a pluralidade e formas acusativas. | [dedupe] redirect → chunk_6944:6944:0 | [dedupe] redirect → chunk_6944:6944:0",
-    "raw_text": "{\"id\":\"chunk_6955:6955:0\",\"lemas\":[\"cratis\",\"crates\"],\"lema_canonico\":\"cratis\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Objeto de vimes entrelaçados; treliça, grade, grelha; harrow (instrumento agrícola); feixe de varas (fascines). Frequentemente usado no plural (plurale tantum); acus. sing. cratem; variante cratim atestada.\",\"aliases\":[],\"exemplos\":[\"Verg. A. 7, 633\",\"Verg. G. 1, 94\",\"Plaut. Poen. 5, 2, 65\",\"Plin. Nat. 18, 16, 43\",\"Juv. 11, 82\"],\"notas\":\"Unificado conforme Lewis & Short / Whitaker; mantida referência a pluralidade e formas acusativas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_6955:6955:0\",\"lemas\":[\"cratis\",\"crates\"],\"lema_canonico\":\"cratis\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Objeto de vimes entrelaçados; treliça, grade, grelha; harrow (instrumento agrícola); feixe de varas (fascines). Frequentemente usado no plural (plurale tantum); acus. sing. cratem; variante cratim atestada.\",\"aliases\":[],\"exemplos\":[\"Verg. A. 7, 633\",\"Verg. G. 1, 94\",\"Plaut. Poen. 5, 2, 65\",\"Plin. Nat. 18, 16, 43\",\"Juv. 11, 82\"],\"notas\":\"Unificado conforme Lewis & Short / Whitaker; mantida referência a pluralidade e formas acusativas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_6956-e1",
     "volume_id": "faria",
     "doc_name": "chunk_6956",
@@ -4464,28 +3694,6 @@
     "notas": "Grafias normalizadas para creber, crebra, crebrum; sentidos alinhados a LS/Whitaker.",
     "raw_text": "{\"id\":\"chunk_6960:6960:0\",\"lemas\":[\"creber\",\"crebra\",\"crebrum\"],\"lema_canonico\":\"creber\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Espesso, denso; apertado, próximo; numeroso, abundante; frequente, repetido, constante.\",\"aliases\":[],\"exemplos\":[\"Caes. B. Gall. 5, 9, 5\",\"Caes. B. Gall. 5, 12, 3\",\"Cic. Verr. 2, 122, 4\",\"Ov. Met. 11, 190\"],\"notas\":\"Grafias normalizadas para creber, crebra, crebrum; sentidos alinhados a LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_6960:6960:0\",\"lemas\":[\"creber\",\"crebra\",\"crebrum\"],\"lema_canonico\":\"creber\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Espesso, denso; apertado, próximo; numeroso, abundante; frequente, repetido, constante.\",\"aliases\":[],\"exemplos\":[\"Caes. B. Gall. 5, 9, 5\",\"Caes. B. Gall. 5, 12, 3\",\"Cic. Verr. 2, 122, 4\",\"Ov. Met. 11, 190\"],\"notas\":\"Grafias normalizadas para creber, crebra, crebrum; sentidos alinhados a LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_6961-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_6961",
-    "page_num": 6961,
-    "lemmas": [
-      "creber",
-      "creber"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "espesso, denso; frequentemente usado também como advérbio 'frequentemente, muitas vezes'",
-    "exemplos": [],
-    "notas": "Entrada unificada com Lewis & Short/Whitaker; lemme canônico dado como creber (forma masculina) | [dedupe] redirect → chunk_6960:6960:0 | [dedupe] redirect → chunk_6960:6960:0",
-    "raw_text": "{\"id\":\"chunk_6961:6961:0\",\"lemas\":[\"crebra\",\"crebrae\"],\"lema_canonico\":\"creber\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"adv.\"],\"definicao\":\"espesso, denso; frequentemente usado também como advérbio 'frequentemente, muitas vezes'\",\"aliases\":[],\"exemplos\":[\"Verg. G. 3, 500\"],\"notas\":\"Entrada unificada com Lewis & Short/Whitaker; lemme canônico dado como creber (forma masculina)\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_6961:6961:0\",\"lemas\":[\"crebra\",\"crebrae\"],\"lema_canonico\":\"creber\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"adv.\"],\"definicao\":\"espesso, denso; frequentemente usado também como advérbio 'frequentemente, muitas vezes'\",\"aliases\":[],\"exemplos\":[\"Verg. G. 3, 500\"],\"notas\":\"Entrada unificada com Lewis & Short/Whitaker; lemme canônico dado como creber (forma masculina)\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_6961-e2",
@@ -4684,28 +3892,6 @@
     "notas": "Normalizado para crepiticulum; gênero e sentido alinhados com Whitaker e LS",
     "raw_text": "{\"id\":\"chunk_6969:6969:0\",\"lemas\":[\"crepiticulum\"],\"lema_canonico\":\"crepiticulum\",\"morfologia\":\"s. neut. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"diminutivo de crepitus: pequeno chocalho/pandeiro; ruído, estalido (instrumento ruidoso)\",\"aliases\":[],\"exemplos\":[\"Lucr. 5, 229\"],\"notas\":\"Normalizado para crepiticulum; gênero e sentido alinhados com Whitaker e LS\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_6969:6969:0\",\"lemas\":[\"crepiticulum\"],\"lema_canonico\":\"crepiticulum\",\"morfologia\":\"s. neut. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"diminutivo de crepitus: pequeno chocalho/pandeiro; ruído, estalido (instrumento ruidoso)\",\"aliases\":[],\"exemplos\":[\"Lucr. 5, 229\"],\"notas\":\"Normalizado para crepiticulum; gênero e sentido alinhados com Whitaker e LS\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_6970-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_6970",
-    "page_num": 6970,
-    "lemmas": [
-      "crepiticulum",
-      "crepiticulum"
-    ],
-    "morfologia": "s. neut. 4ª (-us)",
-    "morph_render": "s. neut. 4ª (-us)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "pandeiro, matraca, chocalho; instrumento que produz crepitação (uso em evangelhos/Lat. vulg.)",
-    "exemplos": [],
-    "notas": "Unificação da variante OCR; preferida forma neutra em -um conforme uso diminutivo e Whitaker | [dedupe] redirect → chunk_6969:6969:0 | [dedupe] redirect → chunk_6969:6969:0",
-    "raw_text": "{\"id\":\"chunk_6970:6970:0\",\"lemas\":[\"crepiticulum\"],\"lema_canonico\":\"crepiticulum\",\"morfologia\":\"s. neut. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"pandeiro, matraca, chocalho; instrumento que produz crepitação (uso em evangelhos/Lat. vulg.)\",\"aliases\":[],\"exemplos\":[\"Marc. 14, 54\"],\"notas\":\"Unificação da variante OCR; preferida forma neutra em -um conforme uso diminutivo e Whitaker\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_6970:6970:0\",\"lemas\":[\"crepiticulum\"],\"lema_canonico\":\"crepiticulum\",\"morfologia\":\"s. neut. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"pandeiro, matraca, chocalho; instrumento que produz crepitação (uso em evangelhos/Lat. vulg.)\",\"aliases\":[],\"exemplos\":[\"Marc. 14, 54\"],\"notas\":\"Unificação da variante OCR; preferida forma neutra em -um conforme uso diminutivo e Whitaker\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_6971-e1",
@@ -5126,28 +4312,6 @@
     "raw_json": "{\"id\":\"chunk_6987:6987:0\",\"lemas\":[\"cretitus\",\"crētĭtus\"],\"lema_canonico\":\"cretitus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"marked or whitened with chalk/clay; (of a person) having applied white cosmetic; figuratively, dressed in white\",\"aliases\":[],\"exemplos\":[\"Juv. 10, 66\"],\"notas\":\"Tratado como adjetivo derivado (cf. Whitaker/LS); acepção adverbial atestada em algumas fontes omitida por concisão.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_6988-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_6988",
-    "page_num": 6988,
-    "lemmas": [
-      "Crētēnsis",
-      "Crētēnsis"
-    ],
-    "morfologia": "adj. (3) 2T",
-    "morph_render": "adj. (3) 2T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "of or pertaining to Crete; as substantive (Crētānī) the Cretans, inhabitants of Crete",
-    "exemplos": [],
-    "notas": "Agrupadas formas relacionadas (adjetivo -ensis; substantivo plural Crētānī) e normalizados diacríticos. | [dedupe] redirect → chunk_6989:6989:0 | [dedupe] redirect → chunk_6989:6989:0",
-    "raw_text": "{\"id\":\"chunk_6988:6988:0\",\"lemas\":[\"Crētēnsis\",\"Crētensis\",\"Crētānus\",\"Crētānī\"],\"lema_canonico\":\"Crētēnsis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"of or pertaining to Crete; as substantive (Crētānī) the Cretans, inhabitants of Crete\",\"aliases\":[],\"exemplos\":[\"Plaut. Curc. 443\"],\"notas\":\"Agrupadas formas relacionadas (adjetivo -ensis; substantivo plural Crētānī) e normalizados diacríticos.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_6988:6988:0\",\"lemas\":[\"Crētēnsis\",\"Crētensis\",\"Crētānus\",\"Crētānī\"],\"lema_canonico\":\"Crētēnsis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"of or pertaining to Crete; as substantive (Crētānī) the Cretans, inhabitants of Crete\",\"aliases\":[],\"exemplos\":[\"Plaut. Curc. 443\"],\"notas\":\"Agrupadas formas relacionadas (adjetivo -ensis; substantivo plural Crētānī) e normalizados diacríticos.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_6989-e1",
     "volume_id": "faria",
     "doc_name": "chunk_6989",
@@ -5170,28 +4334,6 @@
     "raw_json": "{\"id\":\"chunk_6989:6989:0\",\"lemas\":[\"cretensis\",\"crētēnsis\"],\"lema_canonico\":\"cretensis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"Relativo a Creta; pertencente a Creta.\",\"aliases\":[],\"exemplos\":[\"Cic. Flac. 6\"],\"notas\":\"Forma classicalis Crētēnsis; adjetivo de duas terminações (-is, -e).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_6990-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_6990",
-    "page_num": 6990,
-    "lemmas": [
-      "cratera",
-      "cratera"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Recipiente para misturar vinho com água; tigela, bacia; por extensão, cratera (vulcão, cavidade).",
-    "exemplos": [],
-    "notas": "Normalizada para crātēra (f.). LS distingue também crater (m.) para abertura vulcânica; aqui entrada feminina. | [dedupe] redirect → chunk_6947:6947:0 | [dedupe] redirect → chunk_6947:6947:0",
-    "raw_text": "{\"id\":\"chunk_6990:6990:0\",\"lemas\":[\"cratera\",\"crātēra\"],\"lema_canonico\":\"cratera\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Recipiente para misturar vinho com água; tigela, bacia; por extensão, cratera (vulcão, cavidade).\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 7, 1, 2\"],\"notas\":\"Normalizada para crātēra (f.). LS distingue também crater (m.) para abertura vulcânica; aqui entrada feminina.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_6990:6990:0\",\"lemas\":[\"cratera\",\"crātēra\"],\"lema_canonico\":\"cratera\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Recipiente para misturar vinho com água; tigela, bacia; por extensão, cratera (vulcão, cavidade).\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 7, 1, 2\"],\"notas\":\"Normalizada para crātēra (f.). LS distingue também crater (m.) para abertura vulcânica; aqui entrada feminina.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_6991-e1",
     "volume_id": "faria",
     "doc_name": "chunk_6991",
@@ -5212,28 +4354,6 @@
     "notas": "Entrada apresenta o plural coletivo Crētes, gen. -ium; normalizado como substantivo de 3ª declinação. | [ocr_fix 2025-08-20T01:03:57Z] Correção automática de lema via Gaffiot | lemma_in='Cretes' → 'Crētes'",
     "raw_text": "{\"id\":\"chunk_6991:6991:0\",\"lemas\":[\"Cretes\",\"Cretenses\",\"Crētes\"],\"lema_canonico\":\"Cretes\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Os habitantes de Creta; os Cretenses.\",\"aliases\":[\"Cretenses\"],\"exemplos\":[\"Cic. Mur. 74\"],\"notas\":\"Entrada apresenta o plural coletivo Crētes, gen. -ium; normalizado como substantivo de 3ª declinação.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_6991:6991:0\",\"lemas\":[\"Cretes\",\"Cretenses\",\"Crētes\"],\"lema_canonico\":\"Cretes\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Os habitantes de Creta; os Cretenses.\",\"aliases\":[\"Cretenses\"],\"exemplos\":[\"Cic. Mur. 74\"],\"notas\":\"Entrada apresenta o plural coletivo Crētes, gen. -ium; normalizado como substantivo de 3ª declinação.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_6992-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_6992",
-    "page_num": 6992,
-    "lemmas": [
-      "crētĕus",
-      "crētĕus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "made of chalk or clay; of chalky/argillaceous material",
-    "exemplos": [],
-    "notas": "Grafia normalizada para crētĕus conforme LS; variantes listadas. | [dedupe] redirect → chunk_6985:6985:1 | [dedupe] redirect → chunk_6985:6985:1",
-    "raw_text": "{\"id\":\"chunk_6992:6992:0\",\"lemas\":[\"crētĕus\",\"creteus\",\"cretea\",\"creteum\"],\"lema_canonico\":\"crētĕus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"made of chalk or clay; of chalky/argillaceous material\",\"aliases\":[],\"exemplos\":[\"Lucr. 4, 295\",\"Lucr. 4, 298\"],\"notas\":\"Grafia normalizada para crētĕus conforme LS; variantes listadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_6992:6992:0\",\"lemas\":[\"crētĕus\",\"creteus\",\"cretea\",\"creteum\"],\"lema_canonico\":\"crētĕus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"made of chalk or clay; of chalky/argillaceous material\",\"aliases\":[],\"exemplos\":[\"Lucr. 4, 295\",\"Lucr. 4, 298\"],\"notas\":\"Grafia normalizada para crētĕus conforme LS; variantes listadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_6993-e1",
@@ -5278,28 +4398,6 @@
     "notas": "Forma grega/poética; fonte Whitaker registra como forma atípica; declinação incerta em latim.",
     "raw_text": "{\"id\":\"chunk_6994:6994:0\",\"lemas\":[\"Cretheiades\",\"Crēthēiades\"],\"lema_canonico\":\"Cretheiades\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Patronímico/nome próprio: 'descendente' (filho de Cretheus).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma grega/poética; fonte Whitaker registra como forma atípica; declinação incerta em latim.\",\"flags\":[\"src_whitaker\",\"conf:med\",\"morph_out_of_vocab\"]}",
     "raw_json": "{\"id\":\"chunk_6994:6994:0\",\"lemas\":[\"Cretheiades\",\"Crēthēiades\"],\"lema_canonico\":\"Cretheiades\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Patronímico/nome próprio: 'descendente' (filho de Cretheus).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma grega/poética; fonte Whitaker registra como forma atípica; declinação incerta em latim.\",\"flags\":[\"src_whitaker\",\"conf:med\",\"morph_out_of_vocab\"]}"
-  },
-  {
-    "id": "chunk_6995-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_6995",
-    "page_num": 6995,
-    "lemmas": [
-      "dē",
-      "dē"
-    ],
-    "morfologia": "prep. com abl.",
-    "morph_render": "prep. com abl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "preposição que indica origem, separação, acerca de, sobre, segundo, entre outros usos.",
-    "exemplos": [],
-    "notas": "Lema normalizado com macron (dē) seguindo LS; exemplos de uso variados. | [dedupe] redirect → chunk_27922:27922:0 | [dedupe] redirect → chunk_27922:27922:0",
-    "raw_text": "{\"id\":\"chunk_6995:6995:0\",\"lemas\":[\"dē\",\"de\"],\"lema_canonico\":\"dē\",\"morfologia\":\"prep. com abl.\",\"morph_extra\":[],\"definicao\":\"preposição que indica origem, separação, acerca de, sobre, segundo, entre outros usos.\",\"aliases\":[],\"exemplos\":[\"de vita decedere\",\"de nocte\",\"de libris\",\"de improviso\"],\"notas\":\"Lema normalizado com macron (dē) seguindo LS; exemplos de uso variados.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_6995:6995:0\",\"lemas\":[\"dē\",\"de\"],\"lema_canonico\":\"dē\",\"morfologia\":\"prep. com abl.\",\"morph_extra\":[],\"definicao\":\"preposição que indica origem, separação, acerca de, sobre, segundo, entre outros usos.\",\"aliases\":[],\"exemplos\":[\"de vita decedere\",\"de nocte\",\"de libris\",\"de improviso\"],\"notas\":\"Lema normalizado com macron (dē) seguindo LS; exemplos de uso variados.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_6995-e2",
@@ -5388,28 +4486,6 @@
     "notas": "Entrada 'crestos' é provavelmente leitura OCR de 'crētōsus'; normalizado para cretosus.",
     "raw_text": "{\"id\":\"chunk_6998:6998:0\",\"lemas\":[\"crestos\",\"cretosus\"],\"lema_canonico\":\"cretosus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Abundante em creta; argiloso.\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 7, 463\"],\"notas\":\"Entrada 'crestos' é provavelmente leitura OCR de 'crētōsus'; normalizado para cretosus.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_firstpass\",\"src_ocr\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_6998:6998:0\",\"lemas\":[\"crestos\",\"cretosus\"],\"lema_canonico\":\"cretosus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Abundante em creta; argiloso.\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 7, 463\"],\"notas\":\"Entrada 'crestos' é provavelmente leitura OCR de 'crētōsus'; normalizado para cretosus.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_firstpass\",\"src_ocr\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_6998-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_6998",
-    "page_num": 6998,
-    "lemmas": [
-      "cretosus",
-      "cretosus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Que abunda em creta ou argila; cretáceo, argiloso.",
-    "exemplos": [],
-    "notas": "Ortografia ajustada a Lewis & Short / Whitaker (crētōsus = cretosus). | [dedupe] redirect → chunk_6998:6998:0 | [dedupe] redirect → chunk_6998:6998:0",
-    "raw_text": "{\"id\":\"chunk_6998:6998:1\",\"lemas\":[\"crētōsus\",\"cretosus\",\"cretosus, cretosus\"],\"lema_canonico\":\"cretosus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Que abunda em creta ou argila; cretáceo, argiloso.\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 7, 463\"],\"notas\":\"Ortografia ajustada a Lewis & Short / Whitaker (crētōsus = cretosus).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_6998:6998:1\",\"lemas\":[\"crētōsus\",\"cretosus\",\"cretosus, cretosus\"],\"lema_canonico\":\"cretosus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Que abunda em creta ou argila; cretáceo, argiloso.\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 7, 463\"],\"notas\":\"Ortografia ajustada a Lewis & Short / Whitaker (crētōsus = cretosus).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_6999-e1",

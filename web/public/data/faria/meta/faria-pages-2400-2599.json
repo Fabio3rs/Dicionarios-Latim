@@ -264,28 +264,6 @@
     "raw_json": "{\"id\":\"chunk_2411:2411:0\",\"lemas\":[\"areo\",\"arēo\"],\"lema_canonico\":\"areo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"estar seco, secar‑se; estar ressequido, murchar; fig. estar privado de seiva/umidade\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 2, 211\",\"Verg. Buc. 7, 57\"],\"notas\":\"Formas e uso confirmados em Lewis & Short (ārĕo) e Whitaker (arēre).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_2412-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_2412",
-    "page_num": 2412,
-    "lemmas": [
-      "Ărēŏpăgus",
-      "Ărēŏpăgus"
-    ],
-    "morfologia": "s. masc. 1ª (-ae)",
-    "morph_render": "s. masc. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "membro do Areópago (juiz/membro do conselho judicial de Atenas)",
-    "exemplos": [],
-    "notas": "Entrada atestada no manuscrito/OCR; derivado de Areopagus. Verificação em fontes patrimoniais não unívoca.\n[ocr_pipeline 2025-08-16T23:09:17.542771Z] lemma_in='areopagita' → 'Ărēŏpăgus' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:03:47Z] match direto em LS por lemma/lemma_norm | lemma_in='Ărēŏpăgus' → 'Ărēŏpăgus' | [dedupe] redirect → chunk_2413:2413:0 | [dedupe] redirect → chunk_2413:2413:0",
-    "raw_text": "{\"id\":\"chunk_2412:2412:0\",\"lemas\":[\"areopagita\"],\"lema_canonico\":\"areopagita\",\"morfologia\":\"s. masc. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"membro do Areópago (juiz/membro do conselho judicial de Atenas)\",\"aliases\":[],\"exemplos\":[\"Cic. Phil. 5, 14\"],\"notas\":\"Entrada atestada no manuscrito/OCR; derivado de Areopagus. Verificação em fontes patrimoniais não unívoca.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_2412:2412:0\",\"lemas\":[\"areopagita\"],\"lema_canonico\":\"areopagita\",\"morfologia\":\"s. masc. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"membro do Areópago (juiz/membro do conselho judicial de Atenas)\",\"aliases\":[],\"exemplos\":[\"Cic. Phil. 5, 14\"],\"notas\":\"Entrada atestada no manuscrito/OCR; derivado de Areopagus. Verificação em fontes patrimoniais não unívoca.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
     "id": "chunk_2413-e1",
     "volume_id": "faria",
     "doc_name": "chunk_2413",
@@ -724,28 +702,6 @@
     "notas": "Sentidos principais confirmados por LS e Whitaker.",
     "raw_text": "{\"id\":\"chunk_2431:2431:0\",\"lemas\":[\"argentum\"],\"lema_canonico\":\"argentum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Prata (metal); objetos de prata; dinheiro, moeda (prata cunhada).\",\"aliases\":[],\"exemplos\":[\"Liv. 26, 47, 7\",\"Cic. Verr. 4, 32\",\"Plin. Nat. 33, 42\"],\"notas\":\"Sentidos principais confirmados por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_2431:2431:0\",\"lemas\":[\"argentum\"],\"lema_canonico\":\"argentum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Prata (metal); objetos de prata; dinheiro, moeda (prata cunhada).\",\"aliases\":[],\"exemplos\":[\"Liv. 26, 47, 7\",\"Cic. Verr. 4, 32\",\"Plin. Nat. 33, 42\"],\"notas\":\"Sentidos principais confirmados por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_2432-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_2432",
-    "page_num": 2432,
-    "lemmas": [
-      "Argēus",
-      "Argēus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Relativo a Argos (de Argos).",
-    "exemplos": [],
-    "notas": "Forma e exemplo conforme Lewis & Short; Whitaker não lista entrada explícita. | [dedupe] redirect → chunk_2440:2440:0 | [dedupe] redirect → chunk_2440:2440:0 | [ocr_fix 2025-08-17T19:44:58Z] match direto em LS por lemma/lemma_norm | lemma_in='Argēus' → 'Argēus'",
-    "raw_text": "{\"id\":\"chunk_2432:2432:0\",\"lemas\":[\"Argēus\",\"Argeus\"],\"lema_canonico\":\"Argēus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo a Argos (de Argos).\",\"aliases\":[],\"exemplos\":[\"Hor. O. 2, 6, 5\"],\"notas\":\"Forma e exemplo conforme Lewis & Short; Whitaker não lista entrada explícita.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_2432:2432:0\",\"lemas\":[\"Argēus\",\"Argeus\"],\"lema_canonico\":\"Argēus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo a Argos (de Argos).\",\"aliases\":[],\"exemplos\":[\"Hor. O. 2, 6, 5\"],\"notas\":\"Forma e exemplo conforme Lewis & Short; Whitaker não lista entrada explícita.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
     "id": "chunk_2433-e1",
@@ -1318,28 +1274,6 @@
     "notas": "Lewis & Short registra argūtus a, um (1/2); Whitaker aponta variação (3ª). Marcado conflito de classificação.\n[ocr_pipeline 2025-08-16T23:23:18.425383Z] lemma_in='argūtus' → 'argūtus' | motivo: match direto em LS por lemma/lemma_norm | [ocr_fix 2025-08-17T01:22:31Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='argūtus' → 'argūtus'",
     "raw_text": "{\"id\":\"chunk_2454:2454:9\",\"lemas\":[\"argūtus\"],\"lema_canonico\":\"argūtus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"I) Particípio perfeito passivo de arguō. II) (adj.) Claro, distinto; agudo, penetrante; sonoro, melodioso (poét.); sagaz, fino, expressivo.\",\"aliases\":[],\"exemplos\":[\"Cic. At. 6, 5, 1\",\"Verg. G. 1, 377\",\"Cic. Or. 42\",\"Verg. Buc. 7, 24\"],\"notas\":\"Lewis & Short registra argūtus a, um (1/2); Whitaker aponta variação (3ª). Marcado conflito de classificação.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:low\"]}",
     "raw_json": "{\"id\":\"chunk_2454:2454:9\",\"lemas\":[\"argūtus\"],\"lema_canonico\":\"argūtus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"I) Particípio perfeito passivo de arguō. II) (adj.) Claro, distinto; agudo, penetrante; sonoro, melodioso (poét.); sagaz, fino, expressivo.\",\"aliases\":[],\"exemplos\":[\"Cic. At. 6, 5, 1\",\"Verg. G. 1, 377\",\"Cic. Or. 42\",\"Verg. Buc. 7, 24\"],\"notas\":\"Lewis & Short registra argūtus a, um (1/2); Whitaker aponta variação (3ª). Marcado conflito de classificação.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:low\"]}"
-  },
-  {
-    "id": "chunk_2454-e6",
-    "volume_id": "faria",
-    "doc_name": "chunk_2454",
-    "page_num": 2454,
-    "lemmas": [
-      "arguo",
-      "arguo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Mostrar, tornar claro; também acusar, censurar, alegar.",
-    "exemplos": [],
-    "notas": "Forma e supino confirmados (argūī, argūtum). | [dedupe] redirect → chunk_2448:2448:0 | [dedupe] redirect → chunk_2448:2448:0",
-    "raw_text": "{\"id\":\"chunk_2454:2454:1\",\"lemas\":[\"arguo\"],\"lema_canonico\":\"arguo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\",\"sup.\",\"part. perf. pass.\"],\"definicao\":\"Mostrar, tornar claro; também acusar, censurar, alegar.\",\"aliases\":[],\"exemplos\":[\"Cic. Par. 20\",\"Cic. Mur. 107\"],\"notas\":\"Forma e supino confirmados (argūī, argūtum).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_2454:2454:1\",\"lemas\":[\"arguo\"],\"lema_canonico\":\"arguo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\",\"sup.\",\"part. perf. pass.\"],\"definicao\":\"Mostrar, tornar claro; também acusar, censurar, alegar.\",\"aliases\":[],\"exemplos\":[\"Cic. Par. 20\",\"Cic. Mur. 107\"],\"notas\":\"Forma e supino confirmados (argūī, argūtum).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_2454-e7",
@@ -2178,28 +2112,6 @@
     "raw_json": "{\"id\":\"chunk_2485:2485:0\",\"lemas\":[\"Aristarchus\"],\"lema_canonico\":\"Aristarchus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Aristarco; gramático e crítico alexandrino, e por extensão um crítico severo\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 3, 11\",\"Cic. Att. 1, 14\"],\"notas\":\"Conferido em Lewis & Short (vida e uso figurado).\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_2486-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_2486",
-    "page_num": 2486,
-    "lemmas": [
-      "Aristaeus",
-      "Aristaeus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Aristeu; nome próprio masculino (greg. Aristaeus), atestado em autores latinos",
-    "exemplos": [],
-    "notas": "Normalizada a terminação genitiva -i; variante grafêmica registrada. | [dedupe] redirect → chunk_2484:2484:0 | [dedupe] redirect → chunk_2484:2484:0",
-    "raw_text": "{\"id\":\"chunk_2486:2486:0\",\"lemas\":[\"Aristeus\",\"Aristaeus\"],\"lema_canonico\":\"Aristaeus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Aristeu; nome próprio masculino (greg. Aristaeus), atestado em autores latinos\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 5, 110\"],\"notas\":\"Normalizada a terminação genitiva -i; variante grafêmica registrada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_2486:2486:0\",\"lemas\":[\"Aristeus\",\"Aristaeus\"],\"lema_canonico\":\"Aristaeus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Aristeu; nome próprio masculino (greg. Aristaeus), atestado em autores latinos\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 5, 110\"],\"notas\":\"Normalizada a terminação genitiva -i; variante grafêmica registrada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_2487-e1",
     "volume_id": "faria",
     "doc_name": "chunk_2487",
@@ -2352,28 +2264,6 @@
     "notas": "Forma atestada no OCR/first pass; carece de confirmação nas fontes fornecidas — revisar grafia e declinação.",
     "raw_text": "{\"id\":\"chunk_2493:2493:0\",\"lemas\":[\"Aristodemo\"],\"lema_canonico\":\"Aristodemo\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Aristodemo, nome próprio (p.ex. tirano de Cumas).\",\"aliases\":[],\"exemplos\":[\"T. Liv. 2, 21, 5\",\"Cic. At. 2, 7, 5\"],\"notas\":\"Forma atestada no OCR/first pass; carece de confirmação nas fontes fornecidas — revisar grafia e declinação.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_2493:2493:0\",\"lemas\":[\"Aristodemo\"],\"lema_canonico\":\"Aristodemo\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Aristodemo, nome próprio (p.ex. tirano de Cumas).\",\"aliases\":[],\"exemplos\":[\"T. Liv. 2, 21, 5\",\"Cic. At. 2, 7, 5\"],\"notas\":\"Forma atestada no OCR/first pass; carece de confirmação nas fontes fornecidas — revisar grafia e declinação.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_2494-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_2494",
-    "page_num": 2494,
-    "lemmas": [
-      "Ăristŏphănes",
-      "Ăristŏphănes"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Aristógiton: nome próprio ateniense; orador ático adversário de Demóstenes; também ateniense que conspirou contra os Pisistrátidas.",
-    "exemplos": [],
-    "notas": "Genitivo -onis indica 3ª declinação; normalizada grafia sem macron.\n[ocr_pipeline 2025-08-16T23:09:17.757638Z] lemma_in='Aristogiton' → 'Ăristŏphănes' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:03:47Z] match direto em LS por lemma/lemma_norm | lemma_in='Ăristŏphănes' → 'Ăristŏphănes' | [dedupe] redirect → chunk_2498:2498:0 | [dedupe] redirect → chunk_2498:2498:0",
-    "raw_text": "{\"id\":\"chunk_2494:2494:0\",\"lemas\":[\"Aristogiton\"],\"lema_canonico\":\"Aristogiton\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Aristógiton: nome próprio ateniense; orador ático adversário de Demóstenes; também ateniense que conspirou contra os Pisistrátidas.\",\"aliases\":[],\"exemplos\":[\"Quint. 12, 10, 22\",\"Cic. Tusc. 1, 116\"],\"notas\":\"Genitivo -onis indica 3ª declinação; normalizada grafia sem macron.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}",
-    "raw_json": "{\"id\":\"chunk_2494:2494:0\",\"lemas\":[\"Aristogiton\"],\"lema_canonico\":\"Aristogiton\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Aristógiton: nome próprio ateniense; orador ático adversário de Demóstenes; também ateniense que conspirou contra os Pisistrátidas.\",\"aliases\":[],\"exemplos\":[\"Quint. 12, 10, 22\",\"Cic. Tusc. 1, 116\"],\"notas\":\"Genitivo -onis indica 3ª declinação; normalizada grafia sem macron.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}"
   },
   {
     "id": "chunk_2495-e1",
@@ -2550,28 +2440,6 @@
     "notas": "Nome próprio atestado em Lewis & Short; normalized ASCII lemma. | [ocr_fix 2025-08-17T19:44:56Z] match direto em LS por lemma/lemma_norm | lemma_in='Aristoxenus' → 'Ăristoxĕnus'",
     "raw_text": "{\"id\":\"chunk_2502:2502:0\",\"lemas\":[\"Aristoxenus\",\"Aristoxĕnus\"],\"lema_canonico\":\"Aristoxenus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Aristóxeno, filósofo e músico, discípulo de Aristóteles\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 1, 20\"],\"notas\":\"Nome próprio atestado em Lewis & Short; normalized ASCII lemma.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_2502:2502:0\",\"lemas\":[\"Aristoxenus\",\"Aristoxĕnus\"],\"lema_canonico\":\"Aristoxenus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Aristóxeno, filósofo e músico, discípulo de Aristóteles\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 1, 20\"],\"notas\":\"Nome próprio atestado em Lewis & Short; normalized ASCII lemma.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_2503-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_2503",
-    "page_num": 2503,
-    "lemmas": [
-      "Ăristō",
-      "Ăristō"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Aristo (Aristus), filósofo acadêmico, amigo de Cícero",
-    "exemplos": [],
-    "notas": "Mantida a identificação com Aristo; correção de abreviações e normalização de referência.\n[ocr_pipeline 2025-08-16T23:09:19.061822Z] lemma_in='Aristus' → 'Ăristō' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:03:48Z] match direto em LS por lemma/lemma_norm | lemma_in='Ăristō' → 'Ăristō' | [dedupe] redirect → chunk_2491:2491:0 | [dedupe] redirect → chunk_2491:2491:0",
-    "raw_text": "{\"id\":\"chunk_2503:2503:0\",\"lemas\":[\"Aristus\",\"Aristo\"],\"lema_canonico\":\"Aristus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Aristo (Aristus), filósofo acadêmico, amigo de Cícero\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 5, 10, 5\"],\"notas\":\"Mantida a identificação com Aristo; correção de abreviações e normalização de referência.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}",
-    "raw_json": "{\"id\":\"chunk_2503:2503:0\",\"lemas\":[\"Aristus\",\"Aristo\"],\"lema_canonico\":\"Aristus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Aristo (Aristus), filósofo acadêmico, amigo de Cícero\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 5, 10, 5\"],\"notas\":\"Mantida a identificação com Aristo; correção de abreviações e normalização de referência.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}"
   },
   {
     "id": "chunk_2504-e1",
@@ -2836,28 +2704,6 @@
     "notas": "Normalizado de 'Armenius' para forma canônica 'armenius'; variantes incluídas.",
     "raw_text": "{\"id\":\"chunk_2515:2515:0\",\"lemas\":[\"armenius\",\"armenia\",\"armenium\"],\"lema_canonico\":\"armenius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo à Armênia; armênio.\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 5, 20, 2\"],\"notas\":\"Normalizado de 'Armenius' para forma canônica 'armenius'; variantes incluídas.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_2515:2515:0\",\"lemas\":[\"armenius\",\"armenia\",\"armenium\"],\"lema_canonico\":\"armenius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo à Armênia; armênio.\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 5, 20, 2\"],\"notas\":\"Normalizado de 'Armenius' para forma canônica 'armenius'; variantes incluídas.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_2515-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_2515",
-    "page_num": 2515,
-    "lemmas": [
-      "armenta",
-      "armenta"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada é remissão a 'armentum' (nom. pl. armenta).",
-    "raw_text": "{\"id\":\"chunk_2515:2515:1\",\"lemas\":[\"armenta\"],\"lema_canonico\":\"armenta\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"armentum\"],\"exemplos\":[],\"notas\":\"Entrada é remissão a 'armentum' (nom. pl. armenta).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_2515:2515:1\",\"lemas\":[\"armenta\"],\"lema_canonico\":\"armenta\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"armentum\"],\"exemplos\":[],\"notas\":\"Entrada é remissão a 'armentum' (nom. pl. armenta).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"redirect_only\"]}"
   },
   {
     "id": "chunk_2516-e1",
@@ -3168,28 +3014,6 @@
     "raw_json": "{\"id\":\"chunk_2528:2528:0\",\"lemas\":[\"armo\"],\"lema_canonico\":\"armo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"dar armas a; armar, equipar, providenciar (também: fortificar, preparar)\",\"aliases\":[],\"exemplos\":[\"Cic. Aec. 20\",\"Cic. Verr. 5, 50\",\"Cic. Agr. 2, 87\",\"Cic. Mil. 2\"],\"notas\":\"Partes principais rectificadas (armō, armāre, armāvī, armātus); marcação como transitivo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_2529-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_2529",
-    "page_num": 2529,
-    "lemmas": [
-      "harmonia",
-      "harmonia"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "concordância, harmonia; consonância de sons, melodia, ordem dos sons",
-    "exemplos": [],
-    "notas": "Incluída variante com/sem h; vocábulo de origem grega (ἁρμονία) confirmado. | [dedupe] redirect → chunk_12294:12294:0 | [dedupe] redirect → chunk_12294:12294:0",
-    "raw_text": "{\"id\":\"chunk_2529:2529:0\",\"lemas\":[\"harmonia\",\"armonia\"],\"lema_canonico\":\"harmonia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"concordância, harmonia; consonância de sons, melodia, ordem dos sons\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Incluída variante com/sem h; vocábulo de origem grega (ἁρμονία) confirmado.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_2529:2529:0\",\"lemas\":[\"harmonia\",\"armonia\"],\"lema_canonico\":\"harmonia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"concordância, harmonia; consonância de sons, melodia, ordem dos sons\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Incluída variante com/sem h; vocábulo de origem grega (ἁρμονία) confirmado.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_2530-e1",
     "volume_id": "faria",
     "doc_name": "chunk_2530",
@@ -3234,50 +3058,6 @@
     "raw_json": "{\"id\":\"chunk_2531:2531:0\",\"lemas\":[\"Amé\"],\"lema_canonico\":\"Amé\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"entrada incerta; suposto nome próprio feminino (filha de Éolo) e topónimo na Beócia — ver fontes primárias.\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 7, 465\",\"Estac. Theb. 7, 331\"],\"notas\":\"Grafia e gênero foram mantidos da primeira passada; possível OCR/lematização errada (genitivo -ūs parece incoerente).\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_2532-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_2532",
-    "page_num": 2532,
-    "lemmas": [
-      "amnensis",
-      "amnensis"
-    ],
-    "morfologia": "adj. (3) 2T",
-    "morph_render": "adj. (3) 2T",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "relativo a Amen; amiense (adjetivo gentilício)",
-    "exemplos": [],
-    "notas": "Normalizada a forma a partir do OCR; tipologia confirmada em Whitaker. | [dedupe] redirect → chunk_98:98:1 | [dedupe] redirect → chunk_98:98:1 | [ocr_fix 2025-08-17T19:44:59Z] match direto em Gaffiot por lemma/lemma_norm | lemma_in='amnensis' → 'amnensis'",
-    "raw_text": "{\"id\":\"chunk_2532:2532:0\",\"lemas\":[\"amnensis\"],\"lema_canonico\":\"amnensis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"relativo a Amen; amiense (adjetivo gentilício)\",\"aliases\":[],\"exemplos\":[\"Cic. Agr. 2, 79\"],\"notas\":\"Normalizada a forma a partir do OCR; tipologia confirmada em Whitaker.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"src_ocr\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_2532:2532:0\",\"lemas\":[\"amnensis\"],\"lema_canonico\":\"amnensis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"relativo a Amen; amiense (adjetivo gentilício)\",\"aliases\":[],\"exemplos\":[\"Cic. Agr. 2, 79\"],\"notas\":\"Normalizada a forma a partir do OCR; tipologia confirmada em Whitaker.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"src_ocr\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_2533-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_2533",
-    "page_num": 2533,
-    "lemmas": [
-      "amnis",
-      "amnis"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "rio, corrente; curso de água",
-    "exemplos": [],
-    "notas": "Genero corrigido para feminino conforme LS; entrada pode ser tanto substantivo comum quanto nome próprio em contextos. | [dedupe] redirect → chunk_1640:1640:0 | [dedupe] redirect → chunk_1640:1640:0",
-    "raw_text": "{\"id\":\"chunk_2533:2533:0\",\"lemas\":[\"amnis\"],\"lema_canonico\":\"amnis\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"rio, corrente; curso de água\",\"aliases\":[],\"exemplos\":[\"T. Liv. 22, 2, 2\"],\"notas\":\"Genero corrigido para feminino conforme LS; entrada pode ser tanto substantivo comum quanto nome próprio em contextos.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_2533:2533:0\",\"lemas\":[\"amnis\"],\"lema_canonico\":\"amnis\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"rio, corrente; curso de água\",\"aliases\":[],\"exemplos\":[\"T. Liv. 22, 2, 2\"],\"notas\":\"Genero corrigido para feminino conforme LS; entrada pode ser tanto substantivo comum quanto nome próprio em contextos.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_2534-e1",
     "volume_id": "faria",
     "doc_name": "chunk_2534",
@@ -3320,28 +3100,6 @@
     "notas": "Forma plural do latim clássico (-ōrum) não cabe no vocabulário morfológico requerido; marcada como indeclinável para compatibilidade.",
     "raw_text": "{\"id\":\"chunk_2535:2535:0\",\"lemas\":[\"Arpi\",\"Arpī\"],\"lema_canonico\":\"Arpi\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"cidade na Apúlia (ant. Argyripa); também designa o povo/inhabitantes\",\"aliases\":[\"Argyripa\"],\"exemplos\":[\"Cic. Att. 9, 3, 2\"],\"notas\":\"Forma plural do latim clássico (-ōrum) não cabe no vocabulário morfológico requerido; marcada como indeclinável para compatibilidade.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}",
     "raw_json": "{\"id\":\"chunk_2535:2535:0\",\"lemas\":[\"Arpi\",\"Arpī\"],\"lema_canonico\":\"Arpi\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"cidade na Apúlia (ant. Argyripa); também designa o povo/inhabitantes\",\"aliases\":[\"Argyripa\"],\"exemplos\":[\"Cic. Att. 9, 3, 2\"],\"notas\":\"Forma plural do latim clássico (-ōrum) não cabe no vocabulário morfológico requerido; marcada como indeclinável para compatibilidade.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}"
-  },
-  {
-    "id": "chunk_2536-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_2536",
-    "page_num": 2536,
-    "lemmas": [
-      "Arpīnus",
-      "Arpīnus"
-    ],
-    "morfologia": "adj. (3) 1T",
-    "morph_render": "adj. (3) 1T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "relativo a Arpino; (subs.) o natural de Arpino — usado como gentílico/epíteto (ex.: Marius, Cicero).",
-    "exemplos": [],
-    "notas": "Formas e declinação normalizadas a partir do exemplar; corresponde ao registro Whitaker 'Arpinas/Arpinatus'.\n[ocr_pipeline 2025-08-16T23:23:16.054444Z] lemma_in='Arpinās' → 'Arpīnus' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:22:27Z] match direto em LS por lemma/lemma_norm | lemma_in='Arpīnus' → 'Arpīnus' | [dedupe] redirect → chunk_2539:2539:0 | [dedupe] redirect → chunk_2539:2539:0",
-    "raw_text": "{\"id\":\"chunk_2536:2536:0\",\"lemas\":[\"Arpinās\",\"Arpinātus\",\"Arpinā\"],\"lema_canonico\":\"Arpinās\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[],\"definicao\":\"relativo a Arpino; (subs.) o natural de Arpino — usado como gentílico/epíteto (ex.: Marius, Cicero).\",\"aliases\":[\"Arpinatus\"],\"exemplos\":[\"Cic. Agr. 3, 8\",\"Juv. 8, 245\",\"Juv. 8, 237\"],\"notas\":\"Formas e declinação normalizadas a partir do exemplar; corresponde ao registro Whitaker 'Arpinas/Arpinatus'.\",\"flags\":[\"src_firstpass\",\"src_whitaker\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_2536:2536:0\",\"lemas\":[\"Arpinās\",\"Arpinātus\",\"Arpinā\"],\"lema_canonico\":\"Arpinās\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[],\"definicao\":\"relativo a Arpino; (subs.) o natural de Arpino — usado como gentílico/epíteto (ex.: Marius, Cicero).\",\"aliases\":[\"Arpinatus\"],\"exemplos\":[\"Cic. Agr. 3, 8\",\"Juv. 8, 245\",\"Juv. 8, 237\"],\"notas\":\"Formas e declinação normalizadas a partir do exemplar; corresponde ao registro Whitaker 'Arpinas/Arpinatus'.\",\"flags\":[\"src_firstpass\",\"src_whitaker\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
     "id": "chunk_2537-e1",
@@ -3410,28 +3168,6 @@
     "raw_json": "{\"id\":\"chunk_2539:2539:0\",\"lemas\":[\"arpinus\",\"Arpīnus\"],\"lema_canonico\":\"arpinus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo a Arpi/Arpinum; de Arpinum (pertencente a Cícero, etc.)\",\"aliases\":[],\"exemplos\":[\"Cic. Marc. 10, 19, 17\"],\"notas\":\"Adjetivo gentilício/adjetival regularizado; OCR 'i.é' corrigido para 'isto é'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_2540-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_2540",
-    "page_num": 2540,
-    "lemmas": [
-      "arcuatus",
-      "arcuatus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "1) Arqueado, em forma de arco; 2) (subst.) referente à icterícia/aquele com icterícia (uso substantivado).",
-    "exemplos": [],
-    "notas": "Unificadas grafias; adjetivo e particípio confirmados; substantivo 'arquātus, -i' atestado em LS. Morfologia primaria como adj.; marcadores extras indicam uso participial. | [dedupe] redirect → chunk_2372:2372:0 | [dedupe] redirect → chunk_2372:2372:0",
-    "raw_text": "{\"id\":\"chunk_2540:2540:0\",\"lemas\":[\"arcuatus\",\"arquatus\"],\"lema_canonico\":\"arcuatus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"1) Arqueado, em forma de arco; 2) (subst.) referente à icterícia/aquele com icterícia (uso substantivado).\",\"aliases\":[],\"exemplos\":[\"Lucr. 4, 332 sq.\",\"Cels. 3, 24\",\"Plin. 20, 11, 44\"],\"notas\":\"Unificadas grafias; adjetivo e particípio confirmados; substantivo 'arquātus, -i' atestado em LS. Morfologia primaria como adj.; marcadores extras indicam uso participial.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_2540:2540:0\",\"lemas\":[\"arcuatus\",\"arquatus\"],\"lema_canonico\":\"arcuatus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"1) Arqueado, em forma de arco; 2) (subst.) referente à icterícia/aquele com icterícia (uso substantivado).\",\"aliases\":[],\"exemplos\":[\"Lucr. 4, 332 sq.\",\"Cels. 3, 24\",\"Plin. 20, 11, 44\"],\"notas\":\"Unificadas grafias; adjetivo e particípio confirmados; substantivo 'arquātus, -i' atestado em LS. Morfologia primaria como adj.; marcadores extras indicam uso participial.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}"
-  },
-  {
     "id": "chunk_2541-e1",
     "volume_id": "faria",
     "doc_name": "chunk_2541",
@@ -3452,28 +3188,6 @@
     "notas": "Remissão indicada no original; grafias com e sem diacríticos preservadas; forma incerta.",
     "raw_text": "{\"id\":\"chunk_2541:2541:0\",\"lemas\":[\"arquiténius\",\"arquitenius\",\"arciténius\",\"arcitenius\"],\"lema_canonico\":\"arquitenius\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"ver arciténius (remissiva); forma variável/possivelmente corrupta, ver 'arcitenius'\",\"aliases\":[\"arciténius\"],\"exemplos\":[],\"notas\":\"Remissão indicada no original; grafias com e sem diacríticos preservadas; forma incerta.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_2541:2541:0\",\"lemas\":[\"arquiténius\",\"arquitenius\",\"arciténius\",\"arcitenius\"],\"lema_canonico\":\"arquitenius\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"ver arciténius (remissiva); forma variável/possivelmente corrupta, ver 'arcitenius'\",\"aliases\":[\"arciténius\"],\"exemplos\":[],\"notas\":\"Remissão indicada no original; grafias com e sem diacríticos preservadas; forma incerta.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_2541-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_2541",
-    "page_num": 2541,
-    "lemmas": [
-      "arcus",
-      "arcus"
-    ],
-    "morfologia": "s. masc. 4ª (-us)",
-    "morph_render": "s. masc. 4ª (-us)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "arco, arco (de arco), arcoíris; qualquer coisa arqueada ou curva",
-    "exemplos": [],
-    "notas": "Normalizado a 'arcu'/'arcus' com variantes attestadas; corrigido erro de duplicação de 'u' no OCR. | [dedupe] redirect → chunk_2371:2371:0 | [dedupe] redirect → chunk_2371:2371:0",
-    "raw_text": "{\"id\":\"chunk_2541:2541:1\",\"lemas\":[\"arcu\",\"arcus\",\"arquu\",\"arcuu\",\"arquus\"],\"lema_canonico\":\"arcus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"arco, arco (de arco), arcoíris; qualquer coisa arqueada ou curva\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizado a 'arcu'/'arcus' com variantes attestadas; corrigido erro de duplicação de 'u' no OCR.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_2541:2541:1\",\"lemas\":[\"arcu\",\"arcus\",\"arquu\",\"arcuu\",\"arquus\"],\"lema_canonico\":\"arcus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"arco, arco (de arco), arcoíris; qualquer coisa arqueada ou curva\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizado a 'arcu'/'arcus' com variantes attestadas; corrigido erro de duplicação de 'u' no OCR.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_2542-e1",
@@ -3498,28 +3212,6 @@
     "raw_json": "{\"id\":\"chunk_2542:2542:0\",\"lemas\":[\"araqnus\"],\"lema_canonico\":\"araqnus\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"vide anūs (remissiva); forma possivelmente corrupta/errada\",\"aliases\":[\"anūs\"],\"exemplos\":[],\"notas\":\"Entrada do impresso remete a 'anūs'; grafia possivelmente corrompida (q vs ch); necessita verificação.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_2542-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_2542",
-    "page_num": 2542,
-    "lemmas": [
-      "arrŏgans",
-      "arrŏgans"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "forma atestada no impresso; equivalência tautológica indicada ('arrădo = arrădo') — possivelmente impresso/ocr redundante",
-    "exemplos": [],
-    "notas": "Registro tautológico no original; diacrítico ă provavelmente artefato; entrada necessita confirmação lexical.\n[ocr_pipeline 2025-08-16T23:09:21.842656Z] lemma_in='arrado' → 'arrŏgans' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:03:52Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='arrŏgans' → 'arrŏgans' | [dedupe] redirect → chunk_2555:2555:0 | [dedupe] redirect → chunk_2555:2555:0",
-    "raw_text": "{\"id\":\"chunk_2542:2542:1\",\"lemas\":[\"arrădo\",\"arrado\"],\"lema_canonico\":\"arrado\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"forma atestada no impresso; equivalência tautológica indicada ('arrădo = arrădo') — possivelmente impresso/ocr redundante\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Registro tautológico no original; diacrítico ă provavelmente artefato; entrada necessita confirmação lexical.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_2542:2542:1\",\"lemas\":[\"arrădo\",\"arrado\"],\"lema_canonico\":\"arrado\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"forma atestada no impresso; equivalência tautológica indicada ('arrădo = arrădo') — possivelmente impresso/ocr redundante\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Registro tautológico no original; diacrítico ă provavelmente artefato; entrada necessita confirmação lexical.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
     "id": "chunk_2543-e1",
     "volume_id": "faria",
     "doc_name": "chunk_2543",
@@ -3542,28 +3234,6 @@
     "raw_json": "{\"id\":\"chunk_2543:2543:0\",\"lemas\":[\"arrectus\",\"arrēctus\",\"arrecta\",\"arrectum\"],\"lema_canonico\":\"arrectus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"erecto, em pé; empinado; excitado, ansioso; particípio perfeito passivo de arrigo (arrigere)\",\"aliases\":[],\"exemplos\":[\"T. Liv. 21, 35, 11\",\"Verg. G. 3, 105\"],\"notas\":\"Adjetivo e particípio plenamente atestado; formas variantes com macron preservadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_2544-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_2544",
-    "page_num": 2544,
-    "lemmas": [
-      "arripio",
-      "arripio"
-    ],
-    "morfologia": "v. 3ª -iō (-ere)",
-    "morph_render": "v. 3ª -iō (-ere)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Arripiō/Adripiō: agarrar, arrebatar, prender; assaltar; apanhar.",
-    "exemplos": [],
-    "notas": "Corrigida a forma canónica para arripio (variante adripio/adripio atestada); verbo 3ª -iō com sentidos transitivo/intransitivo conforme contexto. | [dedupe] redirect → chunk_2544:2544:1 | [dedupe] redirect → chunk_2544:2544:1",
-    "raw_text": "{\"id\":\"chunk_2544:2544:0\",\"lemas\":[\"arripio\",\"adripio\"],\"lema_canonico\":\"arripio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[\"tr.\",\"intr.\"],\"definicao\":\"Arripiō/Adripiō: agarrar, arrebatar, prender; assaltar; apanhar.\",\"aliases\":[],\"exemplos\":[\"Varr. R. Rust. 3, 7, 2\",\"Cic. Verr. 3, 158\"],\"notas\":\"Corrigida a forma canónica para arripio (variante adripio/adripio atestada); verbo 3ª -iō com sentidos transitivo/intransitivo conforme contexto.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"src_ocr\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_2544:2544:0\",\"lemas\":[\"arripio\",\"adripio\"],\"lema_canonico\":\"arripio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[\"tr.\",\"intr.\"],\"definicao\":\"Arripiō/Adripiō: agarrar, arrebatar, prender; assaltar; apanhar.\",\"aliases\":[],\"exemplos\":[\"Varr. R. Rust. 3, 7, 2\",\"Cic. Verr. 3, 158\"],\"notas\":\"Corrigida a forma canónica para arripio (variante adripio/adripio atestada); verbo 3ª -iō com sentidos transitivo/intransitivo conforme contexto.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"src_ocr\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_2544-e2",
     "volume_id": "faria",
     "doc_name": "chunk_2544",
@@ -3584,28 +3254,6 @@
     "notas": "Forma supina arreptum confirmada; verbo clássico arripiō com variações prefixais em alguns autores.",
     "raw_text": "{\"id\":\"chunk_2544:2544:1\",\"lemas\":[\"arripio\",\"arripere\"],\"lema_canonico\":\"arripio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[],\"definicao\":\"agarrar, tomar com violência ou rapidez; apoderar‑se; atacar, assaltar; também: compreender, perceber\",\"aliases\":[],\"exemplos\":[\"Varr. R. Rust. 3, 7, 2\",\"Cic. Verr. 3, 158\"],\"notas\":\"Forma supina arreptum confirmada; verbo clássico arripiō com variações prefixais em alguns autores.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_2544:2544:1\",\"lemas\":[\"arripio\",\"arripere\"],\"lema_canonico\":\"arripio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[],\"definicao\":\"agarrar, tomar com violência ou rapidez; apoderar‑se; atacar, assaltar; também: compreender, perceber\",\"aliases\":[],\"exemplos\":[\"Varr. R. Rust. 3, 7, 2\",\"Cic. Verr. 3, 158\"],\"notas\":\"Forma supina arreptum confirmada; verbo clássico arripiō com variações prefixais em alguns autores.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_2544-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_2544",
-    "page_num": 2544,
-    "lemmas": [
-      "arripio",
-      "arripio"
-    ],
-    "morfologia": "v. 3ª -iō (-ere)",
-    "morph_render": "v. 3ª -iō (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "(verbo) agarrar, arrebatar; mover‑se com ímpeto; também (em alguns usos) insinuar‑se, aproximar‑se",
-    "exemplos": [],
-    "notas": "Inclui variante adripio atestada em tradição manuscrita/OCR; entradas relacionadas tratadas como mesma voz léxica. | [dedupe] redirect → chunk_2544:2544:1 | [dedupe] redirect → chunk_2544:2544:1",
-    "raw_text": "{\"id\":\"chunk_2544:2544:2\",\"lemas\":[\"arripio\",\"adripio\",\"arripere\"],\"lema_canonico\":\"arripio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[],\"definicao\":\"(verbo) agarrar, arrebatar; mover‑se com ímpeto; também (em alguns usos) insinuar‑se, aproximar‑se\",\"aliases\":[],\"exemplos\":[\"Varr. R. Rust. 3, 7, 2\",\"Cic. Verr. 3, 158\"],\"notas\":\"Inclui variante adripio atestada em tradição manuscrita/OCR; entradas relacionadas tratadas como mesma voz léxica.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_2544:2544:2\",\"lemas\":[\"arripio\",\"adripio\",\"arripere\"],\"lema_canonico\":\"arripio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[],\"definicao\":\"(verbo) agarrar, arrebatar; mover‑se com ímpeto; também (em alguns usos) insinuar‑se, aproximar‑se\",\"aliases\":[],\"exemplos\":[\"Varr. R. Rust. 3, 7, 2\",\"Cic. Verr. 3, 158\"],\"notas\":\"Inclui variante adripio atestada em tradição manuscrita/OCR; entradas relacionadas tratadas como mesma voz léxica.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
   },
   {
     "id": "chunk_2545-e1",
@@ -3694,94 +3342,6 @@
     "notas": "Normalizada forma com macron e infinitivo arrīdēre; morfologia ajustada para 2ª conjugação intr.",
     "raw_text": "{\"id\":\"chunk_2548:2548:0\",\"lemas\":[\"arrideo\",\"arrīdēō\"],\"lema_canonico\":\"arrideo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"rir, sorrir; sorrir para, rir em resposta; também: agradar, favorecer (fig.)\",\"aliases\":[],\"exemplos\":[\"Hor. A. Poet. 101\",\"Cic. De Or. 1, 134\",\"Cic. Att. 13, 21, 3\"],\"notas\":\"Normalizada forma com macron e infinitivo arrīdēre; morfologia ajustada para 2ª conjugação intr.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_2548:2548:0\",\"lemas\":[\"arrideo\",\"arrīdēō\"],\"lema_canonico\":\"arrideo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"rir, sorrir; sorrir para, rir em resposta; também: agradar, favorecer (fig.)\",\"aliases\":[],\"exemplos\":[\"Hor. A. Poet. 101\",\"Cic. De Or. 1, 134\",\"Cic. Att. 13, 21, 3\"],\"notas\":\"Normalizada forma com macron e infinitivo arrīdēre; morfologia ajustada para 2ª conjugação intr.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_2549-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_2549",
-    "page_num": 2549,
-    "lemmas": [
-      "arrigo",
-      "arrigo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "levantar, erguer; (fig.) excitar, animar, incitar",
-    "exemplos": [],
-    "notas": "Unificadas variantes com/sem prefixo ad-; morfologia alinhada à 3ª conjugação (arrigere, arrēxī, arrēctum). | [dedupe] redirect → chunk_2546:2546:0 | [dedupe] redirect → chunk_2546:2546:0",
-    "raw_text": "{\"id\":\"chunk_2549:2549:0\",\"lemas\":[\"arrigo\",\"arrīgō\"],\"lema_canonico\":\"arrigo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"levantar, erguer; (fig.) excitar, animar, incitar\",\"aliases\":[],\"exemplos\":[\"Verg. En. 11, 496\",\"Sal. C. Cat. 39, 3\"],\"notas\":\"Unificadas variantes com/sem prefixo ad-; morfologia alinhada à 3ª conjugação (arrigere, arrēxī, arrēctum).\",\"flags\":[\"src_latdeu\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_2549:2549:0\",\"lemas\":[\"arrigo\",\"arrīgō\"],\"lema_canonico\":\"arrigo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"levantar, erguer; (fig.) excitar, animar, incitar\",\"aliases\":[],\"exemplos\":[\"Verg. En. 11, 496\",\"Sal. C. Cat. 39, 3\"],\"notas\":\"Unificadas variantes com/sem prefixo ad-; morfologia alinhada à 3ª conjugação (arrigere, arrēxī, arrēctum).\",\"flags\":[\"src_latdeu\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_2550-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_2550",
-    "page_num": 2550,
-    "lemmas": [
-      "arripio",
-      "arripio"
-    ],
-    "morfologia": "v. 3ª -iō (-ere)",
-    "morph_render": "v. 3ª -iō (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "arripiō, arripere — agarrar, arrebatar; atacar de surpresa; também: levar aos tribunais, acusar (jur.).",
-    "exemplos": [],
-    "notas": "Formas e sent. confirmadas por Lewis & Short e Lat→Deu; admite variante adripio. | [dedupe] redirect → chunk_2544:2544:1 | [dedupe] redirect → chunk_2544:2544:1",
-    "raw_text": "{\"id\":\"chunk_2550:2550:0\",\"lemas\":[\"arripio\",\"adripio\"],\"lema_canonico\":\"arripio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[],\"definicao\":\"arripiō, arripere — agarrar, arrebatar; atacar de surpresa; também: levar aos tribunais, acusar (jur.).\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 4, 95\",\"Cic. Sul. 54\",\"Cic. Mur. 62\",\"Cic. Plane. 54\"],\"notas\":\"Formas e sent. confirmadas por Lewis & Short e Lat→Deu; admite variante adripio.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_2550:2550:0\",\"lemas\":[\"arripio\",\"adripio\"],\"lema_canonico\":\"arripio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[],\"definicao\":\"arripiō, arripere — agarrar, arrebatar; atacar de surpresa; também: levar aos tribunais, acusar (jur.).\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 4, 95\",\"Cic. Sul. 54\",\"Cic. Mur. 62\",\"Cic. Plane. 54\"],\"notas\":\"Formas e sent. confirmadas por Lewis & Short e Lat→Deu; admite variante adripio.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_2551-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_2551",
-    "page_num": 2551,
-    "lemmas": [
-      "arripio",
-      "arripio"
-    ],
-    "morfologia": "v. 3ª -iō (-ere)",
-    "morph_render": "v. 3ª -iō (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "arripui/adripui — perfeito de arripiō (arripere).",
-    "exemplos": [],
-    "notas": "Entrada trata a forma perfeita; corrigida a separação entre variantes arripui/adripui. | [dedupe] redirect → chunk_2544:2544:1 | [dedupe] redirect → chunk_2544:2544:1",
-    "raw_text": "{\"id\":\"chunk_2551:2551:0\",\"lemas\":[\"arripio\",\"adripio\"],\"lema_canonico\":\"arripio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[],\"definicao\":\"arripui/adripui — perfeito de arripiō (arripere).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada trata a forma perfeita; corrigida a separação entre variantes arripui/adripui.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_2551:2551:0\",\"lemas\":[\"arripio\",\"adripio\"],\"lema_canonico\":\"arripio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[],\"definicao\":\"arripui/adripui — perfeito de arripiō (arripere).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada trata a forma perfeita; corrigida a separação entre variantes arripui/adripui.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_2552-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_2552",
-    "page_num": 2552,
-    "lemmas": [
-      "arrideo",
-      "arrideo"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "arrīdēre / adridēre — sorrir; agradar, ser agradável; parecer familiar a alguém.",
-    "exemplos": [],
-    "notas": "Perfeito arrīsi/adrīsi tratado como 1ª sg. perf. indic. conforme Whitaker/Lat→Deu. | [dedupe] redirect → chunk_2548:2548:0 | [dedupe] redirect → chunk_2548:2548:0",
-    "raw_text": "{\"id\":\"chunk_2552:2552:0\",\"lemas\":[\"arrideo\",\"adrideo\"],\"lema_canonico\":\"arrideo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"arrīdēre / adridēre — sorrir; agradar, ser agradável; parecer familiar a alguém.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Perfeito arrīsi/adrīsi tratado como 1ª sg. perf. indic. conforme Whitaker/Lat→Deu.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_2552:2552:0\",\"lemas\":[\"arrideo\",\"adrideo\"],\"lema_canonico\":\"arrideo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"arrīdēre / adridēre — sorrir; agradar, ser agradável; parecer familiar a alguém.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Perfeito arrīsi/adrīsi tratado como 1ª sg. perf. indic. conforme Whitaker/Lat→Deu.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_2553-e1",
@@ -3916,28 +3476,6 @@
     "raw_json": "{\"id\":\"chunk_2558:2558:0\",\"lemas\":[\"arrogo\",\"arrogare\"],\"lema_canonico\":\"arrogo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"Arrogāre: reclamar para si; tomar, assumir (jurídico: nomear/adotar); atribuir a si mesmo; em poesia, atribuir, acrescentar.\",\"aliases\":[],\"exemplos\":[\"Liv. 7, 25, 11\",\"Ael. Gell. 5, 19\",\"Cic. Amm. 89\",\"Hor. Ep. 2, 1, 253\"],\"notas\":\"Lema e significados confirmados em Lat→Deu (Lat→Deu/Whitaker) e compatíveis com LS.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_2559-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_2559",
-    "page_num": 2559,
-    "lemmas": [
-      "arrodere",
-      "arrodere"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Forma perfeita (arrosī) e verbo correspondente: roer, corroer, desgastar; também lavar/erodir (pela água).",
-    "exemplos": [],
-    "notas": "Entrada primária padronizada no infinitivo; forma perfeita 'arrosī / adrosī' atestada. | [dedupe] redirect → chunk_2554:2554:0 | [dedupe] redirect → chunk_2554:2554:0",
-    "raw_text": "{\"id\":\"chunk_2559:2559:0\",\"lemas\":[\"arrodere\",\"adrodere\"],\"lema_canonico\":\"arrodere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Forma perfeita (arrosī) e verbo correspondente: roer, corroer, desgastar; também lavar/erodir (pela água).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada primária padronizada no infinitivo; forma perfeita 'arrosī / adrosī' atestada.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_2559:2559:0\",\"lemas\":[\"arrodere\",\"adrodere\"],\"lema_canonico\":\"arrodere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Forma perfeita (arrosī) e verbo correspondente: roer, corroer, desgastar; também lavar/erodir (pela água).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada primária padronizada no infinitivo; forma perfeita 'arrosī / adrosī' atestada.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_2560-e1",
     "volume_id": "faria",
     "doc_name": "chunk_2560",
@@ -3960,28 +3498,6 @@
     "raw_json": "{\"id\":\"chunk_2560:2560:0\",\"lemas\":[\"arrosor\",\"adrosor\"],\"lema_canonico\":\"arrosor\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Aquele que rói ou consome; nibbler, consumidor (fig.).\",\"aliases\":[],\"exemplos\":[\"Sen. Ep. 27, 7\"],\"notas\":\"Normalizada grafia conforme Lewis & Short; mantida variante 'adrosor'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_2561-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_2561",
-    "page_num": 2561,
-    "lemmas": [
-      "arrodere",
-      "arrodere"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Particípio perfeito passivo (arrosus / adrosus): roído, corroído, erodido; lavado pela água.",
-    "exemplos": [],
-    "notas": "Particípio atestado em variantes com e sem prefixo ad-; normalizado como derivado de arrodere/adrodere. | [dedupe] redirect → chunk_2554:2554:0 | [dedupe] redirect → chunk_2554:2554:0",
-    "raw_text": "{\"id\":\"chunk_2561:2561:0\",\"lemas\":[\"arrodere\",\"adrodere\"],\"lema_canonico\":\"arrodere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo (arrosus / adrosus): roído, corroído, erodido; lavado pela água.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Particípio atestado em variantes com e sem prefixo ad-; normalizado como derivado de arrodere/adrodere.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_2561:2561:0\",\"lemas\":[\"arrodere\",\"adrodere\"],\"lema_canonico\":\"arrodere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo (arrosus / adrosus): roído, corroído, erodido; lavado pela água.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Particípio atestado em variantes com e sem prefixo ad-; normalizado como derivado de arrodere/adrodere.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_2562-e1",
     "volume_id": "faria",
     "doc_name": "chunk_2562",
@@ -4002,28 +3518,6 @@
     "notas": "Lema e genitivo confirmados em Lewis & Short (Arruns, -untis). Variante gráfica 'Arrunte' preservada como alias. | [ocr_fix 2025-08-17T19:44:58Z] match direto em LS por lemma/lemma_norm | lemma_in='Arruns' → 'Arruns'",
     "raw_text": "{\"id\":\"chunk_2562:2562:0\",\"lemas\":[\"Arruns\"],\"lema_canonico\":\"Arruns\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Arruns, nome próprio masculino (gen. Arruntis/untis); filho de Tarquínio (ex.: T. Liv. 1, 56, 7).\",\"aliases\":[\"Arrunte\"],\"exemplos\":[\"T. Liv. 1, 56, 7\"],\"notas\":\"Lema e genitivo confirmados em Lewis & Short (Arruns, -untis). Variante gráfica 'Arrunte' preservada como alias.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_2562:2562:0\",\"lemas\":[\"Arruns\"],\"lema_canonico\":\"Arruns\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Arruns, nome próprio masculino (gen. Arruntis/untis); filho de Tarquínio (ex.: T. Liv. 1, 56, 7).\",\"aliases\":[\"Arrunte\"],\"exemplos\":[\"T. Liv. 1, 56, 7\"],\"notas\":\"Lema e genitivo confirmados em Lewis & Short (Arruns, -untis). Variante gráfica 'Arrunte' preservada como alias.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_2563-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_2563",
-    "page_num": 2563,
-    "lemmas": [
-      "ars",
-      "ars"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "habilidade, técnica, arte; modo, método; ofício, artificío, astúcia; também conjunto de obras (pl.)",
-    "exemplos": [],
-    "notas": "Sentidos e citações harmonizados a partir de Lewis & Short e do material fornecido. | [dedupe] redirect → chunk_2374:2374:3 | [dedupe] redirect → chunk_2374:2374:3",
-    "raw_text": "{\"id\":\"chunk_2563:2563:0\",\"lemas\":[\"ars\",\"artis\"],\"lema_canonico\":\"ars\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"habilidade, técnica, arte; modo, método; ofício, artificío, astúcia; também conjunto de obras (pl.)\",\"aliases\":[],\"exemplos\":[\"Cic. C. M. 29\",\"Cic. De Or. 1, 115\",\"T. Liv. 25, 39\"],\"notas\":\"Sentidos e citações harmonizados a partir de Lewis & Short e do material fornecido.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_2563:2563:0\",\"lemas\":[\"ars\",\"artis\"],\"lema_canonico\":\"ars\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"habilidade, técnica, arte; modo, método; ofício, artificío, astúcia; também conjunto de obras (pl.)\",\"aliases\":[],\"exemplos\":[\"Cic. C. M. 29\",\"Cic. De Or. 1, 115\",\"T. Liv. 25, 39\"],\"notas\":\"Sentidos e citações harmonizados a partir de Lewis & Short e do material fornecido.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_2564-e1",
@@ -4224,28 +3718,6 @@
     "raw_json": "{\"id\":\"chunk_2572:2572:0\",\"lemas\":[\"Artaphernes\",\"Artaphernēs\"],\"lema_canonico\":\"Artaphernes\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Nome próprio persa (general).\",\"aliases\":[],\"exemplos\":[\"C. Nep. Mil. 4, 1\"],\"notas\":\"Entrada baseada na primeira passada; forma atestada em OCR. Sem confirmação em LS/Whitaker fornecidos.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_2573-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_2573",
-    "page_num": 2573,
-    "lemmas": [
-      "artātus",
-      "artātus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "particípio perfeito passivo de ārto; 'apertado, enrijecido, estreito' (adjectival use derived)",
-    "exemplos": [],
-    "notas": "Confirmado em Lewis & Short; forma com macron principal; variante sem macron incluída. | [dedupe] redirect → chunk_2600:2600:1 | [dedupe] redirect → chunk_2600:2600:1",
-    "raw_text": "{\"id\":\"chunk_2573:2573:0\",\"lemas\":[\"artātus\",\"artatus\"],\"lema_canonico\":\"artātus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de ārto; 'apertado, enrijecido, estreito' (adjectival use derived)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Confirmado em Lewis & Short; forma com macron principal; variante sem macron incluída.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_2573:2573:0\",\"lemas\":[\"artātus\",\"artatus\"],\"lema_canonico\":\"artātus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de ārto; 'apertado, enrijecido, estreito' (adjectival use derived)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Confirmado em Lewis & Short; forma com macron principal; variante sem macron incluída.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_2574-e1",
     "volume_id": "faria",
     "doc_name": "chunk_2574",
@@ -4310,28 +3782,6 @@
     "notas": "Lema e acepção confirmados pelo Lewis & Short; exemplar citado no first_pass substituído por referência comum. | [ocr_fix 2025-08-17T19:56:01Z] match direto em LS por lemma/lemma_norm | lemma_in='Artaxerxes' → 'Artaxerxes'",
     "raw_text": "{\"id\":\"chunk_2576:2576:0\",\"lemas\":[\"Artaxerxes\"],\"lema_canonico\":\"Artaxerxes\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Nome próprio de vários reis persas.\",\"aliases\":[],\"exemplos\":[\"Nep. Reg. 1, 3\"],\"notas\":\"Lema e acepção confirmados pelo Lewis & Short; exemplar citado no first_pass substituído por referência comum.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_2576:2576:0\",\"lemas\":[\"Artaxerxes\"],\"lema_canonico\":\"Artaxerxes\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Nome próprio de vários reis persas.\",\"aliases\":[],\"exemplos\":[\"Nep. Reg. 1, 3\"],\"notas\":\"Lema e acepção confirmados pelo Lewis & Short; exemplar citado no first_pass substituído por referência comum.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_2577-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_2577",
-    "page_num": 2577,
-    "lemmas": [
-      "arte",
-      "arte"
-    ],
-    "morfologia": "adv.",
-    "morph_render": "adv.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "adv.: estreitamente, de modo apertado/compacto; brevemente (variante de artē/ arctē)",
-    "exemplos": [],
-    "notas": "Forma advérbial atestada em LS/Whitaker como variante de artē/arctē. | [dedupe] redirect → chunk_2364:2364:0 | [dedupe] redirect → chunk_2364:2364:0",
-    "raw_text": "{\"id\":\"chunk_2577:2577:0\",\"lemas\":[\"arte\"],\"lema_canonico\":\"arte\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"adv.: estreitamente, de modo apertado/compacto; brevemente (variante de artē/ arctē)\",\"aliases\":[\"artē\",\"arctē\"],\"exemplos\":[],\"notas\":\"Forma advérbial atestada em LS/Whitaker como variante de artē/arctē.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_2577:2577:0\",\"lemas\":[\"arte\"],\"lema_canonico\":\"arte\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"adv.: estreitamente, de modo apertado/compacto; brevemente (variante de artē/ arctē)\",\"aliases\":[\"artē\",\"arctē\"],\"exemplos\":[],\"notas\":\"Forma advérbial atestada em LS/Whitaker como variante de artē/arctē.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_2578-e1",
@@ -4508,28 +3958,6 @@
     "notas": "Registra-se a variante neutra plural arterium; sentidos confirmados por LS e Whitaker.",
     "raw_text": "{\"id\":\"chunk_2585:2585:0\",\"lemas\":[\"arteria\",\"arterium\"],\"lema_canonico\":\"arteria\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"1) traqueia, passagem respiratória (windpipe/trachea); 2) artéria, vaso sanguíneo.\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 2, 138\",\"Plin. Nat. 11, 37\"],\"notas\":\"Registra-se a variante neutra plural arterium; sentidos confirmados por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_2585:2585:0\",\"lemas\":[\"arteria\",\"arterium\"],\"lema_canonico\":\"arteria\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"1) traqueia, passagem respiratória (windpipe/trachea); 2) artéria, vaso sanguíneo.\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 2, 138\",\"Plin. Nat. 11, 37\"],\"notas\":\"Registra-se a variante neutra plural arterium; sentidos confirmados por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_2586-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_2586",
-    "page_num": 2586,
-    "lemmas": [
-      "arteria",
-      "arteria"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "tubo/conduto: tráquea (windpipe, trachea); por extensão, em pl. vasos sanguíneos, artérias",
-    "exemplos": [],
-    "notas": "Sentido singular 'tráquea' e plur. 'artéria' atestados; forma arteri(a/um) registrada em fontes médicas. | [dedupe] redirect → chunk_2585:2585:0 | [dedupe] redirect → chunk_2585:2585:0",
-    "raw_text": "{\"id\":\"chunk_2586:2586:0\",\"lemas\":[\"arteria\"],\"lema_canonico\":\"arteria\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"tubo/conduto: tráquea (windpipe, trachea); por extensão, em pl. vasos sanguíneos, artérias\",\"aliases\":[\"arterium\"],\"exemplos\":[\"Luc. 4, 529\"],\"notas\":\"Sentido singular 'tráquea' e plur. 'artéria' atestados; forma arteri(a/um) registrada em fontes médicas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_2586:2586:0\",\"lemas\":[\"arteria\"],\"lema_canonico\":\"arteria\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"tubo/conduto: tráquea (windpipe, trachea); por extensão, em pl. vasos sanguíneos, artérias\",\"aliases\":[\"arterium\"],\"exemplos\":[\"Luc. 4, 529\"],\"notas\":\"Sentido singular 'tráquea' e plur. 'artéria' atestados; forma arteri(a/um) registrada em fontes médicas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_2587-e1",

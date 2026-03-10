@@ -242,28 +242,6 @@
     "raw_json": "{\"id\":\"chunk_12010:12010:0\",\"lemas\":[\"Golgĭ\",\"Golgĭe\"],\"lema_canonico\":\"Golgĭ\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Golgos, cidade da ilha de Chipre, onde Vênus era adorada (Catul. 36, 14).\",\"aliases\":[],\"exemplos\":[\"Catul. 36, 14\"],\"notas\":\"Mantida forma da primeira passada; OCR indica variantes paralelas. Verificar forma canónica com dicionários latinos.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_12011-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_12011",
-    "page_num": 12011,
-    "lemmas": [
-      "Gomphi",
-      "Gomphi"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "habitantes de Gomphi (plur.)",
-    "exemplos": [],
-    "notas": "Leitura a partir do OCR/first_pass indica forma plural; morfologia aproximada e marcada para revisão\n[ocr_pipeline 2025-08-16T23:12:50.827022Z] lemma_in='Gomphenes' → 'Gomphi' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:08:31Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='Gomphi' → 'Gomphi' | [dedupe] redirect → chunk_12012:12012:0 | [dedupe] redirect → chunk_12012:12012:0",
-    "raw_text": "{\"id\":\"chunk_12011:12011:0\",\"lemas\":[\"Gomphenes\",\"Gomphēnēs\"],\"lema_canonico\":\"Gomphenes\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[\"pl.\"],\"definicao\":\"habitantes de Gomphi (plur.)\",\"aliases\":[],\"exemplos\":[\"Liv. 39, 25\"],\"notas\":\"Leitura a partir do OCR/first_pass indica forma plural; morfologia aproximada e marcada para revisão\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_12011:12011:0\",\"lemas\":[\"Gomphenes\",\"Gomphēnēs\"],\"lema_canonico\":\"Gomphenes\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[\"pl.\"],\"definicao\":\"habitantes de Gomphi (plur.)\",\"aliases\":[],\"exemplos\":[\"Liv. 39, 25\"],\"notas\":\"Leitura a partir do OCR/first_pass indica forma plural; morfologia aproximada e marcada para revisão\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\",\"morph_out_of_vocab\"]}"
-  },
-  {
     "id": "chunk_12012-e1",
     "volume_id": "faria",
     "doc_name": "chunk_12012",
@@ -330,28 +308,6 @@
     "raw_json": "{\"id\":\"chunk_12014:12014:0\",\"lemas\":[\"Gonnoeondyma\"],\"lema_canonico\":\"Gonnoeondyma\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Gonnoeondyma — forma atípica; possível topónimo citado em Tito Lívio; forma incerta.\",\"aliases\":[],\"exemplos\":[\"T. Liv. 39, 25\"],\"notas\":\"Forma obscura/OCR suspeita; não confirmada em dicionários principais.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_12015-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_12015",
-    "page_num": 12015,
-    "lemmas": [
-      "Gonnus",
-      "Gonnus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Gonnus, povoado / cidade (topónimo), citado em Tito Lívio.",
-    "exemplos": [],
-    "notas": "Normalizada morfologia desde '-i, m.'; identificado como topónimo. | [dedupe] redirect → chunk_12013:12013:0 | [dedupe] redirect → chunk_12013:12013:0",
-    "raw_text": "{\"id\":\"chunk_12015:12015:0\",\"lemas\":[\"Gonnus\"],\"lema_canonico\":\"Gonnus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Gonnus, povoado / cidade (topónimo), citado em Tito Lívio.\",\"aliases\":[],\"exemplos\":[\"T. Liv. 42, 54, 8\"],\"notas\":\"Normalizada morfologia desde '-i, m.'; identificado como topónimo.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_12015:12015:0\",\"lemas\":[\"Gonnus\"],\"lema_canonico\":\"Gonnus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Gonnus, povoado / cidade (topónimo), citado em Tito Lívio.\",\"aliases\":[],\"exemplos\":[\"T. Liv. 42, 54, 8\"],\"notas\":\"Normalizada morfologia desde '-i, m.'; identificado como topónimo.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_12016-e1",
     "volume_id": "faria",
     "doc_name": "chunk_12016",
@@ -394,50 +350,6 @@
     "notas": "Substantivo e uso adjetival documentados em LS; adjectival form noted in definition. | [ocr_fix 2025-08-17T19:57:58Z] match direto em LS por lemma/lemma_norm | lemma_in='Gordius' → 'Gordĭus'",
     "raw_text": "{\"id\":\"chunk_12017:12017:0\",\"lemas\":[\"Gordius\",\"Gordĭus\"],\"lema_canonico\":\"Gordius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Górdio, rei de Gordium; figura lendária famosa pelo nó górdico. Também adjetivo gordianus (-a, -um) relativo a Górdio.\",\"aliases\":[],\"exemplos\":[\"Curt. 3, 1, 15 sqq.\",\"Just. 11, 7, 13 sqq.\",\"Amm. 14, 11, 1\"],\"notas\":\"Substantivo e uso adjetival documentados em LS; adjectival form noted in definition.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_12017:12017:0\",\"lemas\":[\"Gordius\",\"Gordĭus\"],\"lema_canonico\":\"Gordius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Górdio, rei de Gordium; figura lendária famosa pelo nó górdico. Também adjetivo gordianus (-a, -um) relativo a Górdio.\",\"aliases\":[],\"exemplos\":[\"Curt. 3, 1, 15 sqq.\",\"Just. 11, 7, 13 sqq.\",\"Amm. 14, 11, 1\"],\"notas\":\"Substantivo e uso adjetival documentados em LS; adjectival form noted in definition.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_12018-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_12018",
-    "page_num": 12018,
-    "lemmas": [
-      "Gordĭus",
-      "Gordĭus"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Górdio, lavrador da Frígia que se tornou rei; famoso pelo nó de seu carro que Alexandre cortou.",
-    "exemplos": [],
-    "notas": "Lema e definição confirmados em Lewis & Short; padronizadas citações. | [dedupe] redirect → chunk_12017:12017:0 | [dedupe] redirect → chunk_12017:12017:0 | [ocr_fix 2025-08-17T19:58:00Z] match direto em LS por lemma/lemma_norm | lemma_in='Gordius' → 'Gordĭus'",
-    "raw_text": "{\"id\":\"chunk_12018:12018:0\",\"lemas\":[\"Gordius\"],\"lema_canonico\":\"Gordius\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Górdio, lavrador da Frígia que se tornou rei; famoso pelo nó de seu carro que Alexandre cortou.\",\"aliases\":[],\"exemplos\":[\"Curt. 3, 1, 15 sqq.\",\"Just. 11, 7, 13 sqq.\"],\"notas\":\"Lema e definição confirmados em Lewis & Short; padronizadas citações.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_12018:12018:0\",\"lemas\":[\"Gordius\"],\"lema_canonico\":\"Gordius\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Górdio, lavrador da Frígia que se tornou rei; famoso pelo nó de seu carro que Alexandre cortou.\",\"aliases\":[],\"exemplos\":[\"Curt. 3, 1, 15 sqq.\",\"Just. 11, 7, 13 sqq.\"],\"notas\":\"Lema e definição confirmados em Lewis & Short; padronizadas citações.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_12019-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_12019",
-    "page_num": 12019,
-    "lemmas": [
-      "Gordĭum",
-      "Gordĭum"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Gorditichos, topónimo (cidade na Frígia/Cária) — forma atípica; leitura provável de entrada OCR.",
-    "exemplos": [],
-    "notas": "Forma possivelmente corrompida no original; mantida como indeclinável por falta de confirmação.\n[ocr_pipeline 2025-08-16T23:12:49.963701Z] lemma_in='Gorditichos' → 'Gordĭum' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:08:30Z] match direto em LS por lemma/lemma_norm | lemma_in='Gordĭum' → 'Gordĭum' | [dedupe] redirect → chunk_12016:12016:0 | [dedupe] redirect → chunk_12016:12016:0",
-    "raw_text": "{\"id\":\"chunk_12019:12019:0\",\"lemas\":[\"Gorditichos\"],\"lema_canonico\":\"Gorditichos\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Gorditichos, topónimo (cidade na Frígia/Cária) — forma atípica; leitura provável de entrada OCR.\",\"aliases\":[],\"exemplos\":[\"T. Liv. 38, 13\"],\"notas\":\"Forma possivelmente corrompida no original; mantida como indeclinável por falta de confirmação.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_12019:12019:0\",\"lemas\":[\"Gorditichos\"],\"lema_canonico\":\"Gorditichos\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Gorditichos, topónimo (cidade na Frígia/Cária) — forma atípica; leitura provável de entrada OCR.\",\"aliases\":[],\"exemplos\":[\"T. Liv. 38, 13\"],\"notas\":\"Forma possivelmente corrompida no original; mantida como indeclinável por falta de confirmação.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
     "id": "chunk_12020-e1",
@@ -660,28 +572,6 @@
     "raw_json": "{\"id\":\"chunk_12029:12029:0\",\"lemas\":[\"Gortyna\",\"Gortyn\"],\"lema_canonico\":\"Gortyna\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"An important and very ancient city of Crete (Gortyna/Gortyn).\",\"aliases\":[\"Gortyne\"],\"exemplos\":[\"Plin. Nat. 4, 12, 20\",\"Luc. 3, 186\",\"Sen. Troad. 821\"],\"notas\":\"Baseado em Lewis & Short; inclui variantes e referências clássicas.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_12030-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_12030",
-    "page_num": 12030,
-    "lemmas": [
-      "Gortȳna",
-      "Gortȳna"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Cidade antiga de Creta, Gortȳna (Gortyna), importante localidade clássica (ateste em autores como Lucanus e Plínio).",
-    "exemplos": [],
-    "notas": "Normalizada grafia e macronização segundo Lewis & Short; variantes e derivados atestados no LS. | [dedupe] redirect → chunk_12029:12029:0 | [dedupe] redirect → chunk_12029:12029:0",
-    "raw_text": "{\"id\":\"chunk_12030:12030:0\",\"lemas\":[\"Gortȳna\",\"Gortyna\",\"Gortynia\"],\"lema_canonico\":\"Gortȳna\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Cidade antiga de Creta, Gortȳna (Gortyna), importante localidade clássica (ateste em autores como Lucanus e Plínio).\",\"aliases\":[],\"exemplos\":[\"Luc. 3, 186\"],\"notas\":\"Normalizada grafia e macronização segundo Lewis & Short; variantes e derivados atestados no LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_12030:12030:0\",\"lemas\":[\"Gortȳna\",\"Gortyna\",\"Gortynia\"],\"lema_canonico\":\"Gortȳna\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Cidade antiga de Creta, Gortȳna (Gortyna), importante localidade clássica (ateste em autores como Lucanus e Plínio).\",\"aliases\":[],\"exemplos\":[\"Luc. 3, 186\"],\"notas\":\"Normalizada grafia e macronização segundo Lewis & Short; variantes e derivados atestados no LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_12031-e1",
     "volume_id": "faria",
     "doc_name": "chunk_12031",
@@ -880,28 +770,6 @@
     "raw_json": "{\"id\":\"chunk_12039:12039:0\",\"lemas\":[\"grabatus\",\"grabatum\"],\"lema_canonico\":\"grabatus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Pequeno leito ou cama baixa; catre, cama de campanha, palete; leito pobre ou miserável (sin.: lectus, cubile, stratum, torus).\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 2, 63\",\"Cic. Div. 2, 129\"],\"notas\":\"Inclui variante grabatum atestada pelo Lewis & Short; corrigido formato e abreviaturas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_12040-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_12040",
-    "page_num": 12040,
-    "lemmas": [
-      "Graecus",
-      "Graecus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Relativo aos Gracos; pertencente aos Gracos.",
-    "exemplos": [],
-    "notas": "Forma atestada no texto (Gracchānus → Gracchanus). Não confirmada em Whitaker (marcada UNKNOWN); precisa de verificação adicional.\n[ocr_pipeline 2025-08-16T23:12:46.748451Z] lemma_in='Gracchanus' → 'Graecus' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:08:26Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='Graecus' → 'Graecus' | [dedupe] redirect → chunk_12065:12065:0 | [dedupe] redirect → chunk_12065:12065:0",
-    "raw_text": "{\"id\":\"chunk_12040:12040:0\",\"lemas\":[\"Gracchanus\"],\"lema_canonico\":\"Gracchanus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo aos Gracos; pertencente aos Gracos.\",\"aliases\":[],\"exemplos\":[\"Cic. Br. 128\"],\"notas\":\"Forma atestada no texto (Gracchānus → Gracchanus). Não confirmada em Whitaker (marcada UNKNOWN); precisa de verificação adicional.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_12040:12040:0\",\"lemas\":[\"Gracchanus\"],\"lema_canonico\":\"Gracchanus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo aos Gracos; pertencente aos Gracos.\",\"aliases\":[],\"exemplos\":[\"Cic. Br. 128\"],\"notas\":\"Forma atestada no texto (Gracchānus → Gracchanus). Não confirmada em Whitaker (marcada UNKNOWN); precisa de verificação adicional.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
     "id": "chunk_12041-e1",
     "volume_id": "faria",
     "doc_name": "chunk_12041",
@@ -1032,28 +900,6 @@
     "notas": "Corrigido erro de remissão do first_pass; lemas e referências conformes a Lewis & Short e Whitaker.",
     "raw_text": "{\"id\":\"chunk_12046:12046:0\",\"lemas\":[\"graculus\"],\"lema_canonico\":\"graculus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"um tipo de gaio/parda (jackdaw, Corvus monedula) — pássaro citado proverbially em Lat.\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 11, 37, 79\",\"Plin. Nat. 11, 47, 107\",\"Plin. Nat. 8, 27, 41\",\"Phaedr. 1, 3, 4\",\"Mart. 1, 116, 6\",\"Gell. N. A. praef. § 19\",\"Tert. adv. Val. 12\"],\"notas\":\"Corrigido erro de remissão do first_pass; lemas e referências conformes a Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_12046:12046:0\",\"lemas\":[\"graculus\"],\"lema_canonico\":\"graculus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"um tipo de gaio/parda (jackdaw, Corvus monedula) — pássaro citado proverbially em Lat.\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 11, 37, 79\",\"Plin. Nat. 11, 47, 107\",\"Plin. Nat. 8, 27, 41\",\"Phaedr. 1, 3, 4\",\"Mart. 1, 116, 6\",\"Gell. N. A. praef. § 19\",\"Tert. adv. Val. 12\"],\"notas\":\"Corrigido erro de remissão do first_pass; lemas e referências conformes a Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_12047-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_12047",
-    "page_num": 12047,
-    "lemmas": [
-      "graculus",
-      "graculus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "gralha, jackdaw (Corvus monedula).",
-    "exemplos": [],
-    "notas": "Grafia e sentido confirmados em Lewis & Short e Whitaker. | [dedupe] redirect → chunk_12046:12046:0 | [dedupe] redirect → chunk_12046:12046:0",
-    "raw_text": "{\"id\":\"chunk_12047:12047:0\",\"lemas\":[\"graculus\"],\"lema_canonico\":\"graculus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"gralha, jackdaw (Corvus monedula).\",\"aliases\":[],\"exemplos\":[\"Phaedr. 1, 3, 4\",\"Plin. 11, 37, 79\"],\"notas\":\"Grafia e sentido confirmados em Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_12047:12047:0\",\"lemas\":[\"graculus\"],\"lema_canonico\":\"graculus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"gralha, jackdaw (Corvus monedula).\",\"aliases\":[],\"exemplos\":[\"Phaedr. 1, 3, 4\",\"Plin. 11, 37, 79\"],\"notas\":\"Grafia e sentido confirmados em Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_12048-e1",
@@ -1210,28 +1056,6 @@
     "raw_json": "{\"id\":\"chunk_12054:12054:0\",\"lemas\":[\"Graece\"],\"lema_canonico\":\"Graece\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"em língua grega; ‘em grego’ (modo).\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 1, 155\",\"Cic. De Or. 2, 75\"],\"notas\":\"Classificação como advérbio confirmada; também atestado como adj. em fontes secundárias.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_12055-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_12055",
-    "page_num": 12055,
-    "lemmas": [
-      "Graecus",
-      "Graecus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "os Gregos, o povo grego (plural); também Graecus, s. e adj., 'grego'",
-    "exemplos": [],
-    "notas": "Registro plural 'Graeci' mantido; lema canónico em forma de nominativo singular 'Graecus'. | [dedupe] redirect → chunk_12066:12066:0 | [dedupe] redirect → chunk_12066:12066:0",
-    "raw_text": "{\"id\":\"chunk_12055:12055:0\",\"lemas\":[\"Graeci\",\"Graecus\"],\"lema_canonico\":\"Graecus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"os Gregos, o povo grego (plural); também Graecus, s. e adj., 'grego'\",\"aliases\":[],\"exemplos\":[\"Cic. Rep. 1, 7\"],\"notas\":\"Registro plural 'Graeci' mantido; lema canónico em forma de nominativo singular 'Graecus'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_12055:12055:0\",\"lemas\":[\"Graeci\",\"Graecus\"],\"lema_canonico\":\"Graecus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"os Gregos, o povo grego (plural); também Graecus, s. e adj., 'grego'\",\"aliases\":[],\"exemplos\":[\"Cic. Rep. 1, 7\"],\"notas\":\"Registro plural 'Graeci' mantido; lema canónico em forma de nominativo singular 'Graecus'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_12056-e1",
     "volume_id": "faria",
     "doc_name": "chunk_12056",
@@ -1342,28 +1166,6 @@
     "raw_json": "{\"id\":\"chunk_12060:12060:0\",\"lemas\":[\"Graecostasis\",\"Graecostăsis\",\"Graecostasis\"],\"lema_canonico\":\"Graecostasis\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"edifício em Roma junto à Curia/Comitium onde, originalmente, os embaixadores gregos (depois outros estrangeiros) residiam enquanto aguardavam audiência\",\"aliases\":[],\"exemplos\":[\"Varr. L. L. 5, §155 Müll.\",\"Cic. Q. Fr. 2, 1, 3\",\"Plin. Nat. 7, 60, §212; 33, 1, §19\"],\"notas\":\"Grafia e declinação alinhadas com Lewis & Short; variantes diacríticas preservadas como forma alternativa.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_12061-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_12061",
-    "page_num": 12061,
-    "lemmas": [
-      "Graecŭlĭo",
-      "Graecŭlĭo"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada tratada como remissão para Graeculus (LS indica Graecŭlĭo sob Graeculus). Definição deixada vazia por ser redirecionamento. | [ocr_fix 2025-08-17T19:58:01Z] match direto em LS por lemma/lemma_norm | lemma_in='Graeculio' → 'Graecŭlĭo'",
-    "raw_text": "{\"id\":\"chunk_12061:12061:0\",\"lemas\":[\"Graeculio\",\"Graecŭlĭo\"],\"lema_canonico\":\"Graeculio\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Graeculus\"],\"exemplos\":[\"Petr. 76, 101\"],\"notas\":\"Entrada tratada como remissão para Graeculus (LS indica Graecŭlĭo sob Graeculus). Definição deixada vazia por ser redirecionamento.\",\"flags\":[\"src_ls\",\"conf:med\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_12061:12061:0\",\"lemas\":[\"Graeculio\",\"Graecŭlĭo\"],\"lema_canonico\":\"Graeculio\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Graeculus\"],\"exemplos\":[\"Petr. 76, 101\"],\"notas\":\"Entrada tratada como remissão para Graeculus (LS indica Graecŭlĭo sob Graeculus). Definição deixada vazia por ser redirecionamento.\",\"flags\":[\"src_ls\",\"conf:med\",\"redirect_only\"]}"
-  },
-  {
     "id": "chunk_12062-e1",
     "volume_id": "faria",
     "doc_name": "chunk_12062",
@@ -1472,28 +1274,6 @@
     "notas": "Substantivo gentilício grafado como graecus, -i conforme LS/Whitaker.",
     "raw_text": "{\"id\":\"chunk_12066:12066:0\",\"lemas\":[\"graecus\"],\"lema_canonico\":\"graecus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Um grego (substantivo masculino).\",\"aliases\":[],\"exemplos\":[\"Cic. Flac. 17\"],\"notas\":\"Substantivo gentilício grafado como graecus, -i conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_12066:12066:0\",\"lemas\":[\"graecus\"],\"lema_canonico\":\"graecus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Um grego (substantivo masculino).\",\"aliases\":[],\"exemplos\":[\"Cic. Flac. 17\"],\"notas\":\"Substantivo gentilício grafado como graecus, -i conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_12067-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_12067",
-    "page_num": 12067,
-    "lemmas": [
-      "Graecus",
-      "Graecus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "um Grego (nome próprio ou gentílico); também adjetivo 'grego' (Graecus, -a, -um)",
-    "exemplos": [],
-    "notas": "Conservei uso nominativo singular como lema; indiquei dupla função (nome próprio e adjetivo) conforme LS/Whitaker. | [dedupe] redirect → chunk_12066:12066:0 | [dedupe] redirect → chunk_12066:12066:0",
-    "raw_text": "{\"id\":\"chunk_12067:12067:0\",\"lemas\":[\"Graecus\"],\"lema_canonico\":\"Graecus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"um Grego (nome próprio ou gentílico); também adjetivo 'grego' (Graecus, -a, -um)\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 4, 28\"],\"notas\":\"Conservei uso nominativo singular como lema; indiquei dupla função (nome próprio e adjetivo) conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_12067:12067:0\",\"lemas\":[\"Graecus\"],\"lema_canonico\":\"Graecus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"um Grego (nome próprio ou gentílico); também adjetivo 'grego' (Graecus, -a, -um)\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 4, 28\"],\"notas\":\"Conservei uso nominativo singular como lema; indiquei dupla função (nome próprio e adjetivo) conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_12068-e1",
@@ -1694,28 +1474,6 @@
     "raw_json": "{\"id\":\"chunk_12075:12075:0\",\"lemas\":[\"grammatica\",\"grammătĭca\"],\"lema_canonico\":\"grammatica\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"gramática; estudo da linguagem (grammar, philology).\",\"aliases\":[],\"exemplos\":[\"Cic. Fin. 3, 5\",\"Quint. 1, 4, 1\"],\"notas\":\"Grafia canônica confirmada (grammătĭca, -ae) por Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_12076-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_12076",
-    "page_num": 12076,
-    "lemmas": [
-      "grammatica",
-      "grammatica"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "gramática; ciência dos gramáticos; obra ou ensino de gramática",
-    "exemplos": [],
-    "notas": "Normalizado para o substantivo feminino de 1ª declinação (LS/Whitaker). | [dedupe] redirect → chunk_12075:12075:0 | [dedupe] redirect → chunk_12075:12075:0",
-    "raw_text": "{\"id\":\"chunk_12076:12076:0\",\"lemas\":[\"grammatica\"],\"lema_canonico\":\"grammatica\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"gramática; ciência dos gramáticos; obra ou ensino de gramática\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 1, 187\"],\"notas\":\"Normalizado para o substantivo feminino de 1ª declinação (LS/Whitaker).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_12076:12076:0\",\"lemas\":[\"grammatica\"],\"lema_canonico\":\"grammatica\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"gramática; ciência dos gramáticos; obra ou ensino de gramática\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 1, 187\"],\"notas\":\"Normalizado para o substantivo feminino de 1ª declinação (LS/Whitaker).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_12077-e1",
     "volume_id": "faria",
     "doc_name": "chunk_12077",
@@ -1758,28 +1516,6 @@
     "notas": "Unificadas formas e sentidos com base em LS e Whitaker; entrada cobre uso adjetival e substantivado.",
     "raw_text": "{\"id\":\"chunk_12078:12078:0\",\"lemas\":[\"grammaticus\",\"grammatica\",\"grammaticum\"],\"lema_canonico\":\"grammaticus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"1) relativo à gramática, gramatical; 2) (como substantivo) um grammaticus = professor/erudito em linguagem e literatura\",\"aliases\":[],\"exemplos\":[\"Hor. Ep. 1, 19, 40\",\"S. Jer. 4, 117\"],\"notas\":\"Unificadas formas e sentidos com base em LS e Whitaker; entrada cobre uso adjetival e substantivado.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_12078:12078:0\",\"lemas\":[\"grammaticus\",\"grammatica\",\"grammaticum\"],\"lema_canonico\":\"grammaticus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"1) relativo à gramática, gramatical; 2) (como substantivo) um grammaticus = professor/erudito em linguagem e literatura\",\"aliases\":[],\"exemplos\":[\"Hor. Ep. 1, 19, 40\",\"S. Jer. 4, 117\"],\"notas\":\"Unificadas formas e sentidos com base em LS e Whitaker; entrada cobre uso adjetival e substantivado.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_12079-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_12079",
-    "page_num": 12079,
-    "lemmas": [
-      "grammaticus",
-      "grammaticus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "1) substantivo: um gramático, professor de gramática; 2) adjetivo: relativo à gramática, gramatical; também 'filólogo, erudito'.",
-    "exemplos": [],
-    "notas": "Registro tanto do substantivo quanto do adjetivo; morfologia principal marcada como substantivo, adjetival indicado em morph_extra. | [dedupe] redirect → chunk_12078:12078:0 | [dedupe] redirect → chunk_12078:12078:0",
-    "raw_text": "{\"id\":\"chunk_12079:12079:0\",\"lemas\":[\"grammaticus\"],\"lema_canonico\":\"grammaticus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[\"adj. (1/2) -a, -um\"],\"definicao\":\"1) substantivo: um gramático, professor de gramática; 2) adjetivo: relativo à gramática, gramatical; também 'filólogo, erudito'.\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 2, 12\",\"Cic. Div. 1, 116\"],\"notas\":\"Registro tanto do substantivo quanto do adjetivo; morfologia principal marcada como substantivo, adjetival indicado em morph_extra.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_12079:12079:0\",\"lemas\":[\"grammaticus\"],\"lema_canonico\":\"grammaticus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[\"adj. (1/2) -a, -um\"],\"definicao\":\"1) substantivo: um gramático, professor de gramática; 2) adjetivo: relativo à gramática, gramatical; também 'filólogo, erudito'.\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 2, 12\",\"Cic. Div. 1, 116\"],\"notas\":\"Registro tanto do substantivo quanto do adjetivo; morfologia principal marcada como substantivo, adjetival indicado em morph_extra.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_12080-e1",
@@ -2266,28 +2002,6 @@
     "raw_json": "{\"id\":\"chunk_12101:12101:0\",\"lemas\":[\"graphicus\",\"graphica\",\"graphicum\"],\"lema_canonico\":\"graphicus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Que pertence à pintura ou ao desenho; pictórico, artístico; aplicado a pessoas: primoroso, hábil, excelente.\",\"aliases\":[],\"exemplos\":[\"Plaut. Pers. 519\",\"Plin. 35, 10, 36, § 77\"],\"notas\":\"Lema e sentidos harmonizados com Lewis & Short e Whitaker (grăphĭcus).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_12102-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_12102",
-    "page_num": 12102,
-    "lemmas": [
-      "graphium",
-      "graphium"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Instrumento de escrita/estilete (peça para escrever em cera); também 'stylus, graph' em autores latinos.",
-    "exemplos": [],
-    "notas": "Lema e sentido confirmados em Lewis & Short e Whitaker; variante 'graphiium' registrada. | [dedupe] redirect → chunk_12068:12068:0 | [dedupe] redirect → chunk_12068:12068:0",
-    "raw_text": "{\"id\":\"chunk_12102:12102:0\",\"lemas\":[\"graphium\",\"graphiium\"],\"lema_canonico\":\"graphium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Instrumento de escrita/estilete (peça para escrever em cera); também 'stylus, graph' em autores latinos.\",\"aliases\":[],\"exemplos\":[\"Ov. Am. 1, 11, 23\",\"Sen. Clem. 1, 14\",\"Plin. 16, 38, 73, §184\",\"Suet. Caes. 82\",\"Suet. Calig. 28\",\"Suet. Claud. 15\"],\"notas\":\"Lema e sentido confirmados em Lewis & Short e Whitaker; variante 'graphiium' registrada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_12102:12102:0\",\"lemas\":[\"graphium\",\"graphiium\"],\"lema_canonico\":\"graphium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Instrumento de escrita/estilete (peça para escrever em cera); também 'stylus, graph' em autores latinos.\",\"aliases\":[],\"exemplos\":[\"Ov. Am. 1, 11, 23\",\"Sen. Clem. 1, 14\",\"Plin. 16, 38, 73, §184\",\"Suet. Caes. 82\",\"Suet. Calig. 28\",\"Suet. Claud. 15\"],\"notas\":\"Lema e sentido confirmados em Lewis & Short e Whitaker; variante 'graphiium' registrada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_12103-e1",
     "volume_id": "faria",
     "doc_name": "chunk_12103",
@@ -2398,50 +2112,6 @@
     "raw_json": "{\"id\":\"chunk_12107:12107:0\",\"lemas\":[\"gratia\",\"gratias\"],\"lema_canonico\":\"gratia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"favor, graça; agradecimento (pl. gratias = ações/expressões de agradecimento)\",\"aliases\":[],\"exemplos\":[\"Cic. Rep. 6, 9\"],\"notas\":\"Inclui uso ritual do plural 'gratias'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_12108-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_12108",
-    "page_num": 12108,
-    "lemmas": [
-      "gratia",
-      "gratia"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Favor; graça; agradecimento; apreço, influência, simpatia; também 'favor, prestígio' (sentidos variados segundo contexto).",
-    "exemplos": [],
-    "notas": "Sentidos múltiplos sumarizados; corroborado por LS e Lat→Deu. | [dedupe] redirect → chunk_12107:12107:0 | [dedupe] redirect → chunk_12107:12107:0",
-    "raw_text": "{\"id\":\"chunk_12108:12108:0\",\"lemas\":[\"gratia\"],\"lema_canonico\":\"gratia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Favor; graça; agradecimento; apreço, influência, simpatia; também 'favor, prestígio' (sentidos variados segundo contexto).\",\"aliases\":[],\"exemplos\":[\"Cic. Cat. 1, 28\",\"Liv. 3, 41, 4\",\"Cic. Verr. 4, 143\",\"Cic. Rep. 2, 60\"],\"notas\":\"Sentidos múltiplos sumarizados; corroborado por LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_12108:12108:0\",\"lemas\":[\"gratia\"],\"lema_canonico\":\"gratia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Favor; graça; agradecimento; apreço, influência, simpatia; também 'favor, prestígio' (sentidos variados segundo contexto).\",\"aliases\":[],\"exemplos\":[\"Cic. Cat. 1, 28\",\"Liv. 3, 41, 4\",\"Cic. Verr. 4, 143\",\"Cic. Rep. 2, 60\"],\"notas\":\"Sentidos múltiplos sumarizados; corroborado por LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_12109-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_12109",
-    "page_num": 12109,
-    "lemmas": [
-      "gratia",
-      "gratia"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "favor, apreço, estima; favor, influência; também 'graça' ou uma das Graças (plural: Gratiae) como divindades.",
-    "exemplos": [],
-    "notas": "Sentidos e flexões confirmados por LS, Whitaker e Lat→Deu. | [dedupe] redirect → chunk_12107:12107:0 | [dedupe] redirect → chunk_12107:12107:0",
-    "raw_text": "{\"id\":\"chunk_12109:12109:0\",\"lemas\":[\"gratia\",\"gratiae\"],\"lema_canonico\":\"gratia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"favor, apreço, estima; favor, influência; também 'graça' ou uma das Graças (plural: Gratiae) como divindades.\",\"aliases\":[],\"exemplos\":[\"Hor. Od. 1, 30, 6\"],\"notas\":\"Sentidos e flexões confirmados por LS, Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_12109:12109:0\",\"lemas\":[\"gratia\",\"gratiae\"],\"lema_canonico\":\"gratia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"favor, apreço, estima; favor, influência; também 'graça' ou uma das Graças (plural: Gratiae) como divindades.\",\"aliases\":[],\"exemplos\":[\"Hor. Od. 1, 30, 6\"],\"notas\":\"Sentidos e flexões confirmados por LS, Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_12110-e1",
     "volume_id": "faria",
     "doc_name": "chunk_12110",
@@ -2462,28 +2132,6 @@
     "notas": "Atestado em fontes epigráficas e literárias; OCR apresentou variantes ortográficas; confirmação adicional desejável.\n[ocr_pipeline 2025-08-16T23:12:53.411823Z] lemma_in='Gratidianus' → 'Grātĭdĭus' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:08:35Z] match direto em LS por lemma/lemma_norm | lemma_in='Grātĭdĭus' → 'Grātĭdĭus'",
     "raw_text": "{\"id\":\"chunk_12110:12110:0\",\"lemas\":[\"Gratidianus\"],\"lema_canonico\":\"Gratidianus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"nome próprio masculino: Gratidianus (ex.: M. Marius Gratidianus).\",\"aliases\":[],\"exemplos\":[\"Cic. Br. 169\"],\"notas\":\"Atestado em fontes epigráficas e literárias; OCR apresentou variantes ortográficas; confirmação adicional desejável.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_12110:12110:0\",\"lemas\":[\"Gratidianus\"],\"lema_canonico\":\"Gratidianus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"nome próprio masculino: Gratidianus (ex.: M. Marius Gratidianus).\",\"aliases\":[],\"exemplos\":[\"Cic. Br. 169\"],\"notas\":\"Atestado em fontes epigráficas e literárias; OCR apresentou variantes ortográficas; confirmação adicional desejável.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_12111-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_12111",
-    "page_num": 12111,
-    "lemmas": [
-      "Grātĭdĭus",
-      "Grātĭdĭus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "nome próprio romano (gens Grātidius).",
-    "exemplos": [],
-    "notas": "Lema família atestado em LS; distinguido de adj. 'gratidus'. | [dedupe] redirect → chunk_12110:12110:0 | [dedupe] redirect → chunk_12110:12110:0 | [ocr_fix 2025-08-17T19:48:39Z] match direto em LS por lemma/lemma_norm | lemma_in='Gratidius' → 'Grātĭdĭus'",
-    "raw_text": "{\"id\":\"chunk_12111:12111:0\",\"lemas\":[\"Gratidius\"],\"lema_canonico\":\"Gratidius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"nome próprio romano (gens Grātidius).\",\"aliases\":[],\"exemplos\":[\"Cic. Leg. 3, 36\"],\"notas\":\"Lema família atestado em LS; distinguido de adj. 'gratidus'.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_12111:12111:0\",\"lemas\":[\"Gratidius\"],\"lema_canonico\":\"Gratidius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"nome próprio romano (gens Grātidius).\",\"aliases\":[],\"exemplos\":[\"Cic. Leg. 3, 36\"],\"notas\":\"Lema família atestado em LS; distinguido de adj. 'gratidus'.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
     "id": "chunk_12112-e1",
@@ -2528,28 +2176,6 @@
     "notas": "Morfologia atualizada como v. 1ª deponente conforme LS/Whitaker; transitividade mantida (intr. e tr.).",
     "raw_text": "{\"id\":\"chunk_12113:12113:0\",\"lemas\":[\"gratificor\",\"grātĭfĭcor\"],\"lema_canonico\":\"gratificor\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"verbo deponente: fazer favor; agradar; conceder por favor;, também 'oferecer' ou 'presentear' em uso class.; transitividade variável (intr. e tr.)\",\"aliases\":[],\"exemplos\":[\"Cic. Fin. 5, 42\",\"Tac. Ann. 4, 19\"],\"notas\":\"Morfologia atualizada como v. 1ª deponente conforme LS/Whitaker; transitividade mantida (intr. e tr.).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_12113:12113:0\",\"lemas\":[\"gratificor\",\"grātĭfĭcor\"],\"lema_canonico\":\"gratificor\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"verbo deponente: fazer favor; agradar; conceder por favor;, também 'oferecer' ou 'presentear' em uso class.; transitividade variável (intr. e tr.)\",\"aliases\":[],\"exemplos\":[\"Cic. Fin. 5, 42\",\"Tac. Ann. 4, 19\"],\"notas\":\"Morfologia atualizada como v. 1ª deponente conforme LS/Whitaker; transitividade mantida (intr. e tr.).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_12113-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_12113",
-    "page_num": 12113,
-    "lemmas": [
-      "grātīs",
-      "grātīs"
-    ],
-    "morfologia": "adv.",
-    "morph_render": "adv.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Referência cruzada: ver grātus, -a, -um e grātis (adv.).",
-    "exemplos": [],
-    "notas": "Registro originalmente remissivo no material de entrada; forma mantida mas carece de padronização entre adv./adj. — revisão necessária.\n[ocr_pipeline 2025-08-16T23:25:20.076674Z] lemma_in='grātis' → 'grātīs' | motivo: match direto em LS por lemma/lemma_norm | [ocr_fix 2025-08-17T01:25:16Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='grātīs' → 'grātīs' | [dedupe] redirect → chunk_12115:12115:0 | [dedupe] redirect → chunk_12115:12115:0",
-    "raw_text": "{\"id\":\"chunk_12113:12113:1\",\"lemas\":[\"grātis\",\"grātus\"],\"lema_canonico\":\"grātis\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"Referência cruzada: ver grātus, -a, -um e grātis (adv.).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Registro originalmente remissivo no material de entrada; forma mantida mas carece de padronização entre adv./adj. — revisão necessária.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_12113:12113:1\",\"lemas\":[\"grātis\",\"grātus\"],\"lema_canonico\":\"grātis\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"Referência cruzada: ver grātus, -a, -um e grātis (adv.).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Registro originalmente remissivo no material de entrada; forma mantida mas carece de padronização entre adv./adj. — revisão necessária.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
     "id": "chunk_12114-e1",
@@ -2794,28 +2420,6 @@
     "raw_json": "{\"id\":\"chunk_12124:12124:0\",\"lemas\":[\"gratus\"],\"lema_canonico\":\"gratus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"agradável, bem‑vindo; agradecido, grato; querido, aceitável\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 3, 24, 2\",\"Cic. Fam. 3, 8, 31\",\"Hor. Sat. 2, 2, 119\"],\"notas\":\"Corrigido de 'grătŭus' para 'gratus'; sentidos conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_12125-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_12125",
-    "page_num": 12125,
-    "lemmas": [
-      "gratus",
-      "gratus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Agradável, bem‑visto; aceitável; agradecido, grato.",
-    "exemplos": [],
-    "notas": "Adjetivo padrão (grātus, -a, -um) atestado em Lewis & Short; também atestado como cognomen ('Gratus') em autores como Tácito. | [dedupe] redirect → chunk_12124:12124:0 | [dedupe] redirect → chunk_12124:12124:0",
-    "raw_text": "{\"id\":\"chunk_12125:12125:0\",\"lemas\":[\"gratus\"],\"lema_canonico\":\"gratus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Agradável, bem‑visto; aceitável; agradecido, grato.\",\"aliases\":[],\"exemplos\":[\"Tac. An. 15, 50\"],\"notas\":\"Adjetivo padrão (grātus, -a, -um) atestado em Lewis & Short; também atestado como cognomen ('Gratus') em autores como Tácito.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_12125:12125:0\",\"lemas\":[\"gratus\"],\"lema_canonico\":\"gratus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Agradável, bem‑visto; aceitável; agradecido, grato.\",\"aliases\":[],\"exemplos\":[\"Tac. An. 15, 50\"],\"notas\":\"Adjetivo padrão (grātus, -a, -um) atestado em Lewis & Short; também atestado como cognomen ('Gratus') em autores como Tácito.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_12126-e1",
     "volume_id": "faria",
     "doc_name": "chunk_12126",
@@ -2836,28 +2440,6 @@
     "notas": "Nome toponímico atestado em Tácito; 'mons' mantido como substantivo comum.",
     "raw_text": "{\"id\":\"chunk_12126:12126:0\",\"lemas\":[\"Grampius\",\"mons\"],\"lema_canonico\":\"Grampius\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Monte Grampio (topónimo na Caledónia)\",\"aliases\":[],\"exemplos\":[\"Tac. Agr. 29\"],\"notas\":\"Nome toponímico atestado em Tácito; 'mons' mantido como substantivo comum.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}",
     "raw_json": "{\"id\":\"chunk_12126:12126:0\",\"lemas\":[\"Grampius\",\"mons\"],\"lema_canonico\":\"Grampius\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Monte Grampio (topónimo na Caledónia)\",\"aliases\":[],\"exemplos\":[\"Tac. Agr. 29\"],\"notas\":\"Nome toponímico atestado em Tácito; 'mons' mantido como substantivo comum.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}"
-  },
-  {
-    "id": "chunk_12127-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_12127",
-    "page_num": 12127,
-    "lemmas": [
-      "graviter",
-      "graviter"
-    ],
-    "morfologia": "adv.",
-    "morph_render": "adv.",
-    "morph_extra": [],
-    "conf": "conf:low",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "com peso, severamente; por extensão: com dificuldade, a custo",
-    "exemplos": [],
-    "notas": "OCR corrigido: grāvĭnter -> graviter; adv. comum em clássicos. | [dedupe] redirect → chunk_12143:12143:0 | [dedupe] redirect → chunk_12143:12143:0",
-    "raw_text": "{\"id\":\"chunk_12127:12127:0\",\"lemas\":[\"graviter\"],\"lema_canonico\":\"graviter\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"com peso, severamente; por extensão: com dificuldade, a custo\",\"aliases\":[],\"exemplos\":[\"T. Liv. 31, 24, 5\"],\"notas\":\"OCR corrigido: grāvĭnter -> graviter; adv. comum em clássicos.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}",
-    "raw_json": "{\"id\":\"chunk_12127:12127:0\",\"lemas\":[\"graviter\"],\"lema_canonico\":\"graviter\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"com peso, severamente; por extensão: com dificuldade, a custo\",\"aliases\":[],\"exemplos\":[\"T. Liv. 31, 24, 5\"],\"notas\":\"OCR corrigido: grāvĭnter -> graviter; adv. comum em clássicos.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}"
   },
   {
     "id": "chunk_12128-e1",
@@ -2946,28 +2528,6 @@
     "notas": "Particípio e adjetivo atestado em Whitaker; Lat→Deu descreve forma PPP 'gravatus'.",
     "raw_text": "{\"id\":\"chunk_12131:12131:0\",\"lemas\":[\"gravatus\"],\"lema_canonico\":\"gravatus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de gravo; como adjetivo: pesado, carregado, sobrecarregado\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Particípio e adjetivo atestado em Whitaker; Lat→Deu descreve forma PPP 'gravatus'.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_12131:12131:0\",\"lemas\":[\"gravatus\"],\"lema_canonico\":\"gravatus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de gravo; como adjetivo: pesado, carregado, sobrecarregado\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Particípio e adjetivo atestado em Whitaker; Lat→Deu descreve forma PPP 'gravatus'.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_12131-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_12131",
-    "page_num": 12131,
-    "lemmas": [
-      "gravedinosus",
-      "gravedinosus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "propenso a resfriados; sujeito a catarros (variante medieval/rare; = grăvēdĭnōsus in LS)",
-    "exemplos": [],
-    "notas": "Entrada editorial com variante lessical; LS registra grăvēdĭnōsus; normalizada a partir do OCR. | [dedupe] redirect → chunk_12132:12132:0 | [dedupe] redirect → chunk_12132:12132:0",
-    "raw_text": "{\"id\":\"chunk_12131:12131:1\",\"lemas\":[\"gravedinosus\",\"gravidinosus\"],\"lema_canonico\":\"gravedinosus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"propenso a resfriados; sujeito a catarros (variante medieval/rare; = grăvēdĭnōsus in LS)\",\"aliases\":[\"gravidinosus\"],\"exemplos\":[\"Cic. Tusc. 4, 12, 27\"],\"notas\":\"Entrada editorial com variante lessical; LS registra grăvēdĭnōsus; normalizada a partir do OCR.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_12131:12131:1\",\"lemas\":[\"gravedinosus\",\"gravidinosus\"],\"lema_canonico\":\"gravedinosus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"propenso a resfriados; sujeito a catarros (variante medieval/rare; = grăvēdĭnōsus in LS)\",\"aliases\":[\"gravidinosus\"],\"exemplos\":[\"Cic. Tusc. 4, 12, 27\"],\"notas\":\"Entrada editorial com variante lessical; LS registra grăvēdĭnōsus; normalizada a partir do OCR.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_12132-e1",
@@ -3122,28 +2682,6 @@
     "notas": "Adotada forma verbal gravidāre conforme Lewis & Short; corrigido possível confusão com gravedo (subst.).",
     "raw_text": "{\"id\":\"chunk_12138:12138:0\",\"lemas\":[\"gravidō\",\"grăvĭdo\"],\"lema_canonico\":\"gravidō\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"(v.) 1) trans.: carregar, sobrecarregar; 2) trans.: impregnar; 3) intr./pass.: estar grávido, ficar cheio/cheio de (resultante).\",\"aliases\":[],\"exemplos\":[\"Non. (Caecilius frag.): gravidavit = implevit\",\"Aur. Vict. Epit. 14: gravidari ex aliquo\",\"Cic. N. D. 2, 33, 83\"],\"notas\":\"Adotada forma verbal gravidāre conforme Lewis & Short; corrigido possível confusão com gravedo (subst.).\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_firstpass\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_12138:12138:0\",\"lemas\":[\"gravidō\",\"grăvĭdo\"],\"lema_canonico\":\"gravidō\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"(v.) 1) trans.: carregar, sobrecarregar; 2) trans.: impregnar; 3) intr./pass.: estar grávido, ficar cheio/cheio de (resultante).\",\"aliases\":[],\"exemplos\":[\"Non. (Caecilius frag.): gravidavit = implevit\",\"Aur. Vict. Epit. 14: gravidari ex aliquo\",\"Cic. N. D. 2, 33, 83\"],\"notas\":\"Adotada forma verbal gravidāre conforme Lewis & Short; corrigido possível confusão com gravedo (subst.).\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_firstpass\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_12139-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_12139",
-    "page_num": 12139,
-    "lemmas": [
-      "gravidus",
-      "gravidus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Cheio, carregado; grávido, prenhe, gestante; aplicado a pessoas, animais, plantas ou frutos: abundante, fértil; substantivo feminino gravida: mulher grávida.",
-    "exemplos": [],
-    "notas": "Normalizado lemas e morfologia conforme LS/Whitaker; exemplos ajustados. | [dedupe] redirect → chunk_12133:12133:0 | [dedupe] redirect → chunk_12133:12133:0",
-    "raw_text": "{\"id\":\"chunk_12139:12139:0\",\"lemas\":[\"gravidus\",\"gravida\",\"gravidum\"],\"lema_canonico\":\"gravidus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Cheio, carregado; grávido, prenhe, gestante; aplicado a pessoas, animais, plantas ou frutos: abundante, fértil; substantivo feminino gravida: mulher grávida.\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 2, 83\",\"Plaut. Am. 2, 2, 87\",\"Ov. Met. 3, 260\"],\"notas\":\"Normalizado lemas e morfologia conforme LS/Whitaker; exemplos ajustados.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_12139:12139:0\",\"lemas\":[\"gravidus\",\"gravida\",\"gravidum\"],\"lema_canonico\":\"gravidus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Cheio, carregado; grávido, prenhe, gestante; aplicado a pessoas, animais, plantas ou frutos: abundante, fértil; substantivo feminino gravida: mulher grávida.\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 2, 83\",\"Plaut. Am. 2, 2, 87\",\"Ov. Met. 3, 260\"],\"notas\":\"Normalizado lemas e morfologia conforme LS/Whitaker; exemplos ajustados.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_12140-e1",
@@ -3432,50 +2970,6 @@
     "raw_json": "{\"id\":\"chunk_12152:12152:0\",\"lemas\":[\"gressus\"],\"lema_canonico\":\"gressus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Passo, marcha, andar; curso, caminhar. Também particípio perfeito (gressus) do verbo deponente gradior: tendo andado, que caminhou.\",\"aliases\":[],\"exemplos\":[\"Verg. A. 1, 410\",\"Verg. G. 3, 117\"],\"notas\":\"Separada a entrada substantiva (decl. 4ª) e indicada a relação com o part. perf. de gradior.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_12153-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_12153",
-    "page_num": 12153,
-    "lemmas": [
-      "gressus",
-      "gressus"
-    ],
-    "morfologia": "s. masc. 4ª (-us)",
-    "morph_render": "s. masc. 4ª (-us)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "passo, andar, marcha; também: andamento/curso (p.ex. de navio)",
-    "exemplos": [],
-    "notas": "Declinação 4ª (-ūs) e usos literários confirmados com LS/Whitaker. | [dedupe] redirect → chunk_12152:12152:0 | [dedupe] redirect → chunk_12152:12152:0",
-    "raw_text": "{\"id\":\"chunk_12153:12153:0\",\"lemas\":[\"gressus\"],\"lema_canonico\":\"gressus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"passo, andar, marcha; também: andamento/curso (p.ex. de navio)\",\"aliases\":[],\"exemplos\":[\"Verg. A. 1, 410\",\"Verg. A. 5, 162\"],\"notas\":\"Declinação 4ª (-ūs) e usos literários confirmados com LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_12153:12153:0\",\"lemas\":[\"gressus\"],\"lema_canonico\":\"gressus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"passo, andar, marcha; também: andamento/curso (p.ex. de navio)\",\"aliases\":[],\"exemplos\":[\"Verg. A. 1, 410\",\"Verg. A. 5, 162\"],\"notas\":\"Declinação 4ª (-ūs) e usos literários confirmados com LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_12154-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_12154",
-    "page_num": 12154,
-    "lemmas": [
-      "grex",
-      "grex"
-    ],
-    "morfologia": "s. 3ª (-is)",
-    "morph_render": "s. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "rebanho, manada; grupo, multidão; companhia, conjunto (de pessoas ou animais).",
-    "exemplos": [],
-    "notas": "Gênero e detalhes variam nas fontes (LS aponta masculino, Whitaker registra neutro) — entrada aceita forma lexical 'grex' com genitivo 'gregis'.\n[ocr_pipeline 2025-08-16T23:25:20.509006Z] lemma_in='grex' → 'grex' | motivo: match direto em LS por lemma/lemma_norm | [ocr_fix 2025-08-17T01:25:17Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='grex' → 'grex' | [dedupe] redirect → chunk_12150:12150:0 | [dedupe] redirect → chunk_12150:12150:0",
-    "raw_text": "{\"id\":\"chunk_12154:12154:0\",\"lemas\":[\"grex\"],\"lema_canonico\":\"grex\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"rebanho, manada; grupo, multidão; companhia, conjunto (de pessoas ou animais).\",\"aliases\":[],\"exemplos\":[\"Cic. Phil. 3, 31\",\"Hor. Ep. 1, 3, 19\",\"Hor. Ep. 1, 9, 13\",\"Plaut. Cas. prol. 22\",\"Lucr. 2, 662\"],\"notas\":\"Gênero e detalhes variam nas fontes (LS aponta masculino, Whitaker registra neutro) — entrada aceita forma lexical 'grex' com genitivo 'gregis'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:low\"]}",
-    "raw_json": "{\"id\":\"chunk_12154:12154:0\",\"lemas\":[\"grex\"],\"lema_canonico\":\"grex\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"rebanho, manada; grupo, multidão; companhia, conjunto (de pessoas ou animais).\",\"aliases\":[],\"exemplos\":[\"Cic. Phil. 3, 31\",\"Hor. Ep. 1, 3, 19\",\"Hor. Ep. 1, 9, 13\",\"Plaut. Cas. prol. 22\",\"Lucr. 2, 662\"],\"notas\":\"Gênero e detalhes variam nas fontes (LS aponta masculino, Whitaker registra neutro) — entrada aceita forma lexical 'grex' com genitivo 'gregis'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:low\"]}"
-  },
-  {
     "id": "chunk_12155-e1",
     "volume_id": "faria",
     "doc_name": "chunk_12155",
@@ -3716,28 +3210,6 @@
     "notas": "Principal forma 'grunnio' (LS/Whitaker) with variant 'grundio'; perfect īvī/īi, supine ītum per LS.",
     "raw_text": "{\"id\":\"chunk_12164:12164:0\",\"lemas\":[\"grunnio\",\"grundio\"],\"lema_canonico\":\"grunnio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"to grunt (said of swine; also transferred to other animals)\",\"aliases\":[],\"exemplos\":[\"Plin. H. N. 32, 19\",\"Juv. 15, 220\"],\"notas\":\"Principal forma 'grunnio' (LS/Whitaker) with variant 'grundio'; perfect īvī/īi, supine ītum per LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_12164:12164:0\",\"lemas\":[\"grunnio\",\"grundio\"],\"lema_canonico\":\"grunnio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"to grunt (said of swine; also transferred to other animals)\",\"aliases\":[],\"exemplos\":[\"Plin. H. N. 32, 19\",\"Juv. 15, 220\"],\"notas\":\"Principal forma 'grunnio' (LS/Whitaker) with variant 'grundio'; perfect īvī/īi, supine ītum per LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_12165-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_12165",
-    "page_num": 12165,
-    "lemmas": [
-      "grus",
-      "grus"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "grus, gruis: grou, crane; also used of a siege-engine (battering-ram)",
-    "exemplos": [],
-    "notas": "Lema unificado para forma canónica 'grus'; admite gênero feminino (freq.) e masculino em Horace; senses per LS/Whitaker. | [dedupe] redirect → chunk_12159:12159:1 | [dedupe] redirect → chunk_12159:12159:1",
-    "raw_text": "{\"id\":\"chunk_12165:12165:0\",\"lemas\":[\"grus\",\"gruis\"],\"lema_canonico\":\"grus\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"grus, gruis: grou, crane; also used of a siege-engine (battering-ram)\",\"aliases\":[],\"exemplos\":[\"Phaedr. 1, 8, 7\",\"Cic. Nat. 2, 49, 125\",\"Hor. Sat. 2, 8, 87\"],\"notas\":\"Lema unificado para forma canónica 'grus'; admite gênero feminino (freq.) e masculino em Horace; senses per LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_12165:12165:0\",\"lemas\":[\"grus\",\"gruis\"],\"lema_canonico\":\"grus\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"grus, gruis: grou, crane; also used of a siege-engine (battering-ram)\",\"aliases\":[],\"exemplos\":[\"Phaedr. 1, 8, 7\",\"Cic. Nat. 2, 49, 125\",\"Hor. Sat. 2, 8, 87\"],\"notas\":\"Lema unificado para forma canónica 'grus'; admite gênero feminino (freq.) e masculino em Horace; senses per LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_12166-e1",
@@ -4486,28 +3958,6 @@
     "notas": "Entrada baseada no first_pass/OCR; classificação morfológica incerta (pluralia/forma antiga).",
     "raw_text": "{\"id\":\"chunk_12197:12197:0\",\"lemas\":[\"gyra\"],\"lema_canonico\":\"gyra\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"topônimo (ilha Giara nas Cíclades) — leitura incerta do testemunho; forma e categoria precisam de verificação crítica.\",\"aliases\":[],\"exemplos\":[\"Juv. 1, 73\"],\"notas\":\"Entrada baseada no first_pass/OCR; classificação morfológica incerta (pluralia/forma antiga).\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\",\"morph_out_of_vocab\"]}",
     "raw_json": "{\"id\":\"chunk_12197:12197:0\",\"lemas\":[\"gyra\"],\"lema_canonico\":\"gyra\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"topônimo (ilha Giara nas Cíclades) — leitura incerta do testemunho; forma e categoria precisam de verificação crítica.\",\"aliases\":[],\"exemplos\":[\"Juv. 1, 73\"],\"notas\":\"Entrada baseada no first_pass/OCR; classificação morfológica incerta (pluralia/forma antiga).\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\",\"morph_out_of_vocab\"]}"
-  },
-  {
-    "id": "chunk_12197-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_12197",
-    "page_num": 12197,
-    "lemmas": [
-      "gyro",
-      "gyro"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "girar em círculo; rodear; mover-se em volta de algo (trans. ou intr.).",
-    "exemplos": [],
-    "notas": "Lema e significado alinhados com Lewis & Short e Whitaker; incluí forma canônica 'gyro'. | [dedupe] redirect → chunk_12211:12211:0 | [dedupe] redirect → chunk_12211:12211:0",
-    "raw_text": "{\"id\":\"chunk_12197:12197:1\",\"lemas\":[\"gyro\"],\"lema_canonico\":\"gyro\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"girar em círculo; rodear; mover-se em volta de algo (trans. ou intr.).\",\"aliases\":[],\"exemplos\":[\"Veg. Vet. 3, 5\"],\"notas\":\"Lema e significado alinhados com Lewis & Short e Whitaker; incluí forma canônica 'gyro'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_12197:12197:1\",\"lemas\":[\"gyro\"],\"lema_canonico\":\"gyro\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"girar em círculo; rodear; mover-se em volta de algo (trans. ou intr.).\",\"aliases\":[],\"exemplos\":[\"Veg. Vet. 3, 5\"],\"notas\":\"Lema e significado alinhados com Lewis & Short e Whitaker; incluí forma canônica 'gyro'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_12198-e1",

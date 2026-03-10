@@ -44,28 +44,6 @@
     "raw_json": "{\"id\":\"chunk_21801:21801:3\",\"lemas\":[\"postis\"],\"lema_canonico\":\"postis\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"poste, batente de porta; peça arquitetónica; usado também poeticamente (freq. plur. postes para portas)\",\"aliases\":[],\"exemplos\":[\"Ov. M. 5, 120\",\"Verg. A. 2, 480\",\"Hor. Ep. 1, 1, 5\"],\"notas\":\"Morfologia alinhada com LS/Whitaker; mantidas citações clássicas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_21801-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_21801",
-    "page_num": 21801,
-    "lemmas": [
-      "posca",
-      "posca"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "bebida agridoce: mistura de água com vinagre (vinager-water drink), atestada em Plauto e outros autores.",
-    "exemplos": [],
-    "notas": "Grafia e gênero ajustados conforme Lewis & Short e Lat→Deu. | [dedupe] redirect → chunk_20809:20809:8 | [dedupe] redirect → chunk_20809:20809:8",
-    "raw_text": "{\"id\":\"chunk_21801:21801:0\",\"lemas\":[\"posca\",\"Posca\"],\"lema_canonico\":\"posca\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"bebida agridoce: mistura de água com vinagre (vinager-water drink), atestada em Plauto e outros autores.\",\"aliases\":[],\"exemplos\":[\"Plaut. Mil. 3, 2, 23\",\"Plin. Nat. 27, 4, 12\"],\"notas\":\"Grafia e gênero ajustados conforme Lewis & Short e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21801:21801:0\",\"lemas\":[\"posca\",\"Posca\"],\"lema_canonico\":\"posca\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"bebida agridoce: mistura de água com vinagre (vinager-water drink), atestada em Plauto e outros autores.\",\"aliases\":[],\"exemplos\":[\"Plaut. Mil. 3, 2, 23\",\"Plin. Nat. 27, 4, 12\"],\"notas\":\"Grafia e gênero ajustados conforme Lewis & Short e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_21801-e3",
     "volume_id": "faria",
     "doc_name": "chunk_21801",
@@ -176,28 +154,6 @@
     "raw_json": "{\"id\":\"chunk_21804:21804:0\",\"lemas\":[\"posteaquam\",\"postĕāquam\",\"postēaquam\"],\"lema_canonico\":\"posteaquam\",\"morfologia\":\"conj.\",\"morph_extra\":[],\"definicao\":\"Depois que; conjunção temporal.\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. p. 207\"],\"notas\":\"Variantes gráficas registradas em LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_21805-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21805",
-    "page_num": 21805,
-    "lemmas": [
-      "poster",
-      "poster"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada é forma variante/encurtamento de postērus; redirecionamento para postērus.",
-    "raw_text": "{\"id\":\"chunk_21805:21805:0\",\"lemas\":[\"poster\"],\"lema_canonico\":\"poster\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"postērus\"],\"exemplos\":[],\"notas\":\"Entrada é forma variante/encurtamento de postērus; redirecionamento para postērus.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_21805:21805:0\",\"lemas\":[\"poster\"],\"lema_canonico\":\"poster\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"postērus\"],\"exemplos\":[],\"notas\":\"Entrada é forma variante/encurtamento de postērus; redirecionamento para postērus.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"redirect_only\"]}"
-  },
-  {
     "id": "chunk_21806-e1",
     "volume_id": "faria",
     "doc_name": "chunk_21806",
@@ -284,28 +240,6 @@
     "notas": "Whitaker e Lat→Deu atestam tanto o uso adverbial como a forma adjetival; aqui retido como adv. conforme first_pass.",
     "raw_text": "{\"id\":\"chunk_21808:21808:0\",\"lemas\":[\"posterius\"],\"lema_canonico\":\"posterius\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"mais tarde; posteriormente; em seguida (também forma comparativa/adjetiva usada como 'o que vem depois').\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 15, 16, 2\"],\"notas\":\"Whitaker e Lat→Deu atestam tanto o uso adverbial como a forma adjetival; aqui retido como adv. conforme first_pass.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_21808:21808:0\",\"lemas\":[\"posterius\"],\"lema_canonico\":\"posterius\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"mais tarde; posteriormente; em seguida (também forma comparativa/adjetiva usada como 'o que vem depois').\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 15, 16, 2\"],\"notas\":\"Whitaker e Lat→Deu atestam tanto o uso adverbial como a forma adjetival; aqui retido como adv. conforme first_pass.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_21809-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21809",
-    "page_num": 21809,
-    "lemmas": [
-      "postērus",
-      "postērus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "que vem depois; posterior; seguinte; futuro",
-    "exemplos": [],
-    "notas": "Grafia regularizada (postērus) e comparação com comp. posterior, sup. postrēmus. | [dedupe] redirect → chunk_21836:21836:0 | [dedupe] redirect → chunk_21836:21836:0",
-    "raw_text": "{\"id\":\"chunk_21809:21809:0\",\"lemas\":[\"postērus\",\"posterus\",\"posterus\"],\"lema_canonico\":\"postērus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"que vem depois; posterior; seguinte; futuro\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 2, 41\"],\"notas\":\"Grafia regularizada (postērus) e comparação com comp. posterior, sup. postrēmus.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21809:21809:0\",\"lemas\":[\"postērus\",\"posterus\",\"posterus\"],\"lema_canonico\":\"postērus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"que vem depois; posterior; seguinte; futuro\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 2, 41\"],\"notas\":\"Grafia regularizada (postērus) e comparação com comp. posterior, sup. postrēmus.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_21810-e1",
@@ -438,72 +372,6 @@
     "notas": " | [ocr_fix 2025-08-17T19:51:18Z] match direto em LS por lemma/lemma_norm | lemma_in='posthac' → 'post-hac'",
     "raw_text": "{\"id\":\"chunk_21815:21815:0\",\"lemas\":[\"posthac\"],\"lema_canonico\":\"posthac\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"de agora em diante; daqui por diante; depois; (raro) desde então.\",\"aliases\":[],\"exemplos\":[\"Cic. Cat. 4, 19\",\"Suet. Tit. 9\"],\"notas\":\"\",\"flags\":[\"src_whitaker\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_21815:21815:0\",\"lemas\":[\"posthac\"],\"lema_canonico\":\"posthac\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"de agora em diante; daqui por diante; depois; (raro) desde então.\",\"aliases\":[],\"exemplos\":[\"Cic. Cat. 4, 19\",\"Suet. Tit. 9\"],\"notas\":\"\",\"flags\":[\"src_whitaker\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_21816-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21816",
-    "page_num": 21816,
-    "lemmas": [
-      "post",
-      "post"
-    ],
-    "morfologia": "adv.",
-    "morph_render": "adv.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "adv.: depois, atrás, posteriormente; prep. com acusativo: depois de, atrás de (posição ou tempo).",
-    "exemplos": [],
-    "notas": "Entrada unificada: post funciona como advérbio e como preposição com acusativo (Whitaker/LS). | [dedupe] redirect → chunk_21801:21801:2 | [dedupe] redirect → chunk_21801:21801:2",
-    "raw_text": "{\"id\":\"chunk_21816:21816:1\",\"lemas\":[\"post\"],\"lema_canonico\":\"post\",\"morfologia\":\"adv.\",\"morph_extra\":[\"prep. com acc.\"],\"definicao\":\"adv.: depois, atrás, posteriormente; prep. com acusativo: depois de, atrás de (posição ou tempo).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada unificada: post funciona como advérbio e como preposição com acusativo (Whitaker/LS).\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_21816:21816:1\",\"lemas\":[\"post\"],\"lema_canonico\":\"post\",\"morfologia\":\"adv.\",\"morph_extra\":[\"prep. com acc.\"],\"definicao\":\"adv.: depois, atrás, posteriormente; prep. com acusativo: depois de, atrás de (posição ou tempo).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada unificada: post funciona como advérbio e como preposição com acusativo (Whitaker/LS).\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\",\"morph_out_of_vocab\"]}"
-  },
-  {
-    "id": "chunk_21816-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_21816",
-    "page_num": 21816,
-    "lemmas": [
-      "post-hac",
-      "post-hac"
-    ],
-    "morfologia": "adv.",
-    "morph_render": "adv.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "depois disto, doravante, daqui por diante; em seguida.",
-    "exemplos": [],
-    "notas": "Forma composta de post + haec; atestada em Tacitus (Ann. 1.10). Grafia com macron como em tradição léxica.  | [dedupe] redirect → chunk_21815:21815:0 | [dedupe] redirect → chunk_21815:21815:0 | [ocr_fix 2025-08-17T19:59:40Z] match direto em LS por lemma/lemma_norm | lemma_in='posthāc' → 'post-hac'",
-    "raw_text": "{\"id\":\"chunk_21816:21816:2\",\"lemas\":[\"posthac\",\"posthāc\",\"post haec\"],\"lema_canonico\":\"posthāc\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"depois disto, doravante, daqui por diante; em seguida.\",\"aliases\":[],\"exemplos\":[\"Tac. Ann. 1.10\"],\"notas\":\"Forma composta de post + haec; atestada em Tacitus (Ann. 1.10). Grafia com macron como em tradição léxica. \",\"flags\":[\"src_whitaker\",\"src_ocr\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_21816:21816:2\",\"lemas\":[\"posthac\",\"posthāc\",\"post haec\"],\"lema_canonico\":\"posthāc\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"depois disto, doravante, daqui por diante; em seguida.\",\"aliases\":[],\"exemplos\":[\"Tac. Ann. 1.10\"],\"notas\":\"Forma composta de post + haec; atestada em Tacitus (Ann. 1.10). Grafia com macron como em tradição léxica. \",\"flags\":[\"src_whitaker\",\"src_ocr\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_21816-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_21816",
-    "page_num": 21816,
-    "lemmas": [
-      "hic",
-      "hic"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "este, esta, isto; demonstrativo (também adv. 'hic' = aqui)",
-    "exemplos": [],
-    "notas": "Forma e sentido conforme Whitaker e Lewis & Short; entry normalized. | [dedupe] redirect → chunk_12244:12244:1 | [dedupe] redirect → chunk_12244:12244:1",
-    "raw_text": "{\"id\":\"chunk_21816:21816:0\",\"lemas\":[\"hic\",\"haec\",\"hoc\"],\"lema_canonico\":\"hic\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"este, esta, isto; demonstrativo (também adv. 'hic' = aqui)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma e sentido conforme Whitaker e Lewis & Short; entry normalized.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21816:21816:0\",\"lemas\":[\"hic\",\"haec\",\"hoc\"],\"lema_canonico\":\"hic\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"este, esta, isto; demonstrativo (também adv. 'hic' = aqui)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma e sentido conforme Whitaker e Lewis & Short; entry normalized.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_21817-e1",
@@ -682,28 +550,6 @@
     "raw_json": "{\"id\":\"chunk_21824:21824:0\",\"lemas\":[\"postosilitio\",\"postosīlītio\",\"postosīlĭtĭo\"],\"lema_canonico\":\"postosilitio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"reclamação feita por uma divindade por omissão de sacrifício; satisfação, expiação\",\"aliases\":[],\"exemplos\":[\"Cic. Har. 31\"],\"notas\":\"Entrada rara; forma regularizada a partir do OCR; confirmar com fontes especializadas.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_21825-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21825",
-    "page_num": 21825,
-    "lemmas": [
-      "postis",
-      "postis"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "poste, ombreira; (pl.) portas; por extensão, figurações do portal (l. fig.)",
-    "exemplos": [],
-    "notas": "Entrada alinhada com Lewis & Short e Whitaker; observado uso frequente no plural para 'porta'. | [dedupe] redirect → chunk_21801:21801:3 | [dedupe] redirect → chunk_21801:21801:3",
-    "raw_text": "{\"id\":\"chunk_21825:21825:0\",\"lemas\":[\"postis\"],\"lema_canonico\":\"postis\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"poste, ombreira; (pl.) portas; por extensão, figurações do portal (l. fig.)\",\"aliases\":[],\"exemplos\":[\"Cic. Dom. 46, 120\",\"Verg. A. 2, 480\",\"Lucr. 3, 369\"],\"notas\":\"Entrada alinhada com Lewis & Short e Whitaker; observado uso frequente no plural para 'porta'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21825:21825:0\",\"lemas\":[\"postis\"],\"lema_canonico\":\"postis\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"poste, ombreira; (pl.) portas; por extensão, figurações do portal (l. fig.)\",\"aliases\":[],\"exemplos\":[\"Cic. Dom. 46, 120\",\"Verg. A. 2, 480\",\"Lucr. 3, 369\"],\"notas\":\"Entrada alinhada com Lewis & Short e Whitaker; observado uso frequente no plural para 'porta'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_21826-e1",
     "volume_id": "faria",
     "doc_name": "chunk_21826",
@@ -814,28 +660,6 @@
     "raw_json": "{\"id\":\"chunk_21830:21830:0\",\"lemas\":[\"postmodum\"],\"lema_canonico\":\"postmodum\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"depois, mais tarde; em pouco tempo; presentemente\",\"aliases\":[],\"exemplos\":[\"Liv. 1, 9, 15\",\"Liv. 2, 1, 9\",\"Liv. 2, 2, 10\",\"Liv. 2, 9, 7\",\"Suet. Calig. 15\"],\"notas\":\"Unificado com citações do Lewis & Short; lema regularizado sem macron.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_21831-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21831",
-    "page_num": 21831,
-    "lemmas": [
-      "post-sum",
-      "post-sum"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "(aparente composto) futuro proprietário; herdeiro, sucessor — forma atestada em edição/ocr de fonte moderna, porém não confirmada em dicionários principais.",
-    "exemplos": [],
-    "notas": "Entrada derivada da primeira passada; composto hipotético post- + potior. Não encontrado em LS/Whitaker/Lat→Deu.\n[ocr_pipeline 2025-08-16T23:21:06.694440Z] lemma_in='postpōtior' → 'post-sum' | motivo: similaridade semântica FAISS (definição/gloss) | [dedupe] redirect → chunk_21811:21811:0 | [ocr_fix 2025-08-17T18:30:21Z] match direto em LS por lemma/lemma_norm | lemma_in='post-sum' → 'post-sum' | [dedupe] redirect → chunk_21811:21811:0",
-    "raw_text": "{\"id\":\"chunk_21831:21831:0\",\"lemas\":[\"postpōtior\",\"postpotior\",\"postpotĭor\"],\"lema_canonico\":\"postpōtior\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"(aparente composto) futuro proprietário; herdeiro, sucessor — forma atestada em edição/ocr de fonte moderna, porém não confirmada em dicionários principais.\",\"aliases\":[],\"exemplos\":[\"Plaut. Truc. 62\"],\"notas\":\"Entrada derivada da primeira passada; composto hipotético post- + potior. Não encontrado em LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_21831:21831:0\",\"lemas\":[\"postpōtior\",\"postpotior\",\"postpotĭor\"],\"lema_canonico\":\"postpōtior\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"(aparente composto) futuro proprietário; herdeiro, sucessor — forma atestada em edição/ocr de fonte moderna, porém não confirmada em dicionários principais.\",\"aliases\":[],\"exemplos\":[\"Plaut. Truc. 62\"],\"notas\":\"Entrada derivada da primeira passada; composto hipotético post- + potior. Não encontrado em LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
     "id": "chunk_21832-e1",
     "volume_id": "faria",
     "doc_name": "chunk_21832",
@@ -878,28 +702,6 @@
     "notas": "Lema normalizado para o infinitivo postpōnere; perf. postposuī registrado como forma principal do perfeito.",
     "raw_text": "{\"id\":\"chunk_21833:21833:0\",\"lemas\":[\"postpōnere\",\"postponō\"],\"lema_canonico\":\"postpōnere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"colocar depois, adiar, postpor; perf. ind. postposuī.\",\"aliases\":[\"postposuī (perf.)\"],\"exemplos\":[],\"notas\":\"Lema normalizado para o infinitivo postpōnere; perf. postposuī registrado como forma principal do perfeito.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_21833:21833:0\",\"lemas\":[\"postpōnere\",\"postponō\"],\"lema_canonico\":\"postpōnere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"colocar depois, adiar, postpor; perf. ind. postposuī.\",\"aliases\":[\"postposuī (perf.)\"],\"exemplos\":[],\"notas\":\"Lema normalizado para o infinitivo postpōnere; perf. postposuī registrado como forma principal do perfeito.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_21834-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21834",
-    "page_num": 21834,
-    "lemmas": [
-      "postpono",
-      "postpono"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "colocar depois; pôr em segundo plano; adiar, postergar; negligenciar",
-    "exemplos": [],
-    "notas": "Forma confirmada em Whitaker/Lat→Deu; normalizada para infinitivo sem diacríticos. | [dedupe] redirect → chunk_21832:21832:0 | [dedupe] redirect → chunk_21832:21832:0",
-    "raw_text": "{\"id\":\"chunk_21834:21834:0\",\"lemas\":[\"postpono\"],\"lema_canonico\":\"postpono\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"colocar depois; pôr em segundo plano; adiar, postergar; negligenciar\",\"aliases\":[],\"exemplos\":[\"Ter. Hecr. 483\"],\"notas\":\"Forma confirmada em Whitaker/Lat→Deu; normalizada para infinitivo sem diacríticos.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21834:21834:0\",\"lemas\":[\"postpono\"],\"lema_canonico\":\"postpono\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"colocar depois; pôr em segundo plano; adiar, postergar; negligenciar\",\"aliases\":[],\"exemplos\":[\"Ter. Hecr. 483\"],\"notas\":\"Forma confirmada em Whitaker/Lat→Deu; normalizada para infinitivo sem diacríticos.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_21835-e1",
@@ -988,94 +790,6 @@
     "notas": "Advérbio atestado como postrēmo; exemplos conforme OCR e concordantes com LS/Whitaker.",
     "raw_text": "{\"id\":\"chunk_21836:21836:2\",\"lemas\":[\"postremo\",\"postrēmo\"],\"lema_canonico\":\"postremo\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"por fim, finalmente; em enumerações: finalmente, em último lugar\",\"aliases\":[],\"exemplos\":[\"Cés. B. Gal. 7, 81\",\"Cic. Nat. 1, 104\"],\"notas\":\"Advérbio atestado como postrēmo; exemplos conforme OCR e concordantes com LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_ocr\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_21836:21836:2\",\"lemas\":[\"postremo\",\"postrēmo\"],\"lema_canonico\":\"postremo\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"por fim, finalmente; em enumerações: finalmente, em último lugar\",\"aliases\":[],\"exemplos\":[\"Cés. B. Gal. 7, 81\",\"Cic. Nat. 1, 104\"],\"notas\":\"Advérbio atestado como postrēmo; exemplos conforme OCR e concordantes com LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_ocr\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_21836-e4",
-    "volume_id": "faria",
-    "doc_name": "chunk_21836",
-    "page_num": 21836,
-    "lemmas": [
-      "postremo",
-      "postremo"
-    ],
-    "morfologia": "adv.",
-    "morph_render": "adv.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "por fim, finalmente; por último",
-    "exemplos": [],
-    "notas": "Forma sem diacríticos normalizada; sentido 'lesser' de Whitaker aplica-se a adj. correlato, não ao adv. | [dedupe] redirect → chunk_21836:21836:2 | [dedupe] redirect → chunk_21836:21836:2",
-    "raw_text": "{\"id\":\"chunk_21836:21836:3\",\"lemas\":[\"postremo\"],\"lema_canonico\":\"postremo\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"por fim, finalmente; por último\",\"aliases\":[],\"exemplos\":[\"Cés. B. Gal. 7, 81\",\"Cic. Nat. 1, 104\"],\"notas\":\"Forma sem diacríticos normalizada; sentido 'lesser' de Whitaker aplica-se a adj. correlato, não ao adv.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"src_ocr\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21836:21836:3\",\"lemas\":[\"postremo\"],\"lema_canonico\":\"postremo\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"por fim, finalmente; por último\",\"aliases\":[],\"exemplos\":[\"Cés. B. Gal. 7, 81\",\"Cic. Nat. 1, 104\"],\"notas\":\"Forma sem diacríticos normalizada; sentido 'lesser' de Whitaker aplica-se a adj. correlato, não ao adv.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"src_ocr\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_21837-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21837",
-    "page_num": 21837,
-    "lemmas": [
-      "postremus",
-      "postremus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "superlativo de posterus: último, final; por último, finalmente (quando usado adverbialmente)",
-    "exemplos": [],
-    "notas": "Entrada abrange uso adjetival e adverbial (postremum adv. atestado); preferido o lema masculino canônico 'postremus'. | [dedupe] redirect → chunk_21836:21836:1 | [dedupe] redirect → chunk_21836:21836:1",
-    "raw_text": "{\"id\":\"chunk_21837:21837:0\",\"lemas\":[\"postremus\",\"postrema\",\"postremum\"],\"lema_canonico\":\"postremus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"adv.\"],\"definicao\":\"superlativo de posterus: último, final; por último, finalmente (quando usado adverbialmente)\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 3, 6\"],\"notas\":\"Entrada abrange uso adjetival e adverbial (postremum adv. atestado); preferido o lema masculino canônico 'postremus'.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21837:21837:0\",\"lemas\":[\"postremus\",\"postrema\",\"postremum\"],\"lema_canonico\":\"postremus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"adv.\"],\"definicao\":\"superlativo de posterus: último, final; por último, finalmente (quando usado adverbialmente)\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 3, 6\"],\"notas\":\"Entrada abrange uso adjetival e adverbial (postremum adv. atestado); preferido o lema masculino canônico 'postremus'.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_21838-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21838",
-    "page_num": 21838,
-    "lemmas": [
-      "posterus",
-      "posterus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Que vem depois, seguinte; comparativo: posterior; superlativo: postremus.",
-    "exemplos": [],
-    "notas": "Agrupei variantes do adjetivo (masc./fem./neut.). Baseado em LS, Whitaker e Lat→Deu. | [dedupe] redirect → chunk_21836:21836:0 | [dedupe] redirect → chunk_21836:21836:0",
-    "raw_text": "{\"id\":\"chunk_21838:21838:0\",\"lemas\":[\"posterus\",\"postera\",\"posterum\"],\"lema_canonico\":\"posterus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Que vem depois, seguinte; comparativo: posterior; superlativo: postremus.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Agrupei variantes do adjetivo (masc./fem./neut.). Baseado em LS, Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21838:21838:0\",\"lemas\":[\"posterus\",\"postera\",\"posterum\"],\"lema_canonico\":\"posterus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Que vem depois, seguinte; comparativo: posterior; superlativo: postremus.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Agrupei variantes do adjetivo (masc./fem./neut.). Baseado em LS, Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_21838-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_21838",
-    "page_num": 21838,
-    "lemmas": [
-      "postremus",
-      "postremus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Superlativo de posterus: último, mais afastado; também: por fim, finalmente (adv. postremum).",
-    "exemplos": [],
-    "notas": "Normalizei ortografia de postrēmus → postremus; mantive exemplos do primeiro_pass. | [dedupe] redirect → chunk_21836:21836:1 | [dedupe] redirect → chunk_21836:21836:1",
-    "raw_text": "{\"id\":\"chunk_21838:21838:1\",\"lemas\":[\"postremus\",\"postrema\",\"postremum\"],\"lema_canonico\":\"postremus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Superlativo de posterus: último, mais afastado; também: por fim, finalmente (adv. postremum).\",\"aliases\":[],\"exemplos\":[\"Sal. B. Jug. 45, 2\",\"Sal. B. Jug. 101, 5\",\"T. Liv. 38, 16, 13\",\"Cic. Amer. 137\"],\"notas\":\"Normalizei ortografia de postrēmus → postremus; mantive exemplos do primeiro_pass.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21838:21838:1\",\"lemas\":[\"postremus\",\"postrema\",\"postremum\"],\"lema_canonico\":\"postremus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Superlativo de posterus: último, mais afastado; também: por fim, finalmente (adv. postremum).\",\"aliases\":[],\"exemplos\":[\"Sal. B. Jug. 45, 2\",\"Sal. B. Jug. 101, 5\",\"T. Liv. 38, 16, 13\",\"Cic. Amer. 137\"],\"notas\":\"Normalizei ortografia de postrēmus → postremus; mantive exemplos do primeiro_pass.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_21839-e1",
@@ -1232,28 +946,6 @@
     "raw_json": "{\"id\":\"chunk_21845:21845:0\",\"lemas\":[\"postulatum\"],\"lema_canonico\":\"postulatum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"pedido, pretensão; demanda, requisito (jur.)\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 2, 146\"],\"notas\":\"Forma nominal neutra (postulātum) confirmada; genitivo -ī normalizado.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_21846-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21846",
-    "page_num": 21846,
-    "lemmas": [
-      "postulatus",
-      "postulatus"
-    ],
-    "morfologia": "s. masc. 4ª (-us)",
-    "morph_render": "s. masc. 4ª (-us)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "(1) ação ou demanda judicial; (2) particípio perfeito passivo de postulō, 'pedido, requerido'",
-    "exemplos": [],
-    "notas": "Entrada dual: substantivo 4ª decl. e particípio perf. pass. do verbo postulō. | [dedupe] redirect → chunk_21847:21847:0 | [dedupe] redirect → chunk_21847:21847:0",
-    "raw_text": "{\"id\":\"chunk_21846:21846:0\",\"lemas\":[\"postulatus\"],\"lema_canonico\":\"postulatus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"(1) ação ou demanda judicial; (2) particípio perfeito passivo de postulō, 'pedido, requerido'\",\"aliases\":[],\"exemplos\":[\"Liv. 4, 9, 6\"],\"notas\":\"Entrada dual: substantivo 4ª decl. e particípio perf. pass. do verbo postulō.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21846:21846:0\",\"lemas\":[\"postulatus\"],\"lema_canonico\":\"postulatus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"(1) ação ou demanda judicial; (2) particípio perfeito passivo de postulō, 'pedido, requerido'\",\"aliases\":[],\"exemplos\":[\"Liv. 4, 9, 6\"],\"notas\":\"Entrada dual: substantivo 4ª decl. e particípio perf. pass. do verbo postulō.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_21847-e1",
     "volume_id": "faria",
     "doc_name": "chunk_21847",
@@ -1342,28 +1034,6 @@
     "raw_json": "{\"id\":\"chunk_21850:21850:0\",\"lemas\":[\"Postūmināus\",\"Postumināus\"],\"lema_canonico\":\"Postūmināus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo a Postūmius; postuminiano (gentilício/adjetivo derivado de Postūmius)\",\"aliases\":[],\"exemplos\":[\"T. Liv. 4, 29, 6\"],\"notas\":\"Ortografia corrigida para Postūmināus; variante gráfica incluída.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_21851-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21851",
-    "page_num": 21851,
-    "lemmas": [
-      "postumus",
-      "postumus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "adjetivo: último, derradeiro; nascido por último, nascido tardiamente; póstumo. Também forma como cognome romano (Postumus) usado como nome próprio.",
-    "exemplos": [],
-    "notas": "Entrada unificada: adjetivo e cognome; forma canónica 'postumus' confirmada em LS/Whitaker. | [dedupe] redirect → chunk_21856:21856:0 | [dedupe] redirect → chunk_21856:21856:0",
-    "raw_text": "{\"id\":\"chunk_21851:21851:0\",\"lemas\":[\"postumus\",\"Postumus\",\"postŭmus\"],\"lema_canonico\":\"postumus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"adjetivo: último, derradeiro; nascido por último, nascido tardiamente; póstumo. Também forma como cognome romano (Postumus) usado como nome próprio.\",\"aliases\":[],\"exemplos\":[\"Tác. Hist. 3, 21 (De Postúmio)\",\"Lewis & Short: exemplos citados\"],\"notas\":\"Entrada unificada: adjetivo e cognome; forma canónica 'postumus' confirmada em LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21851:21851:0\",\"lemas\":[\"postumus\",\"Postumus\",\"postŭmus\"],\"lema_canonico\":\"postumus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"adjetivo: último, derradeiro; nascido por último, nascido tardiamente; póstumo. Também forma como cognome romano (Postumus) usado como nome próprio.\",\"aliases\":[],\"exemplos\":[\"Tác. Hist. 3, 21 (De Postúmio)\",\"Lewis & Short: exemplos citados\"],\"notas\":\"Entrada unificada: adjetivo e cognome; forma canónica 'postumus' confirmada em LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_21852-e1",
     "volume_id": "faria",
     "doc_name": "chunk_21852",
@@ -1384,72 +1054,6 @@
     "notas": "Entrada referente ao cognome/antroponímico; grafia e declinação padronizadas. | [ocr_fix 2025-08-17T19:51:23Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='postumus' → 'postŭmus' | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='postŭmus' → 'Postŭmus'",
     "raw_text": "{\"id\":\"chunk_21852:21852:0\",\"lemas\":[\"postumus\"],\"lema_canonico\":\"postumus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"cognomen romano (nome de família), Postúmio\",\"aliases\":[],\"exemplos\":[\"T. Liv. 4, 24, 6\"],\"notas\":\"Entrada referente ao cognome/antroponímico; grafia e declinação padronizadas.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_21852:21852:0\",\"lemas\":[\"postumus\"],\"lema_canonico\":\"postumus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"cognomen romano (nome de família), Postúmio\",\"aliases\":[],\"exemplos\":[\"T. Liv. 4, 24, 6\"],\"notas\":\"Entrada referente ao cognome/antroponímico; grafia e declinação padronizadas.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_21853-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21853",
-    "page_num": 21853,
-    "lemmas": [
-      "postumus",
-      "postumus"
-    ],
-    "morfologia": "adj. (3) 3T",
-    "morph_render": "adj. (3) 3T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "último; nascido por último, postumo; (superlativo relativo de posterus)",
-    "exemplos": [],
-    "notas": "Entrada adjetival confirmada por Whitaker e Lewis & Short. | [dedupe] redirect → chunk_21856:21856:0 | [dedupe] redirect → chunk_21856:21856:0",
-    "raw_text": "{\"id\":\"chunk_21853:21853:0\",\"lemas\":[\"postumus\",\"postūmus\"],\"lema_canonico\":\"postumus\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"último; nascido por último, postumo; (superlativo relativo de posterus)\",\"aliases\":[],\"exemplos\":[\"Verg. En. 6, 763\"],\"notas\":\"Entrada adjetival confirmada por Whitaker e Lewis & Short.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21853:21853:0\",\"lemas\":[\"postumus\",\"postūmus\"],\"lema_canonico\":\"postumus\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"último; nascido por último, postumo; (superlativo relativo de posterus)\",\"aliases\":[],\"exemplos\":[\"Verg. En. 6, 763\"],\"notas\":\"Entrada adjetival confirmada por Whitaker e Lewis & Short.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_21854-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21854",
-    "page_num": 21854,
-    "lemmas": [
-      "postumus",
-      "postumus"
-    ],
-    "morfologia": "adj. (3) 3T",
-    "morph_render": "adj. (3) 3T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "nascido por último; póstumo; também usado como cognome romano (Postumus)",
-    "exemplos": [],
-    "notas": "Inclui tanto o adjetivo comum quanto o topónimo/cognome citado por Lewis & Short; unified spelling. | [dedupe] redirect → chunk_21856:21856:0 | [dedupe] redirect → chunk_21856:21856:0",
-    "raw_text": "{\"id\":\"chunk_21854:21854:0\",\"lemas\":[\"postumus\",\"Postumus\"],\"lema_canonico\":\"postumus\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"nascido por último; póstumo; também usado como cognome romano (Postumus)\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 2, 140\"],\"notas\":\"Inclui tanto o adjetivo comum quanto o topónimo/cognome citado por Lewis & Short; unified spelling.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21854:21854:0\",\"lemas\":[\"postumus\",\"Postumus\"],\"lema_canonico\":\"postumus\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"nascido por último; póstumo; também usado como cognome romano (Postumus)\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 2, 140\"],\"notas\":\"Inclui tanto o adjetivo comum quanto o topónimo/cognome citado por Lewis & Short; unified spelling.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_21855-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21855",
-    "page_num": 21855,
-    "lemmas": [
-      "postumus",
-      "postumus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "1) Nome próprio romano (Postumus), 2) adjetivo: último, nascido por último, postumo.",
-    "exemplos": [],
-    "notas": "Combina forma onomástica (nomen) e adjetival; declinação nominal segundo LS; adjetival indicado em morph_extra. | [dedupe] redirect → chunk_21852:21852:0 | [dedupe] redirect → chunk_21852:21852:0",
-    "raw_text": "{\"id\":\"chunk_21855:21855:0\",\"lemas\":[\"Postumus\",\"postumus\"],\"lema_canonico\":\"postumus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[\"adj. (3) 3T\"],\"definicao\":\"1) Nome próprio romano (Postumus), 2) adjetivo: último, nascido por último, postumo.\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 13, 5, 2\"],\"notas\":\"Combina forma onomástica (nomen) e adjetival; declinação nominal segundo LS; adjetival indicado em morph_extra.\",\"flags\":[\"src_ls\",\"conf:high\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_21855:21855:0\",\"lemas\":[\"Postumus\",\"postumus\"],\"lema_canonico\":\"postumus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[\"adj. (3) 3T\"],\"definicao\":\"1) Nome próprio romano (Postumus), 2) adjetivo: último, nascido por último, postumo.\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 13, 5, 2\"],\"notas\":\"Combina forma onomástica (nomen) e adjetival; declinação nominal segundo LS; adjetival indicado em morph_extra.\",\"flags\":[\"src_ls\",\"conf:high\",\"morph_out_of_vocab\"]}"
   },
   {
     "id": "chunk_21856-e1",
@@ -1672,28 +1276,6 @@
     "raw_json": "{\"id\":\"chunk_21865:21865:0\",\"lemas\":[\"potenter\"],\"lema_canonico\":\"potenter\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"Com força; poderosamente; eficazmente; de modo competente.\",\"aliases\":[],\"exemplos\":[\"Hor. A. P. 40\",\"Hor. O. 3, 16, 9\"],\"notas\":\"Normalizada grafia; mantida referência ao comparativo 'potentius'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_21866-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21866",
-    "page_num": 21866,
-    "lemmas": [
-      "potentia",
-      "potentia"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "força, poder; influência ou poder político; eficácia, virtude (de remédios, águas, etc.)",
-    "exemplos": [],
-    "notas": "Consolidação das acepções conforme LS e Lat→Deu; exemplos padronizados. | [dedupe] redirect → chunk_21864:21864:0 | [dedupe] redirect → chunk_21864:21864:0",
-    "raw_text": "{\"id\":\"chunk_21866:21866:0\",\"lemas\":[\"potentia\"],\"lema_canonico\":\"potentia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"força, poder; influência ou poder político; eficácia, virtude (de remédios, águas, etc.)\",\"aliases\":[],\"exemplos\":[\"Verg. G. 1, 92\",\"Cic. Mil. 17\",\"Ov. Met. 1, 522\",\"Ov. Met. 10, 573\"],\"notas\":\"Consolidação das acepções conforme LS e Lat→Deu; exemplos padronizados.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21866:21866:0\",\"lemas\":[\"potentia\"],\"lema_canonico\":\"potentia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"força, poder; influência ou poder político; eficácia, virtude (de remédios, águas, etc.)\",\"aliases\":[],\"exemplos\":[\"Verg. G. 1, 92\",\"Cic. Mil. 17\",\"Ov. Met. 1, 522\",\"Ov. Met. 10, 573\"],\"notas\":\"Consolidação das acepções conforme LS e Lat→Deu; exemplos padronizados.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_21867-e1",
     "volume_id": "faria",
     "doc_name": "chunk_21867",
@@ -1714,50 +1296,6 @@
     "notas": "Unifica sentido comum e referência topográfica conforme LS e Lat→Deu.",
     "raw_text": "{\"id\":\"chunk_21867:21867:0\",\"lemas\":[\"potentia\",\"Potentia\"],\"lema_canonico\":\"potentia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"1. power, force, efficacy; political or physical power. 2. (top.) Potentia, town in Picenum (classical references: Cic., Liv., Plin.).\",\"aliases\":[\"Potentia (town)\"],\"exemplos\":[\"Cic. Har. Resp. 28, 62\",\"Liv. 39, 44\",\"Plin. 3, 13, 18, §111\"],\"notas\":\"Unifica sentido comum e referência topográfica conforme LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_21867:21867:0\",\"lemas\":[\"potentia\",\"Potentia\"],\"lema_canonico\":\"potentia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"1. power, force, efficacy; political or physical power. 2. (top.) Potentia, town in Picenum (classical references: Cic., Liv., Plin.).\",\"aliases\":[\"Potentia (town)\"],\"exemplos\":[\"Cic. Har. Resp. 28, 62\",\"Liv. 39, 44\",\"Plin. 3, 13, 18, §111\"],\"notas\":\"Unifica sentido comum e referência topográfica conforme LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_21868-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21868",
-    "page_num": 21868,
-    "lemmas": [
-      "poteii",
-      "poteii"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:low",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Remissão indicada no impresso (Potēii → Putēoli). Tratada como redirecionamento para Putēoli.",
-    "raw_text": "{\"id\":\"chunk_21868:21868:0\",\"lemas\":[\"poteii\"],\"lema_canonico\":\"poteii\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"puteoli\"],\"exemplos\":[],\"notas\":\"Remissão indicada no impresso (Potēii → Putēoli). Tratada como redirecionamento para Putēoli.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_21868:21868:0\",\"lemas\":[\"poteii\"],\"lema_canonico\":\"poteii\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"puteoli\"],\"exemplos\":[],\"notas\":\"Remissão indicada no impresso (Potēii → Putēoli). Tratada como redirecionamento para Putēoli.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"redirect_only\"]}"
-  },
-  {
-    "id": "chunk_21869-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21869",
-    "page_num": 21869,
-    "lemmas": [
-      "possum",
-      "possum"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "potes: 2ª pessoa do singular do presente do indicativo de possum, posse, potuī — poder, ser capaz.",
-    "exemplos": [],
-    "notas": "Morfologia verbal irregular (possum/posse) não encaixa perfeitamente no esquema; escolha morfologia mais próxima e marque proveniência. | [dedupe] redirect → chunk_21871:21871:0 | [dedupe] redirect → chunk_21871:21871:0",
-    "raw_text": "{\"id\":\"chunk_21869:21869:0\",\"lemas\":[\"possum\"],\"lema_canonico\":\"possum\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"potes: 2ª pessoa do singular do presente do indicativo de possum, posse, potuī — poder, ser capaz.\",\"aliases\":[\"potes\"],\"exemplos\":[],\"notas\":\"Morfologia verbal irregular (possum/posse) não encaixa perfeitamente no esquema; escolha morfologia mais próxima e marque proveniência.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_21869:21869:0\",\"lemas\":[\"possum\"],\"lema_canonico\":\"possum\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"potes: 2ª pessoa do singular do presente do indicativo de possum, posse, potuī — poder, ser capaz.\",\"aliases\":[\"potes\"],\"exemplos\":[],\"notas\":\"Morfologia verbal irregular (possum/posse) não encaixa perfeitamente no esquema; escolha morfologia mais próxima e marque proveniência.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"morph_out_of_vocab\"]}"
   },
   {
     "id": "chunk_21869-e2",
@@ -1826,28 +1364,6 @@
     "raw_json": "{\"id\":\"chunk_21871:21871:0\",\"lemas\":[\"possum\",\"posse\",\"potui\"],\"lema_canonico\":\"possum\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"verbo irregular 'possum, posse, potuī' — poder; ser capaz; ter autoridade/influência\",\"aliases\":[],\"exemplos\":[\"Plaut. Poen. 5, 2, 26\",\"Plaut. Curc. 5, 3, 23\"],\"notas\":\"Entrada normalizada; inclui formas principais. Irregularidade marcada em notas.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}"
   },
   {
-    "id": "chunk_21871-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_21871",
-    "page_num": 21871,
-    "lemmas": [
-      "possum",
-      "possum"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "forma: imperf. do subjuntivo de 'possum' (forma usada na literatura clássica)",
-    "exemplos": [],
-    "notas": "Entrada sobre forma flexionada; mantido lema canônico 'possum'. | [dedupe] redirect → chunk_21871:21871:0 | [dedupe] redirect → chunk_21871:21871:0",
-    "raw_text": "{\"id\":\"chunk_21871:21871:1\",\"lemas\":[\"possem\"],\"lema_canonico\":\"possum\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"forma: imperf. do subjuntivo de 'possum' (forma usada na literatura clássica)\",\"aliases\":[],\"exemplos\":[\"Plaut. Poen. 1, 2, 17\"],\"notas\":\"Entrada sobre forma flexionada; mantido lema canônico 'possum'.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_21871:21871:1\",\"lemas\":[\"possem\"],\"lema_canonico\":\"possum\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"forma: imperf. do subjuntivo de 'possum' (forma usada na literatura clássica)\",\"aliases\":[],\"exemplos\":[\"Plaut. Poen. 1, 2, 17\"],\"notas\":\"Entrada sobre forma flexionada; mantido lema canônico 'possum'.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}"
-  },
-  {
     "id": "chunk_21872-e1",
     "volume_id": "faria",
     "doc_name": "chunk_21872",
@@ -1868,28 +1384,6 @@
     "notas": "Normalizado lema a potestas, -ātis; corrigido OCR.",
     "raw_text": "{\"id\":\"chunk_21872:21872:0\",\"lemas\":[\"potestas\",\"potestās\"],\"lema_canonico\":\"potestas\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"poder, autoridade, domínio; cargo ou magistratura; faculdade, possibilidade, oportunidade\",\"aliases\":[],\"exemplos\":[\"Cic. Fat. 45\",\"Cic. Pomp. 69\",\"Cic. Leg. 3, 9\",\"Verg. E. 12, 396\",\"Cic. Rep. 2, 33\",\"Cés. B. Gal. 1, 40, 8\",\"Cic. Fr. 1, 2, 15\"],\"notas\":\"Normalizado lema a potestas, -ātis; corrigido OCR.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_21872:21872:0\",\"lemas\":[\"potestas\",\"potestās\"],\"lema_canonico\":\"potestas\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"poder, autoridade, domínio; cargo ou magistratura; faculdade, possibilidade, oportunidade\",\"aliases\":[],\"exemplos\":[\"Cic. Fat. 45\",\"Cic. Pomp. 69\",\"Cic. Leg. 3, 9\",\"Verg. E. 12, 396\",\"Cic. Rep. 2, 33\",\"Cés. B. Gal. 1, 40, 8\",\"Cic. Fr. 1, 2, 15\"],\"notas\":\"Normalizado lema a potestas, -ātis; corrigido OCR.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_21872-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_21872",
-    "page_num": 21872,
-    "lemmas": [
-      "iste",
-      "iste"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "pronome demonstrativo: iste, ista, istud — esse/aquele (próximo do interlocutor); com variantes e formas enclíticas (istic, istaec, istoc) e casos (e.g. istas acc. pl. f.)",
-    "exemplos": [],
-    "notas": "Consolidei variantes e casos; forma canónica escolhida como 'iste'. | [dedupe] redirect → chunk_14946:14946:0 | [dedupe] redirect → chunk_14946:14946:0",
-    "raw_text": "{\"id\":\"chunk_21872:21872:1\",\"lemas\":[\"iste\",\"ista\",\"istud\",\"istic\",\"istaec\",\"istoc\",\"istas\"],\"lema_canonico\":\"iste\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"pronome demonstrativo: iste, ista, istud — esse/aquele (próximo do interlocutor); com variantes e formas enclíticas (istic, istaec, istoc) e casos (e.g. istas acc. pl. f.)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Consolidei variantes e casos; forma canónica escolhida como 'iste'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_21872:21872:1\",\"lemas\":[\"iste\",\"ista\",\"istud\",\"istic\",\"istaec\",\"istoc\",\"istas\"],\"lema_canonico\":\"iste\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"pronome demonstrativo: iste, ista, istud — esse/aquele (próximo do interlocutor); com variantes e formas enclíticas (istic, istaec, istoc) e casos (e.g. istas acc. pl. f.)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Consolidei variantes e casos; forma canónica escolhida como 'iste'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"morph_out_of_vocab\"]}"
   },
   {
     "id": "chunk_21873-e1",
@@ -2134,28 +1628,6 @@
     "raw_json": "{\"id\":\"chunk_21882:21882:1\",\"lemas\":[\"potissimum\"],\"lema_canonico\":\"potissimum\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"principalmente, sobretudo; acima de tudo; eminentemente\",\"aliases\":[],\"exemplos\":[\"Cic. Mur. 4\"],\"notas\":\"Advérbio derivado do superlativo de potior; confirmado por Whitaker e Lat→Deu; exemplar Cic. Mur. 4 citado no OCR.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_21883-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21883",
-    "page_num": 21883,
-    "lemmas": [
-      "potissimus",
-      "potissimus"
-    ],
-    "morfologia": "adj. (3) 3T",
-    "morph_render": "adj. (3) 3T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "superlativo de potis: o mais capaz/mais importante; principal, chefe.",
-    "exemplos": [],
-    "notas": "Normalizada grafia; variantes de gênero incluídas. | [dedupe] redirect → chunk_21882:21882:0 | [dedupe] redirect → chunk_21882:21882:0",
-    "raw_text": "{\"id\":\"chunk_21883:21883:0\",\"lemas\":[\"potissimus\",\"potissima\",\"potissimum\"],\"lema_canonico\":\"potissimus\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"superlativo de potis: o mais capaz/mais importante; principal, chefe.\",\"aliases\":[],\"exemplos\":[\"Tac. An. 14, 65\"],\"notas\":\"Normalizada grafia; variantes de gênero incluídas.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21883:21883:0\",\"lemas\":[\"potissimus\",\"potissima\",\"potissimum\"],\"lema_canonico\":\"potissimus\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"superlativo de potis: o mais capaz/mais importante; principal, chefe.\",\"aliases\":[],\"exemplos\":[\"Tac. An. 14, 65\"],\"notas\":\"Normalizada grafia; variantes de gênero incluídas.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_21884-e1",
     "volume_id": "faria",
     "doc_name": "chunk_21884",
@@ -2176,28 +1648,6 @@
     "notas": "Entrada referente ao plur. gentilício (Potitī, -ōrum). Forma e referência segundo Lewis & Short; a declinação e singular podem requerer revisão. | [ocr_fix 2025-08-17T19:51:24Z] match direto em LS por lemma/lemma_norm | lemma_in='Potitius' → 'Pŏtītĭus'",
     "raw_text": "{\"id\":\"chunk_21884:21884:0\",\"lemas\":[\"Potitii\",\"Potitius\"],\"lema_canonico\":\"Potitius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"nomen gentile/plural (Potitii) — família arcaica do Lácio, ligada ao culto de Hércules\",\"aliases\":[],\"exemplos\":[\"Liv. 1, 7\"],\"notas\":\"Entrada referente ao plur. gentilício (Potitī, -ōrum). Forma e referência segundo Lewis & Short; a declinação e singular podem requerer revisão.\",\"flags\":[\"src_ls\",\"conf:med\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_21884:21884:0\",\"lemas\":[\"Potitii\",\"Potitius\"],\"lema_canonico\":\"Potitius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"nomen gentile/plural (Potitii) — família arcaica do Lácio, ligada ao culto de Hércules\",\"aliases\":[],\"exemplos\":[\"Liv. 1, 7\"],\"notas\":\"Entrada referente ao plur. gentilício (Potitī, -ōrum). Forma e referência segundo Lewis & Short; a declinação e singular podem requerer revisão.\",\"flags\":[\"src_ls\",\"conf:med\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_21885-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21885",
-    "page_num": 21885,
-    "lemmas": [
-      "potior",
-      "potior"
-    ],
-    "morfologia": "adj. (3) 3T",
-    "morph_render": "adj. (3) 3T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "comparativo de potis: mais capaz, superior, preferível; (adverbialmente) 'mais'/'preferivelmente'.",
-    "exemplos": [],
-    "notas": "Unifica forma adjetival comparativa (potior, potius); apoiado por Lewis & Short e Whitaker. | [dedupe] redirect → chunk_21880:21880:0 | [dedupe] redirect → chunk_21880:21880:0",
-    "raw_text": "{\"id\":\"chunk_21885:21885:0\",\"lemas\":[\"potior\",\"potius\"],\"lema_canonico\":\"potior\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"comparativo de potis: mais capaz, superior, preferível; (adverbialmente) 'mais'/'preferivelmente'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Unifica forma adjetival comparativa (potior, potius); apoiado por Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21885:21885:0\",\"lemas\":[\"potior\",\"potius\"],\"lema_canonico\":\"potior\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"comparativo de potis: mais capaz, superior, preferível; (adverbialmente) 'mais'/'preferivelmente'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Unifica forma adjetival comparativa (potior, potius); apoiado por Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_21886-e1",
@@ -2244,28 +1694,6 @@
     "raw_json": "{\"id\":\"chunk_21887:21887:0\",\"lemas\":[\"potius\"],\"lema_canonico\":\"potius\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"preferivelmente; antes; mais, em maior grau (comparativo: rather, more).\",\"aliases\":[],\"exemplos\":[\"Cic. Or. 1, 112\"],\"notas\":\"Advérbio comparativo atestado por Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_21888-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21888",
-    "page_num": 21888,
-    "lemmas": [
-      "poto",
-      "poto"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "beber; beber copiosamente, sorver; (transf.) absorver",
-    "exemplos": [],
-    "notas": "Verificado e padronizado como pōtō, pōtāre, pōtāvī, pōtātum conforme LS e Lat→Deu. | [dedupe] redirect → chunk_21869:21869:1 | [dedupe] redirect → chunk_21869:21869:1",
-    "raw_text": "{\"id\":\"chunk_21888:21888:0\",\"lemas\":[\"poto\"],\"lema_canonico\":\"poto\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"beber; beber copiosamente, sorver; (transf.) absorver\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Verificado e padronizado como pōtō, pōtāre, pōtāvī, pōtātum conforme LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21888:21888:0\",\"lemas\":[\"poto\"],\"lema_canonico\":\"poto\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"beber; beber copiosamente, sorver; (transf.) absorver\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Verificado e padronizado como pōtō, pōtāre, pōtāvī, pōtātum conforme LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_21888-e2",
     "volume_id": "faria",
     "doc_name": "chunk_21888",
@@ -2286,28 +1714,6 @@
     "notas": "Entrada replicada da primeira passada; forma/identidade incertas face a OCR e dicionários (possível corrupção).",
     "raw_text": "{\"id\":\"chunk_21888:21888:1\",\"lemas\":[\"poturi\"],\"lema_canonico\":\"poturi\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"(registrado como 'aquele que se apodera de' em 1ª passada; leitura incerta)\",\"aliases\":[],\"exemplos\":[\"V. Max. 3, 2, 20\"],\"notas\":\"Entrada replicada da primeira passada; forma/identidade incertas face a OCR e dicionários (possível corrupção).\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_21888:21888:1\",\"lemas\":[\"poturi\"],\"lema_canonico\":\"poturi\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"(registrado como 'aquele que se apodera de' em 1ª passada; leitura incerta)\",\"aliases\":[],\"exemplos\":[\"V. Max. 3, 2, 20\"],\"notas\":\"Entrada replicada da primeira passada; forma/identidade incertas face a OCR e dicionários (possível corrupção).\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_21889-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21889",
-    "page_num": 21889,
-    "lemmas": [
-      "potus",
-      "potus"
-    ],
-    "morfologia": "s. masc. 4ª (-us)",
-    "morph_render": "s. masc. 4ª (-us)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "bebida, trago; ato de beber; também particípio/adjectivo 'o que bebeu, embriagado' (de pōtō/pōtāre).",
-    "exemplos": [],
-    "notas": "Inclui variante tardia 'potuus'; substantivo de 4ª declinação atestado em LS e Whitaker. | [dedupe] redirect → chunk_21862:21862:0 | [dedupe] redirect → chunk_21862:21862:0",
-    "raw_text": "{\"id\":\"chunk_21889:21889:0\",\"lemas\":[\"potus\",\"potuus\"],\"lema_canonico\":\"potus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"bebida, trago; ato de beber; também particípio/adjectivo 'o que bebeu, embriagado' (de pōtō/pōtāre).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Inclui variante tardia 'potuus'; substantivo de 4ª declinação atestado em LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21889:21889:0\",\"lemas\":[\"potus\",\"potuus\"],\"lema_canonico\":\"potus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"bebida, trago; ato de beber; também particípio/adjectivo 'o que bebeu, embriagado' (de pōtō/pōtāre).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Inclui variante tardia 'potuus'; substantivo de 4ª declinação atestado em LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_21889-e2",
@@ -2376,28 +1782,6 @@
     "raw_json": "{\"id\":\"chunk_21891:21891:0\",\"lemas\":[\"potincula\",\"potincula\"],\"lema_canonico\":\"potincula\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Entrada não atestada em dicionários principais; suposta ‘bebida pouco abundante’ conforme primeira passada/OCR.\",\"aliases\":[],\"exemplos\":[\"Petr. 17, 7\"],\"notas\":\"Termo apenas no OCR/first_pass; não encontrado em LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_21892-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21892",
-    "page_num": 21892,
-    "lemmas": [
-      "potius",
-      "potius"
-    ],
-    "morfologia": "adv.",
-    "morph_render": "adv.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "preferivelmente, antes; mais bem; antes, mais depressa",
-    "exemplos": [],
-    "notas": "Forma adverbial comparativa de potior; atestada por Lewis & Short, Whitaker e Lat→Deu. | [dedupe] redirect → chunk_21887:21887:0 | [dedupe] redirect → chunk_21887:21887:0",
-    "raw_text": "{\"id\":\"chunk_21892:21892:0\",\"lemas\":[\"potius\"],\"lema_canonico\":\"potius\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"preferivelmente, antes; mais bem; antes, mais depressa\",\"aliases\":[],\"exemplos\":[\"Cic. Or. 1, 112\"],\"notas\":\"Forma adverbial comparativa de potior; atestada por Lewis & Short, Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21892:21892:0\",\"lemas\":[\"potius\"],\"lema_canonico\":\"potius\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"preferivelmente, antes; mais bem; antes, mais depressa\",\"aliases\":[],\"exemplos\":[\"Cic. Or. 1, 112\"],\"notas\":\"Forma adverbial comparativa de potior; atestada por Lewis & Short, Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_21893-e1",
     "volume_id": "faria",
     "doc_name": "chunk_21893",
@@ -2440,28 +1824,6 @@
     "notas": "Replicada forma da primeira passada; origem e referência literária do OCR mantidas; entrada pouco atestada em dicionários modernos.\n[ocr_pipeline 2025-08-16T23:21:09.809440Z] lemma_in='Potniades' → 'pōtātĭo' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:19:39Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='pōtātĭo' → 'pōtātĭo'",
     "raw_text": "{\"id\":\"chunk_21894:21894:0\",\"lemas\":[\"Potniades\",\"Potniádes\",\"Potnĭádes\"],\"lema_canonico\":\"Potniades\",\"morfologia\":\"-um, subs. loc. f.\",\"morph_extra\":[],\"definicao\":\"gentílico relativo a Potínia (cidade da Beócia), habitantes ou pertencentes a Potínia\",\"aliases\":[],\"exemplos\":[\"Verg. G. 3, 268\"],\"notas\":\"Replicada forma da primeira passada; origem e referência literária do OCR mantidas; entrada pouco atestada em dicionários modernos.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_21894:21894:0\",\"lemas\":[\"Potniades\",\"Potniádes\",\"Potnĭádes\"],\"lema_canonico\":\"Potniades\",\"morfologia\":\"-um, subs. loc. f.\",\"morph_extra\":[],\"definicao\":\"gentílico relativo a Potínia (cidade da Beócia), habitantes ou pertencentes a Potínia\",\"aliases\":[],\"exemplos\":[\"Verg. G. 3, 268\"],\"notas\":\"Replicada forma da primeira passada; origem e referência literária do OCR mantidas; entrada pouco atestada em dicionários modernos.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_21895-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21895",
-    "page_num": 21895,
-    "lemmas": [
-      "pōto",
-      "pōto"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Beber; dar de beber (uso tardio); também figur. 'absorver, impregnar'.",
-    "exemplos": [],
-    "notas": "Infinitivo pōtāre; supino/particípio pōtātum/pōtus conforme fontes. | [dedupe] redirect → chunk_21869:21869:1 | [dedupe] redirect → chunk_21869:21869:1",
-    "raw_text": "{\"id\":\"chunk_21895:21895:0\",\"lemas\":[\"pōto\"],\"lema_canonico\":\"pōto\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"Beber; dar de beber (uso tardio); também figur. 'absorver, impregnar'.\",\"aliases\":[],\"exemplos\":[\"Plaut. Men. 915\",\"Cic. Phil. 2, 67\",\"Hor. Ep. 1, 10, 27\"],\"notas\":\"Infinitivo pōtāre; supino/particípio pōtātum/pōtus conforme fontes.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21895:21895:0\",\"lemas\":[\"pōto\"],\"lema_canonico\":\"pōto\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"Beber; dar de beber (uso tardio); também figur. 'absorver, impregnar'.\",\"aliases\":[],\"exemplos\":[\"Plaut. Men. 915\",\"Cic. Phil. 2, 67\",\"Hor. Ep. 1, 10, 27\"],\"notas\":\"Infinitivo pōtāre; supino/particípio pōtātum/pōtus conforme fontes.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_21896-e1",
@@ -2508,50 +1870,6 @@
     "raw_json": "{\"id\":\"chunk_21897:21897:0\",\"lemas\":[\"potrix\"],\"lema_canonico\":\"potrix\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"mulher bebedora; tippler (poético)\",\"aliases\":[],\"exemplos\":[\"Phaedr. 4, 5, 25\"],\"notas\":\"Normalizada a grafia e o genitivo (-icis) conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_21898-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21898",
-    "page_num": 21898,
-    "lemmas": [
-      "ver",
-      "ver"
-    ],
-    "morfologia": "s. neut. 3ª (-is)",
-    "morph_render": "s. neut. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "primavera; tempo da juventude; comp. ver sacrum (sacrifício dos nascidos na primavera).",
-    "exemplos": [],
-    "notas": "Grafia variante 'uer' incluída; consolidado com LS e Whitaker. | [dedupe] redirect → chunk_29819:29819:0 | [dedupe] redirect → chunk_29819:29819:0",
-    "raw_text": "{\"id\":\"chunk_21898:21898:1\",\"lemas\":[\"ver\",\"uer\"],\"lema_canonico\":\"ver\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"primavera; tempo da juventude; comp. ver sacrum (sacrifício dos nascidos na primavera).\",\"aliases\":[],\"exemplos\":[\"Verg. G. 1, 43\",\"Cic. Verr. 2, 5, 10\"],\"notas\":\"Grafia variante 'uer' incluída; consolidado com LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21898:21898:1\",\"lemas\":[\"ver\",\"uer\"],\"lema_canonico\":\"ver\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"primavera; tempo da juventude; comp. ver sacrum (sacrifício dos nascidos na primavera).\",\"aliases\":[],\"exemplos\":[\"Verg. G. 1, 43\",\"Cic. Verr. 2, 5, 10\"],\"notas\":\"Grafia variante 'uer' incluída; consolidado com LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_21898-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_21898",
-    "page_num": 21898,
-    "lemmas": [
-      "possum",
-      "possum"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "verbo irregular 'posse' — poder, ser capaz; perfeito atestado em formas como potuī / potuēr (perfeito de possum).",
-    "exemplos": [],
-    "notas": "Entrada retificada para o lema lexical 'possum'; forma perfeita indicada a partir do OCR.\n[ocr_pipeline 2025-08-16T23:16:37.609210Z] lemma_in='possum' → 'possum' | motivo: match direto em LS por lemma/lemma_norm | [dedupe] redirect → chunk_21871:21871:0 | [ocr_fix 2025-08-17T18:27:38Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='possum' → 'possum' | [dedupe] redirect → chunk_21871:21871:0",
-    "raw_text": "{\"id\":\"chunk_21898:21898:2\",\"lemas\":[\"possum\"],\"lema_canonico\":\"possum\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"verbo irregular 'posse' — poder, ser capaz; perfeito atestado em formas como potuī / potuēr (perfeito de possum).\",\"aliases\":[\"potuēr\"],\"exemplos\":[],\"notas\":\"Entrada retificada para o lema lexical 'possum'; forma perfeita indicada a partir do OCR.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_21898:21898:2\",\"lemas\":[\"possum\"],\"lema_canonico\":\"possum\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"verbo irregular 'posse' — poder, ser capaz; perfeito atestado em formas como potuī / potuēr (perfeito de possum).\",\"aliases\":[\"potuēr\"],\"exemplos\":[],\"notas\":\"Entrada retificada para o lema lexical 'possum'; forma perfeita indicada a partir do OCR.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
     "id": "chunk_21898-e3",
     "volume_id": "faria",
     "doc_name": "chunk_21898",
@@ -2594,160 +1912,6 @@
     "notas": "Leitura incerta no OCR; não confirmada por dicionários; mantida a forma tal como no first_pass e marcada para revisão.",
     "raw_text": "{\"id\":\"chunk_21899:21899:0\",\"lemas\":[\"potulabant\"],\"lema_canonico\":\"potulabant\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"Forma corrompida/contestada do texto; provável imperfeito 3ª pl. relacionada a pōtō/pōtāre ou leitura compósita (potu‑ + labant).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Leitura incerta no OCR; não confirmada por dicionários; mantida a forma tal como no first_pass e marcada para revisão.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_21899:21899:0\",\"lemas\":[\"potulabant\"],\"lema_canonico\":\"potulabant\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"Forma corrompida/contestada do texto; provável imperfeito 3ª pl. relacionada a pōtō/pōtāre ou leitura compósita (potu‑ + labant).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Leitura incerta no OCR; não confirmada por dicionários; mantida a forma tal como no first_pass e marcada para revisão.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_21899-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_21899",
-    "page_num": 21899,
-    "lemmas": [
-      "potus",
-      "potus"
-    ],
-    "morfologia": "s. masc. 4ª (-us)",
-    "morph_render": "s. masc. 4ª (-us)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "bebida, trago; ação de beber; também: o beber (substantivo derivado).",
-    "exemplos": [],
-    "notas": "Separado da forma verbal corrupta; forma e significado apoiados por LS e Whitaker (4ª decl.). | [dedupe] redirect → chunk_21862:21862:0 | [dedupe] redirect → chunk_21862:21862:0",
-    "raw_text": "{\"id\":\"chunk_21899:21899:1\",\"lemas\":[\"potus\"],\"lema_canonico\":\"potus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"bebida, trago; ação de beber; também: o beber (substantivo derivado).\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 2, 141\"],\"notas\":\"Separado da forma verbal corrupta; forma e significado apoiados por LS e Whitaker (4ª decl.).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21899:21899:1\",\"lemas\":[\"potus\"],\"lema_canonico\":\"potus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"bebida, trago; ação de beber; também: o beber (substantivo derivado).\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 2, 141\"],\"notas\":\"Separado da forma verbal corrupta; forma e significado apoiados por LS e Whitaker (4ª decl.).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_21899-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_21899",
-    "page_num": 21899,
-    "lemmas": [
-      "poto",
-      "poto"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "beber; beber copiosamente, beber até embriagar‑se; também trans.: absorver, sorver.",
-    "exemplos": [],
-    "notas": "Forma verbal restaurada a partir de entradas concordantes (LS, Whitaker, Lat→Deu). | [dedupe] redirect → chunk_21869:21869:1 | [dedupe] redirect → chunk_21869:21869:1",
-    "raw_text": "{\"id\":\"chunk_21899:21899:2\",\"lemas\":[\"poto\",\"potare\"],\"lema_canonico\":\"poto\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"beber; beber copiosamente, beber até embriagar‑se; também trans.: absorver, sorver.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma verbal restaurada a partir de entradas concordantes (LS, Whitaker, Lat→Deu).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21899:21899:2\",\"lemas\":[\"poto\",\"potare\"],\"lema_canonico\":\"poto\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"beber; beber copiosamente, beber até embriagar‑se; também trans.: absorver, sorver.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma verbal restaurada a partir de entradas concordantes (LS, Whitaker, Lat→Deu).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_21899-e4",
-    "volume_id": "faria",
-    "doc_name": "chunk_21899",
-    "page_num": 21899,
-    "lemmas": [
-      "labo",
-      "labo"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "oscilar, vacilar; estar pronto a cair, ceder, começar a afundar; vacilar, declinar.",
-    "exemplos": [],
-    "notas": "Unidas formas afins (labo, labāre; laborare tratada como verbo distinto de mesma conjugação). Revisado com apoio de LS e Whitaker. | [dedupe] redirect → chunk_15200:15200:0 | [dedupe] redirect → chunk_15200:15200:0",
-    "raw_text": "{\"id\":\"chunk_21899:21899:3\",\"lemas\":[\"labo\",\"labare\",\"laborare\"],\"lema_canonico\":\"labo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"oscilar, vacilar; estar pronto a cair, ceder, começar a afundar; vacilar, declinar.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Unidas formas afins (labo, labāre; laborare tratada como verbo distinto de mesma conjugação). Revisado com apoio de LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21899:21899:3\",\"lemas\":[\"labo\",\"labare\",\"laborare\"],\"lema_canonico\":\"labo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"oscilar, vacilar; estar pronto a cair, ceder, começar a afundar; vacilar, declinar.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Unidas formas afins (labo, labāre; laborare tratada como verbo distinto de mesma conjugação). Revisado com apoio de LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_21900-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21900",
-    "page_num": 21900,
-    "lemmas": [
-      "petitum",
-      "petitum"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Objeto buscado; supino/forma relacionada a peto — o que se procura ou pede; também forma participial passada nominalizada.",
-    "exemplos": [],
-    "notas": "Tratado como substantivo supino (petītum, -ī, n.) conforme Lat→Deu e LS; indicado como supino em morph_extra. | [dedupe] redirect → chunk_20904:20904:0 | [dedupe] redirect → chunk_20904:20904:0",
-    "raw_text": "{\"id\":\"chunk_21900:21900:0\",\"lemas\":[\"petitum\",\"petītum\"],\"lema_canonico\":\"petitum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[\"sup.\"],\"definicao\":\"Objeto buscado; supino/forma relacionada a peto — o que se procura ou pede; também forma participial passada nominalizada.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Tratado como substantivo supino (petītum, -ī, n.) conforme Lat→Deu e LS; indicado como supino em morph_extra.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21900:21900:0\",\"lemas\":[\"petitum\",\"petītum\"],\"lema_canonico\":\"petitum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[\"sup.\"],\"definicao\":\"Objeto buscado; supino/forma relacionada a peto — o que se procura ou pede; também forma participial passada nominalizada.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Tratado como substantivo supino (petītum, -ī, n.) conforme Lat→Deu e LS; indicado como supino em morph_extra.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_21900-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_21900",
-    "page_num": 21900,
-    "lemmas": [
-      "litus",
-      "litus"
-    ],
-    "morfologia": "s. neut. 3ª (-is)",
-    "morph_render": "s. neut. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "costa, praia, margem do mar; também margem de rio, local de desembarque",
-    "exemplos": [],
-    "notas": "Substantivo distinto do particípio de lino; grafia normalizada para lītus, lītoris. | [dedupe] redirect → chunk_15976:15976:0 | [dedupe] redirect → chunk_15976:15976:0",
-    "raw_text": "{\"id\":\"chunk_21900:21900:1\",\"lemas\":[\"litus\"],\"lema_canonico\":\"litus\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"costa, praia, margem do mar; também margem de rio, local de desembarque\",\"aliases\":[],\"exemplos\":[\"Verg. A. 3, 75\"],\"notas\":\"Substantivo distinto do particípio de lino; grafia normalizada para lītus, lītoris.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21900:21900:1\",\"lemas\":[\"litus\"],\"lema_canonico\":\"litus\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"costa, praia, margem do mar; também margem de rio, local de desembarque\",\"aliases\":[],\"exemplos\":[\"Verg. A. 3, 75\"],\"notas\":\"Substantivo distinto do particípio de lino; grafia normalizada para lītus, lītoris.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_21900-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_21900",
-    "page_num": 21900,
-    "lemmas": [
-      "litus",
-      "litus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "particípio perfeito passivo de lino, linere — untar, besmear, apregar",
-    "exemplos": [],
-    "notas": "Particípio/adjetivo derivado de lino; mantida distinção em relação ao substantivo 'litus' (costa). | [dedupe] redirect → chunk_15975:15975:0 | [dedupe] redirect → chunk_15975:15975:0",
-    "raw_text": "{\"id\":\"chunk_21900:21900:2\",\"lemas\":[\"litus\"],\"lema_canonico\":\"litus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de lino, linere — untar, besmear, apregar\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 33, 6, 35\"],\"notas\":\"Particípio/adjetivo derivado de lino; mantida distinção em relação ao substantivo 'litus' (costa).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21900:21900:2\",\"lemas\":[\"litus\"],\"lema_canonico\":\"litus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de lino, linere — untar, besmear, apregar\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 33, 6, 35\"],\"notas\":\"Particípio/adjetivo derivado de lino; mantida distinção em relação ao substantivo 'litus' (costa).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_21900-e4",
-    "volume_id": "faria",
-    "doc_name": "chunk_21900",
-    "page_num": 21900,
-    "lemmas": [
-      "potus",
-      "potus"
-    ],
-    "morfologia": "s. masc. 4ª (-us)",
-    "morph_render": "s. masc. 4ª (-us)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "bebida, gole; ato de beber (especialmente bebida embriagante)",
-    "exemplos": [],
-    "notas": "Substantivo 4ª declinação potus, -ūs m.; grafia normalizada de OCR. | [dedupe] redirect → chunk_21862:21862:0 | [dedupe] redirect → chunk_21862:21862:0",
-    "raw_text": "{\"id\":\"chunk_21900:21900:3\",\"lemas\":[\"potus\"],\"lema_canonico\":\"potus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"bebida, gole; ato de beber (especialmente bebida embriagante)\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 1, 29, 60\"],\"notas\":\"Substantivo 4ª declinação potus, -ūs m.; grafia normalizada de OCR.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21900:21900:3\",\"lemas\":[\"potus\"],\"lema_canonico\":\"potus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"bebida, gole; ato de beber (especialmente bebida embriagante)\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 1, 29, 60\"],\"notas\":\"Substantivo 4ª declinação potus, -ūs m.; grafia normalizada de OCR.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_21900-e5",
@@ -2816,28 +1980,6 @@
     "raw_json": "{\"id\":\"chunk_21901:21901:0\",\"lemas\":[\"potus\",\"pota\",\"potum\"],\"lema_canonico\":\"potus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio passado de pōtō; adjetivo 'que bebeu, bebido; embriagado'.\",\"aliases\":[],\"exemplos\":[\"Cic. Mil. 56\"],\"notas\":\"Formas flexionadas potus, pota, potum; sentido adjetival e participial conforme L&S e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_21902-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21902",
-    "page_num": 21902,
-    "lemmas": [
-      "potus",
-      "potus"
-    ],
-    "morfologia": "s. masc. 4ª (-us)",
-    "morph_render": "s. masc. 4ª (-us)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Ato de beber; bebida, líquido para beber.",
-    "exemplos": [],
-    "notas": "Substantivo da 4ª declinação, bem atestado em Lewis & Short e Whitaker. | [dedupe] redirect → chunk_21862:21862:0 | [dedupe] redirect → chunk_21862:21862:0",
-    "raw_text": "{\"id\":\"chunk_21902:21902:0\",\"lemas\":[\"potus\"],\"lema_canonico\":\"potus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"Ato de beber; bebida, líquido para beber.\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 1, 60\",\"Tac. An. 3, 16\"],\"notas\":\"Substantivo da 4ª declinação, bem atestado em Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21902:21902:0\",\"lemas\":[\"potus\"],\"lema_canonico\":\"potus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"Ato de beber; bebida, líquido para beber.\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 1, 60\",\"Tac. An. 3, 16\"],\"notas\":\"Substantivo da 4ª declinação, bem atestado em Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_21903-e1",
     "volume_id": "faria",
     "doc_name": "chunk_21903",
@@ -2858,50 +2000,6 @@
     "notas": "Unifiquei entrada como preposição com ablativo; mantive uso adverbial em morph_extra.",
     "raw_text": "{\"id\":\"chunk_21903:21903:0\",\"lemas\":[\"prae\"],\"lema_canonico\":\"prae\",\"morfologia\":\"prep. com abl.\",\"morph_extra\":[\"adv.\"],\"definicao\":\"ante, antes de; em frente a; por causa de; também adv. com uso de comparação (praequam, praeut)\",\"aliases\":[],\"exemplos\":[\"Plaut. Am. 1, 3, 45\",\"Ter. Andr. 171\",\"Cic. Phil. 2, 12, 30\",\"Liv. 28, 38, 5\"],\"notas\":\"Unifiquei entrada como preposição com ablativo; mantive uso adverbial em morph_extra.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_21903:21903:0\",\"lemas\":[\"prae\"],\"lema_canonico\":\"prae\",\"morfologia\":\"prep. com abl.\",\"morph_extra\":[\"adv.\"],\"definicao\":\"ante, antes de; em frente a; por causa de; também adv. com uso de comparação (praequam, praeut)\",\"aliases\":[],\"exemplos\":[\"Plaut. Am. 1, 3, 45\",\"Ter. Andr. 171\",\"Cic. Phil. 2, 12, 30\",\"Liv. 28, 38, 5\"],\"notas\":\"Unifiquei entrada como preposição com ablativo; mantive uso adverbial em morph_extra.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_21904-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21904",
-    "page_num": 21904,
-    "lemmas": [
-      "prae",
-      "prae"
-    ],
-    "morfologia": "prep. com abl.",
-    "morph_render": "prep. com abl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "antes, diante de; por causa de; em comparação com; mais que (em construções comparativas); adverbialmente: adiante, à frente",
-    "exemplos": [],
-    "notas": "Entrada dual (prep. com abl. e adv.); escolheu‑se 'prep. com abl.' como morfologia primária e sinalizou a função adverbial em morph_extra. Alinhado com Lewis & Short e Whitaker. | [dedupe] redirect → chunk_21903:21903:0 | [dedupe] redirect → chunk_21903:21903:0",
-    "raw_text": "{\"id\":\"chunk_21904:21904:0\",\"lemas\":[\"prae\"],\"lema_canonico\":\"prae\",\"morfologia\":\"prep. com abl.\",\"morph_extra\":[\"adv.\"],\"definicao\":\"antes, diante de; por causa de; em comparação com; mais que (em construções comparativas); adverbialmente: adiante, à frente\",\"aliases\":[],\"exemplos\":[\"Liv. 1, 7, 4\",\"Cic. Planc. 41, 99\",\"Cic. Fam. 4, 4, 2\",\"Hor.\"],\"notas\":\"Entrada dual (prep. com abl. e adv.); escolheu‑se 'prep. com abl.' como morfologia primária e sinalizou a função adverbial em morph_extra. Alinhado com Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21904:21904:0\",\"lemas\":[\"prae\"],\"lema_canonico\":\"prae\",\"morfologia\":\"prep. com abl.\",\"morph_extra\":[\"adv.\"],\"definicao\":\"antes, diante de; por causa de; em comparação com; mais que (em construções comparativas); adverbialmente: adiante, à frente\",\"aliases\":[],\"exemplos\":[\"Liv. 1, 7, 4\",\"Cic. Planc. 41, 99\",\"Cic. Fam. 4, 4, 2\",\"Hor.\"],\"notas\":\"Entrada dual (prep. com abl. e adv.); escolheu‑se 'prep. com abl.' como morfologia primária e sinalizou a função adverbial em morph_extra. Alinhado com Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_21904-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_21904",
-    "page_num": 21904,
-    "lemmas": [
-      "prae-cŭtĭo",
-      "prae-cŭtĭo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "agitar/vaiar para diante; brandir para a frente, avançar em movimento os braços (swing/brandish forward)",
-    "exemplos": [],
-    "notas": "Primeira passada marcava como adjetivo—retificado para verbo com base no Lat→Deu. Referência original a 'Caes. B. Gal.' pode pertencer a outra forma; revisão recomendada. | [dedupe] redirect → chunk_21995:21995:0 | [dedupe] redirect → chunk_21995:21995:0 | [ocr_fix 2025-08-17T19:59:42Z] match direto em LS por lemma/lemma_norm | lemma_in='praecutio' → 'prae-cŭtĭo'",
-    "raw_text": "{\"id\":\"chunk_21904:21904:1\",\"lemas\":[\"praecutio\",\"praecutere\",\"praecutiō\"],\"lema_canonico\":\"praecutio\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"agitar/vaiar para diante; brandir para a frente, avançar em movimento os braços (swing/brandish forward)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Primeira passada marcava como adjetivo—retificado para verbo com base no Lat→Deu. Referência original a 'Caes. B. Gal.' pode pertencer a outra forma; revisão recomendada.\",\"flags\":[\"src_latdeu\",\"conf:med\",\"src_firstpass\"]}",
-    "raw_json": "{\"id\":\"chunk_21904:21904:1\",\"lemas\":[\"praecutio\",\"praecutere\",\"praecutiō\"],\"lema_canonico\":\"praecutio\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"agitar/vaiar para diante; brandir para a frente, avançar em movimento os braços (swing/brandish forward)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Primeira passada marcava como adjetivo—retificado para verbo com base no Lat→Deu. Referência original a 'Caes. B. Gal.' pode pertencer a outra forma; revisão recomendada.\",\"flags\":[\"src_latdeu\",\"conf:med\",\"src_firstpass\"]}"
   },
   {
     "id": "chunk_21905-e1",
@@ -2946,50 +2044,6 @@
     "notas": "Paradigma e acepções confirmados por Lat→Deu e Lewis & Short.",
     "raw_text": "{\"id\":\"chunk_21906:21906:0\",\"lemas\":[\"praebeo\",\"praebēre\"],\"lema_canonico\":\"praebeo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"oferecer, apresentar, prover; também: causar, ocasionar; (uso reflexivo) mostrar‑se\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 2, 117\",\"Juv. 10, 269\",\"Liv. 3, 46, 3\",\"Caes. B. Gal. 3, 25, 1\"],\"notas\":\"Paradigma e acepções confirmados por Lat→Deu e Lewis & Short.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_21906:21906:0\",\"lemas\":[\"praebeo\",\"praebēre\"],\"lema_canonico\":\"praebeo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"oferecer, apresentar, prover; também: causar, ocasionar; (uso reflexivo) mostrar‑se\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 2, 117\",\"Juv. 10, 269\",\"Liv. 3, 46, 3\",\"Caes. B. Gal. 3, 25, 1\"],\"notas\":\"Paradigma e acepções confirmados por Lat→Deu e Lewis & Short.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_21907-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21907",
-    "page_num": 21907,
-    "lemmas": [
-      "praebeo",
-      "praebeo"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "oferecer, apresentar; proporcionar; prestar; dar; mostrar",
-    "exemplos": [],
-    "notas": "Harmonizado para o paradigma clássico praebeō, -ēre, -uī, -itum (LS/Whitaker confirmam a forma e sentido verbal). | [dedupe] redirect → chunk_21906:21906:0 | [dedupe] redirect → chunk_21906:21906:0",
-    "raw_text": "{\"id\":\"chunk_21907:21907:0\",\"lemas\":[\"praebeo\"],\"lema_canonico\":\"praebeo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"oferecer, apresentar; proporcionar; prestar; dar; mostrar\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Harmonizado para o paradigma clássico praebeō, -ēre, -uī, -itum (LS/Whitaker confirmam a forma e sentido verbal).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21907:21907:0\",\"lemas\":[\"praebeo\"],\"lema_canonico\":\"praebeo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"oferecer, apresentar; proporcionar; prestar; dar; mostrar\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Harmonizado para o paradigma clássico praebeō, -ēre, -uī, -itum (LS/Whitaker confirmam a forma e sentido verbal).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_21907-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_21907",
-    "page_num": 21907,
-    "lemmas": [
-      "praebibi",
-      "praebibi"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:low",
-    "needs_review": 1,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada corresponde a forma de perfeito (perf.) attestada no first_pass; tratada como redirecionamento para o lemma verbal provável.",
-    "raw_text": "{\"id\":\"chunk_21907:21907:1\",\"lemas\":[\"praebibi\"],\"lema_canonico\":\"praebibi\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"praebibo\"],\"exemplos\":[],\"notas\":\"Entrada corresponde a forma de perfeito (perf.) attestada no first_pass; tratada como redirecionamento para o lemma verbal provável.\",\"flags\":[\"src_firstpass\",\"conf:low\",\"redirect_only\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_21907:21907:1\",\"lemas\":[\"praebibi\"],\"lema_canonico\":\"praebibi\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"praebibo\"],\"exemplos\":[],\"notas\":\"Entrada corresponde a forma de perfeito (perf.) attestada no first_pass; tratada como redirecionamento para o lemma verbal provável.\",\"flags\":[\"src_firstpass\",\"conf:low\",\"redirect_only\",\"needs_review\"]}"
   },
   {
     "id": "chunk_21908-e1",
@@ -3078,50 +2132,6 @@
     "notas": "Forma atestada como particípio; entradas lexicais confirmam praebeo → praebitus.",
     "raw_text": "{\"id\":\"chunk_21911:21911:0\",\"lemas\":[\"praebitus\",\"praebĭtus\"],\"lema_canonico\":\"praebitus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo de praebēre: dado, mostrado, proporcionado; também usado como adjetivo.\",\"aliases\":[],\"exemplos\":[\"Suet. Tib. 50\"],\"notas\":\"Forma atestada como particípio; entradas lexicais confirmam praebeo → praebitus.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_21911:21911:0\",\"lemas\":[\"praebitus\",\"praebĭtus\"],\"lema_canonico\":\"praebitus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo de praebēre: dado, mostrado, proporcionado; também usado como adjetivo.\",\"aliases\":[],\"exemplos\":[\"Suet. Tib. 50\"],\"notas\":\"Forma atestada como particípio; entradas lexicais confirmam praebeo → praebitus.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_21912-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21912",
-    "page_num": 21912,
-    "lemmas": [
-      "prae",
-      "prae"
-    ],
-    "morfologia": "prep. com abl.",
-    "morph_render": "prep. com abl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "antes, em frente de; também adv.: antes, adiante; usado em comparação com ut/quam (praequam).",
-    "exemplos": [],
-    "notas": "Consolidado a partir de Lewis & Short e Whitaker. | [dedupe] redirect → chunk_21903:21903:0 | [dedupe] redirect → chunk_21903:21903:0",
-    "raw_text": "{\"id\":\"chunk_21912:21912:0\",\"lemas\":[\"prae\"],\"lema_canonico\":\"prae\",\"morfologia\":\"prep. com abl.\",\"morph_extra\":[],\"definicao\":\"antes, em frente de; também adv.: antes, adiante; usado em comparação com ut/quam (praequam).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Consolidado a partir de Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21912:21912:0\",\"lemas\":[\"prae\"],\"lema_canonico\":\"prae\",\"morfologia\":\"prep. com abl.\",\"morph_extra\":[],\"definicao\":\"antes, em frente de; também adv.: antes, adiante; usado em comparação com ut/quam (praequam).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Consolidado a partir de Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_21912-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_21912",
-    "page_num": 21912,
-    "lemmas": [
-      "praebĕo",
-      "praebĕo"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "fornecer, oferecer, prover, mostrar; perfeito clássico praebuī (corr. da forma OCR 'praebīlī').",
-    "exemplos": [],
-    "notas": "Corrigido de 'praebīlī' (OCR) para o verbo lemma praebeo; perfeito clássico indicado. | [dedupe] redirect → chunk_21906:21906:0 | [dedupe] redirect → chunk_21906:21906:0 | [ocr_fix 2025-08-17T19:51:21Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='praebeo' → 'praebĕo'",
-    "raw_text": "{\"id\":\"chunk_21912:21912:1\",\"lemas\":[\"praebeo\",\"praebeō\"],\"lema_canonico\":\"praebeo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"fornecer, oferecer, prover, mostrar; perfeito clássico praebuī (corr. da forma OCR 'praebīlī').\",\"aliases\":[\"praebīlī (OCR)\"],\"exemplos\":[],\"notas\":\"Corrigido de 'praebīlī' (OCR) para o verbo lemma praebeo; perfeito clássico indicado.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_21912:21912:1\",\"lemas\":[\"praebeo\",\"praebeō\"],\"lema_canonico\":\"praebeo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"fornecer, oferecer, prover, mostrar; perfeito clássico praebuī (corr. da forma OCR 'praebīlī').\",\"aliases\":[\"praebīlī (OCR)\"],\"exemplos\":[],\"notas\":\"Corrigido de 'praebīlī' (OCR) para o verbo lemma praebeo; perfeito clássico indicado.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
     "id": "chunk_21913-e1",
@@ -3300,50 +2310,6 @@
     "raw_json": "{\"id\":\"chunk_21920:21920:0\",\"lemas\":[\"praecaveo\",\"praecavēre\"],\"lema_canonico\":\"praecaveo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"tr.\",\"intr.\"],\"definicao\":\"Precaver-se; tomar precauções, prevenir; também ‘impedir que’ (com cláus. finalis/negativa conforme uso).\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 4, 91\",\"Plaut. Merc. 333\"],\"notas\":\"Formas e sentidos corroborados pelo dicionário Lat→Deu e Whitaker; transitividade indicada conforme entradas.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_21921-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21921",
-    "page_num": 21921,
-    "lemmas": [
-      "praecaveo",
-      "praecaveo"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "perf. indic. 1. pessoa singular de praecavēre: 'praecāvī' = 'tive precaução, tomei cuidado'",
-    "exemplos": [],
-    "notas": "Forma do perfeito confirmada em Lat→Deu e Whitaker; vogais longas normalizadas. | [dedupe] redirect → chunk_21920:21920:0 | [dedupe] redirect → chunk_21920:21920:0",
-    "raw_text": "{\"id\":\"chunk_21921:21921:0\",\"lemas\":[\"praecaveo\"],\"lema_canonico\":\"praecaveo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"perf. 1. sg. ind. akt.\"],\"definicao\":\"perf. indic. 1. pessoa singular de praecavēre: 'praecāvī' = 'tive precaução, tomei cuidado'\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma do perfeito confirmada em Lat→Deu e Whitaker; vogais longas normalizadas.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21921:21921:0\",\"lemas\":[\"praecaveo\"],\"lema_canonico\":\"praecaveo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"perf. 1. sg. ind. akt.\"],\"definicao\":\"perf. indic. 1. pessoa singular de praecavēre: 'praecāvī' = 'tive precaução, tomei cuidado'\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma do perfeito confirmada em Lat→Deu e Whitaker; vogais longas normalizadas.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_21922-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21922",
-    "page_num": 21922,
-    "lemmas": [
-      "prae-cēdo",
-      "prae-cēdo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Ir adiante, preceder; figuradamente: superar, exceder. Pode usar-se intransitivamente ou transitivamente; atestado também com dativo em textos arcaicos.",
-    "exemplos": [],
-    "notas": "Entrada baseada em leitura do first_pass e resumo Lat→Deu; sentidos e usos padronizados. | [dedupe] redirect → chunk_22037:22037:0 | [dedupe] redirect → chunk_22037:22037:0 | [ocr_fix 2025-08-17T19:59:42Z] match direto em LS por lemma/lemma_norm | lemma_in='praecedo' → 'prae-cēdo'",
-    "raw_text": "{\"id\":\"chunk_21922:21922:0\",\"lemas\":[\"praecedo\",\"praecēdere\"],\"lema_canonico\":\"praecedo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"intr.\",\"tr.\"],\"definicao\":\"Ir adiante, preceder; figuradamente: superar, exceder. Pode usar-se intransitivamente ou transitivamente; atestado também com dativo em textos arcaicos.\",\"aliases\":[],\"exemplos\":[\"Verg. En. 9, 47\",\"Plaut. As. 629\"],\"notas\":\"Entrada baseada em leitura do first_pass e resumo Lat→Deu; sentidos e usos padronizados.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_21922:21922:0\",\"lemas\":[\"praecedo\",\"praecēdere\"],\"lema_canonico\":\"praecedo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"intr.\",\"tr.\"],\"definicao\":\"Ir adiante, preceder; figuradamente: superar, exceder. Pode usar-se intransitivamente ou transitivamente; atestado também com dativo em textos arcaicos.\",\"aliases\":[],\"exemplos\":[\"Verg. En. 9, 47\",\"Plaut. As. 629\"],\"notas\":\"Entrada baseada em leitura do first_pass e resumo Lat→Deu; sentidos e usos padronizados.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_21923-e1",
     "volume_id": "faria",
     "doc_name": "chunk_21923",
@@ -3476,28 +2442,6 @@
     "raw_json": "{\"id\":\"chunk_21927:21927:0\",\"lemas\":[\"praecentio\",\"praecentiō\"],\"lema_canonico\":\"praecentio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Ato de cantar ou tocar antes de um sacrifício, batalha etc.; prelúdio, preceção.\",\"aliases\":[],\"exemplos\":[\"Cic. Har. Resp. 10, 21\",\"Gell. 1, 11, 4\"],\"notas\":\"Lema e sentido confirmados em Lewis & Short e Whitaker; unificada grafia macrônica.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_21928-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21928",
-    "page_num": 21928,
-    "lemmas": [
-      "praecinere",
-      "praecinere"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "tocar/assobiar antecipadamente; anunciarem, prever; cantar/recitar adivinhações (uso literário)",
-    "exemplos": [],
-    "notas": "Restaurado para praecinere (praecinō, praecinuī) conforme fontes; correção de OCR. | [dedupe] redirect → chunk_21915:21915:0 | [dedupe] redirect → chunk_21915:21915:0",
-    "raw_text": "{\"id\":\"chunk_21928:21928:0\",\"lemas\":[\"praecinere\",\"praecinō\",\"praecinuī\"],\"lema_canonico\":\"praecinere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"tocar/assobiar antecipadamente; anunciarem, prever; cantar/recitar adivinhações (uso literário)\",\"aliases\":[],\"exemplos\":[\"Cic. Fin. 2, 94\"],\"notas\":\"Restaurado para praecinere (praecinō, praecinuī) conforme fontes; correção de OCR.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_21928:21928:0\",\"lemas\":[\"praecinere\",\"praecinō\",\"praecinuī\"],\"lema_canonico\":\"praecinere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"tocar/assobiar antecipadamente; anunciarem, prever; cantar/recitar adivinhações (uso literário)\",\"aliases\":[],\"exemplos\":[\"Cic. Fin. 2, 94\"],\"notas\":\"Restaurado para praecinere (praecinō, praecinuī) conforme fontes; correção de OCR.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_21929-e1",
     "volume_id": "faria",
     "doc_name": "chunk_21929",
@@ -3518,28 +2462,6 @@
     "notas": "Forma e sentido verificados em Lewis & Short e Whitaker; exemplo adicional citado por LS incluído.",
     "raw_text": "{\"id\":\"chunk_21929:21929:0\",\"lemas\":[\"praecentor\"],\"lema_canonico\":\"praecentor\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Corifeu; aquele que canta os solos, líder no canto (precentor).\",\"aliases\":[],\"exemplos\":[\"Apul. Mund. 35\",\"App. Mund. p. 74, 3\"],\"notas\":\"Forma e sentido verificados em Lewis & Short e Whitaker; exemplo adicional citado por LS incluído.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_21929:21929:0\",\"lemas\":[\"praecentor\"],\"lema_canonico\":\"praecentor\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Corifeu; aquele que canta os solos, líder no canto (precentor).\",\"aliases\":[],\"exemplos\":[\"Apul. Mund. 35\",\"App. Mund. p. 74, 3\"],\"notas\":\"Forma e sentido verificados em Lewis & Short e Whitaker; exemplo adicional citado por LS incluído.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_21930-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21930",
-    "page_num": 21930,
-    "lemmas": [
-      "praecipio",
-      "praecipio"
-    ],
-    "morfologia": "v. 3ª -iō (-ere)",
-    "morph_render": "v. 3ª -iō (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "tomar/receber antecipadamente; instruir, prescrever; antecipar",
-    "exemplos": [],
-    "notas": "Entrada original dava a forma perfeita; normalizado para o lema verbal principal (praecipio). | [dedupe] redirect → chunk_21940:21940:0 | [dedupe] redirect → chunk_21940:21940:0",
-    "raw_text": "{\"id\":\"chunk_21930:21930:0\",\"lemas\":[\"praecipio\",\"praecipere\",\"praecepī\"],\"lema_canonico\":\"praecipio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[],\"definicao\":\"tomar/receber antecipadamente; instruir, prescrever; antecipar\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada original dava a forma perfeita; normalizado para o lema verbal principal (praecipio).\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21930:21930:0\",\"lemas\":[\"praecipio\",\"praecipere\",\"praecepī\"],\"lema_canonico\":\"praecipio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[],\"definicao\":\"tomar/receber antecipadamente; instruir, prescrever; antecipar\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada original dava a forma perfeita; normalizado para o lema verbal principal (praecipio).\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_21931-e1",
@@ -3584,28 +2506,6 @@
     "notas": "Entrada substantivada confirmada; forma e sentido conforme LS/Whitaker.",
     "raw_text": "{\"id\":\"chunk_21932:21932:0\",\"lemas\":[\"praeceps\",\"praecipitis\"],\"lema_canonico\":\"praeceps\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Substantivo: precipício, abismo; grande perigo, situação extrema (subst. de adj. praeceps).\",\"aliases\":[],\"exemplos\":[\"Tac. An. 6, 17\"],\"notas\":\"Entrada substantivada confirmada; forma e sentido conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_21932:21932:0\",\"lemas\":[\"praeceps\",\"praecipitis\"],\"lema_canonico\":\"praeceps\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Substantivo: precipício, abismo; grande perigo, situação extrema (subst. de adj. praeceps).\",\"aliases\":[],\"exemplos\":[\"Tac. An. 6, 17\"],\"notas\":\"Entrada substantivada confirmada; forma e sentido conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_21933-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21933",
-    "page_num": 21933,
-    "lemmas": [
-      "praeceps",
-      "praeceps"
-    ],
-    "morfologia": "adj. (3) 1T",
-    "morph_render": "adj. (3) 1T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "(1) Adv.: de cabeça para baixo, precipitadamente; (2) Adj.: íngreme, precipitante, abrupto; (3) Subst. neut.: precipício, grande perigo, situação crítica.",
-    "exemplos": [],
-    "notas": "Vocábulo atestado como adv., adj. e substantivo em LS/Whitaker; escolhido adjectival como forma principal, mantendo outras classes na definição. | [dedupe] redirect → chunk_21931:21931:0 | [dedupe] redirect → chunk_21931:21931:0",
-    "raw_text": "{\"id\":\"chunk_21933:21933:0\",\"lemas\":[\"praeceps\"],\"lema_canonico\":\"praeceps\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[],\"definicao\":\"(1) Adv.: de cabeça para baixo, precipitadamente; (2) Adj.: íngreme, precipitante, abrupto; (3) Subst. neut.: precipício, grande perigo, situação crítica.\",\"aliases\":[],\"exemplos\":[\"Tac. Ann. 6, 17\",\"Verg. Aen. 4, 253\",\"Cic. Verr. 2, 4, 40\"],\"notas\":\"Vocábulo atestado como adv., adj. e substantivo em LS/Whitaker; escolhido adjectival como forma principal, mantendo outras classes na definição.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21933:21933:0\",\"lemas\":[\"praeceps\"],\"lema_canonico\":\"praeceps\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[],\"definicao\":\"(1) Adv.: de cabeça para baixo, precipitadamente; (2) Adj.: íngreme, precipitante, abrupto; (3) Subst. neut.: precipício, grande perigo, situação crítica.\",\"aliases\":[],\"exemplos\":[\"Tac. Ann. 6, 17\",\"Verg. Aen. 4, 253\",\"Cic. Verr. 2, 4, 40\"],\"notas\":\"Vocábulo atestado como adv., adj. e substantivo em LS/Whitaker; escolhido adjectival como forma principal, mantendo outras classes na definição.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_21934-e1",
@@ -3718,28 +2618,6 @@
     "raw_json": "{\"id\":\"chunk_21938:21938:0\",\"lemas\":[\"praeceptum\"],\"lema_canonico\":\"praeceptum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"preceito, lição; ordem, mandado; regra, ensino\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 2, 58\",\"Cés. B. Gal. 6, 36, 1\"],\"notas\":\"Lema padronizado e declinação confirmada (LS/Whitaker/Lat→Deu).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_21939-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21939",
-    "page_num": 21939,
-    "lemmas": [
-      "praeceptus",
-      "praeceptus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "particípio perfeito passivo de praecipio; antecipado, ordenado, instruído",
-    "exemplos": [],
-    "notas": "Normalizada grafia e função participial a partir de praecipio. | [dedupe] redirect → chunk_21942:21942:0 | [dedupe] redirect → chunk_21942:21942:0",
-    "raw_text": "{\"id\":\"chunk_21939:21939:0\",\"lemas\":[\"praeceptus\"],\"lema_canonico\":\"praeceptus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de praecipio; antecipado, ordenado, instruído\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizada grafia e função participial a partir de praecipio.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21939:21939:0\",\"lemas\":[\"praeceptus\"],\"lema_canonico\":\"praeceptus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de praecipio; antecipado, ordenado, instruído\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizada grafia e função participial a partir de praecipio.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_21940-e1",
     "volume_id": "faria",
     "doc_name": "chunk_21940",
@@ -3782,28 +2660,6 @@
     "notas": "Forma perfeita registrada como praecēpī; normalizado para praecepi como forma conectada ao infinitivo praecipere.",
     "raw_text": "{\"id\":\"chunk_21940:21940:1\",\"lemas\":[\"praecipere\"],\"lema_canonico\":\"praecipere\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[],\"definicao\":\"Perfeito de praecipio (praecēpī): ‘tomei/recebi antecipadamente; antecipei; ensinei; prescrevi’.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma perfeita registrada como praecēpī; normalizado para praecepi como forma conectada ao infinitivo praecipere.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_21940:21940:1\",\"lemas\":[\"praecipere\"],\"lema_canonico\":\"praecipere\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[],\"definicao\":\"Perfeito de praecipio (praecēpī): ‘tomei/recebi antecipadamente; antecipei; ensinei; prescrevi’.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma perfeita registrada como praecēpī; normalizado para praecepi como forma conectada ao infinitivo praecipere.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_21941-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21941",
-    "page_num": 21941,
-    "lemmas": [
-      "praecipio",
-      "praecipio"
-    ],
-    "morfologia": "v. 3ª -iō (-ere)",
-    "morph_render": "v. 3ª -iō (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "praecipio, praecipere, praecepi, praeceptum: 1) tomar/obter antecipadamente; 2) ensinar, instruir; 3) prescrever, ordenar.",
-    "exemplos": [],
-    "notas": "Entrada corrigida de OCR (primeira passada apresentava 'praecēro' com formas erradas); alinhado com LS/Whitaker/Lat→Deu. | [dedupe] redirect → chunk_21940:21940:0 | [dedupe] redirect → chunk_21940:21940:0",
-    "raw_text": "{\"id\":\"chunk_21941:21941:0\",\"lemas\":[\"praecipio\"],\"lema_canonico\":\"praecipio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"praecipio, praecipere, praecepi, praeceptum: 1) tomar/obter antecipadamente; 2) ensinar, instruir; 3) prescrever, ordenar.\",\"aliases\":[],\"exemplos\":[\"Ov. Her. 20, 143\",\"Cic. Verr. 4, 80\",\"Plin. Ep. 5, 20, 8\"],\"notas\":\"Entrada corrigida de OCR (primeira passada apresentava 'praecēro' com formas erradas); alinhado com LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21941:21941:0\",\"lemas\":[\"praecipio\"],\"lema_canonico\":\"praecipio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"praecipio, praecipere, praecepi, praeceptum: 1) tomar/obter antecipadamente; 2) ensinar, instruir; 3) prescrever, ordenar.\",\"aliases\":[],\"exemplos\":[\"Ov. Her. 20, 143\",\"Cic. Verr. 4, 80\",\"Plin. Ep. 5, 20, 8\"],\"notas\":\"Entrada corrigida de OCR (primeira passada apresentava 'praecēro' com formas erradas); alinhado com LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_21942-e1",
@@ -3962,28 +2818,6 @@
     "raw_json": "{\"id\":\"chunk_21948:21948:0\",\"lemas\":[\"praecingere\"],\"lema_canonico\":\"praecingere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Perfeito praecinxi de praecingere: cingi, obrigar-se; cercar, cingir; (fig.) preparar, envolver.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Correlacionado ao paradigma praecingere, praecinxi, praecinctum; entrada original abreviada expandida.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_21948-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_21948",
-    "page_num": 21948,
-    "lemmas": [
-      "praeceps",
-      "praeceps"
-    ],
-    "morfologia": "adj. (3) 1T",
-    "morph_render": "adj. (3) 1T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Headlong; steep, precipitous. Como adv.: headlong, precipitously. Subst. neutro: precipício, grande perigo, situação perigosa.",
-    "exemplos": [],
-    "notas": "Mantida variante rara 'praecepīvēs' como registrada; entradas unificadas sob o lema praeceps. | [dedupe] redirect → chunk_21931:21931:0 | [dedupe] redirect → chunk_21931:21931:0",
-    "raw_text": "{\"id\":\"chunk_21948:21948:1\",\"lemas\":[\"praeceps\"],\"lema_canonico\":\"praeceps\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[],\"definicao\":\"Headlong; steep, precipitous. Como adv.: headlong, precipitously. Subst. neutro: precipício, grande perigo, situação perigosa.\",\"aliases\":[\"praecepīvēs\"],\"exemplos\":[\"Plaut. Rud. 671\"],\"notas\":\"Mantida variante rara 'praecepīvēs' como registrada; entradas unificadas sob o lema praeceps.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21948:21948:1\",\"lemas\":[\"praeceps\"],\"lema_canonico\":\"praeceps\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[],\"definicao\":\"Headlong; steep, precipitous. Como adv.: headlong, precipitously. Subst. neutro: precipício, grande perigo, situação perigosa.\",\"aliases\":[\"praecepīvēs\"],\"exemplos\":[\"Plaut. Rud. 671\"],\"notas\":\"Mantida variante rara 'praecepīvēs' como registrada; entradas unificadas sob o lema praeceps.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_21949-e1",
     "volume_id": "faria",
     "doc_name": "chunk_21949",
@@ -4026,28 +2860,6 @@
     "notas": "Registro substantivado do particípio presente; exemplo atestado em Quintiliano. Grafia do Faria padronizada.",
     "raw_text": "{\"id\":\"chunk_21949:21949:1\",\"lemas\":[\"praecipiens\"],\"lema_canonico\":\"praecipiens\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"substantivo (pl.) usado por Quintiliano: 'os mestres' (forma atestada praeceptīvēs/-ium).\",\"aliases\":[],\"exemplos\":[\"Quint. Inst. 2, 3, 5\"],\"notas\":\"Registro substantivado do particípio presente; exemplo atestado em Quintiliano. Grafia do Faria padronizada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_21949:21949:1\",\"lemas\":[\"praecipiens\"],\"lema_canonico\":\"praecipiens\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"substantivo (pl.) usado por Quintiliano: 'os mestres' (forma atestada praeceptīvēs/-ium).\",\"aliases\":[],\"exemplos\":[\"Quint. Inst. 2, 3, 5\"],\"notas\":\"Registro substantivado do particípio presente; exemplo atestado em Quintiliano. Grafia do Faria padronizada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_21950-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21950",
-    "page_num": 21950,
-    "lemmas": [
-      "prae-cĭpĭo",
-      "prae-cĭpĭo"
-    ],
-    "morfologia": "v. 3ª -iō (-ere)",
-    "morph_render": "v. 3ª -iō (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Tomar de antemão; prescrever, recomendar; compreender previamente, adivinhar; ensinar, instruir.",
-    "exemplos": [],
-    "notas": "Paradigma regularizado para praecipiō, praecipere, praecēpī, praeceptum. | [dedupe] redirect → chunk_21940:21940:0 | [dedupe] redirect → chunk_21940:21940:0 | [ocr_fix 2025-08-17T19:59:41Z] match direto em LS por lemma/lemma_norm | lemma_in='praecipio' → 'prae-cĭpĭo'",
-    "raw_text": "{\"id\":\"chunk_21950:21950:0\",\"lemas\":[\"praecipio\"],\"lema_canonico\":\"praecipio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[],\"definicao\":\"Tomar de antemão; prescrever, recomendar; compreender previamente, adivinhar; ensinar, instruir.\",\"aliases\":[],\"exemplos\":[\"Cés. B. Civ. 3, 31, 27\",\"T. Liv. 1, 7, 11\",\"Cic. Mur. 4\",\"Cic. Fam. 1, 8, 2\",\"Cic. Ac. 1, 10, 2\",\"Cic. De Or. 2, 4\"],\"notas\":\"Paradigma regularizado para praecipiō, praecipere, praecēpī, praeceptum.\",\"flags\":[\"src_latdeu\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_21950:21950:0\",\"lemas\":[\"praecipio\"],\"lema_canonico\":\"praecipio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[],\"definicao\":\"Tomar de antemão; prescrever, recomendar; compreender previamente, adivinhar; ensinar, instruir.\",\"aliases\":[],\"exemplos\":[\"Cés. B. Civ. 3, 31, 27\",\"T. Liv. 1, 7, 11\",\"Cic. Mur. 4\",\"Cic. Fam. 1, 8, 2\",\"Cic. Ac. 1, 10, 2\",\"Cic. De Or. 2, 4\"],\"notas\":\"Paradigma regularizado para praecipiō, praecipere, praecēpī, praeceptum.\",\"flags\":[\"src_latdeu\",\"conf:med\"]}"
   },
   {
     "id": "chunk_21951-e1",
@@ -4204,28 +3016,6 @@
     "raw_json": "{\"id\":\"chunk_21957:21957:0\",\"lemas\":[\"praecipito\",\"praecipitare\"],\"lema_canonico\":\"praecipito\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"tr.\",\"intr.\"],\"definicao\":\"Precipitar; lançar de cima para baixo; também precipitar-se, cair; transitivo e intransitivo.\",\"aliases\":[],\"exemplos\":[\"Caes. B. Gall. 4, 15, 2\",\"Cic. Fin. 5, 31\",\"Ov. Trist. 1, 3, 47\"],\"notas\":\"Unificado para o infinitivo da 1ª conjugação (praecipitare) e indicado uso tr./intr.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_21958-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21958",
-    "page_num": 21958,
-    "lemmas": [
-      "praecipio",
-      "praecipio"
-    ],
-    "morfologia": "v. 3ª -iō (-ere)",
-    "morph_render": "v. 3ª -iō (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "tomar ou receber antecipadamente; antecipar; avisar; ordenar; ensinar; fazer precipitar",
-    "exemplos": [],
-    "notas": "Verbos: praecipiō, praecipere, praecepi, praeceptum (LS/Lat→Deu). | [dedupe] redirect → chunk_21940:21940:0 | [dedupe] redirect → chunk_21940:21940:0",
-    "raw_text": "{\"id\":\"chunk_21958:21958:2\",\"lemas\":[\"praecipio\"],\"lema_canonico\":\"praecipio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[],\"definicao\":\"tomar ou receber antecipadamente; antecipar; avisar; ordenar; ensinar; fazer precipitar\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Verbos: praecipiō, praecipere, praecepi, praeceptum (LS/Lat→Deu).\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21958:21958:2\",\"lemas\":[\"praecipio\"],\"lema_canonico\":\"praecipio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[],\"definicao\":\"tomar ou receber antecipadamente; antecipar; avisar; ordenar; ensinar; fazer precipitar\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Verbos: praecipiō, praecipere, praecepi, praeceptum (LS/Lat→Deu).\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_21958-e2",
     "volume_id": "faria",
     "doc_name": "chunk_21958",
@@ -4246,28 +3036,6 @@
     "notas": "Uniformizado a partir do OCR; confirmado por Whitaker como advérbio relacionado a praeceps/praecipitus.",
     "raw_text": "{\"id\":\"chunk_21958:21958:0\",\"lemas\":[\"praecipite\",\"praecipitē\"],\"lema_canonico\":\"praecipite\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"Advérbio: 'de modo precipitado, precipitosamente; sobretudo, principalmente; de cabeça (headlong)'.\",\"aliases\":[],\"exemplos\":[\"Cic. Cat. 3, 21\"],\"notas\":\"Uniformizado a partir do OCR; confirmado por Whitaker como advérbio relacionado a praeceps/praecipitus.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_21958:21958:0\",\"lemas\":[\"praecipite\",\"praecipitē\"],\"lema_canonico\":\"praecipite\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"Advérbio: 'de modo precipitado, precipitosamente; sobretudo, principalmente; de cabeça (headlong)'.\",\"aliases\":[],\"exemplos\":[\"Cic. Cat. 3, 21\"],\"notas\":\"Uniformizado a partir do OCR; confirmado por Whitaker como advérbio relacionado a praeceps/praecipitus.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_21958-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_21958",
-    "page_num": 21958,
-    "lemmas": [
-      "praeceps",
-      "praeceps"
-    ],
-    "morfologia": "adj. (3) 1T",
-    "morph_render": "adj. (3) 1T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Adjetivo (e substantivo): 'de cabeça para baixo; de cabeça primeiro; precipitous, steep, abrupt; subst.: borda do abismo, grande perigo'.",
-    "exemplos": [],
-    "notas": "Entrada unificada a partir de Whitaker e Lewis & Short; inclui uso adjetival e substantival. | [dedupe] redirect → chunk_21931:21931:0 | [dedupe] redirect → chunk_21931:21931:0",
-    "raw_text": "{\"id\":\"chunk_21958:21958:1\",\"lemas\":[\"praeceps\",\"praecipitis\"],\"lema_canonico\":\"praeceps\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[],\"definicao\":\"Adjetivo (e substantivo): 'de cabeça para baixo; de cabeça primeiro; precipitous, steep, abrupt; subst.: borda do abismo, grande perigo'.\",\"aliases\":[],\"exemplos\":[\"Plaut. Ps. 1, 5, 79\",\"Cic. Verr. 2, 4, 40\",\"Ov. Met. 12, 128\",\"Hor. S. 1, 2, 41\"],\"notas\":\"Entrada unificada a partir de Whitaker e Lewis & Short; inclui uso adjetival e substantival.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21958:21958:1\",\"lemas\":[\"praeceps\",\"praecipitis\"],\"lema_canonico\":\"praeceps\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[],\"definicao\":\"Adjetivo (e substantivo): 'de cabeça para baixo; de cabeça primeiro; precipitous, steep, abrupt; subst.: borda do abismo, grande perigo'.\",\"aliases\":[],\"exemplos\":[\"Plaut. Ps. 1, 5, 79\",\"Cic. Verr. 2, 4, 40\",\"Ov. Met. 12, 128\",\"Hor. S. 1, 2, 41\"],\"notas\":\"Entrada unificada a partir de Whitaker e Lewis & Short; inclui uso adjetival e substantival.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_21959-e1",
@@ -4334,28 +3102,6 @@
     "notas": "Entrada baseada na primeira passada e no OCR; equivalência a formas listadas em referência incerta — requer verificação em dicionários principais.",
     "raw_text": "{\"id\":\"chunk_21961:21961:0\",\"lemas\":[\"precisē\"],\"lema_canonico\":\"precisē\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"(Advérbio) brevemente; de modo conciso; também 'decisivamente' em contextos especializados (citações atribuídas a Cícero).\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 2, 73\",\"Cic. Att. 8, 4, 2\"],\"notas\":\"Entrada baseada na primeira passada e no OCR; equivalência a formas listadas em referência incerta — requer verificação em dicionários principais.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_21961:21961:0\",\"lemas\":[\"precisē\"],\"lema_canonico\":\"precisē\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"(Advérbio) brevemente; de modo conciso; também 'decisivamente' em contextos especializados (citações atribuídas a Cícero).\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 2, 73\",\"Cic. Att. 8, 4, 2\"],\"notas\":\"Entrada baseada na primeira passada e no OCR; equivalência a formas listadas em referência incerta — requer verificação em dicionários principais.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_21962-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21962",
-    "page_num": 21962,
-    "lemmas": [
-      "praecisus",
-      "praecisus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "cortado, abrupto; preciso, conciso (adj.); particípio perfeito passivo de praecido",
-    "exemplos": [],
-    "notas": "Reconhecida dupla função (adj. e part. perf. pass.); marcadores confirmados (LS/Whitaker). | [dedupe] redirect → chunk_21966:21966:0 | [dedupe] redirect → chunk_21966:21966:0",
-    "raw_text": "{\"id\":\"chunk_21962:21962:0\",\"lemas\":[\"praecisus\"],\"lema_canonico\":\"praecisus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"cortado, abrupto; preciso, conciso (adj.); particípio perfeito passivo de praecido\",\"aliases\":[],\"exemplos\":[\"Verg. En. 8, 233\",\"Quint. 10, 2, 17\",\"Cic. De Or. 3, 193\"],\"notas\":\"Reconhecida dupla função (adj. e part. perf. pass.); marcadores confirmados (LS/Whitaker).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21962:21962:0\",\"lemas\":[\"praecisus\"],\"lema_canonico\":\"praecisus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"cortado, abrupto; preciso, conciso (adj.); particípio perfeito passivo de praecido\",\"aliases\":[],\"exemplos\":[\"Verg. En. 8, 233\",\"Quint. 10, 2, 17\",\"Cic. De Or. 3, 193\"],\"notas\":\"Reconhecida dupla função (adj. e part. perf. pass.); marcadores confirmados (LS/Whitaker).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_21963-e1",
@@ -4444,28 +3190,6 @@
     "notas": "Unido sentido particípio/adjetivo (LS + Whitaker). Grafia longa indicada (praecīsus).",
     "raw_text": "{\"id\":\"chunk_21966:21966:0\",\"lemas\":[\"praecisus\",\"praecīsus\"],\"lema_canonico\":\"praecisus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo/adjetivo: 'cortado pela frente; abreviado; abrupto, precipitous, truncado'. Deriva de praecīdō (praecīdĕre).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Unido sentido particípio/adjetivo (LS + Whitaker). Grafia longa indicada (praecīsus).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_21966:21966:0\",\"lemas\":[\"praecisus\",\"praecīsus\"],\"lema_canonico\":\"praecisus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo/adjetivo: 'cortado pela frente; abreviado; abrupto, precipitous, truncado'. Deriva de praecīdō (praecīdĕre).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Unido sentido particípio/adjetivo (LS + Whitaker). Grafia longa indicada (praecīsus).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_21967-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21967",
-    "page_num": 21967,
-    "lemmas": [
-      "praecīsus",
-      "praecīsus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Particípio perfeito passivo atribuído a 'praecido'/'praecīdō' (cortar, separar antes): 'cortado antes', 'separado previamente'.",
-    "exemplos": [],
-    "notas": "Forma e base verbal não confirmadas em fontes padrão; conservada a grafia do rascunho OCR; verificar praecīdō/praecidō em dicionários.\n[ocr_pipeline 2025-08-16T23:21:06.487720Z] lemma_in='praecissus' → 'praecīsus' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:19:34Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='praecīsus' → 'praecīsus' | [dedupe] redirect → chunk_21966:21966:0 | [dedupe] redirect → chunk_21966:21966:0",
-    "raw_text": "{\"id\":\"chunk_21967:21967:0\",\"lemas\":[\"praecissus\",\"praecīssus\"],\"lema_canonico\":\"praecissus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo atribuído a 'praecido'/'praecīdō' (cortar, separar antes): 'cortado antes', 'separado previamente'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma e base verbal não confirmadas em fontes padrão; conservada a grafia do rascunho OCR; verificar praecīdō/praecidō em dicionários.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_21967:21967:0\",\"lemas\":[\"praecissus\",\"praecīssus\"],\"lema_canonico\":\"praecissus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo atribuído a 'praecido'/'praecīdō' (cortar, separar antes): 'cortado antes', 'separado previamente'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma e base verbal não confirmadas em fontes padrão; conservada a grafia do rascunho OCR; verificar praecīdō/praecidō em dicionários.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
     "id": "chunk_21968-e1",
@@ -4822,50 +3546,6 @@
     "raw_json": "{\"id\":\"chunk_21983:21983:0\",\"lemas\":[\"praecorrumpo\",\"praecorrumpere\",\"praecorrupi\",\"praecorruptum\"],\"lema_canonico\":\"praecorrumpo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"corromper antecipadamente; seduzir\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 9, 295\"],\"notas\":\"\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_21984-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21984",
-    "page_num": 21984,
-    "lemmas": [
-      "praecox",
-      "praecox"
-    ],
-    "morfologia": "adj. (3) 3T",
-    "morph_render": "adj. (3) 3T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "precoce; prematuro; aplicado a frutos, plantas e sentido figurado (ex.: Plin. H. Nat.; Sen. Brev.).",
-    "exemplos": [],
-    "notas": "Corrigido de 'praecoxī' (OCR/first_pass) para lemma clássico 'praecox'. | [dedupe] redirect → chunk_21969:21969:0 | [dedupe] redirect → chunk_21969:21969:0 | [ocr_fix 2025-08-17T19:54:30Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='praecox' → 'praecox'",
-    "raw_text": "{\"id\":\"chunk_21984:21984:1\",\"lemas\":[\"praecox\"],\"lema_canonico\":\"praecox\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"precoce; prematuro; aplicado a frutos, plantas e sentido figurado (ex.: Plin. H. Nat.; Sen. Brev.).\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 19, 112\",\"Sen. Brev. 6, 2\"],\"notas\":\"Corrigido de 'praecoxī' (OCR/first_pass) para lemma clássico 'praecox'.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"src_ocr\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_21984:21984:1\",\"lemas\":[\"praecox\"],\"lema_canonico\":\"praecox\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"precoce; prematuro; aplicado a frutos, plantas e sentido figurado (ex.: Plin. H. Nat.; Sen. Brev.).\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 19, 112\",\"Sen. Brev. 6, 2\"],\"notas\":\"Corrigido de 'praecoxī' (OCR/first_pass) para lemma clássico 'praecox'.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"src_ocr\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_21984-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_21984",
-    "page_num": 21984,
-    "lemmas": [
-      "praecox",
-      "praecox"
-    ],
-    "morfologia": "adj. (3) 1T",
-    "morph_render": "adj. (3) 1T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "que amadurece ou ocorre antes do tempo; precoce, prematuro (tanto literal sobre plantas/frutos quanto figurado).",
-    "exemplos": [],
-    "notas": "Conferido com Lewis & Short e Whitaker; grafia e sentido alinhados com as fontes. | [dedupe] redirect → chunk_21969:21969:0 | [dedupe] redirect → chunk_21969:21969:0",
-    "raw_text": "{\"id\":\"chunk_21984:21984:0\",\"lemas\":[\"praecox\"],\"lema_canonico\":\"praecox\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[],\"definicao\":\"que amadurece ou ocorre antes do tempo; precoce, prematuro (tanto literal sobre plantas/frutos quanto figurado).\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 19, 112\",\"Sen. Brev. Vit. 6, 2\"],\"notas\":\"Conferido com Lewis & Short e Whitaker; grafia e sentido alinhados com as fontes.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21984:21984:0\",\"lemas\":[\"praecox\"],\"lema_canonico\":\"praecox\",\"morfologia\":\"adj. (3) 1T\",\"morph_extra\":[],\"definicao\":\"que amadurece ou ocorre antes do tempo; precoce, prematuro (tanto literal sobre plantas/frutos quanto figurado).\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 19, 112\",\"Sen. Brev. Vit. 6, 2\"],\"notas\":\"Conferido com Lewis & Short e Whitaker; grafia e sentido alinhados com as fontes.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_21985-e1",
     "volume_id": "faria",
     "doc_name": "chunk_21985",
@@ -4886,28 +3566,6 @@
     "notas": "Forma composta não confirmada em LS/Whitaker; retida da primeira passada — requer revisão lexicográfica",
     "raw_text": "{\"id\":\"chunk_21985:21985:0\",\"lemas\":[\"praecarissimus\"],\"lema_canonico\":\"praecarissimus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"muito caro; muito estimado (atestado em Plin. H. Nat. 16, 34 segundo a primeira passada)\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 16, 34\"],\"notas\":\"Forma composta não confirmada em LS/Whitaker; retida da primeira passada — requer revisão lexicográfica\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_21985:21985:0\",\"lemas\":[\"praecarissimus\"],\"lema_canonico\":\"praecarissimus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"muito caro; muito estimado (atestado em Plin. H. Nat. 16, 34 segundo a primeira passada)\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 16, 34\"],\"notas\":\"Forma composta não confirmada em LS/Whitaker; retida da primeira passada — requer revisão lexicográfica\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_21986-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21986",
-    "page_num": 21986,
-    "lemmas": [
-      "praecurrō",
-      "praecurrō"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "forma do perfeito indicativo ativo, 1ª pessoa singular de praecurrō (praecurrere): 'corri à frente, fui antes, antecedi'",
-    "exemplos": [],
-    "notas": "Normalizado o lema para praecurrō; formas perfeitas mantidas em aliases. | [dedupe] redirect → chunk_21990:21990:1 | [dedupe] redirect → chunk_21990:21990:1",
-    "raw_text": "{\"id\":\"chunk_21986:21986:0\",\"lemas\":[\"praecurrō\",\"praecurro\"],\"lema_canonico\":\"praecurrō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"forma do perfeito indicativo ativo, 1ª pessoa singular de praecurrō (praecurrere): 'corri à frente, fui antes, antecedi'\",\"aliases\":[\"praecucurri\",\"praecurrī\"],\"exemplos\":[],\"notas\":\"Normalizado o lema para praecurrō; formas perfeitas mantidas em aliases.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_21986:21986:0\",\"lemas\":[\"praecurrō\",\"praecurro\"],\"lema_canonico\":\"praecurrō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"forma do perfeito indicativo ativo, 1ª pessoa singular de praecurrō (praecurrere): 'corri à frente, fui antes, antecedi'\",\"aliases\":[\"praecucurri\",\"praecurrī\"],\"exemplos\":[],\"notas\":\"Normalizado o lema para praecurrō; formas perfeitas mantidas em aliases.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
   },
   {
     "id": "chunk_21987-e1",
@@ -4974,28 +3632,6 @@
     "notas": "Particípio presente tratado como forma adjectival; morfologia não cabe exatamente no vocabulário pedido → morph_out_of_vocab sinalizado.",
     "raw_text": "{\"id\":\"chunk_21989:21989:0\",\"lemas\":[\"praecurrens\"],\"lema_canonico\":\"praecurrens\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[\"part. pres.\"],\"definicao\":\"praecurrēns (part. prēsentis de praecurrō): que corre adiante, que precede; como subst.: (pl. neutro) os antecedentes, o que precede.\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 2, 166\"],\"notas\":\"Particípio presente tratado como forma adjectival; morfologia não cabe exatamente no vocabulário pedido → morph_out_of_vocab sinalizado.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\",\"morph_out_of_vocab\"]}",
     "raw_json": "{\"id\":\"chunk_21989:21989:0\",\"lemas\":[\"praecurrens\"],\"lema_canonico\":\"praecurrens\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[\"part. pres.\"],\"definicao\":\"praecurrēns (part. prēsentis de praecurrō): que corre adiante, que precede; como subst.: (pl. neutro) os antecedentes, o que precede.\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 2, 166\"],\"notas\":\"Particípio presente tratado como forma adjectival; morfologia não cabe exatamente no vocabulário pedido → morph_out_of_vocab sinalizado.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\",\"morph_out_of_vocab\"]}"
-  },
-  {
-    "id": "chunk_21990-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21990",
-    "page_num": 21990,
-    "lemmas": [
-      "prae-curro",
-      "prae-curro"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Forma perfeita: praecurrī = perfeito de praecurro (praecurro: correr na frente; preceder, antecipar; prevenir; ultrapassar).",
-    "exemplos": [],
-    "notas": "Registro como forma perfeita; entrada convertida para o lema verbale praecurro. | [dedupe] redirect → chunk_21990:21990:1 | [dedupe] redirect → chunk_21990:21990:1 | [ocr_fix 2025-08-17T19:59:41Z] match direto em LS por lemma/lemma_norm | lemma_in='praecurro' → 'prae-curro'",
-    "raw_text": "{\"id\":\"chunk_21990:21990:0\",\"lemas\":[\"praecurro\"],\"lema_canonico\":\"praecurro\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Forma perfeita: praecurrī = perfeito de praecurro (praecurro: correr na frente; preceder, antecipar; prevenir; ultrapassar).\",\"aliases\":[\"praecurrī\"],\"exemplos\":[],\"notas\":\"Registro como forma perfeita; entrada convertida para o lema verbale praecurro.\",\"flags\":[\"src_latdeu\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_21990:21990:0\",\"lemas\":[\"praecurro\"],\"lema_canonico\":\"praecurro\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Forma perfeita: praecurrī = perfeito de praecurro (praecurro: correr na frente; preceder, antecipar; prevenir; ultrapassar).\",\"aliases\":[\"praecurrī\"],\"exemplos\":[],\"notas\":\"Registro como forma perfeita; entrada convertida para o lema verbale praecurro.\",\"flags\":[\"src_latdeu\",\"conf:med\"]}"
   },
   {
     "id": "chunk_21990-e2",
@@ -5084,28 +3720,6 @@
     "notas": "Entrada cobre tanto o particípio/adjetivo como o substantivo de 4ª declinação; morfologia primária indicada como substantivo (vocab. limitado).",
     "raw_text": "{\"id\":\"chunk_21993:21993:0\",\"lemas\":[\"praecursus\",\"praecursa\",\"praecursum\"],\"lema_canonico\":\"praecursus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"1) particípio passado de praecurrō, usado adjetivalmente (a, um) 'que correu antes, precedente'; 2) subst. m. praecursus, -ūs: 'o que vem antes, precedência, antecipação' (uso posterior)\",\"aliases\":[],\"exemplos\":[\"Plin. 16, 25, 42, §104\",\"Ambros. in Luc. 5, 109\"],\"notas\":\"Entrada cobre tanto o particípio/adjetivo como o substantivo de 4ª declinação; morfologia primária indicada como substantivo (vocab. limitado).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}",
     "raw_json": "{\"id\":\"chunk_21993:21993:0\",\"lemas\":[\"praecursus\",\"praecursa\",\"praecursum\"],\"lema_canonico\":\"praecursus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"1) particípio passado de praecurrō, usado adjetivalmente (a, um) 'que correu antes, precedente'; 2) subst. m. praecursus, -ūs: 'o que vem antes, precedência, antecipação' (uso posterior)\",\"aliases\":[],\"exemplos\":[\"Plin. 16, 25, 42, §104\",\"Ambros. in Luc. 5, 109\"],\"notas\":\"Entrada cobre tanto o particípio/adjetivo como o substantivo de 4ª declinação; morfologia primária indicada como substantivo (vocab. limitado).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}"
-  },
-  {
-    "id": "chunk_21994-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_21994",
-    "page_num": 21994,
-    "lemmas": [
-      "prae-cŭtĭo",
-      "prae-cŭtĭo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "To shake before, brandish, wave forward; (pass.) to be shaken or brandished.",
-    "exemplos": [],
-    "notas": "Praecussi = 1st sg. perf. indic. act.; praecussus = sup./part. perf. pass.; alinhado com Whitaker's Words. | [dedupe] redirect → chunk_21995:21995:0 | [dedupe] redirect → chunk_21995:21995:0 | [ocr_fix 2025-08-17T19:53:27Z] match direto em LS por lemma/lemma_norm | lemma_in='praecutio' → 'prae-cŭtĭo'",
-    "raw_text": "{\"id\":\"chunk_21994:21994:0\",\"lemas\":[\"praecutio\",\"praecutere\",\"praecussi\",\"praecussus\"],\"lema_canonico\":\"praecutio\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"To shake before, brandish, wave forward; (pass.) to be shaken or brandished.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Praecussi = 1st sg. perf. indic. act.; praecussus = sup./part. perf. pass.; alinhado com Whitaker's Words.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_21994:21994:0\",\"lemas\":[\"praecutio\",\"praecutere\",\"praecussi\",\"praecussus\"],\"lema_canonico\":\"praecutio\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"To shake before, brandish, wave forward; (pass.) to be shaken or brandished.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Praecussi = 1st sg. perf. indic. act.; praecussus = sup./part. perf. pass.; alinhado com Whitaker's Words.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
     "id": "chunk_21995-e1",

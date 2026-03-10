@@ -44,28 +44,6 @@
     "raw_json": "{\"id\":\"chunk_25001:25001:0\",\"lemas\":[\"salsamentum\",\"salsamenta\"],\"lema_canonico\":\"salsamentum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"peixe salgado; salmoura; geralmente usado no plural para 'peixes salgados' (fish-pickle, brine).\",\"aliases\":[],\"exemplos\":[\"Varr. R. Rust. 3, 17, 7\",\"Cic. Div. 2, 57, 117\",\"Ter. Ad. 3, 3, 26\",\"Col. 8, 17, 12\",\"Plin. 32, 2, 9\",\"Plin. 32, 7, 26\",\"Plin. 32, 9, 34\",\"Col. 12, 55, 4\",\"Gell. 2, 24, 7\"],\"notas\":\"Normalizado para forma neutra salsamentum; plural salsamenta mantido.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_25002-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_25002",
-    "page_num": 25002,
-    "lemmas": [
-      "sal",
-      "sal"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Sal (subst.); por extensão: acuidade, espírito, sagacidade (sentido figurado).",
-    "exemplos": [],
-    "notas": "Corrigido para o lema clássico 'sal, salis' e sentido figurado confirmado por LS. | [dedupe] redirect → chunk_24940:24940:0 | [dedupe] redirect → chunk_24940:24940:0",
-    "raw_text": "{\"id\":\"chunk_25002:25002:0\",\"lemas\":[\"sal\",\"sāl\"],\"lema_canonico\":\"sal\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Sal (subst.); por extensão: acuidade, espírito, sagacidade (sentido figurado).\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 2, 275\",\"Enn. ap. Gell. 2, 26\"],\"notas\":\"Corrigido para o lema clássico 'sal, salis' e sentido figurado confirmado por LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_25002:25002:0\",\"lemas\":[\"sal\",\"sāl\"],\"lema_canonico\":\"sal\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Sal (subst.); por extensão: acuidade, espírito, sagacidade (sentido figurado).\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 2, 275\",\"Enn. ap. Gell. 2, 26\"],\"notas\":\"Corrigido para o lema clássico 'sal, salis' e sentido figurado confirmado por LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_25003-e1",
     "volume_id": "faria",
     "doc_name": "chunk_25003",
@@ -108,28 +86,6 @@
     "notas": "Unificado com grafia clássica; sentidos confirmados por LS e Whitaker e Lat→Deu. | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='salsura' → 'salsūra'",
     "raw_text": "{\"id\":\"chunk_25004:25004:0\",\"lemas\":[\"salsura\",\"salsūra\"],\"lema_canonico\":\"salsura\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"salga, salmoura; conserva em sal; figurado: mau-humor, aspereza; também: peixe conservado em sal\",\"aliases\":[],\"exemplos\":[\"Varr. R. R. 2, 4, 18\",\"Col. 12, 48, 5\",\"Col. 8, 17, 13\",\"Plaut. Stich. 1, 2, 35\"],\"notas\":\"Unificado com grafia clássica; sentidos confirmados por LS e Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_25004:25004:0\",\"lemas\":[\"salsura\",\"salsūra\"],\"lema_canonico\":\"salsura\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"salga, salmoura; conserva em sal; figurado: mau-humor, aspereza; também: peixe conservado em sal\",\"aliases\":[],\"exemplos\":[\"Varr. R. R. 2, 4, 18\",\"Col. 12, 48, 5\",\"Col. 8, 17, 13\",\"Plaut. Stich. 1, 2, 35\"],\"notas\":\"Unificado com grafia clássica; sentidos confirmados por LS e Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_25005-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_25005",
-    "page_num": 25005,
-    "lemmas": [
-      "salsus",
-      "salsus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Não é particípio futuro de *sallō; correto: particípio perfeito de saliō/ saliō (saltare, saltāre) ou adjetivo 'salgado, salino; espirituoso'.",
-    "exemplos": [],
-    "notas": "Primeira passada registrou 'part. fut. de sallo' (OCR/erro). Corrigido conforme LS/Whitaker. | [dedupe] redirect → chunk_25006:25006:0 | [dedupe] redirect → chunk_25006:25006:0",
-    "raw_text": "{\"id\":\"chunk_25005:25005:0\",\"lemas\":[\"salsus\",\"salsa\",\"salsum\"],\"lema_canonico\":\"salsus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Não é particípio futuro de *sallō; correto: particípio perfeito de saliō/ saliō (saltare, saltāre) ou adjetivo 'salgado, salino; espirituoso'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Primeira passada registrou 'part. fut. de sallo' (OCR/erro). Corrigido conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_25005:25005:0\",\"lemas\":[\"salsus\",\"salsa\",\"salsum\"],\"lema_canonico\":\"salsus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Não é particípio futuro de *sallō; correto: particípio perfeito de saliō/ saliō (saltare, saltāre) ou adjetivo 'salgado, salino; espirituoso'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Primeira passada registrou 'part. fut. de sallo' (OCR/erro). Corrigido conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_25006-e1",
@@ -330,72 +286,6 @@
     "raw_json": "{\"id\":\"chunk_25013:25013:1\",\"lemas\":[\"saltare\",\"saltāre\"],\"lema_canonico\":\"saltāre\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"dançar, saltar; também representar por dança.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma e significados alinhados com Lat→Deu e Whitaker (saltāre, saltāvī, saltātum).\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_25013-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_25013",
-    "page_num": 25013,
-    "lemmas": [
-      "saltem",
-      "saltem"
-    ],
-    "morfologia": "adv.",
-    "morph_render": "adv.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "ao menos, pelo menos; usado como partícula restritiva (variante gráfica saltern encontrada em fontes).",
-    "exemplos": [],
-    "notas": "'Saltern' tratado como variante gráfica/ortográfica de saltem; preferido saltem como forma canónica. | [dedupe] redirect → chunk_25013:25013:0 | [dedupe] redirect → chunk_25013:25013:0",
-    "raw_text": "{\"id\":\"chunk_25013:25013:2\",\"lemas\":[\"saltern\",\"saltem\"],\"lema_canonico\":\"saltem\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"ao menos, pelo menos; usado como partícula restritiva (variante gráfica saltern encontrada em fontes).\",\"aliases\":[\"saltern\"],\"exemplos\":[\"Cic. Fam. 12, 23, 3\"],\"notas\":\"'Saltern' tratado como variante gráfica/ortográfica de saltem; preferido saltem como forma canónica.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_25013:25013:2\",\"lemas\":[\"saltern\",\"saltem\"],\"lema_canonico\":\"saltem\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"ao menos, pelo menos; usado como partícula restritiva (variante gráfica saltern encontrada em fontes).\",\"aliases\":[\"saltern\"],\"exemplos\":[\"Cic. Fam. 12, 23, 3\"],\"notas\":\"'Saltern' tratado como variante gráfica/ortográfica de saltem; preferido saltem como forma canónica.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_25014-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_25014",
-    "page_num": 25014,
-    "lemmas": [
-      "saltus",
-      "saltus"
-    ],
-    "morfologia": "s. masc. 4ª (-us)",
-    "morph_render": "s. masc. 4ª (-us)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "salto; desfiladeiro, passagem arborizada; pasto silvestre; (lat.) salto, bosque, passagem; substantivo de 4ª declinação.",
-    "exemplos": [],
-    "notas": "Corrigido a partir da forma abreviada 'salt' (OCR); normalizado para saltus, gen. saltūs/​saltus. | [dedupe] redirect → chunk_25018:25018:0 | [dedupe] redirect → chunk_25018:25018:0",
-    "raw_text": "{\"id\":\"chunk_25014:25014:0\",\"lemas\":[\"saltus\"],\"lema_canonico\":\"saltus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"salto; desfiladeiro, passagem arborizada; pasto silvestre; (lat.) salto, bosque, passagem; substantivo de 4ª declinação.\",\"aliases\":[\"salt\"],\"exemplos\":[],\"notas\":\"Corrigido a partir da forma abreviada 'salt' (OCR); normalizado para saltus, gen. saltūs/​saltus.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_25014:25014:0\",\"lemas\":[\"saltus\"],\"lema_canonico\":\"saltus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"salto; desfiladeiro, passagem arborizada; pasto silvestre; (lat.) salto, bosque, passagem; substantivo de 4ª declinação.\",\"aliases\":[\"salt\"],\"exemplos\":[],\"notas\":\"Corrigido a partir da forma abreviada 'salt' (OCR); normalizado para saltus, gen. saltūs/​saltus.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_25015-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_25015",
-    "page_num": 25015,
-    "lemmas": [
-      "salto",
-      "salto"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "verbo frequente (de saltare/salire): 1) intr. Saltar, pular; mover-se com saltos; atuar por gestos/pantomima (ex.: Cic. Pis.). 2) tr. Representar por dança ou pantomima.",
-    "exemplos": [],
-    "notas": "Normalizado para forma do infinitivo saltare; entrada tratada como verbo de 1ª conjugação conforme Whitaker/Lat→Deu; supino/part. não listados aqui. | [dedupe] redirect → chunk_27066:27066:1 | [dedupe] redirect → chunk_27066:27066:1",
-    "raw_text": "{\"id\":\"chunk_25015:25015:0\",\"lemas\":[\"salto\",\"saltare\"],\"lema_canonico\":\"salto\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"verbo frequente (de saltare/salire): 1) intr. Saltar, pular; mover-se com saltos; atuar por gestos/pantomima (ex.: Cic. Pis.). 2) tr. Representar por dança ou pantomima.\",\"aliases\":[],\"exemplos\":[\"Cic. Pis. 22\",\"Ov. Am. 1, 501\"],\"notas\":\"Normalizado para forma do infinitivo saltare; entrada tratada como verbo de 1ª conjugação conforme Whitaker/Lat→Deu; supino/part. não listados aqui.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_25015:25015:0\",\"lemas\":[\"salto\",\"saltare\"],\"lema_canonico\":\"salto\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"verbo frequente (de saltare/salire): 1) intr. Saltar, pular; mover-se com saltos; atuar por gestos/pantomima (ex.: Cic. Pis.). 2) tr. Representar por dança ou pantomima.\",\"aliases\":[],\"exemplos\":[\"Cic. Pis. 22\",\"Ov. Am. 1, 501\"],\"notas\":\"Normalizado para forma do infinitivo saltare; entrada tratada como verbo de 1ª conjugação conforme Whitaker/Lat→Deu; supino/part. não listados aqui.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_25016-e1",
     "volume_id": "faria",
     "doc_name": "chunk_25016",
@@ -462,28 +352,6 @@
     "raw_json": "{\"id\":\"chunk_25018:25018:0\",\"lemas\":[\"saltus\"],\"lema_canonico\":\"saltus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"1) salto, pulo; 2) passagem estreita, desfiladeiro; 3) bosque, pastagem, pedaço de terra arborizada; 4) sentido figurado: situação ou estado\",\"aliases\":[],\"exemplos\":[\"Cic. N. D. 191, 7\",\"Caes. B. Civ. 1, 37, 1\",\"Verg. G. 3, 40\",\"Plaut. Men. 883\"],\"notas\":\"Sentidos e referências confirmados por LS, Whitaker e Lat→Deu; declinação 4ª conforme Whitaker/LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_25019-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_25019",
-    "page_num": 25019,
-    "lemmas": [
-      "saluber",
-      "saluber"
-    ],
-    "morfologia": "adj. (3) 3T",
-    "morph_render": "adj. (3) 3T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "1) salutar, saudável, benéfico à saúde; 2) em bom estado, sadio; 3) figurado: vantajoso, de bom efeito.",
-    "exemplos": [],
-    "notas": "Unificadas formas salūber / salubris conforme LS/Whitaker; grafia normalizada. | [dedupe] redirect → chunk_14275:14275:1 | [dedupe] redirect → chunk_14275:14275:1",
-    "raw_text": "{\"id\":\"chunk_25019:25019:0\",\"lemas\":[\"saluber\",\"salubris\"],\"lema_canonico\":\"saluber\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"1) salutar, saudável, benéfico à saúde; 2) em bom estado, sadio; 3) figurado: vantajoso, de bom efeito.\",\"aliases\":[],\"exemplos\":[\"Cic. B. Civ. 3, 2, 3\",\"T. Liv. 1, 31\",\"Cic. Dom. 16\"],\"notas\":\"Unificadas formas salūber / salubris conforme LS/Whitaker; grafia normalizada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_25019:25019:0\",\"lemas\":[\"saluber\",\"salubris\"],\"lema_canonico\":\"saluber\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"1) salutar, saudável, benéfico à saúde; 2) em bom estado, sadio; 3) figurado: vantajoso, de bom efeito.\",\"aliases\":[],\"exemplos\":[\"Cic. B. Civ. 3, 2, 3\",\"T. Liv. 1, 31\",\"Cic. Dom. 16\"],\"notas\":\"Unificadas formas salūber / salubris conforme LS/Whitaker; grafia normalizada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_25020-e1",
     "volume_id": "faria",
     "doc_name": "chunk_25020",
@@ -526,28 +394,6 @@
     "notas": "Unificada grafia sem macrons; inclui comparativo/superlativo atestados (salubrius, salubrissime) como formas derivadas.",
     "raw_text": "{\"id\":\"chunk_25021:25021:0\",\"lemas\":[\"salubriter\"],\"lema_canonico\":\"salubriter\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"de modo salutar; de maneira benéfica para a saúde; figurado: vantajosamente, em condições favoráveis.\",\"aliases\":[],\"exemplos\":[\"Cic. C. M. 57\",\"Plin. Ep. 1, 24, 4\"],\"notas\":\"Unificada grafia sem macrons; inclui comparativo/superlativo atestados (salubrius, salubrissime) como formas derivadas.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_25021:25021:0\",\"lemas\":[\"salubriter\"],\"lema_canonico\":\"salubriter\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"de modo salutar; de maneira benéfica para a saúde; figurado: vantajosamente, em condições favoráveis.\",\"aliases\":[],\"exemplos\":[\"Cic. C. M. 57\",\"Plin. Ep. 1, 24, 4\"],\"notas\":\"Unificada grafia sem macrons; inclui comparativo/superlativo atestados (salubrius, salubrissime) como formas derivadas.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_25022-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_25022",
-    "page_num": 25022,
-    "lemmas": [
-      "salio",
-      "salio"
-    ],
-    "morfologia": "v. 4ª (-īre)",
-    "morph_render": "v. 4ª (-īre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "verbo: saltar, pular; também: jorrar, emergir, mover-se subitamente. 'salui' é a 1ª p. sg. perf. ind. ativo (salīvī / saluī) do verbo.",
-    "exemplos": [],
-    "notas": "Entrada original listava apenas a forma perfeita; restituída a forma delemma (salio, salīre) conforme Lat→Deu e Whitaker. | [dedupe] redirect → chunk_24979:24979:0 | [dedupe] redirect → chunk_24979:24979:0",
-    "raw_text": "{\"id\":\"chunk_25022:25022:0\",\"lemas\":[\"salio\",\"salīre\"],\"lema_canonico\":\"salio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"verbo: saltar, pular; também: jorrar, emergir, mover-se subitamente. 'salui' é a 1ª p. sg. perf. ind. ativo (salīvī / saluī) do verbo.\",\"aliases\":[\"salui\"],\"exemplos\":[],\"notas\":\"Entrada original listava apenas a forma perfeita; restituída a forma delemma (salio, salīre) conforme Lat→Deu e Whitaker.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_25022:25022:0\",\"lemas\":[\"salio\",\"salīre\"],\"lema_canonico\":\"salio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"verbo: saltar, pular; também: jorrar, emergir, mover-se subitamente. 'salui' é a 1ª p. sg. perf. ind. ativo (salīvī / saluī) do verbo.\",\"aliases\":[\"salui\"],\"exemplos\":[],\"notas\":\"Entrada original listava apenas a forma perfeita; restituída a forma delemma (salio, salīre) conforme Lat→Deu e Whitaker.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_25023-e1",
@@ -594,50 +440,6 @@
     "raw_json": "{\"id\":\"chunk_25024:25024:0\",\"lemas\":[\"salus\"],\"lema_canonico\":\"salus\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"saúde; bem-estar, prosperidade; salvação; cumprimento, saudação\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 2, 16\",\"T. Liv. 7, 35, 9\",\"Cic. Nat. 3, 91\",\"Cic. Lael. 90\",\"Cic. Att. 2, 12, 3\"],\"notas\":\"Normalizada grafia e leituras segundo LS/Lat→Deu; unificadas acepções principais.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_25025-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_25025",
-    "page_num": 25025,
-    "lemmas": [
-      "salus",
-      "salus"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "saúde, bem-estar, prosperidade; saudação; salvação, segurança; também divindade Salus",
-    "exemplos": [],
-    "notas": "Corrige confusões OCR entre Salus e Salacia; genitivo 'salūtis' e acepções confirmadas. | [dedupe] redirect → chunk_25024:25024:0 | [dedupe] redirect → chunk_25024:25024:0",
-    "raw_text": "{\"id\":\"chunk_25025:25025:0\",\"lemas\":[\"salus\",\"salūs\"],\"lema_canonico\":\"salus\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"saúde, bem-estar, prosperidade; saudação; salvação, segurança; também divindade Salus\",\"aliases\":[],\"exemplos\":[\"Cic. N. D. 3, 38, 91\",\"Liv. 7, 5\"],\"notas\":\"Corrige confusões OCR entre Salus e Salacia; genitivo 'salūtis' e acepções confirmadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_25025:25025:0\",\"lemas\":[\"salus\",\"salūs\"],\"lema_canonico\":\"salus\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"saúde, bem-estar, prosperidade; saudação; salvação, segurança; também divindade Salus\",\"aliases\":[],\"exemplos\":[\"Cic. N. D. 3, 38, 91\",\"Liv. 7, 5\"],\"notas\":\"Corrige confusões OCR entre Salus e Salacia; genitivo 'salūtis' e acepções confirmadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_25026-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_25026",
-    "page_num": 25026,
-    "lemmas": [
-      "salubritas",
-      "salubritas"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Salubridade, saúde, qualidade de ser salutar; aplicado a lugares, águas, clima etc.",
-    "exemplos": [],
-    "notas": "Corrigido de entrada adjetival para substantivo feminino de 3ª declinação conforme LS e Whitaker. | [dedupe] redirect → chunk_25020:25020:0 | [dedupe] redirect → chunk_25020:25020:0",
-    "raw_text": "{\"id\":\"chunk_25026:25026:0\",\"lemas\":[\"salubritas\",\"salūbritās\"],\"lema_canonico\":\"salubritas\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Salubridade, saúde, qualidade de ser salutar; aplicado a lugares, águas, clima etc.\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 1, 57, 131\",\"Cic. Leg. 2, 1, 3\",\"Varr. R. R. 1, 4, 3\",\"Plin. Nat. 37, 10, 77\"],\"notas\":\"Corrigido de entrada adjetival para substantivo feminino de 3ª declinação conforme LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_25026:25026:0\",\"lemas\":[\"salubritas\",\"salūbritās\"],\"lema_canonico\":\"salubritas\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Salubridade, saúde, qualidade de ser salutar; aplicado a lugares, águas, clima etc.\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 1, 57, 131\",\"Cic. Leg. 2, 1, 3\",\"Varr. R. R. 1, 4, 3\",\"Plin. Nat. 37, 10, 77\"],\"notas\":\"Corrigido de entrada adjetival para substantivo feminino de 3ª declinação conforme LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_25027-e1",
     "volume_id": "faria",
     "doc_name": "chunk_25027",
@@ -682,28 +484,6 @@
     "raw_json": "{\"id\":\"chunk_25028:25028:0\",\"lemas\":[\"Collis\",\"Salutaris\"],\"lema_canonico\":\"Collis\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Collis Salutaris — um dos cumes do Quirinal, associado ao templo da Salus; topônimo literário.\",\"aliases\":[],\"exemplos\":[\"Varr. L. Lat. 5, 52\"],\"notas\":\"Entrada tratada como topônimo composto (Collis Salutaris); confirmação bibliográfica preservada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_25029-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_25029",
-    "page_num": 25029,
-    "lemmas": [
-      "salutaris",
-      "salutaris"
-    ],
-    "morfologia": "adj. (3) 2T",
-    "morph_render": "adj. (3) 2T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "salutar, útil, benéfico; relativo ao bem-estar (healthful, beneficial).",
-    "exemplos": [],
-    "notas": "Reconcilia leitura adverbial da OCR com adjetivo clássico salutaris; variante salutarius atestada. | [dedupe] redirect → chunk_25027:25027:0 | [dedupe] redirect → chunk_25027:25027:0",
-    "raw_text": "{\"id\":\"chunk_25029:25029:0\",\"lemas\":[\"salutaris\",\"salutarius\"],\"lema_canonico\":\"salutaris\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"salutar, útil, benéfico; relativo ao bem-estar (healthful, beneficial).\",\"aliases\":[],\"exemplos\":[\"Cic. Br. 8\"],\"notas\":\"Reconcilia leitura adverbial da OCR com adjetivo clássico salutaris; variante salutarius atestada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_25029:25029:0\",\"lemas\":[\"salutaris\",\"salutarius\"],\"lema_canonico\":\"salutaris\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"salutar, útil, benéfico; relativo ao bem-estar (healthful, beneficial).\",\"aliases\":[],\"exemplos\":[\"Cic. Br. 8\"],\"notas\":\"Reconcilia leitura adverbial da OCR com adjetivo clássico salutaris; variante salutarius atestada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_25030-e1",
     "volume_id": "faria",
     "doc_name": "chunk_25030",
@@ -724,28 +504,6 @@
     "notas": "Forma e acepções alinhadas com Lewis & Short e Whitaker; genitivo padrão '-ōnis'.",
     "raw_text": "{\"id\":\"chunk_25030:25030:0\",\"lemas\":[\"salutatio\",\"salūtātiō\"],\"lema_canonico\":\"salutatio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"saudação; cumprimento; visita cerimonial ou homenagem (visita matinal de clientes ao patrono)\",\"aliases\":[],\"exemplos\":[\"Cic. Pis. 40, 96\",\"Liv. 1, 1\",\"Tac. Ann. 4, 61\"],\"notas\":\"Forma e acepções alinhadas com Lewis & Short e Whitaker; genitivo padrão '-ōnis'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_25030:25030:0\",\"lemas\":[\"salutatio\",\"salūtātiō\"],\"lema_canonico\":\"salutatio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"saudação; cumprimento; visita cerimonial ou homenagem (visita matinal de clientes ao patrono)\",\"aliases\":[],\"exemplos\":[\"Cic. Pis. 40, 96\",\"Liv. 1, 1\",\"Tac. Ann. 4, 61\"],\"notas\":\"Forma e acepções alinhadas com Lewis & Short e Whitaker; genitivo padrão '-ōnis'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_25031-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_25031",
-    "page_num": 25031,
-    "lemmas": [
-      "salutatio",
-      "salutatio"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "saudação; cumprimento; visita cerimonial (p.ex. visita matinal de cliente ao patrono). Também: ato de saudar; raramente, saudação escrita.",
-    "exemplos": [],
-    "notas": "Normalizado para substantivo 3ª decl. conforme LS/Whitaker; removidos erros OCR do primeiro passe. | [dedupe] redirect → chunk_25030:25030:0 | [dedupe] redirect → chunk_25030:25030:0",
-    "raw_text": "{\"id\":\"chunk_25031:25031:0\",\"lemas\":[\"salutatio\"],\"lema_canonico\":\"salutatio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"saudação; cumprimento; visita cerimonial (p.ex. visita matinal de cliente ao patrono). Também: ato de saudar; raramente, saudação escrita.\",\"aliases\":[],\"exemplos\":[\"Cic. Pis. 40, 96\",\"Liv. 1, 1\",\"Tac. A. 4, 61\",\"Macr. S. 1, 6\",\"Curt. 10, 8, 23\"],\"notas\":\"Normalizado para substantivo 3ª decl. conforme LS/Whitaker; removidos erros OCR do primeiro passe.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_25031:25031:0\",\"lemas\":[\"salutatio\"],\"lema_canonico\":\"salutatio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"saudação; cumprimento; visita cerimonial (p.ex. visita matinal de cliente ao patrono). Também: ato de saudar; raramente, saudação escrita.\",\"aliases\":[],\"exemplos\":[\"Cic. Pis. 40, 96\",\"Liv. 1, 1\",\"Tac. A. 4, 61\",\"Macr. S. 1, 6\",\"Curt. 10, 8, 23\"],\"notas\":\"Normalizado para substantivo 3ª decl. conforme LS/Whitaker; removidos erros OCR do primeiro passe.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_25032-e1",
@@ -836,28 +594,6 @@
     "raw_json": "{\"id\":\"chunk_25035:25035:0\",\"lemas\":[\"salutio\"],\"lema_canonico\":\"salutio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"saudação; também um cognomen romano (ex.: Salutio, citado por Suetônio)\",\"aliases\":[],\"exemplos\":[\"Suet. Caes. 59\"],\"notas\":\"Lema e sentido confirmados por LS; citado como sobrenome em fontes clássicas.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_25036-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_25036",
-    "page_num": 25036,
-    "lemmas": [
-      "sal",
-      "sal"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "sal (substância); por metonímia, mar, água salgada; grão de sal; figur.: acuidade, espírito, graça",
-    "exemplos": [],
-    "notas": "Restaurada forma genitiva (salis) e acepções conforme Lewis & Short e Whitaker. | [dedupe] redirect → chunk_24940:24940:0 | [dedupe] redirect → chunk_24940:24940:0",
-    "raw_text": "{\"id\":\"chunk_25036:25036:0\",\"lemas\":[\"sal\"],\"lema_canonico\":\"sal\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"sal (substância); por metonímia, mar, água salgada; grão de sal; figur.: acuidade, espírito, graça\",\"aliases\":[],\"exemplos\":[\"Cic. Lael. 19, 67\",\"Varr. R.R. 1, 7\",\"Plin. 31, 7, § 73\",\"Hor. S. 1, 5, 46\",\"Verg. A. 1, 173\"],\"notas\":\"Restaurada forma genitiva (salis) e acepções conforme Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_25036:25036:0\",\"lemas\":[\"sal\"],\"lema_canonico\":\"sal\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"sal (substância); por metonímia, mar, água salgada; grão de sal; figur.: acuidade, espírito, graça\",\"aliases\":[],\"exemplos\":[\"Cic. Lael. 19, 67\",\"Varr. R.R. 1, 7\",\"Plin. 31, 7, § 73\",\"Hor. S. 1, 5, 46\",\"Verg. A. 1, 173\"],\"notas\":\"Restaurada forma genitiva (salis) e acepções conforme Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_25037-e1",
     "volume_id": "faria",
     "doc_name": "chunk_25037",
@@ -922,28 +658,6 @@
     "notas": "Imperativos mantidos; morfologia ajustada para o infinitivo da conjugação (2ª) por exigência do vocabulário; marcador 'imp.' e flag de revisão morfológica aplicados.",
     "raw_text": "{\"id\":\"chunk_25038:25038:1\",\"lemas\":[\"salvē\",\"salvēte\"],\"lema_canonico\":\"salvē\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"imp.\"],\"definicao\":\"formas imperativas do verbo salveō: saudação 'Salve! / Saúde! / Bom dia!' (2ª sing. e 2/3ª pl.).\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 16, 9, 4\",\"Verg. En. 1, 91\"],\"notas\":\"Imperativos mantidos; morfologia ajustada para o infinitivo da conjugação (2ª) por exigência do vocabulário; marcador 'imp.' e flag de revisão morfológica aplicados.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}",
     "raw_json": "{\"id\":\"chunk_25038:25038:1\",\"lemas\":[\"salvē\",\"salvēte\"],\"lema_canonico\":\"salvē\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"imp.\"],\"definicao\":\"formas imperativas do verbo salveō: saudação 'Salve! / Saúde! / Bom dia!' (2ª sing. e 2/3ª pl.).\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 16, 9, 4\",\"Verg. En. 1, 91\"],\"notas\":\"Imperativos mantidos; morfologia ajustada para o infinitivo da conjugação (2ª) por exigência do vocabulário; marcador 'imp.' e flag de revisão morfológica aplicados.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}"
-  },
-  {
-    "id": "chunk_25039-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_25039",
-    "page_num": 25039,
-    "lemmas": [
-      "salvō",
-      "salvō"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "verbo transitivo: salvar, preservar, resgatar; também no uso intransitivo/saudativo 'estar são/estar salvo' em certos contextos.",
-    "exemplos": [],
-    "notas": "Normalizado para salvō / salvāre (1ª conj.); reconhecido uso transitivo (LS) e usos intransitivos/salutativos atestados. | [dedupe] redirect → chunk_25037:25037:0 | [dedupe] redirect → chunk_25037:25037:0",
-    "raw_text": "{\"id\":\"chunk_25039:25039:0\",\"lemas\":[\"salvō\",\"salvāre\"],\"lema_canonico\":\"salvō\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"verbo transitivo: salvar, preservar, resgatar; também no uso intransitivo/saudativo 'estar são/estar salvo' em certos contextos.\",\"aliases\":[],\"exemplos\":[\"Cic. At. 4, 14, 2\"],\"notas\":\"Normalizado para salvō / salvāre (1ª conj.); reconhecido uso transitivo (LS) e usos intransitivos/salutativos atestados.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_25039:25039:0\",\"lemas\":[\"salvō\",\"salvāre\"],\"lema_canonico\":\"salvō\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"verbo transitivo: salvar, preservar, resgatar; também no uso intransitivo/saudativo 'estar são/estar salvo' em certos contextos.\",\"aliases\":[],\"exemplos\":[\"Cic. At. 4, 14, 2\"],\"notas\":\"Normalizado para salvō / salvāre (1ª conj.); reconhecido uso transitivo (LS) e usos intransitivos/salutativos atestados.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_25039-e2",
@@ -1208,28 +922,6 @@
     "notas": "Incluído o gentilício Sămaei; forma e referências confirmadas em LS.",
     "raw_text": "{\"id\":\"chunk_25049:25049:0\",\"lemas\":[\"Same\",\"Sămaei\"],\"lema_canonico\":\"Same\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"antigo nome da ilha de Cefalônia (grego Σάμη); também a cidade e porto da ilha\",\"aliases\":[],\"exemplos\":[\"Verg. A. 3, 271\",\"Ov. Tr. 1, 5, 67\",\"Sil. 15, 303\",\"Liv. 38, 29\"],\"notas\":\"Incluído o gentilício Sămaei; forma e referências confirmadas em LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_25049:25049:0\",\"lemas\":[\"Same\",\"Sămaei\"],\"lema_canonico\":\"Same\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"antigo nome da ilha de Cefalônia (grego Σάμη); também a cidade e porto da ilha\",\"aliases\":[],\"exemplos\":[\"Verg. A. 3, 271\",\"Ov. Tr. 1, 5, 67\",\"Sil. 15, 303\",\"Liv. 38, 29\"],\"notas\":\"Incluído o gentilício Sămaei; forma e referências confirmadas em LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_25050-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_25050",
-    "page_num": 25050,
-    "lemmas": [
-      "Sĕmīrămis",
-      "Sĕmīrămis"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada tratada como variante/redirect para Semiramis; forma Samirinis atestada em fontes medievais/OCR. | [dedupe] redirect → chunk_25631:25631:0 | [dedupe] redirect → chunk_25631:25631:0 | [ocr_fix 2025-08-17T19:53:20Z] match direto em LS por lemma/lemma_norm | lemma_in='Semiramis' → 'Sĕmīrămis'",
-    "raw_text": "{\"id\":\"chunk_25050:25050:0\",\"lemas\":[\"Semiramis\",\"Samirinis\"],\"lema_canonico\":\"Semiramis\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Samirinis\"],\"exemplos\":[],\"notas\":\"Entrada tratada como variante/redirect para Semiramis; forma Samirinis atestada em fontes medievais/OCR.\",\"flags\":[\"src_whitaker\",\"conf:med\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_25050:25050:0\",\"lemas\":[\"Semiramis\",\"Samirinis\"],\"lema_canonico\":\"Semiramis\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Samirinis\"],\"exemplos\":[],\"notas\":\"Entrada tratada como variante/redirect para Semiramis; forma Samirinis atestada em fontes medievais/OCR.\",\"flags\":[\"src_whitaker\",\"conf:med\",\"redirect_only\"]}"
   },
   {
     "id": "chunk_25051-e1",
@@ -1650,28 +1342,6 @@
     "raw_json": "{\"id\":\"chunk_25069:25069:0\",\"lemas\":[\"sanctitudo\",\"sanctitūdo\"],\"lema_canonico\":\"sanctitudo\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"santidade, caráter sagrado; integridade ou pureza moral (uso clássico e pós‑clássico).\",\"aliases\":[],\"exemplos\":[\"Cic. Rep. 4, 8\",\"Vulg. Psa. 92, 5\",\"Gell. 17, 2\"],\"notas\":\"Lema normalizado e genitivo padronizado conforme LS; variante com macron preservada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_25070-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_25070",
-    "page_num": 25070,
-    "lemmas": [
-      "sancio",
-      "sancio"
-    ],
-    "morfologia": "v. 4ª (-īre)",
-    "morph_render": "v. 4ª (-īre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Tornar sagrado ou inviolável; proclamar, estabelecer, decretar, sancionar; confirmar, ratificar.",
-    "exemplos": [],
-    "notas": "Verbos e particípio correlato normalizados segundo LS/Lat→Deu/Whitaker. | [dedupe] redirect → chunk_25063:25063:0 | [dedupe] redirect → chunk_25063:25063:0",
-    "raw_text": "{\"id\":\"chunk_25070:25070:0\",\"lemas\":[\"sancio\",\"sancire\"],\"lema_canonico\":\"sancio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"Tornar sagrado ou inviolável; proclamar, estabelecer, decretar, sancionar; confirmar, ratificar.\",\"aliases\":[],\"exemplos\":[\"Lucr. 1, 587\"],\"notas\":\"Verbos e particípio correlato normalizados segundo LS/Lat→Deu/Whitaker.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_25070:25070:0\",\"lemas\":[\"sancio\",\"sancire\"],\"lema_canonico\":\"sancio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"Tornar sagrado ou inviolável; proclamar, estabelecer, decretar, sancionar; confirmar, ratificar.\",\"aliases\":[],\"exemplos\":[\"Lucr. 1, 587\"],\"notas\":\"Verbos e particípio correlato normalizados segundo LS/Lat→Deu/Whitaker.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_25070-e2",
     "volume_id": "faria",
     "doc_name": "chunk_25070",
@@ -1692,28 +1362,6 @@
     "notas": "Entrada substantiva normalizada a partir do OCR; género e declinação ajustados.",
     "raw_text": "{\"id\":\"chunk_25070:25070:1\",\"lemas\":[\"sancior\"],\"lema_canonico\":\"sancior\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Aquele que decreta; pessoa que impõe decretos (subst. derivado de sancio).\",\"aliases\":[],\"exemplos\":[\"Tac. Ann. 3, 26\"],\"notas\":\"Entrada substantiva normalizada a partir do OCR; género e declinação ajustados.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_25070:25070:1\",\"lemas\":[\"sancior\"],\"lema_canonico\":\"sancior\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Aquele que decreta; pessoa que impõe decretos (subst. derivado de sancio).\",\"aliases\":[],\"exemplos\":[\"Tac. Ann. 3, 26\"],\"notas\":\"Entrada substantiva normalizada a partir do OCR; género e declinação ajustados.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_25071-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_25071",
-    "page_num": 25071,
-    "lemmas": [
-      "sanctus",
-      "sanctus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "1) part. perf. pass. de sancio, sancionado, torn ado sagrado; 2) sagrado, santo, venerável, augusto",
-    "exemplos": [],
-    "notas": "Entrada trata tanto do adjetivo quanto do part. perf. pass. de sancio; marcado como part. perf. pass. | [dedupe] redirect → chunk_25064:25064:0 | [dedupe] redirect → chunk_25064:25064:0",
-    "raw_text": "{\"id\":\"chunk_25071:25071:0\",\"lemas\":[\"sanctus\"],\"lema_canonico\":\"sanctus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"1) part. perf. pass. de sancio, sancionado, torn ado sagrado; 2) sagrado, santo, venerável, augusto\",\"aliases\":[],\"exemplos\":[\"Cic. Quinct. 26\",\"Cic. Leg. 3, 9\",\"Verg. En. 3, 406\",\"Cic. Arch. 9\",\"Ov. Met. 1, 76\"],\"notas\":\"Entrada trata tanto do adjetivo quanto do part. perf. pass. de sancio; marcado como part. perf. pass.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_25071:25071:0\",\"lemas\":[\"sanctus\"],\"lema_canonico\":\"sanctus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"1) part. perf. pass. de sancio, sancionado, torn ado sagrado; 2) sagrado, santo, venerável, augusto\",\"aliases\":[],\"exemplos\":[\"Cic. Quinct. 26\",\"Cic. Leg. 3, 9\",\"Verg. En. 3, 406\",\"Cic. Arch. 9\",\"Ov. Met. 1, 76\"],\"notas\":\"Entrada trata tanto do adjetivo quanto do part. perf. pass. de sancio; marcado como part. perf. pass.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_25072-e1",
@@ -1980,28 +1628,6 @@
     "raw_json": "{\"id\":\"chunk_25083:25083:0\",\"lemas\":[\"sanguinolentus\",\"sanguinolenta\",\"sanguinolentum\"],\"lema_canonico\":\"sanguinolentus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"ensanguentado, sangrento; figur.: cruel, sanguinário\",\"aliases\":[],\"exemplos\":[\"Ov. F. 4, 841\",\"Ov. F. 4, 41\"],\"notas\":\"Formas feminina e neutra explícitas; alinhado com Lewis & Short.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_25084-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_25084",
-    "page_num": 25084,
-    "lemmas": [
-      "sanguis",
-      "sanguis"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "sangue; por extensão, parentesco, descendência; força vital, vigor",
-    "exemplos": [],
-    "notas": "Harmonizada com Lewis & Short e Whitaker; incluída a forma arcaica sanguen. | [dedupe] redirect → chunk_25079:25079:0 | [dedupe] redirect → chunk_25079:25079:0",
-    "raw_text": "{\"id\":\"chunk_25084:25084:0\",\"lemas\":[\"sanguis\"],\"lema_canonico\":\"sanguis\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"sangue; por extensão, parentesco, descendência; força vital, vigor\",\"aliases\":[\"sanguen\"],\"exemplos\":[\"Cic. Sest. 54\",\"Hor. Od. 4, 2, 14\",\"Cic. Att. 6, 1, 2\",\"Enn. Ann. 117 (sanguen)\",\"Lucr. 1, 837\"],\"notas\":\"Harmonizada com Lewis & Short e Whitaker; incluída a forma arcaica sanguen.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_25084:25084:0\",\"lemas\":[\"sanguis\"],\"lema_canonico\":\"sanguis\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"sangue; por extensão, parentesco, descendência; força vital, vigor\",\"aliases\":[\"sanguen\"],\"exemplos\":[\"Cic. Sest. 54\",\"Hor. Od. 4, 2, 14\",\"Cic. Att. 6, 1, 2\",\"Enn. Ann. 117 (sanguen)\",\"Lucr. 1, 837\"],\"notas\":\"Harmonizada com Lewis & Short e Whitaker; incluída a forma arcaica sanguen.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_25085-e1",
     "volume_id": "faria",
     "doc_name": "chunk_25085",
@@ -2222,28 +1848,6 @@
     "raw_json": "{\"id\":\"chunk_25093:25093:1\",\"lemas\":[\"Santonĭcus\",\"Santonicus\"],\"lema_canonico\":\"Santonĭcus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Adjetivo relativo aos Santoni; pertencente ou referente aos Santoni (santoniano).\",\"aliases\":[],\"exemplos\":[\"Tib. 1, 7, 10 (Oceanus)\",\"Aus. Ep. 9, 31\",\"Mart. 14, 128\"],\"notas\":\"Adjetivo atestado em Lewis & Short; variantes registradas.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_25094-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_25094",
-    "page_num": 25094,
-    "lemmas": [
-      "sancio",
-      "sancio"
-    ],
-    "morfologia": "v. 3ª -iō (-ere)",
-    "morph_render": "v. 3ª -iō (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "to consecrate, make sacred; to enact, ordain, confirm; also to punish or prohibit (perfect sanxī).",
-    "exemplos": [],
-    "notas": "Entrada original gave the perfect form 'sanxi'; normalized to lemma sancio (sanciō, sancīre). | [dedupe] redirect → chunk_25063:25063:0 | [dedupe] redirect → chunk_25063:25063:0",
-    "raw_text": "{\"id\":\"chunk_25094:25094:1\",\"lemas\":[\"sancio\",\"sancire\"],\"lema_canonico\":\"sancio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[],\"definicao\":\"to consecrate, make sacred; to enact, ordain, confirm; also to punish or prohibit (perfect sanxī).\",\"aliases\":[\"sanxi\"],\"exemplos\":[],\"notas\":\"Entrada original gave the perfect form 'sanxi'; normalized to lemma sancio (sanciō, sancīre).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_25094:25094:1\",\"lemas\":[\"sancio\",\"sancire\"],\"lema_canonico\":\"sancio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[],\"definicao\":\"to consecrate, make sacred; to enact, ordain, confirm; also to punish or prohibit (perfect sanxī).\",\"aliases\":[\"sanxi\"],\"exemplos\":[],\"notas\":\"Entrada original gave the perfect form 'sanxi'; normalized to lemma sancio (sanciō, sancīre).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_25094-e2",
     "volume_id": "faria",
     "doc_name": "chunk_25094",
@@ -2264,28 +1868,6 @@
     "notas": "Grafia com macron notada em fontes; regências resumidas omitidas.",
     "raw_text": "{\"id\":\"chunk_25094:25094:0\",\"lemas\":[\"sanus\"],\"lema_canonico\":\"sanus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"sound, healthy; figuratively sensible, sane, sober; also pure, intact.\",\"aliases\":[],\"exemplos\":[\"Hor. Sat. 2, 3, 284\",\"Cic. Fam. 12, 23, 3\",\"Plaut. Trin. 454\",\"Cic. Fam. 9, 5, 2\",\"Cic. Br. 51\"],\"notas\":\"Grafia com macron notada em fontes; regências resumidas omitidas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_25094:25094:0\",\"lemas\":[\"sanus\"],\"lema_canonico\":\"sanus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"sound, healthy; figuratively sensible, sane, sober; also pure, intact.\",\"aliases\":[],\"exemplos\":[\"Hor. Sat. 2, 3, 284\",\"Cic. Fam. 12, 23, 3\",\"Plaut. Trin. 454\",\"Cic. Fam. 9, 5, 2\",\"Cic. Br. 51\"],\"notas\":\"Grafia com macron notada em fontes; regências resumidas omitidas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_25095-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_25095",
-    "page_num": 25095,
-    "lemmas": [
-      "sūcus",
-      "sūcus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "suco, seiva; líquido, bebida, póss. preparado medicinal ou poção (sentidos: sumo, vitalidade, líquido medicinal)",
-    "exemplos": [],
-    "notas": "Entrada do Faria indicando 'vinho reduzido' não confirmada no corpus clássico; Whitaker/Lat→Deu registram sucus/suce como suco/seiva. Referências clássicas para uso especializado não localizadas aqui. | [dedupe] redirect → chunk_27213:27213:0 | [dedupe] redirect → chunk_27213:27213:0 | [ocr_fix 2025-08-17T20:00:13Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='sucus' → 'sūcus'",
-    "raw_text": "{\"id\":\"chunk_25095:25095:0\",\"lemas\":[\"suce\",\"sucus\"],\"lema_canonico\":\"sucus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"suco, seiva; líquido, bebida, póss. preparado medicinal ou poção (sentidos: sumo, vitalidade, líquido medicinal)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada do Faria indicando 'vinho reduzido' não confirmada no corpus clássico; Whitaker/Lat→Deu registram sucus/suce como suco/seiva. Referências clássicas para uso especializado não localizadas aqui.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_25095:25095:0\",\"lemas\":[\"suce\",\"sucus\"],\"lema_canonico\":\"sucus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"suco, seiva; líquido, bebida, póss. preparado medicinal ou poção (sentidos: sumo, vitalidade, líquido medicinal)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada do Faria indicando 'vinho reduzido' não confirmada no corpus clássico; Whitaker/Lat→Deu registram sucus/suce como suco/seiva. Referências clássicas para uso especializado não localizadas aqui.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
     "id": "chunk_25096-e1",
@@ -2376,28 +1958,6 @@
     "raw_json": "{\"id\":\"chunk_25098:25098:0\",\"lemas\":[\"Sapphō\",\"Sappho\"],\"lema_canonico\":\"Sapphō\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Sappho, célebre poetisa lírica de Lesbos, famosa por poemas sobre amor; nome próprio feminino.\",\"aliases\":[],\"exemplos\":[\"Hor. Ep. 1, 19, 28\",\"Ov. H. 15, 3\",\"Hor. C. 2, 13, 25\",\"Cic. Verr. 2, 4, 57\"],\"notas\":\"Lema e genitivo ajustados conforme Lewis & Short (Sapphō, gen. Sapphūs).\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_25099-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_25099",
-    "page_num": 25099,
-    "lemmas": [
-      "Sapphō",
-      "Sapphō"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Safo (Sappho), poetisa grega nascida em Lesbos; figura lendária e célebre na antiguidade.",
-    "exemplos": [],
-    "notas": "Normalizado para a forma dada em Lewis & Short; entrada original continha sinais e fragmentos corrompidos removidos. | [dedupe] redirect → chunk_25098:25098:0 | [dedupe] redirect → chunk_25098:25098:0 | [ocr_fix 2025-08-17T19:51:59Z] match direto em LS por lemma/lemma_norm | lemma_in='Sapphō' → 'Sapphō'",
-    "raw_text": "{\"id\":\"chunk_25099:25099:0\",\"lemas\":[\"Sapphō\",\"Sappho\"],\"lema_canonico\":\"Sapphō\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Safo (Sappho), poetisa grega nascida em Lesbos; figura lendária e célebre na antiguidade.\",\"aliases\":[],\"exemplos\":[\"Hor. O. 2, 13, 25\"],\"notas\":\"Normalizado para a forma dada em Lewis & Short; entrada original continha sinais e fragmentos corrompidos removidos.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_25099:25099:0\",\"lemas\":[\"Sapphō\",\"Sappho\"],\"lema_canonico\":\"Sapphō\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Safo (Sappho), poetisa grega nascida em Lesbos; figura lendária e célebre na antiguidade.\",\"aliases\":[],\"exemplos\":[\"Hor. O. 2, 13, 25\"],\"notas\":\"Normalizado para a forma dada em Lewis & Short; entrada original continha sinais e fragmentos corrompidos removidos.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_25100-e1",
     "volume_id": "faria",
     "doc_name": "chunk_25100",
@@ -2484,28 +2044,6 @@
     "notas": "Normalizada a morfologia conforme LS e Whitaker; mantidas as citações.",
     "raw_text": "{\"id\":\"chunk_25103:25103:0\",\"lemas\":[\"sarcina\"],\"lema_canonico\":\"sarcina\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"pacote, embrulho; bagagem, carga (freq. no pl., bagagem, pertences)\",\"aliases\":[],\"exemplos\":[\"Caes. B. Gall. 2, 17, 20\",\"Ov. Met. 6, 224\"],\"notas\":\"Normalizada a morfologia conforme LS e Whitaker; mantidas as citações.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_25103:25103:0\",\"lemas\":[\"sarcina\"],\"lema_canonico\":\"sarcina\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"pacote, embrulho; bagagem, carga (freq. no pl., bagagem, pertences)\",\"aliases\":[],\"exemplos\":[\"Caes. B. Gall. 2, 17, 20\",\"Ov. Met. 6, 224\"],\"notas\":\"Normalizada a morfologia conforme LS e Whitaker; mantidas as citações.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_25104-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_25104",
-    "page_num": 25104,
-    "lemmas": [
-      "jumentum",
-      "jumentum"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "beast of burden; a draught- or pack-animal (mule, ass, horse used for carrying)",
-    "exemplos": [],
-    "notas": "Plural jumenta frequentemente usado para 'animals of burden' (cf. Caes.). | [dedupe] redirect → chunk_15121:15121:0 | [dedupe] redirect → chunk_15121:15121:0",
-    "raw_text": "{\"id\":\"chunk_25104:25104:0\",\"lemas\":[\"jumentum\",\"jumenta\"],\"lema_canonico\":\"jumentum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"beast of burden; a draught- or pack-animal (mule, ass, horse used for carrying)\",\"aliases\":[],\"exemplos\":[\"Caes. B. C. 1, 81\",\"Cic. Tusc. 1, 47, 113\"],\"notas\":\"Plural jumenta frequentemente usado para 'animals of burden' (cf. Caes.).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_25104:25104:0\",\"lemas\":[\"jumentum\",\"jumenta\"],\"lema_canonico\":\"jumentum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"beast of burden; a draught- or pack-animal (mule, ass, horse used for carrying)\",\"aliases\":[],\"exemplos\":[\"Caes. B. C. 1, 81\",\"Cic. Tusc. 1, 47, 113\"],\"notas\":\"Plural jumenta frequentemente usado para 'animals of burden' (cf. Caes.).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_25104-e2",
@@ -3212,28 +2750,6 @@
     "raw_json": "{\"id\":\"chunk_25133:25133:0\",\"lemas\":[\"Sarpēdōn\",\"Sarpedon\",\"Sarpēdon\"],\"lema_canonico\":\"Sarpēdōn\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Nome próprio: 1) Filho de Iuppiter e Europa, rei da Lícia, morto por Pátroclo antes de Troia. 2) Um promontório da Cilícia (topónimo).\",\"aliases\":[],\"exemplos\":[\"Verg. A. 1, 100\",\"Ov. M. 13, 255\",\"Cic. Div. 2, 10, 25\",\"Plin. H. Nat. 5, 92\"],\"notas\":\"Lema e citações alinhadas com Lewis & Short; grafia com macrons para indicar quantidades vocálicas.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_25134-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_25134",
-    "page_num": 25134,
-    "lemmas": [
-      "Sarnus",
-      "Sarnus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "a river in Campania near Pompeii (modern Sarno)",
-    "exemplos": [],
-    "notas": "Entrada alinhada com Lewis & Short. | [dedupe] redirect → chunk_25132:25132:0 | [dedupe] redirect → chunk_25132:25132:0 | [ocr_fix 2025-08-17T20:00:12Z] match direto em LS por lemma/lemma_norm | lemma_in='Sarnus' → 'Sarnus'",
-    "raw_text": "{\"id\":\"chunk_25134:25134:0\",\"lemas\":[\"Sarnus\"],\"lema_canonico\":\"Sarnus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"a river in Campania near Pompeii (modern Sarno)\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 3, 5, 9, § 62\",\"Verg. A. 7, 738\",\"Sil. 8, 539\",\"Stat. S. 1, 2, 265\"],\"notas\":\"Entrada alinhada com Lewis & Short.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_25134:25134:0\",\"lemas\":[\"Sarnus\"],\"lema_canonico\":\"Sarnus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"a river in Campania near Pompeii (modern Sarno)\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 3, 5, 9, § 62\",\"Verg. A. 7, 738\",\"Sil. 8, 539\",\"Stat. S. 1, 2, 265\"],\"notas\":\"Entrada alinhada com Lewis & Short.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_25134-e2",
     "volume_id": "faria",
     "doc_name": "chunk_25134",
@@ -3300,28 +2816,6 @@
     "raw_json": "{\"id\":\"chunk_25136:25136:0\",\"lemas\":[\"sarcio\",\"sarcire\",\"sarsi\",\"sartus\"],\"lema_canonico\":\"sarcire\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"patch, mend, repair, restore; transitive verb (perf. sarsī, sup. sartum).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Unificação das formas; lema base como infinitivo 'sarcire'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_25136-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_25136",
-    "page_num": 25136,
-    "lemmas": [
-      "sarcire",
-      "sarcire"
-    ],
-    "morfologia": "v. 4ª (-īre)",
-    "morph_render": "v. 4ª (-īre)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "perfect indicative active of sarcīre (to patch, mend, restore).",
-    "exemplos": [],
-    "notas": "Entrada tratada como forma flexa do verbo 'sarcire'. | [dedupe] redirect → chunk_25136:25136:0 | [dedupe] redirect → chunk_25136:25136:0",
-    "raw_text": "{\"id\":\"chunk_25136:25136:1\",\"lemas\":[\"sarsi\"],\"lema_canonico\":\"sarcire\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"perfect indicative active of sarcīre (to patch, mend, restore).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada tratada como forma flexa do verbo 'sarcire'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_25136:25136:1\",\"lemas\":[\"sarsi\"],\"lema_canonico\":\"sarcire\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"perfect indicative active of sarcīre (to patch, mend, restore).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada tratada como forma flexa do verbo 'sarcire'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_25137-e1",
     "volume_id": "faria",
     "doc_name": "chunk_25137",
@@ -3342,28 +2836,6 @@
     "notas": "Variante Sassina registrada; forma topônima feminina da 1ª declinação. | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='Sarsina' → 'Sarsĭna'",
     "raw_text": "{\"id\":\"chunk_25137:25137:0\",\"lemas\":[\"Sarsina\",\"Sassina\"],\"lema_canonico\":\"Sarsina\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"ancient town in Umbria, birthplace of Plautus (modern Sarsina).\",\"aliases\":[],\"exemplos\":[\"Mart. 9, 59, 4\"],\"notas\":\"Variante Sassina registrada; forma topônima feminina da 1ª declinação.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_25137:25137:0\",\"lemas\":[\"Sarsina\",\"Sassina\"],\"lema_canonico\":\"Sarsina\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"ancient town in Umbria, birthplace of Plautus (modern Sarsina).\",\"aliases\":[],\"exemplos\":[\"Mart. 9, 59, 4\"],\"notas\":\"Variante Sassina registrada; forma topônima feminina da 1ª declinação.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_25138-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_25138",
-    "page_num": 25138,
-    "lemmas": [
-      "Sarsĭna",
-      "Sarsĭna"
-    ],
-    "morfologia": "s. 3ª (-is)",
-    "morph_render": "s. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "gentilício/pertencente a Sársina; (f.) mulher de Sársina",
-    "exemplos": [],
-    "notas": "Lema mantido e morfologia ajustada para a 3ª declinação (-is); entrada marcada para revisão por incerteza quanto à classe (adj. vs. forma feminina específica).\n[ocr_pipeline 2025-08-16T23:21:35.541376Z] lemma_in='sarsinatis' → 'Sarsĭna' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:20:13Z] match direto em LS por lemma/lemma_norm | lemma_in='Sarsĭna' → 'Sarsĭna' | [dedupe] redirect → chunk_25137:25137:0 | [dedupe] redirect → chunk_25137:25137:0",
-    "raw_text": "{\"id\":\"chunk_25138:25138:0\",\"lemas\":[\"sarsinatis\"],\"lema_canonico\":\"sarsinatis\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"gentilício/pertencente a Sársina; (f.) mulher de Sársina\",\"aliases\":[],\"exemplos\":[\"Plaut. Most. 770\"],\"notas\":\"Lema mantido e morfologia ajustada para a 3ª declinação (-is); entrada marcada para revisão por incerteza quanto à classe (adj. vs. forma feminina específica).\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_25138:25138:0\",\"lemas\":[\"sarsinatis\"],\"lema_canonico\":\"sarsinatis\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"gentilício/pertencente a Sársina; (f.) mulher de Sársina\",\"aliases\":[],\"exemplos\":[\"Plaut. Most. 770\"],\"notas\":\"Lema mantido e morfologia ajustada para a 3ª declinação (-is); entrada marcada para revisão por incerteza quanto à classe (adj. vs. forma feminina específica).\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
     "id": "chunk_25139-e1",
@@ -3542,28 +3014,6 @@
     "raw_json": "{\"id\":\"chunk_25146:25146:0\",\"lemas\":[\"sata\"],\"lema_canonico\":\"sata\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"terras semeadas; searas, colheita (plur., sata, ōrum, n.)\",\"aliases\":[],\"exemplos\":[\"Verg. Buc. 3, 82\"],\"notas\":\"Substantivo plural com entrada em LS e Lat→Deu (săta, ōrum).\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_25146-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_25146",
-    "page_num": 25146,
-    "lemmas": [
-      "satus",
-      "satus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "nascido, nascido de; produzido, originário; também particípio perfeito passivo de sero ('semeado')",
-    "exemplos": [],
-    "notas": "Unifica a acepção adjetival e a origem como particípio de sero; formas mascul./fem./neut. incluídas. | [dedupe] redirect → chunk_25196:25196:0 | [dedupe] redirect → chunk_25196:25196:0",
-    "raw_text": "{\"id\":\"chunk_25146:25146:1\",\"lemas\":[\"satus\",\"sata\",\"satum\"],\"lema_canonico\":\"satus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"nascido, nascido de; produzido, originário; também particípio perfeito passivo de sero ('semeado')\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Unifica a acepção adjetival e a origem como particípio de sero; formas mascul./fem./neut. incluídas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_25146:25146:1\",\"lemas\":[\"satus\",\"sata\",\"satum\"],\"lema_canonico\":\"satus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"nascido, nascido de; produzido, originário; também particípio perfeito passivo de sero ('semeado')\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Unifica a acepção adjetival e a origem como particípio de sero; formas mascul./fem./neut. incluídas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_25146-e3",
     "volume_id": "faria",
     "doc_name": "chunk_25146",
@@ -3694,28 +3144,6 @@
     "notas": "Forma atípica; não atestada em LS/Whitaker. Mantida da first_pass por falta de confirmação externa.",
     "raw_text": "{\"id\":\"chunk_25149:25149:0\",\"lemas\":[\"satiagus\"],\"lema_canonico\":\"satiagus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Adjetivo raro; glossa editorial: ‘que procura atormentar-se’ (texto citado: Sen. Ep. 89, 8).\",\"aliases\":[],\"exemplos\":[\"Sen. Ep. 89, 8\"],\"notas\":\"Forma atípica; não atestada em LS/Whitaker. Mantida da first_pass por falta de confirmação externa.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_25149:25149:0\",\"lemas\":[\"satiagus\"],\"lema_canonico\":\"satiagus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Adjetivo raro; glossa editorial: ‘que procura atormentar-se’ (texto citado: Sen. Ep. 89, 8).\",\"aliases\":[],\"exemplos\":[\"Sen. Ep. 89, 8\"],\"notas\":\"Forma atípica; não atestada em LS/Whitaker. Mantida da first_pass por falta de confirmação externa.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_25149-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_25149",
-    "page_num": 25149,
-    "lemmas": [
-      "sătisdo",
-      "sătisdo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Locução/verbo composto contraído correspondente a satis ago ‘ter o bastante/estar satisfeito; dar/obter o suficiente’ (variante popular/contraída).",
-    "exemplos": [],
-    "notas": "Atestado no OCR como equação: 'satiāgo = satis ago'. Forma composta e rara; confirmação limitada.\n[ocr_pipeline 2025-08-16T23:21:40.789800Z] lemma_in='satiāgo' → 'sătisdo' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:20:20Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='sătisdo' → 'sătisdo' | [dedupe] redirect → chunk_25165:25165:0 | [dedupe] redirect → chunk_25165:25165:0",
-    "raw_text": "{\"id\":\"chunk_25149:25149:1\",\"lemas\":[\"satiāgo\",\"satiago\"],\"lema_canonico\":\"satiāgo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Locução/verbo composto contraído correspondente a satis ago ‘ter o bastante/estar satisfeito; dar/obter o suficiente’ (variante popular/contraída).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Atestado no OCR como equação: 'satiāgo = satis ago'. Forma composta e rara; confirmação limitada.\",\"flags\":[\"src_ocr\",\"src_firstpass\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_25149:25149:1\",\"lemas\":[\"satiāgo\",\"satiago\"],\"lema_canonico\":\"satiāgo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Locução/verbo composto contraído correspondente a satis ago ‘ter o bastante/estar satisfeito; dar/obter o suficiente’ (variante popular/contraída).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Atestado no OCR como equação: 'satiāgo = satis ago'. Forma composta e rara; confirmação limitada.\",\"flags\":[\"src_ocr\",\"src_firstpass\",\"conf:low\",\"needs_review\"]}"
   },
   {
     "id": "chunk_25150-e1",
@@ -4048,50 +3476,6 @@
     "raw_json": "{\"id\":\"chunk_25162:25162:1\",\"lemas\":[\"satis agito\",\"satis agatio\",\"agito\"],\"lema_canonico\":\"agito\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"Ter bastante ocupação; em linguagem administrativa/comercial, satisfazer, dar/obter garantia suficiente (equivalente a satis agatio).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Agitō (freq.) listado como variante de satis ago/agatio em fontes; normalizada a forma agito/agatio.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_25163-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_25163",
-    "page_num": 25163,
-    "lemmas": [
-      "ago",
-      "ago"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "ago, agere: levar, conduzir, mover; fazer, agir; administrar, tratar; passar (tempo); instigar; representar/performar; e usos figurados e técnicos diversos.",
-    "exemplos": [],
-    "notas": "Normalizado lema e conjugação a partir de LS/Lat→Deu; exemplos conservados e ampliados. | [dedupe] redirect → chunk_1146:1146:0 | [dedupe] redirect → chunk_1146:1146:0",
-    "raw_text": "{\"id\":\"chunk_25163:25163:2\",\"lemas\":[\"ago\"],\"lema_canonico\":\"ago\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"ago, agere: levar, conduzir, mover; fazer, agir; administrar, tratar; passar (tempo); instigar; representar/performar; e usos figurados e técnicos diversos.\",\"aliases\":[],\"exemplos\":[\"Cic. Mil. 16\",\"Liv. 1, 48\",\"Verg. A. 7, 804\",\"Plaut. Am. 1, 1, 294\",\"Tac. H. 5, 21\",\"Cic. Att. 15, 19, 5\"],\"notas\":\"Normalizado lema e conjugação a partir de LS/Lat→Deu; exemplos conservados e ampliados.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_25163:25163:2\",\"lemas\":[\"ago\"],\"lema_canonico\":\"ago\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"ago, agere: levar, conduzir, mover; fazer, agir; administrar, tratar; passar (tempo); instigar; representar/performar; e usos figurados e técnicos diversos.\",\"aliases\":[],\"exemplos\":[\"Cic. Mil. 16\",\"Liv. 1, 48\",\"Verg. A. 7, 804\",\"Plaut. Am. 1, 1, 294\",\"Tac. H. 5, 21\",\"Cic. Att. 15, 19, 5\"],\"notas\":\"Normalizado lema e conjugação a partir de LS/Lat→Deu; exemplos conservados e ampliados.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_25163-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_25163",
-    "page_num": 25163,
-    "lemmas": [
-      "satis",
-      "satis"
-    ],
-    "morfologia": "adv.",
-    "morph_render": "adv.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Bastante, suficientemente; advérbio usado com verbos, adjetivos e advérbios. Como forma adjetival/arcaica: sat/satis = suficiente.",
-    "exemplos": [],
-    "notas": "Unificadas as variantes 'satis' e 'sat' com base em LS e Whitaker. | [dedupe] redirect → chunk_25161:25161:0 | [dedupe] redirect → chunk_25161:25161:0",
-    "raw_text": "{\"id\":\"chunk_25163:25163:0\",\"lemas\":[\"satis\",\"sat\"],\"lema_canonico\":\"satis\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"Bastante, suficientemente; advérbio usado com verbos, adjetivos e advérbios. Como forma adjetival/arcaica: sat/satis = suficiente.\",\"aliases\":[],\"exemplos\":[\"Plaut. Am. 2, 2, 16\",\"Ter. Eun. 4, 7, 40\",\"Cic. Rep. 1, 17\",\"Hor. Ep. 1, 10, 46\",\"Verg. E. 3, 111\"],\"notas\":\"Unificadas as variantes 'satis' e 'sat' com base em LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_25163:25163:0\",\"lemas\":[\"satis\",\"sat\"],\"lema_canonico\":\"satis\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"Bastante, suficientemente; advérbio usado com verbos, adjetivos e advérbios. Como forma adjetival/arcaica: sat/satis = suficiente.\",\"aliases\":[],\"exemplos\":[\"Plaut. Am. 2, 2, 16\",\"Ter. Eun. 4, 7, 40\",\"Cic. Rep. 1, 17\",\"Hor. Ep. 1, 10, 46\",\"Verg. E. 3, 111\"],\"notas\":\"Unificadas as variantes 'satis' e 'sat' com base em LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_25163-e3",
     "volume_id": "faria",
     "doc_name": "chunk_25163",
@@ -4202,50 +3586,6 @@
     "raw_json": "{\"id\":\"chunk_25167:25167:0\",\"lemas\":[\"satisfactio\",\"satisfacio\"],\"lema_canonico\":\"satisfactio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"satisfactio: prestação de satisfação; desculpa, expiação, reparação; satisfação dada a credor; justificativa/excusa.\",\"aliases\":[\"satisfacio\"],\"exemplos\":[\"Caes. B. Gall. 5, 1, 7\",\"Caes. B. Gall. 5, 54, 3\",\"Cic. Flac. 47\",\"Cic. Phil. 14, 26\",\"Cic. Caec. 47\"],\"notas\":\"Unifiquei forma nominal (satisfactio) e vinculei o verbo satisfacio; morfologia ajustada conforme LS/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_25168-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_25168",
-    "page_num": 25168,
-    "lemmas": [
-      "satisfactio",
-      "satisfactio"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "satisfação; reparação ou restituição; desculpa/justificação; expiação por ofensa",
-    "exemplos": [],
-    "notas": "Normalizado lema e declinação conforme Lewis & Short; exemplos reunidos das fontes. | [dedupe] redirect → chunk_25167:25167:0 | [dedupe] redirect → chunk_25167:25167:0",
-    "raw_text": "{\"id\":\"chunk_25168:25168:0\",\"lemas\":[\"satisfactio\"],\"lema_canonico\":\"satisfactio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"satisfação; reparação ou restituição; desculpa/justificação; expiação por ofensa\",\"aliases\":[],\"exemplos\":[\"Tac. Germ. 21\",\"Caes. B. G. 6, 9\",\"Cic. Fam. 7, 13\",\"Cic. Att. 4, 6\",\"Sall. Cat. 35?\",\"Plin. Nat. 10, 34\"],\"notas\":\"Normalizado lema e declinação conforme Lewis & Short; exemplos reunidos das fontes.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_25168:25168:0\",\"lemas\":[\"satisfactio\"],\"lema_canonico\":\"satisfactio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"satisfação; reparação ou restituição; desculpa/justificação; expiação por ofensa\",\"aliases\":[],\"exemplos\":[\"Tac. Germ. 21\",\"Caes. B. G. 6, 9\",\"Cic. Fam. 7, 13\",\"Cic. Att. 4, 6\",\"Sall. Cat. 35?\",\"Plin. Nat. 10, 34\"],\"notas\":\"Normalizado lema e declinação conforme Lewis & Short; exemplos reunidos das fontes.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_25169-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_25169",
-    "page_num": 25169,
-    "lemmas": [
-      "satisfacio",
-      "satisfacio"
-    ],
-    "morfologia": "v. 3ª -iō (-ere)",
-    "morph_render": "v. 3ª -iō (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "satisfazer, compensar, dar satisfação; justificar-se; pagar, dar garantia",
-    "exemplos": [],
-    "notas": "Paradigma confirmado (satisfacio, satisfacere, satisfeci, satisfactus); verbo transitivo com forma 1ª pers. -iō. | [dedupe] redirect → chunk_25170:25170:0 | [dedupe] redirect → chunk_25170:25170:0",
-    "raw_text": "{\"id\":\"chunk_25169:25169:0\",\"lemas\":[\"satisfacio\",\"satisfacere\",\"satisfeci\",\"satisfactus\"],\"lema_canonico\":\"satisfacio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"satisfazer, compensar, dar satisfação; justificar-se; pagar, dar garantia\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Paradigma confirmado (satisfacio, satisfacere, satisfeci, satisfactus); verbo transitivo com forma 1ª pers. -iō.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_25169:25169:0\",\"lemas\":[\"satisfacio\",\"satisfacere\",\"satisfeci\",\"satisfactus\"],\"lema_canonico\":\"satisfacio\",\"morfologia\":\"v. 3ª -iō (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"satisfazer, compensar, dar satisfação; justificar-se; pagar, dar garantia\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Paradigma confirmado (satisfacio, satisfacere, satisfeci, satisfactus); verbo transitivo com forma 1ª pers. -iō.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_25170-e1",
     "volume_id": "faria",
     "doc_name": "chunk_25170",
@@ -4266,28 +3606,6 @@
     "notas": "Unificação das formas variantes; PPP/supino assinalados.",
     "raw_text": "{\"id\":\"chunk_25170:25170:0\",\"lemas\":[\"satisfacio\",\"satisfacere\",\"satisfactum\",\"satisfio\",\"satisfieri\"],\"lema_canonico\":\"satisfacio\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"part. perf. pass.\",\"sup.\"],\"definicao\":\"satisfaciō / satisfacere: satisfazer, contentar; satisfāctum: particípio perfeito/passivo (também supino); satisfieri: infinitivo presente passivo; satisfiō: 1ª p. sg. pres. ind. (forma ativa).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Unificação das formas variantes; PPP/supino assinalados.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_25170:25170:0\",\"lemas\":[\"satisfacio\",\"satisfacere\",\"satisfactum\",\"satisfio\",\"satisfieri\"],\"lema_canonico\":\"satisfacio\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"part. perf. pass.\",\"sup.\"],\"definicao\":\"satisfaciō / satisfacere: satisfazer, contentar; satisfāctum: particípio perfeito/passivo (também supino); satisfieri: infinitivo presente passivo; satisfiō: 1ª p. sg. pres. ind. (forma ativa).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Unificação das formas variantes; PPP/supino assinalados.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_25170-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_25170",
-    "page_num": 25170,
-    "lemmas": [
-      "satisfactio",
-      "satisfactio"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "satisfactiō: aceitação de justificativa; desculpa, explicação; também satisfação/reparação (penalidade, pagamento).",
-    "exemplos": [],
-    "notas": "Normalizada a grafia clássica 'satisfactio' (LS: sătisfactio). | [dedupe] redirect → chunk_25167:25167:0 | [dedupe] redirect → chunk_25167:25167:0",
-    "raw_text": "{\"id\":\"chunk_25170:25170:1\",\"lemas\":[\"satisfactio\",\"satisfectio\"],\"lema_canonico\":\"satisfactio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"satisfactiō: aceitação de justificativa; desculpa, explicação; também satisfação/reparação (penalidade, pagamento).\",\"aliases\":[],\"exemplos\":[\"Cic. Phil. 2, 49\"],\"notas\":\"Normalizada a grafia clássica 'satisfactio' (LS: sătisfactio).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_25170:25170:1\",\"lemas\":[\"satisfactio\",\"satisfectio\"],\"lema_canonico\":\"satisfactio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"satisfactiō: aceitação de justificativa; desculpa, explicação; também satisfação/reparação (penalidade, pagamento).\",\"aliases\":[],\"exemplos\":[\"Cic. Phil. 2, 49\"],\"notas\":\"Normalizada a grafia clássica 'satisfactio' (LS: sătisfactio).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_25170-e3",
@@ -4860,28 +4178,6 @@
     "notas": "Normalizada forma e referências conforme Lewis & Short; lemma no masculino da 2ª declinação. | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='Saturnus' → 'Sāturnus'",
     "raw_text": "{\"id\":\"chunk_25194:25194:0\",\"lemas\":[\"Saturnus\",\"Saturni\"],\"lema_canonico\":\"Saturnus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Divindade romana Saturno; deus da agricultura e da civilização; também figura do tempo e o planeta Saturno.\",\"aliases\":[],\"exemplos\":[\"Verg. Aen. 8, 319\",\"Cic. N. D. 2, 25, 64\",\"Hor. C. 2, 17, 23\"],\"notas\":\"Normalizada forma e referências conforme Lewis & Short; lemma no masculino da 2ª declinação.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_25194:25194:0\",\"lemas\":[\"Saturnus\",\"Saturni\"],\"lema_canonico\":\"Saturnus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Divindade romana Saturno; deus da agricultura e da civilização; também figura do tempo e o planeta Saturno.\",\"aliases\":[],\"exemplos\":[\"Verg. Aen. 8, 319\",\"Cic. N. D. 2, 25, 64\",\"Hor. C. 2, 17, 23\"],\"notas\":\"Normalizada forma e referências conforme Lewis & Short; lemma no masculino da 2ª declinação.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_25195-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_25195",
-    "page_num": 25195,
-    "lemmas": [
-      "sarcina",
-      "sarcina"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "pacote, feixe, fardo; bagagem, equipamento (do soldado); carga, encargo (freq. no pl.).",
-    "exemplos": [],
-    "notas": "Grafia normalizada para 'sarcina' e morfologia confirmada com LS/Lat→Deu. | [dedupe] redirect → chunk_25103:25103:0 | [dedupe] redirect → chunk_25103:25103:0",
-    "raw_text": "{\"id\":\"chunk_25195:25195:0\",\"lemas\":[\"sarcina\"],\"lema_canonico\":\"sarcina\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"pacote, feixe, fardo; bagagem, equipamento (do soldado); carga, encargo (freq. no pl.).\",\"aliases\":[],\"exemplos\":[\"Plaut. Trin. 3, 2, 93\",\"Plaut. Most. 2, 1, 83\",\"Hor. Ep. 1, 13, 6\",\"Caes. B. G. 3, 24\"],\"notas\":\"Grafia normalizada para 'sarcina' e morfologia confirmada com LS/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_25195:25195:0\",\"lemas\":[\"sarcina\"],\"lema_canonico\":\"sarcina\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"pacote, feixe, fardo; bagagem, equipamento (do soldado); carga, encargo (freq. no pl.).\",\"aliases\":[],\"exemplos\":[\"Plaut. Trin. 3, 2, 93\",\"Plaut. Most. 2, 1, 83\",\"Hor. Ep. 1, 13, 6\",\"Caes. B. G. 3, 24\"],\"notas\":\"Grafia normalizada para 'sarcina' e morfologia confirmada com LS/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_25195-e2",

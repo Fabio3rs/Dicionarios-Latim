@@ -88,28 +88,6 @@
     "raw_json": "{\"id\":\"chunk_28202:28202:0\",\"lemas\":[\"thermopotio\",\"thermopoto\"],\"lema_canonico\":\"thermopotio\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[\"v. 1ª (-āre)\",\"tr.\"],\"definicao\":\"Substantivo (f.): recipiente/objeto ligado a bebidas quentes; Verbo (1ª): 'beber/umedecer com bebida quente' (atestado em Plautus).\",\"aliases\":[],\"exemplos\":[\"Plaut. Trin. 1044\"],\"notas\":\"Entrada unificada das variantes atestadas; nome do verbo apresentado como v. 1ª (-āre). Fonte Whitaker; forma e leitura do OCR verificada.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_28203-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28203",
-    "page_num": 28203,
-    "lemmas": [
-      "Thermŏpўlae",
-      "Thermŏpўlae"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Thermópilas, desfiladeiro na Lócrida (Grécia); passagem estreita célebre pela batalha dos termópilos",
-    "exemplos": [],
-    "notas": "Mantidas variantes gráficas; localização e referência conforme first_pass. Verificação externa não fornecida aqui.\n[ocr_pipeline 2025-08-16T23:22:12.064708Z] lemma_in='Thermopylae' → 'Thermŏpўlae' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:21:02Z] match direto em LS por lemma/lemma_norm | lemma_in='Thermŏpўlae' → 'Thermŏpўlae' | [dedupe] redirect → chunk_23304:23304:0 | [dedupe] redirect → chunk_23304:23304:0",
-    "raw_text": "{\"id\":\"chunk_28203:28203:0\",\"lemas\":[\"Thermopylae\",\"Thermŏpŷlae\"],\"lema_canonico\":\"Thermopylae\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Thermópilas, desfiladeiro na Lócrida (Grécia); passagem estreita célebre pela batalha dos termópilos\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 1, 101\"],\"notas\":\"Mantidas variantes gráficas; localização e referência conforme first_pass. Verificação externa não fornecida aqui.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_28203:28203:0\",\"lemas\":[\"Thermopylae\",\"Thermŏpŷlae\"],\"lema_canonico\":\"Thermopylae\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Thermópilas, desfiladeiro na Lócrida (Grécia); passagem estreita célebre pela batalha dos termópilos\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 1, 101\"],\"notas\":\"Mantidas variantes gráficas; localização e referência conforme first_pass. Verificação externa não fornecida aqui.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
     "id": "chunk_28204-e1",
     "volume_id": "faria",
     "doc_name": "chunk_28204",
@@ -286,28 +264,6 @@
     "raw_json": "{\"id\":\"chunk_28211:28211:0\",\"lemas\":[\"thēsaurārĭus\",\"thesaurarius\",\"thēsaurārĭum\"],\"lema_canonico\":\"thesaurarius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"s. masc. 2ª (-i)\"],\"definicao\":\"1) (adj.) relativo ao tesouro; 2) (s.) tesoureiro, tesouro/depósito (substantivo tardio).\",\"aliases\":[],\"exemplos\":[\"Plaut. Aul. 2, 8, 25\",\"Cassiod. in Psa. 21, 31\"],\"notas\":\"Entrada integra usos adjetival e substantival documentados; marcou-se morfologia mista como 'morph_out_of_vocab'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"morph_out_of_vocab\"]}"
   },
   {
-    "id": "chunk_28212-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28212",
-    "page_num": 28212,
-    "lemmas": [
-      "thēsaurus",
-      "thēsaurus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "tesouro; depósito; coleção de coisas preciosas",
-    "exemplos": [],
-    "notas": "Normalizado de thēsāurum → thesaurus; paradigma -i conforme atestado. | [dedupe] redirect → chunk_28213:28213:0 | [dedupe] redirect → chunk_28213:28213:0 | [ocr_fix 2025-08-17T19:52:37Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='thesaurus' → 'thēsaurus'",
-    "raw_text": "{\"id\":\"chunk_28212:28212:0\",\"lemas\":[\"thesaurus\",\"thēsaurus\"],\"lema_canonico\":\"thesaurus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"tesouro; depósito; coleção de coisas preciosas\",\"aliases\":[],\"exemplos\":[\"Petr. 46, 8\"],\"notas\":\"Normalizado de thēsāurum → thesaurus; paradigma -i conforme atestado.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_28212:28212:0\",\"lemas\":[\"thesaurus\",\"thēsaurus\"],\"lema_canonico\":\"thesaurus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"tesouro; depósito; coleção de coisas preciosas\",\"aliases\":[],\"exemplos\":[\"Petr. 46, 8\"],\"notas\":\"Normalizado de thēsāurum → thesaurus; paradigma -i conforme atestado.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_28213-e1",
     "volume_id": "faria",
     "doc_name": "chunk_28213",
@@ -328,28 +284,6 @@
     "notas": "Variantes epigráficas/latinas (thensaurus/thensaurum) mantidas; entradas unificadas.",
     "raw_text": "{\"id\":\"chunk_28213:28213:0\",\"lemas\":[\"thēsaurus\",\"thesaurus\",\"thensaurus\",\"thensaurum\"],\"lema_canonico\":\"thēsaurus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"tesouro; cofre, armazém de riquezas; por extensão: depósito ou repositório (material ou intelectual)\",\"aliases\":[],\"exemplos\":[\"Plaut. Trin. 3, 3, 53\",\"Plaut. Trin. 4, 4, 8\",\"Plaut. Ps. 2, 2, 33\",\"Plaut. Aul. prol. 7\",\"Cic. Div. 2, 65, 134\",\"Cic. De Or. 1, 5, 18\",\"Liv. 29, 8, 9\",\"Hor. C. 3, 24, 2\"],\"notas\":\"Variantes epigráficas/latinas (thensaurus/thensaurum) mantidas; entradas unificadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_28213:28213:0\",\"lemas\":[\"thēsaurus\",\"thesaurus\",\"thensaurus\",\"thensaurum\"],\"lema_canonico\":\"thēsaurus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"tesouro; cofre, armazém de riquezas; por extensão: depósito ou repositório (material ou intelectual)\",\"aliases\":[],\"exemplos\":[\"Plaut. Trin. 3, 3, 53\",\"Plaut. Trin. 4, 4, 8\",\"Plaut. Ps. 2, 2, 33\",\"Plaut. Aul. prol. 7\",\"Cic. Div. 2, 65, 134\",\"Cic. De Or. 1, 5, 18\",\"Liv. 29, 8, 9\",\"Hor. C. 3, 24, 2\"],\"notas\":\"Variantes epigráficas/latinas (thensaurus/thensaurum) mantidas; entradas unificadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_28214-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28214",
-    "page_num": 28214,
-    "lemmas": [
-      "Theseus",
-      "Theseus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "relativo a Thēseus (o herói ateniense)",
-    "exemplos": [],
-    "notas": "Lema e forma adjetival corroborados por Lewis & Short e Whitaker; variantes grafadas segundo atesta LS. | [dedupe] redirect → chunk_28215:28215:0 | [dedupe] redirect → chunk_28215:28215:0",
-    "raw_text": "{\"id\":\"chunk_28214:28214:0\",\"lemas\":[\"Theseus\",\"Thēseus\",\"Thesēus\"],\"lema_canonico\":\"Theseus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo a Thēseus (o herói ateniense)\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 15, 492\"],\"notas\":\"Lema e forma adjetival corroborados por Lewis & Short e Whitaker; variantes grafadas segundo atesta LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28214:28214:0\",\"lemas\":[\"Theseus\",\"Thēseus\",\"Thesēus\"],\"lema_canonico\":\"Theseus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo a Thēseus (o herói ateniense)\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 15, 492\"],\"notas\":\"Lema e forma adjetival corroborados por Lewis & Short e Whitaker; variantes grafadas segundo atesta LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_28215-e1",
@@ -1166,28 +1100,6 @@
     "raw_json": "{\"id\":\"chunk_28249:28249:0\",\"lemas\":[\"Thimamum\",\"Thimămum\"],\"lema_canonico\":\"Thimamum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Topônimo: Timaro, cidade da Tessália (atestado em fontes clássicas).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Grafia normalizada para Thimamum; breve diacrítico no OCR pode indicar editorialização.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_28249-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_28249",
-    "page_num": 28249,
-    "lemmas": [
-      "Thimămum",
-      "Thimămum"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:low",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Topônimo (Timaro, Tessália) citado em Livy (T. Liv. 32, 14); gênero e forma variantes na tradição.",
-    "exemplos": [],
-    "notas": "Duplicata/oferta variante da mesma entrada; gênero/declinação incertos na tradição editorial. | [dedupe] redirect → chunk_28249:28249:0 | [dedupe] redirect → chunk_28249:28249:0",
-    "raw_text": "{\"id\":\"chunk_28249:28249:1\",\"lemas\":[\"Thimămum\",\"Thimamum\"],\"lema_canonico\":\"Thimămum\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Topônimo (Timaro, Tessália) citado em Livy (T. Liv. 32, 14); gênero e forma variantes na tradição.\",\"aliases\":[\"Thimamum\"],\"exemplos\":[\"T. Liv. 32, 14\"],\"notas\":\"Duplicata/oferta variante da mesma entrada; gênero/declinação incertos na tradição editorial.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_28249:28249:1\",\"lemas\":[\"Thimămum\",\"Thimamum\"],\"lema_canonico\":\"Thimămum\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Topônimo (Timaro, Tessália) citado em Livy (T. Liv. 32, 14); gênero e forma variantes na tradição.\",\"aliases\":[\"Thimamum\"],\"exemplos\":[\"T. Liv. 32, 14\"],\"notas\":\"Duplicata/oferta variante da mesma entrada; gênero/declinação incertos na tradição editorial.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
     "id": "chunk_28250-e1",
     "volume_id": "faria",
     "doc_name": "chunk_28250",
@@ -1386,28 +1298,6 @@
     "raw_json": "{\"id\":\"chunk_28258:28258:0\",\"lemas\":[\"Thorius\",\"Lex Thoria\"],\"lema_canonico\":\"Thorius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"nome de uma gens romana; associado à Lex Thoria (lei proposta por membro dessa gens)\",\"aliases\":[\"Lex Thoria\"],\"exemplos\":[\"Cic. De Or. 2, 70, 284\",\"Cic. Brut. 36\"],\"notas\":\"Entrada original 'Thoria' retificada para o gentilício Thorius; lei relacionada indicada como alias.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_28259-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28259",
-    "page_num": 28259,
-    "lemmas": [
-      "Thŏrĭus",
-      "Thŏrĭus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "membro da gens Thoria; ex.: Thorius Balbus, tribuno da plebe, associado à Lex Thoria",
-    "exemplos": [],
-    "notas": "Mantida identificação do indivíduo (Thorius Balbus) e ligação à lex Thoria; referência conforme LS. | [dedupe] redirect → chunk_28258:28258:0 | [dedupe] redirect → chunk_28258:28258:0 | [ocr_fix 2025-08-17T20:00:52Z] match direto em LS por lemma/lemma_norm | lemma_in='Thorius' → 'Thŏrĭus'",
-    "raw_text": "{\"id\":\"chunk_28259:28259:0\",\"lemas\":[\"Thorius\"],\"lema_canonico\":\"Thorius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"membro da gens Thoria; ex.: Thorius Balbus, tribuno da plebe, associado à Lex Thoria\",\"aliases\":[\"Thorius Balbus\"],\"exemplos\":[\"Cic. Brut. 36\"],\"notas\":\"Mantida identificação do indivíduo (Thorius Balbus) e ligação à lex Thoria; referência conforme LS.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_28259:28259:0\",\"lemas\":[\"Thorius\"],\"lema_canonico\":\"Thorius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"membro da gens Thoria; ex.: Thorius Balbus, tribuno da plebe, associado à Lex Thoria\",\"aliases\":[\"Thorius Balbus\"],\"exemplos\":[\"Cic. Brut. 36\"],\"notas\":\"Mantida identificação do indivíduo (Thorius Balbus) e ligação à lex Thoria; referência conforme LS.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_28260-e1",
     "volume_id": "faria",
     "doc_name": "chunk_28260",
@@ -1496,50 +1386,6 @@
     "raw_json": "{\"id\":\"chunk_28263:28263:0\",\"lemas\":[\"Thrax\",\"Thraces\"],\"lema_canonico\":\"Thrax\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Habitante da Trácia; também tipo de gladiador (Thracian).\",\"aliases\":[],\"exemplos\":[\"Verg. Aen. 3, 14\",\"Hor. O. 2, 19, 16\"],\"notas\":\"Inclui o singular Thrax e a forma plural Thraces; admite sentido de gladiador.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_28264-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28264",
-    "page_num": 28264,
-    "lemmas": [
-      "Thracia",
-      "Thracia"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Trácia, região a nordeste da Grécia.",
-    "exemplos": [],
-    "notas": "Formas variantes clássicas e gregas atestadas (LS); normalizado lema canônico Thracia. | [dedupe] redirect → chunk_28262:28262:0 | [dedupe] redirect → chunk_28262:28262:0",
-    "raw_text": "{\"id\":\"chunk_28264:28264:0\",\"lemas\":[\"Thracia\",\"Thraciae\",\"Thrācĭa\",\"Thrācia\"],\"lema_canonico\":\"Thracia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Trácia, região a nordeste da Grécia.\",\"aliases\":[],\"exemplos\":[\"Liv. 44, 27\"],\"notas\":\"Formas variantes clássicas e gregas atestadas (LS); normalizado lema canônico Thracia.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28264:28264:0\",\"lemas\":[\"Thracia\",\"Thraciae\",\"Thrācĭa\",\"Thrācia\"],\"lema_canonico\":\"Thracia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Trácia, região a nordeste da Grécia.\",\"aliases\":[],\"exemplos\":[\"Liv. 44, 27\"],\"notas\":\"Formas variantes clássicas e gregas atestadas (LS); normalizado lema canônico Thracia.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_28265-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28265",
-    "page_num": 28265,
-    "lemmas": [
-      "Thracius",
-      "Thracius"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Pertencente ou relativo à Trácia; trácio.",
-    "exemplos": [],
-    "notas": "Forma adjetival atestada; variantes latinas registadas (Thracius/Thracia/Thracium). | [dedupe] redirect → chunk_28285:28285:0 | [dedupe] redirect → chunk_28285:28285:0",
-    "raw_text": "{\"id\":\"chunk_28265:28265:0\",\"lemas\":[\"Thracius\",\"Thracia\",\"Thracium\"],\"lema_canonico\":\"Thracius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Pertencente ou relativo à Trácia; trácio.\",\"aliases\":[],\"exemplos\":[\"Verg. Aen. 5, 565\"],\"notas\":\"Forma adjetival atestada; variantes latinas registadas (Thracius/Thracia/Thracium).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28265:28265:0\",\"lemas\":[\"Thracius\",\"Thracia\",\"Thracium\"],\"lema_canonico\":\"Thracius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Pertencente ou relativo à Trácia; trácio.\",\"aliases\":[],\"exemplos\":[\"Verg. Aen. 5, 565\"],\"notas\":\"Forma adjetival atestada; variantes latinas registadas (Thracius/Thracia/Thracium).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_28266-e1",
     "volume_id": "faria",
     "doc_name": "chunk_28266",
@@ -1584,50 +1430,6 @@
     "raw_json": "{\"id\":\"chunk_28266:28266:1\",\"lemas\":[\"Thuricas\"],\"lema_canonico\":\"Thuricas\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Topónimo (Trácade/Terracina) — leitura incerta; ver Ov. Met. 15, 717.\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 15, 717\"],\"notas\":\"Grafia e declinação incertas no OCR; mantida a informação do first_pass com cautela.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\",\"morph_out_of_vocab\"]}"
   },
   {
-    "id": "chunk_28267-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28267",
-    "page_num": 28267,
-    "lemmas": [
-      "Thrācĭa",
-      "Thrācĭa"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Trácia: região histórica e seu povo (nordeste da Grécia / noroeste da Anatólia)",
-    "exemplos": [],
-    "notas": "Corrigido lema para a forma latina padrão Thracia (gen. -ae). | [dedupe] redirect → chunk_28262:28262:0 | [dedupe] redirect → chunk_28262:28262:0 | [ocr_fix 2025-08-17T19:52:38Z] match direto em LS por lemma/lemma_norm | lemma_in='Thracia' → 'Thrācĭa'",
-    "raw_text": "{\"id\":\"chunk_28267:28267:0\",\"lemas\":[\"Thracia\",\"Thrace\"],\"lema_canonico\":\"Thracia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Trácia: região histórica e seu povo (nordeste da Grécia / noroeste da Anatólia)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigido lema para a forma latina padrão Thracia (gen. -ae).\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"src_ocr\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_28267:28267:0\",\"lemas\":[\"Thracia\",\"Thrace\"],\"lema_canonico\":\"Thracia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Trácia: região histórica e seu povo (nordeste da Grécia / noroeste da Anatólia)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigido lema para a forma latina padrão Thracia (gen. -ae).\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"src_ocr\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_28267-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_28267",
-    "page_num": 28267,
-    "lemmas": [
-      "Thrax",
-      "Thrax"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "trácio (substantivado); também gladiador trácio que lutava com sabre e parma",
-    "exemplos": [],
-    "notas": "Atestado por Lewis & Short e Whitaker como Thrax, gen. Thracis. | [dedupe] redirect → chunk_28263:28263:0 | [dedupe] redirect → chunk_28263:28263:0",
-    "raw_text": "{\"id\":\"chunk_28267:28267:1\",\"lemas\":[\"Thrax\",\"Thracis\"],\"lema_canonico\":\"Thrax\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"trácio (substantivado); também gladiador trácio que lutava com sabre e parma\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Atestado por Lewis & Short e Whitaker como Thrax, gen. Thracis.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28267:28267:1\",\"lemas\":[\"Thrax\",\"Thracis\"],\"lema_canonico\":\"Thrax\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"trácio (substantivado); também gladiador trácio que lutava com sabre e parma\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Atestado por Lewis & Short e Whitaker como Thrax, gen. Thracis.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_28268-e1",
     "volume_id": "faria",
     "doc_name": "chunk_28268",
@@ -1648,72 +1450,6 @@
     "notas": "Forma e declinação incertas no corpus; preservada a leitura do first_pass.",
     "raw_text": "{\"id\":\"chunk_28268:28268:0\",\"lemas\":[\"Thracedica\"],\"lema_canonico\":\"Thracedica\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"(pl.) armas próprias do gladiador trácia — entrada incerta; ver fontes.\",\"aliases\":[],\"exemplos\":[\"Cic. Phil. 7, 17\"],\"notas\":\"Forma e declinação incertas no corpus; preservada a leitura do first_pass.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\",\"morph_out_of_vocab\"]}",
     "raw_json": "{\"id\":\"chunk_28268:28268:0\",\"lemas\":[\"Thracedica\"],\"lema_canonico\":\"Thracedica\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"(pl.) armas próprias do gladiador trácia — entrada incerta; ver fontes.\",\"aliases\":[],\"exemplos\":[\"Cic. Phil. 7, 17\"],\"notas\":\"Forma e declinação incertas no corpus; preservada a leitura do first_pass.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\",\"morph_out_of_vocab\"]}"
-  },
-  {
-    "id": "chunk_28269-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28269",
-    "page_num": 28269,
-    "lemmas": [
-      "thracius",
-      "thracius"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Forma gráfica atípica (Thracăus) é redirecionamento para thracius (gentílico). | [dedupe] redirect → chunk_28285:28285:0 | [dedupe] redirect → chunk_28285:28285:0",
-    "raw_text": "{\"id\":\"chunk_28269:28269:0\",\"lemas\":[\"thracaus\",\"thracāus\",\"thračaus\"],\"lema_canonico\":\"thracius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"thracius\"],\"exemplos\":[\"Cic. Or. 2, 255\"],\"notas\":\"Forma gráfica atípica (Thracăus) é redirecionamento para thracius (gentílico).\",\"flags\":[\"src_whitaker\",\"src_ocr\",\"conf:med\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_28269:28269:0\",\"lemas\":[\"thracaus\",\"thracāus\",\"thračaus\"],\"lema_canonico\":\"thracius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"thracius\"],\"exemplos\":[\"Cic. Or. 2, 255\"],\"notas\":\"Forma gráfica atípica (Thracăus) é redirecionamento para thracius (gentílico).\",\"flags\":[\"src_whitaker\",\"src_ocr\",\"conf:med\",\"redirect_only\"]}"
-  },
-  {
-    "id": "chunk_28269-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_28269",
-    "page_num": 28269,
-    "lemmas": [
-      "thracius",
-      "thracius"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Relativo à Trácia; thracianus, gentilício (de Thracia).",
-    "exemplos": [],
-    "notas": "Corrigido para a forma atestada thracius; suportado por Whitaker. | [dedupe] redirect → chunk_28285:28285:0 | [dedupe] redirect → chunk_28285:28285:0",
-    "raw_text": "{\"id\":\"chunk_28269:28269:1\",\"lemas\":[\"thracius\",\"thračius\"],\"lema_canonico\":\"thracius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo à Trácia; thracianus, gentilício (de Thracia).\",\"aliases\":[],\"exemplos\":[\"Cic. Or. 2, 255\"],\"notas\":\"Corrigido para a forma atestada thracius; suportado por Whitaker.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_28269:28269:1\",\"lemas\":[\"thracius\",\"thračius\"],\"lema_canonico\":\"thracius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo à Trácia; thracianus, gentilício (de Thracia).\",\"aliases\":[],\"exemplos\":[\"Cic. Or. 2, 255\"],\"notas\":\"Corrigido para a forma atestada thracius; suportado por Whitaker.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_28270-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28270",
-    "page_num": 28270,
-    "lemmas": [
-      "Thraessa",
-      "Thraessa"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:low",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "nome próprio feminino traciano (Virg. Aen. 1,316)",
-    "exemplos": [],
-    "notas": "Normalizado para forma latina feminina Thraessa; variante registrada from OCR. | [dedupe] redirect → chunk_28287:28287:0 | [dedupe] redirect → chunk_28287:28287:0",
-    "raw_text": "{\"id\":\"chunk_28270:28270:0\",\"lemas\":[\"Thraessa\",\"Thrăessa\"],\"lema_canonico\":\"Thraessa\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"nome próprio feminino traciano (Virg. Aen. 1,316)\",\"aliases\":[],\"exemplos\":[\"Verg. Aen. 1,316\"],\"notas\":\"Normalizado para forma latina feminina Thraessa; variante registrada from OCR.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_28270:28270:0\",\"lemas\":[\"Thraessa\",\"Thrăessa\"],\"lema_canonico\":\"Thraessa\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"nome próprio feminino traciano (Virg. Aen. 1,316)\",\"aliases\":[],\"exemplos\":[\"Verg. Aen. 1,316\"],\"notas\":\"Normalizado para forma latina feminina Thraessa; variante registrada from OCR.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
     "id": "chunk_28270-e2",
@@ -1848,28 +1584,6 @@
     "raw_json": "{\"id\":\"chunk_28275:28275:0\",\"lemas\":[\"thraspus\"],\"lema_canonico\":\"thraspus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Nome próprio masculino (general macedônio mencionado por Tito Lívio).\",\"aliases\":[],\"exemplos\":[\"T. Liv. 42, 51\"],\"notas\":\"Mantido do first_pass; entrada pouco atestada nas fontes auxiliares consultadas.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_28276-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28276",
-    "page_num": 28276,
-    "lemmas": [
-      "Thrasus",
-      "Thrasus"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada funciona como redirecionamento para Thasus (ilha/Thasos); definição vazia por redirecionamento.",
-    "raw_text": "{\"id\":\"chunk_28276:28276:0\",\"lemas\":[\"Thrasus\"],\"lema_canonico\":\"Thrasus\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Thasus\"],\"exemplos\":[],\"notas\":\"Entrada funciona como redirecionamento para Thasus (ilha/Thasos); definição vazia por redirecionamento.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_28276:28276:0\",\"lemas\":[\"Thrasus\"],\"lema_canonico\":\"Thrasus\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Thasus\"],\"exemplos\":[],\"notas\":\"Entrada funciona como redirecionamento para Thasus (ilha/Thasos); definição vazia por redirecionamento.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"redirect_only\"]}"
-  },
-  {
     "id": "chunk_28277-e1",
     "volume_id": "faria",
     "doc_name": "chunk_28277",
@@ -1980,28 +1694,6 @@
     "raw_json": "{\"id\":\"chunk_28281:28281:0\",\"lemas\":[\"Thrassus\",\"Thrasis\"],\"lema_canonico\":\"Thrassus\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Nome de povo/tribo da Trácia (plur. coletivo).\",\"aliases\":[],\"exemplos\":[\"Tít. Lívio 38, 41\"],\"notas\":\"Entrada da primeira passada conservada; forma e valor plural indicados no original OCR são incertos e exigem verificação documental.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_28282-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28282",
-    "page_num": 28282,
-    "lemmas": [
-      "Thrax",
-      "Thrax"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Um trácio; habitante da Trácia; também, tipo de gladiador trácia armado com sabre e pequeno escudo.",
-    "exemplos": [],
-    "notas": "Declinação e acepções confirmadas por Lewis & Short e Whitaker. | [dedupe] redirect → chunk_28263:28263:0 | [dedupe] redirect → chunk_28263:28263:0",
-    "raw_text": "{\"id\":\"chunk_28282:28282:0\",\"lemas\":[\"Thrax\"],\"lema_canonico\":\"Thrax\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Um trácio; habitante da Trácia; também, tipo de gladiador trácia armado com sabre e pequeno escudo.\",\"aliases\":[],\"exemplos\":[\"Hor. O. 2, 19, 16\"],\"notas\":\"Declinação e acepções confirmadas por Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28282:28282:0\",\"lemas\":[\"Thrax\"],\"lema_canonico\":\"Thrax\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Um trácio; habitante da Trácia; também, tipo de gladiador trácia armado com sabre e pequeno escudo.\",\"aliases\":[],\"exemplos\":[\"Hor. O. 2, 19, 16\"],\"notas\":\"Declinação e acepções confirmadas por Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_28283-e1",
     "volume_id": "faria",
     "doc_name": "chunk_28283",
@@ -2022,28 +1714,6 @@
     "notas": "Incluída variante forma 'Thraxe' atestada pelo OCR/first_pass; lemma e morfologia alinhados com Whitaker.",
     "raw_text": "{\"id\":\"chunk_28283:28283:0\",\"lemas\":[\"Thraceus\",\"Thraxe\"],\"lema_canonico\":\"Thraceus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo à Trácia; thracian.\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 7, 223\"],\"notas\":\"Incluída variante forma 'Thraxe' atestada pelo OCR/first_pass; lemma e morfologia alinhados com Whitaker.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_28283:28283:0\",\"lemas\":[\"Thraceus\",\"Thraxe\"],\"lema_canonico\":\"Thraceus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo à Trácia; thracian.\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 7, 223\"],\"notas\":\"Incluída variante forma 'Thraxe' atestada pelo OCR/first_pass; lemma e morfologia alinhados com Whitaker.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_28284-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28284",
-    "page_num": 28284,
-    "lemmas": [
-      "Thracia",
-      "Thracia"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Thrace, região histórica a nordeste da Grécia (província/terra dos trácios).",
-    "exemplos": [],
-    "notas": "Normalizada grafia e variantes segundo Lewis & Short; exemplo(s) ajustados. | [dedupe] redirect → chunk_28262:28262:0 | [dedupe] redirect → chunk_28262:28262:0",
-    "raw_text": "{\"id\":\"chunk_28284:28284:0\",\"lemas\":[\"Thracia\",\"Thrācē\",\"Thrāca\"],\"lema_canonico\":\"Thracia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Thrace, região histórica a nordeste da Grécia (província/terra dos trácios).\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 6, 435\",\"Liv. 44, 27\"],\"notas\":\"Normalizada grafia e variantes segundo Lewis & Short; exemplo(s) ajustados.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28284:28284:0\",\"lemas\":[\"Thracia\",\"Thrācē\",\"Thrāca\"],\"lema_canonico\":\"Thracia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Thrace, região histórica a nordeste da Grécia (província/terra dos trácios).\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 6, 435\",\"Liv. 44, 27\"],\"notas\":\"Normalizada grafia e variantes segundo Lewis & Short; exemplo(s) ajustados.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_28285-e1",
@@ -2068,50 +1738,6 @@
     "raw_json": "{\"id\":\"chunk_28285:28285:0\",\"lemas\":[\"thracius\",\"thracia\",\"thracium\"],\"lema_canonico\":\"thracius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo a Trácia; trácio.\",\"aliases\":[],\"exemplos\":[\"Ov. Am. 1, 14, 21\"],\"notas\":\"\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_28285-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_28285",
-    "page_num": 28285,
-    "lemmas": [
-      "thracus",
-      "thracus"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada indicada como remissiva ('v. Thrăcus' → ver thracius); tratado como redirecionamento para 'thracius'.",
-    "raw_text": "{\"id\":\"chunk_28285:28285:1\",\"lemas\":[\"thracus\"],\"lema_canonico\":\"thracus\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"thracius\"],\"exemplos\":[\"Ov. Am. 1, 14, 21\"],\"notas\":\"Entrada indicada como remissiva ('v. Thrăcus' → ver thracius); tratado como redirecionamento para 'thracius'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_28285:28285:1\",\"lemas\":[\"thracus\"],\"lema_canonico\":\"thracus\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"thracius\"],\"exemplos\":[\"Ov. Am. 1, 14, 21\"],\"notas\":\"Entrada indicada como remissiva ('v. Thrăcus' → ver thracius); tratado como redirecionamento para 'thracius'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"redirect_only\"]}"
-  },
-  {
-    "id": "chunk_28286-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28286",
-    "page_num": 28286,
-    "lemmas": [
-      "Thracius",
-      "Thracius"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "pertencente ou relativo à Trácia; trácia, trácias (adjetivo); também forma gentilícia.",
-    "exemplos": [],
-    "notas": "Unificadas variantes latinas; forma adjectival conforme Whitaker/LS. | [dedupe] redirect → chunk_28285:28285:0 | [dedupe] redirect → chunk_28285:28285:0",
-    "raw_text": "{\"id\":\"chunk_28286:28286:0\",\"lemas\":[\"Thracius\",\"Thrācius\",\"Thracia\"],\"lema_canonico\":\"Thracius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"pertencente ou relativo à Trácia; trácia, trácias (adjetivo); também forma gentilícia.\",\"aliases\":[],\"exemplos\":[\"Verg. Aen. 6, 645\"],\"notas\":\"Unificadas variantes latinas; forma adjectival conforme Whitaker/LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28286:28286:0\",\"lemas\":[\"Thracius\",\"Thrācius\",\"Thracia\"],\"lema_canonico\":\"Thracius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"pertencente ou relativo à Trácia; trácia, trácias (adjetivo); também forma gentilícia.\",\"aliases\":[],\"exemplos\":[\"Verg. Aen. 6, 645\"],\"notas\":\"Unificadas variantes latinas; forma adjectival conforme Whitaker/LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_28287-e1",
     "volume_id": "faria",
     "doc_name": "chunk_28287",
@@ -2132,28 +1758,6 @@
     "notas": "Variantes registradas em Lewis & Short (Thrēïssa, Thressa); tratado como nome próprio.",
     "raw_text": "{\"id\":\"chunk_28287:28287:0\",\"lemas\":[\"Thraessa\",\"Thressa\",\"Thurssa\"],\"lema_canonico\":\"Thraessa\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"nome feminino (formas Thrēïssa/Thressa), relacionado à Trácia; atestado como forma própria/antiga.\",\"aliases\":[\"Thressa\",\"Thurssa\"],\"exemplos\":[],\"notas\":\"Variantes registradas em Lewis & Short (Thrēïssa, Thressa); tratado como nome próprio.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_28287:28287:0\",\"lemas\":[\"Thraessa\",\"Thressa\",\"Thurssa\"],\"lema_canonico\":\"Thraessa\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"nome feminino (formas Thrēïssa/Thressa), relacionado à Trácia; atestado como forma própria/antiga.\",\"aliases\":[\"Thressa\",\"Thurssa\"],\"exemplos\":[],\"notas\":\"Variantes registradas em Lewis & Short (Thrēïssa, Thressa); tratado como nome próprio.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_28288-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28288",
-    "page_num": 28288,
-    "lemmas": [
-      "Thraex",
-      "Thraex"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "natural da Trácia; também gladiador thrax, armado com sabre curto e pequeno escudo.",
-    "exemplos": [],
-    "notas": "Forma Thraex/Threx atestada; definição inclui sentido técnico (gladiador). | [dedupe] redirect → chunk_28271:28271:0 | [dedupe] redirect → chunk_28271:28271:0",
-    "raw_text": "{\"id\":\"chunk_28288:28288:0\",\"lemas\":[\"Thraex\",\"Threx\"],\"lema_canonico\":\"Thraex\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"natural da Trácia; também gladiador thrax, armado com sabre curto e pequeno escudo.\",\"aliases\":[\"Threx\"],\"exemplos\":[],\"notas\":\"Forma Thraex/Threx atestada; definição inclui sentido técnico (gladiador).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28288:28288:0\",\"lemas\":[\"Thraex\",\"Threx\"],\"lema_canonico\":\"Thraex\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"natural da Trácia; também gladiador thrax, armado com sabre curto e pequeno escudo.\",\"aliases\":[\"Threx\"],\"exemplos\":[],\"notas\":\"Forma Thraex/Threx atestada; definição inclui sentido técnico (gladiador).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_28289-e1",
@@ -2464,50 +2068,6 @@
     "raw_json": "{\"id\":\"chunk_28301:28301:0\",\"lemas\":[\"Thurinus\",\"Thūrīnus\"],\"lema_canonico\":\"Thurinus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Adjetivo (possivelmente relativo a Turim — ‘de Turim’ — ou, segundo leitura alternativa nas fontes, a Tiro). Entrada conflitiva na fonte primária; requer verificação.\",\"aliases\":[],\"exemplos\":[\"Ces. B. Civ. 3, 22, 3\"],\"notas\":\"Fonte original ambígua entre ‘de Turim’ e ‘de Tírio’; Whitaker contém forma 'thurinus' com sentido diverso (verificação necessária).\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_28302-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28302",
-    "page_num": 28302,
-    "lemmas": [
-      "thus",
-      "thus"
-    ],
-    "morfologia": "s. neut. 3ª (-is)",
-    "morph_render": "s. neut. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Incenso, olíbano (frankincense).",
-    "exemplos": [],
-    "notas": "Forma neutra thus (gen. thuris) atestada; alinhado com Lewis & Short e Whitaker. | [dedupe] redirect → chunk_28266:28266:0 | [dedupe] redirect → chunk_28266:28266:0",
-    "raw_text": "{\"id\":\"chunk_28302:28302:0\",\"lemas\":[\"thus\",\"thūs\"],\"lema_canonico\":\"thus\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Incenso, olíbano (frankincense).\",\"aliases\":[\"thuris\"],\"exemplos\":[],\"notas\":\"Forma neutra thus (gen. thuris) atestada; alinhado com Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28302:28302:0\",\"lemas\":[\"thus\",\"thūs\"],\"lema_canonico\":\"thus\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Incenso, olíbano (frankincense).\",\"aliases\":[\"thuris\"],\"exemplos\":[],\"notas\":\"Forma neutra thus (gen. thuris) atestada; alinhado com Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_28303-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28303",
-    "page_num": 28303,
-    "lemmas": [
-      "Thusia",
-      "Thusia"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:low",
-    "needs_review": 1,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada trata-se de redirecionamento/erro tipográfico para Tuscia; mantida forma original como alias.",
-    "raw_text": "{\"id\":\"chunk_28303:28303:0\",\"lemas\":[\"Thusia\"],\"lema_canonico\":\"Thusia\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Tuscia\"],\"exemplos\":[],\"notas\":\"Entrada trata-se de redirecionamento/erro tipográfico para Tuscia; mantida forma original como alias.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"redirect_only\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_28303:28303:0\",\"lemas\":[\"Thusia\"],\"lema_canonico\":\"Thusia\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Tuscia\"],\"exemplos\":[],\"notas\":\"Entrada trata-se de redirecionamento/erro tipográfico para Tuscia; mantida forma original como alias.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"redirect_only\",\"needs_review\"]}"
-  },
-  {
     "id": "chunk_28304-e1",
     "volume_id": "faria",
     "doc_name": "chunk_28304",
@@ -2616,28 +2176,6 @@
     "notas": "Normalizada conforme Lewis & Short; variantes gráficas incluídas em aliases. | [ocr_fix 2025-08-17T20:00:48Z] match direto em LS por lemma/lemma_norm | lemma_in='Thyatira' → 'Thyatīra'",
     "raw_text": "{\"id\":\"chunk_28308:28308:0\",\"lemas\":[\"Thyatira\",\"Thyatira\"],\"lema_canonico\":\"Thyatira\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"cidade da Lídia (Thyatira)\",\"aliases\":[\"Tiatira\",\"Thyatīra\"],\"exemplos\":[\"Liv. 37, 44, 4\"],\"notas\":\"Normalizada conforme Lewis & Short; variantes gráficas incluídas em aliases.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_28308:28308:0\",\"lemas\":[\"Thyatira\",\"Thyatira\"],\"lema_canonico\":\"Thyatira\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"cidade da Lídia (Thyatira)\",\"aliases\":[\"Tiatira\",\"Thyatīra\"],\"exemplos\":[\"Liv. 37, 44, 4\"],\"notas\":\"Normalizada conforme Lewis & Short; variantes gráficas incluídas em aliases.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_28308-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_28308",
-    "page_num": 28308,
-    "lemmas": [
-      "Thyatira",
-      "Thyatira"
-    ],
-    "morfologia": "s. 3ª (-is)",
-    "morph_render": "s. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "forma coletiva/onomástica do topónimo (ōrum) referindo-se ao fórum ou ao lugar",
-    "exemplos": [],
-    "notas": "Entrada tratada como a forma plural/colettiva documentada por Lewis & Short. | [dedupe] redirect → chunk_28308:28308:0 | [dedupe] redirect → chunk_28308:28308:0",
-    "raw_text": "{\"id\":\"chunk_28308:28308:1\",\"lemas\":[\"Thyatira\",\"Thyatira\"],\"lema_canonico\":\"Thyatira\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"forma coletiva/onomástica do topónimo (ōrum) referindo-se ao fórum ou ao lugar\",\"aliases\":[\"Thyatīra (ōrum)\"],\"exemplos\":[\"Liv. 37, 8, 7\",\"Plin. 5, 29, 31, §115\",\"Plin. 5, 30, 33, §126\"],\"notas\":\"Entrada tratada como a forma plural/colettiva documentada por Lewis & Short.\",\"flags\":[\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28308:28308:1\",\"lemas\":[\"Thyatira\",\"Thyatira\"],\"lema_canonico\":\"Thyatira\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"forma coletiva/onomástica do topónimo (ōrum) referindo-se ao fórum ou ao lugar\",\"aliases\":[\"Thyatīra (ōrum)\"],\"exemplos\":[\"Liv. 37, 8, 7\",\"Plin. 5, 29, 31, §115\",\"Plin. 5, 30, 33, §126\"],\"notas\":\"Entrada tratada como a forma plural/colettiva documentada por Lewis & Short.\",\"flags\":[\"src_ls\",\"conf:high\"]}"
   },
   {
     "id": "chunk_28308-e3",
@@ -3058,28 +2596,6 @@
     "raw_json": "{\"id\":\"chunk_28324:28324:0\",\"lemas\":[\"thunnus\",\"thynnus\"],\"lema_canonico\":\"thunnus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"atum; the tunny (Scomber thynnus).\",\"aliases\":[],\"exemplos\":[\"Hor. Sat. 2, 4, 54\"],\"notas\":\"Unificadas variantes thunnus/thynnus; forma canónica thunnus conforme LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_28325-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28325",
-    "page_num": 28325,
-    "lemmas": [
-      "Thynus",
-      "Thynus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "relativo aos Thyni; thynian, of the Thyni/Thynia.",
-    "exemplos": [],
-    "notas": "Adjetivo gentilício Thȳnus (LS). Normalizada terminação 1/2. | [dedupe] redirect → chunk_28321:28321:0 | [dedupe] redirect → chunk_28321:28321:0",
-    "raw_text": "{\"id\":\"chunk_28325:28325:0\",\"lemas\":[\"Thynus\",\"Thȳnus\"],\"lema_canonico\":\"Thynus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo aos Thyni; thynian, of the Thyni/Thynia.\",\"aliases\":[],\"exemplos\":[\"Hor. O. 3, 7, 3\"],\"notas\":\"Adjetivo gentilício Thȳnus (LS). Normalizada terminação 1/2.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28325:28325:0\",\"lemas\":[\"Thynus\",\"Thȳnus\"],\"lema_canonico\":\"Thynus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo aos Thyni; thynian, of the Thyni/Thynia.\",\"aliases\":[],\"exemplos\":[\"Hor. O. 3, 7, 3\"],\"notas\":\"Adjetivo gentilício Thȳnus (LS). Normalizada terminação 1/2.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_28326-e1",
     "volume_id": "faria",
     "doc_name": "chunk_28326",
@@ -3388,28 +2904,6 @@
     "raw_json": "{\"id\":\"chunk_28339:28339:0\",\"lemas\":[\"Tiberinus\",\"Tibērinus\"],\"lema_canonico\":\"Tiberinus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo ao Tibre; tiberino. (Também forma substantivada em contextos poéticos: 'o Tiberino, o do Tibre').\",\"aliases\":[],\"exemplos\":[\"Ov. F. 2, 5971\"],\"notas\":\"Entrada oriunda de OCR ambíguo corrigida para o adjetivo Tiberinus conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_28339-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_28339",
-    "page_num": 28339,
-    "lemmas": [
-      "Tiberinus",
-      "Tiberinus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Adjetivo: tiberino, pertencente ao Tibre.",
-    "exemplos": [],
-    "notas": "Duplicata léxica (forma adjectival) padronizada e alinhada a fontes; mantém referência citada. | [dedupe] redirect → chunk_28339:28339:0 | [dedupe] redirect → chunk_28339:28339:0",
-    "raw_text": "{\"id\":\"chunk_28339:28339:1\",\"lemas\":[\"Tiberinus\",\"Tiberina\",\"Tiberinum\"],\"lema_canonico\":\"Tiberinus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Adjetivo: tiberino, pertencente ao Tibre.\",\"aliases\":[],\"exemplos\":[\"Cic. Pomp. 33\"],\"notas\":\"Duplicata léxica (forma adjectival) padronizada e alinhada a fontes; mantém referência citada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28339:28339:1\",\"lemas\":[\"Tiberinus\",\"Tiberina\",\"Tiberinum\"],\"lema_canonico\":\"Tiberinus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Adjetivo: tiberino, pertencente ao Tibre.\",\"aliases\":[],\"exemplos\":[\"Cic. Pomp. 33\"],\"notas\":\"Duplicata léxica (forma adjectival) padronizada e alinhada a fontes; mantém referência citada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_28340-e1",
     "volume_id": "faria",
     "doc_name": "chunk_28340",
@@ -3496,28 +2990,6 @@
     "notas": "Corrigida ambiguidade do OCR (não é dativo de tuba). Ambas acepções atestadas no LS/Whitaker.",
     "raw_text": "{\"id\":\"chunk_28342:28342:1\",\"lemas\":[\"tibia\"],\"lema_canonico\":\"tibia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"1) tíbia, osso da perna (shin‑bone); 2) (transf., orig. tubo de osso) flauta/tíbia, instrumento de sopro (pipe, reed‑pipe).\",\"aliases\":[],\"exemplos\":[\"Plin. Ep. 1, 20, 15\",\"Phaedr. 5, 7, 8\",\"Plaut. Stich. 5, 4, 41\"],\"notas\":\"Corrigida ambiguidade do OCR (não é dativo de tuba). Ambas acepções atestadas no LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_28342:28342:1\",\"lemas\":[\"tibia\"],\"lema_canonico\":\"tibia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"1) tíbia, osso da perna (shin‑bone); 2) (transf., orig. tubo de osso) flauta/tíbia, instrumento de sopro (pipe, reed‑pipe).\",\"aliases\":[],\"exemplos\":[\"Plin. Ep. 1, 20, 15\",\"Phaedr. 5, 7, 8\",\"Plaut. Stich. 5, 4, 41\"],\"notas\":\"Corrigida ambiguidade do OCR (não é dativo de tuba). Ambas acepções atestadas no LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_28343-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28343",
-    "page_num": 28343,
-    "lemmas": [
-      "tibia",
-      "tibia"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "1) (ant.) flauta, tubo de sopro (orig. instrumento feito de osso). 2) a tíbia, grande osso da canela; por extensão, perna.",
-    "exemplos": [],
-    "notas": "Unificada grafia e sentidos conforme Lewis & Short e Whitaker. | [dedupe] redirect → chunk_28342:28342:1 | [dedupe] redirect → chunk_28342:28342:1",
-    "raw_text": "{\"id\":\"chunk_28343:28343:0\",\"lemas\":[\"tibia\",\"tībĭa\"],\"lema_canonico\":\"tibia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"1) (ant.) flauta, tubo de sopro (orig. instrumento feito de osso). 2) a tíbia, grande osso da canela; por extensão, perna.\",\"aliases\":[],\"exemplos\":[\"Verg. A. 11, 737\",\"Cels. 8, 1\",\"Plin. Ep. 1, 20, 15\"],\"notas\":\"Unificada grafia e sentidos conforme Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_28343:28343:0\",\"lemas\":[\"tibia\",\"tībĭa\"],\"lema_canonico\":\"tibia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"1) (ant.) flauta, tubo de sopro (orig. instrumento feito de osso). 2) a tíbia, grande osso da canela; por extensão, perna.\",\"aliases\":[],\"exemplos\":[\"Verg. A. 11, 737\",\"Cels. 8, 1\",\"Plin. Ep. 1, 20, 15\"],\"notas\":\"Unificada grafia e sentidos conforme Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_28344-e1",
@@ -3760,28 +3232,6 @@
     "notas": "Forma apresentada na 1ª passada (Tibŭrĭnum) mantida; leitura variante Tiburnum sugerida — revisão necessária",
     "raw_text": "{\"id\":\"chunk_28354:28354:0\",\"lemas\":[\"Tiburinum\",\"Tiburnum\"],\"lema_canonico\":\"Tiburinum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"(possível) villa ou casa de campo em Tibur; gentílico/relativo a Tibur (forma atípica)\",\"aliases\":[],\"exemplos\":[\"Cic. Phil. 5, 19\"],\"notas\":\"Forma apresentada na 1ª passada (Tibŭrĭnum) mantida; leitura variante Tiburnum sugerida — revisão necessária\",\"flags\":[\"src_firstpass\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_28354:28354:0\",\"lemas\":[\"Tiburinum\",\"Tiburnum\"],\"lema_canonico\":\"Tiburinum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"(possível) villa ou casa de campo em Tibur; gentílico/relativo a Tibur (forma atípica)\",\"aliases\":[],\"exemplos\":[\"Cic. Phil. 5, 19\"],\"notas\":\"Forma apresentada na 1ª passada (Tibŭrĭnum) mantida; leitura variante Tiburnum sugerida — revisão necessária\",\"flags\":[\"src_firstpass\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_28355-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28355",
-    "page_num": 28355,
-    "lemmas": [
-      "Tīcīnensis",
-      "Tīcīnensis"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "relativo a Tibur (Tívoli); tiburtino",
-    "exemplos": [],
-    "notas": "Mantida forma tradicional 'Tiburtinus'; primeira passada e OCR serviram de base.\n[ocr_pipeline 2025-08-16T23:28:23.702722Z] lemma_in='Tiburtinus' → 'Tīcīnensis' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:29:27Z] match direto em LS por lemma/lemma_norm | lemma_in='Tīcīnensis' → 'Tīcīnensis' | [dedupe] redirect → chunk_28350:28350:0 | [dedupe] redirect → chunk_28350:28350:0",
-    "raw_text": "{\"id\":\"chunk_28355:28355:0\",\"lemas\":[\"Tiburtinus\",\"Tiburtinus\"],\"lema_canonico\":\"Tiburtinus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo a Tibur (Tívoli); tiburtino\",\"aliases\":[],\"exemplos\":[\"Prop. 4, 7, 85\"],\"notas\":\"Mantida forma tradicional 'Tiburtinus'; primeira passada e OCR serviram de base.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}",
-    "raw_json": "{\"id\":\"chunk_28355:28355:0\",\"lemas\":[\"Tiburtinus\",\"Tiburtinus\"],\"lema_canonico\":\"Tiburtinus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo a Tibur (Tívoli); tiburtino\",\"aliases\":[],\"exemplos\":[\"Prop. 4, 7, 85\"],\"notas\":\"Mantida forma tradicional 'Tiburtinus'; primeira passada e OCR serviram de base.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\"]}"
   },
   {
     "id": "chunk_28356-e1",
@@ -4662,28 +4112,6 @@
     "notas": "Normalizado para Timoleon (forma latina do grego Τιμόλεων); morfologia ajustada para 3ª declinação; confirmar grafia em fontes primárias.\n[ocr_pipeline 2025-08-16T23:18:50.384669Z] lemma_in='Timoleon' → 'Tīmŏlĕon' | motivo: match direto em LS por lemma/lemma_norm | [ocr_fix 2025-08-17T01:16:34Z] match direto em LS por lemma/lemma_norm | lemma_in='Tīmŏlĕon' → 'Tīmŏlĕon'",
     "raw_text": "{\"id\":\"chunk_28394:28394:0\",\"lemas\":[\"Timoleon\"],\"lema_canonico\":\"Timoleon\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Timoleonte, estadista grego de Corinto (séc. IV a.C.)\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 5, 12, 7\"],\"notas\":\"Normalizado para Timoleon (forma latina do grego Τιμόλεων); morfologia ajustada para 3ª declinação; confirmar grafia em fontes primárias.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_28394:28394:0\",\"lemas\":[\"Timoleon\"],\"lema_canonico\":\"Timoleon\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Timoleonte, estadista grego de Corinto (séc. IV a.C.)\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 5, 12, 7\"],\"notas\":\"Normalizado para Timoleon (forma latina do grego Τιμόλεων); morfologia ajustada para 3ª declinação; confirmar grafia em fontes primárias.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_28395-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_28395",
-    "page_num": 28395,
-    "lemmas": [
-      "Timoleus",
-      "Timoleus"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:low",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada apresentada como redirecionamento ('v. Timolēes') no first_pass; registrada aqui como redirect_only para remeter ao lema citado.",
-    "raw_text": "{\"id\":\"chunk_28395:28395:0\",\"lemas\":[\"Timoleus\",\"Timōlēus\",\"Timolēus\"],\"lema_canonico\":\"Timoleus\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Timolēes\"],\"exemplos\":[\"Cic. Flac. 8\"],\"notas\":\"Entrada apresentada como redirecionamento ('v. Timolēes') no first_pass; registrada aqui como redirect_only para remeter ao lema citado.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_28395:28395:0\",\"lemas\":[\"Timoleus\",\"Timōlēus\",\"Timolēus\"],\"lema_canonico\":\"Timoleus\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Timolēes\"],\"exemplos\":[\"Cic. Flac. 8\"],\"notas\":\"Entrada apresentada como redirecionamento ('v. Timolēes') no first_pass; registrada aqui como redirect_only para remeter ao lema citado.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"redirect_only\"]}"
   },
   {
     "id": "chunk_28396-e1",

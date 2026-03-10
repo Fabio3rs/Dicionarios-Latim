@@ -154,28 +154,6 @@
     "raw_json": "{\"id\":\"chunk_4806:4806:0\",\"lemas\":[\"Charinus\"],\"lema_canonico\":\"Charinus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"nome próprio masculino Charinus (att. Ter. Andr. 345)\",\"aliases\":[],\"exemplos\":[\"Ter. Andr. 345\"],\"notas\":\"Whitaker registra 'charinus' como adjetivo em alguns lematos; aqui mantido como antropónimo conforme testemunho clássico.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_4807-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_4807",
-    "page_num": 4807,
-    "lemmas": [
-      "Chăris",
-      "Chăris"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "LS directs Chăris to Charites; grafia e declinação variam entre fontes.\n[ocr_pipeline 2025-08-16T23:10:25.206154Z] lemma_in='Charis' → 'Chăris' | motivo: match direto em LS por lemma/lemma_norm | [ocr_fix 2025-08-17T01:05:18Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='Chăris' → 'Chăris'",
-    "raw_text": "{\"id\":\"chunk_4807:4807:0\",\"lemas\":[\"Charis\"],\"lema_canonico\":\"Charis\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Charites\"],\"exemplos\":[\"Plin. H. Nat. 36, 32\"],\"notas\":\"LS directs Chăris to Charites; grafia e declinação variam entre fontes.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_firstpass\",\"conf:low\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_4807:4807:0\",\"lemas\":[\"Charis\"],\"lema_canonico\":\"Charis\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Charites\"],\"exemplos\":[\"Plin. H. Nat. 36, 32\"],\"notas\":\"LS directs Chăris to Charites; grafia e declinação variam entre fontes.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_firstpass\",\"conf:low\",\"redirect_only\"]}"
-  },
-  {
     "id": "chunk_4808-e1",
     "volume_id": "faria",
     "doc_name": "chunk_4808",
@@ -242,28 +220,6 @@
     "raw_json": "{\"id\":\"chunk_4810:4810:0\",\"lemas\":[\"Charites\"],\"lema_canonico\":\"Charites\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"As Cárites ou Graças (do grego Χάριτες); normalmente três deusas: Aglaia, Eufrosina e Talía; equivalente latino: Gratiae.\",\"aliases\":[\"Charita\"],\"exemplos\":[\"Ov. Fast. 5, 219\",\"Sen. Ben. 1, 4, 4\",\"Plin. Nat. 36, 5, 4 § 32\",\"Plin. Nat. 35, 10; 36 § 79\"],\"notas\":\"Corresponde ao verbete LS Chărĭtes; singular atestado como Charita.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_4811-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_4811",
-    "page_num": 4811,
-    "lemmas": [
-      "Charites",
-      "Charites"
-    ],
-    "morfologia": "s. 3ª (-is)",
-    "morph_render": "s. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "As Charites, as Graças (Aglaia, Eufrosine e Talía).",
-    "exemplos": [],
-    "notas": "[dedupe] redirect → chunk_4810:4810:0 | [dedupe] redirect → chunk_4810:4810:0",
-    "raw_text": "{\"id\":\"chunk_4811:4811:0\",\"lemas\":[\"Charites\"],\"lema_canonico\":\"Charites\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"As Charites, as Graças (Aglaia, Eufrosine e Talía).\",\"aliases\":[],\"exemplos\":[\"Ov. F. 5, 219\"],\"notas\":\"\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_4811:4811:0\",\"lemas\":[\"Charites\"],\"lema_canonico\":\"Charites\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"As Charites, as Graças (Aglaia, Eufrosine e Talía).\",\"aliases\":[],\"exemplos\":[\"Ov. F. 5, 219\"],\"notas\":\"\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_4812-e1",
     "volume_id": "faria",
     "doc_name": "chunk_4812",
@@ -306,28 +262,6 @@
     "notas": "Corresponde a LS Chăron; Whitaker registra forma equivalente. | [ocr_fix 2025-08-20T01:03:57Z] Correção automática de lema via LS | lemma_in='Charon' → 'Chăron'",
     "raw_text": "{\"id\":\"chunk_4813:4813:0\",\"lemas\":[\"Charon\"],\"lema_canonico\":\"Charon\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Caronte, o barqueiro do mundo inferior que conduz as almas dos mortos.\",\"aliases\":[],\"exemplos\":[\"Verg. En. 6, 299\"],\"notas\":\"Corresponde a LS Chăron; Whitaker registra forma equivalente.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_4813:4813:0\",\"lemas\":[\"Charon\"],\"lema_canonico\":\"Charon\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Caronte, o barqueiro do mundo inferior que conduz as almas dos mortos.\",\"aliases\":[],\"exemplos\":[\"Verg. En. 6, 299\"],\"notas\":\"Corresponde a LS Chăron; Whitaker registra forma equivalente.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_4814-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_4814",
-    "page_num": 4814,
-    "lemmas": [
-      "Chăron",
-      "Chăron"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Charon, barqueiro do Mundo Inferior; também nome próprio (ex.: estadista tebano Nep. Pel. 2, 5).",
-    "exemplos": [],
-    "notas": "Grafia normalizada; incluída a forma adjetival 'Charonēus' atestada no LS. | [dedupe] redirect → chunk_4813:4813:0 | [dedupe] redirect → chunk_4813:4813:0 | [ocr_fix 2025-08-17T19:56:41Z] match direto em LS por lemma/lemma_norm | lemma_in='Charon' → 'Chăron'",
-    "raw_text": "{\"id\":\"chunk_4814:4814:0\",\"lemas\":[\"Charon\",\"Charonēus\"],\"lema_canonico\":\"Charon\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Charon, barqueiro do Mundo Inferior; também nome próprio (ex.: estadista tebano Nep. Pel. 2, 5).\",\"aliases\":[],\"exemplos\":[\"Cic. N. D. 3, 17, 43\",\"Verg. A. 6, 299\",\"Verg. Cul. 2, 15\",\"Sen. Herc. Fur. 771\",\"Nep. Pel. 2, 5\"],\"notas\":\"Grafia normalizada; incluída a forma adjetival 'Charonēus' atestada no LS.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_4814:4814:0\",\"lemas\":[\"Charon\",\"Charonēus\"],\"lema_canonico\":\"Charon\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Charon, barqueiro do Mundo Inferior; também nome próprio (ex.: estadista tebano Nep. Pel. 2, 5).\",\"aliases\":[],\"exemplos\":[\"Cic. N. D. 3, 17, 43\",\"Verg. A. 6, 299\",\"Verg. Cul. 2, 15\",\"Sen. Herc. Fur. 771\",\"Nep. Pel. 2, 5\"],\"notas\":\"Grafia normalizada; incluída a forma adjetival 'Charonēus' atestada no LS.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
     "id": "chunk_4815-e1",
@@ -396,28 +330,6 @@
     "raw_json": "{\"id\":\"chunk_4817:4817:0\",\"lemas\":[\"Charops\"],\"lema_canonico\":\"Charops\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Nome próprio masculino (homem).\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 13, 260\"],\"notas\":\"Entrada incerta; Whitaker não atesta e forma conhecida apenas por citações; revisar.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_4818-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_4818",
-    "page_num": 4818,
-    "lemmas": [
-      "charta",
-      "charta"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Folha de papiro/papel; por extensão, escrito, documento, livro, volume.",
-    "exemplos": [],
-    "notas": "Forma principal 'charta' com variante 'carta'; acepções alinhadas com LS e Lat→Deu. | [dedupe] redirect → chunk_4353:4353:0 | [dedupe] redirect → chunk_4353:4353:0",
-    "raw_text": "{\"id\":\"chunk_4818:4818:0\",\"lemas\":[\"charta\",\"carta\"],\"lema_canonico\":\"charta\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Folha de papiro/papel; por extensão, escrito, documento, livro, volume.\",\"aliases\":[],\"exemplos\":[\"Hor. Ep. 2, 1, 11\",\"Hor. A. P. 310\",\"Catul. 1, 6\"],\"notas\":\"Forma principal 'charta' com variante 'carta'; acepções alinhadas com LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_4818:4818:0\",\"lemas\":[\"charta\",\"carta\"],\"lema_canonico\":\"charta\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Folha de papiro/papel; por extensão, escrito, documento, livro, volume.\",\"aliases\":[],\"exemplos\":[\"Hor. Ep. 2, 1, 11\",\"Hor. A. P. 310\",\"Catul. 1, 6\"],\"notas\":\"Forma principal 'charta' com variante 'carta'; acepções alinhadas com LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_4819-e1",
     "volume_id": "faria",
     "doc_name": "chunk_4819",
@@ -438,28 +350,6 @@
     "notas": "Lema unificado para 'chartula' (chartŭla); sentidos confirmados em LS e Whitaker. | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='chartula' → 'chartŭla'",
     "raw_text": "{\"id\":\"chunk_4819:4819:0\",\"lemas\":[\"chartula\"],\"lema_canonico\":\"chartula\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Pequeno pedaço de papiro/papel; bilhete, nota curta, pequeno escrito.\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 7, 18, 2\",\"Gai. Inst. 2, 77\",\"Fronto ad Amic. 1, 15\",\"Cod. Th. 8, 2, 2\"],\"notas\":\"Lema unificado para 'chartula' (chartŭla); sentidos confirmados em LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_4819:4819:0\",\"lemas\":[\"chartula\"],\"lema_canonico\":\"chartula\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Pequeno pedaço de papiro/papel; bilhete, nota curta, pequeno escrito.\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 7, 18, 2\",\"Gai. Inst. 2, 77\",\"Fronto ad Amic. 1, 15\",\"Cod. Th. 8, 2, 2\"],\"notas\":\"Lema unificado para 'chartula' (chartŭla); sentidos confirmados em LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_4820-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_4820",
-    "page_num": 4820,
-    "lemmas": [
-      "chartys",
-      "chartys"
-    ],
-    "morfologia": "v.",
-    "morph_render": "v.",
-    "morph_extra": [],
-    "conf": "conf:low",
-    "needs_review": 1,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada aparentemente redireciona para 'charta'; forma não confirmada em dicionários padrão.",
-    "raw_text": "{\"id\":\"chunk_4820:4820:0\",\"lemas\":[\"chartys\"],\"lema_canonico\":\"chartys\",\"morfologia\":\"v.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"charta\"],\"exemplos\":[],\"notas\":\"Entrada aparentemente redireciona para 'charta'; forma não confirmada em dicionários padrão.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"redirect_only\",\"needs_review\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_4820:4820:0\",\"lemas\":[\"chartys\"],\"lema_canonico\":\"chartys\",\"morfologia\":\"v.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"charta\"],\"exemplos\":[],\"notas\":\"Entrada aparentemente redireciona para 'charta'; forma não confirmada em dicionários padrão.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"redirect_only\",\"needs_review\",\"morph_out_of_vocab\"]}"
   },
   {
     "id": "chunk_4821-e1",
@@ -548,28 +438,6 @@
     "notas": "Grafia e referências harmonizadas com Lewis & Short; morfologia plural tribal indicada via gen. -ōrum (morph_out_of_vocab).",
     "raw_text": "{\"id\":\"chunk_4824:4824:0\",\"lemas\":[\"Chauci\",\"Cauci\",\"Chauchi\"],\"lema_canonico\":\"Chauci\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Tribo germânica da Germânia inferior (junto ao oceano, do Ems ao Elba), dividida em majores e minores.\",\"aliases\":[],\"exemplos\":[\"Tac. Germ. 35\",\"Vell. 2, 106, 1\",\"Tac. A. 2, 24\"],\"notas\":\"Grafia e referências harmonizadas com Lewis & Short; morfologia plural tribal indicada via gen. -ōrum (morph_out_of_vocab).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}",
     "raw_json": "{\"id\":\"chunk_4824:4824:0\",\"lemas\":[\"Chauci\",\"Cauci\",\"Chauchi\"],\"lema_canonico\":\"Chauci\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Tribo germânica da Germânia inferior (junto ao oceano, do Ems ao Elba), dividida em majores e minores.\",\"aliases\":[],\"exemplos\":[\"Tac. Germ. 35\",\"Vell. 2, 106, 1\",\"Tac. A. 2, 24\"],\"notas\":\"Grafia e referências harmonizadas com Lewis & Short; morfologia plural tribal indicada via gen. -ōrum (morph_out_of_vocab).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}"
-  },
-  {
-    "id": "chunk_4825-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_4825",
-    "page_num": 4825,
-    "lemmas": [
-      "chaos",
-      "chaos"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "o Caos; vazio primordial; abismo, submundo",
-    "exemplos": [],
-    "notas": "Grafia confirmada em Whitaker e Lat→Deu; Lewis & Short registra variantes e usos mitológicos. | [dedupe] redirect → chunk_4798:4798:0 | [dedupe] redirect → chunk_4798:4798:0",
-    "raw_text": "{\"id\":\"chunk_4825:4825:0\",\"lemas\":[\"chaos\",\"Chaos\"],\"lema_canonico\":\"chaos\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"o Caos; vazio primordial; abismo, submundo\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Grafia confirmada em Whitaker e Lat→Deu; Lewis & Short registra variantes e usos mitológicos.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_4825:4825:0\",\"lemas\":[\"chaos\",\"Chaos\"],\"lema_canonico\":\"chaos\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"o Caos; vazio primordial; abismo, submundo\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Grafia confirmada em Whitaker e Lat→Deu; Lewis & Short registra variantes e usos mitológicos.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"conf:high\"]}"
   },
   {
     "id": "chunk_4825-e2",
@@ -880,28 +748,6 @@
     "raw_json": "{\"id\":\"chunk_4837:4837:0\",\"lemas\":[\"chiliarchus\",\"chiliarchis\"],\"lema_canonico\":\"chiliarchus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Oficial que comandava mil homens (do grego χιλίαρχος).\",\"aliases\":[],\"exemplos\":[\"Q. Cúrc. 5, 2, 3\"],\"notas\":\"Forma atestada como empréstimo grego; normalizado lemmas segundo Whitaker/Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_4838-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_4838",
-    "page_num": 4838,
-    "lemmas": [
-      "chiliarchus",
-      "chiliarchus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "oficial comandante de mil homens (grego); também usado como alto dignitário/politico em contextos persas",
-    "exemplos": [],
-    "notas": "Confirmado em Whitaker e Lat→Deu (latiniz. -ī); harmonizado sentido militar e administrativo | [dedupe] redirect → chunk_4837:4837:0 | [dedupe] redirect → chunk_4837:4837:0",
-    "raw_text": "{\"id\":\"chunk_4838:4838:0\",\"lemas\":[\"chiliarchus\"],\"lema_canonico\":\"chiliarchus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"oficial comandante de mil homens (grego); também usado como alto dignitário/politico em contextos persas\",\"aliases\":[],\"exemplos\":[\"C. Nep. Con. 3, 2\"],\"notas\":\"Confirmado em Whitaker e Lat→Deu (latiniz. -ī); harmonizado sentido militar e administrativo\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_4838:4838:0\",\"lemas\":[\"chiliarchus\"],\"lema_canonico\":\"chiliarchus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"oficial comandante de mil homens (grego); também usado como alto dignitário/politico em contextos persas\",\"aliases\":[],\"exemplos\":[\"C. Nep. Con. 3, 2\"],\"notas\":\"Confirmado em Whitaker e Lat→Deu (latiniz. -ī); harmonizado sentido militar e administrativo\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_4839-e1",
     "volume_id": "faria",
     "doc_name": "chunk_4839",
@@ -1076,28 +922,6 @@
     "notas": "Adjetivo clássico do grego Χῖος; formas femin./neutrais atestadas",
     "raw_text": "{\"id\":\"chunk_4845:4845:1\",\"lemas\":[\"Chius\",\"Chia\",\"Chium\"],\"lema_canonico\":\"Chius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"chiano; relativo a Quios; do vinho de Quios; característico de Quios; luxurioso\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Adjetivo clássico do grego Χῖος; formas femin./neutrais atestadas\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_4845:4845:1\",\"lemas\":[\"Chius\",\"Chia\",\"Chium\"],\"lema_canonico\":\"Chius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"chiano; relativo a Quios; do vinho de Quios; característico de Quios; luxurioso\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Adjetivo clássico do grego Χῖος; formas femin./neutrais atestadas\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_4846-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_4846",
-    "page_num": 4846,
-    "lemmas": [
-      "chiragra",
-      "chiragra"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "dor nas mãos; artrite ou gota nas mãos",
-    "exemplos": [],
-    "notas": "Variantes confirmadas; forma greco-latina 'cheiragra' atestada | [dedupe] redirect → chunk_4830:4830:0 | [dedupe] redirect → chunk_4830:4830:0",
-    "raw_text": "{\"id\":\"chunk_4846:4846:0\",\"lemas\":[\"chiragra\",\"cheiragra\"],\"lema_canonico\":\"chiragra\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"dor nas mãos; artrite ou gota nas mãos\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Variantes confirmadas; forma greco-latina 'cheiragra' atestada\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_4846:4846:0\",\"lemas\":[\"chiragra\",\"cheiragra\"],\"lema_canonico\":\"chiragra\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"dor nas mãos; artrite ou gota nas mãos\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Variantes confirmadas; forma greco-latina 'cheiragra' atestada\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_4847-e1",
@@ -1276,28 +1100,6 @@
     "raw_json": "{\"id\":\"chunk_4854:4854:0\",\"lemas\":[\"chium\"],\"lema_canonico\":\"chium\",\"morfologia\":\"s. neut. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"produto/denominação relativo a Quios: vinho de Quios; também: pequena semente (single seed) de uva raética segundo Plínio\",\"aliases\":[],\"exemplos\":[\"Hor. Sát. I, 10, 24\",\"Plin. (cit.)\"],\"notas\":\"Combinação dos registros Whitaker e Lat→Deu; conserva uso substantival e referência ao fruto/semente.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_4855-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_4855",
-    "page_num": 4855,
-    "lemmas": [
-      "Chius",
-      "Chius"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "relativo a Quios (Chios); dito do vinho de Quios; característica de Quios",
-    "exemplos": [],
-    "notas": "Adjetivo com variantes de gênero/forma atestadas (Chius, Chia, Chium). | [dedupe] redirect → chunk_4845:4845:1 | [dedupe] redirect → chunk_4845:4845:1",
-    "raw_text": "{\"id\":\"chunk_4855:4855:0\",\"lemas\":[\"Chius\",\"Chia\",\"Chium\"],\"lema_canonico\":\"Chius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo a Quios (Chios); dito do vinho de Quios; característica de Quios\",\"aliases\":[],\"exemplos\":[\"Petr. 63, 3\"],\"notas\":\"Adjetivo com variantes de gênero/forma atestadas (Chius, Chia, Chium).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_4855:4855:0\",\"lemas\":[\"Chius\",\"Chia\",\"Chium\"],\"lema_canonico\":\"Chius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo a Quios (Chios); dito do vinho de Quios; característica de Quios\",\"aliases\":[],\"exemplos\":[\"Petr. 63, 3\"],\"notas\":\"Adjetivo com variantes de gênero/forma atestadas (Chius, Chia, Chium).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_4856-e1",
     "volume_id": "faria",
     "doc_name": "chunk_4856",
@@ -1384,28 +1186,6 @@
     "notas": "Forma attestada em Lewis & Short como Chlŏē; variantes gráficas mantidas.",
     "raw_text": "{\"id\":\"chunk_4859:4859:0\",\"lemas\":[\"Chlōē\",\"Chloe\",\"Chlôê\"],\"lema_canonico\":\"Chlōē\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"nome próprio feminino de origem grega (Chloë).\",\"aliases\":[],\"exemplos\":[\"Ov. Am. 2, 7, 23\",\"Hor. C. 1, 23, 1\"],\"notas\":\"Forma attestada em Lewis & Short como Chlŏē; variantes gráficas mantidas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_4859:4859:0\",\"lemas\":[\"Chlōē\",\"Chloe\",\"Chlôê\"],\"lema_canonico\":\"Chlōē\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"nome próprio feminino de origem grega (Chloë).\",\"aliases\":[],\"exemplos\":[\"Ov. Am. 2, 7, 23\",\"Hor. C. 1, 23, 1\"],\"notas\":\"Forma attestada em Lewis & Short como Chlŏē; variantes gráficas mantidas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_4860-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_4860",
-    "page_num": 4860,
-    "lemmas": [
-      "Chlōē",
-      "Chlōē"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "nome feminino grego (Chloë), citado em autores latinos.",
-    "exemplos": [],
-    "notas": "Redundante com chunk_4859; mesma normalização e fontes (LS, Whitaker). | [dedupe] redirect → chunk_4859:4859:0 | [dedupe] redirect → chunk_4859:4859:0",
-    "raw_text": "{\"id\":\"chunk_4860:4860:0\",\"lemas\":[\"Chlōē\",\"Chloe\",\"Chloé\"],\"lema_canonico\":\"Chlōē\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"nome feminino grego (Chloë), citado em autores latinos.\",\"aliases\":[],\"exemplos\":[\"Ov. Am. 2, 7, 23\",\"Hor. C. 1, 23, 1\"],\"notas\":\"Redundante com chunk_4859; mesma normalização e fontes (LS, Whitaker).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_4860:4860:0\",\"lemas\":[\"Chlōē\",\"Chloe\",\"Chloé\"],\"lema_canonico\":\"Chlōē\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"nome feminino grego (Chloë), citado em autores latinos.\",\"aliases\":[],\"exemplos\":[\"Ov. Am. 2, 7, 23\",\"Hor. C. 1, 23, 1\"],\"notas\":\"Redundante com chunk_4859; mesma normalização e fontes (LS, Whitaker).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_4861-e1",
@@ -1606,28 +1386,6 @@
     "raw_json": "{\"id\":\"chunk_4869:4869:0\",\"lemas\":[\"choreus\",\"chŏrēus\"],\"lema_canonico\":\"choreus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"troqueu, trochee; pé métrico (símbolo ˘¯) — usado por metrístas latinos\",\"aliases\":[],\"exemplos\":[\"Cic. Or. 63, 212\"],\"notas\":\"Corresponde ao verbete LS chŏrēus; definição concisa mantida e morfologia alignada com dicionários.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_4870-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_4870",
-    "page_num": 4870,
-    "lemmas": [
-      "chorius",
-      "chorius"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "ver choreus",
-    "exemplos": [],
-    "notas": "Entrada é variante gráfica: chŏrīus > choreus (LS). Mantida forma apontada pelo Faria como remissão.",
-    "raw_text": "{\"id\":\"chunk_4870:4870:0\",\"lemas\":[\"chorius\",\"chŏrīus\"],\"lema_canonico\":\"chorius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"ver choreus\",\"aliases\":[\"choreus\"],\"exemplos\":[],\"notas\":\"Entrada é variante gráfica: chŏrīus > choreus (LS). Mantida forma apontada pelo Faria como remissão.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_4870:4870:0\",\"lemas\":[\"chorius\",\"chŏrīus\"],\"lema_canonico\":\"chorius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"ver choreus\",\"aliases\":[\"choreus\"],\"exemplos\":[],\"notas\":\"Entrada é variante gráfica: chŏrīus > choreus (LS). Mantida forma apontada pelo Faria como remissão.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"redirect_only\"]}"
-  },
-  {
     "id": "chunk_4871-e1",
     "volume_id": "faria",
     "doc_name": "chunk_4871",
@@ -1670,28 +1428,6 @@
     "notas": "Grafia e referências ajustadas segundo LS e Lat→Deu; morfologia normalizada para 2ª declinação. | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='chorus' → 'chŏrus'",
     "raw_text": "{\"id\":\"chunk_4872:4872:0\",\"lemas\":[\"chorus\"],\"lema_canonico\":\"chorus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"coro; dança em coro; também conjunto ou assembleia\",\"aliases\":[],\"exemplos\":[\"Hor. C. 1, 1, 31\",\"Verg. G. 4, 460\",\"Cic. Mur. 24, 49\"],\"notas\":\"Grafia e referências ajustadas segundo LS e Lat→Deu; morfologia normalizada para 2ª declinação.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_4872:4872:0\",\"lemas\":[\"chorus\"],\"lema_canonico\":\"chorus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"coro; dança em coro; também conjunto ou assembleia\",\"aliases\":[],\"exemplos\":[\"Hor. C. 1, 1, 31\",\"Verg. G. 4, 460\",\"Cic. Mur. 24, 49\"],\"notas\":\"Grafia e referências ajustadas segundo LS e Lat→Deu; morfologia normalizada para 2ª declinação.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_4873-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_4873",
-    "page_num": 4873,
-    "lemmas": [
-      "cerno",
-      "cerno"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "ver, distinguir, perceber; reconhecer; decidir; (pass.) mostrar‑se, revelar‑se.",
-    "exemplos": [],
-    "notas": "Corrigido: trata-se do verbo cernō, não de nome próprio; definição baseada no Lat→Deu/LS. | [dedupe] redirect → chunk_4720:4720:0 | [dedupe] redirect → chunk_4720:4720:0 | [ocr_fix 2025-08-17T19:56:42Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='cernō' → 'cerno'",
-    "raw_text": "{\"id\":\"chunk_4873:4873:0\",\"lemas\":[\"cernō\",\"cernere\"],\"lema_canonico\":\"cernō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"ver, distinguir, perceber; reconhecer; decidir; (pass.) mostrar‑se, revelar‑se.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigido: trata-se do verbo cernō, não de nome próprio; definição baseada no Lat→Deu/LS.\",\"flags\":[\"src_latdeu\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_4873:4873:0\",\"lemas\":[\"cernō\",\"cernere\"],\"lema_canonico\":\"cernō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"ver, distinguir, perceber; reconhecer; decidir; (pass.) mostrar‑se, revelar‑se.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigido: trata-se do verbo cernō, não de nome próprio; definição baseada no Lat→Deu/LS.\",\"flags\":[\"src_latdeu\",\"conf:med\"]}"
   },
   {
     "id": "chunk_4874-e1",
@@ -1758,28 +1494,6 @@
     "notas": "Forma e uso confirmados em Lewis & Short, Whitaker e Lat→Deu; incluída forma adverbial atestada (christianē) entre lemas.",
     "raw_text": "{\"id\":\"chunk_4876:4876:0\",\"lemas\":[\"christianus\",\"christianē\"],\"lema_canonico\":\"christianus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Adj.: relativo ao cristianismo, cristão. Subs.: um cristão, também usado para clérigo cristão.\",\"aliases\":[],\"exemplos\":[\"Eutr. 10, 16\",\"Plin. Ep. 10, 97\"],\"notas\":\"Forma e uso confirmados em Lewis & Short, Whitaker e Lat→Deu; incluída forma adverbial atestada (christianē) entre lemas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_4876:4876:0\",\"lemas\":[\"christianus\",\"christianē\"],\"lema_canonico\":\"christianus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Adj.: relativo ao cristianismo, cristão. Subs.: um cristão, também usado para clérigo cristão.\",\"aliases\":[],\"exemplos\":[\"Eutr. 10, 16\",\"Plin. Ep. 10, 97\"],\"notas\":\"Forma e uso confirmados em Lewis & Short, Whitaker e Lat→Deu; incluída forma adverbial atestada (christianē) entre lemas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_4877-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_4877",
-    "page_num": 4877,
-    "lemmas": [
-      "christianus",
-      "christianus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Adjetivo e substantivo: cristão; também usado como substantivo para 'um cristão' ou 'clérigo cristão'.",
-    "exemplos": [],
-    "notas": "Registro adjetival e substantival confirmado por LS e Whitaker. | [dedupe] redirect → chunk_4876:4876:0 | [dedupe] redirect → chunk_4876:4876:0",
-    "raw_text": "{\"id\":\"chunk_4877:4877:0\",\"lemas\":[\"christianus\"],\"lema_canonico\":\"christianus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Adjetivo e substantivo: cristão; também usado como substantivo para 'um cristão' ou 'clérigo cristão'.\",\"aliases\":[],\"exemplos\":[\"Tac. An. 15, 44\"],\"notas\":\"Registro adjetival e substantival confirmado por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_4877:4877:0\",\"lemas\":[\"christianus\"],\"lema_canonico\":\"christianus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Adjetivo e substantivo: cristão; também usado como substantivo para 'um cristão' ou 'clérigo cristão'.\",\"aliases\":[],\"exemplos\":[\"Tac. An. 15, 44\"],\"notas\":\"Registro adjetival e substantival confirmado por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_4877-e2",
@@ -2222,28 +1936,6 @@
     "raw_json": "{\"id\":\"chunk_4895:4895:0\",\"lemas\":[\"Ciani\",\"Cĭāni\"],\"lema_canonico\":\"Ciani\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Habitantes de Cio (cidade na Bitínia).\",\"aliases\":[],\"exemplos\":[\"Liv. 31, 31, 4\",\"Liv. 32, 21, 22\"],\"notas\":\"Forma registrada por Lewis & Short (Cĭāni, pl.).\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_4896-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_4896",
-    "page_num": 4896,
-    "lemmas": [
-      "cibarius",
-      "cibarius"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "cibārium/cibāria: (subst.) alimentos, víveres, provisões; (adj. cibārius, -a, -um) relativo a alimentos, ração, comum/ordinário (do pão ou comida).",
-    "exemplos": [],
-    "notas": "Unificação de subst. neut. (cibārium/cibāria) e adj. cibārius conforme LS/Whitaker/Lat→Deu. | [dedupe] redirect → chunk_4898:4898:0 | [dedupe] redirect → chunk_4898:4898:0",
-    "raw_text": "{\"id\":\"chunk_4896:4896:0\",\"lemas\":[\"cibaria\",\"cibarium\",\"cibarius\"],\"lema_canonico\":\"cibarius\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"cibārium/cibāria: (subst.) alimentos, víveres, provisões; (adj. cibārius, -a, -um) relativo a alimentos, ração, comum/ordinário (do pão ou comida).\",\"aliases\":[],\"exemplos\":[\"Cat. Agr. 59\",\"Cic. Tusc. 2, 16\"],\"notas\":\"Unificação de subst. neut. (cibārium/cibāria) e adj. cibārius conforme LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_4896:4896:0\",\"lemas\":[\"cibaria\",\"cibarium\",\"cibarius\"],\"lema_canonico\":\"cibarius\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"cibārium/cibāria: (subst.) alimentos, víveres, provisões; (adj. cibārius, -a, -um) relativo a alimentos, ração, comum/ordinário (do pão ou comida).\",\"aliases\":[],\"exemplos\":[\"Cat. Agr. 59\",\"Cic. Tusc. 2, 16\"],\"notas\":\"Unificação de subst. neut. (cibārium/cibāria) e adj. cibārius conforme LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_4897-e1",
     "volume_id": "faria",
     "doc_name": "chunk_4897",
@@ -2374,28 +2066,6 @@
     "notas": "Listed in LS as passive/intransitive usage (cibari); treated as deponent/intransitive here.",
     "raw_text": "{\"id\":\"chunk_4899:4899:3\",\"lemas\":[\"cibari\",\"cibo\"],\"lema_canonico\":\"cibari\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"intr.\",\"dep.\"],\"definicao\":\"to take food, to feed/ eat (intransitive/deponent usage in late Lat.).\",\"aliases\":[],\"exemplos\":[\"Apul. Apol. 26, 8\"],\"notas\":\"Listed in LS as passive/intransitive usage (cibari); treated as deponent/intransitive here.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_4899:4899:3\",\"lemas\":[\"cibari\",\"cibo\"],\"lema_canonico\":\"cibari\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"intr.\",\"dep.\"],\"definicao\":\"to take food, to feed/ eat (intransitive/deponent usage in late Lat.).\",\"aliases\":[],\"exemplos\":[\"Apul. Apol. 26, 8\"],\"notas\":\"Listed in LS as passive/intransitive usage (cibari); treated as deponent/intransitive here.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_4899-e5",
-    "volume_id": "faria",
-    "doc_name": "chunk_4899",
-    "page_num": 4899,
-    "lemmas": [
-      "colonia",
-      "colonia"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "colony; settlement; landed estate, farm; abode.",
-    "exemplos": [],
-    "notas": "Sense distinctions per LS (possession/farm; colonial town; city-name). | [dedupe] redirect → chunk_19814:19814:0 | [dedupe] redirect → chunk_19814:19814:0",
-    "raw_text": "{\"id\":\"chunk_4899:4899:4\",\"lemas\":[\"colonia\",\"cŏlōnĭa\"],\"lema_canonico\":\"colonia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"colony; settlement; landed estate, farm; abode.\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 4, 118\"],\"notas\":\"Sense distinctions per LS (possession/farm; colonial town; city-name).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_4899:4899:4\",\"lemas\":[\"colonia\",\"cŏlōnĭa\"],\"lema_canonico\":\"colonia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"colony; settlement; landed estate, farm; abode.\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 4, 118\"],\"notas\":\"Sense distinctions per LS (possession/farm; colonial town; city-name).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_4900-e1",
@@ -3212,28 +2882,6 @@
     "raw_json": "{\"id\":\"chunk_4928:4928:0\",\"lemas\":[\"Cimbricus\",\"Cimbrica\",\"Cimbricum\"],\"lema_canonico\":\"Cimbricus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Cimbrianus: relativo aos Cimbri; ao modo dos Cimbri.\",\"aliases\":[],\"exemplos\":[\"Quint. Decl. 3, 13\"],\"notas\":\"Formas lemmais completas (masc./fem./neut.) alinhadas com Whitaker; normalizada a forma canónica 'Cimbricus'.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_4929-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_4929",
-    "page_num": 4929,
-    "lemmas": [
-      "Cimbricus",
-      "Cimbricus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Relativo aos Cimbri; cimbriano.",
-    "exemplos": [],
-    "notas": "Adjetivo atestado em autores; formas flexionadas incluídas como variantes canônicas. | [dedupe] redirect → chunk_4928:4928:0 | [dedupe] redirect → chunk_4928:4928:0",
-    "raw_text": "{\"id\":\"chunk_4929:4929:0\",\"lemas\":[\"Cimbricus\",\"Cimbrica\",\"Cimbricum\"],\"lema_canonico\":\"Cimbricus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo aos Cimbri; cimbriano.\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 2, 266\"],\"notas\":\"Adjetivo atestado em autores; formas flexionadas incluídas como variantes canônicas.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_4929:4929:0\",\"lemas\":[\"Cimbricus\",\"Cimbrica\",\"Cimbricum\"],\"lema_canonico\":\"Cimbricus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo aos Cimbri; cimbriano.\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 2, 266\"],\"notas\":\"Adjetivo atestado em autores; formas flexionadas incluídas como variantes canônicas.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_4930-e1",
     "volume_id": "faria",
     "doc_name": "chunk_4930",
@@ -3564,28 +3212,6 @@
     "raw_json": "{\"id\":\"chunk_4944:4944:0\",\"lemas\":[\"Cinciolus\",\"Cincĭŏlus\"],\"lema_canonico\":\"Cinciolus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Cinciolus, pet name (diminutivo) de Cincius, citado como apelido em Cicerão\",\"aliases\":[],\"exemplos\":[\"Cic. Or. 2, 71 (286)\"],\"notas\":\"Lewis & Short: Cincĭŏlus, ‘a pet name for Cincius’. Normalizada referência a Cicerão.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_4945-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_4945",
-    "page_num": 4945,
-    "lemmas": [
-      "Cincĭus",
-      "Cincĭus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "nomen gentile Romanum (pertencente à gens Cincia); patronímico ‘de Cíncio’ como adjetivo/derivação",
-    "exemplos": [],
-    "notas": "LS atesta Cincĭus; entrada normalizada como nomen (não adj. isolado). | [dedupe] redirect → chunk_4946:4946:0 | [dedupe] redirect → chunk_4946:4946:0 | [ocr_fix 2025-08-17T19:46:10Z] match direto em LS por lemma/lemma_norm | lemma_in='Cincius' → 'Cincĭus'",
-    "raw_text": "{\"id\":\"chunk_4945:4945:0\",\"lemas\":[\"Cincius\",\"cincius\"],\"lema_canonico\":\"Cincius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"nomen gentile Romanum (pertencente à gens Cincia); patronímico ‘de Cíncio’ como adjetivo/derivação\",\"aliases\":[],\"exemplos\":[\"Cic. M. 100\"],\"notas\":\"LS atesta Cincĭus; entrada normalizada como nomen (não adj. isolado).\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_4945:4945:0\",\"lemas\":[\"Cincius\",\"cincius\"],\"lema_canonico\":\"Cincius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"nomen gentile Romanum (pertencente à gens Cincia); patronímico ‘de Cíncio’ como adjetivo/derivação\",\"aliases\":[],\"exemplos\":[\"Cic. M. 100\"],\"notas\":\"LS atesta Cincĭus; entrada normalizada como nomen (não adj. isolado).\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_4946-e1",
     "volume_id": "faria",
     "doc_name": "chunk_4946",
@@ -3694,28 +3320,6 @@
     "notas": "Atestado em Whitaker; forma e sentido preservados da 1ª passada.",
     "raw_text": "{\"id\":\"chunk_4950:4950:0\",\"lemas\":[\"cinctitus\"],\"lema_canonico\":\"cinctitus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Cinctitus, -a, -um: cingido; que tem a túnica ou roupa cingida (usado especialmente em poesia).\",\"aliases\":[],\"exemplos\":[\"Hor. Ars Poet. 50\"],\"notas\":\"Atestado em Whitaker; forma e sentido preservados da 1ª passada.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_4950:4950:0\",\"lemas\":[\"cinctitus\"],\"lema_canonico\":\"cinctitus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Cinctitus, -a, -um: cingido; que tem a túnica ou roupa cingida (usado especialmente em poesia).\",\"aliases\":[],\"exemplos\":[\"Hor. Ars Poet. 50\"],\"notas\":\"Atestado em Whitaker; forma e sentido preservados da 1ª passada.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_4950-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_4950",
-    "page_num": 4950,
-    "lemmas": [
-      "cinctus",
-      "cinctus"
-    ],
-    "morfologia": "s. masc. 4ª (-us)",
-    "morph_render": "s. masc. 4ª (-us)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "1) (s.) cinctus, -ūs, m.: cinturão, cinto; modo de cingir a roupa; guirlanda, coroa. 2) (adj./part.) cinctus, -a, -um: circundado, cingido, vestido com a túnica cingida (particípio perf. pass. de cingō).",
-    "exemplos": [],
-    "notas": "Combina atestados de Lewis & Short (particípio e substantivo) e Whitaker; marcado como PPP do verbo cingō. | [dedupe] redirect → chunk_4949:4949:0 | [dedupe] redirect → chunk_4949:4949:0",
-    "raw_text": "{\"id\":\"chunk_4950:4950:1\",\"lemas\":[\"cinctus\"],\"lema_canonico\":\"cinctus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"1) (s.) cinctus, -ūs, m.: cinturão, cinto; modo de cingir a roupa; guirlanda, coroa. 2) (adj./part.) cinctus, -a, -um: circundado, cingido, vestido com a túnica cingida (particípio perf. pass. de cingō).\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 28, 6, 17 § 64\",\"Verg. Aen. 7, 612\"],\"notas\":\"Combina atestados de Lewis & Short (particípio e substantivo) e Whitaker; marcado como PPP do verbo cingō.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_4950:4950:1\",\"lemas\":[\"cinctus\"],\"lema_canonico\":\"cinctus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"1) (s.) cinctus, -ūs, m.: cinturão, cinto; modo de cingir a roupa; guirlanda, coroa. 2) (adj./part.) cinctus, -a, -um: circundado, cingido, vestido com a túnica cingida (particípio perf. pass. de cingō).\",\"aliases\":[],\"exemplos\":[\"Plin. Nat. 28, 6, 17 § 64\",\"Verg. Aen. 7, 612\"],\"notas\":\"Combina atestados de Lewis & Short (particípio e substantivo) e Whitaker; marcado como PPP do verbo cingō.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_4950-e3",
@@ -3960,28 +3564,6 @@
     "raw_json": "{\"id\":\"chunk_4960:4960:0\",\"lemas\":[\"cingulus\"],\"lema_canonico\":\"cingulus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Cinturão, faixa, zona (literalmente 'belt'; também 'faixa de terra' ou zona geográfica).\",\"aliases\":[],\"exemplos\":[\"Cic. Rep. 6, 21\"],\"notas\":\"Sentidos compatíveis com Whitaker e Lat→Deu; morfologia normalizada.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_4961-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_4961",
-    "page_num": 4961,
-    "lemmas": [
-      "cinis",
-      "cinis"
-    ],
-    "morfologia": "s. neut. 3ª (-is)",
-    "morph_render": "s. neut. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Cinza, restos de combustão; cinzas de mortos; por extensão, ruína, destruição; sentido figurado: morte, defunto.",
-    "exemplos": [],
-    "notas": "Normalizado lema canônico como cinis; variantes e genitivo cineris incluídas conforme LS/Whitaker/Lat→Deu. | [dedupe] redirect → chunk_5947:5947:2 | [dedupe] redirect → chunk_5947:5947:2",
-    "raw_text": "{\"id\":\"chunk_4961:4961:0\",\"lemas\":[\"cinis\",\"cineris\",\"ciner\"],\"lema_canonico\":\"cinis\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Cinza, restos de combustão; cinzas de mortos; por extensão, ruína, destruição; sentido figurado: morte, defunto.\",\"aliases\":[],\"exemplos\":[\"Suet. Tib. 74\",\"Cic. Quint. 31, 97\",\"Cic. Cat. 2, 19\",\"Verg. A. 10, 59\",\"Ov. Met. 8, 538\",\"Hor. Epod. 17, 33\"],\"notas\":\"Normalizado lema canônico como cinis; variantes e genitivo cineris incluídas conforme LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_4961:4961:0\",\"lemas\":[\"cinis\",\"cineris\",\"ciner\"],\"lema_canonico\":\"cinis\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Cinza, restos de combustão; cinzas de mortos; por extensão, ruína, destruição; sentido figurado: morte, defunto.\",\"aliases\":[],\"exemplos\":[\"Suet. Tib. 74\",\"Cic. Quint. 31, 97\",\"Cic. Cat. 2, 19\",\"Verg. A. 10, 59\",\"Ov. Met. 8, 538\",\"Hor. Epod. 17, 33\"],\"notas\":\"Normalizado lema canônico como cinis; variantes e genitivo cineris incluídas conforme LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_4962-e1",
     "volume_id": "faria",
     "doc_name": "chunk_4962",
@@ -4158,28 +3740,6 @@
     "raw_json": "{\"id\":\"chunk_4969:4969:0\",\"lemas\":[\"Cinyria\"],\"lema_canonico\":\"Cinyria\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Topônimo: Cinyria, cidade de Chipre.\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 5, 130\"],\"notas\":\"Atestado em Plínio; distinta do substantivo cinyra (lira).\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_4969-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_4969",
-    "page_num": 4969,
-    "lemmas": [
-      "cio",
-      "cio"
-    ],
-    "morfologia": "v. 4ª (-īre)",
-    "morph_render": "v. 4ª (-īre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "forma orthographica de cīo (cīre), verbo 'cieo/ciēre' — acionar, mover, provocar; aqui forma variante em 1. pessoa.",
-    "exemplos": [],
-    "notas": "Registro como variante de cīo = ciere; confirmado por LS e Lat→Deu. | [dedupe] redirect → chunk_4914:4914:1 | [dedupe] redirect → chunk_4914:4914:1",
-    "raw_text": "{\"id\":\"chunk_4969:4969:1\",\"lemas\":[\"cio\"],\"lema_canonico\":\"cio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"forma orthographica de cīo (cīre), verbo 'cieo/ciēre' — acionar, mover, provocar; aqui forma variante em 1. pessoa.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Registro como variante de cīo = ciere; confirmado por LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_4969:4969:1\",\"lemas\":[\"cio\"],\"lema_canonico\":\"cio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"forma orthographica de cīo (cīre), verbo 'cieo/ciēre' — acionar, mover, provocar; aqui forma variante em 1. pessoa.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Registro como variante de cīo = ciere; confirmado por LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_4970-e1",
     "volume_id": "faria",
     "doc_name": "chunk_4970",
@@ -4222,28 +3782,6 @@
     "notas": "Sentidos e plural militar (cippi, -ōrum) verificados em LS/Whitaker.",
     "raw_text": "{\"id\":\"chunk_4971:4971:0\",\"lemas\":[\"cippus\"],\"lema_canonico\":\"cippus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Poste, marco; pedra funerária, lápide; (pl.) estacas afiadas/paliçada usada militarmente.\",\"aliases\":[],\"exemplos\":[\"Varr. L. Lat. 5, 143\",\"Hor. Sat. 1, 8, 11\",\"Caes. B. G. 7, 73\"],\"notas\":\"Sentidos e plural militar (cippi, -ōrum) verificados em LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_4971:4971:0\",\"lemas\":[\"cippus\"],\"lema_canonico\":\"cippus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Poste, marco; pedra funerária, lápide; (pl.) estacas afiadas/paliçada usada militarmente.\",\"aliases\":[],\"exemplos\":[\"Varr. L. Lat. 5, 143\",\"Hor. Sat. 1, 8, 11\",\"Caes. B. G. 7, 73\"],\"notas\":\"Sentidos e plural militar (cippi, -ōrum) verificados em LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_4972-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_4972",
-    "page_num": 4972,
-    "lemmas": [
-      "vicus",
-      "vicus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "nome de rua/bairro em Roma: 'Vicus Ciprius/Cyprius' (topónimo citado em Liv.).",
-    "exemplos": [],
-    "notas": "Normalizadas duas grafias (Ciprius/Cyprius); 'vicus' tratado como lema principal. Confirmado por Whitaker e LS (vīcus). | [dedupe] redirect → chunk_28954:28954:1 | [dedupe] redirect → chunk_28954:28954:1",
-    "raw_text": "{\"id\":\"chunk_4972:4972:0\",\"lemas\":[\"vicus\",\"Ciprius\",\"Cyprius\"],\"lema_canonico\":\"vicus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"nome de rua/bairro em Roma: 'Vicus Ciprius/Cyprius' (topónimo citado em Liv.).\",\"aliases\":[\"Vicus Cyprius\"],\"exemplos\":[\"T. Liv. 1, 48, 6\"],\"notas\":\"Normalizadas duas grafias (Ciprius/Cyprius); 'vicus' tratado como lema principal. Confirmado por Whitaker e LS (vīcus).\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\",\"src_firstpass\"]}",
-    "raw_json": "{\"id\":\"chunk_4972:4972:0\",\"lemas\":[\"vicus\",\"Ciprius\",\"Cyprius\"],\"lema_canonico\":\"vicus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"nome de rua/bairro em Roma: 'Vicus Ciprius/Cyprius' (topónimo citado em Liv.).\",\"aliases\":[\"Vicus Cyprius\"],\"exemplos\":[\"T. Liv. 1, 48, 6\"],\"notas\":\"Normalizadas duas grafias (Ciprius/Cyprius); 'vicus' tratado como lema principal. Confirmado por Whitaker e LS (vīcus).\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\",\"src_firstpass\"]}"
   },
   {
     "id": "chunk_4973-e1",
@@ -4554,28 +4092,6 @@
     "raw_json": "{\"id\":\"chunk_4985:4985:0\",\"lemas\":[\"circumcīsus\",\"circumcido\"],\"lema_canonico\":\"circumcīsus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo de circumcido; como adj.: escarpado, abrupto; abreviado, reduzido\",\"aliases\":[],\"exemplos\":[\"Caes. B. Gal. 7, 36, 5\",\"Plin. Ep. 1, 20, 4\"],\"notas\":\"Entrada apresentada como particípio-adjetivo; mantida dupla função.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_4985-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_4985",
-    "page_num": 4985,
-    "lemmas": [
-      "circumclūdere",
-      "circumclūdere"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Fechar por todos os lados; encerrar, cercar",
-    "exemplos": [],
-    "notas": "Tratado como variante ortográfica equivalentes; lema em infinitivo conforme prática lexicográfica. | [dedupe] redirect → chunk_4987:4987:0 | [dedupe] redirect → chunk_4987:4987:0",
-    "raw_text": "{\"id\":\"chunk_4985:4985:1\",\"lemas\":[\"circumclūdere\",\"circumcludo\",\"circumclūdō\"],\"lema_canonico\":\"circumclūdere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Fechar por todos os lados; encerrar, cercar\",\"aliases\":[\"circumcludo\"],\"exemplos\":[],\"notas\":\"Tratado como variante ortográfica equivalentes; lema em infinitivo conforme prática lexicográfica.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_4985:4985:1\",\"lemas\":[\"circumclūdere\",\"circumcludo\",\"circumclūdō\"],\"lema_canonico\":\"circumclūdere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Fechar por todos os lados; encerrar, cercar\",\"aliases\":[\"circumcludo\"],\"exemplos\":[],\"notas\":\"Tratado como variante ortográfica equivalentes; lema em infinitivo conforme prática lexicográfica.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_4986-e1",
     "volume_id": "faria",
     "doc_name": "chunk_4986",
@@ -4662,28 +4178,6 @@
     "notas": "Lema normalizado sem macron; transitividade indicada conforme Whitaker. | [ocr_fix 2025-08-20T01:03:57Z] Correção automática de lema via Gaffiot | lemma_in='circumcolo' → 'circumcŏlo'",
     "raw_text": "{\"id\":\"chunk_4989:4989:0\",\"lemas\":[\"circumcolō\",\"circumcolo\"],\"lema_canonico\":\"circumcolo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"circumcolō/circumcolere: habitar ao redor de, morar nas proximidades.\",\"aliases\":[],\"exemplos\":[\"T. Liv. 5, 33, 10\"],\"notas\":\"Lema normalizado sem macron; transitividade indicada conforme Whitaker.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_4989:4989:0\",\"lemas\":[\"circumcolō\",\"circumcolo\"],\"lema_canonico\":\"circumcolo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"circumcolō/circumcolere: habitar ao redor de, morar nas proximidades.\",\"aliases\":[],\"exemplos\":[\"T. Liv. 5, 33, 10\"],\"notas\":\"Lema normalizado sem macron; transitividade indicada conforme Whitaker.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_4990-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_4990",
-    "page_num": 4990,
-    "lemmas": [
-      "circum",
-      "circum"
-    ],
-    "morfologia": "prep. com acc.",
-    "morph_render": "prep. com acc.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "circum: around, about (prep. with acc.)\nculmus: a stalk, stem (of grain); straw, thatch\nculmulus: diminutive of culmus, small stalk",
-    "exemplos": [],
-    "notas": "Entrada mista no first_pass; 'circumculmŭlō' não atestado em fontes principais — mantido para revisão.\n[ocr_pipeline 2025-08-16T23:24:03.323527Z] lemma_in='circum' → 'circum' | motivo: match direto em LS por lemma/lemma_norm | [ocr_fix 2025-08-17T01:23:33Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='circum' → 'circum' | [dedupe] redirect → chunk_4975:4975:0 | [dedupe] redirect → chunk_4975:4975:0",
-    "raw_text": "{\"id\":\"chunk_4990:4990:0\",\"lemas\":[\"circum\",\"culmus\",\"culmulus\",\"circumculmulō\"],\"lema_canonico\":\"circum\",\"morfologia\":\"prep. com acc.\",\"morph_extra\":[],\"definicao\":\"circum: around, about (prep. with acc.)\\nculmus: a stalk, stem (of grain); straw, thatch\\nculmulus: diminutive of culmus, small stalk\",\"aliases\":[],\"exemplos\":[\"Verg. G. 1, 111\"],\"notas\":\"Entrada mista no first_pass; 'circumculmŭlō' não atestado em fontes principais — mantido para revisão.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_4990:4990:0\",\"lemas\":[\"circum\",\"culmus\",\"culmulus\",\"circumculmulō\"],\"lema_canonico\":\"circum\",\"morfologia\":\"prep. com acc.\",\"morph_extra\":[],\"definicao\":\"circum: around, about (prep. with acc.)\\nculmus: a stalk, stem (of grain); straw, thatch\\nculmulus: diminutive of culmus, small stalk\",\"aliases\":[],\"exemplos\":[\"Verg. G. 1, 111\"],\"notas\":\"Entrada mista no first_pass; 'circumculmŭlō' não atestado em fontes principais — mantido para revisão.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
     "id": "chunk_4991-e1",
@@ -4840,28 +4334,6 @@
     "raw_json": "{\"id\":\"chunk_4997:4997:0\",\"lemas\":[\"circumductum\"],\"lema_canonico\":\"circumductum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Subst. neutro da 2. declinação: 'período' em retórica; homógrafo do supino/particípio de circumdūcō.\",\"aliases\":[],\"exemplos\":[\"Quint. 9, 4, 22\"],\"notas\":\"Sentido retórico confirmado por Lewis & Short; atenção à homografia com formas verbais.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_4998-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_4998",
-    "page_num": 4998,
-    "lemmas": [
-      "circumductus",
-      "circumductus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Particípio perfeito passivo/adjetival de circumdūcō ‘levar ao redor’; também substantivado masculino circumductus, -ūs: ‘circunferência, perímetro’ (atestado em Quint. e Macr.).",
-    "exemplos": [],
-    "notas": "Unifica o uso adjetival/participial e o substantivo registrado por Lewis & Short. | [dedupe] redirect → chunk_4999:4999:2 | [dedupe] redirect → chunk_4999:4999:2",
-    "raw_text": "{\"id\":\"chunk_4998:4998:0\",\"lemas\":[\"circumductus\"],\"lema_canonico\":\"circumductus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo/adjetival de circumdūcō ‘levar ao redor’; também substantivado masculino circumductus, -ūs: ‘circunferência, perímetro’ (atestado em Quint. e Macr.).\",\"aliases\":[],\"exemplos\":[\"Quint. 1, 10, 43\",\"Macr. Somn. Scip. 2, 1, 5\"],\"notas\":\"Unifica o uso adjetival/participial e o substantivo registrado por Lewis & Short.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_4998:4998:0\",\"lemas\":[\"circumductus\"],\"lema_canonico\":\"circumductus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo/adjetival de circumdūcō ‘levar ao redor’; também substantivado masculino circumductus, -ūs: ‘circunferência, perímetro’ (atestado em Quint. e Macr.).\",\"aliases\":[],\"exemplos\":[\"Quint. 1, 10, 43\",\"Macr. Somn. Scip. 2, 1, 5\"],\"notas\":\"Unifica o uso adjetival/participial e o substantivo registrado por Lewis & Short.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_4999-e1",
     "volume_id": "faria",
     "doc_name": "chunk_4999",
@@ -4882,28 +4354,6 @@
     "notas": "Grafia e acepções confirmadas em Lewis & Short e Whitaker; normalizada referência a Macrob.",
     "raw_text": "{\"id\":\"chunk_4999:4999:0\",\"lemas\":[\"circumductus\"],\"lema_canonico\":\"circumductus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"Contorno, perímetro de uma figura; movimento circular, revolução (de astros).\",\"aliases\":[],\"exemplos\":[\"Quint. I, 1, 10, 43\",\"Macr. Somn. Scip. 2, 1, 5\"],\"notas\":\"Grafia e acepções confirmadas em Lewis & Short e Whitaker; normalizada referência a Macrob.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_4999:4999:0\",\"lemas\":[\"circumductus\"],\"lema_canonico\":\"circumductus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"Contorno, perímetro de uma figura; movimento circular, revolução (de astros).\",\"aliases\":[],\"exemplos\":[\"Quint. I, 1, 10, 43\",\"Macr. Somn. Scip. 2, 1, 5\"],\"notas\":\"Grafia e acepções confirmadas em Lewis & Short e Whitaker; normalizada referência a Macrob.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_4999-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_4999",
-    "page_num": 4999,
-    "lemmas": [
-      "circumduco",
-      "circumduco"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Conduzir ao redor; levar em volta; transferido: desviar, contornar, explicar por perífrase.",
-    "exemplos": [],
-    "notas": "Verbo e particípio associados; formas e sentidos confirmados em LS/Whitaker/Lat→Deu. | [dedupe] redirect → chunk_4995:4995:0 | [dedupe] redirect → chunk_4995:4995:0",
-    "raw_text": "{\"id\":\"chunk_4999:4999:1\",\"lemas\":[\"circumduco\",\"circumducere\",\"circumduxi\",\"circumductus\"],\"lema_canonico\":\"circumduco\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"Conduzir ao redor; levar em volta; transferido: desviar, contornar, explicar por perífrase.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Verbo e particípio associados; formas e sentidos confirmados em LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_4999:4999:1\",\"lemas\":[\"circumduco\",\"circumducere\",\"circumduxi\",\"circumductus\"],\"lema_canonico\":\"circumduco\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"Conduzir ao redor; levar em volta; transferido: desviar, contornar, explicar por perífrase.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Verbo e particípio associados; formas e sentidos confirmados em LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_4999-e3",

@@ -396,28 +396,6 @@
     "raw_json": "{\"id\":\"chunk_2013:2013:1\",\"lemas\":[\"Antigonensis\",\"Antigonenses\"],\"lema_canonico\":\"Antigonensis\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"gentilício/relativo a Antigoneia: Antigonensis (território/ager) e Antigonenses (habitantes).\",\"aliases\":[],\"exemplos\":[\"Liv. 43, 23\",\"Plin. 4, praef. 1, 1\",\"Liv. 44, 10\",\"Plin. 4, 6, 10, §20\",\"Plin. 5, 30, 33, §124\"],\"notas\":\"Reconstruído desde fragmento OCR truncado; entradas e usos conforme Lewis & Short.\",\"flags\":[\"src_ls\",\"conf:med\",\"morph_out_of_vocab\"]}"
   },
   {
-    "id": "chunk_2014-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_2014",
-    "page_num": 2014,
-    "lemmas": [
-      "Antĭgŏnīa",
-      "Antĭgŏnīa"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 1,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Verificaçao: entrada funciona como remissão para 'Antigonea' (vide first_pass). | [ocr_fix 2025-08-17T18:23:19Z] match direto em Gaffiot por lemma/lemma_norm | lemma_in='Antigonia' → 'Antĭgŏnīa' | [ocr_fix 2025-08-17T19:44:37Z] match direto em Gaffiot por lemma/lemma_norm | lemma_in='Antĭgŏnīa' → 'Antĭgŏnīa'",
-    "raw_text": "{\"id\":\"chunk_2014:2014:0\",\"lemas\":[\"Antigonia\"],\"lema_canonico\":\"Antigonia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Antigonea\"],\"exemplos\":[],\"notas\":\"Verificaçao: entrada funciona como remissão para 'Antigonea' (vide first_pass).\",\"flags\":[\"src_firstpass\",\"conf:low\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_2014:2014:0\",\"lemas\":[\"Antigonia\"],\"lema_canonico\":\"Antigonia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Antigonea\"],\"exemplos\":[],\"notas\":\"Verificaçao: entrada funciona como remissão para 'Antigonea' (vide first_pass).\",\"flags\":[\"src_firstpass\",\"conf:low\",\"redirect_only\"]}"
-  },
-  {
     "id": "chunk_2015-e1",
     "volume_id": "faria",
     "doc_name": "chunk_2015",
@@ -638,28 +616,6 @@
     "raw_json": "{\"id\":\"chunk_2024:2024:0\",\"lemas\":[\"Antiocheus\",\"Antiochēus\",\"Antĭŏchēus\"],\"lema_canonico\":\"Antiocheus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo a Antíoco (p. ex. o filósofo); também substantivado neutro plural ‘as opiniões de Antíoco’.\",\"aliases\":[],\"exemplos\":[\"Cic. Ac. 2, 115\",\"Cic. Ac. 2, 36\",\"Cic. Att. 13, 19\"],\"notas\":\"Unificadas variantes atestadas pelo LS; forma adjetival 1/2 confirmada por Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_2025-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_2025",
-    "page_num": 2025,
-    "lemmas": [
-      "Antiochia",
-      "Antiochia"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Cidade de Antioquia (principal cidade da Síria romana).",
-    "exemplos": [],
-    "notas": "Forma atestada em Lewis & Short e Whitaker; grafia variante 'Antiochea' incluída. | [dedupe] redirect → chunk_2021:2021:0 | [dedupe] redirect → chunk_2021:2021:0",
-    "raw_text": "{\"id\":\"chunk_2025:2025:0\",\"lemas\":[\"Antiochia\",\"Antiochea\",\"Antiochia,ae\"],\"lema_canonico\":\"Antiochia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Cidade de Antioquia (principal cidade da Síria romana).\",\"aliases\":[],\"exemplos\":[\"Cés. B. Civ. 3, 102, 6\"],\"notas\":\"Forma atestada em Lewis & Short e Whitaker; grafia variante 'Antiochea' incluída.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_2025:2025:0\",\"lemas\":[\"Antiochia\",\"Antiochea\",\"Antiochia,ae\"],\"lema_canonico\":\"Antiochia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Cidade de Antioquia (principal cidade da Síria romana).\",\"aliases\":[],\"exemplos\":[\"Cés. B. Civ. 3, 102, 6\"],\"notas\":\"Forma atestada em Lewis & Short e Whitaker; grafia variante 'Antiochea' incluída.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_2026-e1",
     "volume_id": "faria",
     "doc_name": "chunk_2026",
@@ -724,28 +680,6 @@
     "notas": "Genitivo -idis indica substantivo 3ª declinação feminino.",
     "raw_text": "{\"id\":\"chunk_2028:2028:0\",\"lemas\":[\"Antichasis\",\"Antīchāsis\"],\"lema_canonico\":\"Antichasis\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Nome próprio dado ao mar Cáspio.\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 2, 167\"],\"notas\":\"Genitivo -idis indica substantivo 3ª declinação feminino.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_2028:2028:0\",\"lemas\":[\"Antichasis\",\"Antīchāsis\"],\"lema_canonico\":\"Antichasis\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Nome próprio dado ao mar Cáspio.\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 2, 167\"],\"notas\":\"Genitivo -idis indica substantivo 3ª declinação feminino.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_2029-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_2029",
-    "page_num": 2029,
-    "lemmas": [
-      "Antiochius",
-      "Antiochius"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada indicada como variante/encaminhamento para Antiocheus; mantida como redirect. | [dedupe] redirect → chunk_2023:2023:0 | [dedupe] redirect → chunk_2023:2023:0",
-    "raw_text": "{\"id\":\"chunk_2029:2029:0\",\"lemas\":[\"Antiochius\",\"Antiocheus\"],\"lema_canonico\":\"Antiochius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Antiocheus\"],\"exemplos\":[],\"notas\":\"Entrada indicada como variante/encaminhamento para Antiocheus; mantida como redirect.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_2029:2029:0\",\"lemas\":[\"Antiochius\",\"Antiocheus\"],\"lema_canonico\":\"Antiochius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Antiocheus\"],\"exemplos\":[],\"notas\":\"Entrada indicada como variante/encaminhamento para Antiocheus; mantida como redirect.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"redirect_only\"]}"
   },
   {
     "id": "chunk_2030-e1",
@@ -1056,28 +990,6 @@
     "raw_json": "{\"id\":\"chunk_2043:2043:0\",\"lemas\":[\"antīquo\"],\"lema_canonico\":\"antīquo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"rejeitar, não admitir (especialmente de uma lei, proposta); restaurar ao estado antigo (sentido transitivo jurídico em autores clássicos).\",\"aliases\":[],\"exemplos\":[\"Cic. Leg. 3, 38\",\"Liv. 4, 58\"],\"notas\":\"Lema e paradigma confirmados em Lewis & Short (1ª conj., -āvī, -ātum); sentido jurídico ressaltado.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_2044-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_2044",
-    "page_num": 2044,
-    "lemmas": [
-      "antīquus",
-      "antīquus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "antigo, de outrora; venerável, tradicional; compar. antiquior, sup. antiquissimus. (também: antīquī, m. pl., 'os antigos').",
-    "exemplos": [],
-    "notas": "Formas e sentidos verificados em LS e Whitaker; plural masculino attest. como antīquī. | [dedupe] redirect → chunk_2042:2042:0 | [dedupe] redirect → chunk_2042:2042:0",
-    "raw_text": "{\"id\":\"chunk_2044:2044:0\",\"lemas\":[\"antīquus\",\"antīqua\",\"antīquum\",\"antīquī\"],\"lema_canonico\":\"antīquus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"antigo, de outrora; venerável, tradicional; compar. antiquior, sup. antiquissimus. (também: antīquī, m. pl., 'os antigos').\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 5, 100\",\"Cic. Div. 1, 27\",\"Cic. Or. 2, 18\",\"Liv. 38, 17, 20\"],\"notas\":\"Formas e sentidos verificados em LS e Whitaker; plural masculino attest. como antīquī.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_2044:2044:0\",\"lemas\":[\"antīquus\",\"antīqua\",\"antīquum\",\"antīquī\"],\"lema_canonico\":\"antīquus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"antigo, de outrora; venerável, tradicional; compar. antiquior, sup. antiquissimus. (também: antīquī, m. pl., 'os antigos').\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 5, 100\",\"Cic. Div. 1, 27\",\"Cic. Or. 2, 18\",\"Liv. 38, 17, 20\"],\"notas\":\"Formas e sentidos verificados em LS e Whitaker; plural masculino attest. como antīquī.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_2045-e1",
     "volume_id": "faria",
     "doc_name": "chunk_2045",
@@ -1166,28 +1078,6 @@
     "raw_json": "{\"id\":\"chunk_2048:2048:0\",\"lemas\":[\"Antisthenes\",\"Antisthēnēs\",\"Antisthenes, -is\"],\"lema_canonico\":\"Antisthēnēs\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Antístenes, filósofo ateniense, pupilo de Sócrates e fundador da escola cínica.\",\"aliases\":[],\"exemplos\":[\"Cic. N. D. 1, 13 (1, 32)\",\"Cic. Or. 3, 17, 62\",\"Gell. 14, 1, 29\"],\"notas\":\"Padronizado conforme Lewis & Short; formas plurais atestadas mantidas como exemplos.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_2049-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_2049",
-    "page_num": 2049,
-    "lemmas": [
-      "antistĭta",
-      "antistĭta"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "sacerdotisa, alta-sacerdotisa (de templo/divindade), normalmente com complemento em genitivo.",
-    "exemplos": [],
-    "notas": "Grafia com breve preservada por tradição tipográfica; forma atestada e remetida por LS a antistes. | [dedupe] redirect → chunk_96:96:1 | [dedupe] redirect → chunk_96:96:1",
-    "raw_text": "{\"id\":\"chunk_2049:2049:0\",\"lemas\":[\"antistĭta\",\"antistita\"],\"lema_canonico\":\"antistĭta\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"sacerdotisa, alta-sacerdotisa (de templo/divindade), normalmente com complemento em genitivo.\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 4, 99\"],\"notas\":\"Grafia com breve preservada por tradição tipográfica; forma atestada e remetida por LS a antistes.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_2049:2049:0\",\"lemas\":[\"antistĭta\",\"antistita\"],\"lema_canonico\":\"antistĭta\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"sacerdotisa, alta-sacerdotisa (de templo/divindade), normalmente com complemento em genitivo.\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 4, 99\"],\"notas\":\"Grafia com breve preservada por tradição tipográfica; forma atestada e remetida por LS a antistes.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_2050-e1",
     "volume_id": "faria",
     "doc_name": "chunk_2050",
@@ -1274,28 +1164,6 @@
     "notas": "Forma e classificação alinhadas com Lewis & Short (Antĭum) e corrob. por Lat→Deu.",
     "raw_text": "{\"id\":\"chunk_2052:2052:0\",\"lemas\":[\"Antium\"],\"lema_canonico\":\"Antium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Antium, cidade do Lácio (mod. Anzio), famosa pelo templo da Fortuna; berço de Nero\",\"aliases\":[],\"exemplos\":[\"Cic. At. 2, 8, 2\"],\"notas\":\"Forma e classificação alinhadas com Lewis & Short (Antĭum) e corrob. por Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_2052:2052:0\",\"lemas\":[\"Antium\"],\"lema_canonico\":\"Antium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Antium, cidade do Lácio (mod. Anzio), famosa pelo templo da Fortuna; berço de Nero\",\"aliases\":[],\"exemplos\":[\"Cic. At. 2, 8, 2\"],\"notas\":\"Forma e classificação alinhadas com Lewis & Short (Antĭum) e corrob. por Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_2052-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_2052",
-    "page_num": 2052,
-    "lemmas": [
-      "antŭ",
-      "antŭ"
-    ],
-    "morfologia": "adv.",
-    "morph_render": "adv.",
-    "morph_extra": [],
-    "conf": "conf:low",
-    "needs_review": 1,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada indica equivalência gráfica a 'ante' (antŭ = antĕ). Marcar como redirecionamento; revisão recomendada.",
-    "raw_text": "{\"id\":\"chunk_2052:2052:1\",\"lemas\":[\"antŭ\",\"antu\"],\"lema_canonico\":\"antŭ\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"ante\"],\"exemplos\":[],\"notas\":\"Entrada indica equivalência gráfica a 'ante' (antŭ = antĕ). Marcar como redirecionamento; revisão recomendada.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"redirect_only\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_2052:2052:1\",\"lemas\":[\"antŭ\",\"antu\"],\"lema_canonico\":\"antŭ\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"ante\"],\"exemplos\":[],\"notas\":\"Entrada indica equivalência gráfica a 'ante' (antŭ = antĕ). Marcar como redirecionamento; revisão recomendada.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"redirect_only\",\"needs_review\"]}"
   },
   {
     "id": "chunk_2053-e1",
@@ -2046,28 +1914,6 @@
     "raw_json": "{\"id\":\"chunk_2084:2084:0\",\"lemas\":[\"Apamēnsis\",\"Apamensis\",\"Apamenensis\"],\"lema_canonico\":\"Apamēnsis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"Adjetivo: relativo a Apaméia (Apamense).\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 5, 21, 9\"],\"notas\":\"Atestado como variante em Lewis & Short; tratado como adjetivo de dois termos (-is, -e).\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_2085-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_2085",
-    "page_num": 2085,
-    "lemmas": [
-      "Apamae",
-      "Apamae"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:low",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada é redirecionamento para Apaméia; conservado genitivo -ae.",
-    "raw_text": "{\"id\":\"chunk_2085:2085:0\",\"lemas\":[\"Apamae\"],\"lema_canonico\":\"Apamae\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Apaméia\"],\"exemplos\":[],\"notas\":\"Entrada é redirecionamento para Apaméia; conservado genitivo -ae.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_2085:2085:0\",\"lemas\":[\"Apamae\"],\"lema_canonico\":\"Apamae\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Apaméia\"],\"exemplos\":[],\"notas\":\"Entrada é redirecionamento para Apaméia; conservado genitivo -ae.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"redirect_only\"]}"
-  },
-  {
     "id": "chunk_2086-e1",
     "volume_id": "faria",
     "doc_name": "chunk_2086",
@@ -2176,28 +2022,6 @@
     "notas": "Variantes gráficas registradas; verificação em dicionários latinos recomendada.\n[ocr_pipeline 2025-08-16T23:23:13.189939Z] lemma_in='Apelleus' → 'ăpertus' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:22:24Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='ăpertus' → 'ăpertus'",
     "raw_text": "{\"id\":\"chunk_2090:2090:0\",\"lemas\":[\"Apelleus\",\"Apellĕus\"],\"lema_canonico\":\"Apelleus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo a Apeles (gentilício/adjetivo derivado de Apeles).\",\"aliases\":[],\"exemplos\":[\"Marc. 7, 83\"],\"notas\":\"Variantes gráficas registradas; verificação em dicionários latinos recomendada.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_2090:2090:0\",\"lemas\":[\"Apelleus\",\"Apellĕus\"],\"lema_canonico\":\"Apelleus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo a Apeles (gentilício/adjetivo derivado de Apeles).\",\"aliases\":[],\"exemplos\":[\"Marc. 7, 83\"],\"notas\":\"Variantes gráficas registradas; verificação em dicionários latinos recomendada.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_2091-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_2091",
-    "page_num": 2091,
-    "lemmas": [
-      "Appennīnus",
-      "Appennīnus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Appenninos, cordilheira da Península Itálica.",
-    "exemplos": [],
-    "notas": "Normalizada dupla n em Appenninus; forma do Faria possivelmente macronizada. | [dedupe] redirect → chunk_2158:2158:0 | [ocr_fix 2025-08-17T18:23:20Z] match direto em Gaffiot por lemma/lemma_norm | lemma_in='Appenninus' → 'Appennīnus' | [dedupe] redirect → chunk_2158:2158:0 | [ocr_fix 2025-08-17T19:44:39Z] match direto em Gaffiot por lemma/lemma_norm | lemma_in='Appennīnus' → 'Appennīnus'",
-    "raw_text": "{\"id\":\"chunk_2091:2091:0\",\"lemas\":[\"Appenninus\",\"Appenīnus\"],\"lema_canonico\":\"Appenninus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Appenninos, cordilheira da Península Itálica.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizada dupla n em Appenninus; forma do Faria possivelmente macronizada.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_2091:2091:0\",\"lemas\":[\"Appenninus\",\"Appenīnus\"],\"lema_canonico\":\"Appenninus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Appenninos, cordilheira da Península Itálica.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizada dupla n em Appenninus; forma do Faria possivelmente macronizada.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
     "id": "chunk_2092-e1",
@@ -2310,28 +2134,6 @@
     "raw_json": "{\"id\":\"chunk_2096:2096:0\",\"lemas\":[\"aperio\"],\"lema_canonico\":\"aperio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"abrir, descobrir, revelar; tornar acessível; também: mostrar, manifestar. Ver formas arcaicas atestadas (aperibo).\",\"aliases\":[],\"exemplos\":[\"Plaut. Truc. 4, 2, 50\"],\"notas\":\"Verbo lexical aperiō, aperīre, aperuī, apertum; atestação de formas arcaicas citada em LS (Plauto).\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_2097-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_2097",
-    "page_num": 2097,
-    "lemmas": [
-      "aperio",
-      "aperio"
-    ],
-    "morfologia": "v. 4ª (-īre)",
-    "morph_render": "v. 4ª (-īre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "aperīre: abrir, abrir para alguém; descobrir, desvelar; revelar, manifestar; também reflexivo: abrir-se.",
-    "exemplos": [],
-    "notas": "Normalizado lema sem macron; formas principais confirmadas (aperiō, aperīre, aperuī, apertus). | [dedupe] redirect → chunk_2096:2096:0 | [dedupe] redirect → chunk_2096:2096:0",
-    "raw_text": "{\"id\":\"chunk_2097:2097:0\",\"lemas\":[\"aperio\"],\"lema_canonico\":\"aperio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"aperīre: abrir, abrir para alguém; descobrir, desvelar; revelar, manifestar; também reflexivo: abrir-se.\",\"aliases\":[],\"exemplos\":[\"Cic. Phil. 3, 32\",\"Cic. Phil. 2, 77\",\"T. Liv. 1, 55, 2\",\"Cic. Div. 1, 74\",\"Cic. Fin. 4, 67\",\"Cic. Att. 5, 1, 2\"],\"notas\":\"Normalizado lema sem macron; formas principais confirmadas (aperiō, aperīre, aperuī, apertus).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_2097:2097:0\",\"lemas\":[\"aperio\"],\"lema_canonico\":\"aperio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"aperīre: abrir, abrir para alguém; descobrir, desvelar; revelar, manifestar; também reflexivo: abrir-se.\",\"aliases\":[],\"exemplos\":[\"Cic. Phil. 3, 32\",\"Cic. Phil. 2, 77\",\"T. Liv. 1, 55, 2\",\"Cic. Div. 1, 74\",\"Cic. Fin. 4, 67\",\"Cic. Att. 5, 1, 2\"],\"notas\":\"Normalizado lema sem macron; formas principais confirmadas (aperiō, aperīre, aperuī, apertus).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_2098-e1",
     "volume_id": "faria",
     "doc_name": "chunk_2098",
@@ -2442,28 +2244,6 @@
     "raw_json": "{\"id\":\"chunk_2102:2102:0\",\"lemas\":[\"aperui\"],\"lema_canonico\":\"aperui\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[\"perf. ind. 1 sg\"],\"definicao\":\"forma perfeita do verbo aperio (aperīre): abri, descobri, revelei.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma perfeita normalizada sem macron; classificada sob 4ª conjugação com marcador extra para o perfeito (fora do vocabulário morfológico padrão).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"morph_out_of_vocab\"]}"
   },
   {
-    "id": "chunk_2103-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_2103",
-    "page_num": 2103,
-    "lemmas": [
-      "apes",
-      "apes"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada plural indicativa; remete ao lema apis (see LS/Whitaker/Lat→Deu).",
-    "raw_text": "{\"id\":\"chunk_2103:2103:0\",\"lemas\":[\"apes\"],\"lema_canonico\":\"apes\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"apis\"],\"exemplos\":[],\"notas\":\"Entrada plural indicativa; remete ao lema apis (see LS/Whitaker/Lat→Deu).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_2103:2103:0\",\"lemas\":[\"apes\"],\"lema_canonico\":\"apes\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"apis\"],\"exemplos\":[],\"notas\":\"Entrada plural indicativa; remete ao lema apis (see LS/Whitaker/Lat→Deu).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"redirect_only\"]}"
-  },
-  {
     "id": "chunk_2104-e1",
     "volume_id": "faria",
     "doc_name": "chunk_2104",
@@ -2506,28 +2286,6 @@
     "notas": "Lewis & Short atesta a entrada com sentidos múltiplos (rei; centauro). Whitaker não registra. | [ocr_fix 2025-08-17T19:44:41Z] match direto em LS por lemma/lemma_norm | lemma_in='Aphareus' → 'Ăphăreus'",
     "raw_text": "{\"id\":\"chunk_2105:2105:0\",\"lemas\":[\"Aphareus\"],\"lema_canonico\":\"Aphareus\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"nome próprio: 1) rei dos messênios (legendário); 2) centauro (mitologia)\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 8, 304\",\"Ov. Met. 12, 341\"],\"notas\":\"Lewis & Short atesta a entrada com sentidos múltiplos (rei; centauro). Whitaker não registra.\",\"flags\":[\"src_ls\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_2105:2105:0\",\"lemas\":[\"Aphareus\"],\"lema_canonico\":\"Aphareus\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"nome próprio: 1) rei dos messênios (legendário); 2) centauro (mitologia)\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 8, 304\",\"Ov. Met. 12, 341\"],\"notas\":\"Lewis & Short atesta a entrada com sentidos múltiplos (rei; centauro). Whitaker não registra.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_2106-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_2106",
-    "page_num": 2106,
-    "lemmas": [
-      "aphelitios",
-      "aphelitios"
-    ],
-    "morfologia": "v. apēlētios",
-    "morph_render": "v. apēlētios",
-    "morph_extra": [],
-    "conf": "conf:low",
-    "needs_review": 1,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada é remissão para apēlētios; forma grafada a partir do OCR/primeira passada; fontes lexicais consultadas não confirmam de forma segura.",
-    "raw_text": "{\"id\":\"chunk_2106:2106:0\",\"lemas\":[\"aphelitios\"],\"lema_canonico\":\"aphelitios\",\"morfologia\":\"v. apēlētios\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"apēlētios\"],\"exemplos\":[],\"notas\":\"Entrada é remissão para apēlētios; forma grafada a partir do OCR/primeira passada; fontes lexicais consultadas não confirmam de forma segura.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_2106:2106:0\",\"lemas\":[\"aphelitios\"],\"lema_canonico\":\"aphelitios\",\"morfologia\":\"v. apēlētios\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"apēlētios\"],\"exemplos\":[],\"notas\":\"Entrada é remissão para apēlētios; forma grafada a partir do OCR/primeira passada; fontes lexicais consultadas não confirmam de forma segura.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\",\"redirect_only\"]}"
   },
   {
     "id": "chunk_2107-e1",
@@ -2660,28 +2418,6 @@
     "notas": "Grafia e identificação confirmadas em Whitaker/lexicografia; tratado como substantivo neutro de segunda declinação. | [ocr_fix 2025-08-17T19:44:40Z] match direto em Gaffiot por lemma/lemma_norm | lemma_in='aphrodisium' → 'Aphrŏdīsĭum'",
     "raw_text": "{\"id\":\"chunk_2112:2112:0\",\"lemas\":[\"aphrodisium\"],\"lema_canonico\":\"aphrodisium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"cidade do Lácio (Afrodísio), onde havia templo de Afrodite.\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 3, 57\"],\"notas\":\"Grafia e identificação confirmadas em Whitaker/lexicografia; tratado como substantivo neutro de segunda declinação.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_2112:2112:0\",\"lemas\":[\"aphrodisium\"],\"lema_canonico\":\"aphrodisium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"cidade do Lácio (Afrodísio), onde havia templo de Afrodite.\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 3, 57\"],\"notas\":\"Grafia e identificação confirmadas em Whitaker/lexicografia; tratado como substantivo neutro de segunda declinação.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_2112-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_2112",
-    "page_num": 2112,
-    "lemmas": [
-      "apicatus",
-      "apicatus"
-    ],
-    "morfologia": "s. masc. 4ª (-us)",
-    "morph_render": "s. masc. 4ª (-us)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "apicatus: adorned with the priest's cap (apex), esp. of the Flamen Dialis; apparatus: (1) apparatus, preparation, equipment, provision; (2) adj./part.: prepared, well-equipped, splendid; (part. perf. of aparō means ‘prepared’).",
-    "exemplos": [],
-    "notas": "Entrada no excerto era apenas cabeçalho; reuniu-se informação de Lewis & Short e Whitaker para ambos os lemas. | [dedupe] redirect → chunk_2113:2113:0 | [dedupe] redirect → chunk_2113:2113:0",
-    "raw_text": "{\"id\":\"chunk_2112:2112:1\",\"lemas\":[\"apicatus\",\"apparatus\"],\"lema_canonico\":\"apicatus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[\"adj. (1/2) -a, -um\",\"part. perf. pass.\"],\"definicao\":\"apicatus: adorned with the priest's cap (apex), esp. of the Flamen Dialis; apparatus: (1) apparatus, preparation, equipment, provision; (2) adj./part.: prepared, well-equipped, splendid; (part. perf. of aparō means ‘prepared’).\",\"aliases\":[],\"exemplos\":[\"Ov. F. 3, 397\",\"Cic. N. D. 1, 8, 20\"],\"notas\":\"Entrada no excerto era apenas cabeçalho; reuniu-se informação de Lewis & Short e Whitaker para ambos os lemas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_2112:2112:1\",\"lemas\":[\"apicatus\",\"apparatus\"],\"lema_canonico\":\"apicatus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[\"adj. (1/2) -a, -um\",\"part. perf. pass.\"],\"definicao\":\"apicatus: adorned with the priest's cap (apex), esp. of the Flamen Dialis; apparatus: (1) apparatus, preparation, equipment, provision; (2) adj./part.: prepared, well-equipped, splendid; (part. perf. of aparō means ‘prepared’).\",\"aliases\":[],\"exemplos\":[\"Ov. F. 3, 397\",\"Cic. N. D. 1, 8, 20\"],\"notas\":\"Entrada no excerto era apenas cabeçalho; reuniu-se informação de Lewis & Short e Whitaker para ambos os lemas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_2113-e1",
@@ -2902,28 +2638,6 @@
     "notas": "Forma apīscī, apiscor, aptus sum (LS). Infinitivo deponente -ī não cabe no esquema morfológico exigido; usado v. 3ª (-ere) como aproximação e marcado como deponente.",
     "raw_text": "{\"id\":\"chunk_2122:2122:0\",\"lemas\":[\"apiscor\"],\"lema_canonico\":\"apiscor\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"Verbo deponente: alcançar, obter, tomar; perseguir para conseguir.\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 8, 14, 3\",\"Cic. Leg. 1, 52\",\"Lucr. 6, 1235\"],\"notas\":\"Forma apīscī, apiscor, aptus sum (LS). Infinitivo deponente -ī não cabe no esquema morfológico exigido; usado v. 3ª (-ere) como aproximação e marcado como deponente.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"morph_out_of_vocab\"]}",
     "raw_json": "{\"id\":\"chunk_2122:2122:0\",\"lemas\":[\"apiscor\"],\"lema_canonico\":\"apiscor\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"Verbo deponente: alcançar, obter, tomar; perseguir para conseguir.\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 8, 14, 3\",\"Cic. Leg. 1, 52\",\"Lucr. 6, 1235\"],\"notas\":\"Forma apīscī, apiscor, aptus sum (LS). Infinitivo deponente -ī não cabe no esquema morfológico exigido; usado v. 3ª (-ere) como aproximação e marcado como deponente.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"morph_out_of_vocab\"]}"
-  },
-  {
-    "id": "chunk_2123-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_2123",
-    "page_num": 2123,
-    "lemmas": [
-      "ăpis",
-      "ăpis"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "abelha; também forma oblíqua/formal registrada 'apum' (variante ou forma flexional)",
-    "exemplos": [],
-    "notas": "'apum' atestado como forma no léxico; preferido lema canônico 'apis'. | [dedupe] redirect → chunk_2120:2120:0 | [dedupe] redirect → chunk_2120:2120:0 | [ocr_fix 2025-08-17T19:44:42Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='apis' → 'ăpis'",
-    "raw_text": "{\"id\":\"chunk_2123:2123:0\",\"lemas\":[\"apis\",\"apum\"],\"lema_canonico\":\"apis\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"abelha; também forma oblíqua/formal registrada 'apum' (variante ou forma flexional)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"'apum' atestado como forma no léxico; preferido lema canônico 'apis'.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_2123:2123:0\",\"lemas\":[\"apis\",\"apum\"],\"lema_canonico\":\"apis\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"abelha; também forma oblíqua/formal registrada 'apum' (variante ou forma flexional)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"'apum' atestado como forma no léxico; preferido lema canônico 'apis'.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}"
   },
   {
     "id": "chunk_2123-e2",
@@ -3498,28 +3212,6 @@
     "raw_json": "{\"id\":\"chunk_2145:2145:0\",\"lemas\":[\"apparatus\"],\"lema_canonico\":\"apparatus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"Preparação, provisão; equipamento, utensílios, aparelhagem (concreto); sentido figurado: pompa, suntuosidade, aparato retórico.\",\"aliases\":[],\"exemplos\":[\"Nep. Eum. 5, 7\",\"Cic. Phil. 2, 110\",\"Cic. De Or. 1, 229\"],\"notas\":\"Unificado conforme LS/Whitaker; gen. '-ūs' indicado.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_2145-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_2145",
-    "page_num": 2145,
-    "lemmas": [
-      "apparatio",
-      "apparatio"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Ato de preparar; provisão, preparação, projeto/execução de providências.",
-    "exemplos": [],
-    "notas": "Inclui variante adparatio; sentido principal 'preparação' atestado em LS/Whitaker. | [dedupe] redirect → chunk_2143:2143:0 | [dedupe] redirect → chunk_2143:2143:0",
-    "raw_text": "{\"id\":\"chunk_2145:2145:1\",\"lemas\":[\"apparatio\",\"adparatio\"],\"lema_canonico\":\"apparatio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Ato de preparar; provisão, preparação, projeto/execução de providências.\",\"aliases\":[],\"exemplos\":[\"Cic. Off. 2, 16, 56\",\"Vitruv. 2, 10\"],\"notas\":\"Inclui variante adparatio; sentido principal 'preparação' atestado em LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_2145:2145:1\",\"lemas\":[\"apparatio\",\"adparatio\"],\"lema_canonico\":\"apparatio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Ato de preparar; provisão, preparação, projeto/execução de providências.\",\"aliases\":[],\"exemplos\":[\"Cic. Off. 2, 16, 56\",\"Vitruv. 2, 10\"],\"notas\":\"Inclui variante adparatio; sentido principal 'preparação' atestado em LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_2146-e1",
     "volume_id": "faria",
     "doc_name": "chunk_2146",
@@ -3608,28 +3300,6 @@
     "raw_json": "{\"id\":\"chunk_2147:2147:0\",\"lemas\":[\"apparo\",\"adparo\"],\"lema_canonico\":\"apparo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"preparar, fazer preparativos; também equipar-se, dispor (trans. e intrans.); preparar algo para alguém\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 4, 44\",\"Cic. Phil. 10, 7\",\"Cic. Pomp. 35\"],\"notas\":\"Unificadas variantes adparo/apparo; paradigma normalizado segundo Lat→Deu/LS.\",\"flags\":[\"src_latdeu\",\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_2147-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_2147",
-    "page_num": 2147,
-    "lemmas": [
-      "appellasis",
-      "appellasis"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada reconhecida como forma corrupta; redireciona para appellāveris (perfeito subj. de appellō).",
-    "raw_text": "{\"id\":\"chunk_2147:2147:1\",\"lemas\":[\"appellasis\"],\"lema_canonico\":\"appellasis\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"appellāveris\"],\"exemplos\":[\"Ter. Phormo 742\"],\"notas\":\"Entrada reconhecida como forma corrupta; redireciona para appellāveris (perfeito subj. de appellō).\",\"flags\":[\"src_firstpass\",\"src_ls\",\"conf:med\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_2147:2147:1\",\"lemas\":[\"appellasis\"],\"lema_canonico\":\"appellasis\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"appellāveris\"],\"exemplos\":[\"Ter. Phormo 742\"],\"notas\":\"Entrada reconhecida como forma corrupta; redireciona para appellāveris (perfeito subj. de appellō).\",\"flags\":[\"src_firstpass\",\"src_ls\",\"conf:med\",\"redirect_only\"]}"
-  },
-  {
     "id": "chunk_2148-e1",
     "volume_id": "faria",
     "doc_name": "chunk_2148",
@@ -3694,50 +3364,6 @@
     "notas": "Normalizado a partir de 'appellātus'; forma apoiada por dicionários (LS/Whitaker/Lat→Deu).",
     "raw_text": "{\"id\":\"chunk_2149:2149:0\",\"lemas\":[\"appellatus\"],\"lema_canonico\":\"appellatus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de appellō (appellāre): 'chamado, apelado, dirigido'\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizado a partir de 'appellātus'; forma apoiada por dicionários (LS/Whitaker/Lat→Deu).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_2149:2149:0\",\"lemas\":[\"appellatus\"],\"lema_canonico\":\"appellatus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de appellō (appellāre): 'chamado, apelado, dirigido'\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizado a partir de 'appellātus'; forma apoiada por dicionários (LS/Whitaker/Lat→Deu).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_2149-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_2149",
-    "page_num": 2149,
-    "lemmas": [
-      "applĭcĭtus",
-      "applĭcĭtus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "suposto particípio passivo do frequêntativo *appellitō/*appellitāre — leitura incerta; forma possivelmente medieval ou variante gráfica (não atestada classicamente)",
-    "exemplos": [],
-    "notas": "Entrada indica leitura alternativa 'appellito' no OCR; falta evidência em dicionários clássicos.\n[ocr_pipeline 2025-08-16T23:09:06.546069Z] lemma_in='appellatus' → 'applĭcĭtus' | motivo: similaridade semântica FAISS (definição/gloss) | [ocr_fix 2025-08-17T01:03:32Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='applĭcĭtus' → 'applĭcĭtus' | [dedupe] redirect → chunk_2181:2181:0 | [dedupe] redirect → chunk_2181:2181:0",
-    "raw_text": "{\"id\":\"chunk_2149:2149:1\",\"lemas\":[\"appellatus\"],\"lema_canonico\":\"appellatus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"suposto particípio passivo do frequêntativo *appellitō/*appellitāre — leitura incerta; forma possivelmente medieval ou variante gráfica (não atestada classicamente)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada indica leitura alternativa 'appellito' no OCR; falta evidência em dicionários clássicos.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_2149:2149:1\",\"lemas\":[\"appellatus\"],\"lema_canonico\":\"appellatus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"suposto particípio passivo do frequêntativo *appellitō/*appellitāre — leitura incerta; forma possivelmente medieval ou variante gráfica (não atestada classicamente)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada indica leitura alternativa 'appellito' no OCR; falta evidência em dicionários clássicos.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_2150-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_2150",
-    "page_num": 2150,
-    "lemmas": [
-      "appello",
-      "appello"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "chamar, dirigir a palavra a; nomear, apelar; (freq.) dirigir-se a alguém, pedir; (ver LS/Whitaker)",
-    "exemplos": [],
-    "notas": "Verbo da 1.ª conjugação (appellō, appellāre, appellāvī, appellātus); frequentativo/uso atestado em autores como Tácito. | [dedupe] redirect → chunk_2151:2151:0 | [dedupe] redirect → chunk_2151:2151:0",
-    "raw_text": "{\"id\":\"chunk_2150:2150:0\",\"lemas\":[\"appello\"],\"lema_canonico\":\"appello\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"chamar, dirigir a palavra a; nomear, apelar; (freq.) dirigir-se a alguém, pedir; (ver LS/Whitaker)\",\"aliases\":[],\"exemplos\":[\"Tac. An. 4, 65\"],\"notas\":\"Verbo da 1.ª conjugação (appellō, appellāre, appellāvī, appellātus); frequentativo/uso atestado em autores como Tácito.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_2150:2150:0\",\"lemas\":[\"appello\"],\"lema_canonico\":\"appello\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"chamar, dirigir a palavra a; nomear, apelar; (freq.) dirigir-se a alguém, pedir; (ver LS/Whitaker)\",\"aliases\":[],\"exemplos\":[\"Tac. An. 4, 65\"],\"notas\":\"Verbo da 1.ª conjugação (appellō, appellāre, appellāvī, appellātus); frequentativo/uso atestado em autores como Tácito.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_2151-e1",
@@ -4158,28 +3784,6 @@
     "raw_json": "{\"id\":\"chunk_2166:2166:0\",\"lemas\":[\"appetitus\",\"adpetitus\"],\"lema_canonico\":\"appetitus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"1) Particípio perfeito passivo de appeto (appetō, appetere, appetīvī, appetītus) e de variante adpeto/adpetō; 2) subst. masc. (appetītus, -ūs) 'desejo, anelo, apetite; também ataque, investida'.\",\"aliases\":[],\"exemplos\":[\"Amm. 30, 5\",\"Cic. Off. 1, 30\"],\"notas\":\"Inclui variante adpetitus; registra dupla natureza (particípio e substantivo) conforme LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_2167-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_2167",
-    "page_num": 2167,
-    "lemmas": [
-      "appetitus",
-      "appetitus"
-    ],
-    "morfologia": "s. masc. 4ª (-us)",
-    "morph_render": "s. masc. 4ª (-us)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Desejo, ânsia, apetites; também ataque, assalto (sentido concreto e figurado).",
-    "exemplos": [],
-    "notas": "Grafia normalizada para -ūs (4ª decl.); acepções harmonizadas com LS e Lat→Deu. | [dedupe] redirect → chunk_2165:2165:1 | [dedupe] redirect → chunk_2165:2165:1",
-    "raw_text": "{\"id\":\"chunk_2167:2167:0\",\"lemas\":[\"appetitus\",\"appetītus\"],\"lema_canonico\":\"appetitus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"Desejo, ânsia, apetites; também ataque, assalto (sentido concreto e figurado).\",\"aliases\":[],\"exemplos\":[\"Cic. Off. 1, 30\",\"Cic. Off. 1, 101\",\"Vulg. Gen. 4, 7\"],\"notas\":\"Grafia normalizada para -ūs (4ª decl.); acepções harmonizadas com LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_2167:2167:0\",\"lemas\":[\"appetitus\",\"appetītus\"],\"lema_canonico\":\"appetitus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"Desejo, ânsia, apetites; também ataque, assalto (sentido concreto e figurado).\",\"aliases\":[],\"exemplos\":[\"Cic. Off. 1, 30\",\"Cic. Off. 1, 101\",\"Vulg. Gen. 4, 7\"],\"notas\":\"Grafia normalizada para -ūs (4ª decl.); acepções harmonizadas com LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_2167-e2",
     "volume_id": "faria",
     "doc_name": "chunk_2167",
@@ -4334,28 +3938,6 @@
     "raw_json": "{\"id\":\"chunk_2173:2173:0\",\"lemas\":[\"appingo\",\"adpingo\",\"appingo\"],\"lema_canonico\":\"appingo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"acrescentar, acrescentar por pintura/escrita; pintar sobre, aplicar em (constrói-se com dat.)\",\"aliases\":[],\"exemplos\":[\"Hor. A. Poet. 305\",\"Cic. Att. 8, 2, 8\"],\"notas\":\"Variantes adpingo/appingo unificadas; regência com dativo mantida.\",\"flags\":[\"src_latdeu\",\"src_ls\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_2174-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_2174",
-    "page_num": 2174,
-    "lemmas": [
-      "appingo",
-      "appingo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Verbo appingō/adpingō (3ª): 'aplicar, acrescentar'; appinxī (appinxi) = 1ª pers. sg. perf. ind. ativo.",
-    "exemplos": [],
-    "notas": "Primeira‑passada trazia a forma perfeita; lemas corrigidos para os infinitivos canônicos (cf. Lat→Deu). | [dedupe] redirect → chunk_2173:2173:0 | [dedupe] redirect → chunk_2173:2173:0",
-    "raw_text": "{\"id\":\"chunk_2174:2174:0\",\"lemas\":[\"appingo\",\"adpingo\"],\"lema_canonico\":\"appingo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Verbo appingō/adpingō (3ª): 'aplicar, acrescentar'; appinxī (appinxi) = 1ª pers. sg. perf. ind. ativo.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Primeira‑passada trazia a forma perfeita; lemas corrigidos para os infinitivos canônicos (cf. Lat→Deu).\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_2174:2174:0\",\"lemas\":[\"appingo\",\"adpingo\"],\"lema_canonico\":\"appingo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Verbo appingō/adpingō (3ª): 'aplicar, acrescentar'; appinxī (appinxi) = 1ª pers. sg. perf. ind. ativo.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Primeira‑passada trazia a forma perfeita; lemas corrigidos para os infinitivos canônicos (cf. Lat→Deu).\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_2175-e1",
     "volume_id": "faria",
     "doc_name": "chunk_2175",
@@ -4376,28 +3958,6 @@
     "notas": "Mantida forma clássica 'Appius' e indicação como prenome (LS). | [ocr_fix 2025-08-17T19:55:57Z] match direto em LS por lemma/lemma_norm | lemma_in='Appius' → 'Appĭus'",
     "raw_text": "{\"id\":\"chunk_2175:2175:0\",\"lemas\":[\"Appius\"],\"lema_canonico\":\"Appius\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"praenomen romano (Ápio), especialmente da gens Claudia; usado também como adjetivo gentilício (Appius, a, um).\",\"aliases\":[],\"exemplos\":[\"Eutr. 1, 18\"],\"notas\":\"Mantida forma clássica 'Appius' e indicação como prenome (LS).\",\"flags\":[\"src_ls\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_2175:2175:0\",\"lemas\":[\"Appius\"],\"lema_canonico\":\"Appius\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"praenomen romano (Ápio), especialmente da gens Claudia; usado também como adjetivo gentilício (Appius, a, um).\",\"aliases\":[],\"exemplos\":[\"Eutr. 1, 18\"],\"notas\":\"Mantida forma clássica 'Appius' e indicação como prenome (LS).\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_2175-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_2175",
-    "page_num": 2175,
-    "lemmas": [
-      "applaudo",
-      "applaudo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "bater (uma coisa contra outra); por extensão, aplaudir, bater palmas.",
-    "exemplos": [],
-    "notas": "Lema normalizado para 'applaudo' com variante 'adplaudo'; conformado com Lat→Deu; transitivo e intransitivo. | [dedupe] redirect → chunk_2176:2176:0 | [dedupe] redirect → chunk_2176:2176:0 | [ocr_fix 2025-08-17T19:55:57Z] match direto em Gaffiot por lemma/lemma_norm | lemma_in='applaudo' → 'applaudo'",
-    "raw_text": "{\"id\":\"chunk_2175:2175:1\",\"lemas\":[\"applaudo\",\"adplaudo\"],\"lema_canonico\":\"applaudo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\",\"intr.\"],\"definicao\":\"bater (uma coisa contra outra); por extensão, aplaudir, bater palmas.\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 4, 352\",\"Plaut. Bac. 1211\"],\"notas\":\"Lema normalizado para 'applaudo' com variante 'adplaudo'; conformado com Lat→Deu; transitivo e intransitivo.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_2175:2175:1\",\"lemas\":[\"applaudo\",\"adplaudo\"],\"lema_canonico\":\"applaudo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\",\"intr.\"],\"definicao\":\"bater (uma coisa contra outra); por extensão, aplaudir, bater palmas.\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 4, 352\",\"Plaut. Bac. 1211\"],\"notas\":\"Lema normalizado para 'applaudo' com variante 'adplaudo'; conformado com Lat→Deu; transitivo e intransitivo.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
     "id": "chunk_2176-e1",
@@ -4576,28 +4136,6 @@
     "raw_json": "{\"id\":\"chunk_2182:2182:0\",\"lemas\":[\"applōrō\",\"adplōrō\"],\"lema_canonico\":\"applōrō\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"lamentar, chorar por, prantear; queixar‑se em voz alta\",\"aliases\":[],\"exemplos\":[\"Sen. Nat. 4, 2, 6\"],\"notas\":\"Normalizada grafia e macrons; variante adplōrō mantida.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"src_ocr\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_2182-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_2182",
-    "page_num": 2182,
-    "lemmas": [
-      "applausus",
-      "applausus"
-    ],
-    "morfologia": "s. masc. 4ª (-us)",
-    "morph_render": "s. masc. 4ª (-us)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "aplauso, batida; (part. perf. pass.) de applaudō/applaudere: aclamado, aplaudido",
-    "exemplos": [],
-    "notas": "Equivalência grafémica applūsus≈applausus atestada; registrado também como particípio de applaudō. | [dedupe] redirect → chunk_2178:2178:0 | [dedupe] redirect → chunk_2178:2178:0",
-    "raw_text": "{\"id\":\"chunk_2182:2182:1\",\"lemas\":[\"applausus\",\"applūsus\"],\"lema_canonico\":\"applausus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"aplauso, batida; (part. perf. pass.) de applaudō/applaudere: aclamado, aplaudido\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Equivalência grafémica applūsus≈applausus atestada; registrado também como particípio de applaudō.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_2182:2182:1\",\"lemas\":[\"applausus\",\"applūsus\"],\"lema_canonico\":\"applausus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"aplauso, batida; (part. perf. pass.) de applaudō/applaudere: aclamado, aplaudido\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Equivalência grafémica applūsus≈applausus atestada; registrado também como particípio de applaudō.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_2183-e1",
     "volume_id": "faria",
     "doc_name": "chunk_2183",
@@ -4618,28 +4156,6 @@
     "notas": "Unificadas variantes ap-/ad-; regência indicada (abl./dat./acc. conforme sentido).",
     "raw_text": "{\"id\":\"chunk_2183:2183:0\",\"lemas\":[\"appono\",\"adpono\"],\"lema_canonico\":\"appono\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Pôr junto de, colocar perto de, pôr diante de; atribuir; servir (à mesa), pôr na mesa; designar alguém para um serviço; acrescentar, ajudar.\",\"aliases\":[],\"exemplos\":[\"Cic. Pis. 73\",\"Cic. Tusc. 3, 91\",\"Cic. Clu. 51\",\"Cic. Lae. 17\",\"Hor. Sat. 1, 2, 107\"],\"notas\":\"Unificadas variantes ap-/ad-; regência indicada (abl./dat./acc. conforme sentido).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_2183:2183:0\",\"lemas\":[\"appono\",\"adpono\"],\"lema_canonico\":\"appono\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Pôr junto de, colocar perto de, pôr diante de; atribuir; servir (à mesa), pôr na mesa; designar alguém para um serviço; acrescentar, ajudar.\",\"aliases\":[],\"exemplos\":[\"Cic. Pis. 73\",\"Cic. Tusc. 3, 91\",\"Cic. Clu. 51\",\"Cic. Lae. 17\",\"Hor. Sat. 1, 2, 107\"],\"notas\":\"Unificadas variantes ap-/ad-; regência indicada (abl./dat./acc. conforme sentido).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_2184-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_2184",
-    "page_num": 2184,
-    "lemmas": [
-      "apporto",
-      "apporto"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Particípio passado (particípio passivo) de apporto/adporto: trazido, conduzido, transportado para.",
-    "exemplos": [],
-    "notas": "Forma com assimilação do prefixo (ad- > ap-); apresentada como variante no léxico. | [dedupe] redirect → chunk_2185:2185:0 | [dedupe] redirect → chunk_2185:2185:0",
-    "raw_text": "{\"id\":\"chunk_2184:2184:0\",\"lemas\":[\"apportatus\",\"adportatus\"],\"lema_canonico\":\"apporto\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio passado (particípio passivo) de apporto/adporto: trazido, conduzido, transportado para.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma com assimilação do prefixo (ad- > ap-); apresentada como variante no léxico.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_2184:2184:0\",\"lemas\":[\"apportatus\",\"adportatus\"],\"lema_canonico\":\"apporto\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio passado (particípio passivo) de apporto/adporto: trazido, conduzido, transportado para.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma com assimilação do prefixo (ad- > ap-); apresentada como variante no léxico.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_2185-e1",
@@ -4684,28 +4200,6 @@
     "notas": "Confirmado como verbo da 3.ª conjugação; variantes ap-/ad- registradas.",
     "raw_text": "{\"id\":\"chunk_2186:2186:0\",\"lemas\":[\"apposco\",\"adposco\"],\"lema_canonico\":\"apposco\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Pedir a mais, exigir suplementarmente.\",\"aliases\":[],\"exemplos\":[\"Hor. Ep. 2, 2, 10\"],\"notas\":\"Confirmado como verbo da 3.ª conjugação; variantes ap-/ad- registradas.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_2186:2186:0\",\"lemas\":[\"apposco\",\"adposco\"],\"lema_canonico\":\"apposco\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Pedir a mais, exigir suplementarmente.\",\"aliases\":[],\"exemplos\":[\"Hor. Ep. 2, 2, 10\"],\"notas\":\"Confirmado como verbo da 3.ª conjugação; variantes ap-/ad- registradas.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_2187-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_2187",
-    "page_num": 2187,
-    "lemmas": [
-      "apposite",
-      "apposite"
-    ],
-    "morfologia": "adv.",
-    "morph_render": "adv.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Convenientemente; de modo apropriado, adequadamente.",
-    "exemplos": [],
-    "notas": "Advérbio confirmado; variantes grafêmicas ap-/ad- atestadas. | [dedupe] redirect → chunk_2165:2165:2 | [dedupe] redirect → chunk_2165:2165:2",
-    "raw_text": "{\"id\":\"chunk_2187:2187:0\",\"lemas\":[\"apposite\",\"adposite\"],\"lema_canonico\":\"apposite\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"Convenientemente; de modo apropriado, adequadamente.\",\"aliases\":[],\"exemplos\":[\"Cic. Inv. 1, 6\"],\"notas\":\"Advérbio confirmado; variantes grafêmicas ap-/ad- atestadas.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_2187:2187:0\",\"lemas\":[\"apposite\",\"adposite\"],\"lema_canonico\":\"apposite\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"Convenientemente; de modo apropriado, adequadamente.\",\"aliases\":[],\"exemplos\":[\"Cic. Inv. 1, 6\"],\"notas\":\"Advérbio confirmado; variantes grafêmicas ap-/ad- atestadas.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_2188-e1",
@@ -4774,28 +4268,6 @@
     "raw_json": "{\"id\":\"chunk_2190:2190:0\",\"lemas\":[\"appositus\",\"adpositus\"],\"lema_canonico\":\"appositus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de apponō; adjetivo: posto junto, próximo, vizinho; apropriado, próprio\",\"aliases\":[],\"exemplos\":[\"Tac. Ann. 2, 7\",\"Cic. Verr. 5, 188\",\"Plaut. Mil. 905\"],\"notas\":\"Forma adverbial/variante adpositus atestada; entry unifica leitura como particípio/adjetivo conforme Whitaker e LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_2191-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_2191",
-    "page_num": 2191,
-    "lemmas": [
-      "appono",
-      "appono"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "pôr junto, colocar perto; colocar sobre/á mesa, servir; aplicar, acrescentar; nomear, designar (verf. perf. apposuī/adposuī)",
-    "exemplos": [],
-    "notas": "Transformado o perfeito listado na 1ª passada (apposui/adposui) ao lema infinitivo appono/adpono; confirmação por Lat→Deu e LS. | [dedupe] redirect → chunk_2183:2183:0 | [dedupe] redirect → chunk_2183:2183:0",
-    "raw_text": "{\"id\":\"chunk_2191:2191:0\",\"lemas\":[\"appono\",\"adpono\"],\"lema_canonico\":\"appono\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"pôr junto, colocar perto; colocar sobre/á mesa, servir; aplicar, acrescentar; nomear, designar (verf. perf. apposuī/adposuī)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Transformado o perfeito listado na 1ª passada (apposui/adposui) ao lema infinitivo appono/adpono; confirmação por Lat→Deu e LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_2191:2191:0\",\"lemas\":[\"appono\",\"adpono\"],\"lema_canonico\":\"appono\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"pôr junto, colocar perto; colocar sobre/á mesa, servir; aplicar, acrescentar; nomear, designar (verf. perf. apposuī/adposuī)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Transformado o perfeito listado na 1ª passada (apposui/adposui) ao lema infinitivo appono/adpono; confirmação por Lat→Deu e LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_2192-e1",
     "volume_id": "faria",
     "doc_name": "chunk_2192",
@@ -4862,28 +4334,6 @@
     "raw_json": "{\"id\":\"chunk_2194:2194:0\",\"lemas\":[\"apprehendo\"],\"lema_canonico\":\"apprehendo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"apprehendō, apprehendere, apprehendī, apprehēnsum; agarrar, apanhar, segurar; apoderar‑se de; compreender\",\"aliases\":[\"apprehendi\"],\"exemplos\":[],\"notas\":\"Entrada original indicava a forma perfeita 'apprehendi'; normalizado ao lema canônico.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_2194-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_2194",
-    "page_num": 2194,
-    "lemmas": [
-      "apprehendo",
-      "apprehendo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "apprehendō, apprehendere, apprehendī, apprehēnsum; agarrar, apanhar, segurar; apoderar‑se de; (em linguagem militar) apoderar‑se, atacar; também ‘compreender’",
-    "exemplos": [],
-    "notas": "Unificadas as variantes com/ad‑; formas com macrons normalizadas. | [dedupe] redirect → chunk_2194:2194:0 | [dedupe] redirect → chunk_2194:2194:0",
-    "raw_text": "{\"id\":\"chunk_2194:2194:1\",\"lemas\":[\"apprehendo\",\"adprehendo\"],\"lema_canonico\":\"apprehendo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"apprehendō, apprehendere, apprehendī, apprehēnsum; agarrar, apanhar, segurar; apoderar‑se de; (em linguagem militar) apoderar‑se, atacar; também ‘compreender’\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 1, 54\",\"Cic. At. 10, 8\"],\"notas\":\"Unificadas as variantes com/ad‑; formas com macrons normalizadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_2194:2194:1\",\"lemas\":[\"apprehendo\",\"adprehendo\"],\"lema_canonico\":\"apprehendo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"apprehendō, apprehendere, apprehendī, apprehēnsum; agarrar, apanhar, segurar; apoderar‑se de; (em linguagem militar) apoderar‑se, atacar; também ‘compreender’\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 1, 54\",\"Cic. At. 10, 8\"],\"notas\":\"Unificadas as variantes com/ad‑; formas com macrons normalizadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_2194-e3",
     "volume_id": "faria",
     "doc_name": "chunk_2194",
@@ -4904,50 +4354,6 @@
     "notas": "Formas variantes registradas com/ad‑ e sem h; tratadas como variantes do particípio perfeito.",
     "raw_text": "{\"id\":\"chunk_2194:2194:2\",\"lemas\":[\"apprehensus\",\"adprehensus\",\"apprensus\"],\"lema_canonico\":\"apprehensus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito/passivo de apprehendō; ‘apreendido, capturado’\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Formas variantes registradas com/ad‑ e sem h; tratadas como variantes do particípio perfeito.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_2194:2194:2\",\"lemas\":[\"apprehensus\",\"adprehensus\",\"apprensus\"],\"lema_canonico\":\"apprehensus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito/passivo de apprehendō; ‘apreendido, capturado’\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Formas variantes registradas com/ad‑ e sem h; tratadas como variantes do particípio perfeito.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_2194-e4",
-    "volume_id": "faria",
-    "doc_name": "chunk_2194",
-    "page_num": 2194,
-    "lemmas": [
-      "apprehendo",
-      "apprehendo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Variante ortográfica de apprehendō (apprendo = apprehendo); mesmos sentidos: agarrar, apoderar‑se, compreender",
-    "exemplos": [],
-    "notas": "Marca-se 'apprendo' como variante gráfica de 'apprehendo'. | [dedupe] redirect → chunk_2194:2194:0 | [dedupe] redirect → chunk_2194:2194:0",
-    "raw_text": "{\"id\":\"chunk_2194:2194:3\",\"lemas\":[\"apprehendo\",\"apprendo\"],\"lema_canonico\":\"apprehendo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Variante ortográfica de apprehendō (apprendo = apprehendo); mesmos sentidos: agarrar, apoderar‑se, compreender\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Marca-se 'apprendo' como variante gráfica de 'apprehendo'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_2194:2194:3\",\"lemas\":[\"apprehendo\",\"apprendo\"],\"lema_canonico\":\"apprehendo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Variante ortográfica de apprehendō (apprendo = apprehendo); mesmos sentidos: agarrar, apoderar‑se, compreender\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Marca-se 'apprendo' como variante gráfica de 'apprehendo'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_2194-e5",
-    "volume_id": "faria",
-    "doc_name": "chunk_2194",
-    "page_num": 2194,
-    "lemmas": [
-      "apprehensus",
-      "apprehensus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Variante ortográfica do particípio perfeito/passivo de apprehendō; ‘apreendido’",
-    "exemplos": [],
-    "notas": "Normalizada a variante 'apprensus' para o lema 'apprehensus'. | [dedupe] redirect → chunk_2194:2194:2 | [dedupe] redirect → chunk_2194:2194:2",
-    "raw_text": "{\"id\":\"chunk_2194:2194:4\",\"lemas\":[\"apprehensus\",\"apprensus\",\"adprehensus\"],\"lema_canonico\":\"apprehensus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Variante ortográfica do particípio perfeito/passivo de apprehendō; ‘apreendido’\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizada a variante 'apprensus' para o lema 'apprehensus'.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_2194:2194:4\",\"lemas\":[\"apprehensus\",\"apprensus\",\"adprehensus\"],\"lema_canonico\":\"apprehensus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Variante ortográfica do particípio perfeito/passivo de apprehendō; ‘apreendido’\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizada a variante 'apprensus' para o lema 'apprehensus'.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"conf:high\"]}"
   },
   {
     "id": "chunk_2195-e1",
@@ -5036,28 +4442,6 @@
     "notas": "Forma adverbial confirmada por LS e Whitaker; variações gráficas registradas.",
     "raw_text": "{\"id\":\"chunk_2198:2198:0\",\"lemas\":[\"apprimē\",\"apprīmē\",\"adprimē\"],\"lema_canonico\":\"apprimē\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"Em primeiro lugar; sobretudo, principalmente; extremamente, em alto grau.\",\"aliases\":[],\"exemplos\":[\"C. Nep. Att. 13, 4\"],\"notas\":\"Forma adverbial confirmada por LS e Whitaker; variações gráficas registradas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_2198:2198:0\",\"lemas\":[\"apprimē\",\"apprīmē\",\"adprimē\"],\"lema_canonico\":\"apprimē\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"Em primeiro lugar; sobretudo, principalmente; extremamente, em alto grau.\",\"aliases\":[],\"exemplos\":[\"C. Nep. Att. 13, 4\"],\"notas\":\"Forma adverbial confirmada por LS e Whitaker; variações gráficas registradas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_2198-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_2198",
-    "page_num": 2198,
-    "lemmas": [
-      "apprĭmo",
-      "apprimo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Apertar, prender contra, apertar; pressionar (constrói‑se com dat. ou acus. com ad- em alguns autores).",
-    "exemplos": [],
-    "notas": "Normalizada a paradigma (-pressī, -pressum) e reconhecida variante com prefixo ad-; sentido conforme LS/Whitaker. | [dedupe] redirect → chunk_2196:2196:0 | [dedupe] redirect → chunk_2196:2196:0 | [ocr_fix 2025-08-20T01:03:57Z] Correção automática de lema via Gaffiot | lemma_in='apprimo' → 'apprĭmo'",
-    "raw_text": "{\"id\":\"chunk_2198:2198:1\",\"lemas\":[\"apprimo\",\"apprimō\",\"adprimō\"],\"lema_canonico\":\"apprimo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"Apertar, prender contra, apertar; pressionar (constrói‑se com dat. ou acus. com ad- em alguns autores).\",\"aliases\":[],\"exemplos\":[\"Tac. Ann. 2, 201, 47\"],\"notas\":\"Normalizada a paradigma (-pressī, -pressum) e reconhecida variante com prefixo ad-; sentido conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_2198:2198:1\",\"lemas\":[\"apprimo\",\"apprimō\",\"adprimō\"],\"lema_canonico\":\"apprimo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"Apertar, prender contra, apertar; pressionar (constrói‑se com dat. ou acus. com ad- em alguns autores).\",\"aliases\":[],\"exemplos\":[\"Tac. Ann. 2, 201, 47\"],\"notas\":\"Normalizada a paradigma (-pressī, -pressum) e reconhecida variante com prefixo ad-; sentido conforme LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_2199-e1",

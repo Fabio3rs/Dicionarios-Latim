@@ -286,28 +286,6 @@
     "raw_json": "{\"id\":\"chunk_3010:3010:0\",\"lemas\":[\"Auge\",\"Auga\"],\"lema_canonico\":\"Auge\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Auge, personagem mitológica (mãe de Telephus)\",\"aliases\":[],\"exemplos\":[\"Ov. Her. 9, 49\"],\"notas\":\"Nome próprio atestado em Lewis & Short e Lat→Deu; grafia variante Auga mantida.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_3011-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_3011",
-    "page_num": 3011,
-    "lemmas": [
-      "augeo",
-      "augeo"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "aumentar, ampliar; honrar, exaltar; fazer crescer",
-    "exemplos": [],
-    "notas": "Forma clássica augeo, auxi, auctum confirmada por Lewis & Short e Lat→Deu. | [dedupe] redirect → chunk_3012:3012:3 | [dedupe] redirect → chunk_3012:3012:3",
-    "raw_text": "{\"id\":\"chunk_3011:3011:0\",\"lemas\":[\"augeo\"],\"lema_canonico\":\"augeo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"aumentar, ampliar; honrar, exaltar; fazer crescer\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma clássica augeo, auxi, auctum confirmada por Lewis & Short e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_3011:3011:0\",\"lemas\":[\"augeo\"],\"lema_canonico\":\"augeo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"aumentar, ampliar; honrar, exaltar; fazer crescer\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma clássica augeo, auxi, auctum confirmada por Lewis & Short e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_3012-e1",
     "volume_id": "faria",
     "doc_name": "chunk_3012",
@@ -372,28 +350,6 @@
     "notas": "Marcada como part. perf. pass.; forma e sentido confirmados por LS/Whitaker. Morfologia ajustada ao vocabulário disponível.",
     "raw_text": "{\"id\":\"chunk_3012:3012:1\",\"lemas\":[\"assuctus\"],\"lema_canonico\":\"assuctus\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de assugere: 'sugido, puxado; absorvido' (verbo assugere = sugar/aspirar).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Marcada como part. perf. pass.; forma e sentido confirmados por LS/Whitaker. Morfologia ajustada ao vocabulário disponível.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}",
     "raw_json": "{\"id\":\"chunk_3012:3012:1\",\"lemas\":[\"assuctus\"],\"lema_canonico\":\"assuctus\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de assugere: 'sugido, puxado; absorvido' (verbo assugere = sugar/aspirar).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Marcada como part. perf. pass.; forma e sentido confirmados por LS/Whitaker. Morfologia ajustada ao vocabulário disponível.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}"
-  },
-  {
-    "id": "chunk_3012-e4",
-    "volume_id": "faria",
-    "doc_name": "chunk_3012",
-    "page_num": 3012,
-    "lemmas": [
-      "auctus",
-      "auctus"
-    ],
-    "morfologia": "s. masc. 4ª (-us)",
-    "morph_render": "s. masc. 4ª (-us)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "substantivo: aumento, crescimento, incremento; adjetivo/particípio (P. a.): 'aumentado, ampliado, abundante' (part. de augeo).",
-    "exemplos": [],
-    "notas": "Unifica acepções substantivas e participiais; particípio indicado em morph_extra. | [dedupe] redirect → chunk_2985:2985:0 | [dedupe] redirect → chunk_2985:2985:0",
-    "raw_text": "{\"id\":\"chunk_3012:3012:2\",\"lemas\":[\"auctus\"],\"lema_canonico\":\"auctus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"substantivo: aumento, crescimento, incremento; adjetivo/particípio (P. a.): 'aumentado, ampliado, abundante' (part. de augeo).\",\"aliases\":[],\"exemplos\":[\"Lucr. 2, 482\",\"Tac. A. 1, 56\",\"Plin. 4, 12\"],\"notas\":\"Unifica acepções substantivas e participiais; particípio indicado em morph_extra.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_3012:3012:2\",\"lemas\":[\"auctus\"],\"lema_canonico\":\"auctus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"substantivo: aumento, crescimento, incremento; adjetivo/particípio (P. a.): 'aumentado, ampliado, abundante' (part. de augeo).\",\"aliases\":[],\"exemplos\":[\"Lucr. 2, 482\",\"Tac. A. 1, 56\",\"Plin. 4, 12\"],\"notas\":\"Unifica acepções substantivas e participiais; particípio indicado em morph_extra.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_3013-e1",
@@ -482,28 +438,6 @@
     "notas": "Entrada baseada no first_pass/OCR; não encontrada nas fontes principais consultadas. | [ocr_fix 2025-08-17T18:23:35Z] match direto em Gaffiot por lemma/lemma_norm | lemma_in='Auginus' → 'Auginus' | [ocr_fix 2025-08-17T19:45:12Z] match direto em Gaffiot por lemma/lemma_norm | lemma_in='Auginus' → 'Auginus'",
     "raw_text": "{\"id\":\"chunk_3016:3016:0\",\"lemas\":[\"Auginus\"],\"lema_canonico\":\"Auginus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"monte da Ligúria (topónimo)\",\"aliases\":[],\"exemplos\":[\"T. Liv. 39, 2\"],\"notas\":\"Entrada baseada no first_pass/OCR; não encontrada nas fontes principais consultadas.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_3016:3016:0\",\"lemas\":[\"Auginus\"],\"lema_canonico\":\"Auginus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"monte da Ligúria (topónimo)\",\"aliases\":[],\"exemplos\":[\"T. Liv. 39, 2\"],\"notas\":\"Entrada baseada no first_pass/OCR; não encontrada nas fontes principais consultadas.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_3017-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_3017",
-    "page_num": 3017,
-    "lemmas": [
-      "argumentum",
-      "argumentum"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Prova, evidência; argumento, raciocínio que demonstra; também: assunto, enredo (de obra dramática), motivo.",
-    "exemplos": [],
-    "notas": "Consolidado a partir de Lewis & Short e Lat→Deu; exemplos escolhidos canonicamente. | [dedupe] redirect → chunk_2454:2454:0 | [dedupe] redirect → chunk_2454:2454:0",
-    "raw_text": "{\"id\":\"chunk_3017:3017:0\",\"lemas\":[\"argumentum\"],\"lema_canonico\":\"argumentum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Prova, evidência; argumento, raciocínio que demonstra; também: assunto, enredo (de obra dramática), motivo.\",\"aliases\":[],\"exemplos\":[\"Cic. Top. 2, 7\",\"Quint. 5, 1\"],\"notas\":\"Consolidado a partir de Lewis & Short e Lat→Deu; exemplos escolhidos canonicamente.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_3017:3017:0\",\"lemas\":[\"argumentum\"],\"lema_canonico\":\"argumentum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Prova, evidência; argumento, raciocínio que demonstra; também: assunto, enredo (de obra dramática), motivo.\",\"aliases\":[],\"exemplos\":[\"Cic. Top. 2, 7\",\"Quint. 5, 1\"],\"notas\":\"Consolidado a partir de Lewis & Short e Lat→Deu; exemplos escolhidos canonicamente.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_3017-e2",
@@ -968,28 +902,6 @@
     "raw_json": "{\"id\":\"chunk_3035:3035:0\",\"lemas\":[\"aura\"],\"lema_canonico\":\"aura\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Brisa, sopro suave de ar; exalação, odor; brilho, cintilação; favor público; (pl.) os ares, o céu.\",\"aliases\":[],\"exemplos\":[\"Caes. B. Civ. 3, 8, 2\",\"Verg. G. 4, 417\",\"Verg. A. 6, 204\",\"Cic. Har. 43\",\"Verg. A. 4, 176\",\"Verg. A. 6, 747\"],\"notas\":\"Genitivo variante aurā atestado; normalizada grafia clássica.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_3036-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_3036",
-    "page_num": 3036,
-    "lemmas": [
-      "auraria",
-      "auraria"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "mina de ouro; raramente adj., 'relativo ao ouro' ou 'dourado' (uso raro/derivado).",
-    "exemplos": [],
-    "notas": "Entrada preserva substantivo 'mina de ouro' e forma plural; adjetival é raro. | [dedupe] redirect → chunk_3036:3036:0 | [dedupe] redirect → chunk_3036:3036:0",
-    "raw_text": "{\"id\":\"chunk_3036:3036:2\",\"lemas\":[\"auraria\",\"aurariae\"],\"lema_canonico\":\"auraria\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"mina de ouro; raramente adj., 'relativo ao ouro' ou 'dourado' (uso raro/derivado).\",\"aliases\":[],\"exemplos\":[\"Tac. Ann. 6, 19\"],\"notas\":\"Entrada preserva substantivo 'mina de ouro' e forma plural; adjetival é raro.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_3036:3036:2\",\"lemas\":[\"auraria\",\"aurariae\"],\"lema_canonico\":\"auraria\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"mina de ouro; raramente adj., 'relativo ao ouro' ou 'dourado' (uso raro/derivado).\",\"aliases\":[],\"exemplos\":[\"Tac. Ann. 6, 19\"],\"notas\":\"Entrada preserva substantivo 'mina de ouro' e forma plural; adjetival é raro.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_3036-e2",
     "volume_id": "faria",
     "doc_name": "chunk_3036",
@@ -1208,50 +1120,6 @@
     "notas": "Terminação clássica ‹-ēre› confirmada; marcador inchoativo mantido.",
     "raw_text": "{\"id\":\"chunk_3043:3043:0\",\"lemas\":[\"auresco\"],\"lema_canonico\":\"auresco\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"inch.\"],\"definicao\":\"Tornar-se da cor do ouro; adquirir tom dourado (inchoativo de aurum).\",\"aliases\":[],\"exemplos\":[\"Varr. L. L. 7, § 83\"],\"notas\":\"Terminação clássica ‹-ēre› confirmada; marcador inchoativo mantido.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_3043:3043:0\",\"lemas\":[\"auresco\"],\"lema_canonico\":\"auresco\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"inch.\"],\"definicao\":\"Tornar-se da cor do ouro; adquirir tom dourado (inchoativo de aurum).\",\"aliases\":[],\"exemplos\":[\"Varr. L. L. 7, § 83\"],\"notas\":\"Terminação clássica ‹-ēre› confirmada; marcador inchoativo mantido.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_3044-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_3044",
-    "page_num": 3044,
-    "lemmas": [
-      "aureus",
-      "aureus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "De ouro; áureo; da cor do ouro; também: esplêndido, formoso; usado figuradamente.",
-    "exemplos": [],
-    "notas": "Forma gráfica com e sem diacrítico (LS registra aurĕus). | [dedupe] redirect → chunk_3041:3041:0 | [dedupe] redirect → chunk_3041:3041:0",
-    "raw_text": "{\"id\":\"chunk_3044:3044:0\",\"lemas\":[\"aurēus\",\"aureus\"],\"lema_canonico\":\"aureus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"De ouro; áureo; da cor do ouro; também: esplêndido, formoso; usado figuradamente.\",\"aliases\":[],\"exemplos\":[\"Verg. Aen. 2, 488\",\"Verg. Aen. 1, 492\",\"Verg. Aen. 10, 16\",\"Ov. Met. 1, 89\"],\"notas\":\"Forma gráfica com e sem diacrítico (LS registra aurĕus).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_3044:3044:0\",\"lemas\":[\"aurēus\",\"aureus\"],\"lema_canonico\":\"aureus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"De ouro; áureo; da cor do ouro; também: esplêndido, formoso; usado figuradamente.\",\"aliases\":[],\"exemplos\":[\"Verg. Aen. 2, 488\",\"Verg. Aen. 1, 492\",\"Verg. Aen. 10, 16\",\"Ov. Met. 1, 89\"],\"notas\":\"Forma gráfica com e sem diacrítico (LS registra aurĕus).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_3045-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_3045",
-    "page_num": 3045,
-    "lemmas": [
-      "aureus",
-      "aureus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Substantivo: peça de ouro; moeda de ouro (nummus aureus).",
-    "exemplos": [],
-    "notas": "Substantivo atestado em LS e Whitaker; corrigido 'nummus'. | [dedupe] redirect → chunk_3042:3042:0 | [dedupe] redirect → chunk_3042:3042:0",
-    "raw_text": "{\"id\":\"chunk_3045:3045:0\",\"lemas\":[\"aureus\"],\"lema_canonico\":\"aureus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Substantivo: peça de ouro; moeda de ouro (nummus aureus).\",\"aliases\":[],\"exemplos\":[\"T. Liv. 38, 11, 8\"],\"notas\":\"Substantivo atestado em LS e Whitaker; corrigido 'nummus'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_3045:3045:0\",\"lemas\":[\"aureus\"],\"lema_canonico\":\"aureus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Substantivo: peça de ouro; moeda de ouro (nummus aureus).\",\"aliases\":[],\"exemplos\":[\"T. Liv. 38, 11, 8\"],\"notas\":\"Substantivo atestado em LS e Whitaker; corrigido 'nummus'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_3046-e1",
@@ -1606,28 +1474,6 @@
     "raw_json": "{\"id\":\"chunk_3057:3057:0\",\"lemas\":[\"aurigis\",\"aurings\"],\"lema_canonico\":\"aurigis\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"topónimo (cidade Au-rige, Bética) conforme indicação em T. Liv. 24, 42, 5 — leitura incerta.\",\"aliases\":[],\"exemplos\":[\"T. Liv. 24, 42, 5\"],\"notas\":\"Grafia variante 'aurings' provavelmente corruptela editorial; confirmação necessária em manuscritos/edições de Livio.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_3058-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_3058",
-    "page_num": 3058,
-    "lemmas": [
-      "aurings",
-      "aurings"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:low",
-    "needs_review": 1,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada remissiva (v. Aurigis) no impresso; forma 'aurings' atípica e possivelmente errada — remeter para 'aurigis'.",
-    "raw_text": "{\"id\":\"chunk_3058:3058:0\",\"lemas\":[\"aurings\"],\"lema_canonico\":\"aurings\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"aurigis\"],\"exemplos\":[],\"notas\":\"Entrada remissiva (v. Aurigis) no impresso; forma 'aurings' atípica e possivelmente errada — remeter para 'aurigis'.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"redirect_only\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_3058:3058:0\",\"lemas\":[\"aurings\"],\"lema_canonico\":\"aurings\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"aurigis\"],\"exemplos\":[],\"notas\":\"Entrada remissiva (v. Aurigis) no impresso; forma 'aurings' atípica e possivelmente errada — remeter para 'aurigis'.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"redirect_only\",\"needs_review\"]}"
-  },
-  {
     "id": "chunk_3059-e1",
     "volume_id": "faria",
     "doc_name": "chunk_3059",
@@ -1758,28 +1604,6 @@
     "notas": "Forma com macron indicada (aurōra). Sentidos confirmados por Lewis & Short, Whitaker e Lat→Deu.",
     "raw_text": "{\"id\":\"chunk_3063:3063:0\",\"lemas\":[\"aurōra\",\"aurora\"],\"lema_canonico\":\"aurōra\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"a aurora; o amanhecer; por extensão, o Oriente, os povos/países do Oriente; também personificada como a deusa da manhã.\",\"aliases\":[],\"exemplos\":[\"Cic. Arat. 65\",\"Verg. En. 8, 686\"],\"notas\":\"Forma com macron indicada (aurōra). Sentidos confirmados por Lewis & Short, Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_3063:3063:0\",\"lemas\":[\"aurōra\",\"aurora\"],\"lema_canonico\":\"aurōra\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"a aurora; o amanhecer; por extensão, o Oriente, os povos/países do Oriente; também personificada como a deusa da manhã.\",\"aliases\":[],\"exemplos\":[\"Cic. Arat. 65\",\"Verg. En. 8, 686\"],\"notas\":\"Forma com macron indicada (aurōra). Sentidos confirmados por Lewis & Short, Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_3064-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_3064",
-    "page_num": 3064,
-    "lemmas": [
-      "aurōra",
-      "aurora"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Aurora, a deusa da manhã (personificação feminina do amanhecer); esposa de Tithon em mitologia; representada poeticamente (dedos de rosa, abre as portas do céu).",
-    "exemplos": [],
-    "notas": "Entrada mitológica/parteira do sentido personificado; forma e sentido confirmados por fontes lexicográficas. | [dedupe] redirect → chunk_3063:3063:0 | [dedupe] redirect → chunk_3063:3063:0 | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='aurora' → 'aurōra'",
-    "raw_text": "{\"id\":\"chunk_3064:3064:0\",\"lemas\":[\"aurora\"],\"lema_canonico\":\"aurora\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Aurora, a deusa da manhã (personificação feminina do amanhecer); esposa de Tithon em mitologia; representada poeticamente (dedos de rosa, abre as portas do céu).\",\"aliases\":[],\"exemplos\":[\"Verg. G. 1, 446\"],\"notas\":\"Entrada mitológica/parteira do sentido personificado; forma e sentido confirmados por fontes lexicográficas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_3064:3064:0\",\"lemas\":[\"aurora\"],\"lema_canonico\":\"aurora\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Aurora, a deusa da manhã (personificação feminina do amanhecer); esposa de Tithon em mitologia; representada poeticamente (dedos de rosa, abre as portas do céu).\",\"aliases\":[],\"exemplos\":[\"Verg. G. 1, 446\"],\"notas\":\"Entrada mitológica/parteira do sentido personificado; forma e sentido confirmados por fontes lexicográficas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_3065-e1",
@@ -2200,28 +2024,6 @@
     "raw_json": "{\"id\":\"chunk_3082:3082:0\",\"lemas\":[\"Ausonis\"],\"lema_canonico\":\"Ausonis\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Forma relacionada a Ausônia (possível variante ou forma poética); refere-se à Ausônia, nome poético da Itália.\",\"aliases\":[],\"exemplos\":[\"Ov. F. 2, 98\"],\"notas\":\"Entrada incerta quanto à grafia/genitivo impresso ('-idis' no OCR); requer verificação em fontes primárias.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_3083-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_3083",
-    "page_num": 3083,
-    "lemmas": [
-      "Ausonia",
-      "Ausonia"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:low",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Designa os Ausônios / a região chamada Ausônia; nome poético para a Itália (uso em Virgílio).",
-    "exemplos": [],
-    "notas": "Entrada original apresentava marcação incomum ('-ōrum, subs. loc. m.'); normalizado para a forma feminina padrão. | [dedupe] redirect → chunk_3080:3080:0 | [dedupe] redirect → chunk_3080:3080:0",
-    "raw_text": "{\"id\":\"chunk_3083:3083:0\",\"lemas\":[\"Ausonia\"],\"lema_canonico\":\"Ausonia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Designa os Ausônios / a região chamada Ausônia; nome poético para a Itália (uso em Virgílio).\",\"aliases\":[],\"exemplos\":[\"Verg. En. 7, 233\"],\"notas\":\"Entrada original apresentava marcação incomum ('-ōrum, subs. loc. m.'); normalizado para a forma feminina padrão.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_3083:3083:0\",\"lemas\":[\"Ausonia\"],\"lema_canonico\":\"Ausonia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Designa os Ausônios / a região chamada Ausônia; nome poético para a Itália (uso em Virgílio).\",\"aliases\":[],\"exemplos\":[\"Verg. En. 7, 233\"],\"notas\":\"Entrada original apresentava marcação incomum ('-ōrum, subs. loc. m.'); normalizado para a forma feminina padrão.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
     "id": "chunk_3083-e2",
     "volume_id": "faria",
     "doc_name": "chunk_3083",
@@ -2264,28 +2066,6 @@
     "notas": "Normalizado declinação para 3ª (gen. auspicis).",
     "raw_text": "{\"id\":\"chunk_3083:3083:2\",\"lemas\":[\"auspex\"],\"lema_canonico\":\"auspex\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Aquele que observa aves para prognosticar; augure, adivinho; figur.: protetor, padrinho em casamento.\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 2, 7\",\"Cic. Div. 1, 28\",\"Verg. En. 4, 45\"],\"notas\":\"Normalizado declinação para 3ª (gen. auspicis).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_3083:3083:2\",\"lemas\":[\"auspex\"],\"lema_canonico\":\"auspex\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Aquele que observa aves para prognosticar; augure, adivinho; figur.: protetor, padrinho em casamento.\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 2, 7\",\"Cic. Div. 1, 28\",\"Verg. En. 4, 45\"],\"notas\":\"Normalizado declinação para 3ª (gen. auspicis).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_3084-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_3084",
-    "page_num": 3084,
-    "lemmas": [
-      "auspex",
-      "auspex"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "augur; adivinho que interpreta os sinais das aves; auspicador, intérprete de bons/maus presságios",
-    "exemplos": [],
-    "notas": "Corrigido de adj. (OCR) para substantivo conforme LS/Whitaker; removida forma errônea 'auxpex' como lema principal | [dedupe] redirect → chunk_3083:3083:2 | [dedupe] redirect → chunk_3083:3083:2",
-    "raw_text": "{\"id\":\"chunk_3084:3084:0\",\"lemas\":[\"auspex\"],\"lema_canonico\":\"auspex\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"augur; adivinho que interpreta os sinais das aves; auspicador, intérprete de bons/maus presságios\",\"aliases\":[],\"exemplos\":[\"Sên. Med. 58\"],\"notas\":\"Corrigido de adj. (OCR) para substantivo conforme LS/Whitaker; removida forma errônea 'auxpex' como lema principal\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_3084:3084:0\",\"lemas\":[\"auspex\"],\"lema_canonico\":\"auspex\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"augur; adivinho que interpreta os sinais das aves; auspicador, intérprete de bons/maus presságios\",\"aliases\":[],\"exemplos\":[\"Sên. Med. 58\"],\"notas\":\"Corrigido de adj. (OCR) para substantivo conforme LS/Whitaker; removida forma errônea 'auxpex' como lema principal\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_3085-e1",
@@ -2882,28 +2662,6 @@
     "raw_json": "{\"id\":\"chunk_3110:3110:0\",\"lemas\":[\"Autonoeius\",\"Autonoeum\"],\"lema_canonico\":\"Autonoeius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Adjetivo relativo a Autonoe (Autonoë); 'de Autonoe' (cf. Ov. Met. 3, 198).\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 3, 198\"],\"notas\":\"Corresponde ao adjetivo Autŏnŏēĭus atestado em LS; forma ajustada da primeira passada.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_3111-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_3111",
-    "page_num": 3111,
-    "lemmas": [
-      "auctor",
-      "auctor"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "aquele que gera, funda ou promove algo; autor, fundador, inventor, mestre, relator, responsável (sentidos diversos).",
-    "exemplos": [],
-    "notas": "Entrada de remissão normalizada; mantém variante gráfica 'autor'. | [dedupe] redirect → chunk_2980:2980:0 | [dedupe] redirect → chunk_2980:2980:0",
-    "raw_text": "{\"id\":\"chunk_3111:3111:0\",\"lemas\":[\"auctor\",\"autor\"],\"lema_canonico\":\"auctor\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"aquele que gera, funda ou promove algo; autor, fundador, inventor, mestre, relator, responsável (sentidos diversos).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada de remissão normalizada; mantém variante gráfica 'autor'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_3111:3111:0\",\"lemas\":[\"auctor\",\"autor\"],\"lema_canonico\":\"auctor\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"aquele que gera, funda ou promove algo; autor, fundador, inventor, mestre, relator, responsável (sentidos diversos).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada de remissão normalizada; mantém variante gráfica 'autor'.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_3112-e1",
     "volume_id": "faria",
     "doc_name": "chunk_3112",
@@ -3146,28 +2904,6 @@
     "raw_json": "{\"id\":\"chunk_3121:3121:0\",\"lemas\":[\"auxiliatus\"],\"lema_canonico\":\"auxiliatus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"1) auxílio, ajuda (substantivo, raro). 2) particípio perfeito/passivo ('ajudado', particípio de auxilior/auxiliārī)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada abrange tanto o substantivo (LS) como o particípio (Whitaker); marcada ambas funções em morph_extra.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_3122-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_3122",
-    "page_num": 3122,
-    "lemmas": [
-      "auxilius",
-      "auxilius"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:low",
-    "needs_review": 1,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada parece remeter a 'auxilium' (vide). Forma atípica; revisão necessária.",
-    "raw_text": "{\"id\":\"chunk_3122:3122:0\",\"lemas\":[\"auxilius\"],\"lema_canonico\":\"auxilius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"auxilium\"],\"exemplos\":[],\"notas\":\"Entrada parece remeter a 'auxilium' (vide). Forma atípica; revisão necessária.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"redirect_only\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_3122:3122:0\",\"lemas\":[\"auxilius\"],\"lema_canonico\":\"auxilius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"auxilium\"],\"exemplos\":[],\"notas\":\"Entrada parece remeter a 'auxilium' (vide). Forma atípica; revisão necessária.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"redirect_only\",\"needs_review\"]}"
-  },
-  {
     "id": "chunk_3123-e1",
     "volume_id": "faria",
     "doc_name": "chunk_3123",
@@ -3188,28 +2924,6 @@
     "notas": "Infinitivo auxiliārī (deponente) tratado como 1ª conjugação; uso com dativo indicado.",
     "raw_text": "{\"id\":\"chunk_3123:3123:0\",\"lemas\":[\"auxilior\"],\"lema_canonico\":\"auxilior\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"Verbo deponente auxiliar: socorrer, ajudar, prestar auxílio (normalmente com dat.).\",\"aliases\":[],\"exemplos\":[\"Caes. B. Gal. 7, 50\",\"Plin. H. Nat. 13, 125\"],\"notas\":\"Infinitivo auxiliārī (deponente) tratado como 1ª conjugação; uso com dativo indicado.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_3123:3123:0\",\"lemas\":[\"auxilior\"],\"lema_canonico\":\"auxilior\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"Verbo deponente auxiliar: socorrer, ajudar, prestar auxílio (normalmente com dat.).\",\"aliases\":[],\"exemplos\":[\"Caes. B. Gal. 7, 50\",\"Plin. H. Nat. 13, 125\"],\"notas\":\"Infinitivo auxiliārī (deponente) tratado como 1ª conjugação; uso com dativo indicado.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_3124-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_3124",
-    "page_num": 3124,
-    "lemmas": [
-      "auxilium",
-      "auxilium"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "ajuda, socorro, assistência; meio de socorro; no pl.: tropas auxiliares; remédio.",
-    "exemplos": [],
-    "notas": "Entrada alinhada com Lewis & Short e Whitaker (neutro, pl. auxilia = tropas). | [dedupe] redirect → chunk_3033:3033:0 | [dedupe] redirect → chunk_3033:3033:0",
-    "raw_text": "{\"id\":\"chunk_3124:3124:0\",\"lemas\":[\"auxilium\"],\"lema_canonico\":\"auxilium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"ajuda, socorro, assistência; meio de socorro; no pl.: tropas auxiliares; remédio.\",\"aliases\":[],\"exemplos\":[\"Cic. Cat. 2, 19\",\"Caes. B. Gall. 3, 5, 2\",\"Caes. B. Gall. 6, 10, 1\",\"Ov. Rem. 48\"],\"notas\":\"Entrada alinhada com Lewis & Short e Whitaker (neutro, pl. auxilia = tropas).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_3124:3124:0\",\"lemas\":[\"auxilium\"],\"lema_canonico\":\"auxilium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"ajuda, socorro, assistência; meio de socorro; no pl.: tropas auxiliares; remédio.\",\"aliases\":[],\"exemplos\":[\"Cic. Cat. 2, 19\",\"Caes. B. Gall. 3, 5, 2\",\"Caes. B. Gall. 6, 10, 1\",\"Ov. Rem. 48\"],\"notas\":\"Entrada alinhada com Lewis & Short e Whitaker (neutro, pl. auxilia = tropas).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_3124-e2",
@@ -3388,28 +3102,6 @@
     "raw_json": "{\"id\":\"chunk_3129:3129:0\",\"lemas\":[\"avarus\",\"avara\",\"avarum\"],\"lema_canonico\":\"avarus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Avarento, cobiçoso; desejoso de posses; por extensão, muito desejoso.\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. pr. 41\",\"Cic. Phil. 1, 113\",\"Hor. Ep. 2, 1, 179\"],\"notas\":\"Unificadas formas do lema e normalizada a morfologia conforme LS/Whitaker; removido texto OCR irrelevante.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_3130-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_3130",
-    "page_num": 3130,
-    "lemmas": [
-      "aveho",
-      "aveho"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Levar, transportar para longe; conduzir; (pass.) afastar‑se, ser levado.",
-    "exemplos": [],
-    "notas": "Formas normalizadas para aveho / avehō; transitividade confirmada; conjugação alinhada com Whitaker. | [dedupe] redirect → chunk_3157:3157:0 | [dedupe] redirect → chunk_3157:3157:0",
-    "raw_text": "{\"id\":\"chunk_3130:3130:0\",\"lemas\":[\"aveho\",\"avehō\"],\"lema_canonico\":\"aveho\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"Levar, transportar para longe; conduzir; (pass.) afastar‑se, ser levado.\",\"aliases\":[],\"exemplos\":[\"Cæs. B. Gal. 7, 55, 8\"],\"notas\":\"Formas normalizadas para aveho / avehō; transitividade confirmada; conjugação alinhada com Whitaker.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_3130:3130:0\",\"lemas\":[\"aveho\",\"avehō\"],\"lema_canonico\":\"aveho\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"Levar, transportar para longe; conduzir; (pass.) afastar‑se, ser levado.\",\"aliases\":[],\"exemplos\":[\"Cæs. B. Gal. 7, 55, 8\"],\"notas\":\"Formas normalizadas para aveho / avehō; transitividade confirmada; conjugação alinhada com Whitaker.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_3131-e1",
     "volume_id": "faria",
     "doc_name": "chunk_3131",
@@ -3498,28 +3190,6 @@
     "raw_json": "{\"id\":\"chunk_3132:3132:2\",\"lemas\":[\"avellere\",\"avello\",\"āvellere\"],\"lema_canonico\":\"avellere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"āvellere (avellere): arrancar, tirar à força, entreiçar; variantes atestadas avellō/avulsī/avulsum.\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 4, 48\",\"Cic. Or. 3, 83\"],\"notas\":\"Normalizado para o infinitivo clássico āvellere; formas perfeitas avulsī/āvulsī indicadas como variantes.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_3132-e4",
-    "volume_id": "faria",
-    "doc_name": "chunk_3132",
-    "page_num": 3132,
-    "lemmas": [
-      "ae",
-      "ae"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada redirecionada para a letra/dígrafo 'A' conforme Lewis & Short; possível OCR confundiu 'avena'. | [dedupe] redirect → chunk_26819:26819:1 | [dedupe] redirect → chunk_26819:26819:1 | [ocr_fix 2025-08-17T19:56:15Z] match direto em LS por lemma/lemma_norm | lemma_in='ae' → 'ae'",
-    "raw_text": "{\"id\":\"chunk_3132:3132:3\",\"lemas\":[\"ae\"],\"lema_canonico\":\"ae\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"a\"],\"exemplos\":[],\"notas\":\"Entrada redirecionada para a letra/dígrafo 'A' conforme Lewis & Short; possível OCR confundiu 'avena'.\",\"flags\":[\"src_ls\",\"conf:med\",\"redirect_only\",\"src_firstpass\"]}",
-    "raw_json": "{\"id\":\"chunk_3132:3132:3\",\"lemas\":[\"ae\"],\"lema_canonico\":\"ae\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"a\"],\"exemplos\":[],\"notas\":\"Entrada redirecionada para a letra/dígrafo 'A' conforme Lewis & Short; possível OCR confundiu 'avena'.\",\"flags\":[\"src_ls\",\"conf:med\",\"redirect_only\",\"src_firstpass\"]}"
-  },
-  {
     "id": "chunk_3133-e1",
     "volume_id": "faria",
     "doc_name": "chunk_3133",
@@ -3562,28 +3232,6 @@
     "notas": "Entrada problemática: first_pass parece incoerente com OCR; necessita verificação contra fontes externas (Whitaker/LS) — possivelmente resíduo de OCR.",
     "raw_text": "{\"id\":\"chunk_3134:3134:0\",\"lemas\":[\"tic\"],\"lema_canonico\":\"tic\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"sufixo/elemento formativo (interpretação incerta no material fonte); provável leitura OCR ou segmentação errada.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada problemática: first_pass parece incoerente com OCR; necessita verificação contra fontes externas (Whitaker/LS) — possivelmente resíduo de OCR.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_3134:3134:0\",\"lemas\":[\"tic\"],\"lema_canonico\":\"tic\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"sufixo/elemento formativo (interpretação incerta no material fonte); provável leitura OCR ou segmentação errada.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada problemática: first_pass parece incoerente com OCR; necessita verificação contra fontes externas (Whitaker/LS) — possivelmente resíduo de OCR.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_3134-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_3134",
-    "page_num": 3134,
-    "lemmas": [
-      "Aventicum",
-      "Aventicum"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "cidade dos Helvécios (hoje Avenches); nome ligado à deusa céltica Aventia.",
-    "exemplos": [],
-    "notas": "Normalizada grafia para Aventicum conforme Whitaker; referenciada Tácito. | [dedupe] redirect → chunk_3134:3134:3 | [dedupe] redirect → chunk_3134:3134:3",
-    "raw_text": "{\"id\":\"chunk_3134:3134:1\",\"lemas\":[\"Aventicum\",\"aventicum\"],\"lema_canonico\":\"Aventicum\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"cidade dos Helvécios (hoje Avenches); nome ligado à deusa céltica Aventia.\",\"aliases\":[],\"exemplos\":[\"Tac. Hist. 1, 68\"],\"notas\":\"Normalizada grafia para Aventicum conforme Whitaker; referenciada Tácito.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_3134:3134:1\",\"lemas\":[\"Aventicum\",\"aventicum\"],\"lema_canonico\":\"Aventicum\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"cidade dos Helvécios (hoje Avenches); nome ligado à deusa céltica Aventia.\",\"aliases\":[],\"exemplos\":[\"Tac. Hist. 1, 68\"],\"notas\":\"Normalizada grafia para Aventicum conforme Whitaker; referenciada Tácito.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
     "id": "chunk_3134-e3",
@@ -3740,28 +3388,6 @@
     "raw_json": "{\"id\":\"chunk_3139:3139:0\",\"lemas\":[\"aveo\",\"avere\",\"avēre\"],\"lema_canonico\":\"aveo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"1) desejar, ansiar; 2) saudar (imper. ave!, formula de saudação/despedida).\",\"aliases\":[],\"exemplos\":[\"(saud.) avere jubeo = eu te saúdo\"],\"notas\":\"Inclui acepções de desejo e de saudação conforme Lewis & Short; infinitivo registrado como avēre/avere.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_3140-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_3140",
-    "page_num": 3140,
-    "lemmas": [
-      "avernus",
-      "avernus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Lago Averno (Campânia); por extensão, as regiões infernais, o mundo inferior.",
-    "exemplos": [],
-    "notas": "Normalizado para substantivo próprio com forma gen. -i; alinhado com LS, Whitaker e Lat→Deu. | [dedupe] redirect → chunk_3143:3143:0 | [dedupe] redirect → chunk_3143:3143:0",
-    "raw_text": "{\"id\":\"chunk_3140:3140:0\",\"lemas\":[\"avernus\",\"Avernus\"],\"lema_canonico\":\"avernus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Lago Averno (Campânia); por extensão, as regiões infernais, o mundo inferior.\",\"aliases\":[],\"exemplos\":[\"Verg. En. 4, 342\"],\"notas\":\"Normalizado para substantivo próprio com forma gen. -i; alinhado com LS, Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_3140:3140:0\",\"lemas\":[\"avernus\",\"Avernus\"],\"lema_canonico\":\"avernus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Lago Averno (Campânia); por extensão, as regiões infernais, o mundo inferior.\",\"aliases\":[],\"exemplos\":[\"Verg. En. 4, 342\"],\"notas\":\"Normalizado para substantivo próprio com forma gen. -i; alinhado com LS, Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_3141-e1",
     "volume_id": "faria",
     "doc_name": "chunk_3141",
@@ -3848,28 +3474,6 @@
     "notas": "Entrada ajustada de forma finita (averrī) para o lema infinitivo averrere/averro; transitividade atestada em fontes.",
     "raw_text": "{\"id\":\"chunk_3144:3144:0\",\"lemas\":[\"averro\",\"averrere\"],\"lema_canonico\":\"averro\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"Verbo transitivo: varrer, limpar, afastar; 'averī' é o perfeito 'averrī' (perfeito indicativo).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada ajustada de forma finita (averrī) para o lema infinitivo averrere/averro; transitividade atestada em fontes.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_3144:3144:0\",\"lemas\":[\"averro\",\"averrere\"],\"lema_canonico\":\"averro\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"Verbo transitivo: varrer, limpar, afastar; 'averī' é o perfeito 'averrī' (perfeito indicativo).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada ajustada de forma finita (averrī) para o lema infinitivo averrere/averro; transitividade atestada em fontes.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_3145-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_3145",
-    "page_num": 3145,
-    "lemmas": [
-      "averro",
-      "averro"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "varrer, afastar, tirar; limpar, remover (ex.: limpar a mesa)",
-    "exemplos": [],
-    "notas": "Infinitivo clássico attestado como āverrere; normalizada a partir do OCR e do resumo Lat→Deu. | [dedupe] redirect → chunk_3144:3144:0 | [dedupe] redirect → chunk_3144:3144:0",
-    "raw_text": "{\"id\":\"chunk_3145:3145:0\",\"lemas\":[\"averro\"],\"lema_canonico\":\"averro\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"varrer, afastar, tirar; limpar, remover (ex.: limpar a mesa)\",\"aliases\":[],\"exemplos\":[\"Hor. Sat. 2, 4, 37\"],\"notas\":\"Infinitivo clássico attestado como āverrere; normalizada a partir do OCR e do resumo Lat→Deu.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_3145:3145:0\",\"lemas\":[\"averro\"],\"lema_canonico\":\"averro\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"varrer, afastar, tirar; limpar, remover (ex.: limpar a mesa)\",\"aliases\":[],\"exemplos\":[\"Hor. Sat. 2, 4, 37\"],\"notas\":\"Infinitivo clássico attestado como āverrere; normalizada a partir do OCR e do resumo Lat→Deu.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
     "id": "chunk_3146-e1",
@@ -3982,28 +3586,6 @@
     "raw_json": "{\"id\":\"chunk_3150:3150:0\",\"lemas\":[\"āversio\",\"aversio\"],\"lema_canonico\":\"āversio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Afastamento, aversão, aborrecimento; em locuções (ex aversione) ‘de costas’; figura retórica: desvio da atenção do orador.\",\"aliases\":[],\"exemplos\":[\"Auct. B. Hisp. 22, 3\",\"Quint. 9, 2, 38\"],\"notas\":\"Grafia macronizada conforme LS; sentido jurístico e retórico atestado.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_3150-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_3150",
-    "page_num": 3150,
-    "lemmas": [
-      "āversor",
-      "āversor"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "(v. dep.) voltar-se para longe; afastar-se; rejeitar, evitar. (s.) ladrão, desviado, peculista (especialmente em uso jurídico/administrativo).",
-    "exemplos": [],
-    "notas": "Entrada aceita como dupla (verbo deponente e substantivo) conforme Lewis & Short e Whitaker. | [dedupe] redirect → chunk_3151:3151:0 | [dedupe] redirect → chunk_3151:3151:0",
-    "raw_text": "{\"id\":\"chunk_3150:3150:1\",\"lemas\":[\"āversor\",\"āversārī\"],\"lema_canonico\":\"āversor\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"(v. dep.) voltar-se para longe; afastar-se; rejeitar, evitar. (s.) ladrão, desviado, peculista (especialmente em uso jurídico/administrativo).\",\"aliases\":[],\"exemplos\":[\"Plaut. Aul. 2, 1, 21\",\"Cic. Verr. 2, 5, 58\",\"Liv. 8, 7, 14\"],\"notas\":\"Entrada aceita como dupla (verbo deponente e substantivo) conforme Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_3150:3150:1\",\"lemas\":[\"āversor\",\"āversārī\"],\"lema_canonico\":\"āversor\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"(v. dep.) voltar-se para longe; afastar-se; rejeitar, evitar. (s.) ladrão, desviado, peculista (especialmente em uso jurídico/administrativo).\",\"aliases\":[],\"exemplos\":[\"Plaut. Aul. 2, 1, 21\",\"Cic. Verr. 2, 5, 58\",\"Liv. 8, 7, 14\"],\"notas\":\"Entrada aceita como dupla (verbo deponente e substantivo) conforme Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_3151-e1",
     "volume_id": "faria",
     "doc_name": "chunk_3151",
@@ -4114,28 +3696,6 @@
     "raw_json": "{\"id\":\"chunk_3155:3155:2\",\"lemas\":[\"avorto\",\"avórto\"],\"lema_canonico\":\"avorto\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Forma possivelmente corrupta ou variante de averto/averto: desviar, afastar; atestado como forma menos comum ou medieval/vernacular.\",\"aliases\":[\"averto\"],\"exemplos\":[],\"notas\":\"Mantida como variante; falta confirmação em dicionários clássicos. Recomenda-se revisão contra fontes manuscritas.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_3155-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_3155",
-    "page_num": 3155,
-    "lemmas": [
-      "altare",
-      "altare"
-    ],
-    "morfologia": "s. neut. 3ª (-is)",
-    "morph_render": "s. neut. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "altar; pedra ou estrutura para ofertas queimadas; também, as ofertas queimadas ou altar principal.",
-    "exemplos": [],
-    "notas": "Unificado para o infinitivo/forma nominal clássica altāre; grafia e sentido verificados em LS e Whitaker. | [dedupe] redirect → chunk_1434:1434:0 | [dedupe] redirect → chunk_1434:1434:0",
-    "raw_text": "{\"id\":\"chunk_3155:3155:0\",\"lemas\":[\"altare\",\"altar\"],\"lema_canonico\":\"altare\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"altar; pedra ou estrutura para ofertas queimadas; também, as ofertas queimadas ou altar principal.\",\"aliases\":[],\"exemplos\":[\"altaria (cf. Lewis & Short)\"],\"notas\":\"Unificado para o infinitivo/forma nominal clássica altāre; grafia e sentido verificados em LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_3155:3155:0\",\"lemas\":[\"altare\",\"altar\"],\"lema_canonico\":\"altare\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"altar; pedra ou estrutura para ofertas queimadas; também, as ofertas queimadas ou altar principal.\",\"aliases\":[],\"exemplos\":[\"altaria (cf. Lewis & Short)\"],\"notas\":\"Unificado para o infinitivo/forma nominal clássica altāre; grafia e sentido verificados em LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_3155-e3",
     "volume_id": "faria",
     "doc_name": "chunk_3155",
@@ -4178,28 +3738,6 @@
     "notas": "Forma imperativa atestada como saudação (ave, avete); morfologia de imperativo não disponível no vocabulário padrão, marcada em morph_extra.",
     "raw_text": "{\"id\":\"chunk_3156:3156:0\",\"lemas\":[\"avete\"],\"lema_canonico\":\"avete\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"imp. pres. 2ª p. pl.\"],\"definicao\":\"imperativo plural de aveō usado como saudação/despedida: ‘ide bem’, ‘sede bem’, equivalente a ‘farewell/ hail’.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma imperativa atestada como saudação (ave, avete); morfologia de imperativo não disponível no vocabulário padrão, marcada em morph_extra.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\",\"morph_out_of_vocab\"]}",
     "raw_json": "{\"id\":\"chunk_3156:3156:0\",\"lemas\":[\"avete\"],\"lema_canonico\":\"avete\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[\"imp. pres. 2ª p. pl.\"],\"definicao\":\"imperativo plural de aveō usado como saudação/despedida: ‘ide bem’, ‘sede bem’, equivalente a ‘farewell/ hail’.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma imperativa atestada como saudação (ave, avete); morfologia de imperativo não disponível no vocabulário padrão, marcada em morph_extra.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\",\"morph_out_of_vocab\"]}"
-  },
-  {
-    "id": "chunk_3156-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_3156",
-    "page_num": 3156,
-    "lemmas": [
-      "aveo",
-      "aveo"
-    ],
-    "morfologia": "v. 2ª (-ēre)",
-    "morph_render": "v. 2ª (-ēre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "āveō, āvēre — 1) desejar, ansiar, cobiçar (com inf./ac./dat.); 2) como forma de saudação/despedida (imper. ave, avete; inf. avere) ‘estar bem, saudar’.",
-    "exemplos": [],
-    "notas": "Entradas e sentidos confirmados por Lewis & Short e Whitaker. | [dedupe] redirect → chunk_3138:3138:0 | [dedupe] redirect → chunk_3138:3138:0",
-    "raw_text": "{\"id\":\"chunk_3156:3156:1\",\"lemas\":[\"aveo\"],\"lema_canonico\":\"aveo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"āveō, āvēre — 1) desejar, ansiar, cobiçar (com inf./ac./dat.); 2) como forma de saudação/despedida (imper. ave, avete; inf. avere) ‘estar bem, saudar’.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entradas e sentidos confirmados por Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_3156:3156:1\",\"lemas\":[\"aveo\"],\"lema_canonico\":\"aveo\",\"morfologia\":\"v. 2ª (-ēre)\",\"morph_extra\":[],\"definicao\":\"āveō, āvēre — 1) desejar, ansiar, cobiçar (com inf./ac./dat.); 2) como forma de saudação/despedida (imper. ave, avete; inf. avere) ‘estar bem, saudar’.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entradas e sentidos confirmados por Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_3156-e3",
@@ -4290,28 +3828,6 @@
     "raw_json": "{\"id\":\"chunk_3159:3159:0\",\"lemas\":[\"avia\",\"avium\"],\"lema_canonico\":\"avia\",\"morfologia\":\"s. neut. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Regiões sem caminhos; ermos, lugares intransitáveis e solitários (plur.).\",\"aliases\":[],\"exemplos\":[\"Tac. Ann. 6, 28\"],\"notas\":\"Lema confirmado como āvia (neut. pl.) nos dicionários; inclui variante avium registrada em fontes modernas.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_3160-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_3160",
-    "page_num": 3160,
-    "lemmas": [
-      "Avianus",
-      "Avianus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Gentilício/antroponímico Avianus, nome de homem (ex.: Avianus/Avianius atestado em fontes epigráficas e literárias).",
-    "exemplos": [],
-    "notas": "Entrada corresponde a nomen proprium Avianus; tratado como substantivo masculino 2.ª declinação. | [dedupe] redirect → chunk_3161:3161:0 | [dedupe] redirect → chunk_3161:3161:0",
-    "raw_text": "{\"id\":\"chunk_3160:3160:0\",\"lemas\":[\"Avianus\"],\"lema_canonico\":\"Avianus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Gentilício/antroponímico Avianus, nome de homem (ex.: Avianus/Avianius atestado em fontes epigráficas e literárias).\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 13, 79\"],\"notas\":\"Entrada corresponde a nomen proprium Avianus; tratado como substantivo masculino 2.ª declinação.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_3160:3160:0\",\"lemas\":[\"Avianus\"],\"lema_canonico\":\"Avianus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Gentilício/antroponímico Avianus, nome de homem (ex.: Avianus/Avianius atestado em fontes epigráficas e literárias).\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 13, 79\"],\"notas\":\"Entrada corresponde a nomen proprium Avianus; tratado como substantivo masculino 2.ª declinação.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_3161-e1",
     "volume_id": "faria",
     "doc_name": "chunk_3161",
@@ -4354,28 +3870,6 @@
     "notas": "Normalizada a forma clássica 'aviarium' (corrigido OCR/var.).",
     "raw_text": "{\"id\":\"chunk_3162:3162:0\",\"lemas\":[\"aviarium\"],\"lema_canonico\":\"aviarium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"1) Viveiro de aves, galinheiro, pombal; 2) local/abrigo onde as aves nidificam; também 'aviary' no sentido poético.\",\"aliases\":[],\"exemplos\":[\"Cic. Q. Fr. 3, 1, 2\",\"Verg. G. 4, 230\"],\"notas\":\"Normalizada a forma clássica 'aviarium' (corrigido OCR/var.).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_3162:3162:0\",\"lemas\":[\"aviarium\"],\"lema_canonico\":\"aviarium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"1) Viveiro de aves, galinheiro, pombal; 2) local/abrigo onde as aves nidificam; também 'aviary' no sentido poético.\",\"aliases\":[],\"exemplos\":[\"Cic. Q. Fr. 3, 1, 2\",\"Verg. G. 4, 230\"],\"notas\":\"Normalizada a forma clássica 'aviarium' (corrigido OCR/var.).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_3163-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_3163",
-    "page_num": 3163,
-    "lemmas": [
-      "avide",
-      "avide"
-    ],
-    "morfologia": "adv.",
-    "morph_render": "adv.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "avidamente; com avidez, ansiosamente, com desejo",
-    "exemplos": [],
-    "notas": "Forma adverbial confirmada por LS e Whitaker como ăvĭdē | [dedupe] redirect → chunk_2162:2162:0 | [dedupe] redirect → chunk_2162:2162:0",
-    "raw_text": "{\"id\":\"chunk_3163:3163:0\",\"lemas\":[\"avide\"],\"lema_canonico\":\"avide\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"avidamente; com avidez, ansiosamente, com desejo\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 4, 36\"],\"notas\":\"Forma adverbial confirmada por LS e Whitaker como ăvĭdē\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_3163:3163:0\",\"lemas\":[\"avide\"],\"lema_canonico\":\"avide\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"avidamente; com avidez, ansiosamente, com desejo\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 4, 36\"],\"notas\":\"Forma adverbial confirmada por LS e Whitaker como ăvĭdē\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_3164-e1",
@@ -4486,28 +3980,6 @@
     "notas": "Ortografia com longa ī (Ăvĭēnus) atestada em LS; normalizado para Avienus. | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='Avienus' → 'Ăvĭēnus'",
     "raw_text": "{\"id\":\"chunk_3168:3168:0\",\"lemas\":[\"Avienus\",\"Aviēnus\"],\"lema_canonico\":\"Avienus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Avienus (Bufus Festus Avienus), poeta latino do século IV, autor de metaphrases, tradutor dos Phœnomena de Aratus.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Ortografia com longa ī (Ăvĭēnus) atestada em LS; normalizado para Avienus.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_3168:3168:0\",\"lemas\":[\"Avienus\",\"Aviēnus\"],\"lema_canonico\":\"Avienus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Avienus (Bufus Festus Avienus), poeta latino do século IV, autor de metaphrases, tradutor dos Phœnomena de Aratus.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Ortografia com longa ī (Ăvĭēnus) atestada em LS; normalizado para Avienus.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_3169-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_3169",
-    "page_num": 3169,
-    "lemmas": [
-      "A",
-      "A"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Forma isolada atestada como prep. (com abl.) 'a/ab' = 'de, por' e como interjeição 'a!' (ah). Também aparece como prefixo; contexto incerto nesta lâmina.",
-    "exemplos": [],
-    "notas": "OCR originalmente mostrou entrada próxima a 'Aviola'; cuidado: pode ser prep., interj. ou prefixo dependendo do contexto do lemmatizado.\n[ocr_pipeline 2025-08-16T23:23:38.186072Z] lemma_in='a' → 'A' | motivo: match direto em LS por lemma/lemma_norm | [ocr_fix 2025-08-17T01:22:57Z] match direto em LS por lemma/lemma_norm | lemma_in='A' → 'A' | [dedupe] redirect → chunk_1211:1211:0 | [dedupe] redirect → chunk_1211:1211:0",
-    "raw_text": "{\"id\":\"chunk_3169:3169:0\",\"lemas\":[\"a\"],\"lema_canonico\":\"a\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Forma isolada atestada como prep. (com abl.) 'a/ab' = 'de, por' e como interjeição 'a!' (ah). Também aparece como prefixo; contexto incerto nesta lâmina.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"OCR originalmente mostrou entrada próxima a 'Aviola'; cuidado: pode ser prep., interj. ou prefixo dependendo do contexto do lemmatizado.\",\"flags\":[\"src_whitaker\",\"src_ocr\",\"src_firstpass\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_3169:3169:0\",\"lemas\":[\"a\"],\"lema_canonico\":\"a\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"Forma isolada atestada como prep. (com abl.) 'a/ab' = 'de, por' e como interjeição 'a!' (ah). Também aparece como prefixo; contexto incerto nesta lâmina.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"OCR originalmente mostrou entrada próxima a 'Aviola'; cuidado: pode ser prep., interj. ou prefixo dependendo do contexto do lemmatizado.\",\"flags\":[\"src_whitaker\",\"src_ocr\",\"src_firstpass\",\"conf:low\",\"needs_review\"]}"
   },
   {
     "id": "chunk_3169-e2",
@@ -4642,28 +4114,6 @@
     "raw_json": "{\"id\":\"chunk_3173:3173:0\",\"lemas\":[\"Avitus\"],\"lema_canonico\":\"Avitus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Cognomen romano (sobrenome); ex.: A. Cluentius Avitus, personagem citado por Cícero.\",\"aliases\":[],\"exemplos\":[\"Cic. Clu. 111\"],\"notas\":\"Entrada referente ao nome próprio/sobrenome, relacionado etimologicamente ao adjetivo avitus.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_3174-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_3174",
-    "page_num": 3174,
-    "lemmas": [
-      "avius",
-      "avius"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Adj. fora do caminho, pouco frequentado, remoto; sem trilha, inabitado, errante. Subst. (neut. pl. avium) — regiões sem caminho, ermos, desertos, lugares solitários (substantivação do adj.).",
-    "exemplos": [],
-    "notas": "Conciliei Whitaker (adj. avius a um + substantivação avium) e Lat→Deu; normalizei formas e sentido. | [dedupe] redirect → chunk_3175:3175:0 | [dedupe] redirect → chunk_3175:3175:0",
-    "raw_text": "{\"id\":\"chunk_3174:3174:0\",\"lemas\":[\"avius\",\"avia\",\"avium\"],\"lema_canonico\":\"avius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Adj. fora do caminho, pouco frequentado, remoto; sem trilha, inabitado, errante. Subst. (neut. pl. avium) — regiões sem caminho, ermos, desertos, lugares solitários (substantivação do adj.).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Conciliei Whitaker (adj. avius a um + substantivação avium) e Lat→Deu; normalizei formas e sentido.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_3174:3174:0\",\"lemas\":[\"avius\",\"avia\",\"avium\"],\"lema_canonico\":\"avius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Adj. fora do caminho, pouco frequentado, remoto; sem trilha, inabitado, errante. Subst. (neut. pl. avium) — regiões sem caminho, ermos, desertos, lugares solitários (substantivação do adj.).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Conciliei Whitaker (adj. avius a um + substantivação avium) e Lat→Deu; normalizei formas e sentido.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_3175-e1",
     "volume_id": "faria",
     "doc_name": "chunk_3175",
@@ -4774,28 +4224,6 @@
     "raw_json": "{\"id\":\"chunk_3179:3179:0\",\"lemas\":[\"avus\"],\"lema_canonico\":\"avus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Avô; também antepassado, ancestral; por extensão, figura veterana (uso literário).\",\"aliases\":[],\"exemplos\":[\"Plaut. Truc. 4, 3, 34\",\"Cic. Cael. 14, 33\"],\"notas\":\"Normalizado para avus, -i; sentidos e exemplos confirmados por Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_3179-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_3179",
-    "page_num": 3179,
-    "lemmas": [
-      "avello",
-      "avello"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Arrancar, separar com força; entreiçar/avulsar; formar particípio perf. avulsus.",
-    "exemplos": [],
-    "notas": "Corrigida leitura OCR para avellō/āvellere com radical avuls- (avulsus); distinguido do substantivo avus. | [dedupe] redirect → chunk_3132:3132:0 | [dedupe] redirect → chunk_3132:3132:0",
-    "raw_text": "{\"id\":\"chunk_3179:3179:1\",\"lemas\":[\"avello\"],\"lema_canonico\":\"avello\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"Arrancar, separar com força; entreiçar/avulsar; formar particípio perf. avulsus.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigida leitura OCR para avellō/āvellere com radical avuls- (avulsus); distinguido do substantivo avus.\",\"flags\":[\"src_latdeu\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_3179:3179:1\",\"lemas\":[\"avello\"],\"lema_canonico\":\"avello\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"Arrancar, separar com força; entreiçar/avulsar; formar particípio perf. avulsus.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigida leitura OCR para avellō/āvellere com radical avuls- (avulsus); distinguido do substantivo avus.\",\"flags\":[\"src_latdeu\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_3180-e1",
     "volume_id": "faria",
     "doc_name": "chunk_3180",
@@ -4840,28 +4268,6 @@
     "raw_json": "{\"id\":\"chunk_3181:3181:0\",\"lemas\":[\"avunculus\"],\"lema_canonico\":\"avunculus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"irmão materno; tio materno (também por extensão marido da irmã da mãe); atestado em textos jurídicos e literários.\",\"aliases\":[],\"exemplos\":[\"Cic. Or. 2, 84\",\"Verg. A. 3, 343\",\"Plin. Nat. 5, 8, § 20\",\"Vulg. Gen. 28, 2\",\"Dig. 38, 10, 10\",\"Isid. Orig. 9, 6, 17\",\"Cic. Brut. 62, 222\"],\"notas\":\"Morfologia harmonizada com Lewis & Short e Whitaker (gen. -ī).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_3182-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_3182",
-    "page_num": 3182,
-    "lemmas": [
-      "avus",
-      "avus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "avô; antepassado, ancestral.",
-    "exemplos": [],
-    "notas": "Forma canónica confirmada por LS, Whitaker e Lat→Deu. | [dedupe] redirect → chunk_3179:3179:0 | [dedupe] redirect → chunk_3179:3179:0",
-    "raw_text": "{\"id\":\"chunk_3182:3182:0\",\"lemas\":[\"avus\"],\"lema_canonico\":\"avus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"avô; antepassado, ancestral.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma canónica confirmada por LS, Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_3182:3182:0\",\"lemas\":[\"avus\"],\"lema_canonico\":\"avus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"avô; antepassado, ancestral.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma canónica confirmada por LS, Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_3183-e1",
     "volume_id": "faria",
     "doc_name": "chunk_3183",
@@ -4904,50 +4310,6 @@
     "notas": "Formas e variante āvolsus atestadas; verbo avellō, avellere, avulsī/avulsi, avulsus confirmado por LS/Whitaker/Lat→Deu.",
     "raw_text": "{\"id\":\"chunk_3184:3184:0\",\"lemas\":[\"āvulsus\",\"āvolsus\",\"avulsus\"],\"lema_canonico\":\"āvulsus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio passado de avellō: arrancado, separado por força; desprendido.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Formas e variante āvolsus atestadas; verbo avellō, avellere, avulsī/avulsi, avulsus confirmado por LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_3184:3184:0\",\"lemas\":[\"āvulsus\",\"āvolsus\",\"avulsus\"],\"lema_canonico\":\"āvulsus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio passado de avellō: arrancado, separado por força; desprendido.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Formas e variante āvolsus atestadas; verbo avellō, avellere, avulsī/avulsi, avulsus confirmado por LS/Whitaker/Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_3185-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_3185",
-    "page_num": 3185,
-    "lemmas": [
-      "avunculus",
-      "avunculus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "tio materno (irmão da mãe); por extensão, termos como avunculus magnus/major para tios em gerações anteriores; também usado para o marido da irmã da mãe.",
-    "exemplos": [],
-    "notas": "Sentido e variantes confirmados por LS e Whitaker; ajuste da referência exempl. a partir da primeira passada. | [dedupe] redirect → chunk_3181:3181:0 | [dedupe] redirect → chunk_3181:3181:0",
-    "raw_text": "{\"id\":\"chunk_3185:3185:0\",\"lemas\":[\"avunculus\"],\"lema_canonico\":\"avunculus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"tio materno (irmão da mãe); por extensão, termos como avunculus magnus/major para tios em gerações anteriores; também usado para o marido da irmã da mãe.\",\"aliases\":[],\"exemplos\":[\"Cic. Brut. 62, 222\"],\"notas\":\"Sentido e variantes confirmados por LS e Whitaker; ajuste da referência exempl. a partir da primeira passada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_3185:3185:0\",\"lemas\":[\"avunculus\"],\"lema_canonico\":\"avunculus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"tio materno (irmão da mãe); por extensão, termos como avunculus magnus/major para tios em gerações anteriores; também usado para o marido da irmã da mãe.\",\"aliases\":[],\"exemplos\":[\"Cic. Brut. 62, 222\"],\"notas\":\"Sentido e variantes confirmados por LS e Whitaker; ajuste da referência exempl. a partir da primeira passada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_3186-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_3186",
-    "page_num": 3186,
-    "lemmas": [
-      "avus",
-      "avus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "avô; antepassado, progenitor",
-    "exemplos": [],
-    "notas": "[dedupe] redirect → chunk_3179:3179:0 | [dedupe] redirect → chunk_3179:3179:0",
-    "raw_text": "{\"id\":\"chunk_3186:3186:0\",\"lemas\":[\"avus\"],\"lema_canonico\":\"avus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"avô; antepassado, progenitor\",\"aliases\":[],\"exemplos\":[\"Cic. Cat. 3, 10\",\"T. Liv. 4, 44, 2\"],\"notas\":\"\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_3186:3186:0\",\"lemas\":[\"avus\"],\"lema_canonico\":\"avus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"avô; antepassado, progenitor\",\"aliases\":[],\"exemplos\":[\"Cic. Cat. 3, 10\",\"T. Liv. 4, 44, 2\"],\"notas\":\"\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_3187-e1",
@@ -5060,28 +4422,6 @@
     "raw_json": "{\"id\":\"chunk_3190:3190:1\",\"lemas\":[\"axianus\"],\"lema_canonico\":\"axianus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Gentilício/adjetivo relativo a Axia (pertencente ou relativo a Áxia).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada atestada como derivado de Axia; assumido padrão adjectival 1/2.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_3191-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_3191",
-    "page_num": 3191,
-    "lemmas": [
-      "Avianus",
-      "Avianus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "cognomen / sobrenome romano",
-    "exemplos": [],
-    "notas": "registrado como forma -anus (sufixo gentilício); tratado como nomen/cognomen | [dedupe] redirect → chunk_3161:3161:0 | [dedupe] redirect → chunk_3161:3161:0",
-    "raw_text": "{\"id\":\"chunk_3191:3191:0\",\"lemas\":[\"Avianus\"],\"lema_canonico\":\"Avianus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"cognomen / sobrenome romano\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 19, 29\"],\"notas\":\"registrado como forma -anus (sufixo gentilício); tratado como nomen/cognomen\",\"flags\":[\"src_whitaker\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_3191:3191:0\",\"lemas\":[\"Avianus\"],\"lema_canonico\":\"Avianus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"cognomen / sobrenome romano\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 19, 29\"],\"notas\":\"registrado como forma -anus (sufixo gentilício); tratado como nomen/cognomen\",\"flags\":[\"src_whitaker\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_3191-e2",
     "volume_id": "faria",
     "doc_name": "chunk_3191",
@@ -5148,28 +4488,6 @@
     "raw_json": "{\"id\":\"chunk_3192:3192:1\",\"lemas\":[\"axis\"],\"lema_canonico\":\"axis\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"eixo; eixo do mundo/polo; por extensão: céu, firmamento; também carro, tábua/plank (sentido 2)\",\"aliases\":[],\"exemplos\":[\"T. Liv. 37, 41, 7\",\"Cic. Nat. 1, 52\",\"Lucr. 6, 720\",\"Verg. G. 2, 271\",\"Verg. En. 6, 536\",\"Ov. F. 4, 562\",\"Cic. Tím. 37\",\"Cés. B. Civ. 2, 9, 2\"],\"notas\":\"Acepções e ablativo atestadas; sentidos I/II reconciliados com LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_3192-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_3192",
-    "page_num": 3192,
-    "lemmas": [
-      "axis",
-      "axis"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "eixo; eixo de carro; eixo do mundo; polo; firmamento (sentido figurado)",
-    "exemplos": [],
-    "notas": "Normalizado lema e morfologia conforme LS/Whitaker; definição resumida. | [dedupe] redirect → chunk_3192:3192:1 | [dedupe] redirect → chunk_3192:3192:1",
-    "raw_text": "{\"id\":\"chunk_3192:3192:2\",\"lemas\":[\"axis\"],\"lema_canonico\":\"axis\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"eixo; eixo de carro; eixo do mundo; polo; firmamento (sentido figurado)\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 1, 52\",\"Caes. B. Civ. 2, 9, 2\"],\"notas\":\"Normalizado lema e morfologia conforme LS/Whitaker; definição resumida.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_3192:3192:2\",\"lemas\":[\"axis\"],\"lema_canonico\":\"axis\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"eixo; eixo de carro; eixo do mundo; polo; firmamento (sentido figurado)\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 1, 52\",\"Caes. B. Civ. 2, 9, 2\"],\"notas\":\"Normalizado lema e morfologia conforme LS/Whitaker; definição resumida.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_3193-e1",
     "volume_id": "faria",
     "doc_name": "chunk_3193",
@@ -5234,28 +4552,6 @@
     "notas": "Grafia harmonizada com Lewis & Short (axungĭa) e Whitaker. | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='axungia' → 'axungĭa'",
     "raw_text": "{\"id\":\"chunk_3195:3195:0\",\"lemas\":[\"axungia\",\"axungĭa\"],\"lema_canonico\":\"axungia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"graxa/unguento feita de gordura (wagon/axle grease); gordura animal usada como graxa e medicamento\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 28, 145\",\"Plin. 28, 9\",\"Plin. 28, 10\"],\"notas\":\"Grafia harmonizada com Lewis & Short (axungĭa) e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_3195:3195:0\",\"lemas\":[\"axungia\",\"axungĭa\"],\"lema_canonico\":\"axungia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"graxa/unguento feita de gordura (wagon/axle grease); gordura animal usada como graxa e medicamento\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 28, 145\",\"Plin. 28, 9\",\"Plin. 28, 10\"],\"notas\":\"Grafia harmonizada com Lewis & Short (axungĭa) e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_3196-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_3196",
-    "page_num": 3196,
-    "lemmas": [
-      "Axur",
-      "Axur"
-    ],
-    "morfologia": "s. indecl.",
-    "morph_render": "s. indecl.",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 1,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entry functions as a cross-reference to Anxur; original indicated 'vide Anxur'. | [ocr_fix 2025-08-17T18:23:39Z] match direto em Gaffiot por lemma/lemma_norm | lemma_in='axur' → 'Axur' | [ocr_fix 2025-08-17T19:45:16Z] match direto em Gaffiot por lemma/lemma_norm | lemma_in='Axur' → 'Axur'",
-    "raw_text": "{\"id\":\"chunk_3196:3196:0\",\"lemas\":[\"axur\"],\"lema_canonico\":\"axur\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Anxur\"],\"exemplos\":[],\"notas\":\"Entry functions as a cross-reference to Anxur; original indicated 'vide Anxur'.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"redirect_only\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_3196:3196:0\",\"lemas\":[\"axur\"],\"lema_canonico\":\"axur\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"Anxur\"],\"exemplos\":[],\"notas\":\"Entry functions as a cross-reference to Anxur; original indicated 'vide Anxur'.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"redirect_only\",\"needs_review\"]}"
   },
   {
     "id": "chunk_3196-e2",

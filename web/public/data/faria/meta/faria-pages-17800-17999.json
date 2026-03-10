@@ -1,27 +1,5 @@
 [
   {
-    "id": "chunk_17800-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_17800",
-    "page_num": 17800,
-    "lemmas": [
-      "nanciscor",
-      "nanciscor"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "verbo deponente: obter, conseguir, alcançar; encontrar, deparar com (frequentemente por acaso)",
-    "exemplos": [],
-    "notas": "Restabelecido a partir de leitura OCR truncada; formas principais nanciscor, nancisci, nactus sum atestadas em LS e Lat→Deu. | [dedupe] redirect → chunk_17728:17728:0 | [dedupe] redirect → chunk_17728:17728:0",
-    "raw_text": "{\"id\":\"chunk_17800:17800:0\",\"lemas\":[\"nanciscor\"],\"lema_canonico\":\"nanciscor\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"verbo deponente: obter, conseguir, alcançar; encontrar, deparar com (frequentemente por acaso)\",\"aliases\":[],\"exemplos\":[\"Ter. Heaut. 2, 2, 59\",\"Cic. Fin. 1, 5, 14\"],\"notas\":\"Restabelecido a partir de leitura OCR truncada; formas principais nanciscor, nancisci, nactus sum atestadas em LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_17800:17800:0\",\"lemas\":[\"nanciscor\"],\"lema_canonico\":\"nanciscor\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"verbo deponente: obter, conseguir, alcançar; encontrar, deparar com (frequentemente por acaso)\",\"aliases\":[],\"exemplos\":[\"Ter. Heaut. 2, 2, 59\",\"Cic. Fin. 1, 5, 14\"],\"notas\":\"Restabelecido a partir de leitura OCR truncada; formas principais nanciscor, nancisci, nactus sum atestadas em LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_17801-e1",
     "volume_id": "faria",
     "doc_name": "chunk_17801",
@@ -462,28 +440,6 @@
     "raw_json": "{\"id\":\"chunk_17820:17820:0\",\"lemas\":[\"nauseo\",\"nausēo\"],\"lema_canonico\":\"nauseo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"to be sea-sick; to feel nausea; figuratively, to cause disgust or to vomit\",\"aliases\":[],\"exemplos\":[\"Hor. Ep. 1, 1, 93\",\"Cic. Phil. 2, 34\",\"Cic. Fam. 12, 25, 4\",\"Juv. 6, 433\",\"Phaedr. 4, 7, 25\",\"Cels. 1, 3\"],\"notas\":\"Unifiquei forma clássica (nauseō) e sentidos conforme Lewis & Short e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_17821-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_17821",
-    "page_num": 17821,
-    "lemmas": [
-      "nausea",
-      "nausea"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "sea-sickness; nausea; vomiting; figuratively: disgust",
-    "exemplos": [],
-    "notas": "Included orthographic variant nausĭa; aligned with Lewis & Short and Whitaker. | [dedupe] redirect → chunk_17817:17817:0 | [dedupe] redirect → chunk_17817:17817:0",
-    "raw_text": "{\"id\":\"chunk_17821:17821:0\",\"lemas\":[\"nausĕa\",\"nausĭa\",\"nausea\",\"nausia\"],\"lema_canonico\":\"nausea\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"sea-sickness; nausea; vomiting; figuratively: disgust\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 14, 8, 2\"],\"notas\":\"Included orthographic variant nausĭa; aligned with Lewis & Short and Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_17821:17821:0\",\"lemas\":[\"nausĕa\",\"nausĭa\",\"nausea\",\"nausia\"],\"lema_canonico\":\"nausea\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"sea-sickness; nausea; vomiting; figuratively: disgust\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 14, 8, 2\"],\"notas\":\"Included orthographic variant nausĭa; aligned with Lewis & Short and Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_17822-e1",
     "volume_id": "faria",
     "doc_name": "chunk_17822",
@@ -858,50 +814,6 @@
     "raw_json": "{\"id\":\"chunk_17837:17837:1\",\"lemas\":[\"navicularius\",\"navicularia\"],\"lema_canonico\":\"navicularius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[\"adj. (1/2) -a, -um\"],\"definicao\":\"1) adj.: relativo ao navio, pertencente ao tráfico marítimo; 2) s. m.: armador, proprietário/condutor de pequenas embarcações; navicularia (s. f.) = o negócio/atividade de armador.\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 16, 9, 4\",\"Cic. Att. 9, 3, 2\",\"Cic. Verr. 2, 2, 55\"],\"notas\":\"Unificado e separado noun/adj.; incl. navicularia como substantivo feminino (atividade).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_17837-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_17837",
-    "page_num": 17837,
-    "lemmas": [
-      "navicularius",
-      "navicularius"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "relativo a navios/armadores; do negócio de navicularia (armador, transporte marítimo) — também substantivado: navicularius ‘armador, proprietário de navis’",
-    "exemplos": [],
-    "notas": "Forma e sentidos confirmados em Lewis & Short e Whitaker; inclui uso substantivado. | [dedupe] redirect → chunk_17837:17837:1 | [dedupe] redirect → chunk_17837:17837:1",
-    "raw_text": "{\"id\":\"chunk_17837:17837:0\",\"lemas\":[\"navicularius\",\"navicularia\",\"navicularium\"],\"lema_canonico\":\"navicularius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo a navios/armadores; do negócio de navicularia (armador, transporte marítimo) — também substantivado: navicularius ‘armador, proprietário de navis’\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 2, 2, 55\",\"Cic. Fam. 16, 9, 4\"],\"notas\":\"Forma e sentidos confirmados em Lewis & Short e Whitaker; inclui uso substantivado.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_17837:17837:0\",\"lemas\":[\"navicularius\",\"navicularia\",\"navicularium\"],\"lema_canonico\":\"navicularius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"relativo a navios/armadores; do negócio de navicularia (armador, transporte marítimo) — também substantivado: navicularius ‘armador, proprietário de navis’\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 2, 2, 55\",\"Cic. Fam. 16, 9, 4\"],\"notas\":\"Forma e sentidos confirmados em Lewis & Short e Whitaker; inclui uso substantivado.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_17838-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_17838",
-    "page_num": 17838,
-    "lemmas": [
-      "navicularius",
-      "navicularius"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Armador, proprietário de navis; também adjetivo ‘relativo a navis’ (pertencente ao transporte por navis).",
-    "exemplos": [],
-    "notas": "Forma e sentido confirmados por Lewis & Short e Whitaker; inclui variante clássica com macrons. | [dedupe] redirect → chunk_17837:17837:1 | [dedupe] redirect → chunk_17837:17837:1",
-    "raw_text": "{\"id\":\"chunk_17838:17838:0\",\"lemas\":[\"navicularius\",\"nāvĭcŭlārĭus\"],\"lema_canonico\":\"navicularius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Armador, proprietário de navis; também adjetivo ‘relativo a navis’ (pertencente ao transporte por navis).\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 16, 9, 4\"],\"notas\":\"Forma e sentido confirmados por Lewis & Short e Whitaker; inclui variante clássica com macrons.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_17838:17838:0\",\"lemas\":[\"navicularius\",\"nāvĭcŭlārĭus\"],\"lema_canonico\":\"navicularius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Armador, proprietário de navis; também adjetivo ‘relativo a navis’ (pertencente ao transporte por navis).\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 16, 9, 4\"],\"notas\":\"Forma e sentido confirmados por Lewis & Short e Whitaker; inclui variante clássica com macrons.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_17839-e1",
     "volume_id": "faria",
     "doc_name": "chunk_17839",
@@ -1188,28 +1100,6 @@
     "raw_json": "{\"id\":\"chunk_17851:17851:0\",\"lemas\":[\"nāvĭtas\",\"gnāvĭtas\"],\"lema_canonico\":\"nāvĭtas\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"prontidão, assiduidade, zelo; prontidão em socorrer (Cic.).\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 10, 25, 1\"],\"notas\":\"Variante grafada gnāvĭtas atestada; escolhido genitivo -ātis (3ª decl.).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_17852-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_17852",
-    "page_num": 17852,
-    "lemmas": [
-      "naviter",
-      "naviter"
-    ],
-    "morfologia": "adv.",
-    "morph_render": "adv.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "com diligência, zelosamente; também intensivo ‘com empenho, totalmente’",
-    "exemplos": [],
-    "notas": "Forma estabilizada como naviter (adv. atestado); variantes ortográficas incluídas. | [dedupe] redirect → chunk_11999:11999:0 | [dedupe] redirect → chunk_11999:11999:0",
-    "raw_text": "{\"id\":\"chunk_17852:17852:0\",\"lemas\":[\"naviter\",\"nāvēter\",\"naveter\"],\"lema_canonico\":\"naviter\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"com diligência, zelosamente; também intensivo ‘com empenho, totalmente’\",\"aliases\":[],\"exemplos\":[\"Tít. Lívio 10, 39, 2\",\"Cic. Fam. 5, 12, 3\",\"Lucr. 1, 525\"],\"notas\":\"Forma estabilizada como naviter (adv. atestado); variantes ortográficas incluídas.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_17852:17852:0\",\"lemas\":[\"naviter\",\"nāvēter\",\"naveter\"],\"lema_canonico\":\"naviter\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"com diligência, zelosamente; também intensivo ‘com empenho, totalmente’\",\"aliases\":[],\"exemplos\":[\"Tít. Lívio 10, 39, 2\",\"Cic. Fam. 5, 12, 3\",\"Lucr. 1, 525\"],\"notas\":\"Forma estabilizada como naviter (adv. atestado); variantes ortográficas incluídas.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_17853-e1",
     "volume_id": "faria",
     "doc_name": "chunk_17853",
@@ -1254,50 +1144,6 @@
     "raw_json": "{\"id\":\"chunk_17854:17854:0\",\"lemas\":[\"nāvo\",\"navo\"],\"lema_canonico\":\"nāvo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"fazer, realizar com zelo e diligência; prestar serviço, esforçar-se por (Cic.).\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 6, 1, 7\",\"Cic. Att. 1, 17, 4\",\"Cic. Br. 222\"],\"notas\":\"Forma com macron (nāvo) preferida; transitivo conforme LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_17855-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_17855",
-    "page_num": 17855,
-    "lemmas": [
-      "navis",
-      "navis"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "navio, embarcação (corrigido de entrada corrompida)",
-    "exemplos": [],
-    "notas": "Entrada original aparentava confusão com 'gnāvis'; retenho navis como forma canónica e registro gnavis como variante/lembrança tipográfica pouco atestada. | [dedupe] redirect → chunk_17848:17848:0 | [dedupe] redirect → chunk_17848:17848:0",
-    "raw_text": "{\"id\":\"chunk_17855:17855:0\",\"lemas\":[\"navis\",\"gnavis\"],\"lema_canonico\":\"navis\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"navio, embarcação (corrigido de entrada corrompida)\",\"aliases\":[\"gnavis\"],\"exemplos\":[],\"notas\":\"Entrada original aparentava confusão com 'gnāvis'; retenho navis como forma canónica e registro gnavis como variante/lembrança tipográfica pouco atestada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_firstpass\",\"src_ocr\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_17855:17855:0\",\"lemas\":[\"navis\",\"gnavis\"],\"lema_canonico\":\"navis\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"navio, embarcação (corrigido de entrada corrompida)\",\"aliases\":[\"gnavis\"],\"exemplos\":[],\"notas\":\"Entrada original aparentava confusão com 'gnāvis'; retenho navis como forma canónica e registro gnavis como variante/lembrança tipográfica pouco atestada.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_firstpass\",\"src_ocr\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_17856-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_17856",
-    "page_num": 17856,
-    "lemmas": [
-      "naxa",
-      "naxa"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada redireciona para 'nassa' (LS: naxa = nassa). | [ocr_fix 2025-08-17T19:50:20Z] match direto em LS por lemma/lemma_norm | lemma_in='naxa' → 'naxa'",
-    "raw_text": "{\"id\":\"chunk_17856:17856:0\",\"lemas\":[\"naxa\",\"nāxa\"],\"lema_canonico\":\"naxa\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"nassa\"],\"exemplos\":[],\"notas\":\"Entrada redireciona para 'nassa' (LS: naxa = nassa).\",\"flags\":[\"src_ls\",\"conf:med\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_17856:17856:0\",\"lemas\":[\"naxa\",\"nāxa\"],\"lema_canonico\":\"naxa\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"nassa\"],\"exemplos\":[],\"notas\":\"Entrada redireciona para 'nassa' (LS: naxa = nassa).\",\"flags\":[\"src_ls\",\"conf:med\",\"redirect_only\"]}"
-  },
-  {
     "id": "chunk_17857-e1",
     "volume_id": "faria",
     "doc_name": "chunk_17857",
@@ -1340,28 +1186,6 @@
     "notas": "Distinguir de ne (partícula negativa); aqui tratado como a partícula afirmativa atestada por LS.",
     "raw_text": "{\"id\":\"chunk_17858:17858:0\",\"lemas\":[\"nē\"],\"lema_canonico\":\"nē\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"partícula afirmativa: realmente, certamente; usada especialmente antes de pronomes pessoais ou demonstrativos em linguagem coloquial/classical.\",\"aliases\":[],\"exemplos\":[\"Plaut. Men. 899\"],\"notas\":\"Distinguir de ne (partícula negativa); aqui tratado como a partícula afirmativa atestada por LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_17858:17858:0\",\"lemas\":[\"nē\"],\"lema_canonico\":\"nē\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"partícula afirmativa: realmente, certamente; usada especialmente antes de pronomes pessoais ou demonstrativos em linguagem coloquial/classical.\",\"aliases\":[],\"exemplos\":[\"Plaut. Men. 899\"],\"notas\":\"Distinguir de ne (partícula negativa); aqui tratado como a partícula afirmativa atestada por LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_17859-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_17859",
-    "page_num": 17859,
-    "lemmas": [
-      "ne",
-      "ne"
-    ],
-    "morfologia": "adv.",
-    "morph_render": "adv.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "Partícula negativa primitiva: advérbio 'não' e conjunção negativa 'que não, para que não, lest' (uso em prosa clássica e em orações finais/imperativas).",
-    "exemplos": [],
-    "notas": "Sentidos adv./conj. atestados em Lewis & Short e Whitaker; classificada como adv. com indicação extra de conjunção. | [dedupe] redirect → chunk_17860:17860:0 | [dedupe] redirect → chunk_17860:17860:0",
-    "raw_text": "{\"id\":\"chunk_17859:17859:0\",\"lemas\":[\"ne\",\"nē\"],\"lema_canonico\":\"ne\",\"morfologia\":\"adv.\",\"morph_extra\":[\"conj.\"],\"definicao\":\"Partícula negativa primitiva: advérbio 'não' e conjunção negativa 'que não, para que não, lest' (uso em prosa clássica e em orações finais/imperativas).\",\"aliases\":[],\"exemplos\":[\"Plaut. Most. 110\",\"Cic. Tusc. 1, 42\",\"Liv. 26, 6, 15\"],\"notas\":\"Sentidos adv./conj. atestados em Lewis & Short e Whitaker; classificada como adv. com indicação extra de conjunção.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_17859:17859:0\",\"lemas\":[\"ne\",\"nē\"],\"lema_canonico\":\"ne\",\"morfologia\":\"adv.\",\"morph_extra\":[\"conj.\"],\"definicao\":\"Partícula negativa primitiva: advérbio 'não' e conjunção negativa 'que não, para que não, lest' (uso em prosa clássica e em orações finais/imperativas).\",\"aliases\":[],\"exemplos\":[\"Plaut. Most. 110\",\"Cic. Tusc. 1, 42\",\"Liv. 26, 6, 15\"],\"notas\":\"Sentidos adv./conj. atestados em Lewis & Short e Whitaker; classificada como adv. com indicação extra de conjunção.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}"
   },
   {
     "id": "chunk_17860-e1",
@@ -1760,28 +1584,6 @@
     "raw_json": "{\"id\":\"chunk_17873:17873:0\",\"lemas\":[\"necessarius\",\"necessaria\",\"necessarium\"],\"lema_canonico\":\"necessarius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"1) Necessário, indispensável, inevitável; 2) Próximo, íntimo (de pessoa). Substantivamente: necessarius, -ī, m., pessoa próxima/aliada; necessaria (pl.) = coisas necessárias.\",\"aliases\":[],\"exemplos\":[\"Cic. Inv. 1, 44\",\"Cic. Phil. 10, 9\",\"Tert. Patient. 11\"],\"notas\":\"Adjetivo com uso substantivado; escolha de morfologia adjetival como mais apropriada ao lema; substantivado atestado nas fontes.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"morph_out_of_vocab\"]}"
   },
   {
-    "id": "chunk_17874-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_17874",
-    "page_num": 17874,
-    "lemmas": [
-      "necessarius",
-      "necessarius"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "1) necessário, inevitável, indispensável; 2) por extensão: íntimo, próximo (parente/aliado).",
-    "exemplos": [],
-    "notas": "Unificadas formas adjetivais e sentidos segundo LS/Whitaker. | [dedupe] redirect → chunk_17873:17873:0 | [dedupe] redirect → chunk_17873:17873:0",
-    "raw_text": "{\"id\":\"chunk_17874:17874:0\",\"lemas\":[\"necessarius\",\"necessaria\",\"necessarium\"],\"lema_canonico\":\"necessarius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"1) necessário, inevitável, indispensável; 2) por extensão: íntimo, próximo (parente/aliado).\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 2, 53\",\"Cic. Mil. 16, 1\",\"Cic. De Or. 1, 146\",\"Nep. Dat. 6, 3\"],\"notas\":\"Unificadas formas adjetivais e sentidos segundo LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_17874:17874:0\",\"lemas\":[\"necessarius\",\"necessaria\",\"necessarium\"],\"lema_canonico\":\"necessarius\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"1) necessário, inevitável, indispensável; 2) por extensão: íntimo, próximo (parente/aliado).\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 2, 53\",\"Cic. Mil. 16, 1\",\"Cic. De Or. 1, 146\",\"Nep. Dat. 6, 3\"],\"notas\":\"Unificadas formas adjetivais e sentidos segundo LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_17875-e1",
     "volume_id": "faria",
     "doc_name": "chunk_17875",
@@ -1914,72 +1716,6 @@
     "raw_json": "{\"id\":\"chunk_17879:17879:1\",\"lemas\":[\"est\"],\"lema_canonico\":\"est\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"3. pers. sg. pres. ind. do verbo sum, esse — 'é', indica existência/ser; parte de perífrases verbais e formação de tempos.\",\"aliases\":[\"sum (verbo)\"],\"exemplos\":[\"Verg. A. 4, 66\"],\"notas\":\"Forma atestada e regularizada a partir de sum/esse; mantida como forma lexical em entradas isoladas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_17879-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_17879",
-    "page_num": 17879,
-    "lemmas": [
-      "edo",
-      "edo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "edere (edō, ēdī, ēsum): comer, devorar; consumir; também: gastar (em banquetes); (separadamente) esse = ser (ver sum).",
-    "exemplos": [],
-    "notas": "Separei edere (edo) de esse (sum) — primeira passada confundiu OCR; inclusão de ambos como lemas relacionados. | [dedupe] redirect → chunk_15854:15854:2 | [dedupe] redirect → chunk_15854:15854:2",
-    "raw_text": "{\"id\":\"chunk_17879:17879:2\",\"lemas\":[\"edo\",\"edere\",\"esse\"],\"lema_canonico\":\"edo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"edere (edō, ēdī, ēsum): comer, devorar; consumir; também: gastar (em banquetes); (separadamente) esse = ser (ver sum).\",\"aliases\":[],\"exemplos\":[\"Plaut. Curc. 2, 1, 13\"],\"notas\":\"Separei edere (edo) de esse (sum) — primeira passada confundiu OCR; inclusão de ambos como lemas relacionados.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_17879:17879:2\",\"lemas\":[\"edo\",\"edere\",\"esse\"],\"lema_canonico\":\"edo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"edere (edō, ēdī, ēsum): comer, devorar; consumir; também: gastar (em banquetes); (separadamente) esse = ser (ver sum).\",\"aliases\":[],\"exemplos\":[\"Plaut. Curc. 2, 1, 13\"],\"notas\":\"Separei edere (edo) de esse (sum) — primeira passada confundiu OCR; inclusão de ambos como lemas relacionados.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_17879-e4",
-    "volume_id": "faria",
-    "doc_name": "chunk_17879",
-    "page_num": 17879,
-    "lemmas": [
-      "necesse",
-      "necesse"
-    ],
-    "morfologia": "adj. (3) 3T",
-    "morph_render": "adj. (3) 3T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "necessário, inevitável, imprescindível; impessoal em construções como 'necesse est' (é necessário) e usado com infinitivas/subjuntivos.",
-    "exemplos": [],
-    "notas": "Unifiquei formas dadas (necesse/necessum/necessus); entradas e usos conforme LS e Whitaker. | [dedupe] redirect → chunk_17876:17876:0 | [dedupe] redirect → chunk_17876:17876:0",
-    "raw_text": "{\"id\":\"chunk_17879:17879:3\",\"lemas\":[\"necesse\",\"necessum\",\"necessus\"],\"lema_canonico\":\"necesse\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"necessário, inevitável, imprescindível; impessoal em construções como 'necesse est' (é necessário) e usado com infinitivas/subjuntivos.\",\"aliases\":[],\"exemplos\":[\"Lucr. 2, 468\",\"Cic. Fat. 9, 17\"],\"notas\":\"Unifiquei formas dadas (necesse/necessum/necessus); entradas e usos conforme LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_17879:17879:3\",\"lemas\":[\"necesse\",\"necessum\",\"necessus\"],\"lema_canonico\":\"necesse\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"necessário, inevitável, imprescindível; impessoal em construções como 'necesse est' (é necessário) e usado com infinitivas/subjuntivos.\",\"aliases\":[],\"exemplos\":[\"Lucr. 2, 468\",\"Cic. Fat. 9, 17\"],\"notas\":\"Unifiquei formas dadas (necesse/necessum/necessus); entradas e usos conforme LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_17879-e5",
-    "volume_id": "faria",
-    "doc_name": "chunk_17879",
-    "page_num": 17879,
-    "lemmas": [
-      "necessum",
-      "necessum"
-    ],
-    "morfologia": "adj. (3) 3T",
-    "morph_render": "adj. (3) 3T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada tratada como variante/neutra; redireciona para 'necesse' (ver entrada canónica).",
-    "raw_text": "{\"id\":\"chunk_17879:17879:4\",\"lemas\":[\"necēssum\",\"necessum\"],\"lema_canonico\":\"necessum\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"necesse\"],\"exemplos\":[\"Plaut. Cas. 2, 5, 36\"],\"notas\":\"Entrada tratada como variante/neutra; redireciona para 'necesse' (ver entrada canónica).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_17879:17879:4\",\"lemas\":[\"necēssum\",\"necessum\"],\"lema_canonico\":\"necessum\",\"morfologia\":\"adj. (3) 3T\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"necesse\"],\"exemplos\":[\"Plaut. Cas. 2, 5, 36\"],\"notas\":\"Entrada tratada como variante/neutra; redireciona para 'necesse' (ver entrada canónica).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"redirect_only\"]}"
-  },
-  {
     "id": "chunk_17879-e6",
     "volume_id": "faria",
     "doc_name": "chunk_17879",
@@ -2000,28 +1736,6 @@
     "notas": "Normalizado para entrada adjectival conforme Whitaker; relação com 'necesse' indicada na fonte original.",
     "raw_text": "{\"id\":\"chunk_17879:17879:5\",\"lemas\":[\"necessus\"],\"lema_canonico\":\"necessus\",\"morfologia\":\"adj. (3)\",\"morph_extra\":[],\"definicao\":\"necessário, inevitável; obrigado, imperioso\",\"aliases\":[],\"exemplos\":[\"Ter. Heaut. 2, 3, 119\",\"Gell. 16, 8, 1\"],\"notas\":\"Normalizado para entrada adjectival conforme Whitaker; relação com 'necesse' indicada na fonte original.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_17879:17879:5\",\"lemas\":[\"necessus\"],\"lema_canonico\":\"necessus\",\"morfologia\":\"adj. (3)\",\"morph_extra\":[],\"definicao\":\"necessário, inevitável; obrigado, imperioso\",\"aliases\":[],\"exemplos\":[\"Ter. Heaut. 2, 3, 119\",\"Gell. 16, 8, 1\"],\"notas\":\"Normalizado para entrada adjectival conforme Whitaker; relação com 'necesse' indicada na fonte original.\",\"flags\":[\"src_whitaker\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_17880-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_17880",
-    "page_num": 17880,
-    "lemmas": [
-      "nex",
-      "nex"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "morte violenta, homicídio, execução",
-    "exemplos": [],
-    "notas": "Entrada original apresentou a forma genitiva necis; aqui corrigi-se para o lema nominativo 'nex' e definiu-se o sentido. | [dedupe] redirect → chunk_17860:17860:2 | [dedupe] redirect → chunk_17860:17860:2",
-    "raw_text": "{\"id\":\"chunk_17880:17880:0\",\"lemas\":[\"nex\"],\"lema_canonico\":\"nex\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"morte violenta, homicídio, execução\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada original apresentou a forma genitiva necis; aqui corrigi-se para o lema nominativo 'nex' e definiu-se o sentido.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_17880:17880:0\",\"lemas\":[\"nex\"],\"lema_canonico\":\"nex\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"morte violenta, homicídio, execução\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada original apresentou a forma genitiva necis; aqui corrigi-se para o lema nominativo 'nex' e definiu-se o sentido.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_17881-e1",
@@ -2066,28 +1780,6 @@
     "notas": "Entrada normalizada de 'necum/nec non' para necnon; atestado em fontes clássicas.",
     "raw_text": "{\"id\":\"chunk_17882:17882:0\",\"lemas\":[\"necnon\",\"nec non\"],\"lema_canonico\":\"necnon\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"e também; além disso; e ainda (coord. aditiva)\",\"aliases\":[],\"exemplos\":[\"Verg. En. 1, 707\",\"Cic. Nat. 2, 44\"],\"notas\":\"Entrada normalizada de 'necum/nec non' para necnon; atestado em fontes clássicas.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"src_ocr\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_17882:17882:0\",\"lemas\":[\"necnon\",\"nec non\"],\"lema_canonico\":\"necnon\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"e também; além disso; e ainda (coord. aditiva)\",\"aliases\":[],\"exemplos\":[\"Verg. En. 1, 707\",\"Cic. Nat. 2, 44\"],\"notas\":\"Entrada normalizada de 'necum/nec non' para necnon; atestado em fontes clássicas.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"src_ocr\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_17882-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_17882",
-    "page_num": 17882,
-    "lemmas": [
-      "nex",
-      "nex"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "morte violenta; assassinato, execução",
-    "exemplos": [],
-    "notas": "Forma e sentido confirmados por Lewis & Short e Whitaker. | [dedupe] redirect → chunk_17860:17860:2 | [dedupe] redirect → chunk_17860:17860:2",
-    "raw_text": "{\"id\":\"chunk_17882:17882:1\",\"lemas\":[\"nex\",\"necis\"],\"lema_canonico\":\"nex\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"morte violenta; assassinato, execução\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma e sentido confirmados por Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_17882:17882:1\",\"lemas\":[\"nex\",\"necis\"],\"lema_canonico\":\"nex\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"morte violenta; assassinato, execução\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma e sentido confirmados por Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_17883-e1",
@@ -2154,28 +1846,6 @@
     "notas": "Forma adverbial necopinato atestada; lema base normalizado para necopinatus.",
     "raw_text": "{\"id\":\"chunk_17885:17885:0\",\"lemas\":[\"necopinatus\",\"necopinato\"],\"lema_canonico\":\"necopinatus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"inesperado, imprevisto; (adv. necopinato) inopinadamente, de repente\",\"aliases\":[],\"exemplos\":[\"Cic. Phil. 2, 77\"],\"notas\":\"Forma adverbial necopinato atestada; lema base normalizado para necopinatus.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_firstpass\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_17885:17885:0\",\"lemas\":[\"necopinatus\",\"necopinato\"],\"lema_canonico\":\"necopinatus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"inesperado, imprevisto; (adv. necopinato) inopinadamente, de repente\",\"aliases\":[],\"exemplos\":[\"Cic. Phil. 2, 77\"],\"notas\":\"Forma adverbial necopinato atestada; lema base normalizado para necopinatus.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_firstpass\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_17886-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_17886",
-    "page_num": 17886,
-    "lemmas": [
-      "necopinatus",
-      "necopinatus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "inesperado, imprevisto, inopinado; no neutro plural: eventos inesperados",
-    "exemplos": [],
-    "notas": "Conferido com Whitaker e Lat→Deu; formas de gênero/num. listadas. | [dedupe] redirect → chunk_17885:17885:0 | [dedupe] redirect → chunk_17885:17885:0",
-    "raw_text": "{\"id\":\"chunk_17886:17886:0\",\"lemas\":[\"necopinatus\",\"necopinata\",\"necopinatum\"],\"lema_canonico\":\"necopinatus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"inesperado, imprevisto, inopinado; no neutro plural: eventos inesperados\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 4, 94\",\"T. Liv. 4, 27, 8\",\"Cic. Tusc. 3, 52\"],\"notas\":\"Conferido com Whitaker e Lat→Deu; formas de gênero/num. listadas.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_17886:17886:0\",\"lemas\":[\"necopinatus\",\"necopinata\",\"necopinatum\"],\"lema_canonico\":\"necopinatus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"inesperado, imprevisto, inopinado; no neutro plural: eventos inesperados\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 4, 94\",\"T. Liv. 4, 27, 8\",\"Cic. Tusc. 3, 52\"],\"notas\":\"Conferido com Whitaker e Lat→Deu; formas de gênero/num. listadas.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_17887-e1",
@@ -2308,28 +1978,6 @@
     "notas": "Entrada ambígua no OCR; plausível leitura como locução nē unde. Revisão adicional recomendada.",
     "raw_text": "{\"id\":\"chunk_17892:17892:0\",\"lemas\":[\"nē unde\"],\"lema_canonico\":\"nē unde\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"locução av., ‘para que não/para evitar que de algum lugar’ (construção negativa + unde).\",\"aliases\":[\"ne unde\",\"necunde\"],\"exemplos\":[\"T. Liv. 22, 23, 10\"],\"notas\":\"Entrada ambígua no OCR; plausível leitura como locução nē unde. Revisão adicional recomendada.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_17892:17892:0\",\"lemas\":[\"nē unde\"],\"lema_canonico\":\"nē unde\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"locução av., ‘para que não/para evitar que de algum lugar’ (construção negativa + unde).\",\"aliases\":[\"ne unde\",\"necunde\"],\"exemplos\":[\"T. Liv. 22, 23, 10\"],\"notas\":\"Entrada ambígua no OCR; plausível leitura como locução nē unde. Revisão adicional recomendada.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_17893-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_17893",
-    "page_num": 17893,
-    "lemmas": [
-      "nedum",
-      "nedum"
-    ],
-    "morfologia": "adv.",
-    "morph_render": "adv.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "“still less; not to speak of; much less”; particle reinforcing a preceding negation, later also used without prior negation as ‘with greater reason’.",
-    "exemplos": [],
-    "notas": "Forma atestada como adv./partícula; normalizada a partir do OCR. | [dedupe] redirect → chunk_17893:17893:1 | [dedupe] redirect → chunk_17893:17893:1",
-    "raw_text": "{\"id\":\"chunk_17893:17893:0\",\"lemas\":[\"nedum\",\"nēdum\"],\"lema_canonico\":\"nedum\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"“still less; not to speak of; much less”; particle reinforcing a preceding negation, later also used without prior negation as ‘with greater reason’.\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 7, 28, 1\",\"Cic. Liv. 7, 40, 3\"],\"notas\":\"Forma atestada como adv./partícula; normalizada a partir do OCR.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_17893:17893:0\",\"lemas\":[\"nedum\",\"nēdum\"],\"lema_canonico\":\"nedum\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"“still less; not to speak of; much less”; particle reinforcing a preceding negation, later also used without prior negation as ‘with greater reason’.\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 7, 28, 1\",\"Cic. Liv. 7, 40, 3\"],\"notas\":\"Forma atestada como adv./partícula; normalizada a partir do OCR.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_17893-e2",
@@ -2508,28 +2156,6 @@
     "raw_json": "{\"id\":\"chunk_17900:17900:0\",\"lemas\":[\"nefastus\",\"nefasta\",\"nefastum\"],\"lema_canonico\":\"nefastus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Contrário à lei divina; também usado como substantivo neutro nefastum — dias ou coisas não próprios para atos públicos, impiedade.\",\"aliases\":[],\"exemplos\":[\"Hor. O. 1, 35, 35\"],\"notas\":\"Unifiquei formas adjetivais e substantivas; inclui acepções segundo Whitaker/LS.\",\"flags\":[\"src_whitaker\",\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_17901-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_17901",
-    "page_num": 17901,
-    "lemmas": [
-      "nefastus",
-      "nefastus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "contrário à lei divina; relativo a dias em que era proibido exercer atos públicos; por extensão: funesto, abominável.",
-    "exemplos": [],
-    "notas": "Grafia normalizada a partir do OCR; formas pleonas (masc./fem./neut.). | [dedupe] redirect → chunk_17900:17900:0 | [dedupe] redirect → chunk_17900:17900:0",
-    "raw_text": "{\"id\":\"chunk_17901:17901:0\",\"lemas\":[\"nefastus\",\"nefasta\",\"nefastum\"],\"lema_canonico\":\"nefastus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"contrário à lei divina; relativo a dias em que era proibido exercer atos públicos; por extensão: funesto, abominável.\",\"aliases\":[],\"exemplos\":[\"Cic. Leg. 2, 21\",\"Plaut. Poen. 584\",\"T. Liv. 1, 19, 7\",\"Hor. O. 2, 13, 1\"],\"notas\":\"Grafia normalizada a partir do OCR; formas pleonas (masc./fem./neut.).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_17901:17901:0\",\"lemas\":[\"nefastus\",\"nefasta\",\"nefastum\"],\"lema_canonico\":\"nefastus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"contrário à lei divina; relativo a dias em que era proibido exercer atos públicos; por extensão: funesto, abominável.\",\"aliases\":[],\"exemplos\":[\"Cic. Leg. 2, 21\",\"Plaut. Poen. 584\",\"T. Liv. 1, 19, 7\",\"Hor. O. 2, 13, 1\"],\"notas\":\"Grafia normalizada a partir do OCR; formas pleonas (masc./fem./neut.).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_17902-e1",
     "volume_id": "faria",
     "doc_name": "chunk_17902",
@@ -2662,28 +2288,6 @@
     "raw_json": "{\"id\":\"chunk_17907:17907:0\",\"lemas\":[\"neglectus\",\"neglecta\",\"neglectum\"],\"lema_canonico\":\"neglectus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de neglegō; adjetivo: negligenciado, desprezado, abandonado.\",\"aliases\":[],\"exemplos\":[\"Cic. Fin. 3, 66\",\"Ter. Heaut. 2, 3, 116\"],\"notas\":\"Entrada inclui também o substantivo raro neglectus, -ūs; particípio atestado em LS e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_17908-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_17908",
-    "page_num": 17908,
-    "lemmas": [
-      "neglectus",
-      "neglectus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Particípio perfeito passivo de neglegĕre; também adjetivo: desprezado, negligenciado, desatento, feito sem cuidado.",
-    "exemplos": [],
-    "notas": "Entrada tratada como participio/adjetivo; substantivo raro atestado (Lewis & Short) mas aqui priorizei a leitura adjetival. | [dedupe] redirect → chunk_17907:17907:0 | [dedupe] redirect → chunk_17907:17907:0",
-    "raw_text": "{\"id\":\"chunk_17908:17908:1\",\"lemas\":[\"neglectus\",\"neglecta\",\"neglectum\"],\"lema_canonico\":\"neglectus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo de neglegĕre; também adjetivo: desprezado, negligenciado, desatento, feito sem cuidado.\",\"aliases\":[],\"exemplos\":[\"Ter. Heaut. 2, 3, 116\",\"Plin. Nat. 7, 51\"],\"notas\":\"Entrada tratada como participio/adjetivo; substantivo raro atestado (Lewis & Short) mas aqui priorizei a leitura adjetival.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_17908:17908:1\",\"lemas\":[\"neglectus\",\"neglecta\",\"neglectum\"],\"lema_canonico\":\"neglectus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito passivo de neglegĕre; também adjetivo: desprezado, negligenciado, desatento, feito sem cuidado.\",\"aliases\":[],\"exemplos\":[\"Ter. Heaut. 2, 3, 116\",\"Plin. Nat. 7, 51\"],\"notas\":\"Entrada tratada como participio/adjetivo; substantivo raro atestado (Lewis & Short) mas aqui priorizei a leitura adjetival.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_17908-e2",
     "volume_id": "faria",
     "doc_name": "chunk_17908",
@@ -2814,50 +2418,6 @@
     "notas": "Primeira passada gave perf. form; entry normalized to infinitive lemma; perf. form preserved as alias.",
     "raw_text": "{\"id\":\"chunk_17913:17913:0\",\"lemas\":[\"neglego\"],\"lema_canonico\":\"neglego\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"negligere: to neglect, disregard, fail to care for; (perf.) neglexi = I neglected.\",\"aliases\":[\"neglexi\"],\"exemplos\":[],\"notas\":\"Primeira passada gave perf. form; entry normalized to infinitive lemma; perf. form preserved as alias.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_17913:17913:0\",\"lemas\":[\"neglego\"],\"lema_canonico\":\"neglego\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"negligere: to neglect, disregard, fail to care for; (perf.) neglexi = I neglected.\",\"aliases\":[\"neglexi\"],\"exemplos\":[],\"notas\":\"Primeira passada gave perf. form; entry normalized to infinitive lemma; perf. form preserved as alias.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_17914-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_17914",
-    "page_num": 17914,
-    "lemmas": [
-      "neglego",
-      "neglego"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "negligenciar; não atender a; desprezar; deixar de cumprir/observar.",
-    "exemplos": [],
-    "notas": "Conjugação e formas (neglegere, neglēxī, neglectum) confirmadas por LS e Whitaker; normalizado a partir do OCR. | [dedupe] redirect → chunk_17913:17913:0 | [dedupe] redirect → chunk_17913:17913:0",
-    "raw_text": "{\"id\":\"chunk_17914:17914:0\",\"lemas\":[\"neglego\",\"neglegere\"],\"lema_canonico\":\"neglego\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"negligenciar; não atender a; desprezar; deixar de cumprir/observar.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Conjugação e formas (neglegere, neglēxī, neglectum) confirmadas por LS e Whitaker; normalizado a partir do OCR.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_17914:17914:0\",\"lemas\":[\"neglego\",\"neglegere\"],\"lema_canonico\":\"neglego\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"negligenciar; não atender a; desprezar; deixar de cumprir/observar.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Conjugação e formas (neglegere, neglēxī, neglectum) confirmadas por LS e Whitaker; normalizado a partir do OCR.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_17915-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_17915",
-    "page_num": 17915,
-    "lemmas": [
-      "nego",
-      "nego"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Dizer não; negar, recusar, rejeitar; intrans. e tr.; usar também em construções absolutas e com or. inf.",
-    "exemplos": [],
-    "notas": "Formas normalizadas para negō, negāre, negāvī, negātus; citações padronizadas. | [dedupe] redirect → chunk_17905:17905:0 | [dedupe] redirect → chunk_17905:17905:0",
-    "raw_text": "{\"id\":\"chunk_17915:17915:0\",\"lemas\":[\"nego\"],\"lema_canonico\":\"nego\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"Dizer não; negar, recusar, rejeitar; intrans. e tr.; usar também em construções absolutas e com or. inf.\",\"aliases\":[],\"exemplos\":[\"Cic. Off. 3, 91\",\"Cic. Fam. 2, 17, 7\",\"Cic. Verr. 1, 90\",\"Ov. F. 4, 321\",\"Cic. Nat. 2, 76\"],\"notas\":\"Formas normalizadas para negō, negāre, negāvī, negātus; citações padronizadas.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_17915:17915:0\",\"lemas\":[\"nego\"],\"lema_canonico\":\"nego\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"Dizer não; negar, recusar, rejeitar; intrans. e tr.; usar também em construções absolutas e com or. inf.\",\"aliases\":[],\"exemplos\":[\"Cic. Off. 3, 91\",\"Cic. Fam. 2, 17, 7\",\"Cic. Verr. 1, 90\",\"Ov. F. 4, 321\",\"Cic. Nat. 2, 76\"],\"notas\":\"Formas normalizadas para negō, negāre, negāvī, negātus; citações padronizadas.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_17916-e1",
@@ -3058,28 +2618,6 @@
     "raw_json": "{\"id\":\"chunk_17924:17924:0\",\"lemas\":[\"Neleus\",\"Nēlēĭus\"],\"lema_canonico\":\"Neleus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo a Nēleus (rei de Pylos); ‘neleano’. Também nome próprio Nēleus, rei de Pilos.\",\"aliases\":[],\"exemplos\":[\"Ov. Her. 1, 63\",\"Ov. Met. 6, 418\"],\"notas\":\"Entradas variantes e usos substantivados atestados por Lewis & Short.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_17925-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_17925",
-    "page_num": 17925,
-    "lemmas": [
-      "Nēleus",
-      "Nēleus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "Nome próprio: Neleu, rei de Pilos, pai de Nestor.",
-    "exemplos": [],
-    "notas": "Lema e sense confirmados em LS/Whitaker; declinação clássica tem gen. ēī/ēos (fora do vocabulário morfológico fornecido). | [dedupe] redirect → chunk_17926:17926:0 | [dedupe] redirect → chunk_17926:17926:0",
-    "raw_text": "{\"id\":\"chunk_17925:17925:0\",\"lemas\":[\"Nēleus\",\"Neleus\"],\"lema_canonico\":\"Nēleus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Nome próprio: Neleu, rei de Pilos, pai de Nestor.\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 12, 577\"],\"notas\":\"Lema e sense confirmados em LS/Whitaker; declinação clássica tem gen. ēī/ēos (fora do vocabulário morfológico fornecido).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_17925:17925:0\",\"lemas\":[\"Nēleus\",\"Neleus\"],\"lema_canonico\":\"Nēleus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Nome próprio: Neleu, rei de Pilos, pai de Nestor.\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 12, 577\"],\"notas\":\"Lema e sense confirmados em LS/Whitaker; declinação clássica tem gen. ēī/ēos (fora do vocabulário morfológico fornecido).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}"
-  },
-  {
     "id": "chunk_17926-e1",
     "volume_id": "faria",
     "doc_name": "chunk_17926",
@@ -3168,28 +2706,6 @@
     "raw_json": "{\"id\":\"chunk_17929:17929:0\",\"lemas\":[\"Nemea\"],\"lema_canonico\":\"Nemea\",\"morfologia\":\"s. masc. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Topônimo: rio do Peloponeso que corre entre os territórios de Corinto e Sicíon.\",\"aliases\":[],\"exemplos\":[\"Liv. 33, 15\"],\"notas\":\"Entrada distinta para o rio (masculino) conforme LS; grafia normalizada.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_17930-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_17930",
-    "page_num": 17930,
-    "lemmas": [
-      "Nemĕa",
-      "Nĕmĕa"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Cidade de Argólida (Nemeia); também usada para referir-se aos Jogos Nemeus (ludi Nemei).",
-    "exemplos": [],
-    "notas": "Corrigido morfologia errônea de pl. para cidade fem. (LS confirma Nĕmĕa). | [dedupe] redirect → chunk_17928:17928:0 | [dedupe] redirect → chunk_17928:17928:0 | [ocr_fix 2025-08-17T19:50:19Z] match direto em LS por lemma/lemma_norm | lemma_in='Nemea' → 'Nĕmĕa' | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='Nĕmĕa' → 'Nemĕa'",
-    "raw_text": "{\"id\":\"chunk_17930:17930:0\",\"lemas\":[\"Nemea\"],\"lema_canonico\":\"Nemea\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Cidade de Argólida (Nemeia); também usada para referir-se aos Jogos Nemeus (ludi Nemei).\",\"aliases\":[],\"exemplos\":[\"Verg. A. 8, 295\"],\"notas\":\"Corrigido morfologia errônea de pl. para cidade fem. (LS confirma Nĕmĕa).\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_17930:17930:0\",\"lemas\":[\"Nemea\"],\"lema_canonico\":\"Nemea\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Cidade de Argólida (Nemeia); também usada para referir-se aos Jogos Nemeus (ludi Nemei).\",\"aliases\":[],\"exemplos\":[\"Verg. A. 8, 295\"],\"notas\":\"Corrigido morfologia errônea de pl. para cidade fem. (LS confirma Nĕmĕa).\",\"flags\":[\"src_ls\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_17931-e1",
     "volume_id": "faria",
     "doc_name": "chunk_17931",
@@ -3276,28 +2792,6 @@
     "notas": "Conservadas principais citações e expressões idiomáticas; normalizada a forma e a declinação.",
     "raw_text": "{\"id\":\"chunk_17934:17934:0\",\"lemas\":[\"nemo\"],\"lema_canonico\":\"nemo\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"1) Ninguém, nenhuma pessoa. 2) (pejor.) pessoa desprezível. Expressões: nemo non 'todos', non nemo 'alguns'.\",\"aliases\":[],\"exemplos\":[\"Cic. Act. 8, 2, 4\",\"Cic. Lae. 99\",\"Cic. Cat. 4, 10\",\"Cic. Att. 7, 3, 8\"],\"notas\":\"Conservadas principais citações e expressões idiomáticas; normalizada a forma e a declinação.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_17934:17934:0\",\"lemas\":[\"nemo\"],\"lema_canonico\":\"nemo\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"1) Ninguém, nenhuma pessoa. 2) (pejor.) pessoa desprezível. Expressões: nemo non 'todos', non nemo 'alguns'.\",\"aliases\":[],\"exemplos\":[\"Cic. Act. 8, 2, 4\",\"Cic. Lae. 99\",\"Cic. Cat. 4, 10\",\"Cic. Att. 7, 3, 8\"],\"notas\":\"Conservadas principais citações e expressões idiomáticas; normalizada a forma e a declinação.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_17935-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_17935",
-    "page_num": 17935,
-    "lemmas": [
-      "nemo",
-      "nemo"
-    ],
-    "morfologia": "s. 3ª (-is)",
-    "morph_render": "s. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Pronome substantivo: ninguém; nenhum (equivale muitas vezes a nullus).",
-    "exemplos": [],
-    "notas": "Normalizada declinação (nēminis) e classe como substantivo 3ª decl. | [dedupe] redirect → chunk_17934:17934:0 | [dedupe] redirect → chunk_17934:17934:0",
-    "raw_text": "{\"id\":\"chunk_17935:17935:0\",\"lemas\":[\"nemo\"],\"lema_canonico\":\"nemo\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Pronome substantivo: ninguém; nenhum (equivale muitas vezes a nullus).\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 2, 96\"],\"notas\":\"Normalizada declinação (nēminis) e classe como substantivo 3ª decl.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_17935:17935:0\",\"lemas\":[\"nemo\"],\"lema_canonico\":\"nemo\",\"morfologia\":\"s. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Pronome substantivo: ninguém; nenhum (equivale muitas vezes a nullus).\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 2, 96\"],\"notas\":\"Normalizada declinação (nēminis) e classe como substantivo 3ª decl.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
     "id": "chunk_17936-e1",
@@ -3410,28 +2904,6 @@
     "raw_json": "{\"id\":\"chunk_17939:17939:1\",\"lemas\":[\"nemorivagus\",\"nemorivaga\",\"nemorivagum\"],\"lema_canonico\":\"nemorivagus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"que vagueia pelos bosques; forest-roving, wandering in the woods.\",\"aliases\":[],\"exemplos\":[\"Catul. 63, 72\"],\"notas\":\"Formas de gênero incluídas (masc./fem./neut.). Atestado em Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_17939-e3",
-    "volume_id": "faria",
-    "doc_name": "chunk_17939",
-    "page_num": 17939,
-    "lemmas": [
-      "cultor",
-      "cultor"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "cultivator, farmer, tiller; one who cultivates or tends (land); also worshiper, supporter.",
-    "exemplos": [],
-    "notas": "Forma e acepções confirmadas em Lewis & Short e Whitaker. | [dedupe] redirect → chunk_26057:26057:0 | [dedupe] redirect → chunk_26057:26057:0",
-    "raw_text": "{\"id\":\"chunk_17939:17939:2\",\"lemas\":[\"cultor\"],\"lema_canonico\":\"cultor\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"cultivator, farmer, tiller; one who cultivates or tends (land); also worshiper, supporter.\",\"aliases\":[],\"exemplos\":[\"Liv. 2, 34, 11\"],\"notas\":\"Forma e acepções confirmadas em Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_17939:17939:2\",\"lemas\":[\"cultor\"],\"lema_canonico\":\"cultor\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"cultivator, farmer, tiller; one who cultivates or tends (land); also worshiper, supporter.\",\"aliases\":[],\"exemplos\":[\"Liv. 2, 34, 11\"],\"notas\":\"Forma e acepções confirmadas em Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_17939-e4",
     "volume_id": "faria",
     "doc_name": "chunk_17939",
@@ -3518,72 +2990,6 @@
     "notas": "Classificado como conj. conforme LS e Whitaker; exemplos selecionados.",
     "raw_text": "{\"id\":\"chunk_17942:17942:0\",\"lemas\":[\"nempe\"],\"lema_canonico\":\"nempe\",\"morfologia\":\"conj.\",\"morph_extra\":[],\"definicao\":\"partícula enfática/confirmatória: realmente, certamente, claramente; reforça ou confirma uma afirmação ou conclusão.\",\"aliases\":[],\"exemplos\":[\"Plaut. Rud. 1057\",\"Cic. Tusc. 3, 20, 49\"],\"notas\":\"Classificado como conj. conforme LS e Whitaker; exemplos selecionados.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_17942:17942:0\",\"lemas\":[\"nempe\"],\"lema_canonico\":\"nempe\",\"morfologia\":\"conj.\",\"morph_extra\":[],\"definicao\":\"partícula enfática/confirmatória: realmente, certamente, claramente; reforça ou confirma uma afirmação ou conclusão.\",\"aliases\":[],\"exemplos\":[\"Plaut. Rud. 1057\",\"Cic. Tusc. 3, 20, 49\"],\"notas\":\"Classificado como conj. conforme LS e Whitaker; exemplos selecionados.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_17943-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_17943",
-    "page_num": 17943,
-    "lemmas": [
-      "nemus",
-      "nemus"
-    ],
-    "morfologia": "s. neut. 3ª (-is)",
-    "morph_render": "s. neut. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "bosque com clareiras e pastos; bosque sagrado ou parque com pastagem (uso poético).",
-    "exemplos": [],
-    "notas": "Genitivo nemoris; sentido culto/poético atestado em LS e Whitaker. | [dedupe] redirect → chunk_17939:17939:3 | [dedupe] redirect → chunk_17939:17939:3",
-    "raw_text": "{\"id\":\"chunk_17943:17943:0\",\"lemas\":[\"nemus\"],\"lema_canonico\":\"nemus\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"bosque com clareiras e pastos; bosque sagrado ou parque com pastagem (uso poético).\",\"aliases\":[],\"exemplos\":[\"Hor. C. 3, 17, 9\",\"Verg. G. 2, 64\"],\"notas\":\"Genitivo nemoris; sentido culto/poético atestado em LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_17943:17943:0\",\"lemas\":[\"nemus\"],\"lema_canonico\":\"nemus\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"bosque com clareiras e pastos; bosque sagrado ou parque com pastagem (uso poético).\",\"aliases\":[],\"exemplos\":[\"Hor. C. 3, 17, 9\",\"Verg. G. 2, 64\"],\"notas\":\"Genitivo nemoris; sentido culto/poético atestado em LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_17944-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_17944",
-    "page_num": 17944,
-    "lemmas": [
-      "nemus",
-      "nemus"
-    ],
-    "morfologia": "s. neut. 3ª (-is)",
-    "morph_render": "s. neut. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "um bosque ou haia, geralmente com pastagens; por vezes santuário de Diana (p.ex. próximo a Arícia)",
-    "exemplos": [],
-    "notas": "Consolidado com base em Lewis & Short e Whitaker; significado inclui 'wood, grove' e matizes pastorais. | [dedupe] redirect → chunk_17939:17939:3 | [dedupe] redirect → chunk_17939:17939:3",
-    "raw_text": "{\"id\":\"chunk_17944:17944:0\",\"lemas\":[\"nemus\"],\"lema_canonico\":\"nemus\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"um bosque ou haia, geralmente com pastagens; por vezes santuário de Diana (p.ex. próximo a Arícia)\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 15, 4, 5\"],\"notas\":\"Consolidado com base em Lewis & Short e Whitaker; significado inclui 'wood, grove' e matizes pastorais.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_17944:17944:0\",\"lemas\":[\"nemus\"],\"lema_canonico\":\"nemus\",\"morfologia\":\"s. neut. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"um bosque ou haia, geralmente com pastagens; por vezes santuário de Diana (p.ex. próximo a Arícia)\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 15, 4, 5\"],\"notas\":\"Consolidado com base em Lewis & Short e Whitaker; significado inclui 'wood, grove' e matizes pastorais.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_17945-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_17945",
-    "page_num": 17945,
-    "lemmas": [
-      "nenia",
-      "nenia"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "canto fúnebre, ditirambo de lamento; por extensão, canção triste, cantiga de ninar ou encantamento mágico.",
-    "exemplos": [],
-    "notas": "Grafia regularizada sem macron opcional; sentidos sintetizados de LS/Whitaker. | [dedupe] redirect → chunk_17716:17716:0 | [dedupe] redirect → chunk_17716:17716:0",
-    "raw_text": "{\"id\":\"chunk_17945:17945:0\",\"lemas\":[\"nenia\",\"nēnia\"],\"lema_canonico\":\"nenia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"canto fúnebre, ditirambo de lamento; por extensão, canção triste, cantiga de ninar ou encantamento mágico.\",\"aliases\":[],\"exemplos\":[\"Cic. Leg. 2, 62\",\"Hor. C. 2, 1, 38\"],\"notas\":\"Grafia regularizada sem macron opcional; sentidos sintetizados de LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_17945:17945:0\",\"lemas\":[\"nenia\",\"nēnia\"],\"lema_canonico\":\"nenia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"canto fúnebre, ditirambo de lamento; por extensão, canção triste, cantiga de ninar ou encantamento mágico.\",\"aliases\":[],\"exemplos\":[\"Cic. Leg. 2, 62\",\"Hor. C. 2, 1, 38\"],\"notas\":\"Grafia regularizada sem macron opcional; sentidos sintetizados de LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_17946-e1",
@@ -3872,28 +3278,6 @@
     "raw_json": "{\"id\":\"chunk_17957:17957:1\",\"lemas\":[\"Nepos\"],\"lema_canonico\":\"Nepos\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"cognome da gens Cornelia; ex.: Cornelius Nepos, historiador romano\",\"aliases\":[],\"exemplos\":[\"Gell. 15, 28\",\"Plin. Nat. 9, 39, 63\",\"Plin. Ep. 5, 3, 6\",\"Plin. Ep. 4, 28, 1\"],\"notas\":\"Entrada de nome próprio atestada por Lewis & Short; mantida forma com maiúscula inicial para indicar cognome.\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_17958-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_17958",
-    "page_num": 17958,
-    "lemmas": [
-      "nepos",
-      "nepos"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "1) Neto; descendente (filho do filho ou da filha). 2) Por extensão: sobrinho, descendente em sentido genérico; 3) Figuradamente: gastador, prodígio, favorito; 4) Como cognomen: Nepos (gens Cornelia), ex.: Cornelius Nepos.",
-    "exemplos": [],
-    "notas": "Unificado com leituras de Lewis & Short e Whitaker; mantida acepção dupla (nome comum e cognomen). | [dedupe] redirect → chunk_17957:17957:0 | [dedupe] redirect → chunk_17957:17957:0",
-    "raw_text": "{\"id\":\"chunk_17958:17958:0\",\"lemas\":[\"nepos\",\"nepos (nomen)\"],\"lema_canonico\":\"nepos\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"1) Neto; descendente (filho do filho ou da filha). 2) Por extensão: sobrinho, descendente em sentido genérico; 3) Figuradamente: gastador, prodígio, favorito; 4) Como cognomen: Nepos (gens Cornelia), ex.: Cornelius Nepos.\",\"aliases\":[\"Nepos\"],\"exemplos\":[\"Cic. Deiot. 1, 2\",\"Cic. Tusc. 1, 35\",\"Cic. Brut. 76\",\"Gell. 13, 20\",\"Dig. 38, 10, 1\",\"Plin. H. Nat. 9, 137\"],\"notas\":\"Unificado com leituras de Lewis & Short e Whitaker; mantida acepção dupla (nome comum e cognomen).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_17958:17958:0\",\"lemas\":[\"nepos\",\"nepos (nomen)\"],\"lema_canonico\":\"nepos\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"1) Neto; descendente (filho do filho ou da filha). 2) Por extensão: sobrinho, descendente em sentido genérico; 3) Figuradamente: gastador, prodígio, favorito; 4) Como cognomen: Nepos (gens Cornelia), ex.: Cornelius Nepos.\",\"aliases\":[\"Nepos\"],\"exemplos\":[\"Cic. Deiot. 1, 2\",\"Cic. Tusc. 1, 35\",\"Cic. Brut. 76\",\"Gell. 13, 20\",\"Dig. 38, 10, 1\",\"Plin. H. Nat. 9, 137\"],\"notas\":\"Unificado com leituras de Lewis & Short e Whitaker; mantida acepção dupla (nome comum e cognomen).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_17959-e1",
     "volume_id": "faria",
     "doc_name": "chunk_17959",
@@ -4136,28 +3520,6 @@
     "raw_json": "{\"id\":\"chunk_17968:17968:0\",\"lemas\":[\"neque\",\"nec\"],\"lema_canonico\":\"neque\",\"morfologia\":\"conj.\",\"morph_extra\":[],\"definicao\":\"conjunção: 'e não', 'nem' (equivalente a nec em muitos usos).\",\"aliases\":[],\"exemplos\":[\"Cic. Leg. 2, 26\",\"T. Liv. 7, 9, 1\"],\"notas\":\"Mantida remissiva entre neque e nec; formas e usos confirmados em LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_17969-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_17969",
-    "page_num": 17969,
-    "lemmas": [
-      "nego",
-      "nego"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "negare: dizer não; negar, recusar; transitivo e intransitivo; admitir orações completivas (dizer que não).",
-    "exemplos": [],
-    "notas": "Normalizado para negō, negāre (corrigindo confusão com nequeo/non queo); variantes atestadas: negumo, negāssim. | [dedupe] redirect → chunk_17905:17905:0 | [dedupe] redirect → chunk_17905:17905:0",
-    "raw_text": "{\"id\":\"chunk_17969:17969:0\",\"lemas\":[\"nego\"],\"lema_canonico\":\"nego\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"negare: dizer não; negar, recusar; transitivo e intransitivo; admitir orações completivas (dizer que não).\",\"aliases\":[],\"exemplos\":[\"Plaut. Rud. 2, 4, 14\",\"Cic. Or. 8 fin.\",\"Cic. Fin. 2, 21, 68\",\"Ov. F. 4, 321\",\"Vulg. 1 Joann. 2, 22\",\"Cic. Att. 8, 4, 2\"],\"notas\":\"Normalizado para negō, negāre (corrigindo confusão com nequeo/non queo); variantes atestadas: negumo, negāssim.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_17969:17969:0\",\"lemas\":[\"nego\"],\"lema_canonico\":\"nego\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"negare: dizer não; negar, recusar; transitivo e intransitivo; admitir orações completivas (dizer que não).\",\"aliases\":[],\"exemplos\":[\"Plaut. Rud. 2, 4, 14\",\"Cic. Or. 8 fin.\",\"Cic. Fin. 2, 21, 68\",\"Ov. F. 4, 321\",\"Vulg. 1 Joann. 2, 22\",\"Cic. Att. 8, 4, 2\"],\"notas\":\"Normalizado para negō, negāre (corrigindo confusão com nequeo/non queo); variantes atestadas: negumo, negāssim.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_17970-e1",
     "volume_id": "faria",
     "doc_name": "chunk_17970",
@@ -4180,28 +3542,6 @@
     "raw_json": "{\"id\":\"chunk_17970:17970:0\",\"lemas\":[\"nequeo\",\"nequire\"],\"lema_canonico\":\"nequeo\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"não poder; ser incapaz (verbo defectivo)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Restaurado para o verbo defectivo clássico (nequeo, nequire). OCR corrupto.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_17971-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_17971",
-    "page_num": 17971,
-    "lemmas": [
-      "nequeo",
-      "nequeo"
-    ],
-    "morfologia": "v. 4ª (-īre)",
-    "morph_render": "v. 4ª (-īre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "não poder; ser incapaz (irregular: nequeō, nequīre, nequīvī/nequīuī, nequītum).",
-    "exemplos": [],
-    "notas": "Paradigma normalizado a partir de Whitaker/Lat→Deu e LS; escolheu-se a forma lema pelo presente (nequeo) e o infinitivo nequire. | [dedupe] redirect → chunk_17970:17970:0 | [dedupe] redirect → chunk_17970:17970:0",
-    "raw_text": "{\"id\":\"chunk_17971:17971:0\",\"lemas\":[\"nequeo\",\"nequire\",\"nequivi\",\"nequitus\"],\"lema_canonico\":\"nequeo\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"não poder; ser incapaz (irregular: nequeō, nequīre, nequīvī/nequīuī, nequītum).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Paradigma normalizado a partir de Whitaker/Lat→Deu e LS; escolheu-se a forma lema pelo presente (nequeo) e o infinitivo nequire.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_17971:17971:0\",\"lemas\":[\"nequeo\",\"nequire\",\"nequivi\",\"nequitus\"],\"lema_canonico\":\"nequeo\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"não poder; ser incapaz (irregular: nequeō, nequīre, nequīvī/nequīuī, nequītum).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Paradigma normalizado a partir de Whitaker/Lat→Deu e LS; escolheu-se a forma lema pelo presente (nequeo) e o infinitivo nequire.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_17971-e2",
     "volume_id": "faria",
     "doc_name": "chunk_17971",
@@ -4222,28 +3562,6 @@
     "notas": "Forma atípica; leitura proveniente do primeiro tratamento/OCR. Classificado como particípio perfeito por evidência do trecho, mas a forma não é bem atestada nas principais fontes — precisa de revisão palaográfica/lexicográfica.",
     "raw_text": "{\"id\":\"chunk_17971:17971:1\",\"lemas\":[\"nequies\"],\"lema_canonico\":\"nequies\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"(registrado) particípio perfeito passivo atribuído a nequire/nequeo (atestado em Sal. Hist. 3, 77, 181).\",\"aliases\":[],\"exemplos\":[\"Sal. Hist. 3, 77, 181\"],\"notas\":\"Forma atípica; leitura proveniente do primeiro tratamento/OCR. Classificado como particípio perfeito por evidência do trecho, mas a forma não é bem atestada nas principais fontes — precisa de revisão palaográfica/lexicográfica.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_17971:17971:1\",\"lemas\":[\"nequies\"],\"lema_canonico\":\"nequies\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"(registrado) particípio perfeito passivo atribuído a nequire/nequeo (atestado em Sal. Hist. 3, 77, 181).\",\"aliases\":[],\"exemplos\":[\"Sal. Hist. 3, 77, 181\"],\"notas\":\"Forma atípica; leitura proveniente do primeiro tratamento/OCR. Classificado como particípio perfeito por evidência do trecho, mas a forma não é bem atestada nas principais fontes — precisa de revisão palaográfica/lexicográfica.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_17972-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_17972",
-    "page_num": 17972,
-    "lemmas": [
-      "nequeo",
-      "nequeo"
-    ],
-    "morfologia": "v. 4ª (-īre)",
-    "morph_render": "v. 4ª (-īre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "não poder; ser incapaz, não conseguir.",
-    "exemplos": [],
-    "notas": "Infinitivo nequīre atestado em LS/Whitaker; formas perfeitas irregulares (nequīvī/nequīī). | [dedupe] redirect → chunk_17970:17970:0 | [dedupe] redirect → chunk_17970:17970:0",
-    "raw_text": "{\"id\":\"chunk_17972:17972:0\",\"lemas\":[\"nequeo\"],\"lema_canonico\":\"nequeo\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"não poder; ser incapaz, não conseguir.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Infinitivo nequīre atestado em LS/Whitaker; formas perfeitas irregulares (nequīvī/nequīī).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_17972:17972:0\",\"lemas\":[\"nequeo\"],\"lema_canonico\":\"nequeo\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"não poder; ser incapaz, não conseguir.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Infinitivo nequīre atestado em LS/Whitaker; formas perfeitas irregulares (nequīvī/nequīī).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_17973-e1",
@@ -4422,28 +3740,6 @@
     "raw_json": "{\"id\":\"chunk_17976:17976:0\",\"lemas\":[\"nequitia\",\"nequities\"],\"lema_canonico\":\"nequitia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"(nēquĭtĭa) maldade, perversidade; vilania, dissolução; também indolência, negligência, ociosidade.\",\"aliases\":[],\"exemplos\":[\"Cic. Cat. 1, 4\",\"Cic. Clu. 51, 141\",\"Juv. 14, 216\"],\"notas\":\"Forma e sentidos alinhados com Lewis & Short e Whitaker; variantes gráficas atestadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_17977-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_17977",
-    "page_num": 17977,
-    "lemmas": [
-      "nequitia",
-      "nequitia"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "maldade, depravação; ociosidade, inutilidade; vilania",
-    "exemplos": [],
-    "notas": "Forma variante nequities registrada; normalizada para nequitia, -ae. | [dedupe] redirect → chunk_17976:17976:0 | [dedupe] redirect → chunk_17976:17976:0",
-    "raw_text": "{\"id\":\"chunk_17977:17977:0\",\"lemas\":[\"nequitia\",\"nequities\"],\"lema_canonico\":\"nequitia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"maldade, depravação; ociosidade, inutilidade; vilania\",\"aliases\":[],\"exemplos\":[\"Hor. Sat. 2, 2, 131\"],\"notas\":\"Forma variante nequities registrada; normalizada para nequitia, -ae.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_17977:17977:0\",\"lemas\":[\"nequitia\",\"nequities\"],\"lema_canonico\":\"nequitia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"maldade, depravação; ociosidade, inutilidade; vilania\",\"aliases\":[],\"exemplos\":[\"Hor. Sat. 2, 2, 131\"],\"notas\":\"Forma variante nequities registrada; normalizada para nequitia, -ae.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_17978-e1",
     "volume_id": "faria",
     "doc_name": "chunk_17978",
@@ -4618,28 +3914,6 @@
     "notas": "Variações atestadas; identificação como «deusa dos sabinos, esposa de Marte» contradiz fontes léxicas principais.",
     "raw_text": "{\"id\":\"chunk_17984:17984:0\",\"lemas\":[\"Nereia\",\"Nerinea\",\"Neritis\"],\"lema_canonico\":\"Nereia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"ninfa marinha, filha de Nereus (forma patronímica Nereia/Nereis nos textos poéticos).\",\"aliases\":[],\"exemplos\":[\"Plaut. Truc. 515\"],\"notas\":\"Variações atestadas; identificação como «deusa dos sabinos, esposa de Marte» contradiz fontes léxicas principais.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_17984:17984:0\",\"lemas\":[\"Nereia\",\"Nerinea\",\"Neritis\"],\"lema_canonico\":\"Nereia\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"ninfa marinha, filha de Nereus (forma patronímica Nereia/Nereis nos textos poéticos).\",\"aliases\":[],\"exemplos\":[\"Plaut. Truc. 515\"],\"notas\":\"Variações atestadas; identificação como «deusa dos sabinos, esposa de Marte» contradiz fontes léxicas principais.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_17985-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_17985",
-    "page_num": 17985,
-    "lemmas": [
-      "Nērīnē",
-      "Nērīnē"
-    ],
-    "morfologia": "s. fem. 3ª (-is)",
-    "morph_render": "s. fem. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Nereida, ninfa do mar (forma variante ligada a Nereus).",
-    "exemplos": [],
-    "notas": "Forma e ocorrência confirmadas em Lewis & Short (ver Nereus II C/D). | [dedupe] redirect → chunk_17979:17979:0 | [dedupe] redirect → chunk_17979:17979:0 | [ocr_fix 2025-08-17T19:50:22Z] match direto em LS por lemma/lemma_norm | lemma_in='Nerine' → 'Nērīnē'",
-    "raw_text": "{\"id\":\"chunk_17985:17985:0\",\"lemas\":[\"Nerine\",\"Nērīnē\"],\"lema_canonico\":\"Nerine\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Nereida, ninfa do mar (forma variante ligada a Nereus).\",\"aliases\":[],\"exemplos\":[\"Verg. En. 7, 37\"],\"notas\":\"Forma e ocorrência confirmadas em Lewis & Short (ver Nereus II C/D).\",\"flags\":[\"src_ls\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_17985:17985:0\",\"lemas\":[\"Nerine\",\"Nērīnē\"],\"lema_canonico\":\"Nerine\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Nereida, ninfa do mar (forma variante ligada a Nereus).\",\"aliases\":[],\"exemplos\":[\"Verg. En. 7, 37\"],\"notas\":\"Forma e ocorrência confirmadas em Lewis & Short (ver Nereus II C/D).\",\"flags\":[\"src_ls\",\"conf:med\"]}"
   },
   {
     "id": "chunk_17986-e1",

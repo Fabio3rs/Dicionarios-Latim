@@ -154,50 +154,6 @@
     "raw_json": "{\"id\":\"chunk_6606:6606:0\",\"lemas\":[\"contactio\"],\"lema_canonico\":\"contactio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Contato, ligação, toque (citado em Ciceronem apud edições: Cic. Nat. 1, 77).\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 1, 77\"],\"notas\":\"Forma atestada no vocábulo pre-processado; não encontrada de forma consistente nas principais fontes consultadas — possível variante/erro de escrita de tactio/contactus.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
-    "id": "chunk_6607-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_6607",
-    "page_num": 6607,
-    "lemmas": [
-      "contactus",
-      "contactus"
-    ],
-    "morfologia": "s. masc. 4ª (-us)",
-    "morph_render": "s. masc. 4ª (-us)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "1) Substantivo: toque, contato; contagio, infecção. 2) Particípio passivo de contingō (contingere): 'tocado, alcançado'.",
-    "exemplos": [],
-    "notas": "Registro duplo: substantivo da 4ª declinação e particípio passivo do verbo contingō, conforme LS e Whitaker. | [dedupe] redirect → chunk_6518:6518:0 | [dedupe] redirect → chunk_6518:6518:0",
-    "raw_text": "{\"id\":\"chunk_6607:6607:0\",\"lemas\":[\"contactus\"],\"lema_canonico\":\"contactus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"1) Substantivo: toque, contato; contagio, infecção. 2) Particípio passivo de contingō (contingere): 'tocado, alcançado'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Registro duplo: substantivo da 4ª declinação e particípio passivo do verbo contingō, conforme LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_6607:6607:0\",\"lemas\":[\"contactus\"],\"lema_canonico\":\"contactus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"1) Substantivo: toque, contato; contagio, infecção. 2) Particípio passivo de contingō (contingere): 'tocado, alcançado'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Registro duplo: substantivo da 4ª declinação e particípio passivo do verbo contingō, conforme LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_6608-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_6608",
-    "page_num": 6608,
-    "lemmas": [
-      "contingo",
-      "contingo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "1) tocar, alcançar, atingir; 2) acontecer, suceder; 3) figurado: alcançar, tocar emocionalmente; (part. perf. contactus attesta variações como 'contacto').",
-    "exemplos": [],
-    "notas": "Unifiquei as formas sob o lema clássico contingo (contingere, contigi, contactus); incluí 'contacto' como variante e marquei o particípio perfeito. | [dedupe] redirect → chunk_6572:6572:0 | [dedupe] redirect → chunk_6572:6572:0",
-    "raw_text": "{\"id\":\"chunk_6608:6608:0\",\"lemas\":[\"contingo\",\"contacto\",\"contactus\"],\"lema_canonico\":\"contingo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"1) tocar, alcançar, atingir; 2) acontecer, suceder; 3) figurado: alcançar, tocar emocionalmente; (part. perf. contactus attesta variações como 'contacto').\",\"aliases\":[],\"exemplos\":[\"Suet. Cal. 9, 2\",\"Tac. Ann. 14, 35\",\"Cic. Tusc. 3, 33\"],\"notas\":\"Unifiquei as formas sob o lema clássico contingo (contingere, contigi, contactus); incluí 'contacto' como variante e marquei o particípio perfeito.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_6608:6608:0\",\"lemas\":[\"contingo\",\"contacto\",\"contactus\"],\"lema_canonico\":\"contingo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"1) tocar, alcançar, atingir; 2) acontecer, suceder; 3) figurado: alcançar, tocar emocionalmente; (part. perf. contactus attesta variações como 'contacto').\",\"aliases\":[],\"exemplos\":[\"Suet. Cal. 9, 2\",\"Tac. Ann. 14, 35\",\"Cic. Tusc. 3, 33\"],\"notas\":\"Unifiquei as formas sob o lema clássico contingo (contingere, contigi, contactus); incluí 'contacto' como variante e marquei o particípio perfeito.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_6609-e1",
     "volume_id": "faria",
     "doc_name": "chunk_6609",
@@ -264,28 +220,6 @@
     "raw_json": "{\"id\":\"chunk_6611:6611:0\",\"lemas\":[\"contribui\"],\"lema_canonico\":\"contribui\",\"morfologia\":\"v. 3ª -ere\",\"morph_extra\":[\"perf. ind. 1 sg.\"],\"definicao\":\"Perfecto indicativo ativo (1. sing.) de contribuō: «contribuí; dei/acheguei; juntei, contribuí».\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma perfeita de contribuō confirmada por Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"morph_out_of_vocab\"]}"
   },
   {
-    "id": "chunk_6612-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_6612",
-    "page_num": 6612,
-    "lemmas": [
-      "con-trĭbŭo",
-      "con-trĭbŭo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "unir, juntar; atribuir, incorporar; contribuir, dar (trans.)",
-    "exemplos": [],
-    "notas": "formas supinas/conjugação verificadas com Lat→Deu | [dedupe] redirect → chunk_14713:14713:0 | [dedupe] redirect → chunk_14713:14713:0 | [ocr_fix 2025-08-17T19:57:07Z] match direto em LS por lemma/lemma_norm | lemma_in='contribuo' → 'con-trĭbŭo'",
-    "raw_text": "{\"id\":\"chunk_6612:6612:0\",\"lemas\":[\"contribuo\",\"contribuere\"],\"lema_canonico\":\"contribuo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"unir, juntar; atribuir, incorporar; contribuir, dar (trans.)\",\"aliases\":[],\"exemplos\":[\"Caes. B. Civ. 1, 60, 11\",\"Ov. Met. 7, 231\"],\"notas\":\"formas supinas/conjugação verificadas com Lat→Deu\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_6612:6612:0\",\"lemas\":[\"contribuo\",\"contribuere\"],\"lema_canonico\":\"contribuo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"unir, juntar; atribuir, incorporar; contribuir, dar (trans.)\",\"aliases\":[],\"exemplos\":[\"Caes. B. Civ. 1, 60, 11\",\"Ov. Met. 7, 231\"],\"notas\":\"formas supinas/conjugação verificadas com Lat→Deu\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_6613-e1",
     "volume_id": "faria",
     "doc_name": "chunk_6613",
@@ -350,50 +284,6 @@
     "notas": "Paradigma normalizado (cūrāre, cūrāvī, cūrātus) conforme Lewis & Short.",
     "raw_text": "{\"id\":\"chunk_6614:6614:1\",\"lemas\":[\"curo\"],\"lema_canonico\":\"curo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"cuidar de, atender a, tratar; tomar conta de; curar; encarregar-se de; diligenciar\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 4, 13, 7\",\"Plaut. Men. 5, 4, 7\",\"Liv. 7, 26, 10\",\"Hor. Ep. 1, 17, 5\"],\"notas\":\"Paradigma normalizado (cūrāre, cūrāvī, cūrātus) conforme Lewis & Short.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_6614:6614:1\",\"lemas\":[\"curo\"],\"lema_canonico\":\"curo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"cuidar de, atender a, tratar; tomar conta de; curar; encarregar-se de; diligenciar\",\"aliases\":[],\"exemplos\":[\"Cic. Fam. 4, 13, 7\",\"Plaut. Men. 5, 4, 7\",\"Liv. 7, 26, 10\",\"Hor. Ep. 1, 17, 5\"],\"notas\":\"Paradigma normalizado (cūrāre, cūrāvī, cūrātus) conforme Lewis & Short.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_6615-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_6615",
-    "page_num": 6615,
-    "lemmas": [
-      "contritus",
-      "contritus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "particípio perfeito passivo de contero; também adjetivo: abatido, contrito; gasto, abalado",
-    "exemplos": [],
-    "notas": "entrada marcada como particípio/adjetivo; formas de gênero incluídas | [dedupe] redirect → chunk_6556:6556:0 | [dedupe] redirect → chunk_6556:6556:0",
-    "raw_text": "{\"id\":\"chunk_6615:6615:0\",\"lemas\":[\"contritus\",\"contrita\",\"contritum\"],\"lema_canonico\":\"contritus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de contero; também adjetivo: abatido, contrito; gasto, abalado\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 1, 137\"],\"notas\":\"entrada marcada como particípio/adjetivo; formas de gênero incluídas\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_6615:6615:0\",\"lemas\":[\"contritus\",\"contrita\",\"contritum\"],\"lema_canonico\":\"contritus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de contero; também adjetivo: abatido, contrito; gasto, abalado\",\"aliases\":[],\"exemplos\":[\"Cic. De Or. 1, 137\"],\"notas\":\"entrada marcada como particípio/adjetivo; formas de gênero incluídas\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_6616-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_6616",
-    "page_num": 6616,
-    "lemmas": [
-      "contero",
-      "contero"
-    ],
-    "morfologia": "v. 3ª -ere",
-    "morph_render": "v. 3ª -ere",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 1,
-    "definicao": "Forma perfeita (1. sing.) de conterō / conterere: «triturei, esmaguei, desgastei; consumi, gastei».",
-    "exemplos": [],
-    "notas": "Relação contero, conterere, contrīvī, contrītum confirmada por Lat→Deu e Whitaker. | [dedupe] redirect → chunk_6553:6553:0 | [dedupe] redirect → chunk_6553:6553:0",
-    "raw_text": "{\"id\":\"chunk_6616:6616:0\",\"lemas\":[\"contrivi\",\"contero\"],\"lema_canonico\":\"contero\",\"morfologia\":\"v. 3ª -ere\",\"morph_extra\":[\"perf. ind. 1 sg.\"],\"definicao\":\"Forma perfeita (1. sing.) de conterō / conterere: «triturei, esmaguei, desgastei; consumi, gastei».\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Relação contero, conterere, contrīvī, contrītum confirmada por Lat→Deu e Whitaker.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"morph_out_of_vocab\"]}",
-    "raw_json": "{\"id\":\"chunk_6616:6616:0\",\"lemas\":[\"contrivi\",\"contero\"],\"lema_canonico\":\"contero\",\"morfologia\":\"v. 3ª -ere\",\"morph_extra\":[\"perf. ind. 1 sg.\"],\"definicao\":\"Forma perfeita (1. sing.) de conterō / conterere: «triturei, esmaguei, desgastei; consumi, gastei».\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Relação contero, conterere, contrīvī, contrītum confirmada por Lat→Deu e Whitaker.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"morph_out_of_vocab\"]}"
   },
   {
     "id": "chunk_6617-e1",
@@ -946,28 +836,6 @@
     "raw_json": "{\"id\":\"chunk_6638:6638:2\",\"lemas\":[\"contumeliosissime\",\"contumeliosissimē\"],\"lema_canonico\":\"contumeliosissime\",\"morfologia\":\"adv.\",\"morph_extra\":[\"sup.\"],\"definicao\":\"in the most insulting or abusive manner; extremely reproachful\",\"aliases\":[],\"exemplos\":[\"Cic. Vat. 29\"],\"notas\":\"Superlativo adverbial regularizado (-issimē); atestado em léxicos.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_6639-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_6639",
-    "page_num": 6639,
-    "lemmas": [
-      "contumeliosus",
-      "contumeliosus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "insulting, reproachful, abusive; injurious, humiliating",
-    "exemplos": [],
-    "notas": "Normalizado para contumēliōsus a um; corrigida sigla Cic. Att. | [dedupe] redirect → chunk_6638:6638:1 | [dedupe] redirect → chunk_6638:6638:1",
-    "raw_text": "{\"id\":\"chunk_6639:6639:0\",\"lemas\":[\"contumeliosus\",\"contumeliosa\",\"contumeliosum\"],\"lema_canonico\":\"contumeliosus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"insulting, reproachful, abusive; injurious, humiliating\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 15, 12, 1\",\"Tac. H. 2, 27\",\"Sall. J. 65, 2\"],\"notas\":\"Normalizado para contumēliōsus a um; corrigida sigla Cic. Att.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_6639:6639:0\",\"lemas\":[\"contumeliosus\",\"contumeliosa\",\"contumeliosum\"],\"lema_canonico\":\"contumeliosus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"insulting, reproachful, abusive; injurious, humiliating\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 15, 12, 1\",\"Tac. H. 2, 27\",\"Sall. J. 65, 2\"],\"notas\":\"Normalizado para contumēliōsus a um; corrigida sigla Cic. Att.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_6640-e1",
     "volume_id": "faria",
     "doc_name": "chunk_6640",
@@ -988,28 +856,6 @@
     "notas": "Forma verbal registrada como contumulāre (Lat→Deu, Whitaker); contumulo atestado como variante gráfica/forma flexa.",
     "raw_text": "{\"id\":\"chunk_6640:6640:0\",\"lemas\":[\"contumulare\",\"contumulo\"],\"lema_canonico\":\"contumulare\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"enterrar; cobrir com um monte/túmulo; amontoar como colina\",\"aliases\":[],\"exemplos\":[\"Ov. Trist. 3, 3, 32\",\"Plin. H. Nat. 10, 100\"],\"notas\":\"Forma verbal registrada como contumulāre (Lat→Deu, Whitaker); contumulo atestado como variante gráfica/forma flexa.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_6640:6640:0\",\"lemas\":[\"contumulare\",\"contumulo\"],\"lema_canonico\":\"contumulare\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"enterrar; cobrir com um monte/túmulo; amontoar como colina\",\"aliases\":[],\"exemplos\":[\"Ov. Trist. 3, 3, 32\",\"Plin. H. Nat. 10, 100\"],\"notas\":\"Forma verbal registrada como contumulāre (Lat→Deu, Whitaker); contumulo atestado como variante gráfica/forma flexa.\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_6641-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_6641",
-    "page_num": 6641,
-    "lemmas": [
-      "contor",
-      "contor"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "verbo deponente; (sentido incerto/retido por abreviação em LS) — atuar como contari/contor (ver notas)",
-    "exemplos": [],
-    "notas": "Registro em Lewis & Short como contor (āri); tratado como deponente. Forma e sentido atípicos; pouca evidencia de uso citado. | [dedupe] redirect → chunk_6581:6581:0 | [dedupe] redirect → chunk_6581:6581:0 | [ocr_fix 2025-08-17T19:57:04Z] match direto em LS por lemma/lemma_norm | lemma_in='contor' → 'contor'",
-    "raw_text": "{\"id\":\"chunk_6641:6641:0\",\"lemas\":[\"contor\"],\"lema_canonico\":\"contor\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"verbo deponente; (sentido incerto/retido por abreviação em LS) — atuar como contari/contor (ver notas)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Registro em Lewis & Short como contor (āri); tratado como deponente. Forma e sentido atípicos; pouca evidencia de uso citado.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_6641:6641:0\",\"lemas\":[\"contor\"],\"lema_canonico\":\"contor\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"verbo deponente; (sentido incerto/retido por abreviação em LS) — atuar como contari/contor (ver notas)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Registro em Lewis & Short como contor (āri); tratado como deponente. Forma e sentido atípicos; pouca evidencia de uso citado.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
     "id": "chunk_6641-e2",
@@ -1188,50 +1034,6 @@
     "raw_json": "{\"id\":\"chunk_6646:6646:0\",\"lemas\":[\"contus\"],\"lema_canonico\":\"contus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Vara comprida; remo/rudder-staff em embarcações; lança, pica (uso náutico e militar).\",\"aliases\":[],\"exemplos\":[\"Verg. A. 5, 208\",\"Verg. A. 6, 302\",\"Verg. A. 9, 510\",\"Tac. An. 6, 35\",\"Suet. Calig. 32\",\"Amm. 18, 5, 6\",\"Auct. Priap. 10, 3\"],\"notas\":\"Corrigida a forma genitiva para -ī conforme LS/Whitaker; referências clássicas harmonizadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_6647-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_6647",
-    "page_num": 6647,
-    "lemmas": [
-      "contusus",
-      "contusus"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "particípio perfeito passivo de contundō: esmagado, contuso; ferido por contusão; figuradamente, vencido, reduzido a pó",
-    "exemplos": [],
-    "notas": "Particípio derivado de contundō/contundere (LS, Whitaker, Lat→Deu). Mantida forma ASCII 'contusus' e a forma com macron. | [dedupe] redirect → chunk_6631:6631:0 | [dedupe] redirect → chunk_6631:6631:0",
-    "raw_text": "{\"id\":\"chunk_6647:6647:0\",\"lemas\":[\"contusus\",\"contūsus\"],\"lema_canonico\":\"contusus\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de contundō: esmagado, contuso; ferido por contusão; figuradamente, vencido, reduzido a pó\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Particípio derivado de contundō/contundere (LS, Whitaker, Lat→Deu). Mantida forma ASCII 'contusus' e a forma com macron.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_6647:6647:0\",\"lemas\":[\"contusus\",\"contūsus\"],\"lema_canonico\":\"contusus\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de contundō: esmagado, contuso; ferido por contusão; figuradamente, vencido, reduzido a pó\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Particípio derivado de contundō/contundere (LS, Whitaker, Lat→Deu). Mantida forma ASCII 'contusus' e a forma com macron.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_6648-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_6648",
-    "page_num": 6648,
-    "lemmas": [
-      "contūtus",
-      "contutus"
-    ],
-    "morfologia": "s. masc. 4ª (-us)",
-    "morph_render": "s. masc. 4ª (-us)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "olhar atento, contemplação, observação",
-    "exemplos": [],
-    "notas": "Nome substantival da 4ª declinação (LS atesta contūtus e forma relacionada contuitus). | [dedupe] redirect → chunk_6632:6632:0 | [dedupe] redirect → chunk_6632:6632:0 | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='contutus' → 'contūtus'",
-    "raw_text": "{\"id\":\"chunk_6648:6648:0\",\"lemas\":[\"contutus\",\"contūtus\",\"contuitus\"],\"lema_canonico\":\"contutus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"olhar atento, contemplação, observação\",\"aliases\":[],\"exemplos\":[\"Plaut. Trin. 262\"],\"notas\":\"Nome substantival da 4ª declinação (LS atesta contūtus e forma relacionada contuitus).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_6648:6648:0\",\"lemas\":[\"contutus\",\"contūtus\",\"contuitus\"],\"lema_canonico\":\"contutus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[],\"definicao\":\"olhar atento, contemplação, observação\",\"aliases\":[],\"exemplos\":[\"Plaut. Trin. 262\"],\"notas\":\"Nome substantival da 4ª declinação (LS atesta contūtus e forma relacionada contuitus).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_6649-e1",
     "volume_id": "faria",
     "doc_name": "chunk_6649",
@@ -1252,94 +1054,6 @@
     "notas": "Grafias com/sem duplicação de n. Advérbio derivado (cōnūbĭālĭter) atestado por LS.",
     "raw_text": "{\"id\":\"chunk_6649:6649:0\",\"lemas\":[\"connubialis\",\"conubialis\",\"cōnūbĭālis\"],\"lema_canonico\":\"connubialis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"relativo ao casamento, conjugal, nupcial (uso poético)\",\"aliases\":[],\"exemplos\":[\"Ov. Her. 6, 41\"],\"notas\":\"Grafias com/sem duplicação de n. Advérbio derivado (cōnūbĭālĭter) atestado por LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_6649:6649:0\",\"lemas\":[\"connubialis\",\"conubialis\",\"cōnūbĭālis\"],\"lema_canonico\":\"connubialis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"relativo ao casamento, conjugal, nupcial (uso poético)\",\"aliases\":[],\"exemplos\":[\"Ov. Her. 6, 41\"],\"notas\":\"Grafias com/sem duplicação de n. Advérbio derivado (cōnūbĭālĭter) atestado por LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_6650-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_6650",
-    "page_num": 6650,
-    "lemmas": [
-      "conubium",
-      "conubium"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "right of marriage (jus conubii); marriage or wedlock; union/sex in poetry; also grafting (botanical)",
-    "exemplos": [],
-    "notas": "Sentidos jurídico, social, poético e botânico reunidos; lema normalizado. | [dedupe] redirect → chunk_6268:6268:1 | [dedupe] redirect → chunk_6268:6268:1",
-    "raw_text": "{\"id\":\"chunk_6650:6650:0\",\"lemas\":[\"conubium\",\"conūbium\"],\"lema_canonico\":\"conubium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"right of marriage (jus conubii); marriage or wedlock; union/sex in poetry; also grafting (botanical)\",\"aliases\":[],\"exemplos\":[\"T. Liv. 4, 1, 11\",\"Cic. De Off. 1, 37\",\"Verg. A. 1, 73\",\"Verg. A. 3, 136\",\"Lucr. 3, 777\",\"Plin. 16, pr.\"],\"notas\":\"Sentidos jurídico, social, poético e botânico reunidos; lema normalizado.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_6650:6650:0\",\"lemas\":[\"conubium\",\"conūbium\"],\"lema_canonico\":\"conubium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"right of marriage (jus conubii); marriage or wedlock; union/sex in poetry; also grafting (botanical)\",\"aliases\":[],\"exemplos\":[\"T. Liv. 4, 1, 11\",\"Cic. De Off. 1, 37\",\"Verg. A. 1, 73\",\"Verg. A. 3, 136\",\"Lucr. 3, 777\",\"Plin. 16, pr.\"],\"notas\":\"Sentidos jurídico, social, poético e botânico reunidos; lema normalizado.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_6651-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_6651",
-    "page_num": 6651,
-    "lemmas": [
-      "conus",
-      "conus"
-    ],
-    "morfologia": "s. masc. 2ª (-i)",
-    "morph_render": "s. masc. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "cone; ápice cónico (p.ex. de capacete); pinha; forma de relógio de sol",
-    "exemplos": [],
-    "notas": "Ortografia com macron cōnus normalizada; acepções confirmadas por LS/Whitaker. | [dedupe] redirect → chunk_6269:6269:0 | [dedupe] redirect → chunk_6269:6269:0",
-    "raw_text": "{\"id\":\"chunk_6651:6651:0\",\"lemas\":[\"conus\",\"cōnus\"],\"lema_canonico\":\"conus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"cone; ápice cónico (p.ex. de capacete); pinha; forma de relógio de sol\",\"aliases\":[],\"exemplos\":[\"Cic. Mat. 1, 24\",\"Verg. Aen. 3, 468\"],\"notas\":\"Ortografia com macron cōnus normalizada; acepções confirmadas por LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_6651:6651:0\",\"lemas\":[\"conus\",\"cōnus\"],\"lema_canonico\":\"conus\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"cone; ápice cónico (p.ex. de capacete); pinha; forma de relógio de sol\",\"aliases\":[],\"exemplos\":[\"Cic. Mat. 1, 24\",\"Verg. Aen. 3, 468\"],\"notas\":\"Ortografia com macron cōnus normalizada; acepções confirmadas por LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_6652-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_6652",
-    "page_num": 6652,
-    "lemmas": [
-      "convalesco",
-      "convalesco"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Recuperar forças; tornar-se forte; restabelecer-se, convalescer; por extensão, tornar-se válido (jur.).",
-    "exemplos": [],
-    "notas": "Normalizada a conjugação (convalēscere) e marcado como intransitivo; supino ausente conforme entrada. | [dedupe] redirect → chunk_6654:6654:0 | [dedupe] redirect → chunk_6654:6654:0",
-    "raw_text": "{\"id\":\"chunk_6652:6652:0\",\"lemas\":[\"convalesco\",\"convalēscō\"],\"lema_canonico\":\"convalesco\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"Recuperar forças; tornar-se forte; restabelecer-se, convalescer; por extensão, tornar-se válido (jur.).\",\"aliases\":[],\"exemplos\":[\"Varr. R.R. Rust. 1, 23, 6\",\"Cic. Att. 7, 3, 4\",\"Cic. Fat. 28\"],\"notas\":\"Normalizada a conjugação (convalēscere) e marcado como intransitivo; supino ausente conforme entrada.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_6652:6652:0\",\"lemas\":[\"convalesco\",\"convalēscō\"],\"lema_canonico\":\"convalesco\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"Recuperar forças; tornar-se forte; restabelecer-se, convalescer; por extensão, tornar-se válido (jur.).\",\"aliases\":[],\"exemplos\":[\"Varr. R.R. Rust. 1, 23, 6\",\"Cic. Att. 7, 3, 4\",\"Cic. Fat. 28\"],\"notas\":\"Normalizada a conjugação (convalēscere) e marcado como intransitivo; supino ausente conforme entrada.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_6652-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_6652",
-    "page_num": 6652,
-    "lemmas": [
-      "convalesco",
-      "convalesco"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Grow strong; regain health or strength; become valid (legal sense).",
-    "exemplos": [],
-    "notas": "Entrada em inglês alinhada à forma latina convalēscō; mantida indicação intransitiva. | [dedupe] redirect → chunk_6654:6654:0 | [dedupe] redirect → chunk_6654:6654:0",
-    "raw_text": "{\"id\":\"chunk_6652:6652:1\",\"lemas\":[\"convalesco\",\"convalēscō\"],\"lema_canonico\":\"convalesco\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"Grow strong; regain health or strength; become valid (legal sense).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada em inglês alinhada à forma latina convalēscō; mantida indicação intransitiva.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_6652:6652:1\",\"lemas\":[\"convalesco\",\"convalēscō\"],\"lema_canonico\":\"convalesco\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"intr.\"],\"definicao\":\"Grow strong; regain health or strength; become valid (legal sense).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada em inglês alinhada à forma latina convalēscō; mantida indicação intransitiva.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
     "id": "chunk_6653-e1",
@@ -1408,28 +1122,6 @@
     "raw_json": "{\"id\":\"chunk_6655:6655:0\",\"lemas\":[\"convolsio\",\"convolsiō\",\"convolsiō, -ōnis\"],\"lema_canonico\":\"convolsio\",\"morfologia\":\"s. fem. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Deslocamento violento de parte do corpo; cãimbra, convulsão.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Substantivo registrado no Whitaker; forma e gênero normalizadas.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_6655-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_6655",
-    "page_num": 6655,
-    "lemmas": [
-      "con-volvo",
-      "con-volvo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Enrolar, envolver; embrulhar para carregar; (transitivo) fazer girar, mover ao redor.",
-    "exemplos": [],
-    "notas": "Corrigida leitura errônea de primeira passada (não é 1ª conj.); formas passado/supino normalizadas (convolvī, convolūtum). | [dedupe] redirect → chunk_6710:6710:0 | [dedupe] redirect → chunk_6710:6710:0 | [ocr_fix 2025-08-17T19:57:03Z] match direto em LS por lemma/lemma_norm | lemma_in='convolvo' → 'con-volvo'",
-    "raw_text": "{\"id\":\"chunk_6655:6655:1\",\"lemas\":[\"convolvo\",\"convolvere\",\"convolvō\"],\"lema_canonico\":\"convolvo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"Enrolar, envolver; embrulhar para carregar; (transitivo) fazer girar, mover ao redor.\",\"aliases\":[],\"exemplos\":[\"Ter. Phorm. 190\"],\"notas\":\"Corrigida leitura errônea de primeira passada (não é 1ª conj.); formas passado/supino normalizadas (convolvī, convolūtum).\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_6655:6655:1\",\"lemas\":[\"convolvo\",\"convolvere\",\"convolvō\"],\"lema_canonico\":\"convolvo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"Enrolar, envolver; embrulhar para carregar; (transitivo) fazer girar, mover ao redor.\",\"aliases\":[],\"exemplos\":[\"Ter. Phorm. 190\"],\"notas\":\"Corrigida leitura errônea de primeira passada (não é 1ª conj.); formas passado/supino normalizadas (convolvī, convolūtum).\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_6656-e1",
     "volume_id": "faria",
     "doc_name": "chunk_6656",
@@ -1474,28 +1166,6 @@
     "raw_json": "{\"id\":\"chunk_6657:6657:0\",\"lemas\":[\"convictor\"],\"lema_canonico\":\"convictor\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"aquele que convive com outrem; companheiro de mesa, amigo íntimo, messmate\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 10, 17, 1\",\"Cic. Fam. 16, 21, 5\",\"Hor. S. 1, 4, 96\",\"Hor. S. 1, 6, 47\",\"Plin. Ep. 2, 6, 4\",\"Sen. Ep. 7, 5\",\"Sen. Ira 3, 8, 2\",\"Suet. Vit. Hor.\"],\"notas\":\"Genitivo normalizado para -ōris; referências normalizadas segundo LS.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_6658-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_6658",
-    "page_num": 6658,
-    "lemmas": [
-      "conveho",
-      "conveho"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Transportar, conduzir; recolher, arrecadar, armazenar.",
-    "exemplos": [],
-    "notas": "Formas pessoais e supinas normalizadas (vēcī, vectum); marcado transitivo. | [dedupe] redirect → chunk_6682:6682:0 | [dedupe] redirect → chunk_6682:6682:0",
-    "raw_text": "{\"id\":\"chunk_6658:6658:0\",\"lemas\":[\"conveho\",\"convehō\",\"convehere\"],\"lema_canonico\":\"conveho\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"Transportar, conduzir; recolher, arrecadar, armazenar.\",\"aliases\":[],\"exemplos\":[\"Cés. B. Gal. 7, 74, 2\",\"Plin. H. Nat. 16, 35\"],\"notas\":\"Formas pessoais e supinas normalizadas (vēcī, vectum); marcado transitivo.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_6658:6658:0\",\"lemas\":[\"conveho\",\"convehō\",\"convehere\"],\"lema_canonico\":\"conveho\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"Transportar, conduzir; recolher, arrecadar, armazenar.\",\"aliases\":[],\"exemplos\":[\"Cés. B. Gal. 7, 74, 2\",\"Plin. H. Nat. 16, 35\"],\"notas\":\"Formas pessoais e supinas normalizadas (vēcī, vectum); marcado transitivo.\",\"flags\":[\"src_latdeu\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_6659-e1",
     "volume_id": "faria",
     "doc_name": "chunk_6659",
@@ -1516,28 +1186,6 @@
     "notas": "Entrada lexicalizada como forma perfeita; morfologia da forma finita não cabe no vocabulário de infinitivos (marcada em morph_extra).",
     "raw_text": "{\"id\":\"chunk_6659:6659:0\",\"lemas\":[\"conveni\"],\"lema_canonico\":\"conveni\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"perf. ind. 1ª sg.\"],\"definicao\":\"forma perfeita de convenio (convenīre): ‘reuni; encontrei; convenci’.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada lexicalizada como forma perfeita; morfologia da forma finita não cabe no vocabulário de infinitivos (marcada em morph_extra).\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}",
     "raw_json": "{\"id\":\"chunk_6659:6659:0\",\"lemas\":[\"conveni\"],\"lema_canonico\":\"conveni\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"perf. ind. 1ª sg.\"],\"definicao\":\"forma perfeita de convenio (convenīre): ‘reuni; encontrei; convenci’.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada lexicalizada como forma perfeita; morfologia da forma finita não cabe no vocabulário de infinitivos (marcada em morph_extra).\",\"flags\":[\"src_latdeu\",\"src_whitaker\",\"conf:high\",\"morph_out_of_vocab\"]}"
-  },
-  {
-    "id": "chunk_6659-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_6659",
-    "page_num": 6659,
-    "lemmas": [
-      "convellō",
-      "convellō"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "arrancar com violência; puxar com força; figurado: abalar, enfraquecer; destruir, demolir.",
-    "exemplos": [],
-    "notas": "Normalizado para convellō, convellere, convellī, convulsus conforme dicionários (variante convulsī atestada como rara). | [dedupe] redirect → chunk_6715:6715:0 | [dedupe] redirect → chunk_6715:6715:0",
-    "raw_text": "{\"id\":\"chunk_6659:6659:1\",\"lemas\":[\"convellō\",\"convello\"],\"lema_canonico\":\"convellō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"arrancar com violência; puxar com força; figurado: abalar, enfraquecer; destruir, demolir.\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 1, 77\",\"Cic. Verr. 4, 94\",\"Cic. Ch. 6\",\"Cic. Phil. 2, 83\"],\"notas\":\"Normalizado para convellō, convellere, convellī, convulsus conforme dicionários (variante convulsī atestada como rara).\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_6659:6659:1\",\"lemas\":[\"convellō\",\"convello\"],\"lema_canonico\":\"convellō\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"arrancar com violência; puxar com força; figurado: abalar, enfraquecer; destruir, demolir.\",\"aliases\":[],\"exemplos\":[\"Cic. Div. 1, 77\",\"Cic. Verr. 4, 94\",\"Cic. Ch. 6\",\"Cic. Phil. 2, 83\"],\"notas\":\"Normalizado para convellō, convellere, convellī, convulsus conforme dicionários (variante convulsī atestada como rara).\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_6660-e1",
@@ -1582,72 +1230,6 @@
     "notas": "Reconciliei variante gráfica 'convenam' com forma verbal 'conveniam' atestada; lema principal como infinitivo lema-base convenīre implícito. | [ocr_fix 2025-08-17T19:57:06Z] similaridade semântica FAISS (definição/gloss) + reranking por forma | lemma_in='conveniam' → 'convĕnībo'",
     "raw_text": "{\"id\":\"chunk_6660:6660:1\",\"lemas\":[\"conveniam\",\"convenam\"],\"lema_canonico\":\"conveniam\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"Forma verbal: 1ª p. sg. pres. subj. de convenio/convenīre — ‘que eu me junte/aconteça/convém’ (uso subjuntivo/optativo; também atestado como variante gráfica convenam).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Reconciliei variante gráfica 'convenam' com forma verbal 'conveniam' atestada; lema principal como infinitivo lema-base convenīre implícito.\",\"flags\":[\"src_latdeu\",\"conf:med\"]}",
     "raw_json": "{\"id\":\"chunk_6660:6660:1\",\"lemas\":[\"conveniam\",\"convenam\"],\"lema_canonico\":\"conveniam\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"Forma verbal: 1ª p. sg. pres. subj. de convenio/convenīre — ‘que eu me junte/aconteça/convém’ (uso subjuntivo/optativo; também atestado como variante gráfica convenam).\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Reconciliei variante gráfica 'convenam' com forma verbal 'conveniam' atestada; lema principal como infinitivo lema-base convenīre implícito.\",\"flags\":[\"src_latdeu\",\"conf:med\"]}"
-  },
-  {
-    "id": "chunk_6661-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_6661",
-    "page_num": 6661,
-    "lemmas": [
-      "convenio",
-      "convenio"
-    ],
-    "morfologia": "v. 4ª (-īre)",
-    "morph_render": "v. 4ª (-īre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "juntar‑se; reunir‑se; ajustar, concordar; ser adequado; encontrar; resultar (abrange sentidos de convenīre)",
-    "exemplos": [],
-    "notas": "Forma perf. attestada convēnī; entradas correlatas confirmadas por Whitaker e Lat→Deu. | [dedupe] redirect → chunk_6920:6920:1 | [dedupe] redirect → chunk_6920:6920:1",
-    "raw_text": "{\"id\":\"chunk_6661:6661:0\",\"lemas\":[\"convenio\"],\"lema_canonico\":\"convenio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"juntar‑se; reunir‑se; ajustar, concordar; ser adequado; encontrar; resultar (abrange sentidos de convenīre)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma perf. attestada convēnī; entradas correlatas confirmadas por Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_6661:6661:0\",\"lemas\":[\"convenio\"],\"lema_canonico\":\"convenio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"juntar‑se; reunir‑se; ajustar, concordar; ser adequado; encontrar; resultar (abrange sentidos de convenīre)\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Forma perf. attestada convēnī; entradas correlatas confirmadas por Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_6662-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_6662",
-    "page_num": 6662,
-    "lemmas": [
-      "convenio",
-      "convenio"
-    ],
-    "morfologia": "v. 4ª (-īre)",
-    "morph_render": "v. 4ª (-īre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "1) reunir‑se, vir juntamente; 2) concordar, ajustar‑se; 3) ser conveniente (impers.); 4) visitar/encontrar alguém (transitivo).",
-    "exemplos": [],
-    "notas": "Normalizado para convenio, convenīre, convēnī, conventum; usos com dat., cum + abl. e construções impersonais indicados. | [dedupe] redirect → chunk_6920:6920:1 | [dedupe] redirect → chunk_6920:6920:1",
-    "raw_text": "{\"id\":\"chunk_6662:6662:0\",\"lemas\":[\"convenio\",\"conveniō\"],\"lema_canonico\":\"convenio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"1) reunir‑se, vir juntamente; 2) concordar, ajustar‑se; 3) ser conveniente (impers.); 4) visitar/encontrar alguém (transitivo).\",\"aliases\":[],\"exemplos\":[\"Cic. Sest. 26\",\"Cic. Verr. 3, 114\",\"Cic. Or. 92\",\"Cic. Cat. 1, 4\",\"T. Liv. 1, 58, 6\"],\"notas\":\"Normalizado para convenio, convenīre, convēnī, conventum; usos com dat., cum + abl. e construções impersonais indicados.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_6662:6662:0\",\"lemas\":[\"convenio\",\"conveniō\"],\"lema_canonico\":\"convenio\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"1) reunir‑se, vir juntamente; 2) concordar, ajustar‑se; 3) ser conveniente (impers.); 4) visitar/encontrar alguém (transitivo).\",\"aliases\":[],\"exemplos\":[\"Cic. Sest. 26\",\"Cic. Verr. 3, 114\",\"Cic. Or. 92\",\"Cic. Cat. 1, 4\",\"T. Liv. 1, 58, 6\"],\"notas\":\"Normalizado para convenio, convenīre, convēnī, conventum; usos com dat., cum + abl. e construções impersonais indicados.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_6663-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_6663",
-    "page_num": 6663,
-    "lemmas": [
-      "contĭōnābundus",
-      "contĭōnābundus"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "gratificação de presença; dinheiro pago aos cidadãos pobres que assistem às assembleias (Cic. Rep. 3, 48).",
-    "exemplos": [],
-    "notas": "Forma atestada no OCR; falta confirmação em dicionários principais.\n[ocr_pipeline 2025-08-16T23:10:57.117763Z] lemma_in='convenium' → 'contĭōnābundus' | motivo: similaridade semântica FAISS (definição/gloss) | [dedupe] redirect → chunk_6574:6574:0 | [ocr_fix 2025-08-17T18:24:25Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='contĭōnābundus' → 'contĭōnābundus' | [dedupe] redirect → chunk_6574:6574:0",
-    "raw_text": "{\"id\":\"chunk_6663:6663:0\",\"lemas\":[\"convenium\"],\"lema_canonico\":\"convenium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"gratificação de presença; dinheiro pago aos cidadãos pobres que assistem às assembleias (Cic. Rep. 3, 48).\",\"aliases\":[],\"exemplos\":[\"Cic. Rep. 3, 48\"],\"notas\":\"Forma atestada no OCR; falta confirmação em dicionários principais.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_6663:6663:0\",\"lemas\":[\"convenium\"],\"lema_canonico\":\"convenium\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"gratificação de presença; dinheiro pago aos cidadãos pobres que assistem às assembleias (Cic. Rep. 3, 48).\",\"aliases\":[],\"exemplos\":[\"Cic. Rep. 3, 48\"],\"notas\":\"Forma atestada no OCR; falta confirmação em dicionários principais.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
   },
   {
     "id": "chunk_6664-e1",
@@ -1714,28 +1296,6 @@
     "notas": "Substantivo relacionado ao verbo convenio; forma e acepções confirmadas por LS/Whitaker.",
     "raw_text": "{\"id\":\"chunk_6666:6666:0\",\"lemas\":[\"conventum\"],\"lema_canonico\":\"conventum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"acordo, convénio, convenção; reunião, encontro\",\"aliases\":[],\"exemplos\":[\"Cic. Off. 1, 32\"],\"notas\":\"Substantivo relacionado ao verbo convenio; forma e acepções confirmadas por LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_6666:6666:0\",\"lemas\":[\"conventum\"],\"lema_canonico\":\"conventum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"acordo, convénio, convenção; reunião, encontro\",\"aliases\":[],\"exemplos\":[\"Cic. Off. 1, 32\"],\"notas\":\"Substantivo relacionado ao verbo convenio; forma e acepções confirmadas por LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_6667-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_6667",
-    "page_num": 6667,
-    "lemmas": [
-      "conventus",
-      "conventus"
-    ],
-    "morfologia": "s. masc. 4ª (-us)",
-    "morph_render": "s. masc. 4ª (-us)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "1. substantivo: reunião, assembleia; 2. distrito/constituição municipal (provincial); 3. sessão judiciária; 4. sin.: acordo, convenção. Também: part. perf. pass. de convenio.",
-    "exemplos": [],
-    "notas": "Entrada unifica uso como substantivo (4ª decl.) e como PPP de convenio. | [dedupe] redirect → chunk_6667:6667:2 | [dedupe] redirect → chunk_6667:6667:2",
-    "raw_text": "{\"id\":\"chunk_6667:6667:4\",\"lemas\":[\"conventus\"],\"lema_canonico\":\"conventus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"1. substantivo: reunião, assembleia; 2. distrito/constituição municipal (provincial); 3. sessão judiciária; 4. sin.: acordo, convenção. Também: part. perf. pass. de convenio.\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 4, 107\",\"Cic. Lig. 20\"],\"notas\":\"Entrada unifica uso como substantivo (4ª decl.) e como PPP de convenio.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_6667:6667:4\",\"lemas\":[\"conventus\"],\"lema_canonico\":\"conventus\",\"morfologia\":\"s. masc. 4ª (-us)\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"1. substantivo: reunião, assembleia; 2. distrito/constituição municipal (provincial); 3. sessão judiciária; 4. sin.: acordo, convenção. Também: part. perf. pass. de convenio.\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 4, 107\",\"Cic. Lig. 20\"],\"notas\":\"Entrada unifica uso como substantivo (4ª decl.) e como PPP de convenio.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_6667-e2",
@@ -2090,28 +1650,6 @@
     "raw_json": "{\"id\":\"chunk_6676:6676:0\",\"lemas\":[\"conversor\"],\"lema_canonico\":\"conversor\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"dep.\"],\"definicao\":\"verbo deponente 'conversor, conversari, conversatus sum': frequentar, viver com, associar-se; comportar-se, passar o tempo\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Normalizada a paradigma deponente conforme Lewis & Short e Whitaker\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_6677-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_6677",
-    "page_num": 6677,
-    "lemmas": [
-      "de",
-      "de"
-    ],
-    "morfologia": "prep. com abl.",
-    "morph_render": "prep. com abl.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "preposição com ablativo: de, desde, acerca de; 'down from, from, about, concerning'.",
-    "exemplos": [],
-    "notas": "Forma com macron (dē) registrada em LS; entrada tratada como preposição com ablativo. | [dedupe] redirect → chunk_27922:27922:0 | [dedupe] redirect → chunk_27922:27922:0",
-    "raw_text": "{\"id\":\"chunk_6677:6677:0\",\"lemas\":[\"de\",\"dē\"],\"lema_canonico\":\"de\",\"morfologia\":\"prep. com abl.\",\"morph_extra\":[],\"definicao\":\"preposição com ablativo: de, desde, acerca de; 'down from, from, about, concerning'.\",\"aliases\":[],\"exemplos\":[\"Sen. Ep. 32, 2\"],\"notas\":\"Forma com macron (dē) registrada em LS; entrada tratada como preposição com ablativo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_6677:6677:0\",\"lemas\":[\"de\",\"dē\"],\"lema_canonico\":\"de\",\"morfologia\":\"prep. com abl.\",\"morph_extra\":[],\"definicao\":\"preposição com ablativo: de, desde, acerca de; 'down from, from, about, concerning'.\",\"aliases\":[],\"exemplos\":[\"Sen. Ep. 32, 2\"],\"notas\":\"Forma com macron (dē) registrada em LS; entrada tratada como preposição com ablativo.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_6677-e2",
     "volume_id": "faria",
     "doc_name": "chunk_6677",
@@ -2200,28 +1738,6 @@
     "raw_json": "{\"id\":\"chunk_6679:6679:5\",\"lemas\":[\"converto\",\"convertere\",\"converti\",\"conversum\"],\"lema_canonico\":\"convertere\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\",\"intr.\"],\"definicao\":\"verter, voltar, virar; tornar, transformar; (refl.) voltar-se, converter-se; usar com obj. direto ou com ad/in/contra etc.\",\"aliases\":[],\"exemplos\":[\"Cic. Off. 3, 38\",\"Cic. Tusc. 3, 63\",\"Lucr. 1, 796\"],\"notas\":\"Normalizada a quadripa do verbo conforme fontes (convertere, convertō, convertī, conversum).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_6679-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_6679",
-    "page_num": 6679,
-    "lemmas": [
-      "converto",
-      "converto"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Forma de perfeito de converto (1ª pessoa do sing. do perf. ind. ativo): 'eu voltei/transformei/converti' dependendo do contexto.",
-    "exemplos": [],
-    "notas": "Entrada lexical de forma flexionada; indicada como forma perfeita de converto. Morfologia representada pela base verbal; se necessário, revisar para etiqueta morfológica específica. | [dedupe] redirect → chunk_6669:6669:0 | [dedupe] redirect → chunk_6669:6669:0 | [ocr_fix 2025-08-17T19:57:06Z] similaridade semântica FAISS (definição/gloss) + reranking por forma | lemma_in='converti' → 'converto'",
-    "raw_text": "{\"id\":\"chunk_6679:6679:6\",\"lemas\":[\"converti\"],\"lema_canonico\":\"converti\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Forma de perfeito de converto (1ª pessoa do sing. do perf. ind. ativo): 'eu voltei/transformei/converti' dependendo do contexto.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada lexical de forma flexionada; indicada como forma perfeita de converto. Morfologia representada pela base verbal; se necessário, revisar para etiqueta morfológica específica.\",\"flags\":[\"src_firstpass\",\"src_latdeu\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_6679:6679:6\",\"lemas\":[\"converti\"],\"lema_canonico\":\"converti\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Forma de perfeito de converto (1ª pessoa do sing. do perf. ind. ativo): 'eu voltei/transformei/converti' dependendo do contexto.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Entrada lexical de forma flexionada; indicada como forma perfeita de converto. Morfologia representada pela base verbal; se necessário, revisar para etiqueta morfológica específica.\",\"flags\":[\"src_firstpass\",\"src_latdeu\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_6679-e3",
     "volume_id": "faria",
     "doc_name": "chunk_6679",
@@ -2242,28 +1758,6 @@
     "notas": "Removida variante corrupta 'convortor'; mantida forma passiva medieval. Morfologia verbal finita representada pela forma infinitiva mais próxima; marcação adicional 'pass.' em morph_extra. | [ocr_fix 2025-08-17T02:39:38Z] match direto em LS por lemma/lemma_norm | lemma_in='convertor' → 'con-vertor'",
     "raw_text": "{\"id\":\"chunk_6679:6679:7\",\"lemas\":[\"convertor\",\"convertĭor\"],\"lema_canonico\":\"convertor\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"pass.\"],\"definicao\":\"Forma de presente passivo/reflexivo de convertere: 'sou convertido', 'volto-me'; atestada também em variantes medievais.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Removida variante corrupta 'convortor'; mantida forma passiva medieval. Morfologia verbal finita representada pela forma infinitiva mais próxima; marcação adicional 'pass.' em morph_extra.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"src_ls\",\"conf:low\",\"morph_out_of_vocab\"]}",
     "raw_json": "{\"id\":\"chunk_6679:6679:7\",\"lemas\":[\"convertor\",\"convertĭor\"],\"lema_canonico\":\"convertor\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"pass.\"],\"definicao\":\"Forma de presente passivo/reflexivo de convertere: 'sou convertido', 'volto-me'; atestada também em variantes medievais.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Removida variante corrupta 'convortor'; mantida forma passiva medieval. Morfologia verbal finita representada pela forma infinitiva mais próxima; marcação adicional 'pass.' em morph_extra.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"src_ls\",\"conf:low\",\"morph_out_of_vocab\"]}"
-  },
-  {
-    "id": "chunk_6679-e4",
-    "volume_id": "faria",
-    "doc_name": "chunk_6679",
-    "page_num": 6679,
-    "lemmas": [
-      "coma",
-      "coma"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Cabelo da cabeça; juba de animal; lã, folhagem; também, poeticamente, raios de luz.",
-    "exemplos": [],
-    "notas": "Unificado conforme Lewis & Short, Whitaker e Lat→Deu. | [dedupe] redirect → chunk_5579:5579:4 | [dedupe] redirect → chunk_5579:5579:4",
-    "raw_text": "{\"id\":\"chunk_6679:6679:0\",\"lemas\":[\"coma\"],\"lema_canonico\":\"coma\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Cabelo da cabeça; juba de animal; lã, folhagem; também, poeticamente, raios de luz.\",\"aliases\":[],\"exemplos\":[\"Ov. M. 7, 288\",\"Cic. Sest. 8, 18\",\"Hor. C. 1, 5, 4\"],\"notas\":\"Unificado conforme Lewis & Short, Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_6679:6679:0\",\"lemas\":[\"coma\"],\"lema_canonico\":\"coma\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Cabelo da cabeça; juba de animal; lã, folhagem; também, poeticamente, raios de luz.\",\"aliases\":[],\"exemplos\":[\"Ov. M. 7, 288\",\"Cic. Sest. 8, 18\",\"Hor. C. 1, 5, 4\"],\"notas\":\"Unificado conforme Lewis & Short, Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_6679-e5",
@@ -2330,28 +1824,6 @@
     "notas": "Grafia e sentido confirmados por Lewis & Short e Whitaker.",
     "raw_text": "{\"id\":\"chunk_6679:6679:3\",\"lemas\":[\"comma\"],\"lema_canonico\":\"comma\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Em gramática: divisão de um período; sinal de pontuação (vírgula); em verso, a cesura.\",\"aliases\":[],\"exemplos\":[\"Cic. Or. 62\",\"Quint. 1, 8, 6\"],\"notas\":\"Grafia e sentido confirmados por Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_6679:6679:3\",\"lemas\":[\"comma\"],\"lema_canonico\":\"comma\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Em gramática: divisão de um período; sinal de pontuação (vírgula); em verso, a cesura.\",\"aliases\":[],\"exemplos\":[\"Cic. Or. 62\",\"Quint. 1, 8, 6\"],\"notas\":\"Grafia e sentido confirmados por Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_6679-e8",
-    "volume_id": "faria",
-    "doc_name": "chunk_6679",
-    "page_num": 6679,
-    "lemmas": [
-      "contortor",
-      "contortor"
-    ],
-    "morfologia": "s. masc. 3ª (-is)",
-    "morph_render": "s. masc. 3ª (-is)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Aquele que contorce; no uso clássico, um \"twister\" ou pervertedor; também \"lutador\" em contexto dramático.",
-    "exemplos": [],
-    "notas": "Padronizado conforme Lewis & Short e Whitaker (contortor, contortōris). | [dedupe] redirect → chunk_6586:6586:0 | [dedupe] redirect → chunk_6586:6586:0",
-    "raw_text": "{\"id\":\"chunk_6679:6679:4\",\"lemas\":[\"contortor\"],\"lema_canonico\":\"contortor\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Aquele que contorce; no uso clássico, um \\\"twister\\\" ou pervertedor; também \\\"lutador\\\" em contexto dramático.\",\"aliases\":[],\"exemplos\":[\"Ter. Phorm. 2, 3, 27\"],\"notas\":\"Padronizado conforme Lewis & Short e Whitaker (contortor, contortōris).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_6679:6679:4\",\"lemas\":[\"contortor\"],\"lema_canonico\":\"contortor\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"Aquele que contorce; no uso clássico, um \\\"twister\\\" ou pervertedor; também \\\"lutador\\\" em contexto dramático.\",\"aliases\":[],\"exemplos\":[\"Ter. Phorm. 2, 3, 27\"],\"notas\":\"Padronizado conforme Lewis & Short e Whitaker (contortor, contortōris).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_6680-e1",
@@ -2486,28 +1958,6 @@
     "raw_json": "{\"id\":\"chunk_6684:6684:1\",\"lemas\":[\"convexus\",\"convexa\",\"convexum\"],\"lema_canonico\":\"convexus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"arqueado, abobadado; convexo, bem arredondado; aplicado a formas e abóbadas\",\"aliases\":[],\"exemplos\":[\"Verg. Aen. 4, 50\",\"Ov. Met. 6, 697\"],\"notas\":\"Adjetivo 1/2 confirmado; lemas variantes incluídas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_6685-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_6685",
-    "page_num": 6685,
-    "lemmas": [
-      "convexus",
-      "convexus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "convexo, arqueado, arredondado; curvado, inclinado (sentidos próprio e figurado).",
-    "exemplos": [],
-    "notas": "Levantado de formas e exemplos em LS e Whitaker; variantes coletadas. | [dedupe] redirect → chunk_6684:6684:1 | [dedupe] redirect → chunk_6684:6684:1",
-    "raw_text": "{\"id\":\"chunk_6685:6685:0\",\"lemas\":[\"convexus\",\"convexa\",\"convexum\"],\"lema_canonico\":\"convexus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"convexo, arqueado, arredondado; curvado, inclinado (sentidos próprio e figurado).\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 1, 26\",\"Verg. En. 11, 515\"],\"notas\":\"Levantado de formas e exemplos em LS e Whitaker; variantes coletadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_6685:6685:0\",\"lemas\":[\"convexus\",\"convexa\",\"convexum\"],\"lema_canonico\":\"convexus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"convexo, arqueado, arredondado; curvado, inclinado (sentidos próprio e figurado).\",\"aliases\":[],\"exemplos\":[\"Ov. Met. 1, 26\",\"Verg. En. 11, 515\"],\"notas\":\"Levantado de formas e exemplos em LS e Whitaker; variantes coletadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_6686-e1",
     "volume_id": "faria",
     "doc_name": "chunk_6686",
@@ -2550,28 +2000,6 @@
     "notas": "Grafia com diacríticos e citações alinhadas a Lewis & Short e Whitaker.",
     "raw_text": "{\"id\":\"chunk_6687:6687:0\",\"lemas\":[\"convīcĭātor\",\"conviciator\"],\"lema_canonico\":\"convīcĭātor\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"aquele que injuria, um caluniador; reviler, railer (raro)\",\"aliases\":[],\"exemplos\":[\"Cic. Mur. 6, 13\",\"Sen. Ira 3, 24, 1\",\"Suet. Tib. 11\"],\"notas\":\"Grafia com diacríticos e citações alinhadas a Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_6687:6687:0\",\"lemas\":[\"convīcĭātor\",\"conviciator\"],\"lema_canonico\":\"convīcĭātor\",\"morfologia\":\"s. masc. 3ª (-is)\",\"morph_extra\":[],\"definicao\":\"aquele que injuria, um caluniador; reviler, railer (raro)\",\"aliases\":[],\"exemplos\":[\"Cic. Mur. 6, 13\",\"Sen. Ira 3, 24, 1\",\"Suet. Tib. 11\"],\"notas\":\"Grafia com diacríticos e citações alinhadas a Lewis & Short e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_6688-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_6688",
-    "page_num": 6688,
-    "lemmas": [
-      "convicior",
-      "convicior"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "to revile, reproach, taunt, rail at (deponent)",
-    "exemplos": [],
-    "notas": "Normalizado como verbo deponente convīciārī (1ª conj.); sentido alinhado com LS. | [dedupe] redirect → chunk_6686:6686:0 | [dedupe] redirect → chunk_6686:6686:0",
-    "raw_text": "{\"id\":\"chunk_6688:6688:0\",\"lemas\":[\"convicior\",\"conviciari\"],\"lema_canonico\":\"convicior\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"dep.\",\"intr.\"],\"definicao\":\"to revile, reproach, taunt, rail at (deponent)\",\"aliases\":[],\"exemplos\":[\"Liv. 42, 31, 3\"],\"notas\":\"Normalizado como verbo deponente convīciārī (1ª conj.); sentido alinhado com LS.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_6688:6688:0\",\"lemas\":[\"convicior\",\"conviciari\"],\"lema_canonico\":\"convicior\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"dep.\",\"intr.\"],\"definicao\":\"to revile, reproach, taunt, rail at (deponent)\",\"aliases\":[],\"exemplos\":[\"Liv. 42, 31, 3\"],\"notas\":\"Normalizado como verbo deponente convīciārī (1ª conj.); sentido alinhado com LS.\",\"flags\":[\"src_ls\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_6689-e1",
@@ -2750,28 +2178,6 @@
     "raw_json": "{\"id\":\"chunk_6695:6695:0\",\"lemas\":[\"conviso\",\"convīsō\"],\"lema_canonico\":\"conviso\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Verbo transitivo (conviso, convīsō): examinar atentamente; visitar, contemplar; ‘consider or scan attentively’.\",\"aliases\":[],\"exemplos\":[\"Lucr. 2, 357\",\"Lucr. 879\"],\"notas\":\"Grafia com/sem macron ambas incluídas; sentidos confirmados por Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_6696-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_6696",
-    "page_num": 6696,
-    "lemmas": [
-      "conviva",
-      "conviva"
-    ],
-    "morfologia": "s. masc. 1ª (-ae)",
-    "morph_render": "s. masc. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Comensal; pessoa que participa de uma refeição, convidado.",
-    "exemplos": [],
-    "notas": "Forma attestada como m./f.; escolhido padrão 's. masc. 1ª (-ae)' por vocabulário morfológico. | [dedupe] redirect → chunk_6660:6660:0 | [dedupe] redirect → chunk_6660:6660:0",
-    "raw_text": "{\"id\":\"chunk_6696:6696:0\",\"lemas\":[\"conviva\"],\"lema_canonico\":\"conviva\",\"morfologia\":\"s. masc. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Comensal; pessoa que participa de uma refeição, convidado.\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 1, 3\"],\"notas\":\"Forma attestada como m./f.; escolhido padrão 's. masc. 1ª (-ae)' por vocabulário morfológico.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_6696:6696:0\",\"lemas\":[\"conviva\"],\"lema_canonico\":\"conviva\",\"morfologia\":\"s. masc. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"Comensal; pessoa que participa de uma refeição, convidado.\",\"aliases\":[],\"exemplos\":[\"Cic. Tusc. 1, 3\"],\"notas\":\"Forma attestada como m./f.; escolhido padrão 's. masc. 1ª (-ae)' por vocabulário morfológico.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_6697-e1",
     "volume_id": "faria",
     "doc_name": "chunk_6697",
@@ -2838,28 +2244,6 @@
     "raw_json": "{\"id\":\"chunk_6699:6699:0\",\"lemas\":[\"convivatus\"],\"lema_canonico\":\"convivatus\",\"morfologia\":\"s. indecl.\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"Particípio perfeito (deponente) de convivārī/convīvōr: 'tendo convivido; participante de banquetes, que viveu junto'.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Particípio de verbo deponente; morfologia real não cabe no vocabulário prescrito.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\",\"morph_out_of_vocab\"]}"
   },
   {
-    "id": "chunk_6699-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_6699",
-    "page_num": 6699,
-    "lemmas": [
-      "convivialis",
-      "convivialis"
-    ],
-    "morfologia": "adj. (3) 2T",
-    "morph_render": "adj. (3) 2T",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Relativo a convívio ou banquetes; convivencial, próprio de festas/banquetes.",
-    "exemplos": [],
-    "notas": "Forma listada com variante gráfica convīviālis; entrada alinhada com LS e Whitaker. | [dedupe] redirect → chunk_6697:6697:0 | [dedupe] redirect → chunk_6697:6697:0",
-    "raw_text": "{\"id\":\"chunk_6699:6699:1\",\"lemas\":[\"convivialis\"],\"lema_canonico\":\"convivialis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"Relativo a convívio ou banquetes; convivencial, próprio de festas/banquetes.\",\"aliases\":[],\"exemplos\":[\"Q. Cíc. Girc. 6, 2, 6\"],\"notas\":\"Forma listada com variante gráfica convīviālis; entrada alinhada com LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_6699:6699:1\",\"lemas\":[\"convivialis\"],\"lema_canonico\":\"convivialis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"Relativo a convívio ou banquetes; convivencial, próprio de festas/banquetes.\",\"aliases\":[],\"exemplos\":[\"Q. Cíc. Girc. 6, 2, 6\"],\"notas\":\"Forma listada com variante gráfica convīviālis; entrada alinhada com LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_6700-e1",
     "volume_id": "faria",
     "doc_name": "chunk_6700",
@@ -2902,28 +2286,6 @@
     "notas": "Eliminado leiturai OCR errônea que dava paradigma de 3ª conj.; confirmado como convīvo, -āre (LS, Whitaker).",
     "raw_text": "{\"id\":\"chunk_6701:6701:0\",\"lemas\":[\"convīvo\"],\"lema_canonico\":\"convīvo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"to live together; to feast, banquet (dine together)\",\"aliases\":[],\"exemplos\":[\"Petr. 57, 2\"],\"notas\":\"Eliminado leiturai OCR errônea que dava paradigma de 3ª conj.; confirmado como convīvo, -āre (LS, Whitaker).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_6701:6701:0\",\"lemas\":[\"convīvo\"],\"lema_canonico\":\"convīvo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"to live together; to feast, banquet (dine together)\",\"aliases\":[],\"exemplos\":[\"Petr. 57, 2\"],\"notas\":\"Eliminado leiturai OCR errônea que dava paradigma de 3ª conj.; confirmado como convīvo, -āre (LS, Whitaker).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_6702-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_6702",
-    "page_num": 6702,
-    "lemmas": [
-      "convīvo",
-      "convīvo"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "to live with, dwell with; to eat together, share a meal",
-    "exemplos": [],
-    "notas": "Corrigido paradigma OCR incorreto; entrada tratada como verbo da 1ª conjugação (LS/Whitaker). | [dedupe] redirect → chunk_6701:6701:0 | [dedupe] redirect → chunk_6701:6701:0",
-    "raw_text": "{\"id\":\"chunk_6702:6702:0\",\"lemas\":[\"convīvo\"],\"lema_canonico\":\"convīvo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"to live with, dwell with; to eat together, share a meal\",\"aliases\":[],\"exemplos\":[\"Sen. Contr. 9, 6, 15\",\"Quint. 1, 1, 44\"],\"notas\":\"Corrigido paradigma OCR incorreto; entrada tratada como verbo da 1ª conjugação (LS/Whitaker).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_6702:6702:0\",\"lemas\":[\"convīvo\"],\"lema_canonico\":\"convīvo\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"to live with, dwell with; to eat together, share a meal\",\"aliases\":[],\"exemplos\":[\"Sen. Contr. 9, 6, 15\",\"Quint. 1, 1, 44\"],\"notas\":\"Corrigido paradigma OCR incorreto; entrada tratada como verbo da 1ª conjugação (LS/Whitaker).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
     "id": "chunk_6703-e1",
@@ -3124,28 +2486,6 @@
     "raw_json": "{\"id\":\"chunk_6708:6708:0\",\"lemas\":[\"convolutus\",\"convoluta\",\"convolutum\"],\"lema_canonico\":\"convolutus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de convolvō: enrolado, revirado, envolto\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corresponde a convŏlūtus dos dicionários; restauração apoiada por LS e Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_6709-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_6709",
-    "page_num": 6709,
-    "lemmas": [
-      "convolvo",
-      "convolvo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Verbo 'convolvō, convolvere, convōlvī, convōlūtum'; 'convolvī' = perfeito 1ª sing. ativo: 'eu enrolei, envolvi, virei' etc.",
-    "exemplos": [],
-    "notas": "Entrada original era a forma perfeita; lemma normalizado para o presente infinitivo. | [dedupe] redirect → chunk_6710:6710:0 | [dedupe] redirect → chunk_6710:6710:0",
-    "raw_text": "{\"id\":\"chunk_6709:6709:0\",\"lemas\":[\"convolvo\"],\"lema_canonico\":\"convolvo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Verbo 'convolvō, convolvere, convōlvī, convōlūtum'; 'convolvī' = perfeito 1ª sing. ativo: 'eu enrolei, envolvi, virei' etc.\",\"aliases\":[\"convolvī\"],\"exemplos\":[],\"notas\":\"Entrada original era a forma perfeita; lemma normalizado para o presente infinitivo.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_6709:6709:0\",\"lemas\":[\"convolvo\"],\"lema_canonico\":\"convolvo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"Verbo 'convolvō, convolvere, convōlvī, convōlūtum'; 'convolvī' = perfeito 1ª sing. ativo: 'eu enrolei, envolvi, virei' etc.\",\"aliases\":[\"convolvī\"],\"exemplos\":[],\"notas\":\"Entrada original era a forma perfeita; lemma normalizado para o presente infinitivo.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_6710-e1",
     "volume_id": "faria",
     "doc_name": "chunk_6710",
@@ -3278,28 +2618,6 @@
     "raw_json": "{\"id\":\"chunk_6715:6715:0\",\"lemas\":[\"convello\",\"convellere\"],\"lema_canonico\":\"convello\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[],\"definicao\":\"verbo transitivo: arrancar, revolver, sacudir; também: quebrar, despedaçar, causar convulsão/torção.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Primeira passada listou a forma perf. 'convelli' — aqui o lema foi normalizado para convello; paradigma confirmado por Whitaker e Lat→Deu. A forma perf. convelli é indicada no corpo da entrada.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"src_ls\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_6716-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_6716",
-    "page_num": 6716,
-    "lemmas": [
-      "convulsus",
-      "convulsus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "particípio perfeito passivo de convellō; como adjetivo: deslocado, arrancado, convulsionado; resultado da ação de convellere.",
-    "exemplos": [],
-    "notas": "Corrigido e verificado com Lewis & Short e Lat→Deu; lemma e classificação como particípio/adjetivo confirmados. | [dedupe] redirect → chunk_6707:6707:1 | [dedupe] redirect → chunk_6707:6707:1",
-    "raw_text": "{\"id\":\"chunk_6716:6716:0\",\"lemas\":[\"convulsus\",\"convulsa\",\"convulsum\"],\"lema_canonico\":\"convulsus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de convellō; como adjetivo: deslocado, arrancado, convulsionado; resultado da ação de convellere.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigido e verificado com Lewis & Short e Lat→Deu; lemma e classificação como particípio/adjetivo confirmados.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_6716:6716:0\",\"lemas\":[\"convulsus\",\"convulsa\",\"convulsum\"],\"lema_canonico\":\"convulsus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de convellō; como adjetivo: deslocado, arrancado, convulsionado; resultado da ação de convellere.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Corrigido e verificado com Lewis & Short e Lat→Deu; lemma e classificação como particípio/adjetivo confirmados.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_6717-e1",
     "volume_id": "faria",
     "doc_name": "chunk_6717",
@@ -3320,28 +2638,6 @@
     "notas": "Forma atestada em fonte primaria (Plínio); possível relação a opericulum; necessita revisão lexicográfica.",
     "raw_text": "{\"id\":\"chunk_6717:6717:0\",\"lemas\":[\"coopericulum\"],\"lema_canonico\":\"coopericulum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"tampa; pequena cobertura (possivelmente variante de opericulum).\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 23, 109\"],\"notas\":\"Forma atestada em fonte primaria (Plínio); possível relação a opericulum; necessita revisão lexicográfica.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_6717:6717:0\",\"lemas\":[\"coopericulum\"],\"lema_canonico\":\"coopericulum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"tampa; pequena cobertura (possivelmente variante de opericulum).\",\"aliases\":[],\"exemplos\":[\"Plin. H. Nat. 23, 109\"],\"notas\":\"Forma atestada em fonte primaria (Plínio); possível relação a opericulum; necessita revisão lexicográfica.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_6718-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_6718",
-    "page_num": 6718,
-    "lemmas": [
-      "cŏŏpĕrĭo",
-      "cŏŏpĕrĭo"
-    ],
-    "morfologia": "v. 4ª (-īre)",
-    "morph_render": "v. 4ª (-īre)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Cobrir inteiramente; esconder, encobrir; enterrar, sobrecarregar (sentido próprio e figurado).",
-    "exemplos": [],
-    "notas": "Formas canónicas cooperiō, cooperīre, cooperuī, coopertus corroboradas por Whitaker e Lat→Deu. | [dedupe] redirect → chunk_6730:6730:1 | [dedupe] redirect → chunk_6730:6730:1 | [ocr_fix 2025-08-17T19:46:42Z] match direto em Gaffiot por lemma/lemma_norm | lemma_in='cooperiō' → 'cŏŏpĕrĭo'",
-    "raw_text": "{\"id\":\"chunk_6718:6718:0\",\"lemas\":[\"cooperiō\",\"cooperio\"],\"lema_canonico\":\"cooperiō\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"Cobrir inteiramente; esconder, encobrir; enterrar, sobrecarregar (sentido próprio e figurado).\",\"aliases\":[],\"exemplos\":[\"Cic. Off. 3, 48\",\"Cic. Phil. 12, 15\"],\"notas\":\"Formas canónicas cooperiō, cooperīre, cooperuī, coopertus corroboradas por Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_6718:6718:0\",\"lemas\":[\"cooperiō\",\"cooperio\"],\"lema_canonico\":\"cooperiō\",\"morfologia\":\"v. 4ª (-īre)\",\"morph_extra\":[],\"definicao\":\"Cobrir inteiramente; esconder, encobrir; enterrar, sobrecarregar (sentido próprio e figurado).\",\"aliases\":[],\"exemplos\":[\"Cic. Off. 3, 48\",\"Cic. Phil. 12, 15\"],\"notas\":\"Formas canónicas cooperiō, cooperīre, cooperuī, coopertus corroboradas por Whitaker e Lat→Deu.\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:med\"]}"
   },
   {
     "id": "chunk_6719-e1",
@@ -3430,28 +2726,6 @@
     "notas": "Conferido com Whitaker/Lat→Deu (cooptāre → cooptatus).",
     "raw_text": "{\"id\":\"chunk_6721:6721:0\",\"lemas\":[\"cooptatus\"],\"lema_canonico\":\"cooptatus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de cooptō/cooptāre: escolhido, eleito, cooptado.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Conferido com Whitaker/Lat→Deu (cooptāre → cooptatus).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_6721:6721:0\",\"lemas\":[\"cooptatus\"],\"lema_canonico\":\"cooptatus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[\"part. perf. pass.\"],\"definicao\":\"particípio perfeito passivo de cooptō/cooptāre: escolhido, eleito, cooptado.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Conferido com Whitaker/Lat→Deu (cooptāre → cooptatus).\",\"flags\":[\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_6722-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_6722",
-    "page_num": 6722,
-    "lemmas": [
-      "cooptō",
-      "cooptō"
-    ],
-    "morfologia": "v. 1ª (-āre)",
-    "morph_render": "v. 1ª (-āre)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Escolher por cooptação; admitir, eleger (complementar um corpo collegial).",
-    "exemplos": [],
-    "notas": "Formas e sentido confirmados por LS, Whitaker e Lat→Deu. | [dedupe] redirect → chunk_6720:6720:1 | [dedupe] redirect → chunk_6720:6720:1",
-    "raw_text": "{\"id\":\"chunk_6722:6722:0\",\"lemas\":[\"cooptō\",\"coopto\"],\"lema_canonico\":\"cooptō\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"Escolher por cooptação; admitir, eleger (complementar um corpo collegial).\",\"aliases\":[],\"exemplos\":[\"Cic. Vern. 1, 120\"],\"notas\":\"Formas e sentido confirmados por LS, Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_6722:6722:0\",\"lemas\":[\"cooptō\",\"coopto\"],\"lema_canonico\":\"cooptō\",\"morfologia\":\"v. 1ª (-āre)\",\"morph_extra\":[],\"definicao\":\"Escolher por cooptação; admitir, eleger (complementar um corpo collegial).\",\"aliases\":[],\"exemplos\":[\"Cic. Vern. 1, 120\"],\"notas\":\"Formas e sentido confirmados por LS, Whitaker e Lat→Deu.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
     "id": "chunk_6723-e1",
@@ -3872,28 +3146,6 @@
     "raw_json": "{\"id\":\"chunk_6738:6738:0\",\"lemas\":[\"corculum\",\"corculi\"],\"lema_canonico\":\"corculum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"pequeno coração; termo de carinho; também usado como cognome (p.ex. Scipio Nasica) e figura de sensatez/sagacidade\",\"aliases\":[],\"exemplos\":[\"Plaut. Most. 4, 2, 70\",\"Plaut. Cas. 4, 4, 14\",\"Cic. Tusc. 1, 9, 18\",\"Cic. Brut. 20, 70\",\"Plin. Nat. 7, 31, §118\",\"Paul. ex Fest. p. 61, 5 Müll.\"],\"notas\":\"Genero ajustado para neutro conforme Whitaker/LS; unificado lema canônico.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_6739-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_6739",
-    "page_num": 6739,
-    "lemmas": [
-      "corculum",
-      "corculum"
-    ],
-    "morfologia": "s. neut. 2ª (-i)",
-    "morph_render": "s. neut. 2ª (-i)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Diminutivo afetuoso de 'cor' — pequeno coração; termo de carinho; usado também como cognome.",
-    "exemplos": [],
-    "notas": "Unificado lema e morfologia conforme LS e Whitaker; citações padronizadas. | [dedupe] redirect → chunk_6738:6738:0 | [dedupe] redirect → chunk_6738:6738:0",
-    "raw_text": "{\"id\":\"chunk_6739:6739:0\",\"lemas\":[\"corculum\"],\"lema_canonico\":\"corculum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Diminutivo afetuoso de 'cor' — pequeno coração; termo de carinho; usado também como cognome.\",\"aliases\":[],\"exemplos\":[\"Plaut. Most. 4, 2, 70\",\"Plaut. Cas. 4, 4, 14\",\"Cic. Tusc. 1, 9, 18\",\"Plin. Nat. 7, 31, §118\"],\"notas\":\"Unificado lema e morfologia conforme LS e Whitaker; citações padronizadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
-    "raw_json": "{\"id\":\"chunk_6739:6739:0\",\"lemas\":[\"corculum\"],\"lema_canonico\":\"corculum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Diminutivo afetuoso de 'cor' — pequeno coração; termo de carinho; usado também como cognome.\",\"aliases\":[],\"exemplos\":[\"Plaut. Most. 4, 2, 70\",\"Plaut. Cas. 4, 4, 14\",\"Cic. Tusc. 1, 9, 18\",\"Plin. Nat. 7, 31, §118\"],\"notas\":\"Unificado lema e morfologia conforme LS e Whitaker; citações padronizadas.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
     "id": "chunk_6740-e1",
     "volume_id": "faria",
     "doc_name": "chunk_6740",
@@ -3958,28 +3210,6 @@
     "notas": "Sustentado pelo primeiro processamento; forma precisa necessita confirmação em dicionários principais.",
     "raw_text": "{\"id\":\"chunk_6742:6742:0\",\"lemas\":[\"Corcyreus\",\"Corcireus\"],\"lema_canonico\":\"Corcyreus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo a Corcyra (Corfu) ou ao mar Jônico.\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 6, 2, 10\"],\"notas\":\"Sustentado pelo primeiro processamento; forma precisa necessita confirmação em dicionários principais.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
     "raw_json": "{\"id\":\"chunk_6742:6742:0\",\"lemas\":[\"Corcyreus\",\"Corcireus\"],\"lema_canonico\":\"Corcyreus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Relativo a Corcyra (Corfu) ou ao mar Jônico.\",\"aliases\":[],\"exemplos\":[\"Cic. Att. 6, 2, 10\"],\"notas\":\"Sustentado pelo primeiro processamento; forma precisa necessita confirmação em dicionários principais.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
-    "id": "chunk_6743-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_6743",
-    "page_num": 6743,
-    "lemmas": [
-      "corda",
-      "corda"
-    ],
-    "morfologia": "s. fem. 1ª (-ae)",
-    "morph_render": "s. fem. 1ª (-ae)",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "",
-    "exemplos": [],
-    "notas": "Entrada remissiva: ver chorda (remissão presente em LS/Whitaker). | [ocr_fix 2025-08-17T19:46:47Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='corda' → 'corda'",
-    "raw_text": "{\"id\":\"chunk_6743:6743:0\",\"lemas\":[\"corda\"],\"lema_canonico\":\"corda\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"chorda\"],\"exemplos\":[],\"notas\":\"Entrada remissiva: ver chorda (remissão presente em LS/Whitaker).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:med\",\"redirect_only\"]}",
-    "raw_json": "{\"id\":\"chunk_6743:6743:0\",\"lemas\":[\"corda\"],\"lema_canonico\":\"corda\",\"morfologia\":\"s. fem. 1ª (-ae)\",\"morph_extra\":[],\"definicao\":\"\",\"aliases\":[\"chorda\"],\"exemplos\":[],\"notas\":\"Entrada remissiva: ver chorda (remissão presente em LS/Whitaker).\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:med\",\"redirect_only\"]}"
   },
   {
     "id": "chunk_6744-e1",
@@ -4686,28 +3916,6 @@
     "raw_json": "{\"id\":\"chunk_6775:6775:0\",\"lemas\":[\"Cornēlius\",\"Cornelius\"],\"lema_canonico\":\"Cornēlius\",\"morfologia\":\"s. masc. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"A Roman family name (nomen gentilicium) of the gens Cornelia.\",\"aliases\":[],\"exemplos\":[],\"notas\":\"Standardized to nomen form Cornēlius, genitive Cornēliī.\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}"
   },
   {
-    "id": "chunk_6776-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_6776",
-    "page_num": 6776,
-    "lemmas": [
-      "Cornēlĭus",
-      "Cornēlĭus"
-    ],
-    "morfologia": "adj. (1/2) -a, -um",
-    "morph_render": "adj. (1/2) -a, -um",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "Pertaining to the gens Cornelia; Cornelian, of or relating to Cornelius.",
-    "exemplos": [],
-    "notas": "Entry treated as adjectival (Lewis & Short records both adj. and related nomina). | [dedupe] redirect → chunk_6773:6773:0 | [dedupe] redirect → chunk_6773:6773:0 | [ocr_fix 2025-08-17T19:46:45Z] match direto em LS por lemma/lemma_norm | lemma_in='Cornēlĭus' → 'Cornēlĭus'",
-    "raw_text": "{\"id\":\"chunk_6776:6776:0\",\"lemas\":[\"Cornēlĭus\",\"Cornelius\"],\"lema_canonico\":\"Cornēlĭus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Pertaining to the gens Cornelia; Cornelian, of or relating to Cornelius.\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 1, 108\"],\"notas\":\"Entry treated as adjectival (Lewis & Short records both adj. and related nomina).\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}",
-    "raw_json": "{\"id\":\"chunk_6776:6776:0\",\"lemas\":[\"Cornēlĭus\",\"Cornelius\"],\"lema_canonico\":\"Cornēlĭus\",\"morfologia\":\"adj. (1/2) -a, -um\",\"morph_extra\":[],\"definicao\":\"Pertaining to the gens Cornelia; Cornelian, of or relating to Cornelius.\",\"aliases\":[],\"exemplos\":[\"Cic. Verr. 1, 108\"],\"notas\":\"Entry treated as adjectival (Lewis & Short records both adj. and related nomina).\",\"flags\":[\"src_ls\",\"src_firstpass\",\"conf:med\"]}"
-  },
-  {
     "id": "chunk_6777-e1",
     "volume_id": "faria",
     "doc_name": "chunk_6777",
@@ -5038,28 +4246,6 @@
     "raw_json": "{\"id\":\"chunk_6791:6791:0\",\"lemas\":[\"corporalis\"],\"lema_canonico\":\"corporalis\",\"morfologia\":\"adj. (3) 2T\",\"morph_extra\":[],\"definicao\":\"Relativo ao corpo; corporeal, material; usado freq. em juristas (também adv. corporaliter).\",\"aliases\":[],\"exemplos\":[\"Sen. Ep. 78, 22\"],\"notas\":\"Corresponde a corpŏrālis do LS e a corporalis do Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"src_latdeu\",\"conf:high\"]}"
   },
   {
-    "id": "chunk_6792-e1",
-    "volume_id": "faria",
-    "doc_name": "chunk_6792",
-    "page_num": 6792,
-    "lemmas": [
-      "corpŏrālis",
-      "corpŏrālis"
-    ],
-    "morfologia": "adv.",
-    "morph_render": "adv.",
-    "morph_extra": [],
-    "conf": "conf:high",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "materialmente (adv.); equiv. provável de 'corporiter'/'corporaliter' — sentido atestado no manuscrito citado.",
-    "exemplos": [],
-    "notas": "Forma no OCR è incerta; mantida forma do first_pass com variante normalizada 'corporiter'. Verificar lematização em fonte primária.\n[ocr_pipeline 2025-08-16T23:24:19.836269Z] lemma_in='corporilitêr' → 'corpŏrālis' | motivo: similaridade semântica FAISS (definição/gloss) | [dedupe] redirect → chunk_6791:6791:0 | [ocr_fix 2025-08-17T18:32:15Z] match direto em LS por lemma/lemma_norm; comprovado por Latin→German | lemma_in='corpŏrālis' → 'corpŏrālis' | [dedupe] redirect → chunk_6791:6791:0",
-    "raw_text": "{\"id\":\"chunk_6792:6792:0\",\"lemas\":[\"corporilitêr\",\"corporiter\"],\"lema_canonico\":\"corporilitêr\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"materialmente (adv.); equiv. provável de 'corporiter'/'corporaliter' — sentido atestado no manuscrito citado.\",\"aliases\":[\"corporiter\"],\"exemplos\":[\"Petr. 61, 7\"],\"notas\":\"Forma no OCR è incerta; mantida forma do first_pass com variante normalizada 'corporiter'. Verificar lematização em fonte primária.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_6792:6792:0\",\"lemas\":[\"corporilitêr\",\"corporiter\"],\"lema_canonico\":\"corporilitêr\",\"morfologia\":\"adv.\",\"morph_extra\":[],\"definicao\":\"materialmente (adv.); equiv. provável de 'corporiter'/'corporaliter' — sentido atestado no manuscrito citado.\",\"aliases\":[\"corporiter\"],\"exemplos\":[\"Petr. 61, 7\"],\"notas\":\"Forma no OCR è incerta; mantida forma do first_pass com variante normalizada 'corporiter'. Verificar lematização em fonte primária.\",\"flags\":[\"src_firstpass\",\"src_ocr\",\"conf:low\",\"needs_review\"]}"
-  },
-  {
     "id": "chunk_6793-e1",
     "volume_id": "faria",
     "doc_name": "chunk_6793",
@@ -5190,28 +4376,6 @@
     "notas": "Normalizado a partir do OCR e verificado com LS/Whitaker. | [ocr_fix 2025-08-19T22:05:29Z] Correção automática de lema via LS | lemma_in='corpusculum' → 'corpuscŭlum'",
     "raw_text": "{\"id\":\"chunk_6798:6798:0\",\"lemas\":[\"corpusculum\",\"corpusculi\"],\"lema_canonico\":\"corpusculum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Diminutivo de corpus: corpo pequeno, átomo; por extensão, corpo de criança; termo de afeição (pet-name).\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 1, 66\",\"Juven. 1, 173\",\"Plaut. Cas. 843\"],\"notas\":\"Normalizado a partir do OCR e verificado com LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}",
     "raw_json": "{\"id\":\"chunk_6798:6798:0\",\"lemas\":[\"corpusculum\",\"corpusculi\"],\"lema_canonico\":\"corpusculum\",\"morfologia\":\"s. neut. 2ª (-i)\",\"morph_extra\":[],\"definicao\":\"Diminutivo de corpus: corpo pequeno, átomo; por extensão, corpo de criança; termo de afeição (pet-name).\",\"aliases\":[],\"exemplos\":[\"Cic. Nat. 1, 66\",\"Juven. 1, 173\",\"Plaut. Cas. 843\"],\"notas\":\"Normalizado a partir do OCR e verificado com LS/Whitaker.\",\"flags\":[\"src_ls\",\"src_whitaker\",\"conf:high\"]}"
-  },
-  {
-    "id": "chunk_6798-e2",
-    "volume_id": "faria",
-    "doc_name": "chunk_6798",
-    "page_num": 6798,
-    "lemmas": [
-      "corrōdo",
-      "corrōdo"
-    ],
-    "morfologia": "v. 3ª (-ere)",
-    "morph_render": "v. 3ª (-ere)",
-    "morph_extra": [],
-    "conf": "conf:med",
-    "needs_review": 0,
-    "redirect_only": 1,
-    "morph_out_of_vocab": 0,
-    "definicao": "(trans.) To scrape or wear away; figuratively, to carry off as a sacrifice, plunder; to collect with difficulty (per Lucretius).",
-    "exemplos": [],
-    "notas": "Normalizada a partir do OCR; forma alternativa 'cornodio' atestada na fonte OCR mas exige verificação; sigla/autor 'Tuer. Lael.' não confirmada. | [dedupe] redirect → chunk_6820:6820:2 | [dedupe] redirect → chunk_6820:6820:2 | [ocr_fix 2025-08-17T19:57:08Z] match direto em Gaffiot por lemma/lemma_norm | lemma_in='corrodo' → 'corrōdo'",
-    "raw_text": "{\"id\":\"chunk_6798:6798:1\",\"lemas\":[\"corrodo\",\"corrodio\",\"cornodio\"],\"lema_canonico\":\"corrodo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"(trans.) To scrape or wear away; figuratively, to carry off as a sacrifice, plunder; to collect with difficulty (per Lucretius).\",\"aliases\":[],\"exemplos\":[\"Lucr. 6, 304\",\"Lucr. 1, 401\"],\"notas\":\"Normalizada a partir do OCR; forma alternativa 'cornodio' atestada na fonte OCR mas exige verificação; sigla/autor 'Tuer. Lael.' não confirmada.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"src_ocr\",\"conf:med\",\"needs_review\"]}",
-    "raw_json": "{\"id\":\"chunk_6798:6798:1\",\"lemas\":[\"corrodo\",\"corrodio\",\"cornodio\"],\"lema_canonico\":\"corrodo\",\"morfologia\":\"v. 3ª (-ere)\",\"morph_extra\":[\"tr.\"],\"definicao\":\"(trans.) To scrape or wear away; figuratively, to carry off as a sacrifice, plunder; to collect with difficulty (per Lucretius).\",\"aliases\":[],\"exemplos\":[\"Lucr. 6, 304\",\"Lucr. 1, 401\"],\"notas\":\"Normalizada a partir do OCR; forma alternativa 'cornodio' atestada na fonte OCR mas exige verificação; sigla/autor 'Tuer. Lael.' não confirmada.\",\"flags\":[\"src_whitaker\",\"src_firstpass\",\"src_ocr\",\"conf:med\",\"needs_review\"]}"
   },
   {
     "id": "chunk_6799-e1",
