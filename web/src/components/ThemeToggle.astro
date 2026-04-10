@@ -5,21 +5,44 @@
 </div>
 
 <script>
-  const buttons = Array.from(document.querySelectorAll(".theme-toggle button"));
-  const stored = localStorage.getItem("theme");
-  const valid = ["light", "dark", "auto"];
-  const preferred = valid.includes(stored) ? stored : "auto";
+  const buttons = Array.from(document.querySelectorAll(".theme-toggle button")) as HTMLButtonElement[];
+  const valid = ["light", "dark", "auto"] as const;
+  type Theme = typeof valid[number];
 
-  const apply = (theme) => {
-    document.documentElement.setAttribute("data-theme", theme);
-    localStorage.setItem("theme", theme);
-    buttons.forEach((btn) => btn.classList.toggle("active", btn.dataset.theme === theme));
-  };
+  function getChoice(): Theme {
+    const s = localStorage.getItem("theme");
+    return (valid as readonly string[]).includes(s ?? "") ? (s as Theme) : "auto";
+  }
 
-  // Initial apply respecting saved choice (or auto -> OS)
-  apply(preferred);
+  function applyTheme(choice: Theme) {
+    localStorage.setItem("theme", choice);
+    // Armazena a escolha para que outros scripts possam ler
+    document.documentElement.dataset.themeChoice = choice;
+
+    // Calcula o tema visual efectivo
+    const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+    const effective: Theme =
+      choice === "auto" ? (prefersDark ? "dark" : "light") : choice;
+    document.documentElement.setAttribute("data-theme", effective);
+
+    // Marca o botão correspondente à *escolha*, não ao tema efectivo
+    buttons.forEach((btn) =>
+      btn.classList.toggle("active", btn.dataset.theme === choice)
+    );
+  }
+
+  // Lê a escolha guardada (o script inline no <head> já aplicou o tema visual,
+  // aqui só actualizamos os botões)
+  applyTheme(getChoice());
 
   buttons.forEach((btn) => {
-    btn.addEventListener("click", () => apply(btn.dataset.theme));
+    btn.addEventListener("click", () => applyTheme(btn.dataset.theme as Theme));
   });
+
+  // Reage a mudanças do sistema operativo quando em modo "auto"
+  window
+    .matchMedia("(prefers-color-scheme: dark)")
+    .addEventListener("change", () => {
+      if (getChoice() === "auto") applyTheme("auto");
+    });
 </script>

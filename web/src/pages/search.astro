@@ -16,19 +16,19 @@ const dataBase = `${baseWithSlash}data`;
   <div class="layout-grid">
     <FiltersPanel loading={true} />
 
-    <section aria-label="Resultados" class="panel" style="display:flex;flex-direction:column;gap:var(--space-4);">
-      <header style="display:flex;justify-content:space-between;align-items:center;gap:var(--space-3);flex-wrap:wrap;">
+    <section aria-label="Resultados" class="panel results-panel">
+      <header class="results-header">
         <div>
-          <p style="margin:0;color:var(--color-muted);">Busca estática (Pagefind)</p>
-          <h1 style="margin:0;">Resultados</h1>
+          <p class="muted results-header-label">Busca estática (Pagefind)</p>
+          <h1 class="results-header-title">Resultados</h1>
         </div>
-        <div style="display:flex;align-items:center;gap:var(--space-2);flex-wrap:wrap;">
+        <div class="results-controls">
           <label class="sr-only" for="search-box">Buscar</label>
-          <input id="search-box" class="input" type="search" placeholder="Buscar..." list="suggestions" style="min-width:240px;" />
+          <input id="search-box" class="input search-input" type="search" placeholder="Buscar verbete…" list="suggestions" autocomplete="off" />
           <datalist id="suggestions"></datalist>
 
-          <label for="page-size" style="font-size:0.9rem;color:var(--color-muted);">Itens:</label>
-          <select id="page-size" class="input" style="width:auto;">
+          <label for="page-size" class="muted page-size-label">Itens por página:</label>
+          <select id="page-size" class="input page-size-select">
             <option value="10">10</option>
             <option value="25" selected>25</option>
             <option value="50">50</option>
@@ -37,8 +37,8 @@ const dataBase = `${baseWithSlash}data`;
         </div>
       </header>
 
-      <div id="results" class="results-list" aria-live="polite">
-        <p class="muted">Carregando índice...</p>
+      <div id="results" class="results-list" aria-live="polite" aria-atomic="false">
+        <p class="muted">Carregando índice…</p>
       </div>
     </section>
   </div>
@@ -61,14 +61,14 @@ const dataBase = `${baseWithSlash}data`;
       term: "",
       pageSize: 25,
       page: 1,
-      filters: {}, // volume_id, morfologia, morph_render, first_letter, page_bucket, conf, needs_review
+      filters: {}, // volume_id, morfologia, morph_render, first_letter, conf, needs_review
     };
 
     function qsParamsToState() {
       const params = new URLSearchParams(window.location.search);
       state.term = params.get("term") || "";
       state.pageSize = parseInt(params.get("pageSize") || "25", 10) || 25;
-      ["volume_id", "morfologia", "morph_render", "first_letter", "page_bucket", "conf", "needs_review"].forEach((key) => {
+      ["volume_id", "morfologia", "morph_render", "first_letter", "conf", "needs_review"].forEach((key) => {
         const vals = params.getAll(key);
         if (vals.length) state.filters[key] = vals;
       });
@@ -89,20 +89,17 @@ const dataBase = `${baseWithSlash}data`;
     searchBox.value = state.term;
     pageSizeSel.value = String(state.pageSize);
 
-    let pagefindInstance = null;
     let pagefindPromise = null;
 
     const basePath = assetBase.endsWith("/") ? assetBase.slice(0, -1) : assetBase;
 
-    async function ensurePagefind() {
-      if (pagefindInstance) return pagefindInstance;
-      if (pagefindPromise) return pagefindPromise;
-      pagefindPromise = (async () => {
-        const mod = await import(`${assetBase}pagefind/pagefind.js`);
-        return mod?.default || mod?.pagefind || mod;
-      })();
-      pagefindInstance = await pagefindPromise;
-      return pagefindInstance;
+    function ensurePagefind() {
+      if (!pagefindPromise) {
+        pagefindPromise = import(`${assetBase}pagefind/pagefind.js`)
+          .then((mod) => mod?.default || mod?.pagefind || mod)
+          .catch((err) => { pagefindPromise = null; throw err; });
+      }
+      return pagefindPromise;
     }
 
     function normalizeUrl(raw) {
@@ -192,23 +189,9 @@ const dataBase = `${baseWithSlash}data`;
 
         // Página
         const volMeta = await fetch(`${assetBase}${volumes.find((v) => v.id === volSelect.value).meta_url}`).then((r) => r.json());
-        const pageInputs = document.createElement("div");
-        pageInputs.className = "two-col";
-        const minInput = document.createElement("input");
-        minInput.type = "number";
-        minInput.className = "input";
-        minInput.value = volMeta.page_min ?? 0;
-        const maxInput = document.createElement("input");
-        maxInput.type = "number";
-        maxInput.className = "input";
-        maxInput.value = volMeta.page_max ?? 0;
-        minInput.id = "page-min";
-        maxInput.id = "page-max";
-        pageInputs.appendChild(minInput);
-        pageInputs.appendChild(maxInput);
+        // Sem páginas neste build
 
         filtersRoot.innerHTML = "";
-        filtersRoot.replaceWith(filtersRoot); // ensure cleared
 
         const panel = document.querySelector("aside[aria-label='Filtros']");
         panel.innerHTML = `
@@ -243,20 +226,17 @@ const dataBase = `${baseWithSlash}data`;
         secLetra.appendChild(lettersWrap);
         stack.appendChild(secLetra);
 
-        const secPag = document.createElement("section");
-        secPag.innerHTML = `<h3 style="margin:0 0 var(--space-2);">Faixa de página</h3>`;
-        secPag.appendChild(pageInputs);
-        stack.appendChild(secPag);
+        // páginas removidas
 
         // Sugestões
         topLemmas = await fetch(`${assetBase}data/${volSelect.value}/dict/lemmas-top.json`).then((r) => r.json()).then((d) => d.items || []);
 
         // Bind events
-        volSelect.addEventListener("change", () => {
-          state.filters.volume_id = [volSelect.value];
+        volSelect.addEventListener("change", async () => {
+          state.filters = { volume_id: [volSelect.value] };
           state.page = 1;
           syncUrl();
-          loadFilters(); // reload dependent filters for new volume
+          await loadFilters(); // aguarda antes de renderizar com os novos filtros
           render();
         });
 
@@ -275,9 +255,14 @@ const dataBase = `${baseWithSlash}data`;
         letterNodes = Array.from(lettersWrap.querySelectorAll("button.chip"));
         letterNodes.forEach((btn) =>
           btn.addEventListener("click", () => {
+            const isActive = btn.classList.contains("active");
             letterNodes.forEach((b) => b.classList.remove("active"));
-            btn.classList.add("active");
-            state.filters.first_letter = [btn.dataset.letter];
+            if (!isActive) {
+              btn.classList.add("active");
+              state.filters.first_letter = [btn.dataset.letter];
+            } else {
+              delete state.filters.first_letter;
+            }
             state.page = 1;
             syncUrl();
             render();
@@ -301,38 +286,22 @@ const dataBase = `${baseWithSlash}data`;
           render();
         });
 
-        minInput.addEventListener("input", () => {
-          updatePageBuckets(minInput.value, maxInput.value);
-        });
-        maxInput.addEventListener("input", () => {
-          updatePageBuckets(minInput.value, maxInput.value);
-        });
-
-        document.getElementById("clear-filters").addEventListener("click", () => {
-          state.filters = { volume_id: [volSelect.value] };
+        document.getElementById("clear-filters").addEventListener("click", async () => {
+          state.filters = {};
+          state.term = "";
+          state.pageSize = 25;
+          state.page = 1;
           searchBox.value = "";
           pageSizeSel.value = "25";
-          state.page = 1;
           syncUrl();
-          loadFilters();
+          await loadFilters();
           render();
         });
-      } catch (err) {
-        filtersRoot.innerHTML = '<p class="muted" style="margin:0;">Filtros indisponíveis.</p>';
-        console.error(err);
-      }
+    } catch (err) {
+      filtersRoot.innerHTML = '<p class="muted" style="margin:0;">Filtros indisponíveis.</p>';
+      console.error(err);
     }
-
-    function updatePageBuckets(min, max) {
-      const start = Math.floor((Number(min) || 0) / 100);
-      const end = Math.floor((Number(max) || 0) / 100);
-      const buckets = [];
-      for (let i = start; i <= end; i++) buckets.push(String(i));
-      if (buckets.length) state.filters.page_bucket = buckets;
-      else delete state.filters.page_bucket;
-      state.page = 1;
-      syncUrl();
-    }
+  }
 
     function updateSuggestions() {
       const term = (searchBox.value || "").toLowerCase();
@@ -351,7 +320,13 @@ const dataBase = `${baseWithSlash}data`;
       const filters = { ...state.filters };
       const pageSize = state.pageSize || 25;
       const noCriteria = term === "" && Object.keys(filters).length === 0;
-      resultsEl.innerHTML = `<p class="muted">Buscando...</p>`;
+
+      // Mostra estado de carregamento
+      resultsEl.innerHTML = "";
+      const loadingP = document.createElement("p");
+      loadingP.className = "muted";
+      loadingP.textContent = "Buscando…";
+      resultsEl.appendChild(loadingP);
 
       try {
         const pf = await ensurePagefind();
@@ -372,53 +347,66 @@ const dataBase = `${baseWithSlash}data`;
         list.className = "results-list";
 
         if (noCriteria && totalResults === 0) {
-          resultsEl.innerHTML = `<p class="muted">Nenhum índice carregado.</p>`;
+          resultsEl.innerHTML = "";
+          const p = document.createElement("p");
+          p.className = "muted";
+          p.textContent = "Nenhum índice carregado.";
+          resultsEl.appendChild(p);
           return;
         }
 
         if (noCriteria) {
-          // paginação manual (não carrega todos os data())
+          // Paginação manual (não carrega todos os data() de uma vez)
           const totalPages = Math.max(1, Math.ceil(totalResults / pageSize));
           state.page = Math.min(Math.max(1, state.page), totalPages);
           const start = (state.page - 1) * pageSize;
           const end = Math.min(start + pageSize, totalResults);
           const slice = res.results.slice(start, end);
           const hits = await Promise.all(slice.map((r) => r.data()));
-          hits.sort((a, b) => (a.meta?.lemmas || "").localeCompare(b.meta?.lemmas || ""));
+          hits.sort((a, b) => (a.meta?.lemmas || "").localeCompare(b.meta?.lemmas || "", "pt"));
 
           const info = document.createElement("div");
           info.className = "pagination";
-          info.innerHTML = `
-            <span>Listando ${start + 1}–${end} de ${totalResults} verbetes (ordem alfabética)</span>
-            <div style="display:flex;gap:0.5rem;">
-              <button id="page-prev" ${state.page === 1 ? "disabled" : ""}>Anterior</button>
-              <span>Página ${state.page}/${totalPages}</span>
-              <button id="page-next" ${state.page === totalPages ? "disabled" : ""}>Próxima</button>
-            </div>
-          `;
+
+          const summary = document.createElement("span");
+          summary.textContent = `Listando ${start + 1}–${end} de ${totalResults} verbetes (ordem alfabética)`;
+          info.appendChild(summary);
+
+          const navDiv = document.createElement("div");
+          navDiv.style.display = "flex";
+          navDiv.style.gap = "0.5rem";
+          navDiv.style.alignItems = "center";
+
+          const prevBtn = document.createElement("button");
+          prevBtn.textContent = "← Anterior";
+          prevBtn.disabled = state.page === 1;
+          prevBtn.setAttribute("aria-label", "Página anterior");
+
+          const pageSpan = document.createElement("span");
+          pageSpan.textContent = `Página ${state.page}/${totalPages}`;
+
+          const nextBtn = document.createElement("button");
+          nextBtn.textContent = "Próxima →";
+          nextBtn.disabled = state.page === totalPages;
+          nextBtn.setAttribute("aria-label", "Próxima página");
+
+          prevBtn.addEventListener("click", () => { state.page = Math.max(1, state.page - 1); render(); });
+          nextBtn.addEventListener("click", () => { state.page = Math.min(totalPages, state.page + 1); render(); });
+
+          navDiv.appendChild(prevBtn);
+          navDiv.appendChild(pageSpan);
+          navDiv.appendChild(nextBtn);
+          info.appendChild(navDiv);
           list.appendChild(info);
 
-          hits.forEach((hit) => {
-            list.appendChild(renderCard(hit));
-          });
+          hits.forEach((hit) => list.appendChild(renderCard(hit)));
 
           resultsEl.innerHTML = "";
           resultsEl.appendChild(list);
-
-          const prev = document.getElementById("page-prev");
-          const next = document.getElementById("page-next");
-          prev?.addEventListener("click", () => {
-            state.page = Math.max(1, state.page - 1);
-            render();
-          });
-          next?.addEventListener("click", () => {
-            state.page = Math.min(totalPages, state.page + 1);
-            render();
-          });
           return;
         }
 
-        // comportamento normal (com termo ou filtros)
+        // Busca com termo ou filtros
         let hits = await Promise.all(res.results.map((r) => r.data()));
         const total = hits.length;
         let truncated = false;
@@ -427,7 +415,11 @@ const dataBase = `${baseWithSlash}data`;
           truncated = true;
         }
         if (!hits.length) {
-          resultsEl.innerHTML = `<p class="muted">Nenhum resultado.</p>`;
+          resultsEl.innerHTML = "";
+          const p = document.createElement("p");
+          p.className = "muted";
+          p.textContent = "Nenhum resultado.";
+          resultsEl.appendChild(p);
           return;
         }
 
@@ -438,15 +430,13 @@ const dataBase = `${baseWithSlash}data`;
           list.appendChild(info);
         }
 
-        hits.forEach((hit) => {
-          list.appendChild(renderCard(hit));
-        });
+        hits.forEach((hit) => list.appendChild(renderCard(hit)));
 
         resultsEl.innerHTML = "";
         resultsEl.appendChild(list);
       } catch (err) {
         console.error(err);
-        resultsEl.textContent = "Erro ao buscar.";
+        resultsEl.textContent = "Erro ao buscar. Verifique o console.";
       }
     }
 
@@ -466,14 +456,19 @@ const dataBase = `${baseWithSlash}data`;
       meta.className = "result-meta";
       if (hit.meta?.morfologia) {
         const b = document.createElement("span");
-        b.className = "badge";
+        b.className = "badge badge--clickable";
         b.textContent = hit.meta.morfologia;
-        b.onclick = () => {
+        b.title = "filtrar por esta morfologia";
+        b.setAttribute("role", "button");
+        b.setAttribute("tabindex", "0");
+        const filterByMorf = () => {
           state.filters.morfologia = [hit.meta.morfologia];
           state.page = 1;
           syncUrl();
           render();
         };
+        b.addEventListener("click", filterByMorf);
+        b.addEventListener("keydown", (e) => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); filterByMorf(); } });
         meta.appendChild(b);
       }
       if (hit.meta?.conf) {
@@ -481,6 +476,13 @@ const dataBase = `${baseWithSlash}data`;
         b.className = "badge";
         b.textContent = hit.meta.conf;
         b.title = "nível de confiança";
+        meta.appendChild(b);
+      }
+      if (hit.meta?.gloss_lang) {
+        const b = document.createElement("span");
+        b.className = "badge";
+        b.textContent = hit.meta.gloss_lang;
+        b.title = "idioma da definição";
         meta.appendChild(b);
       }
       if (hit.meta?.needs_review === "1") {
@@ -496,12 +498,7 @@ const dataBase = `${baseWithSlash}data`;
         b.textContent = "↪ remissiva";
         meta.appendChild(b);
       }
-      if (hit.meta?.page_num) {
-        const b = document.createElement("span");
-        b.className = "badge";
-        b.textContent = `p. ${hit.meta.page_num}`;
-        meta.appendChild(b);
-      }
+      // página removida neste build
       const vol = document.createElement("span");
       vol.className = "muted";
       vol.textContent = hit.meta?.volume_id || "";
@@ -509,27 +506,39 @@ const dataBase = `${baseWithSlash}data`;
       card.appendChild(meta);
 
       const snip = document.createElement("p");
-      snip.className = "muted";
-      snip.innerHTML = hit.excerpt || hit.content?.slice(0, 180) || "";
+      snip.className = "result-excerpt muted";
+      // hit.excerpt contém <mark> para highlight — é gerado pelo Pagefind (conteúdo interno confiável)
+      if (hit.excerpt) {
+        snip.innerHTML = hit.excerpt;
+      } else {
+        snip.textContent = (hit.content || "").slice(0, 180);
+      }
       card.appendChild(snip);
       return card;
     }
 
-    function handleTermInput() {
+    let debounceTimer = null;
+
+    function handleTermInput(immediate = false) {
       state.term = searchBox.value;
       state.page = 1;
       syncUrl();
       updateSuggestions();
-      render();
+      clearTimeout(debounceTimer);
+      if (immediate) {
+        render();
+      } else {
+        debounceTimer = setTimeout(render, 250);
+      }
     }
 
     searchBox.addEventListener("input", () => {
-      handleTermInput();
+      handleTermInput(false);
     });
     searchBox.addEventListener("keydown", (e) => {
       if (e.key === "Enter") {
         e.preventDefault();
-        handleTermInput();
+        handleTermInput(true);
       }
     });
     pageSizeSel.addEventListener("change", () => {

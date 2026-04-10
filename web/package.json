@@ -14,11 +14,12 @@
     "data:all": "npm run data:shards && npm run data:render && npm run search:index"
   },
   "dependencies": {
+    "@astrojs/check": "^0.9.8",
     "astro": "^5.18.0",
     "pagefind": "^1.0.0"
   },
   "devDependencies": {
     "@types/node": "^20.11.30",
-    "typescript": "^5.3.3"
+    "typescript": "^5.9.3"
   }
 }

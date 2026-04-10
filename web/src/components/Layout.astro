@@ -18,13 +18,29 @@ const { title = "Dicionários", description = "", breadcrumbs = [] } = Astro.pro
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{title}</title>
     {description && <meta name="description" content={description} />}
+    <!-- Script bloqueante: aplica tema antes do primeiro paint para evitar FOUC -->
+    <script is:inline>
+      (function () {
+        try {
+          const t = localStorage.getItem("theme");
+          const valid = ["light", "dark", "auto"];
+          const theme = valid.includes(t) ? t : "auto";
+          // Armazena a escolha do utilizador para o ThemeToggle lê-la
+          document.documentElement.dataset.themeChoice = theme;
+          // Aplica o tema visual efectivo
+          const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+          const effective = theme === "auto" ? (prefersDark ? "dark" : "light") : theme;
+          document.documentElement.setAttribute("data-theme", effective);
+        } catch (_) {}
+      })();
+    </script>
     <slot name="head" />
   </head>
-  <body data-theme="auto">
+  <body>
     <a class="skip-link" href="#conteudo">Pular para o conteúdo</a>
-    <div style="display:flex;justify-content:flex-end;padding:var(--space-3) var(--space-4);">
+    <header class="site-header">
       <ThemeToggle />
-    </div>
+    </header>
     <main id="conteudo" class="page">
       <div class="banner" role="status">
         <span aria-hidden="true">⚠️</span>

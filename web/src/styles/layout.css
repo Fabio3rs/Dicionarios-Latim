@@ -1,8 +1,99 @@
-.page {
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: var(--space-6) var(--space-4) var(--space-7);
+/* ── Site header ──────────────────────────────────── */
+.site-header {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: var(--space-3) var(--space-4);
+  border-bottom: 1px solid var(--color-border);
+  background: var(--color-surface);
+  position: sticky;
+  top: 0;
+  z-index: 20;
 }
+
+/* ── Página inicial (index) ───────────────────────── */
+.hero-card {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+}
+.hero-label { margin: 0; }
+.hero-title {
+  margin: 0;
+  font-family: var(--font-serif);
+  line-height: 1.25;
+}
+.hero-desc { max-width: 70ch; margin: 0; }
+.hero-actions {
+  display: flex;
+  gap: var(--space-3);
+  flex-wrap: wrap;
+  margin-top: var(--space-2);
+}
+
+.stats-section { margin-top: var(--space-5); }
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: var(--space-4);
+  text-align: center;
+}
+.stat-item { padding: var(--space-3); }
+.stat-value {
+  margin: 0 0 var(--space-1);
+  font-size: 2rem;
+  color: var(--color-accent);
+}
+.stat-label { margin: 0; color: var(--color-muted); font-size: 0.95rem; }
+
+.start-points-section { margin-top: var(--space-5); }
+.start-points-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: var(--space-3);
+  flex-wrap: wrap;
+  margin-bottom: var(--space-4);
+}
+.start-points-label { margin: 0; }
+.start-points-title {
+  margin: 0;
+  font-family: var(--font-serif);
+}
+.start-points-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: var(--space-4);
+}
+.start-points-category { margin-top: 0; }
+
+/* ── Página de busca ──────────────────────────────── */
+.results-panel {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-4);
+  min-width: 0; /* evita overflow no grid */
+}
+.results-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: var(--space-3);
+  flex-wrap: wrap;
+}
+.results-header-label { margin: 0; }
+.results-header-title { margin: 0; }
+.results-controls {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  flex-wrap: wrap;
+}
+.search-input { min-width: 220px; }
+.page-size-label { font-size: 0.9rem; white-space: nowrap; }
+.page-size-select { width: auto; min-width: 80px; }
+
+/* ─────────────────────────────────────────────────── */
 
 .page-narrow {
   max-width: 900px;
@@ -185,8 +276,64 @@ textarea:focus {
   border: 1px solid var(--color-border);
   font-size: 0.9rem;
 }
+.badge--clickable {
+  cursor: pointer;
+  transition: background 0.15s, border-color 0.15s;
+}
+.badge--clickable:hover,
+.badge--clickable:focus-visible {
+  background: var(--color-accent);
+  color: #fff;
+  border-color: var(--color-accent);
+  outline: none;
+}
 
 .muted { color: var(--color-muted); }
+
+/* ── Viewer: verbete ─────────────────────────────── */
+.entry-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: var(--space-3);
+  flex-wrap: wrap;
+}
+.entry-meta-line { margin: 0; }
+.entry-title { margin: var(--space-1) 0; }
+.entry-actions {
+  display: flex;
+  gap: var(--space-2);
+  flex-shrink: 0;
+}
+.entry-body {
+  margin-top: var(--space-4);
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-4);
+}
+.entry-section-title { margin: 0 0 var(--space-2); }
+.pill--warn {
+  background: var(--color-warning);
+  color: #000;
+  border-color: var(--color-warning);
+}
+.raw-pre {
+  white-space: pre-wrap;
+  background: var(--color-surface-muted);
+  color: var(--color-ink);
+  padding: var(--space-3);
+  border-radius: var(--radius-s);
+  border: 1px solid var(--color-border);
+  margin-top: var(--space-2);
+  font-size: 0.9rem;
+  overflow-x: auto;
+}
+.result-excerpt mark {
+  background: color-mix(in srgb, var(--color-accent) 20%, transparent);
+  color: inherit;
+  border-radius: 2px;
+}
+/* ─────────────────────────────────────────────────── */
 
 .two-col {
   display: grid;

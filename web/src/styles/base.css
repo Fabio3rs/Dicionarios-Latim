@@ -8,8 +8,14 @@
   color: var(--color-ink);
 }
 
+/* Tema escuro: atribuição explícita ou efectiva via auto */
 :root[data-theme="dark"] {
   color-scheme: dark;
+}
+
+/* Tema claro explícito: garante color-scheme correto mesmo com OS em dark */
+:root[data-theme="light"] {
+  color-scheme: light;
 }
 
 @media (prefers-color-scheme: dark) {
