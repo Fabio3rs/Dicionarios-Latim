@@ -49,7 +49,7 @@ async function main() {
   });
 
   for (const vol of volumes) {
-    const volId = vol.id;
+    const volId = vol.volume_id ?? vol.id;
     const metaPath = path.join(publicDir, vol.meta_url);
     const meta = readJSON(metaPath);
 
