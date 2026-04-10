@@ -123,8 +123,8 @@ const dataBase = `${baseWithSlash}data`;
         volSelect.id = "volume-select";
         volumes.forEach((v) => {
           const opt = document.createElement("option");
-          opt.value = v.id;
-          opt.textContent = v.title || v.id;
+          opt.value = v.volume_id ?? v.id;
+          opt.textContent = v.title || v.volume_id || v.id;
           volSelect.appendChild(opt);
         });
         if (state.filters.volume_id?.length) {
@@ -188,7 +188,7 @@ const dataBase = `${baseWithSlash}data`;
         });
 
         // Página
-        const volMeta = await fetch(`${assetBase}${volumes.find((v) => v.id === volSelect.value).meta_url}`).then((r) => r.json());
+        const volMeta = await fetch(`${assetBase}${volumes.find((v) => (v.volume_id ?? v.id) === volSelect.value).meta_url}`).then((r) => r.json());
         // Sem páginas neste build
 
         filtersRoot.innerHTML = "";
