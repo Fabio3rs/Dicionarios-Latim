@@ -8,11 +8,12 @@ Entrada:
   - resultados/shards/<vol>/index.json + shard_*.ndjson
 
 Saída (por volume em web/public/data/<vol>/):
-  - meta/<vol>-pages-<start>-<end>.json (blocos por faixa de página)
+  - meta/<vol>-block-<NNNNN>.json (blocos sequenciais com N entradas cada)
   - meta/<vol>.json (índice leve com blocos)
   - dict/morfologia.json (dedup morfologia por volume)
   - dict/lemmas-first-letter.json (contagem por inicial)
-  - lookup/<vol>-id-to-page.json (mapa id→page_num para o viewer)
+  - dict/lemmas-top.json (top 500 lemas para sugestões)
+  - lookup/<vol>-id-to-block.json (mapa id→{block_file, idx_in_block} para o viewer)
 E um catálogo geral:
   - web/public/data/volumes.json
 
@@ -21,7 +22,7 @@ Uso:
       --catalog resultados/catalog.json \\
       --shards resultados/shards \\
       --out web/public/data \\
-      --pages-per-block 200
+      --block-size 500
 """
 from __future__ import annotations
 
@@ -30,7 +31,7 @@ import json
 import unicodedata
 from collections import Counter
 from pathlib import Path
-from typing import Dict, Iterable, List
+from typing import Dict, List
 
 
 def normalize_first_letter(s: str) -> str:
@@ -48,7 +49,7 @@ def load_catalog(path: Path) -> List[Dict]:
     return data
 
 
-def load_shards(volume_id: str, shards_dir: Path) -> List[Dict]:
+def load_shards(volume_id: str, shards_dir: Path):
     index_path = shards_dir / volume_id / "index.json"
     meta = json.loads(index_path.read_text(encoding="utf-8"))
     entries: List[Dict] = []
@@ -63,51 +64,40 @@ def load_shards(volume_id: str, shards_dir: Path) -> List[Dict]:
     return entries, meta
 
 
-def build_blocks(entries: List[Dict], pages_per_block: int) -> List[Dict]:
-    blocks = []
-    if not entries:
-        return blocks
-    page_min = min(e["page_num"] for e in entries)
-    page_max = max(e["page_num"] for e in entries)
-    start = (page_min // pages_per_block) * pages_per_block
-    end_limit = ((page_max // pages_per_block) + 1) * pages_per_block
-    for block_start in range(start, end_limit, pages_per_block):
-        block_end = block_start + pages_per_block - 1
-        chunk = [
-            e for e in entries if block_start <= int(e["page_num"]) <= block_end
-        ]
-        if not chunk:
-            continue
-        blocks.append(
-            {
-                "start": block_start,
-                "end": block_end,
-                "entries": chunk,
-            }
-        )
-    return blocks
+def write_blocks(volume_id: str, out_base: Path, entries: List[Dict], block_size: int):
+    """Divide entradas em blocos sequenciais e retorna (block_records, lookup).
 
-
-def write_blocks(volume_id: str, out_base: Path, blocks: List[Dict]) -> List[Dict]:
+    block_records: lista de dicts compatíveis com meta/<vol>.json
+    lookup: mapa {id: {block_file, idx_in_block}} para lookup/<vol>-id-to-block.json
+    """
     out_meta_dir = out_base / "meta"
     out_meta_dir.mkdir(parents=True, exist_ok=True)
     block_records = []
-    for blk in blocks:
-        fname = f"{volume_id}-pages-{blk['start']}-{blk['end']}.json"
+    lookup: Dict[str, Dict] = {}
+
+    for block_num, start_idx in enumerate(range(0, len(entries), block_size), start=1):
+        block_items = entries[start_idx: start_idx + block_size]
+        fname = f"{volume_id}-block-{block_num:05d}.json"
         path = out_meta_dir / fname
         path.write_text(
-            json.dumps(blk["entries"], ensure_ascii=False, indent=2),
+            json.dumps(block_items, ensure_ascii=False, indent=2),
             encoding="utf-8",
         )
+        block_file = f"meta/{fname}"
         block_records.append(
             {
-                "start": blk["start"],
-                "end": blk["end"],
-                "file": f"meta/{fname}",
-                "count": len(blk["entries"]),
+                "start_idx": start_idx + 1,
+                "end_idx": start_idx + len(block_items),
+                "file": block_file,
+                "count": len(block_items),
             }
         )
-    return block_records
+        for local_idx, entry in enumerate(block_items):
+            entry_id = entry.get("id")
+            if entry_id:
+                lookup[entry_id] = {"block_file": block_file, "idx_in_block": local_idx}
+
+    return block_records, lookup
 
 
 def write_dicts(volume_id: str, out_base: Path, entries: List[Dict]):
@@ -148,12 +138,11 @@ def write_dicts(volume_id: str, out_base: Path, entries: List[Dict]):
     )
 
 
-def write_lookup(volume_id: str, out_base: Path, entries: List[Dict]):
+def write_lookup(volume_id: str, out_base: Path, lookup: Dict):
     out_lookup = out_base / "lookup"
     out_lookup.mkdir(parents=True, exist_ok=True)
-    mapping = {e["id"]: e.get("page_num") for e in entries}
-    (out_lookup / f"{volume_id}-id-to-page.json").write_text(
-        json.dumps(mapping, ensure_ascii=False, indent=2), encoding="utf-8"
+    (out_lookup / f"{volume_id}-id-to-block.json").write_text(
+        json.dumps(lookup, ensure_ascii=False, indent=2), encoding="utf-8"
     )
 
 
@@ -177,10 +166,10 @@ def main():
         help="Diretório de saída para artefatos públicos (default: web/public/data)",
     )
     parser.add_argument(
-        "--pages-per-block",
+        "--block-size",
         type=int,
-        default=200,
-        help="Quantidade de páginas por bloco de meta (default: 200)",
+        default=500,
+        help="Número de entradas por bloco (default: 500)",
     )
     args = parser.parse_args()
 
@@ -195,13 +184,12 @@ def main():
     for volume in catalog:
         volume_id = volume["id"]
         title = volume.get("title", volume_id)
-        entries, shards_meta = load_shards(volume_id, shards_dir)
-        blocks = build_blocks(entries, args.pages_per_block)
+        entries, _shards_meta = load_shards(volume_id, shards_dir)
 
         vol_base = out_root / volume_id
-        block_records = write_blocks(volume_id, vol_base, blocks)
+        block_records, lookup = write_blocks(volume_id, vol_base, entries, args.block_size)
         write_dicts(volume_id, vol_base, entries)
-        write_lookup(volume_id, vol_base, entries)
+        write_lookup(volume_id, vol_base, lookup)
 
         page_min = min(e["page_num"] for e in entries) if entries else None
         page_max = max(e["page_num"] for e in entries) if entries else None
@@ -220,19 +208,18 @@ def main():
 
         volumes_public.append(
             {
-                "id": volume_id,
+                "volume_id": volume_id,
                 "title": title,
                 "page_min": page_min,
                 "page_max": page_max,
                 "meta_url": f"data/{volume_id}/meta/{volume_id}.json",
                 "blocks_prefix": f"data/{volume_id}/",
-                "base_url": "/Dicionarios-Latim",
             }
         )
 
         print(
             f"[{volume_id}] {len(entries)} registros -> {len(block_records)} blocos; "
-            f"meta em {meta_path}"
+            f"lookup com {len(lookup)} entradas"
         )
 
     # volumes.json
