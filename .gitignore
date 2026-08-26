@@ -39,6 +39,8 @@ htmlcov/
 .mypy_cache/
 .tox/
 
+dist
+
 # Environment files
 .env
 .env.local

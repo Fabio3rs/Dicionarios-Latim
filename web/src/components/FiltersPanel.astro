@@ -13,7 +13,7 @@ export interface Props {
 const { loading = false, sections = [], footer = null } = Astro.props;
 ---
 
-<aside class="panel filters-panel" aria-label="Filtros">
+<aside id="filters-panel" class="panel filters-panel" aria-label="Filtros">
   <h2 style="margin-top:0;">Filtros</h2>
   {loading ? (
     <p class="muted">Carregando filtros...</p>

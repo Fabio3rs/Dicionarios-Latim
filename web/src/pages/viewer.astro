@@ -12,7 +12,7 @@ const dataBase = `${baseWithSlash}data`;
   description="Visualização de verbete"
   breadcrumbs={[
     { label: "Início", href: baseWithSlash },
-    { label: "Busca", href: `${baseWithSlash}search` },
+    { label: "Consultar", href: `${baseWithSlash}search` },
     { label: "Verbete" },
   ]}
 >
@@ -66,8 +66,8 @@ const dataBase = `${baseWithSlash}data`;
       return res.json();
     }
 
-    function renderEntry(entry, volId, positionLabel) {
-      const lemmas = (entry.lemmas || []).join(", ");
+    function renderEntry(entry, volumeTitle, positionLabel) {
+      const lemmas = [...new Set(entry.lemmas || [])].join(", ");
       const morph = entry.morph_render || entry.morfologia || "";
       const lang = entry.gloss_lang || "";
 
@@ -81,7 +81,7 @@ const dataBase = `${baseWithSlash}data`;
       header.className = "entry-header";
 
       const headerLeft = document.createElement("div");
-      const metaLine = el("p", `${volId}${positionLabel ? ` · ${positionLabel}` : ""}`, "muted entry-meta-line");
+      const metaLine = el("p", `${volumeTitle}${positionLabel ? ` · ${positionLabel}` : ""}`, "muted entry-meta-line");
       const h1 = el("h1", lemmas, "entry-title");
 
       const pillList = document.createElement("div");
@@ -168,11 +168,13 @@ const dataBase = `${baseWithSlash}data`;
         return;
       }
       const volumes = await fetchJSON(`${dataBaseUrl}/volumes.json`);
-      const vol = volParam || volumes[0]?.id;
+      const vol = volParam || volumes[0]?.volume_id || volumes[0]?.id;
       if (!vol) {
         renderError("Nenhum volume disponível.");
         return;
       }
+      const volume = volumes.find((item) => String(item.volume_id ?? item.id) === String(vol));
+      const volumeTitle = volume?.title || vol;
       const volMeta = await fetchJSON(`${baseWithSlash}data/${vol}/meta/${vol}.json`);
       const lookup = await fetchJSON(`${baseWithSlash}data/${vol}/lookup/${vol}-id-to-block.json`);
       const pos = lookup[idParam];
@@ -191,7 +193,7 @@ const dataBase = `${baseWithSlash}data`;
       const blockIdx = volMeta.blocks.findIndex((b) => b.file === blockFile);
       const positionLabel =
         blockIdx >= 0 ? `bloco ${blockIdx + 1} · item ${idxInBlock + 1}` : `item ${idxInBlock + 1}`;
-      renderEntry(entry, vol, positionLabel);
+      renderEntry(entry, volumeTitle, positionLabel);
     }
 
     load().catch((err) => {

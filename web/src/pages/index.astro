@@ -33,16 +33,18 @@ const startPoints = {
   </Fragment>
 
   <section class="card hero-card">
-    <p class="muted hero-label">Projeto Lexicon</p>
-    <h1 class="hero-title">Busca rápida em dicionários latim-português</h1>
+    <p class="eyebrow hero-label">Projeto Lexicon</p>
+    <h1 class="hero-title">Encontre uma palavra em latim</h1>
     <p class="hero-desc">
-      Explore os verbetes do <strong>Dicionário Escolar Latim-Português (Faria)</strong> com busca estática,
-      filtros de morfologia e paginação, totalmente offline no browser.
+      Consulte os verbetes do <strong>Dicionário Escolar Latim-Português (Faria)</strong> pelo lema,
+      pela tradução ou pelo texto da definição.
     </p>
-    <div class="hero-actions">
-      <a class="button" href={`${baseWithSlash}search`}>Iniciar busca</a>
-      <a class="button secondary" href={`${baseWithSlash}viewer?vol=faria&id=chunk_1-e1`}>Ver exemplo</a>
-    </div>
+    <form class="home-search-form" action={`${baseWithSlash}search`} method="get" role="search">
+      <label class="sr-only" for="home-search">Consultar o dicionário</label>
+      <input id="home-search" class="input home-search-input" type="search" name="term" placeholder="Digite um lema, como amo…" autocomplete="off" />
+      <button class="button home-search-button" type="submit">Consultar</button>
+    </form>
+    <p class="home-search-hint muted">Experimente: <a href={`${baseWithSlash}search?term=amo`}>amo</a>, <a href={`${baseWithSlash}search?term=bellum`}>bellum</a> ou <a href={`${baseWithSlash}search?term=sum`}>sum</a>.</p>
   </section>
 
   <section class="card-plain stats-section">
@@ -62,7 +64,7 @@ const startPoints = {
         <p class="muted start-points-label">Pontos de partida</p>
         <h2 class="start-points-title">Sugestões rápidas</h2>
       </div>
-      <small class="muted">Clique na palavra para pesquisar</small>
+      <a href={`${baseWithSlash}search`}>Ver índice alfabético →</a>
     </header>
     <div class="start-points-grid">
       {Object.entries(startPoints).map(([title, links]) => (

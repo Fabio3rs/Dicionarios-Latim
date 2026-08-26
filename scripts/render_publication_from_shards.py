@@ -13,6 +13,7 @@ Saída (por volume em web/public/data/<vol>/):
   - dict/morfologia.json (dedup morfologia por volume)
   - dict/lemmas-first-letter.json (contagem por inicial)
   - dict/lemmas-top.json (top 500 lemas para sugestões)
+  - dict/lemmas-suggest.json (todos os lemas únicos, em ordem alfabética)
   - lookup/<vol>-id-to-block.json (mapa id→{block_file, idx_in_block} para o viewer)
 E um catálogo geral:
   - web/public/data/volumes.json
@@ -40,6 +41,13 @@ def normalize_first_letter(s: str) -> str:
     s = unicodedata.normalize("NFD", s)
     s = "".join(ch for ch in s if unicodedata.category(ch) != "Mn")
     return s[0].upper()
+
+
+def normalize_lemma(s: str) -> str:
+    """Chave de ordenação tolerante a diacríticos para lemas latinos."""
+    value = unicodedata.normalize("NFD", s or "")
+    value = "".join(ch for ch in value if unicodedata.category(ch) != "Mn")
+    return " ".join(value.casefold().split())
 
 
 def load_catalog(path: Path) -> List[Dict]:
@@ -134,6 +142,15 @@ def write_dicts(volume_id: str, out_base: Path, entries: List[Dict]):
     ]
     (out_dict_dir / "lemmas-top.json").write_text(
         json.dumps({"items": top_items}, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+
+    # Lista compacta completa para o autocomplete. O antigo top 500 deixava de
+    # sugerir justamente muitos lemas válidos e raros, o caso mais comum em um
+    # dicionário.
+    all_lemmas = sorted(top_counter, key=lambda lemma: (normalize_lemma(lemma), lemma))
+    (out_dict_dir / "lemmas-suggest.json").write_text(
+        json.dumps(all_lemmas, ensure_ascii=False, separators=(",", ":")),
         encoding="utf-8",
     )
 

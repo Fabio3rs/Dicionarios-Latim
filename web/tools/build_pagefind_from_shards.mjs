@@ -30,6 +30,22 @@ function normalizeFirstLetter(s) {
   return s.normalize("NFD").replace(/\p{M}+/gu, "").slice(0, 1).toUpperCase();
 }
 
+function normalizeLemma(s) {
+  return String(s || "")
+    .normalize("NFD")
+    .replace(/\p{M}+/gu, "")
+    .toLocaleLowerCase("la")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function compactText(parts) {
+  return parts
+    .flatMap((part) => (Array.isArray(part) ? part : [part]))
+    .filter(Boolean)
+    .join("\n");
+}
+
 function pageBucket(pageNum, bucket = 100) {
   return Math.floor((pageNum || 0) / bucket);
 }
@@ -48,6 +64,10 @@ async function main() {
     rootSelector: "body",
   });
 
+  if (!index) {
+    throw new Error("O Pagefind não conseguiu criar o índice.");
+  }
+
   for (const vol of volumes) {
     const volId = vol.volume_id ?? vol.id;
     const metaPath = path.join(publicDir, vol.meta_url);
@@ -58,9 +78,17 @@ async function main() {
       const entries = readJSON(blockPath);
 
       for (const entry of entries) {
-        const lemmas = entry.lemmas || [];
+        const lemmas = [...new Set((entry.lemmas || []).filter(Boolean))];
         const firstLemma = lemmas[0] || "";
-        const content = `${entry.definicao || ""}\n${entry.notas || ""}`;
+        // O lema precisa fazer parte do conteúdo, além dos metadados. Isso permite
+        // que a busca literal do Pagefind encontre a entrada propriamente dita.
+        const content = compactText([
+          lemmas,
+          entry.definicao,
+          entry.translations,
+          entry.exemplos,
+          entry.notas,
+        ]);
         const morph = entry.morph_render || entry.morfologia || "";
         const conf = entry.conf || "";
         const needsReview = entry.needs_review ? "1" : "0";
@@ -69,6 +97,9 @@ async function main() {
           volume_id: [String(volId)],
           first_letter: [normalizeFirstLetter(firstLemma)],
           page_bucket: [String(pageBucket(entry.page_num))],
+          // Filtro interno usado pela interface para colocar a entrada literal
+          // antes dos resultados flexíveis produzidos pelo stemming.
+          lemma_exact: lemmas.map(normalizeLemma).filter(Boolean),
         };
         if (entry.morfologia) {
           filters.morfologia = [entry.morfologia];
@@ -89,6 +120,8 @@ async function main() {
           language: "pt",
           content,
           meta: {
+            title: firstLemma,
+            entry_id: String(entry.id),
             volume_id: String(volId),
             lemmas: lemmas.join(", "),
             morfologia: morph,
@@ -99,17 +132,22 @@ async function main() {
             redirect_only: entry.redirect_only ? "1" : "0",
           },
           filters,
+          sort: {
+            lemma: normalizeLemma(firstLemma),
+          },
         });
       }
     }
     console.log(`Indexed volume ${volId}`);
   }
 
-  await index.writeFiles({
-    outputPath: path.join(publicDir, "pagefind"),
-  });
+  const outputPath = path.join(publicDir, "pagefind");
+  // writeFiles não remove fragmentos de builds anteriores. Como cada verbete é
+  // um registro, esses órfãos faziam o diretório crescer centenas de megabytes.
+  fs.rmSync(outputPath, { recursive: true, force: true });
+  await index.writeFiles({ outputPath });
 
-  console.log(`Pagefind index escrito em ${path.join(publicDir, "pagefind")}`);
+  console.log(`Pagefind index escrito em ${outputPath}`);
 }
 
 main().catch((err) => {
