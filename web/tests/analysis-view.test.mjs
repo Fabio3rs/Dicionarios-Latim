@@ -5,6 +5,8 @@ import {
   buildAnalysisView,
   decompositionDescription,
   derivationDescription,
+  grammaticalLabel,
+  morphologyDescription,
   suggestionDescriptions,
 } from "../public/words/analysis-view.mjs";
 
@@ -225,4 +227,91 @@ test("normalizes quantities in lemma keys used by Pagefind", () => {
   });
 
   assert.deepEqual(view.lemmas, [{key: "malum", label: "mālum"}]);
+});
+
+test("presents deponent forms as passive morphology with active meaning", () => {
+  for (const [recognized, person] of [["reor", 1], ["reris", 2]]) {
+    const view = buildAnalysisView({
+      hits: [{
+        kind: "lexical",
+        lexemeId: 32908,
+        lemma: "reor",
+        partOfSpeech: "verb",
+        lexical: {
+          partOfSpeech: "verb",
+          conjugation: 2,
+          variant: 1,
+          verbKind: "deponent",
+        },
+        form: form(recognized),
+        morphology: {
+          kind: "verb",
+          conjugation: 2,
+          variant: 1,
+          tense: "present",
+          voice: "passive",
+          mood: "indicative",
+          person,
+          number: "singular",
+        },
+        derivation: {method: "regular", steps: []},
+      }],
+      suggestions: [],
+    });
+
+    assert.equal(view.groups.length, 1);
+    assert.equal(view.groups[0].verbKind, "deponent");
+    assert.equal(view.groups[0].grammaticalLabel, "verbo depoente");
+    assert.match(view.groups[0].forms[0], /forma passiva · sentido ativo/);
+    assert.doesNotMatch(view.groups[0].forms[0], /voz passiva/);
+    assert.match(view.groups[0].forms[0], new RegExp(`${person}ª pessoa$`));
+  }
+});
+
+test("keeps ordinary active and passive verb forms distinct", () => {
+  const common = {
+    kind: "verb",
+    conjugation: 1,
+    tense: "present",
+    mood: "indicative",
+  };
+  const active = morphologyDescription({...common, voice: "active"});
+  const passive = morphologyDescription({...common, voice: "passive"});
+
+  assert.match(active, /voz ativa/);
+  assert.doesNotMatch(active, /sentido ativo/);
+  assert.match(passive, /voz passiva/);
+  assert.doesNotMatch(passive, /sentido ativo/);
+});
+
+test("keeps deponent and ordinary readings in separate presentation groups", () => {
+  const baseHit = {
+    kind: "lexical",
+    lemma: "forma",
+    partOfSpeech: "verb",
+    form: form("forma"),
+    morphology: {kind: "verb", voice: "passive"},
+    derivation: {method: "regular", steps: []},
+  };
+  const view = buildAnalysisView({
+    hits: [
+      {
+        ...baseHit,
+        lexemeId: 1,
+        lexical: {partOfSpeech: "verb", verbKind: "deponent"},
+      },
+      {
+        ...baseHit,
+        lexemeId: 2,
+        lexical: {partOfSpeech: "verb", verbKind: "transitive"},
+      },
+    ],
+    suggestions: [],
+  });
+
+  assert.deepEqual(
+    view.groups.map(({grammaticalLabel: label}) => label),
+    ["verbo depoente", "verbo"],
+  );
+  assert.equal(grammaticalLabel("verb", "semideponent"), "verbo semidepoente");
 });

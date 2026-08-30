@@ -146,54 +146,6 @@ const dataBase = `${baseWithSlash}data`;
         term.split(" ").length <= 2 && /^[\p{L}\p{M}'’-]+(?:\s+[\p{L}\p{M}'’-]+)?$/u.test(term);
     }
 
-    const morphologyLabels = {
-      partOfSpeech: {
-        noun: "substantivo",
-        verb: "verbo",
-        adjective: "adjetivo",
-        adverb: "advérbio",
-        pronoun: "pronome",
-        preposition: "preposição",
-        conjunction: "conjunção",
-        interjection: "interjeição",
-        numeral: "numeral",
-        participle: "particípio",
-        supine: "supino",
-      },
-      case: {
-        nominative: "nominativo",
-        genitive: "genitivo",
-        dative: "dativo",
-        accusative: "acusativo",
-        ablative: "ablativo",
-        vocative: "vocativo",
-        locative: "locativo",
-      },
-      number: {singular: "singular", plural: "plural"},
-      gender: {masculine: "masculino", feminine: "feminino", neuter: "neutro", common: "comum"},
-      tense: {
-        present: "presente",
-        imperfect: "imperfeito",
-        future: "futuro",
-        perfect: "perfeito",
-        pluperfect: "mais-que-perfeito",
-        "future-perfect": "futuro perfeito",
-      },
-      voice: {active: "voz ativa", passive: "voz passiva"},
-      mood: {
-        indicative: "indicativo",
-        subjunctive: "subjuntivo",
-        imperative: "imperativo",
-        infinitive: "infinitivo",
-        participle: "particípio",
-      },
-      degree: {positive: "grau positivo", comparative: "comparativo", superlative: "superlativo"},
-    };
-
-    function translated(group, value) {
-      return morphologyLabels[group]?.[value] || String(value || "").replaceAll("-", " ");
-    }
-
     function setMorphologyLoading(term) {
       morphologyPanel.hidden = false;
       morphologyTitle.textContent = `Analisando “${term}”`;
@@ -260,7 +212,7 @@ const dataBase = `${baseWithSlash}data`;
         heading.textContent = group.lemma;
         const badge = document.createElement("span");
         badge.className = "badge";
-        badge.textContent = translated("partOfSpeech", group.partOfSpeech);
+        badge.textContent = group.grammaticalLabel;
         cardHeader.append(heading, badge);
         if (group.decompositions.length > 0) {
           const decomposition = document.createElement("p");

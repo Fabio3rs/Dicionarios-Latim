@@ -1,4 +1,17 @@
 const morphologyLabels = {
+  partOfSpeech: {
+    noun: "substantivo",
+    verb: "verbo",
+    adjective: "adjetivo",
+    adverb: "advérbio",
+    pronoun: "pronome",
+    preposition: "preposição",
+    conjunction: "conjunção",
+    interjection: "interjeição",
+    numeral: "numeral",
+    participle: "particípio",
+    supine: "supino",
+  },
   case: {
     nominative: "nominativo",
     genitive: "genitivo",
@@ -38,17 +51,35 @@ const morphologyLabels = {
   },
 };
 
+const verbKindLabels = {
+  deponent: "depoente",
+  semideponent: "semidepoente",
+};
+
 function translated(group, value) {
   return morphologyLabels[group]?.[value] ||
     String(value || "").replaceAll("-", " ");
 }
 
-export function morphologyDescription(morphology) {
+export function grammaticalLabel(partOfSpeech, verbKind) {
+  const base = translated("partOfSpeech", partOfSpeech);
+  return verbKindLabels[verbKind] ? `${base} ${verbKindLabels[verbKind]}` : base;
+}
+
+export function morphologyDescription(morphology, verbKind = null) {
   const parts = [];
   if (morphology.declension) parts.push(`${morphology.declension}ª declinação`);
   if (morphology.conjugation) parts.push(`${morphology.conjugation}ª conjugação`);
   for (const key of ["case", "number", "gender", "tense", "voice", "mood", "degree"]) {
-    if (morphology[key]) parts.push(translated(key, morphology[key]));
+    if (!morphology[key]) continue;
+    if (key === "voice" && verbKindLabels[verbKind]) {
+      parts.push(morphology[key] === "passive"
+        ? "forma passiva"
+        : translated(key, morphology[key]));
+      parts.push("sentido ativo");
+      continue;
+    }
+    parts.push(translated(key, morphology[key]));
   }
   if (morphology.person) parts.push(`${morphology.person}ª pessoa`);
   return [...new Set(parts)].join(" · ") || "forma reconhecida";
@@ -138,13 +169,19 @@ export function buildAnalysisView(document) {
     const lemma = hit.kind === "artificial"
       ? `Número romano ${hit.artificial.value}`
       : hit.lemma;
+    const verbKind = hit.partOfSpeech === "verb" &&
+        verbKindLabels[hit.lexical?.verbKind]
+      ? hit.lexical.verbKind
+      : null;
     const groupKey = hit.kind === "artificial"
       ? `artificial:${hit.artificial.value}`
-      : `${normalizeLemmaKey(lemma)}:${hit.partOfSpeech}`;
+      : `${normalizeLemmaKey(lemma)}:${hit.partOfSpeech}:${verbKind || ""}`;
     if (!grouped.has(groupKey)) {
       grouped.set(groupKey, {
         lemma,
         partOfSpeech: hit.partOfSpeech,
+        verbKind,
+        grammaticalLabel: grammaticalLabel(hit.partOfSpeech, verbKind),
         decompositions: [],
         forms: [],
       });
@@ -152,7 +189,7 @@ export function buildAnalysisView(document) {
 
     const parts = [];
     if (hit.form?.recognized) parts.push(hit.form.recognized);
-    parts.push(morphologyDescription(hit.morphology || {}));
+    parts.push(morphologyDescription(hit.morphology || {}, verbKind));
     const derivation = derivationDescription(hit.derivation);
     if (derivation) parts.push(derivation);
     const description = parts.join(" · ");
