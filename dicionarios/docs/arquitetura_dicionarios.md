@@ -1,5 +1,12 @@
 # Arquitetura de Dicionários Latinos — SQLite como Fonte da Verdade
 
+> **Nota de estado (2026-08-26):** este texto inclui partes da arquitetura
+> pretendida e contagens históricas. O estado efetivamente observado dos PDFs,
+> bancos e pipeline está em
+> [`auditoria_sessao_2026-08-26.md`](auditoria_sessao_2026-08-26.md), e o roteiro
+> de correção está em
+> [`plano_recuperacao_faria.md`](plano_recuperacao_faria.md).
+
 ## Filosofia
 
 - **SQLite = fonte primária**: todos os dicionários em bancos relacionais com schema consistente

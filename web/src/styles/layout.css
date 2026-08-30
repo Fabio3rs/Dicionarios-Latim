@@ -284,6 +284,25 @@
   overflow-wrap: anywhere;
   font: 700 1.05rem/1.3 var(--font-serif);
 }
+.morphology-decomposition {
+  display: flex;
+  align-items: baseline;
+  gap: 0.45rem;
+  flex-wrap: wrap;
+  margin: var(--space-2) 0 0;
+  padding: 0.4rem 0.55rem;
+  border-radius: var(--radius-s);
+  background: color-mix(in srgb, var(--color-accent) 8%, var(--color-surface));
+  font-size: 0.8rem;
+}
+.morphology-decomposition span {
+  color: var(--color-muted);
+  font-weight: 700;
+}
+.morphology-decomposition strong {
+  color: var(--color-ink);
+  font: 700 0.95rem/1.3 var(--font-serif);
+}
 .morphology-forms {
   display: flex;
   flex-direction: column;

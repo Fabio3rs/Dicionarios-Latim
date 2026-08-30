@@ -1,3 +1,5 @@
+import {buildAnalysisView} from "./analysis-view.mjs";
+
 let enginePromise;
 
 function fetchChecked(url) {
@@ -17,23 +19,11 @@ async function createEngine(assetBase) {
   const moduleUrl = new URL("words_wasm.mjs", resolvedAssetBase);
   const databaseUrl = new URL(manifest.databases.search.file, resolvedAssetBase);
 
-  const [{createWordsAnalysisEngine}, moduleExports, databaseResponse] = await Promise.all([
-    import(engineUrl.href),
-    import(moduleUrl.href),
-    fetchChecked(databaseUrl),
-  ]);
-
-  const modulePromise = moduleExports.default({
-    locateFile: (path) => new URL(path, moduleUrl).href,
-  });
-  const databasePromise = databaseResponse.arrayBuffer();
-  const [module, databaseBytes] = await Promise.all([modulePromise, databasePromise]);
-
+  const {createWordsAnalysisEngine} = await import(engineUrl.href);
   return createWordsAnalysisEngine({
     datasetId: manifest.datasetId,
-    databaseBytes,
+    databaseUrl,
     moduleUrl,
-    moduleFactory: async () => module,
   });
 }
 
@@ -67,11 +57,16 @@ self.addEventListener("message", async (event) => {
   try {
     const engine = await initialize(message.assetBase);
     const document = engine.search(message.term, {twoWords: true});
+    if (document.schema !== "whitakers-words.browser-search" ||
+        document.schemaVersion !== 3) {
+      throw new Error("Contrato de análise morfológica incompatível");
+    }
     self.postMessage({
       type: "analysis",
       requestId: message.requestId,
       term: message.term,
       document,
+      view: buildAnalysisView(document),
     });
   } catch (error) {
     self.postMessage({
