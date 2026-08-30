@@ -1,7 +1,7 @@
 # Makefile for Dicionários Latim-Português project
 
 .PHONY: help install install-dev test lint format type-check clean example
-.PHONY: data-export-v2 data-shards data-render search-index data-all web-build dev
+.PHONY: data-export-v2 data-citations-v2 data-citations-release data-shards data-render search-index data-all web-build dev
 
 help:  ## Show this help message
 	@echo "Available commands:"
@@ -46,17 +46,35 @@ example:  ## Run the example usage script
 data-export-v2: ## Exporta retificado_v2.db para normalized_results_v2.json
 	python scripts/export_normalized_from_retificado_v2.py --db dicionarios/retificado_v2.db --out resultados/normalized_results_v2.json
 
+data-citations-v2: ## Publica passagens do v2 já resolvidas e atestadas no citations.sqlite
+	python scripts/export_v2_citation_sidecar.py \
+		--v2-db dicionarios/retificado_v2.db \
+		--citations-db resultados/faria-v2/citations-public/citations.sqlite \
+		--output web/public/data/faria/citations.json \
+		--report resultados/faria-v2/citations-public/sidecar-report.json \
+		--lookup web/public/data/faria/lookup/faria-id-to-block.json \
+		--force
+
+data-citations-release: data-citations-v2 ## Empacota SQLite e payload web para GitHub Release
+	python scripts/package_v2_citation_release.py \
+		--citations-db resultados/faria-v2/citations-public/citations.sqlite \
+		--v2-db dicionarios/retificado_v2.db \
+		--index web/public/data/faria/citations.json \
+		--shards web/public/data/faria/citations \
+		--output-dir resultados/faria-v2/citations-release
+
 data-shards:  ## Generate NDJSON shards from normalized_results via catalog
 	python scripts/export_shards_from_normalized.py --catalog resultados/catalog.json --outdir resultados/shards --shard-size 1000
 
 data-render: ## Render public JSON artifacts from shards into web/public/data
-	python scripts/render_publication_from_shards.py --catalog resultados/catalog.json --shards resultados/shards --out web/public/data --pages-per-block 200
+	python scripts/render_publication_from_shards.py --catalog resultados/catalog.json --shards resultados/shards --out web/public/data --block-size 500
 
 search-index: ## Build Pagefind index into web/public/pagefind
 	cd web && npm run search:index
 
 data-all: ## Run full data pipeline (shards + render + pagefind)
 	make data-export-v2
+	make data-citations-v2
 	cd web && npm run data:all
 
 web-build: ## Build Astro site

@@ -26,7 +26,14 @@ pnpm-debug.log*
 
 # Dados gerados (híbrido: não versionar shards pesados nem índice Pagefind)
 resultados/shards/
+resultados/faria-ocr*/
+resultados/faria-v2/citations-public/citations.sqlite
+resultados/faria-v2/citations-release/
 web/public/pagefind/
+web/public/words/*
+!web/public/words/analysis-worker.mjs
+web/public/data/faria/citations.json
+web/public/data/faria/citations/
 
 # OS cruft
 .DS_Store
@@ -38,6 +45,8 @@ Thumbs.db
 htmlcov/
 .mypy_cache/
 .tox/
+.playwright-mcp/
+.tmp/
 
 dist
 

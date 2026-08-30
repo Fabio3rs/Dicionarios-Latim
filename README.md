@@ -177,7 +177,7 @@ Organizam as rotinas de dedupe, morfologia, OCR e export que operam direto sobre
 python scripts/query_lexicon.py --db resultados/lexicon.db --query "puella"
 ```
 
-### Pipeline atual para busca web (fonte: retificado_v2.db)
+### Pipeline de publicação existente (fonte: `retificado_v2.db`)
 ```bash
 # Exportar JSON oficial
 make data-export-v2
@@ -195,6 +195,7 @@ Arquivos produzidos:
 * `resultados/normalized_results_v2.json` — export direto do `retificado_v2.db`
 * `resultados/shards/<vol>/shard_*.ndjson` + `index.json`
 * `web/public/data/<vol>/` (`meta`, `dict`, `lookup`) + `web/public/data/volumes.json`
+* `web/public/data/faria/citations.json` — passagens confirmadas ligadas ao v2
 * `web/public/pagefind/` — índice de busca (não versionado)
 
 ### Estrutura de Dados (resumo)

@@ -17,7 +17,7 @@ Estrutura por entrada:
         "morfologia": "...",          # morph_render
         "morph_extra": [...],          # lista a partir de morph_extra (JSON)
         "definicao": "...",
-        "exemplos": [],
+        "exemplos": [...],           # preservados de raw_json.exemplos
         "notas": "...",
         "conf": "...",
         "needs_review": 0/1,
@@ -64,6 +64,22 @@ def load_forms(conn) -> Dict[int, List[str]]:
     return forms
 
 
+def load_raw_examples(raw_json: str) -> List[str]:
+    """Extrai somente referências textuais bem formadas do JSON legado."""
+    try:
+        payload = json.loads(raw_json or "{}")
+    except (TypeError, json.JSONDecodeError):
+        return []
+    examples = payload.get("exemplos") if isinstance(payload, dict) else None
+    if not isinstance(examples, list):
+        return []
+    return [
+        value.strip()
+        for value in examples
+        if isinstance(value, str) and value.strip()
+    ]
+
+
 def export(db_path: Path, out_path: Path):
     conn = sqlite3.connect(f"file:{db_path}?mode=ro", uri=True)
     conn.row_factory = sqlite3.Row
@@ -107,7 +123,7 @@ def export(db_path: Path, out_path: Path):
                 "morfologia": row["morph_render"],
                 "morph_extra": morph_extra,
                 "definicao": row["definicao"] or "",
-                "exemplos": [],
+                "exemplos": load_raw_examples(row["raw_json"]),
                 "notas": row["notas"] or "",
                 "conf": row["conf"],
                 "needs_review": row["needs_review"],

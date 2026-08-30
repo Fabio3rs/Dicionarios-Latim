@@ -221,6 +221,80 @@
 }
 .page-size-label { font-size: 0.9rem; white-space: nowrap; }
 .page-size-select { width: auto; min-width: 80px; }
+.morphology-panel {
+  padding: var(--space-4);
+  border: 1px solid color-mix(in srgb, var(--color-accent) 35%, var(--color-border));
+  border-radius: var(--radius-m);
+  background: color-mix(in srgb, var(--color-accent) 5%, var(--color-surface));
+}
+.morphology-header,
+.morphology-card-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--space-3);
+}
+.morphology-label { margin: 0; }
+.morphology-title {
+  margin: var(--space-1) 0 0;
+  font: 700 1.2rem/1.3 var(--font-serif);
+}
+.morphology-state {
+  flex-shrink: 0;
+  padding: 0.2rem 0.55rem;
+  border: 1px solid var(--color-border);
+  border-radius: 999px;
+  background: var(--color-surface);
+  color: var(--color-muted);
+  font-size: 0.75rem;
+  font-weight: 800;
+}
+.morphology-state--ready {
+  border-color: color-mix(in srgb, var(--color-accent) 55%, var(--color-border));
+  color: var(--color-accent);
+}
+.morphology-state--loading::before {
+  content: "";
+  display: inline-block;
+  width: 0.4rem;
+  height: 0.4rem;
+  margin-right: 0.35rem;
+  border-radius: 50%;
+  background: currentColor;
+  animation: loading-pulse 1s ease-in-out infinite alternate;
+}
+.morphology-summary { margin: var(--space-2) 0 0; font-size: 0.9rem; }
+.morphology-results {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 230px), 1fr));
+  gap: var(--space-2);
+  margin-top: var(--space-3);
+}
+.morphology-results:empty { display: none; }
+.morphology-card {
+  min-width: 0;
+  padding: var(--space-3);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-s);
+  background: var(--color-surface);
+}
+.morphology-card h4 {
+  min-width: 0;
+  margin: 0;
+  overflow-wrap: anywhere;
+  font: 700 1.05rem/1.3 var(--font-serif);
+}
+.morphology-forms {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  margin: var(--space-2) 0 0;
+  padding: 0;
+  list-style: none;
+  color: var(--color-muted);
+  font-size: 0.85rem;
+}
+.morphology-forms li::before { content: "•"; margin-right: 0.4rem; color: var(--color-accent); }
 
 /* ─────────────────────────────────────────────────── */
 
@@ -406,6 +480,11 @@ textarea:focus {
   background: color-mix(in srgb, var(--color-accent) 6%, var(--color-surface));
 }
 .result-card--exact + .result-card { margin-top: var(--space-3); }
+.result-card--morphology {
+  margin-inline: calc(-1 * var(--space-2));
+  padding-inline: var(--space-2);
+  background: color-mix(in srgb, var(--color-accent) 3%, transparent);
+}
 .result-title {
   margin: 0 0 var(--space-1);
   font: 700 1.45rem/1.25 var(--font-serif);
@@ -441,6 +520,10 @@ textarea:focus {
   background: var(--color-accent);
   color: #fff;
   border-color: var(--color-accent);
+}
+.badge--morphology {
+  border-color: color-mix(in srgb, var(--color-accent) 45%, var(--color-border));
+  color: var(--color-accent);
 }
 .badge--warning {
   color: var(--color-alert-text);
@@ -493,6 +576,46 @@ textarea:focus {
   gap: var(--space-4);
 }
 .entry-section-title { margin: 0 0 var(--space-2); }
+.citation-list {
+  display: grid;
+  gap: var(--space-3);
+}
+.citation-introduction { margin: 0; }
+.citation-card {
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-s);
+  background: var(--color-surface-muted);
+  padding: var(--space-3);
+}
+.citation-card-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-2);
+  flex-wrap: wrap;
+}
+.badge--citation {
+  color: var(--color-accent);
+  border-color: color-mix(in srgb, var(--color-accent) 45%, var(--color-border));
+  background: var(--color-surface);
+}
+.citation-details { margin-top: var(--space-2); }
+.citation-details summary {
+  color: var(--color-accent);
+  cursor: pointer;
+  font-weight: 600;
+}
+.citation-attribution { margin-bottom: var(--space-2); }
+.citation-passage {
+  margin: var(--space-3) 0;
+  padding: var(--space-3);
+  border-inline-start: 3px solid var(--color-accent);
+  background: var(--color-surface);
+  white-space: pre-wrap;
+  line-height: 1.65;
+}
+.citation-attestation { font-weight: 600; }
+.citation-source-link { display: inline-flex; margin-top: var(--space-1); }
 .pill--warn {
   background: var(--color-warning);
   color: #000;
@@ -611,6 +734,8 @@ textarea:focus {
   .dictionary-search-button { justify-content: center; }
   .results-header { align-items: flex-end; }
   .project-notice { font-size: 0.78rem; }
+  .citation-card { padding: var(--space-2); }
+  .citation-passage { padding: var(--space-2); }
 }
 
 @media (prefers-reduced-motion: reduce) {

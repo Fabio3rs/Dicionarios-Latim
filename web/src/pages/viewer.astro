@@ -60,6 +60,59 @@ const dataBase = `${baseWithSlash}data`;
       content.appendChild(back);
     }
 
+    function renderCitations(records) {
+      if (!Array.isArray(records) || records.length === 0) return;
+      const article = content.querySelector(".entry-body");
+      if (!article) return;
+
+      const wrapper = document.createElement("div");
+      wrapper.className = "citation-list";
+      const introduction = el(
+        "p",
+        "Referências já presentes no v2 e ligadas deterministicamente ao texto latino.",
+        "muted citation-introduction",
+      );
+      wrapper.appendChild(introduction);
+
+      records.forEach((citation) => {
+        const card = document.createElement("article");
+        card.className = "citation-card";
+
+        const header = document.createElement("header");
+        header.className = "citation-card-header";
+        header.appendChild(el("strong", citation.reference || citation.resolved_reference || "Referência"));
+        header.appendChild(el("span", "Forma confirmada", "badge badge--citation"));
+
+        const attribution = [citation.author?.name, citation.work?.title].filter(Boolean).join(" · ");
+        const details = document.createElement("details");
+        details.className = "citation-details";
+        details.appendChild(el("summary", "Ler passagem original"));
+        if (attribution) details.appendChild(el("p", attribution, "muted citation-attribution"));
+
+        const passage = document.createElement("blockquote");
+        passage.className = "citation-passage";
+        passage.textContent = citation.passage?.text || "Passagem indisponível.";
+        details.appendChild(passage);
+
+        const surfaces = [...new Set(
+          (citation.attestations || []).map((item) => item.surface).filter(Boolean),
+        )];
+        if (surfaces.length) {
+          details.appendChild(el("p", `Forma encontrada: ${surfaces.join(", ")}.`, "citation-attestation"));
+        }
+        if (citation.passage?.url) {
+          const sourceLink = el("a", "Abrir documento-fonte", "citation-source-link");
+          sourceLink.href = citation.passage.url;
+          sourceLink.target = "_blank";
+          sourceLink.rel = "noopener noreferrer";
+          details.appendChild(sourceLink);
+        }
+        card.append(header, details);
+        wrapper.appendChild(card);
+      });
+      article.appendChild(section("Citações confirmadas", wrapper));
+    }
+
     async function fetchJSON(url) {
       const res = await fetch(url);
       if (!res.ok) throw new Error(`Erro ${res.status} em ${url}`);
@@ -175,6 +228,9 @@ const dataBase = `${baseWithSlash}data`;
       }
       const volume = volumes.find((item) => String(item.volume_id ?? item.id) === String(vol));
       const volumeTitle = volume?.title || vol;
+      // O sidecar é opcional e carrega em paralelo. Falha ou demora aqui nunca
+      // impede a exibição do verbete v2.
+      const citationsIndexPromise = fetchJSON(`${baseWithSlash}data/${vol}/citations.json`).catch(() => null);
       const volMeta = await fetchJSON(`${baseWithSlash}data/${vol}/meta/${vol}.json`);
       const lookup = await fetchJSON(`${baseWithSlash}data/${vol}/lookup/${vol}-id-to-block.json`);
       const pos = lookup[idParam];
@@ -194,6 +250,17 @@ const dataBase = `${baseWithSlash}data`;
       const positionLabel =
         blockIdx >= 0 ? `bloco ${blockIdx + 1} · item ${idxInBlock + 1}` : `item ${idxInBlock + 1}`;
       renderEntry(entry, volumeTitle, positionLabel);
+      citationsIndexPromise.then(async (sidecar) => {
+        if (!sidecar) return;
+        if (sidecar.sharded && sidecar.shard_path_template) {
+          const blockName = blockFile.split("/").pop();
+          const relative = sidecar.shard_path_template.replace("{block_file}", blockName);
+          const shard = await fetchJSON(`${baseWithSlash}data/${vol}/${relative}`).catch(() => null);
+          renderCitations(shard?.entries?.[idParam] || []);
+          return;
+        }
+        renderCitations(sidecar.entries?.[idParam] || []);
+      });
     }
 
     load().catch((err) => {

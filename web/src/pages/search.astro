@@ -59,6 +59,24 @@ const dataBase = `${baseWithSlash}data`;
         </div>
       </header>
 
+      <section
+        id="morphology-panel"
+        class="morphology-panel"
+        aria-labelledby="morphology-title"
+        aria-live="polite"
+        hidden
+      >
+        <div class="morphology-header">
+          <div>
+            <p class="eyebrow morphology-label">Analisador morfológico</p>
+            <h3 id="morphology-title" class="morphology-title">Identificando a forma latina</h3>
+          </div>
+          <span id="morphology-state" class="morphology-state">Carregando</span>
+        </div>
+        <p id="morphology-summary" class="muted morphology-summary"></p>
+        <div id="morphology-results" class="morphology-results"></div>
+      </section>
+
       <div id="results" class="results-list" aria-live="polite" aria-atomic="false">
         <div class="loading-state" role="status"><span class="loading-dot" aria-hidden="true"></span> Preparando o dicionário…</div>
       </div>
@@ -78,6 +96,11 @@ const dataBase = `${baseWithSlash}data`;
     const pageSizeSel = document.getElementById("page-size");
     const filtersRoot = document.querySelector("aside[aria-label='Filtros']");
     const datalist = document.getElementById("suggestions");
+    const morphologyPanel = document.getElementById("morphology-panel");
+    const morphologyTitle = document.getElementById("morphology-title");
+    const morphologyState = document.getElementById("morphology-state");
+    const morphologySummary = document.getElementById("morphology-summary");
+    const morphologyResults = document.getElementById("morphology-results");
 
     let letterNodes = [];
     let morfNodes = [];
@@ -86,6 +109,12 @@ const dataBase = `${baseWithSlash}data`;
     let renderSequence = 0;
     let debounceTimer = null;
     let pagefindPromise = null;
+    let morphologyWorker = null;
+    let morphologyReady = false;
+    let morphologyUnavailable = false;
+    let morphologyRequestId = 0;
+    const morphologyCache = new Map();
+    const morphologyPending = new Map();
 
     const state = {
       term: "",
@@ -101,6 +130,255 @@ const dataBase = `${baseWithSlash}data`;
         .toLocaleLowerCase("la")
         .replace(/\s+/g, " ")
         .trim();
+    }
+
+    function morphologyKey(value) {
+      return String(value || "")
+        .normalize("NFC")
+        .toLocaleLowerCase("la")
+        .replace(/\s+/g, " ")
+        .trim();
+    }
+
+    function isMorphologyCandidate(value) {
+      const term = morphologyKey(value);
+      return term.length > 0 && term.length <= 64 &&
+        term.split(" ").length <= 2 && /^[\p{L}\p{M}'’-]+(?:\s+[\p{L}\p{M}'’-]+)?$/u.test(term);
+    }
+
+    const morphologyLabels = {
+      partOfSpeech: {
+        noun: "substantivo",
+        verb: "verbo",
+        adjective: "adjetivo",
+        adverb: "advérbio",
+        pronoun: "pronome",
+        preposition: "preposição",
+        conjunction: "conjunção",
+        interjection: "interjeição",
+        numeral: "numeral",
+        participle: "particípio",
+        supine: "supino",
+      },
+      case: {
+        nominative: "nominativo",
+        genitive: "genitivo",
+        dative: "dativo",
+        accusative: "acusativo",
+        ablative: "ablativo",
+        vocative: "vocativo",
+        locative: "locativo",
+      },
+      number: {singular: "singular", plural: "plural"},
+      gender: {masculine: "masculino", feminine: "feminino", neuter: "neutro", common: "comum"},
+      tense: {
+        present: "presente",
+        imperfect: "imperfeito",
+        future: "futuro",
+        perfect: "perfeito",
+        pluperfect: "mais-que-perfeito",
+        "future-perfect": "futuro perfeito",
+      },
+      voice: {active: "voz ativa", passive: "voz passiva"},
+      mood: {
+        indicative: "indicativo",
+        subjunctive: "subjuntivo",
+        imperative: "imperativo",
+        infinitive: "infinitivo",
+        participle: "particípio",
+      },
+      degree: {positive: "grau positivo", comparative: "comparativo", superlative: "superlativo"},
+    };
+
+    function translated(group, value) {
+      return morphologyLabels[group]?.[value] || String(value || "").replaceAll("-", " ");
+    }
+
+    function morphologyDescription(morphology) {
+      const parts = [];
+      if (morphology.declension) parts.push(`${morphology.declension}ª declinação`);
+      if (morphology.conjugation) parts.push(`${morphology.conjugation}ª conjugação`);
+      ["case", "number", "gender", "tense", "voice", "mood", "degree"].forEach((key) => {
+        if (morphology[key]) parts.push(translated(key, morphology[key]));
+      });
+      if (morphology.person) parts.push(`${morphology.person}ª pessoa`);
+      return [...new Set(parts)].join(" · ") || "forma reconhecida";
+    }
+
+    function analysisItems(analysisDocument) {
+      const items = [...(analysisDocument?.hits || [])];
+      (analysisDocument?.suggestions || []).forEach((suggestion) => {
+        (suggestion.segments || []).forEach((segment) => items.push(...(segment.hits || [])));
+      });
+      return items;
+    }
+
+    function extractMorphologyLemmas(analysisDocument) {
+      const seen = new Set();
+      return analysisItems(analysisDocument).flatMap((analysis) => {
+        const label = String(analysis.lemma || "").trim();
+        const key = normalizeLemma(label);
+        if (!key || seen.has(key)) return [];
+        seen.add(key);
+        return [{key, label}];
+      });
+    }
+
+    function setMorphologyLoading(term) {
+      morphologyPanel.hidden = false;
+      morphologyTitle.textContent = `Analisando “${term}”`;
+      morphologyState.textContent = morphologyReady ? "Analisando" : "Carregando";
+      morphologyState.className = "morphology-state morphology-state--loading";
+      morphologySummary.textContent = morphologyReady
+        ? "Identificando a forma e os lemas antes de ampliar a consulta…"
+        : "O analisador carrega em segundo plano. A pesquisa no dicionário continua disponível.";
+      morphologyResults.replaceChildren();
+    }
+
+    function setMorphologyUnavailable(term) {
+      if (!isMorphologyCandidate(term)) return;
+      morphologyPanel.hidden = false;
+      morphologyTitle.textContent = "Análise morfológica indisponível";
+      morphologyState.textContent = "Opcional";
+      morphologyState.className = "morphology-state morphology-state--muted";
+      morphologySummary.textContent = "A consulta principal continua funcionando normalmente pelo índice do dicionário.";
+      morphologyResults.replaceChildren();
+    }
+
+    function renderMorphology(analysisDocument, lemmas, term) {
+      morphologyPanel.hidden = false;
+      morphologyTitle.textContent = `Análise de “${term}”`;
+      morphologyResults.replaceChildren();
+
+      const items = analysisItems(analysisDocument);
+      if (analysisDocument?.status !== "analyzed" || items.length === 0) {
+        morphologyState.textContent = "Não identificada";
+        morphologyState.className = "morphology-state morphology-state--muted";
+        morphologySummary.textContent = "Nenhuma forma latina foi reconhecida. A pesquisa textual continua abaixo.";
+        return;
+      }
+
+      morphologyState.textContent = "Identificada";
+      morphologyState.className = "morphology-state morphology-state--ready";
+      const lemmaNames = lemmas.map(({label}) => label);
+      morphologySummary.textContent = lemmaNames.length
+        ? `${items.length} ${items.length === 1 ? "leitura possível" : "leituras possíveis"}. ` +
+          `O Pagefind também pesquisa ${lemmaNames.length === 1 ? "o lema" : "os lemas"} ${lemmaNames.join(", ")}.`
+        : `${items.length} ${items.length === 1 ? "leitura possível" : "leituras possíveis"}, sem lema lexical para ampliar a pesquisa.`;
+
+      const groups = new Map();
+      items.forEach((analysis) => {
+        const lemma = analysis.lemma || (analysis.artificial ? `Número romano ${analysis.artificial.value}` : "Forma reconhecida");
+        const groupKey = `${analysis.partOfSpeech}:${analysis.lexemeId ?? lemma}`;
+        if (!groups.has(groupKey)) groups.set(groupKey, {lemma, partOfSpeech: analysis.partOfSpeech, forms: []});
+        const description = morphologyDescription(analysis.morphology || {});
+        const group = groups.get(groupKey);
+        if (!group.forms.includes(description)) group.forms.push(description);
+      });
+
+      [...groups.values()].slice(0, 6).forEach((group) => {
+        const card = document.createElement("article");
+        card.className = "morphology-card";
+        const cardHeader = document.createElement("div");
+        cardHeader.className = "morphology-card-header";
+        const heading = document.createElement("h4");
+        heading.textContent = group.lemma;
+        const badge = document.createElement("span");
+        badge.className = "badge";
+        badge.textContent = translated("partOfSpeech", group.partOfSpeech);
+        cardHeader.append(heading, badge);
+        const forms = document.createElement("ul");
+        forms.className = "morphology-forms";
+        group.forms.slice(0, 6).forEach((description) => {
+          const item = document.createElement("li");
+          item.textContent = description;
+          forms.appendChild(item);
+        });
+        if (group.forms.length > 6) {
+          const item = document.createElement("li");
+          item.className = "muted";
+          item.textContent = `mais ${group.forms.length - 6} possibilidades`;
+          forms.appendChild(item);
+        }
+        card.append(cardHeader, forms);
+        morphologyResults.appendChild(card);
+      });
+    }
+
+    function startMorphologyWorker() {
+      if (morphologyWorker || morphologyUnavailable) return morphologyWorker;
+      try {
+        morphologyWorker = new Worker(`${assetBase}words/analysis-worker.mjs`, {
+          type: "module",
+          name: "words-morphology",
+        });
+        morphologyWorker.addEventListener("message", handleMorphologyMessage);
+        morphologyWorker.addEventListener("error", (event) => {
+          event.preventDefault();
+          morphologyUnavailable = true;
+          morphologyWorker?.terminate();
+          morphologyWorker = null;
+          setMorphologyUnavailable(state.term.trim());
+        });
+        morphologyWorker.postMessage({type: "init", assetBase: `${assetBase}words/`});
+      } catch {
+        morphologyUnavailable = true;
+      }
+      return morphologyWorker;
+    }
+
+    function requestMorphology(term) {
+      const key = morphologyKey(term);
+      if (!isMorphologyCandidate(term)) {
+        morphologyPanel.hidden = true;
+        return;
+      }
+      if (morphologyCache.has(key)) {
+        const cached = morphologyCache.get(key);
+        renderMorphology(cached.document, cached.lemmas, term);
+        return;
+      }
+      if (morphologyUnavailable) {
+        setMorphologyUnavailable(term);
+        return;
+      }
+
+      setMorphologyLoading(term);
+      const worker = startMorphologyWorker();
+      if (!worker || morphologyPending.has(key)) return;
+      const requestId = ++morphologyRequestId;
+      morphologyPending.set(key, requestId);
+      worker.postMessage({type: "analyze", requestId, term, assetBase: `${assetBase}words/`});
+    }
+
+    function handleMorphologyMessage(event) {
+      const message = event.data || {};
+      if (message.type === "ready") {
+        morphologyReady = true;
+        if (isMorphologyCandidate(state.term) && !morphologyCache.has(morphologyKey(state.term))) {
+          setMorphologyLoading(state.term.trim());
+        }
+        return;
+      }
+      if (message.type === "unavailable") {
+        morphologyUnavailable = true;
+        setMorphologyUnavailable(state.term.trim());
+        return;
+      }
+      if (message.type === "analysis-error") {
+        morphologyPending.delete(morphologyKey(message.term));
+        if (morphologyKey(message.term) === morphologyKey(state.term)) setMorphologyUnavailable(state.term.trim());
+        return;
+      }
+      if (message.type !== "analysis") return;
+
+      const key = morphologyKey(message.term);
+      morphologyPending.delete(key);
+      const lemmas = extractMorphologyLemmas(message.document);
+      morphologyCache.set(key, {document: message.document, lemmas});
+      if (key !== morphologyKey(state.term)) return;
+      renderMorphology(message.document, lemmas, state.term.trim());
+      if (lemmas.length > 0) render({preserveResults: true});
     }
 
     async function fetchJSON(url) {
@@ -414,36 +692,52 @@ const dataBase = `${baseWithSlash}data`;
           ...baseOptions,
           sort: { lemma: "asc" },
         });
-        return { results: response?.results || [], exactIds: new Set() };
+        return { results: response?.results || [], exactIds: new Set(), morphologyMatches: new Map() };
       }
 
       const exactKey = normalizeLemma(term);
-      const [exactResponse, broadResponse] = await Promise.all([
+      const cachedMorphology = morphologyCache.get(morphologyKey(term));
+      const morphologyLemmas = (cachedMorphology?.lemmas || []).filter(({key}) => key !== exactKey);
+      const [exactResponse, broadResponse, ...lemmaResponses] = await Promise.all([
         exactKey
           ? pagefind.search(null, { filters: filterExpression({ lemma_exact: [exactKey] }) })
           : Promise.resolve({ results: [] }),
         pagefind.search(term, baseOptions),
+        ...morphologyLemmas.map(({key}) =>
+          pagefind.search(null, {filters: filterExpression({lemma_exact: [key]})})
+        ),
       ]);
 
       const exactResults = exactResponse?.results || [];
       const broadResults = broadResponse?.results || [];
       const exactIds = new Set(exactResults.map((result) => result.id));
+      const morphologyMatches = new Map();
+      const morphologyResults = [];
+      lemmaResponses.forEach((response, index) => {
+        (response?.results || []).forEach((result) => {
+          morphologyResults.push(result);
+          if (!morphologyMatches.has(result.id)) morphologyMatches.set(result.id, new Set());
+          morphologyMatches.get(result.id).add(morphologyLemmas[index].label);
+        });
+      });
       const seen = new Set();
-      const merged = [...exactResults, ...broadResults].filter((result) => {
+      const merged = [...exactResults, ...morphologyResults, ...broadResults].filter((result) => {
         if (seen.has(result.id)) return false;
         seen.add(result.id);
         return true;
       });
-      return { results: merged, exactIds };
+      return { results: merged, exactIds, morphologyMatches };
     }
 
     function volumeTitle(volumeId) {
       return volumes.find((volume) => String(volume.volume_id ?? volume.id) === String(volumeId))?.title || volumeId || "";
     }
 
-    function renderCard(hit, isExact) {
+    function renderCard(hit, category, relatedLemmas = []) {
+      const isExact = category === "exact";
+      const isMorphology = category === "morphology";
       const card = document.createElement("article");
-      card.className = `result-card${isExact ? " result-card--exact" : ""}`;
+      card.className = `result-card${isExact ? " result-card--exact" : ""}${isMorphology ? " result-card--morphology" : ""}`;
 
       const heading = document.createElement("h3");
       heading.className = "result-title";
@@ -459,6 +753,12 @@ const dataBase = `${baseWithSlash}data`;
         exactBadge.className = "badge badge--exact";
         exactBadge.textContent = "Entrada exata";
         meta.appendChild(exactBadge);
+      }
+      if (isMorphology) {
+        const morphologyBadge = document.createElement("span");
+        morphologyBadge.className = "badge badge--morphology";
+        morphologyBadge.textContent = `Lema reconhecido: ${relatedLemmas.join(", ")}`;
+        meta.appendChild(morphologyBadge);
       }
       if (hit.meta?.morfologia) {
         const morphologyBadge = document.createElement("button");
@@ -535,18 +835,23 @@ const dataBase = `${baseWithSlash}data`;
       return pagination;
     }
 
-    async function render() {
+    async function render({preserveResults = false} = {}) {
       const sequence = ++renderSequence;
       const term = state.term.trim();
       const hasFilters = Object.keys(state.filters).length > 0;
 
+      if (term) requestMorphology(term);
+      else morphologyPanel.hidden = true;
+
       resultsTitle.textContent = term ? `Resultados para “${term}”` : hasFilters ? "Verbetes filtrados" : "Índice alfabético";
       resultsSummary.textContent = "Consultando o índice…";
-      resultsEl.innerHTML = '<div class="loading-state" role="status"><span class="loading-dot" aria-hidden="true"></span> Buscando…</div>';
+      if (!preserveResults) {
+        resultsEl.innerHTML = '<div class="loading-state" role="status"><span class="loading-dot" aria-hidden="true"></span> Buscando…</div>';
+      }
 
       try {
         const pagefind = await ensurePagefind();
-        const { results, exactIds } = await searchRecords(pagefind, term);
+        const { results, exactIds, morphologyMatches } = await searchRecords(pagefind, term);
         if (sequence !== renderSequence) return;
 
         const total = results.length;
@@ -572,24 +877,37 @@ const dataBase = `${baseWithSlash}data`;
         const pageRows = results.slice(start, end);
         const hits = await Promise.all(pageRows.map(async (result) => ({
           data: await result.data(),
-          exact: exactIds.has(result.id),
+          category: exactIds.has(result.id)
+            ? "exact"
+            : morphologyMatches.has(result.id) ? "morphology" : "broad",
+          relatedLemmas: [...(morphologyMatches.get(result.id) || [])],
         })));
         if (sequence !== renderSequence) return;
 
-        resultsSummary.textContent = `${total.toLocaleString("pt-BR")} ${total === 1 ? "verbete" : "verbetes"} · exibindo ${start + 1}–${end}`;
+        const expandedLemmas = morphologyCache.get(morphologyKey(term))?.lemmas || [];
+        const expansionSummary = expandedLemmas.length
+          ? ` · consulta ampliada por ${expandedLemmas.map(({label}) => label).join(", ")}`
+          : "";
+        resultsSummary.textContent = `${total.toLocaleString("pt-BR")} ${total === 1 ? "verbete" : "verbetes"} · exibindo ${start + 1}–${end}${expansionSummary}`;
         resultsEl.innerHTML = "";
 
         if (totalPages > 1) resultsEl.appendChild(createPagination(totalPages));
         const list = document.createElement("div");
         list.className = "result-cards";
         hits.forEach((hit, index) => {
-          if (index > 0 && hits[index - 1].exact && !hit.exact) {
+          if (hit.category !== hits[index - 1]?.category && hit.category === "morphology") {
+            const divider = document.createElement("p");
+            divider.className = "result-group-label";
+            divider.textContent = "Verbetes dos lemas identificados";
+            list.appendChild(divider);
+          }
+          if (index > 0 && hit.category !== hits[index - 1]?.category && hit.category === "broad") {
             const divider = document.createElement("p");
             divider.className = "result-group-label";
             divider.textContent = "Outras ocorrências e formas relacionadas";
             list.appendChild(divider);
           }
-          list.appendChild(renderCard(hit.data, hit.exact));
+          list.appendChild(renderCard(hit.data, hit.category, hit.relatedLemmas));
         });
         resultsEl.appendChild(list);
         if (totalPages > 1) resultsEl.appendChild(createPagination(totalPages));
@@ -633,5 +951,7 @@ const dataBase = `${baseWithSlash}data`;
     });
 
     loadFilters().finally(() => render());
+    const scheduleMorphology = window.requestIdleCallback || ((callback) => window.setTimeout(callback, 800));
+    scheduleMorphology(() => startMorphologyWorker());
   </script>
 </Layout>
