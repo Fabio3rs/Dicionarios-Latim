@@ -21,6 +21,7 @@ const dataBase = `${baseWithSlash}data`;
   </section>
 
   <script type="module" define:vars={{ baseWithSlash, dataBase }}>
+    const { cleanCitationPassage } = await import(`${baseWithSlash}citation-view.mjs`);
     const params = new URLSearchParams(window.location.search);
     const volParam = params.get("vol");
     const idParam = params.get("id");
@@ -91,7 +92,7 @@ const dataBase = `${baseWithSlash}data`;
 
         const passage = document.createElement("blockquote");
         passage.className = "citation-passage";
-        passage.textContent = citation.passage?.text || "Passagem indisponível.";
+        passage.textContent = cleanCitationPassage(citation.passage?.text) || "Passagem indisponível.";
         details.appendChild(passage);
 
         const surfaces = [...new Set(

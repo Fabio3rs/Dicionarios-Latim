@@ -96,6 +96,20 @@ export function decompositionDescription(hit) {
   return [...before, recognized, ...after].join(" + ");
 }
 
+export function suggestionDescriptions(document) {
+  return (document?.suggestions || []).flatMap((suggestion) => {
+    const parts = (suggestion.segments || []).map((segment) => {
+      const decompositions = [...new Set(
+        (segment.hits || []).map(decompositionDescription).filter(Boolean),
+      )];
+      return decompositions.find((value) => value.includes(" + ")) ||
+        decompositions[0] || String(segment.text || "").trim();
+    }).filter(Boolean);
+    if (parts.length === 0) return [];
+    return [{method: suggestion.method, description: parts.join(" + ")}];
+  });
+}
+
 function normalizeLemmaKey(value) {
   return String(value || "")
     .normalize("NFD")
@@ -107,6 +121,7 @@ function normalizeLemmaKey(value) {
 
 export function buildAnalysisView(document) {
   const items = analysisItems(document);
+  const suggestions = suggestionDescriptions(document);
   const lemmaKeys = new Set();
   const lemmas = [];
   const grouped = new Map();
@@ -149,5 +164,10 @@ export function buildAnalysisView(document) {
     if (!group.forms.includes(description)) group.forms.push(description);
   }
 
-  return {itemsCount: items.length, lemmas, groups: [...grouped.values()]};
+  return {
+    itemsCount: items.length,
+    suggestions,
+    lemmas,
+    groups: [...grouped.values()],
+  };
 }

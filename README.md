@@ -136,6 +136,35 @@ Organizam as rotinas de dedupe, morfologia, OCR e export que operam direto sobre
 * `resultados/` — arquivos de saída de análises e SQL final para ingestão.
 * `scripts/` — todos os scripts Python descritos acima.
 
+### Auditoria e plano de recuperação
+
+Uma auditoria local realizada em 2026-08-26 identificou diferenças entre os
+artefatos disponíveis, limitações nas camadas do PDF, perda de proveniência de
+página e campos estruturados que não chegam aos exports. Consulte:
+
+* [`dicionarios/docs/auditoria_sessao_2026-08-26.md`](dicionarios/docs/auditoria_sessao_2026-08-26.md) — estado observado, métricas, hashes e riscos.
+* [`dicionarios/docs/plano_recuperacao_faria.md`](dicionarios/docs/plano_recuperacao_faria.md) — roteiro proposto para reconstrução das páginas, merge de fontes, parsing e migração.
+
+Até a execução desse plano, descrições anteriores de arquitetura devem ser
+lidas como intenção de projeto, não necessariamente como retrato exato dos
+bancos presentes no diretório.
+
+### Faria v3: candidato de qualidade
+
+O artefato `resultados/faria-v3/faria-v3-quality.sqlite` implementa o schema
+`faria-v3-release-5` e é o **candidato atual materializado e validado, pronto
+para decisão de promoção**. Ele ainda não substitui a fonte usada pela
+publicação e não é um release público ou online.
+
+O candidato contém 33.808 entradas, expõe 31.729 verbetes lexicais em
+`public_entry`, 153 remissões resolvidas em `public_alias`, 14 rotas especiais
+em `public_cross_reference_route` e mantém 1.901 entradas como bloqueadores
+editoriais. Também classifica e exporta para revisão as 11.545 citações conforme
+presença no dataset, materialização da passagem, suporte do localizador e
+integridade da referência.
+Veja o
+[`relatório do candidato release 5`](dicionarios/docs/faria_v3_release_5_quality_candidate_2026-08-29.md).
+
 ---
 
 ## 🚀 Instalação e Configuração
@@ -191,6 +220,31 @@ cd web && npm run search:index   # ou make search-index
 cd web && npm run build
 ```
 
+As citações bibliográficas do v2 são preservadas a partir de
+`raw_json.exemplos`. Passagens latinas confirmadas podem ser acrescentadas sem
+publicar o candidato v3:
+
+```bash
+make data-citations-v2
+```
+
+Esse alvo gera um índice leve em `web/public/data/faria/citations.json` e os
+sidecars por bloco em `web/public/data/faria/citations/`, a partir do
+`resultados/faria-v2/citations-public/citations.sqlite` materializado. As claims
+vêm diretamente dos verbetes públicos de `retificado_v2.db`: o candidato v3 não
+participa do cruzamento. Só entram passagens com resolução exata e forma ligada
+ao lema pelo mesmo `lexemeId` do WordsWASM v0.2, usando o WWDB `search-only`;
+definições do WORDS e conteúdo lexical do v3 não são copiados. O visualizador
+carrega o sidecar de forma opcional, depois de mostrar o verbete; indisponibilidade
+das passagens não bloqueia a consulta do dicionário. O particionamento evita
+baixar o conjunto integral de passagens em cada consulta.
+
+Os artefatos auditáveis e relatórios intermediários ficam em
+`resultados/faria-v2/`. O lote atual preserva 52.420 claims públicas, 10.015
+resoluções estruturalmente exatas e 5.351 passagens atestadas materializáveis no
+SQLite portátil (267 atestações adicionais ficaram de fora porque seus offsets
+não puderam ser projetados com segurança para o testemunho publicado).
+
 Arquivos produzidos:
 * `resultados/normalized_results_v2.json` — export direto do `retificado_v2.db`
 * `resultados/shards/<vol>/shard_*.ndjson` + `index.json`
@@ -199,7 +253,9 @@ Arquivos produzidos:
 * `web/public/pagefind/` — índice de busca (não versionado)
 
 ### Estrutura de Dados (resumo)
-* `retificado_v2.db` — fonte canônica do Faria (pós-dedupe/normalização)
+* `retificado_v2.db` — fonte da publicação existente (pós-dedupe/normalização)
+* `resultados/faria-v3/faria-v3-quality.sqlite` — candidato v3 release 5,
+  materializado e validado, pronto para decisão de promoção
 * `ls_dict.db` / `gaffiot.db` — dicionários de referência
 * `lexicon.db` — ingestão final com FTS5 (derivado do JSON normalizado)
 

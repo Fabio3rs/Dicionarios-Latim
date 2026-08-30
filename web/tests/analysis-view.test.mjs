@@ -5,6 +5,7 @@ import {
   buildAnalysisView,
   decompositionDescription,
   derivationDescription,
+  suggestionDescriptions,
 } from "../public/words/analysis-view.mjs";
 
 function form(recognized) {
@@ -158,6 +159,55 @@ test("shows packons as a separated final element", () => {
     }),
     "cuius + -que",
   );
+});
+
+test("presents a two-word suggestion with an enclitic on its final segment", () => {
+  const document = {
+    hits: [],
+    suggestions: [{
+      method: "two-words",
+      splitAt: 3,
+      classification: "unconstrained",
+      segments: [
+        {
+          text: "res",
+          hits: [{
+            kind: "lexical",
+            lexemeId: 1,
+            lemma: "res",
+            partOfSpeech: "noun",
+            form: form("res"),
+            morphology: {kind: "noun", case: "nominative", number: "singular"},
+            derivation: {method: "regular", steps: []},
+          }],
+        },
+        {
+          text: "publicaque",
+          hits: [{
+            kind: "lexical",
+            lexemeId: 2,
+            lemma: "publicus",
+            partOfSpeech: "adjective",
+            form: form("publica"),
+            morphology: {kind: "adjective", case: "nominative", number: "singular"},
+            derivation: {
+              method: "derived",
+              steps: [{kind: "addon", id: 314, type: "tackon", text: "que"}],
+            },
+          }],
+        },
+      ],
+    }],
+  };
+
+  assert.deepEqual(suggestionDescriptions(document), [{
+    method: "two-words",
+    description: "res + publica + -que",
+  }]);
+  const view = buildAnalysisView(document);
+  assert.equal(view.itemsCount, 2);
+  assert.equal(view.groups.length, 2);
+  assert.equal(view.suggestions[0].description, "res + publica + -que");
 });
 
 test("normalizes quantities in lemma keys used by Pagefind", () => {

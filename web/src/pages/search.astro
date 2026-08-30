@@ -220,20 +220,36 @@ const dataBase = `${baseWithSlash}data`;
       morphologyTitle.textContent = `Análise de “${term}”`;
       morphologyResults.replaceChildren();
 
-      if (analysisDocument?.status !== "analyzed" || view.itemsCount === 0) {
+      const isAnalyzed = analysisDocument?.status === "analyzed" && view.itemsCount > 0;
+      const hasSuggestion = view.suggestions.length > 0 && view.itemsCount > 0;
+      if (!isAnalyzed && !hasSuggestion) {
         morphologyState.textContent = "Não identificada";
         morphologyState.className = "morphology-state morphology-state--muted";
         morphologySummary.textContent = "Nenhuma forma latina foi reconhecida. A pesquisa textual continua abaixo.";
         return;
       }
 
-      morphologyState.textContent = "Identificada";
+      morphologyState.textContent = isAnalyzed ? "Identificada" : "Separação possível";
       morphologyState.className = "morphology-state morphology-state--ready";
       const lemmaNames = view.lemmas.map(({label}) => label);
-      morphologySummary.textContent = lemmaNames.length
-        ? `${view.itemsCount} ${view.itemsCount === 1 ? "leitura possível" : "leituras possíveis"}. ` +
-          `O Pagefind também pesquisa ${lemmaNames.length === 1 ? "o lema" : "os lemas"} ${lemmaNames.join(", ")}.`
-        : `${view.itemsCount} ${view.itemsCount === 1 ? "leitura possível" : "leituras possíveis"}, sem lema lexical para ampliar a pesquisa.`;
+      const pagefindSummary = lemmaNames.length
+        ? `O Pagefind também pesquisa ${lemmaNames.length === 1 ? "o lema" : "os lemas"} ${lemmaNames.join(", ")}.`
+        : "Não há lema lexical para ampliar a pesquisa.";
+      morphologySummary.textContent = isAnalyzed
+        ? `${view.itemsCount} ${view.itemsCount === 1 ? "leitura possível" : "leituras possíveis"}. ${pagefindSummary}`
+        : `A forma completa não foi reconhecida como uma única palavra. ` +
+          `O analisador encontrou uma separação possível. ${pagefindSummary}`;
+
+      view.suggestions.forEach(({description}) => {
+        const suggestion = document.createElement("p");
+        suggestion.className = "morphology-suggestion";
+        const suggestionLabel = document.createElement("span");
+        suggestionLabel.textContent = "Segmentação sugerida";
+        const suggestionValue = document.createElement("strong");
+        suggestionValue.textContent = description;
+        suggestion.append(suggestionLabel, suggestionValue);
+        morphologyResults.appendChild(suggestion);
+      });
 
       view.groups.slice(0, 6).forEach((group) => {
         const card = document.createElement("article");
